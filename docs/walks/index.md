@@ -23,8 +23,8 @@ Local Identities:
 
 - [Founding Fathers](founding-fathers.md) - Members of the first Brisbane General Cemetery Trust
 - [Notable Women](notable-women.md) 
-- [Toowong Identities Tour A](toowong-identities-a.md) 
-- [Toowong Identities Tour B](toowong-identities-b.md) 
+- [Toowong Identities Course A](toowong-identities-a.md) - A Heritage Walk to Commemorate the Centenary of the Proclamation of the Town of Toowong in 1903
+- [Toowong Identities Course B](toowong-identities-b.md) - A Heritage Walk to Commemorate the Centenary of the Proclamation of the Town of Toowong in 1903
 
 Politics: 
 

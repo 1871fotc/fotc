@@ -7,10 +7,12 @@ hide:
 
 ## Getting here
 
-If you're driving to the cemetery, there is plenty of parking inside the cemetery. The cemetery has two entrances:
+If you're driving to the cemetery, it has two entrances:
 
 - The main entrance, on the [corner on Frederick Street and Mt Coot-tha Road, Toowong](https://www.google.com/maps/place/Toowong+Cemetery/@-27.4772749,152.9818283,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!8m2!3d-27.4772714!4d152.9839608) can only be entered via a slip road approaching from the west.
-- The side entrance, opposite [26 Richer St, Toowong](https://www.google.com/maps/place/25+Richer+St,+Toowong+QLD+4066/@-27.4737507,152.9767263,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150dd31b12cc5:0xc3a1deb2fe09484!8m2!3d-27.4737555!4d152.978915), is easier to access. 
+- The side entrance, opposite [26 Richer St, Toowong](https://www.google.com/maps/place/25+Richer+St,+Toowong+QLD+4066/@-27.4737507,152.9767263,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150dd31b12cc5:0xc3a1deb2fe09484!8m2!3d-27.4737555!4d152.978915), is much easier to access. 
+
+Parking is available inside the cemetery along the roads. Please park on one side.
 
 If you're using public transport to get here, use the [TransLink Journey Planner](https://jp.translink.com.au/plan-your-journey/journey-planner) to plan your trip.
 
@@ -37,6 +39,8 @@ Before you start, plan your walk by looking at the map.
     <figcaption>Toowong Cemetery Map</figcaption>
   </figure>
 </a>
+
+==[Add coloured gradient and slope direction to map](https://www.plotaroute.com/tip/15/how-to-show-gradients-on-a-route-map)==
 
 Points to note: 
 

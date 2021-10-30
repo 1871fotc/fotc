@@ -25,7 +25,7 @@ theme:
   - navigation.tracking
   - navigation.top
   - navigation.tabs
-  - navigation.tabs.sticky
+#  - navigation.tabs.sticky
   - navigation.indexes
   - search.highlight
   - search.suggest
@@ -78,14 +78,14 @@ nav:
     - In their caring hands - A heritage trail to commemorate the role of nurses, doctors and health professionals: walks/in-their-caring-hands.md 
     - Lest We Forget: walks/lest-we-forget.md
     - Lest we forget - Navy Walk: walks/lest-we-forget-navy.md     
-    - Anchors Aweigh! A Maritime Walk through Toowong Cemetery: walks/anchors-aweigh.md
-    - The Thin Blue Line - Queensland Colonial Policing: walks/thin-blue-line.md 
+    - Anchors Aweigh!: walks/anchors-aweigh.md
+    - The Thin Blue Line: walks/thin-blue-line.md 
     - All the world’s a stage: walks/all-the-worlds-a-stage.md 
     - Artists: walks/artists.md 
-    - Founding Fathers - Members of the first Brisbane General Cemetery Trust: walks/founding-fathers.md     
+    - Founding Fathers: walks/founding-fathers.md     
     - Notable Women: walks/notable-women.md    
-    - Toowong Identities Tour Course A: walks/toowong-identities-a.md 
-    - Toowong Identities Tour Course B: walks/toowong-identities-b.md 
+    - Toowong Identities Tour A: walks/toowong-identities-a.md 
+    - Toowong Identities Tour B: walks/toowong-identities-b.md 
     - The Federation Trail: walks/federation-trail.md
     - Governors Past: walks/governors-past.md 
     - Brisbane Mayors: walks/brisbane-mayors.md
@@ -94,7 +94,7 @@ nav:
     - Colonial Conflicts: walks/colonial-conflicts.md     
     - The Irish Trail: walks/irish-trail.md 
     - The Jewish Trail: walks/jewish-trail.md    
-    - With all the company of heaven - A Lutheran Heritage Trail: walks/lutheran-trail.md    
+    - The Lutheran Heritage Trail: walks/lutheran-trail.md    
     - Suffer the children to come unto me: walks/suffer-the-children.md 
     - BCC Toowong Cemetery Tour One: walks/bcc-walk-1.md 
     - BCC Toowong Cemetery Tour Two: walks/bcc-walk-2.md 
