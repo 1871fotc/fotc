@@ -11,7 +11,6 @@ The Friends of Toowong Cemetery have researched and published a large collection
 Walks by profession:
 
 - [Undertakers Underground](undertakers-underground.md) 
-- [Notable Women](notable-women.md) 
 - [In their caring hands](in-their-caring-hands.md) - A heritage trail to commemorate the role of nurses, doctors and health professionals
 - [Lest We Forget](lest-we-forget.md) 
 - [Lest We Forget - Navy Walk](lest-we-forget-navy.md) 
@@ -23,6 +22,7 @@ Walks by profession:
 Local Identities: 
 
 - [Founding Fathers](founding-fathers.md) - Members of the first Brisbane General Cemetery Trust
+- [Notable Women](notable-women.md) 
 - [Toowong Identities Tour A](toowong-identities-a.md) 
 - [Toowong Identities Tour B](toowong-identities-b.md) 
 

@@ -5,7 +5,7 @@ hide:
 
 #  About the Friends of the Toowong Cemetery
 
-The Friends of Toowong Cemetery is a small group of volunteers that shares information with the community about Toowong Cemetery, its history, and the stories of people interred there.
+The Friends of Toowong Cemetery is a small group of volunteers that discovers and shares the history of Toowong Cemetery and the stories of people buried there. 
 
 <!-- photo of members -->
 
@@ -35,6 +35,7 @@ The Friends of Toowong Cemetery have:
 
 The Friends of Toowong Cemetery meet at 6pm on the [last Wednesday of the month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=___1___&cwf=______&holm=1&df=1) (except December) at the Mt Coot-tha Botanical Gardens Auditorium. 
 
+<!-- convert to google form --> 
 Any one can join by completing an [Application form](http://www.fotc.org.au/subset/membership.pdf) and paying the Annual Membership Subscription (inc. GST)
 
 - $11 Individual
@@ -57,7 +58,7 @@ Email: [inquiries@fotc.org.au](mailto://inquiries@fotc.org.au)
 
 Call: [0439998053](0439998053) (if no answer, please leave a brief message and contact number)
 
-Write: Friends of Toowong Cemetery Association Inc.,  PO Box 808, TOOWONG QLD 4066
+Write: Friends of Toowong Cemetery Association Inc.,  PO Box 808, Toowong QLD 4066
 
 ## Our Registrations
 
