@@ -14,7 +14,7 @@ On this site you'll find information about:
 - visiting [the Cemetery](cemetery.md) and learning about its history 
 - monthly [guided heritage walks](guided-walks.md), and [self-guided walks](walks/index.md) 
 - the [biographies](biographies.md) of people who are interred at the cemetery
-- what the [Friends of Toowong Cemetery](about.md) do, how to join in, and how to contact us
+- what the [Friends of Toowong Cemetery](about/index.md) do, how to join in, and how to contact us
 
 <!-- insert photos and map -->
 
