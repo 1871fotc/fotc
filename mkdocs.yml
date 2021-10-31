@@ -8,24 +8,24 @@ theme:
     code: Roboto Mono 
   palette:
   - scheme: default
-    primary: purple
+    primary: deep-purple
     accent: purple
-    toggle:
-      icon: octicons/sun-16
-      name: Switch to light mode
-  - scheme: slate
-    primary: purple
-    accent: purple
-    toggle:
-      icon: octicons/moon-16
-      name: Switch to dark mode
+#    toggle:
+#      icon: octicons/sun-16
+#      name: Switch to light mode
+#  - scheme: slate
+#    primary: purple
+#    accent: purple
+#    toggle:
+#      icon: octicons/moon-16
+#      name: Switch to dark mode
   custom_dir: overrides
   features:
   - navigation.instant
   - navigation.tracking
   - navigation.top
   - navigation.tabs
-#  - navigation.tabs.sticky
+  - navigation.tabs.sticky
   - navigation.indexes
   - search.highlight
   - search.suggest
@@ -65,6 +65,7 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde   
+  - pymdownx.snippets
   
 
 # Page tree - only 2 levels allowed
@@ -75,7 +76,7 @@ nav:
   - Self-Guided Walks:
     - Self-Guided Walks: walks/index.md    
     - Undertakers Underground: walks/undertakers-underground.md
-    - In their caring hands - A heritage trail to commemorate the role of nurses, doctors and health professionals: walks/in-their-caring-hands.md 
+    - In their caring hands: walks/in-their-caring-hands.md 
     - Lest We Forget: walks/lest-we-forget.md
     - Lest we forget - Navy Walk: walks/lest-we-forget-navy.md     
     - Anchors Aweigh!: walks/anchors-aweigh.md
@@ -98,7 +99,8 @@ nav:
     - Suffer the children to come unto me: walks/suffer-the-children.md 
     - BCC Toowong Cemetery Tour One: walks/bcc-walk-1.md 
     - BCC Toowong Cemetery Tour Two: walks/bcc-walk-2.md 
-  - Biographies: biographies.md
+  - Biographies: 
+    - Biographies: bios/index.md
   - About Us: 
     - About Us: about/index.md
     - 140th Anniversary Commemoration: about/140-commemoration.md

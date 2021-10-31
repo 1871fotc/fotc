@@ -18,20 +18,20 @@ If you're using public transport to get here, use the [TransLink Journey Planner
 
 ## When you arrive
 
-At the main entrance you'll find: 
+If you enter main entrance through the front gates, you'll find: 
 
-- The Front Gates
-- Canon Garland Place 
-- the Office
-- the Museum operated by the Friends of Toowong Cemetery. If the museum is closed, staff at the Office will be pleased to open it for you.
-- the departure point for most [self-guided walks](walks/index.md)
-- toilets, the only ones available in the cemetery
+- Canon Garland Place named after [David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for [guided heritage walks](guided-walks.md) and most [self-guided walks](walks/index.md)
+- the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) is open 8am -4pm Monday to Friday. Staff can answer your enquiries, including helping to locate graves and ashes memorial sites.
+- an Educational Museum operated by the Friends of Toowong Cemetery. If the museum is closed, staff at the Office will be pleased to open it for you.
+- toilets, the only ones open in the cemetery.
 
-Near the Richer Street side entrance, ??? metres along Boundart Road (??? Avenue), you'll find a Shelter Shed, the departure point for [guided heritage walks](guided-walks.md). 
-
+If you enter via the Richer Street side entrance, turn left and stay left to drive 850 metres along Boundary Road (??? Avenue) to Canon Garland Place.
+ 
 ## Toowong Cemetery Map
 
-Before you start, plan your walk by looking at the map.  
+Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. 
+
+Before you start, plan your visit by looking at the map.  
 
 <a href="http://www.fotc.org.au/toowong_map.jpg" title="click to expand">
   <figure>
@@ -44,13 +44,16 @@ Before you start, plan your walk by looking at the map.
 
 Points to note: 
 
-- There is a large difference in height between the main entrance and Birdwoood Terrace which runs parallel to the edge of the cemetery. 
+- There is a large difference in height between the main entrance and Birdwood Terrace which runs parallel to the edge of the cemetery. 
 - Fifth Avenue is especially steep.
 - Fourth Avenue is a dead end.
 - Fifteenth Avenue is a dead end but one of the highlights of the cemetery.
 - Some street names in the cemetery have recently changed. Here's how: 
 
 - 1st Avenue is now ??? 
+
+## Museum
+
 
  
 ## About the cemetery
