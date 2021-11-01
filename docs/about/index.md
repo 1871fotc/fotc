@@ -27,7 +27,8 @@ The Friends of Toowong Cemetery:
 
 The Friends of Toowong Cemetery have:
 
-- published *Resource Manual: a guide to visiting Toowong Cemetery*, which is recommended for teachers of school groups visiting the cemetery. It is available at [Brisbane City Council Libraries](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries), the [Paddington Ward Office](https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/lord-mayor-and-councillors/ward-office-locations/paddington-ward), or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
+- published *Resource Manual: a guide to visiting Toowong Cemetery*, which is recommended for teachers of school groups visiting the cemetery. It is available at ==[Brisbane City Council Libraries](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries)==, the [Paddington Ward Office](https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/lord-mayor-and-councillors/ward-office-locations/paddington-ward), or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
+<!-- Not in https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat -->
 <!-- Why not publish the resource for free? -->
 - published *Extraordinary Stories of Ordinary People*, a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. 
 - arranged the celebration of the [140th Anniversary Commemoration of the cemetery](140-commemoration.md) and received a Silver Award in the 2012 National Trust of Queensland Heritage Awards for Volunteer Projects.

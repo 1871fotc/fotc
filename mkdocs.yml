@@ -1,6 +1,12 @@
+# Project information
 site_name: Friends of Toowong Cemetery
-copyright: © 2021 Friends of Toowong Cemetery 
+site_url: https://stephen-gates.github.io/fotc/site/
+site_author: Stephen Gates
+site_description: >-
+  Discover and share our local history
+copyright: © 2000–2021 Friends of Toowong Cemetery 
 
+# Configuration
 theme:
   name: material
   font:
@@ -31,7 +37,11 @@ theme:
   - search.suggest
   - search.share
 
+# Customization
 extra:
+#  analytics:
+#    provider: google
+#    property: !ENV GOOGLE_ANALYTICS_KEY
   generator: false
   social:
     - icon: fontawesome/brands/facebook
@@ -44,9 +54,10 @@ extra:
 #      link: https://creativecommons.org/licenses/by/4.0/
 #      name: CC-BY 4.0 licence
   
-extra_css:
-  - stylesheets/extra.css
-  
+# extra_css:
+#  - stylesheets/extra.css
+
+# Extensions  
 markdown_extensions:
   - toc:
       title: On this page
@@ -67,7 +78,9 @@ markdown_extensions:
   - pymdownx.tilde   
   - pymdownx.snippets
   
-#plugins:
+# Plugins
+# plugins:
+#  - search
 #  - social:
 #      cards_directory: assets/images/social
 
