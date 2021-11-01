@@ -1,4 +1,7 @@
 ---
+title: Friends of Toowong Cemetery
+description: Discovering and sharing our local history
+
 hide:
   - navigation
 ---

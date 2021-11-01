@@ -67,10 +67,10 @@ markdown_extensions:
   - pymdownx.tilde   
   - pymdownx.snippets
   
-plugins:
-  - social
-  
-  
+#plugins:
+#  - social:
+#      cards_directory: assets/images/social
+
 
 # Page tree - only 2 levels allowed
 nav:
