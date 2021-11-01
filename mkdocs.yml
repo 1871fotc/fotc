@@ -25,6 +25,10 @@ theme:
 #    toggle:
 #      icon: octicons/moon-16
 #      name: Switch to dark mode
+  icon:
+    admonition:
+      example: fontawesome/regular/compass
+
   custom_dir: overrides
   features:
   - navigation.instant
@@ -68,6 +72,7 @@ markdown_extensions:
   - def_list
   - footnotes
   - meta
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
