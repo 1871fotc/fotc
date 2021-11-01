@@ -10,7 +10,6 @@ hide:
 
 Cranstone was born in 1822 at Hemel Hempstead, England, the son of Quakers James and Maria Cranstone (nee Le Fevre). In September 1859, he began a nine-month journey through the east and mid-west of the USA. During this journey he prepared 296 watercolor sketches now at Indiana University. The purpose of his trip was to visit cousins who lived in Richmond, Indiana and Virginia. He arrived in Brisbane in the early 1880s with members of his family and created many sketches of early Brisbane including Toowong Cemetery. Le Fevre died on 22 June 1893 aged 71 years.
 
-
 ## Isaac Walter Jenner <small>(5-43-16)</small>
 
 Jenner was born on 18 March 1837 at Brighton, Sussex, son of Thomas Jenner, blacksmith, and his wife Harriet, née Walter. Without known formal education, he worked on oyster boats and signed on for a voyage in Arctic waters. In March 1855 he joined the Royal Navy, serving during the Crimean War in the Black Sea. Discharged in 1865, he learned to paint and worked as a landscape and marine painter in 1873-79 at Brighton and at Hove in 1880- 83. He exhibited at Brighton and once at the Royal Academy. He decided to migrate and reached Brisbane by R.M.S. Roma on 19 September 1883.
@@ -46,7 +45,7 @@ During World War II Vincent worked in a munitions factory until illness forced h
 
 ## Sources
 
-- Bradbury, Keith 'Sheldon, Eliza Jeanettie (1885 - 1974)', Australian Dictionary of Biography, Volume 16, Melbourne University Press, 2002, pp 227-228.
-- Hogan, Janet 'Rivers, Richard Godfrey (1859? - 1925)', Australian Dictionary of Biography, Volume 11, Melbourne University Press, 1988, pp 397-398.
-- Maynard, Margaret 'Jenner, Isaac Walter (1837 - 1902)', Australian Dictionary of Biography, Volume 9, Melbourne University Press, 1983, p. 480.
-- Smith, Donald Lefevre James Cranstone : his life and art, Richmond, Virginia. : Brandylane Publishers, 2004.
+- Bradbury, Keith, *Sheldon, Eliza Jeanettie (1885 - 1974)*, Australian Dictionary of Biography, Volume 16, Melbourne University Press, 2002, pp 227-228.
+- Hogan, Janet, *Rivers, Richard Godfrey (1859? - 1925)*, Australian Dictionary of Biography, Volume 11, Melbourne University Press, 1988, pp 397-398.
+- Maynard, Margaret, *Jenner, Isaac Walter (1837 - 1902)*, Australian Dictionary of Biography, Volume 9, Melbourne University Press, 1983, p. 480.
+- Smith, Donald, *Lefevre James Cranstone : his life and art*, Richmond, Virginia : Brandylane Publishers, 2004.

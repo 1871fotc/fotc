@@ -1,6 +1,62 @@
 ---
+date:  7 Nov 2010
 hide:
   - navigation
 ---
 
 # Lest We Forget
+
+Remembrance Day Service and Guided Walk conducted on the 7th November 2010 Toowong Cemetery.
+
+Service arranged by [Gavin Stoneley](https://www.linkedin.com/in/gavin-stoneley-a1569234/?originalSubdomain=au) Metropolitan Funerals. Address given by [Rod Schafferius](https://www.rodschafferius.com.au/index.html).
+
+Those represented on this walk are only a [men and women who gave their lives in service to this country who are either buried or memorialised at Toowong Cemetery](https://www.cwgc.org/find-records/find-war-dead/search-results/?CemeteryExact=true&Cemetery=BRISBANE%20GENERAL%20(TOOWONG)%20CEMETERY&Size=100&Page=1).
+
+## Soldiers’ Memorial
+
+The [Cross of Sacrifice and Stone of Remembrance](https://monumentaustralia.org.au/themes/conflict/ww1/display/92701-cross-of-sacrifice-and-stone-of-remembrance) were unveiled on Anzac Day, 1924, by the Governor‑General, Lord Forster. The Stone of Remembrance is a solid block of Helidon sandstone weighing ten tons. The unveiling ceremony was attended by several thousand people, including relatives of soldiers killed overseas and many dignitaries. The Citizens’ Band provided music as the public laid wreaths at the Stone. So many floral tributes were deposited, that the stone was completely covered. One was even dropped from a plane circling above. The inscription THEIR NAME LIVETH EVERMORE was chosen by Rudyard Kipling and is found on the Stone of Remembrance in every Commonwealth War Cemetery.
+
+## ‘A’ Battery Memorial
+
+Prior to Federation each of the Australian colonies maintained its own defence force. These forces were largely comprised of part‑time volunteers and a small number of permanent officers and men. This memorial is to the men of Queensland’s permanent force ‘A’ Battery, Queensland Artillery. All of those named on the memorial died while serving in the Battery, but only one, Driver Sydney Walker, died while on active service. Walker was serving on the 1st Queensland Contingent to the South African War when he died of enteric fever at Bloemfontein. This monument was established in April 1886. A number of soldiers named on the memorial are buried nearby.
+
+## Caskey Memorial
+
+Unveiled in May 1902, this is the first known monument to the South African War to be erected in Queensland. Lieutenant John Caskey of the Fifth Queensland Imperial Bushmen was killed in action on 27 September 1901 at the Mokari Drift on the Caledon River. The obelisk, made of white Helidon sandstone and draped by a shroud, features emblems of Caskey’s teaching career at Leichhardt Street School, Brisbane and Spring Creek and his sporting interests. A rare memorial to the Anglo‑Boer conflict, this monument is a significant reminder of emerging nationalism and contemporary attitudes to war. Other monuments to him can be found at Clifton RSL and the Allora State School.
+
+## Portion 10
+
+This portion contains numerous Commonwealth War Graves. Flowers were cultivated and sold at the Cemetery from Portion 10 until the 1930s. In 1934 the area set apart for soldiers’ graves within Portion 10 was extended to incorporate the flower gardens and the wooden pavilion was demolished. As the military graves were interspersed amongst civilian burials, this portion lacks the formality of a Commonwealth War Cemetery.
+
+## Private Hugh Vernon Brookes MM <small>(10‑71‑8)</small>
+
+Private Brookes enlisted in the AIF in September 1915 and was deployed with the 49th Battalion to France via Alexandria. He was awarded the Military Medal on 24 January 1917 for “bravery in the Field”. Shortly afterwards he was docked two day’s pay for being Absent Without Leave. This wasn’t the last time Brookes was AWOL. In June 1918, he was wounded in action and gassed. He was transferred to hospital in England. At Salisbury, in September, he was court martialled for being in possession of a false leave pass and sentenced to two months detention and forfeited 25 days pay. While serving his time, Armistice was declared and Brookes was discharged in Brisbane in April 1919.
+
+## Private Walter Staines MM <small>(10‑62‑18)</small>
+
+English‑born Staines enlisted at Enoggera in June 1915 and attached to the 26th Infantry Battalion. He was awarded the Military Medal for services rendered during fighting at Pozieres, France. He survived the war with no injuries or major illnesses and only a single charge for creating a disturbance on New Years Day 1917 for which he was admonished.
+
+## Sergeant Henry Greer DCM <small>(10‑63‑25)</small>
+
+On the 18th August 1918 during operations on the Somme, Greer’s Platoon commander was killed. Greer immediately took command of the platoon and with a small party, cleared up two large dug outs, taking fifty prisoners. For this action he was awarded the Distinguished Conduct Medal.
+
+## Gunner Edward Sidney Webster <small>(10‑45‑28)</small>
+
+Gunner Webster has the dubious distinction of being the only fatality of the ‘Battle of Brisbane’ which broke out on the 26th of November 1942 with US Military personnel on one side and Australian servicemen and civilians on the other. Tension had been brewing since the large scale arrival of the American troops who where generally better paid and fed than their Australian counterparts. By 8pm over 5000 people were involved in the disturbance. By 10pm, Gunner Webster had died of a gunshot wound, eight others were similarly injured, and several hundred others received minor injuries. Private Norbert Grant was court‑martialled by the US military for firing the fatal shot but was acquitted on the grounds of self defence. Reporting of the event was censored leading the rumours of many dead sweeping the suburbs of Brisbane.
+
+## Able Seaman Archibald Edward Bartsch <small>(10‑44‑20)</small>
+## Warrant Officer Henry Theeman <small>(10‑41‑21)</small>
+## Steward Eric Ross Harrison <small>(10‑43‑7)</small>
+
+On the 4th of March 1942, the auxiliary minesweeper HMAS Tambar was fired on by the Examination Battery at Fort Cowan Cowan on Moreton Island. The military covered up the incident so as not to affect morale. The Tambar’s crew was dispersed throughout the RAN immediately after the men’s joint funeral two days later. The ship was temporarily paid off and the Captain given another command. The service was conducted by the Rev. H. H. Trigge of the Methodist Church and the Church of England’s Rev. F. R. C. Birch. Cannon and Cripps arranged the funeral.
+
+There was a mix up in the identification code signal of the ship and the battery was ordered to fire across the bow of the unidentified vessel. The 6‑inch shell struck the ship’s forecastle killing Able Seaman Archibald Bartsch, a member of the anchor party, instantly. The shell skidded across the deck into the Captain’s cabin killing Steward Eric Harrison. It then passed through the radio room critically injuring Warrant Officer Henry Theeman. Both of his legs were severed and his succumbed to his injuries soon after. Other crew received injuries to various degrees. London‑born Theeman was aged 47. Bartsch, son of 3rd Light horseman William Henry Bartsch, was an employee if the Australasian United Paint Company of Port Augusta, South Australia prior to his enlistment in the navy. He was aged 20. Western Australian‑born Harrison was the son of William Ross and Rebecca Harrison. He was aged 33 from Melbourne.
+
+## Major Charles Heaphy, VC <small>(1‑5‑34)</small>
+
+Heaphy, born c1822 in London, was an artist and surveyor who explored New Zealand in the 1840s. He landed in New Zealand in 1839 as a draughtsman for the New Zealand Company. He settled in Auckland in 1848 and later joined the local militia, the Auckland Rifle Volunteers. He was awarded the Victoria Cross for rescuing a wounded soldier under fire in the Maori Wars on 11 February 1864 at the Mangapiko River. Heaphy himself was hit in three places by musket balls while assisting the wounded man, with whom he had stayed all day. He was the first soldier of an irregular unit to be awarded the Victoria Cross. After his army career, he had a lengthy career as a civil servant, chiefly concerned with surveying and became a Member of Parliament. He retired from public life in 1881 and sailed with his wife to Brisbane. He died in Ann Street, Brisbane on 3 August 1881 of tuberculosis.
+
+## Further Reading
+
+- Nunan, P. *[Tragedy in Moreton Bay, Wartime: Official Magazine of the Australian War Memorial](https://www.awm.gov.au/wartime).* [Issue 34](https://www.awm.gov.au/shop/item/1328272734), 2006. p.55-57
+- Thompson, P. and Macklin, R. *The Battle of Brisbane: Australian and Yanks at War.* Sydney, ABC Books, 2000.

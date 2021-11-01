@@ -11,10 +11,10 @@ The Friends of Toowong Cemetery have researched and published a large collection
 Walks by profession:
 
 - [Undertakers Underground](undertakers-underground.md) 
-- [In their caring hands](in-their-caring-hands.md) - A heritage trail to commemorate the role of nurses, doctors and health professionals
+- [In their caring hands](in-their-caring-hands.md) - A heritage trail to commemorate the role of nurses, doctors and health professionals <!-- Hilda Maclean -->
 - [Lest We Forget](lest-we-forget.md) 
 - [Lest We Forget - Navy Walk](lest-we-forget-navy.md) 
-- [Anchors Aweigh!](anchors-aweigh.md) - A Maritime Walk through Toowong Cemetery
+- [Anchors Aweigh!](anchors-aweigh.md) - A Maritime Walk through Toowong Cemetery  <!-- Hilda Maclean -->
 - [The Thin Blue Line](thin-blue-line.md) - Queensland Colonial Policing
 - [All the world’s a stage](all-the-worlds-a-stage.md) 
 - [Artists](artists.md) 
@@ -28,10 +28,11 @@ Local Identities:
 
 Politics: 
 
-- [The Federation Trail](federation-trail.md) 
+- [The Federation Trail](federation-trail.md) - This booklet was produced as a Centenary of Federation project to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
 - [Governors Past](governors-past.md)
 - [Brisbane Mayors](brisbane-mayors.md) 
-- [Labor Luminaries](labor-luminaries.md) 
+- [Labor Luminaries](labor-luminaries.md) - A guided walk recognising a small number of people involved in the Labor Movement <!-- Hilda Maclean -->
+
 
 Other: 
 

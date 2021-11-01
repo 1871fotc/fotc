@@ -9,13 +9,15 @@ hide:
 ![inspector-john-ahern-monument-7-51-4-by-andree-axelsen](https://ucf65217b2020ba807c5cb707379.previews.dropboxusercontent.com/p/thumb/ABV47UZ8TTLjl15vFIiB5L7OyyxY0iWdRB_QR-sd6oyDvJG7AHeO45ETnxUTQ2SFgyJ3f4IAp_ESUK4WITJMoSfvCWaWtM1_Ar2A0RdwQnBVWGSbHIT_yh762r3QeP-TLBt5vms22IdX_bstu8F6jGqy2gyobOKf7na-T2fS7ZmJ9M1Pga3kbkX8JTyTLmizZ9NBVIPGp2wZGMkbiZ01VlROIMxYhlHgeDebVx1eAtM1CGUU9QTLXdMybse2xY7YWxiGAIfz28__ZkAIC70LoUTW7bjK8hX-9o2pTp84YW7FvzSx27-NPLMYX3pob9oPiZln3Dk3qLO_TKGavGAr8aOJ6T2s_lw1aFSHvGA4Hoa9qVRuhB_TLy14dCMM5ag8yQHmhG_ecL2603eerazE9qux/p.png?fv_content=true&size_mode=5)
 -->
 
+<!--
 <a href="https://ucf65217b2020ba807c5cb707379.previews.dropboxusercontent.com/p/thumb/ABV47UZ8TTLjl15vFIiB5L7OyyxY0iWdRB_QR-sd6oyDvJG7AHeO45ETnxUTQ2SFgyJ3f4IAp_ESUK4WITJMoSfvCWaWtM1_Ar2A0RdwQnBVWGSbHIT_yh762r3QeP-TLBt5vms22IdX_bstu8F6jGqy2gyobOKf7na-T2fS7ZmJ9M1Pga3kbkX8JTyTLmizZ9NBVIPGp2wZGMkbiZ01VlROIMxYhlHgeDebVx1eAtM1CGUU9QTLXdMybse2xY7YWxiGAIfz28__ZkAIC70LoUTW7bjK8hX-9o2pTp84YW7FvzSx27-NPLMYX3pob9oPiZln3Dk3qLO_TKGavGAr8aOJ6T2s_lw1aFSHvGA4Hoa9qVRuhB_TLy14dCMM5ag8yQHmhG_ecL2603eerazE9qux/p.png?fv_content=true&size_mode=5" title="click to expand">
+
   <figure>
-    <img src="https://ucf65217b2020ba807c5cb707379.previews.dropboxusercontent.com/p/thumb/ABV47UZ8TTLjl15vFIiB5L7OyyxY0iWdRB_QR-sd6oyDvJG7AHeO45ETnxUTQ2SFgyJ3f4IAp_ESUK4WITJMoSfvCWaWtM1_Ar2A0RdwQnBVWGSbHIT_yh762r3QeP-TLBt5vms22IdX_bstu8F6jGqy2gyobOKf7na-T2fS7ZmJ9M1Pga3kbkX8JTyTLmizZ9NBVIPGp2wZGMkbiZ01VlROIMxYhlHgeDebVx1eAtM1CGUU9QTLXdMybse2xY7YWxiGAIfz28__ZkAIC70LoUTW7bjK8hX-9o2pTp84YW7FvzSx27-NPLMYX3pob9oPiZln3Dk3qLO_TKGavGAr8aOJ6T2s_lw1aFSHvGA4Hoa9qVRuhB_TLy14dCMM5ag8yQHmhG_ecL2603eerazE9qux/p.png?fv_content=true&size_mode=5" alt="Monument to Inspector John Ahern (7-51-4) by Andree Axelsen" style="height:200px;">
+    <img src="https://ucf65217b2020ba807c5cb707379.previews.dropboxusercontent.com/p/thumb/ABV47UZ8TTLjl15vFIiB5L7OyyxY0iWdRB_QR-sd6oyDvJG7AHeO45ETnxUTQ2SFgyJ3f4IAp_ESUK4WITJMoSfvCWaWtM1_Ar2A0RdwQnBVWGSbHIT_yh762r3QeP-TLBt5vms22IdX_bstu8F6jGqy2gyobOKf7na-T2fS7ZmJ9M1Pga3kbkX8JTyTLmizZ9NBVIPGp2wZGMkbiZ01VlROIMxYhlHgeDebVx1eAtM1CGUU9QTLXdMybse2xY7YWxiGAIfz28__ZkAIC70LoUTW7bjK8hX-9o2pTp84YW7FvzSx27-NPLMYX3pob9oPiZln3Dk3qLO_TKGavGAr8aOJ6T2s_lw1aFSHvGA4Hoa9qVRuhB_TLy14dCMM5ag8yQHmhG_ecL2603eerazE9qux/p.png?fv_content=true&size_mode=5" alt="Monument to Inspector John Ahern (7-51-4) by Andree Axelsen" style="height:200px">
     <figcaption>Monument to Inspector John Ahern (7-51-4) by Andree Axelsen.</figcaption>
   </figure>
 </a>
-
+-->
 
 ## Christopher Francis <small>(2-37-31/32)</small> c1840-1915
 

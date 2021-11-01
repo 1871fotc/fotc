@@ -67,6 +67,10 @@ markdown_extensions:
   - pymdownx.tilde   
   - pymdownx.snippets
   
+plugins:
+  - social
+  
+  
 
 # Page tree - only 2 levels allowed
 nav:
