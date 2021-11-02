@@ -29,6 +29,7 @@ theme:
     admonition:
       example: fontawesome/regular/compass
 
+
   custom_dir: overrides
   features:
   - navigation.instant
@@ -58,8 +59,8 @@ extra:
 #      link: https://creativecommons.org/licenses/by/4.0/
 #      name: CC-BY 4.0 licence
   
-# extra_css:
-#  - stylesheets/extra.css
+extra_css:
+  - stylesheets/extra.css
 
 # Extensions  
 markdown_extensions:
@@ -68,11 +69,13 @@ markdown_extensions:
       toc_depth: 2
   - abbr
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
+  - md_in_html
   - def_list
   - footnotes
   - meta
-  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

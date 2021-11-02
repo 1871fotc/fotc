@@ -6,15 +6,18 @@ hide:
  
 # Labor Luminaries 
 
-A guided walk recognising a small number of people involved in the Labor Movement.
+A guided walk recognising people involved in the Labor Movement.
 
 [Notes](http://www.fotc.org.au/subset/laborluminaries.pdf)
 
 ???+ Example "Directions" 
 
-    - Start in 8th Avenue near the toilets
-    - Walk North towards 14th Avenue 
-    - Stop at Portion 13, Row 6, Plot 5/6, abbreviated to (13‑6‑5/6)
+    - Start behind Canon Garland Place in 8th Avenue. 
+    - Walk North towards William Brown Avenue (previously 14th Avenue)
+    - At the end of the second row back from 8th Avenue, you'll find Emma Miller's memorial stone  
+    
+     ![](../assets/emma-miller.jpg){ width="100" }
+
   
 ## Emma Miller <small>(13‑6‑5/6)</small>
 
@@ -22,8 +25,12 @@ A guided walk recognising a small number of people involved in the Labor Movemen
 
 ??? Example "Directions" 
 
-    - Walk up the grass path that leads directly to the Governor Blackall Memorial, the largest monument at the top of the hill
-    - Walk down 15th Avenue to and stop at 11‑22‑1
+    - :fontawesome-solid-walking:{ .deep-purple } Walk up the steep grass path that leads directly to the Governor Blackall Memorial, the largest monument at the top of the hill
+    - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk, drive up Walter Hill Drive. When you come to the Shelter Shed at the top of the hill, take a sharp right turn into Federation Avenue and park on the edge of the road at the turning circle at the end.
+    - Walk down Federation Avenue (previously 15th Avenue), on your immediately on your left about 4 rows after the end of the turning circle, you'll find Thomas Glassey and his wife Margaret. 
+
+    ![](../assets/thomas-glassey.jpg){ width="100" }
+    
 
 ## Thomas Glassey <small>(11‑22‑1)</small>
 
@@ -32,8 +39,10 @@ A guided walk recognising a small number of people involved in the Labor Movemen
 ??? Example "Directions" 
 
     - Continue to walk down 15th Avenue to and  stop at 11‑51‑3, on your left, where you'll find the 3 graves close to each other. 
+    
+      ![William Henry Browne](../assets/william-brown.jpg){ width="100" } ![John Gordon Smith](https://dummyimage.com/100x138/){ width="100" } ![Anderson Dawson](https://dummyimage.com/100x138/){ width="100" } 
 
-## William Henry Browne <small>(11‑51‑3)</small>
+## William Henry Browne <small>(11‑51‑3)</small>  
 
 [Browne](https://adb.anu.edu.au/biography/browne-william-henry-5395) was born in September 1846 in Pimlico, London. He was a Royal Navy seaman in 1857 before joining the merchant marines. Browne moved to New South Wales in 1866, where he worked as a goldminer. He was the president and secretary of the Amalgamated Miners Association of Croydon and chairman of the Croydon Hospital Committee. His political career started in 1893 as the MLA for Croydon, the seat he held until his death in 1904. Browne was leader of the Opposition and chairman of the Parliamentary Labor Party from 1900 to 1903 and then became Minister of Mines. Browne did not marry.
 
@@ -45,19 +54,24 @@ Smith was born in 1863 in Aberdeenshire, Scotland, son William Smith and Christi
 
 [Dawson](https://adb.anu.edu.au/biography/dawson-andrew-5921) was born on 16 July 1863 in Rockhampton, the son of miner, Anderson Dawson and Jean Smith. He was a miner by profession. He married Caroline Quin in 1887 and together they had two sons and two daughters. Dawson was president of the Miners’ Union and a provincial councillor for the Australian Labor Federation. He entered parliament as MLA for Charters Towers in May 1883 and held the seat until September 1901 when he was elected a senator, serving until 1906. Dawson lead the world’s first Labor Government when he was Premier and Chief Secretary for Queensland from 1 - 7 December 1899. He died in Brisbane on 20 Jul 1910.
 
-!!! Example "Directions" 
+??? Example "Directions" 
 
     - Continue to walk down 15th Avenue. Three rows before the Shelter Shed, on your left, stop at 11‑76‑12/13. 
+
+    ![David Bowman](https://dummyimage.com/100x140/){ width="100" }  
+    
 
 ## David Bowman <small>(11‑76‑12/13)</small>
 
 [Bowman](https://adb.anu.edu.au/biography/bowman-david-5315) was born on the 4 August 1860 in Bendigo, Victoria, son of miner, Archibald Bowman and Isabella. He arrived in Queensland in 1887 and established his own bootmaking business in New Farm. He married in 1885, Elizabeth Jane Smith, who bore him two sons and two daughters. He entered politics and held various seats in the Queensland Legislative Assembly from 1899 until his death on the 25 February 1916 at Brisbane. Bowman was an organiser for the Australian Workers Union and leader of the Queensland Labor Party from 1907 to 1912.
 
 
-!!! Example "Directions" 
+??? Example "Directions" 
 
     - Continue past the Shelter Shed, walking North West along Dr. Lillian Cooper Drive (Boundary Road), on your left, stop at the Forgan-Smith grave, 8‑25‑20/21.
     - On the opposite side of the road you'll find the Gillies grave, 18‑106‑20.
+    
+    ![William Forgan Smith](https://dummyimage.com/100x140/){ width="100" }  ![William Neal Gillies](../assets/william-gillies.jpg){ width="100" } 
     
 ## William Forgan Smith <small>(8‑25‑20/21)</small>
 
@@ -68,11 +82,13 @@ Smith was born in 1863 in Aberdeenshire, Scotland, son William Smith and Christi
 [Gillies](https://adb.anu.edu.au/biography/gillies-william-neil-6388) was born 28 Oct 1868 on the Hunter River, New South Wales, the son of farmer, Dugald Gillies and Ann. He was a sugar grower on the Tweed Heads and president of the NSW Sugar Growers Defence League. Gillies married Margaret Smith in 1900 and had a son and a daughter. He entered politics in 1912 as the MLA for Eacham, a seat he held until 1925 when he briefly switched to Federal politics, holding the seat of Herbert. Gillies was Premier, Chief Secretary and Treasurer from February to October 1925. He died at Toowong on 9 February 1928.
 
 
-!!! Example "Directions" 
+??? Example "Directions" 
 
-    - Walk down the row, across the gully, and on to 8th Avenue.
-    - Walk to Shelter Shed and then continue towards 11th Avenue. Just behind the Shelter Shed, on your left, stop at the Hanlon grave, 7A‑38‑19/21.
-    - Continue along 11th Avenue to the Hoolan grave, 7A‑34‑2. 
+    - :fontawesome-solid-walking:{ .deep-purple } Walk down the row, across the gully, and across 8th Avenue to the Shelter Shed.
+    - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk down the hill, return to your car and drive down Federation Avenue back to the Shelter Shed, then contine on Dr. Lillian Cooper Drive. Turn right into 9th Avenue, then right into Pat Hill Drive and park near the Shelter Shed. 
+    - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. Six graves on you'll find the Hoolan family.
+
+    ![Edward Michael Hanlon](https://dummyimage.com/100x140/){ width="100" }  ![John ‘Plumper’ Hoolan](https://dummyimage.com/100x140/){ width="100" } 
 
 ## Edward Michael Hanlon <small>(7A‑38‑19/21)</small>
 
@@ -83,18 +99,20 @@ Smith was born in 1863 in Aberdeenshire, Scotland, son William Smith and Christi
 [Hoolan](https://adb.anu.edu.au/biography/hoolan-john-6727) was born in 1842 in Tipperary, son of James Hoolan and Margaret Kennedy. He married Ellen Lawler in 1871 in King’s County, Ireland and had two sons and two daughters. In a varied career, he was a carpenter in Bathurst, a miner in Charters Towers, a newspaper proprietor in Georgetown and leased a farm in North Queensland in 1896. Hoolan was the MLA for Burke from 1890 to 1894 and again from 1896 to 1899. He died in the Diamantina region on the 15 June 1911.
 A guided walk recognising a small number of people involved in the Labor Movement
 
-!!! Example "Directions" 
+??? Example "Directions" 
 
-    - Walk back to the Shelter Shed, turn left, and walk South East down 8th Avenue. 
-    - Before you get to 12th Avenue, on your right, stop at 15‑6‑40.
+    - Walk back to the Shelter Shed, turn left into Charles Heaphey Drive (previously 8th Avenue). 
+    - Before you get to Elizabeth Dale Walk, on your right, and almost to the row, near the gully, you'll find Albert Whitford.
+
+    ![Albert Edward Victor Whitford](https://dummyimage.com/100x140/){ width="100" }  
 
 ## Albert Edward Victor Whitford <small>(15‑6‑40)</small>
 
 Whitford was born in 1877 in Woolwich, England, son of Charles Whitford and Dora Kelly. He married Ethel Scott in Sydney and had two sons and two daughters. Arriving in Queensland in 1910, he worked as a tailor in Childers. Whitford was the MLA for Burrum from March 1918 to October 1920. He was murdered in Albert Square on 29 Jan 1924 by returned serviceman, James William Laydon. Smith was shot in front of his wife after a night at the Tivoli Theatre. He was 46.
 
-!!! Example "Directions" 
+??? Example "Directions" 
 
-    - Continue walking along 8th Avenue to return to your starting point. 
+    - Continue along Charles Heaphey Drive and veer left to return to the starting point. 
 
 ## Further Reading and Acknowledgements
 
