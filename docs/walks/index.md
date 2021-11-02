@@ -31,7 +31,7 @@ Politics:
 - [The Federation Trail](federation-trail.md) - This booklet was produced as a Centenary of Federation project to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
 - [Governors Past](governors-past.md)
 - [Brisbane Mayors](brisbane-mayors.md) 
-- [Labor Luminaries](labor-luminaries.md) - A guided walk recognising a small number of people involved in the Labor Movement <!-- Hilda Maclean -->
+- [Labor Luminaries](labor-luminaries.md) - A guided walk recognising people involved in the Labor Movement <!-- Hilda Maclean -->
 
 
 Other: 

@@ -9,6 +9,7 @@ copyright: © 2000–2021 Friends of Toowong Cemetery
 # Configuration
 theme:
   name: material
+  logo: assets/fotc@0.5x.png
   font:
     text: Raleway
     code: Roboto Mono 
@@ -28,7 +29,6 @@ theme:
   icon:
     admonition:
       example: fontawesome/regular/compass
-
 
   custom_dir: overrides
   features:
