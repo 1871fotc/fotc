@@ -10,6 +10,7 @@ copyright: © 2000–2021 Friends of Toowong Cemetery
 theme:
   name: material
   logo: assets/fotc@0.5x.png
+  favicon: assets/favicon.ico
   font:
     text: Raleway
     code: Roboto Mono 

@@ -1,5 +1,5 @@
 ---
-title: Friends of Toowong Cemetery
+title: Home
 description: Discovering and sharing our local history
 
 hide:
