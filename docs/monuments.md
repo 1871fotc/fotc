@@ -7,11 +7,11 @@ hide:
 
 The Toowong Cemetery is a Brisbane icon and was once the city's main cemetery. Toowong Cemetery officially opened in July 1875, however burials took place from 1871 (most notably Queensland's second governor, Colonel Samual Blackall in 1871).
 
-Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll see the traditions and symbols from her reign thoughout the cemetery.
+Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll see the traditions and symbols from her reign throughout the cemetery.
 
 ## Headstones
 
-Headstones within the Cemetery come in many shapes and sizes. Thoughout the first half of the 19th Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
+Headstones within the Cemetery come in many shapes and sizes. Throughout the first half of the 19th Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
 
 The cross also came in a variety of shapes. The Celtic cross (with its arms enclosed in a circle) was used mostly by those of Irish origin prior to the end of the 19th Century before they became a popular choice (regardless to national heritage). The unadorned cross was known as the Calvary cross, representing Christ's crucification. The Orthodox crosses with three bars symbolise the cross Christ was crucified on, with the title board (top bar), the bar on which the Lord's hands were nailed (middle bar) and the footrest (bottom bar).
 
@@ -63,6 +63,7 @@ Urns are a Greek symbol of mourning and represent the process of death, where th
 
 ## Animals
 
+Animals symbolise the character of the deceased. Lambs were often used as a symbol of innocence and found on the graves of children, while lions were used as a symbol of courage. Visit the grave of heavyweight boxing champion Peter Jackson (5-28-1) which is adorned with a lion.
 
 
 
@@ -72,7 +73,7 @@ The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and
 
 ## Books
 
-Books often symbolise the Bibel and the faith of its reader. An open book has also been associated with the human heart.
+Books often symbolise the Bible and the faith of its reader. An open book has also been associated with the human heart.
 
 ## Lost and Found
 
@@ -81,3 +82,5 @@ In Steele Rudd Avenue you'll find a collection of broken gravestone. Why are the
 ## Source
 
 Gillon, E. (1972). [Victorian Cemetery Art](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_alma21121028210002061&context=L&vid=SLQ&lang=en_US&search_scope=SLQ_PCI_EBSCO&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,Victorian%20Cemetery%20Art). New York: Dover Publications 
+
+Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under the [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Minor formatting changes, photos and links added.
