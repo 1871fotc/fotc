@@ -6,35 +6,32 @@ hide:
  
 # Labor Luminaries 
 
-A guided walk recognising people involved in the Labor Movement.
+A walk recognising people involved in the Labor Movement.
 
-[Notes](http://www.fotc.org.au/subset/laborluminaries.pdf)
+--8<-- "snippets/map.md"
+
+[Download a brochure of this walk](http://www.fotc.org.au/subset/laborluminaries.pdf).
 
 ???+ Example "Directions" 
 
-    - Start behind Canon Garland Place in 8th Avenue. 
-    - Walk North towards William Brown Avenue (previously 14th Avenue)
-    - At the end of the second row back from 8th Avenue, you'll find Emma Miller's memorial stone  
+    - Start behind Canon Garland Place in Emma Miller Avenue. 
+    - Walk North towards William Brown Avenue (previously 14th Avenue).
+    - At the end of the second row back from Emma Miller Avenue, you'll find Emma Miller's memorial stone.  
     
      ![](../assets/emma-miller.jpg){ width="100" }
 
-  
-## Emma Miller <small>(13‑6‑5/6)</small>
-
-[Miller](https://adb.anu.edu.au/biography/miller-emma-7583) was born Emma Holmes in Chesterfield, Derbyshire, in June 1839. Her first husband died in 1870 leaving her with four small children to support. Emma was a gentlemen’s shirtmaker and she began to take in piecework, working twelve hours per day, six days per week. With her second husband, Miller arrived in Brisbane in March 1879. He died just over a year after their arrival. Widowed again, Emma was forced to make her living by needlework. Miller was in the vanguard of the formation of women’s unions, the women’s suffrage movement, and the Labor Party. She actively supported strikers during the 1880s, and worked to alleviate the plight of the unemployed. She campaigned tirelessly for freedom from conscription. Through these activities, she was known and admired throughout the country, and given the affectionate title ‘Mother of the Australian Labor Party’.
+--8<-- "snippets/emma-miller.md"
 
 ??? Example "Directions" 
 
     - :fontawesome-solid-walking:{ .deep-purple } Walk up the steep grass path that leads directly to the Governor Blackall Memorial, the largest monument at the top of the hill
-    - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk, drive up Walter Hill Drive. When you come to the Shelter Shed at the top of the hill, take a sharp right turn into Federation Avenue and park on the edge of the road at the turning circle at the end.
-    - Walk down Federation Avenue (previously 15th Avenue), on your immediately on your left about 4 rows after the end of the turning circle, you'll find Thomas Glassey and his wife Margaret. 
+    - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk, drive or walk up Walter Hill Drive. When you come to the Shelter Shed at the top of the hill, take a sharp right turn into Federation Avenue and park on the edge of the road at the turning circle at the end.
+    - Walk back down Federation Avenue (previously 15th Avenue), on your immediately on your left about 4 rows after the end of the turning circle, you'll find Thomas Glassey and his wife Margaret. 
 
     ![](../assets/thomas-glassey.jpg){ width="100" }
     
+--8<-- "snippets/thomas-glassey.md"
 
-## Thomas Glassey <small>(11‑22‑1)</small>
-
-[Glassey](https://adb.anu.edu.au/biography/glassey-thomas-6399) was born in 1844 at Market Hill, Co. Armagh, the son of weaver Willhelm Glassey and Sussannah. From the age of six, he worked as a linen mill weaver before moving to Scotland in 1852 to be a coal miner. Glassey was self‑educated at Sunday school. He married Margaret White in 1864 in Bedlington, Newcastle, England and had a son. He came to Queensland in 1884 after a career as a political agitator in England. Glassey was the MLA for Bundamba from 1888 ‑ 1893 before representing Burke 1894 ‑ 1896 and Bundaberg 1896 ‑ 1901. In 1892, Glassey was the chairman of the Queensland central executive of the Labor Party. After Federation, he switched to federal politics and was a senator from 1901 ‑ 1903. He died on 28 Sep 1936 in Brisbane.
 
 ??? Example "Directions" 
 
@@ -42,17 +39,13 @@ A guided walk recognising people involved in the Labor Movement.
     
       ![William Henry Browne](../assets/william-brown.jpg){ width="100" } ![John Gordon Smith](https://dummyimage.com/100x138/){ width="100" } ![Anderson Dawson](https://dummyimage.com/100x138/){ width="100" } 
 
-## William Henry Browne <small>(11‑51‑3)</small>  
+--8<-- "snippets/william-henry-browne.md"
 
-[Browne](https://adb.anu.edu.au/biography/browne-william-henry-5395) was born in September 1846 in Pimlico, London. He was a Royal Navy seaman in 1857 before joining the merchant marines. Browne moved to New South Wales in 1866, where he worked as a goldminer. He was the president and secretary of the Amalgamated Miners Association of Croydon and chairman of the Croydon Hospital Committee. His political career started in 1893 as the MLA for Croydon, the seat he held until his death in 1904. Browne was leader of the Opposition and chairman of the Parliamentary Labor Party from 1900 to 1903 and then became Minister of Mines. Browne did not marry.
+--8<-- "snippets/john-gordon-smith.md"
 
-## John Gordon Smith <small>(11‑53‑5/6)</small>
+--8<-- "snippets/anderson-dawson.md"
 
-Smith was born in 1863 in Aberdeenshire, Scotland, son William Smith and Christina Duncan. He married Annie Coles in Brisbane in 1884 and had a son and four daughters. In a varied career, he was a publican in Maryborough, and around 1900 operated a night coffee stall in Queen Street. Smith was known as the ‘Democratic Pieman’. He was also a grand master of the Ancient Order of Foresters and President of the British Associated Friendly Society Dispensaries. Smith was a Member of the Legislative Council from 1920 until his death in Brisbane on the 19 June 1921.
 
-## Anderson Dawson <small>(11‑56‑1)</small>
-
-[Dawson](https://adb.anu.edu.au/biography/dawson-andrew-5921) was born on 16 July 1863 in Rockhampton, the son of miner, Anderson Dawson and Jean Smith. He was a miner by profession. He married Caroline Quin in 1887 and together they had two sons and two daughters. Dawson was president of the Miners’ Union and a provincial councillor for the Australian Labor Federation. He entered parliament as MLA for Charters Towers in May 1883 and held the seat until September 1901 when he was elected a senator, serving until 1906. Dawson lead the world’s first Labor Government when he was Premier and Chief Secretary for Queensland from 1 - 7 December 1899. He died in Brisbane on 20 Jul 1910.
 
 ??? Example "Directions" 
 

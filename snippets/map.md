@@ -1,7 +1,7 @@
 
-Before you start, review the map to plan your visit:
+Before you start, review the map.
 
-<a href="http://www.fotc.org.au/toowong_map.jpg" title="click to expand">
+<a href="http://www.fotc.org.au/toowong_map.jpg" title="Click to expand. Press back to return to this page.">
   <figure>
     <img src="http://www.fotc.org.au/toowong_map.jpg" alt="Toowong Cemetery Map" style="height:200px;">
     <figcaption>Toowong Cemetery Map</figcaption>

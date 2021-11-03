@@ -5,10 +5,13 @@ hide:
 
 #  Biographies 
 
-
 ## Family Biographies 
 
 In 1999, the Friend of Toowong Cemetery published *Extraordinary Stories of Ordinary People* containing stories about people interred at Toowong Cemetery contributed by their descendants. This publication is being expanded and reissued. If you would like your family's story to be considered, please fill in the [Biographical Details Form](http://www.fotc.org.au/subset/Toowong_Cemetery_Biographical_Details.doc).
+
+## Biography Index
+
+View a list of [people mentioned in our self-guided walks on a single page](bio-index.md).
 
 ## Australian Dictionary of Biography
 

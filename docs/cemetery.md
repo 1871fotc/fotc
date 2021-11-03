@@ -21,16 +21,16 @@ If you're using public transport to get here, use the [TransLink Journey Planner
 If you enter main entrance through the front gates, you'll find: 
 
 - Canon Garland Place named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for [guided heritage walks](guided-walks.md) and most [self-guided walks](walks/index.md)
-- the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) - open from 8am-4pm Monday to Friday. Staff can answer your enquiries, including helping to locate graves and ashes memorial sites.
+- the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) - open from 9am-1pm Monday to Friday. Staff can answer your enquiries, including helping to locate graves and ashes memorial sites.
 - an [Educational Museum](#museum) operated by the Friends of Toowong Cemetery. 
 - toilets, the only ones open in the cemetery.
 
 If you enter via the Richer Street back gate:
 
 - turn right into Dr. Lillian Cooper Drive and continue to the Shelter Shed 
-- veer left at the Shelter Shed down the one way William Brown Avenue (previously 14th Avenue) drive 850 metres along Boundary Road (??? Avenue) to Canon Garland Place.
-- turn right into Garland Avenue (previously 8th Avenue) and drive on buildings and then park on the side of the road
-- you are now directly behind Canon Garland Place
+- veer left at the Shelter Shed down the one way William Brown Avenue (previously 14th Avenue) 
+- at the end, turn right into 8th Avenue to arrive behind Canon Garland Place, where you can park on the side of the road. 
+
  
 ## Map
 

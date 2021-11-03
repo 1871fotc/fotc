@@ -8,9 +8,9 @@ hide:
 
 #  Friends of Toowong Cemetery
 
-The Friends of Toowong Cemetery is a small group of volunteers that discovers and shares the history of Toowong Cemetery and the stories of people interred there. 
+The Friends of Toowong Cemetery is a volunteer group that discovers and shares the history of Toowong Cemetery and the stories of people interred there. 
 
-The heritage‑listed cemetery is the largest cemetery in Queensland and was officially opened in July 1875.
+The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland and was officially opened in July 1875.
 
 On this site you'll find information about:
 
