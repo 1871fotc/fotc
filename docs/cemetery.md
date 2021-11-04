@@ -63,5 +63,6 @@ Learn more about the cemetery:
 
 - The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery). 
 - Wikipedia has a [Toowong Cemetery](https://en.wikipedia.org/wiki/Toowong_Cemetery) topic.
+- https://en.wikipedia.org/wiki/Category:Burials_at_Toowong_Cemetery
 - The [Toowong Cemetery is listed in the Queensland Heritage Register](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery).
 - Read the [Toowong Cemetery Citation on Queensland WWII Historic Places Website](https://www.ww2places.qld.gov.au/place?id=2064)
