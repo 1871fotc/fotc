@@ -20,7 +20,7 @@ If you're using public transport to get here, use the [TransLink Journey Planner
 
 If you enter main entrance through the front gates, you'll find: 
 
-- Canon Garland Place named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for [guided heritage walks](guided-walks.md) and most [self-guided walks](walks/index.md)
+- Canon Garland Place named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for [guided heritage tours](guided-walks.md) and most [self-guided walks](walks/index.md)
 - the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) - open from 9am-1pm Monday to Friday. Staff can answer your enquiries, including helping to locate graves and ashes memorial sites.
 - an [Educational Museum](#museum) operated by the Friends of Toowong Cemetery. 
 - toilets, the only ones open in the cemetery.
@@ -53,7 +53,7 @@ Points to note:
 
 An Educational Museum is operated by the Friends of Toowong Cemetery. 
 
-The Museum is opened before and after our [guided heritage walks](guided-walks.md). If you would like to visit the museum but it is closed, staff at the Office will be pleased to open it for you.
+The Museum is opened before and after our [guided heritage tours](guided-walks.md). If you would like to visit the museum but it is closed, staff at the Office will be pleased to open it for you.
  
 ## About the cemetery
 

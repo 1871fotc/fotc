@@ -8,14 +8,17 @@ hide:
 
 The Friends of Toowong Cemetery have researched and published a large collection of themed self-guided walks. The Brisbane City Council has also published two walks. You can do self-guided walks around the cemetery anytime during [visiting hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#visiting-hours).
 
+<!-- re-categorise these walks -->
+
 Walks by profession:
 
 - [Undertakers Underground](undertakers-underground.md) 
-- [In their caring hands](in-their-caring-hands.md) - A heritage trail to commemorate the role of nurses, doctors and health professionals <!-- Hilda Maclean -->
+- [In their caring hands](in-their-caring-hands.md) - A heritage trail to commemorate the role of nurses, doctors and health professionals. <!-- Hilda Maclean -->
 - [Lest We Forget](lest-we-forget.md) 
 - [Lest We Forget - Navy Walk](lest-we-forget-navy.md) 
-- [Anchors Aweigh!](anchors-aweigh.md) - A Maritime Walk through Toowong Cemetery  <!-- Hilda Maclean -->
-- [The Thin Blue Line](thin-blue-line.md) - Queensland Colonial Policing
+- [Toowong Cemetery Rememberance Walk](rememberance-walk.md) - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known.
+- [Anchors Aweigh!](anchors-aweigh.md) - A Maritime walk through Toowong Cemetery.  <!-- Hilda Maclean -->
+- [The Thin Blue Line](thin-blue-line.md) - Queensland Colonial Policing.
 - [All the world’s a stage](all-the-worlds-a-stage.md) 
 - [Artists](artists.md) 
 

@@ -98,13 +98,14 @@ markdown_extensions:
 nav:
   - Home: index.md
   - The Cemetery: cemetery.md
-  - Guided Heritage Walks: guided-walks.md
+  - Guided Tours: guided-walks.md
   - Self-Guided Walks:
     - Self-Guided Walks: walks/index.md    
     - Undertakers Underground: walks/undertakers-underground.md
     - In their caring hands: walks/in-their-caring-hands.md 
     - Lest We Forget: walks/lest-we-forget.md
-    - Lest we forget - Navy Walk: walks/lest-we-forget-navy.md     
+    - Lest we forget - Navy Walk: walks/lest-we-forget-navy.md 
+    - Toowong Cemetery Rememberance walk: walks/rememberance-walk.md    
     - Anchors Aweigh!: walks/anchors-aweigh.md
     - The Thin Blue Line: walks/thin-blue-line.md 
     - All the world’s a stage: walks/all-the-worlds-a-stage.md 
