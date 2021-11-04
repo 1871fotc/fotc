@@ -15,7 +15,7 @@ The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland and
 On this site you'll find information about:
 
 - visiting [the cemetery](cemetery.md), its history, and a [map](cemetery#toowong-cemetery-map) to guide you
-- monthly [guided heritage walks](guided-walks.md) and [self‑guided walks](walks/index.md) 
+- monthly [guided heritage tours](guided-walks.md) and [self‑guided walks](walks/index.md) 
 - the [biographies](bios/index.md) of people buried at the cemetery
 - [Friends of Toowong Cemetery](about/index.md) what they do, how to join in, or [contact us](about/#contact-us)
 

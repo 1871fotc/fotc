@@ -5,9 +5,14 @@ hide:
 
 #  Monuments
 
+
 The Toowong Cemetery is a Brisbane icon and was once the city's main cemetery. Toowong Cemetery officially opened in July 1875, however burials took place from 1871 (most notably Queensland's second governor, Colonel Samual Blackall in 1871).
 
 Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll see the traditions and symbols from her reign throughout the cemetery.
+
+In section 2 of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones from the old Paddington Cemetery which closed in 1914. 
+
+<!-- link to map --> 
 
 ## Headstones
 
@@ -15,17 +20,10 @@ Headstones within the Cemetery come in many shapes and sizes. Throughout the fir
 
 The cross also came in a variety of shapes. The Celtic cross (with its arms enclosed in a circle) was used mostly by those of Irish origin prior to the end of the 19th Century before they became a popular choice (regardless to national heritage). The unadorned cross was known as the Calvary cross, representing Christ's crucification. The Orthodox crosses with three bars symbolise the cross Christ was crucified on, with the title board (top bar), the bar on which the Lord's hands were nailed (middle bar) and the footrest (bottom bar).
 
-For more symbolism information, visit the display in portion 2 or read on.  
+Examples include:
 
-## Celtic cross
-
-Charles Bragg (1-44-14)
-
-## Calvary cross
-
-## Orthodox cross
-
-portion 4
+- the Orthodox crosses in portion 4
+- the Celtic cross for Charles Bragg (1-44-14)
 
 ## Columns
 
@@ -53,9 +51,7 @@ Clasped hands symbolise the belief Victorians held that they would be reunited w
 
 ## Plants
 
-
-
-
+Plants can represent a person's birthplace (such as thistles from Scotland) and also reflect religious meanings. See the grave of Michael McCormack and his wife Elizabeth (1-20-9) where ivy symbolises hope and mortality. Roses are another symbol that has multiple interpretations (including beauty, hope and love) and they are often associated with the Virgin Mary. The age of the deceased can also be revealed by the size of the flower or plant - a bud represents a child, and a full flower represents an adult. 
 
 ## Urns
 
@@ -82,5 +78,7 @@ In Steele Rudd Avenue you'll find a collection of broken gravestone. Why are the
 ## Source
 
 Gillon, E. (1972). [Victorian Cemetery Art](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_alma21121028210002061&context=L&vid=SLQ&lang=en_US&search_scope=SLQ_PCI_EBSCO&adaptor=Local%20Search%20Engine&tab=all&query=any,contains,Victorian%20Cemetery%20Art). New York: Dover Publications 
+
+## Copyright
 
 Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under the [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Minor formatting changes, photos and links added.
