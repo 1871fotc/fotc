@@ -33,6 +33,7 @@ theme:
 
   custom_dir: overrides
   features:
+#  - header.autohide
   - navigation.instant
   - navigation.tracking
   - navigation.top
@@ -98,7 +99,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - The Cemetery: cemetery.md
-  - Guided Tours: guided-walks.md
+  - Guided Tours: guided-tours.md
   - Self-Guided Walks:
     - Self-Guided Walks: walks/index.md    
     - Undertakers Underground: walks/undertakers-underground.md

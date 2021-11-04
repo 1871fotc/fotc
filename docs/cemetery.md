@@ -20,7 +20,7 @@ If you're using public transport to get here, use the [TransLink Journey Planner
 
 If you enter main entrance through the front gates, you'll find: 
 
-- Canon Garland Place named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for [guided heritage tours](guided-walks.md) and most [self-guided walks](walks/index.md)
+- Canon Garland Place named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for [guided heritage tours](guided-tours.md) and most [self-guided walks](walks/index.md)
 - the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) - open from 9am-1pm Monday to Friday. Staff can answer your enquiries, including helping to locate graves and ashes memorial sites.
 - an [Educational Museum](#museum) operated by the Friends of Toowong Cemetery. 
 - toilets, the only ones open in the cemetery.
@@ -38,6 +38,35 @@ Inside the cemetery you can get around by driving, walking, riding a bike or sco
 
 --8<-- "snippets/map.md"
 
+### Road name changes
+
+Some road names have recently been changed to the names of notable people interred on the road. Not all signs in the Cemetery have been updated to reflect these changes: 
+
+- **Walter Hill Drive** was part of **Boundary Road** running parallel to Mt Coot-tha Road
+- **Dr Lillian Cooper Drive** was part of **Boundary Road** running parallel to Richer Street
+- **Pride of Erin Drive** was part of **Boundary Road** running parallel to Birdwood Terrace
+- **Peter Jackson** was part of **Boundary Road** running parallel to Frederick Street furthest from the Front Gate
+- **Soldiers Parade** was part of **Boundary Road** running parallel to Frederick Street closest to the Front Gate
+- **1st Avenue** unchanged
+- **2nd Avenue** unchanged
+- **3rd Street** unchanged
+- **3rd Avenue** unchanged
+- **Steele Rudd Avenue** was **4th Avenue**
+- **5th Avenue** unchanged
+- **6th Avenue** unchanged
+- **7th Avenue** unchanged
+- **Emma Miller Avenue** was the part of **8th Avenue** behind Canon Garland Place
+- **Charles Heaphy Drive** was part of **8th Avenue** from the Shelter Shed to Emma Miller Avenue 
+- **Pat Hill Drive** was part of **8th Avenue** from the Richer Street end to the Shelter Shed
+- **9th Avenue** unchanged. 
+- **10th Avenue** unchanged
+- **O'Doherty Ave** was **11th Avenue**
+- **Elizabeth Dale Walk** was **12th Avenue**
+- **Canon Garland Avenue** was **13th Avenue**
+- **William Brown Avenue** was **14th Avenue**
+- **Federation Avenue** was **15th Avenue**
+
+<!--
 Points to note: 
 
 - Some roads are one way but not marked on the map.
@@ -46,6 +75,7 @@ Points to note:
 - Fourth Avenue is a dead end.
 - Fifteenth Avenue is a dead end but one of the highlights of the cemetery.
 - Some street names in the cemetery have recently changed. 
+-->
 
 ## Museum
 
@@ -53,7 +83,7 @@ Points to note:
 
 An Educational Museum is operated by the Friends of Toowong Cemetery. 
 
-The Museum is opened before and after our [guided heritage tours](guided-walks.md). If you would like to visit the museum but it is closed, staff at the Office will be pleased to open it for you.
+The Museum is opened before and after our [guided heritage tours](guided-tours.md). If you would like to visit the museum but it is closed, staff at the Office will be pleased to open it for you.
  
 ## About the cemetery
 
