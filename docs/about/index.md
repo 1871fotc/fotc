@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-#  About the Friends of the Toowong Cemetery
+#  About Friends of Toowong Cemetery
 
 The Friends of Toowong Cemetery is a small group of volunteers that discovers and shares the history of Toowong Cemetery and the stories of people interred there. 
 
@@ -23,16 +23,19 @@ The Friends of Toowong Cemetery:
     - outline an unmarked grave using a surface spray if the grave is unmarked. The spray does no harm and two mowings later will have disappeared. 
     - take digital photographs of a grave and email it to you.
 
-## What we have done
+## What we've done
 
 The Friends of Toowong Cemetery have:
 
+- established the [Federation Pavilion](https://monumentaustralia.org.au/themes/government/federal/display/92703-the-federation-pavilion-), which commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
+- arranged the celebration of the [140th Anniversary Commemoration of the cemetery](140-commemoration.md) and received a Silver Award in the 2012 National Trust of Queensland Heritage Awards for Volunteer Projects.
+- Published [self‑guided walks](walks/index.md). 
+- Provided over ==##== [guided heritage tours](guided-tours.md) since ==yyyy==.
+- Provided biographies for information signs at notable grave sites.
 - published *Resource Manual: a guide to visiting Toowong Cemetery*, which is recommended for teachers of school groups visiting the cemetery. It is available at ==[Brisbane City Council Libraries](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries)==, the [Paddington Ward Office](https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/lord-mayor-and-councillors/ward-office-locations/paddington-ward), or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
 <!-- Not in https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat -->
 <!-- Why not publish the resource for free? -->
 - published *Extraordinary Stories of Ordinary People*, a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. 
-- arranged the celebration of the [140th Anniversary Commemoration of the cemetery](140-commemoration.md) and received a Silver Award in the 2012 National Trust of Queensland Heritage Awards for Volunteer Projects.
-- established the [Federation Pavilion](https://monumentaustralia.org.au/themes/government/federal/display/92703-the-federation-pavilion-), which commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
 <!-- add image -->
 
@@ -71,7 +74,7 @@ The Friends of Toowong Cemetery Association Incorporated is a:
 - Registered Australian Business, ABN: [12868524011](https://abr.business.gov.au/ABN/View?id=12868524011)
 
 
-Bank details: 
+Our Bank details: 
 
 - Branch: NAB Toowong
 - BSB: 084-424 
