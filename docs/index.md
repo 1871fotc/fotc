@@ -10,7 +10,7 @@ hide:
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
-![Toowong Cemetery Main Entrance](assets/main-entrance.jpg){ width="200" } ![](assets/140-commemoration-sml.png){ width="200" } ![](assets/clapsed-hands-16x9.jpg){ width="200" } ![](assets/symbolism-display.jpg){ width="200" } 
+![Toowong Cemetery Main Entrance](assets/main-entrance.jpg){ width="33%" } ![](assets/140-commemoration-sml.png){ width="33%" } ![](assets/symbolism-display.jpg){ width="33%" } 
 
 The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland and over 190,000 people are buried there. It was established in 1866 and officially opened on 5 July 1875.
 
