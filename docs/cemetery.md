@@ -5,12 +5,16 @@ hide:
 
 #  Discover Toowong Cemetery
 
+![Toowong Cemetery Main Entrance](../assets/main-entrance.jpg)
+
 ## Getting here
 
 If you're driving to the cemetery, it has two entrances:
 
-- The main entrance, on the **[corner on Frederick Street and Mt Coot-tha Road, Toowong](https://www.google.com/maps/place/Toowong+Cemetery/@-27.4772749,152.9818283,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!8m2!3d-27.4772714!4d152.9839608)** can only be entered via a slip road approaching from the west.
+- The main entrance (above), on the **[corner on Frederick Street and Mt Coot-tha Road, Toowong](https://www.google.com/maps/place/Toowong+Cemetery/@-27.4772749,152.9818283,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!8m2!3d-27.4772714!4d152.9839608)** can only be entered via a slip road approaching from the west.
 - The back gate entrance, **opposite [26 Richer St, Toowong](https://www.google.com/maps/place/25+Richer+St,+Toowong+QLD+4066/@-27.4737507,152.9767263,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150dd31b12cc5:0xc3a1deb2fe09484!8m2!3d-27.4737555!4d152.978915)** is much easier to access. 
+
+
 
 Parking is available inside the cemetery along the roads. Please park on the left side of two-way roads where possible.
 
@@ -45,6 +49,7 @@ Some road names have recently been changed to the names of notable people interr
 - **Walter Hill Drive** was part of **Boundary Road** running parallel to Mt Coot-tha Road
 - **Dr Lillian Cooper Drive** was part of **Boundary Road** running parallel to Richer Street
 - **Pride of Erin Drive** was part of **Boundary Road** running parallel to Birdwood Terrace
+- **Francis Forde** was part of **Boundary Road** running parallel to Birdwood Terrace closest to Frederick Street
 - **Peter Jackson** was part of **Boundary Road** running parallel to Frederick Street furthest from the Front Gate
 - **Soldiers Parade** was part of **Boundary Road** running parallel to Frederick Street closest to the Front Gate
 - **1st Avenue** unchanged

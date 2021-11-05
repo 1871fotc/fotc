@@ -12,7 +12,7 @@ Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll se
 
 In section 2 of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones from the old Paddington Cemetery which closed in 1914. 
 
-<!-- photo --> 
+![](../assets/symbolism-display.jpg)
 
 <!-- link to map --> 
 
