@@ -122,7 +122,7 @@ Gillon, E. (1972). [Victorian Cemetery Art][Victorian Cemetery Art]. New York: D
 
 ## Copyright
 
-Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under the  [CC BY 4.0][cc-by]. Minor formatting changes, Lost and Found section, photos and links added.
+Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes, Lost and Found section, photos and links added.
 
 Toowong Cemetery Headstone Symbolism photographs © 2021 by Stephen Gates is licenced under [CC BY 4.0][cc-by].
 
