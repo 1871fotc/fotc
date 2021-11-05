@@ -16,12 +16,12 @@ hide:
 - Fix replace road signs
 - Update maps to show new road names
 - Explain broken grave stones in Steel Rudd drive
-- Repair broken grave-side Signs
+- Repair broken grave-side information signs
 - Mark section numbers on gutters to make graves easier to find
 
 ## Data
 
-- Release grave data as Open Data
+- Request the release [grave data]() and [location data]() as [Open Data](https://www.data.brisbane.qld.gov.au/)
 - Release geospatial data as Open Data
 
 ## Website and Apps

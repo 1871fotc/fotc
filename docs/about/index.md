@@ -5,7 +5,7 @@ hide:
 
 #  About Friends of Toowong Cemetery
 
-**The Friends of Toowong Cemetery is a small group of volunteers that discover and share the history of Toowong Cemetery and the stories of people interred there.**
+**Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
 <!-- photo of members -->
 
@@ -14,7 +14,7 @@ hide:
 The Friends of Toowong Cemetery:
 
 - **research** the history of Toowong Cemetery, its headstone designs, and the biographies of the people interred there. We encourage others to do to the same.
-- **share** our findings with the community through our publications, [guided heritage tours](../guided-tours.md) and [self-guided walks](../walks/index.md), our [educational museum](/cemetery/#museum), and contributions to other local history resources.
+- **share** our findings with the community through our publications, guided heritage tours, self-guided walks, our educational museum, and contributions to other local history resources.
 - **contribute** the stories of individuals interred at the Toowong and [Milton/Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to publications and biographical databases.
 - **participate** in a [yearly archaeological dig](https://www.abc.net.au/news/2018-05-26/archaeology-dig-at-toowong-cemetery-a-chance-to-unearth-history/9800474) in the cemetery grounds in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology). The dig searches for buried headstones from previously demolished graves and is [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022).
 - **consult** with the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) on future plans, new initiatives, and the restoration of graves.
@@ -51,7 +51,7 @@ With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 
 The Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha)** on the **[last Wednesday of the month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=___1___&cwf=______&holm=1&df=1)** (except December) at 6pm.
 
 <!-- convert to google form --> 
-**Any one can join** by completing an [Application form](http://www.fotc.org.au/subset/membership.pdf) and paying the Annual Membership Subscription (inc. GST):
+**Anyone can join** by completing an [Application form](http://www.fotc.org.au/subset/membership.pdf) and paying the Annual Membership Subscription (inc. GST):
 
 - $11 Individual
 - $5.50 Students / Pensioners
@@ -59,34 +59,31 @@ The Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditor
 
 ## Contact us 
 
-Email: [inquiries@fotc.org.au](mailto://inquiries@fotc.org.au)
+Email: **[inquiries@fotc.org.au](mailto://inquiries@fotc.org.au)**
 
-Call: [0439998053](tel: 0439998053) 
+Call: **[0439998053](tel: 0439998053)**
 
-Facebook: [@1871fotc](https://www.facebook.com/1871fotc/)
+Facebook: **[@1871fotc](https://www.facebook.com/1871fotc/)**
 
 Write: 
 
-<address>
-Friends of Toowong Cemetery Association Inc.<br>
-PO Box 808 <br>
-Toowong QLD 4066
-</address>
+**Friends of Toowong Cemetery Association Inc.** <br>
+**PO Box 808** <br>
+**Toowong QLD 4066**
 
 
 ## Important Numbers
 
 The Friends of Toowong Cemetery Association Incorporated is a:
 
-- Queensland Incorporated Association: [IA17170](https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/check-a-licence-association-charity-or-register/check-a-charity-or-association)
-- [Registered Charity](https://www.acnc.gov.au/charity/43eddd5b304a9f6e10eced63db189d47) with the Australian Charities and Not-for-profits Commission (ACNC)
-- Registered Australian Business, ABN: [12868524011](https://abr.business.gov.au/ABN/View?id=12868524011)
-
+- Queensland Incorporated Association: **[IA17170](https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/check-a-licence-association-charity-or-register/check-a-charity-or-association)**
+- **[Registered Charity](https://www.acnc.gov.au/charity/43eddd5b304a9f6e10eced63db189d47)** with the Australian Charities and Not-for-profits Commission (ACNC)
+- Registered Australian Business, ABN: **[12868524011](https://abr.business.gov.au/ABN/View?id=12868524011)**
 
 Our Bank details: 
 
-- Branch: NAB Toowong
-- BSB: 084-424 
-- Account Number: 67-601-3012
+- Branch: **NAB Toowong**
+- BSB: **084-424** 
+- Account Number: **67-601-3012**
 
 Please include your Surname as a reference if paying a membership subscription by direct deposit. 
