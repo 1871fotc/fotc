@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# ![](assets/fotc@0.5x.png){ width="28px" } Friends of Toowong Cemetery
+# Friends of Toowong Cemetery
 
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
@@ -23,8 +23,7 @@ On this site you'll find information about:
 - monthly **[guided heritage tours](guided-tours.md)** and **[self‑guided walks](walks/index.md)** 
 - the symbology of the **[headstones](headstones.md)**
 - the **[biographies](bios/index.md)** of people interred at the cemetery
-- **[Friends of Toowong Cemetery](about/index.md)** - what we do, how to join in, and contact details
-
+- **[Friends of Toowong Cemetery](about/index.md)** - what we do, how to join in, and contact details 
 
 <!-- insert photos and map -->
 <!--

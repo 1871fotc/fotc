@@ -6,7 +6,7 @@ search:
   boost: 2  
 ---
 
-#  About Friends of Toowong Cemetery
+# About Friends of Toowong Cemetery  
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
@@ -47,8 +47,12 @@ The Friends of Toowong Cemetery have:
 
 ## What we're working on
 
-- We're updating the directions and maps for our [Self‑guided walks](../walks/index.md). To update the maps we need access to the location data for the cemetery and someone skilled in making maps. Can you help?  
-- We're encouraging the community to volunteer through a simple one-off interaction. On this site you'll find these opportunities shown in orange Volunteer boxes like the one below.
+Currently we are: 
+
+- updating our website (if you're reading this, you're looking at our work in progress)
+- creating a simple logo <br><br> ![](../assets/fotc@0.5x.png){ width="32px" } <br>
+- updating the directions and maps for our [self‑guided walks](../walks/index.md). To update the maps we need access to the location data for the cemetery and someone skilled in making maps. Can you help?  
+- encouraging the community to volunteer through a simple one-off interaction. On this site you'll find these opportunities shown in orange Volunteer boxes like the one below. 
 
 !!! warning "Volunteer opportunity"
 
