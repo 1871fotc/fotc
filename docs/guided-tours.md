@@ -16,6 +16,9 @@ The Friends of Toowong Cemetery offer guided heritage walking tours on the **[fi
 
 There is **no need to book**, just **[meet under the flagpole, in Canon Garland Place at the, at the Toowong Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#location)**. There is plenty of parking available inside the cemetery.
 
+![](../assets/flag-pole.jpg)
+
+
 **Wear a hat, enclosed shoes, and bring a water bottle**. 
 
 **A gold coin donation is appreciated to allow us to continue [our work](about/index.md)**. Although we are a registered charity, donations are not tax deductable. 

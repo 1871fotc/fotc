@@ -27,6 +27,8 @@ Headstones within the Cemetery come in many shapes and sizes. Throughout the fir
 
 The cross comes in a variety of shapes. The Celtic cross (with its arms enclosed in a circle) was used mostly by those of Irish origin prior to the end of the 19th Century before they became a popular choice (regardless to national heritage). The unadorned cross was known as the Calvary cross, representing Christ's crucification. The Orthodox cross with three bars symbolises the cross Christ was crucified on, with the title board (top bar), the bar on which the Lord's hands were nailed (middle bar) and the footrest (bottom bar).
 
+![](../assets/celtic-cross.jpg){ width="30%" } ![](../assets/cross-with-bird-and-flowers.jpg){ width="30%" } ![](../assets/orthodox-cross.jpg){ width="30%" }
+
 <!--
 Examples include:
 - the Orthodox crosses in portion 4
@@ -39,6 +41,9 @@ Examples include:
 ## Columns
 
 Columns are indicative of heaven and their height implies the social status of the person buried. A broken column represents the break between life on earth and in heaven, and also a life cut short. Columns were also used to represent the loss of the head of family.
+
+![](../assets/column.jpg)
+
 
 ## Crown
 
@@ -109,12 +114,13 @@ The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and
 
 Books often symbolise the Bible and the faith of its reader. An open book has also been associated with the human heart.
 
+![](../assets/book.jpg)
 <!-- photos --> 
 <!-- add caption and plot id -->
 
 ## Lost and Found
 
-In Steele Rudd Avenue you'll find a collection of broken headstones. Why are they here? Where did they come from? What is planned? 
+In Steele Rudd Avenue you'll find a collection of broken headstones. Where did they come from? Why are they here? What is planned? 
 
 ![](../assets/lost-and-found.jpg)
 <!-- add caption and plot id -->

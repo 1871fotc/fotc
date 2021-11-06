@@ -43,7 +43,7 @@ The Friends of Toowong Cemetery have:
     - **Extraordinary Stories of Ordinary People**, a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. 
     - **140th Anniversary Commemoration of the Toowong Cemetery** - DVD
 
-<!-- add image of Fe-->
+![Federation Pavillion](../assets/federation-pavillion.jpg)
 
 ## What we're working on
 

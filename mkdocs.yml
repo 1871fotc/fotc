@@ -103,7 +103,7 @@ nav:
   - Home: index.md
   - The Cemetery: 
     - The Cemetery: cemetery/index.md
-    - Cemetery History: cemetery/cemetery-history.md
+    - Cemetery History: cemetery/history.md
     - Museum: cemetery/museum.md
     - Finding Graves: cemetery/finding-graves.md
   - Guided Tours: guided-tours.md

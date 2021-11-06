@@ -12,7 +12,7 @@ See if you can locate Peter Jackson's grave using the Portion and Section number
 
 Portion numbers are shown on maps and sign posts throughout the cemetery.
 
-<!-- photo -->  
+![Portion Sign](../assets/portion-sign.jpg)
 
 ## Look up where someone is buried
 
@@ -52,24 +52,24 @@ The contrast is stark between elaborate monuments built by the elite on the high
 
 The Cemetery Trustees received numerous requests for separate burial sections from churches and other like minded group to ensure that religious and social class distinctions within society were perpetuated in mortality.
 
-- Portion 1 was allocated to the Church of England with still born babies occupying the northern area of this Portion. 
-- Portion 2 which was originally allocated to the Wesleyan Methodists (2A) also contains the graves of more than 10,000 still born babies and other hospital burials. 
-- Portion 3 was allocated to the Hebrews.
-- Portion 4 appears to be a general area and contains the [Temple of Peace](https://apps.des.qld.gov.au/heritage-register/detail/?id=600334) and the [Caskey Memorial](https://apps.des.qld.gov.au/heritage-register/detail/?id=600335). 
-- Portion 5 contains public ground. 
-- Portion 6 contains Primitive Methodists and also a substantial number of the reinterments from the old Milton/Paddington Cemetery. 
-- Portion 7 contains Irish Catholics and Portion 7A the Roman Catholics. The small subdivision of 7A to the west of Portion 7 contains early Roman Catholic graves. 
-- Portion 8 once contained Chinese graves (relocated to portion 2, and then Portion 7, before being re-interred to 19). Most of the early Chinese graves were exhumed and returned to China. 
-- Portion 8 and 18 contain general ground with Greek and Russian Orthodox at the western ends of both.
-- Portions 9, 11, 12, 13 and 14 surround the Blackall Monument located on the highest knoll in the Cemetery. The upper reaches of these portions contain Queensland's most prominent political, legal, arts, religious and business figures. 
-- The pauper grounds were located in the low-lying area in Portion 16. 
-- Portion 10 contains the administrative buildings for the site - the Sexton's office, the Museum (former Sexton's office) and storage shed spanning the open drain, the Amenities block with a storage and workshop adjacent. The Shrine of Remembrance and Cross of Sacrifice occupy the southern end of this Portion and are prominently centred on an axis from the main entry gates. 
-- Portions 15 and 15 A contain public Catholic graves. Part of Portion 15 was originally allocated to the burial of criminals and was later resold as Catholic ground. 
-- Portions 20, 21, 22, 23, 29 and 29A in the northern corner of the Cemetery were laid out after the turn of the century. Part of Portions 21and 22 contain hospital and Department of Native Affairs graves. Portion 22 contains Italian graves and also the grave of former Prime Minister Forde.
-- Portions 25, 26 and 27 laid out in the western corner of the site contain Catholic graves and occupy the land purchased in 1916 from Ned Alexander (Portion 872). 
-- Portion 30 was the last ground to be laid out in 1930 and contains, amongst others, graves for Dunwich and Goodna Asylum patients in its south-eastern corner. An avenue of oleanders marks the boundary between portions 29 and 30.
+- **Portion 1** was allocated to the **Church of England** with still born babies occupying the northern area of this Portion. 
+- **Portion 2** which was originally allocated to the **Wesleyan Methodists** (2A) also contains the graves of more than 10,000 still born babies and other hospital burials. 
+- **Portion 3** was allocated to the **Hebrews**.
+- **Portion 4** appears to be a **general area** and contains the [Temple of Peace](https://apps.des.qld.gov.au/heritage-register/detail/?id=600334) and the [Caskey Memorial](https://apps.des.qld.gov.au/heritage-register/detail/?id=600335). 
+- **Portion 5** contains **public ground**. 
+- **Portion 6** contains **Primitive Methodists** and also a substantial number of the reinterments from the old **Milton/Paddington Cemetery**. 
+- **Portion 7** contains **Irish Catholics** and **Portion 7A** the **Roman Catholics**. The small subdivision of 7A to the west of Portion 7 contains early Roman Catholic graves. 
+- **Portion 8 and 18** contain general ground with **Greek and Russian Orthodox** at the western ends of both.
+- **Portions 9, 11, 12, 13 and 14** surround the Blackall Monument located on the highest knoll in the Cemetery. The upper reaches of these portions contain **Queensland's most prominent political, legal, arts, religious and business figures**. 
+- **Portion 10** contains the **administrative buildings** for the site - the Sexton's office, the Museum (former Sexton's office) and storage shed spanning the open drain, the Amenities block with a storage and workshop adjacent. The **Shrine of Remembrance** and **Cross of Sacrifice** occupy the southern end of this Portion and are prominently centred on an axis from the main entry gates. 
+- **Portions 15 and 15A** contain public **Catholic graves**. Part of Portion 15 was originally allocated to the burial of criminals and was later resold as Catholic ground. 
+- **Portion 16**, in the low-lying area, contain the **pauper grounds**. 
+- **Portion 19** contains **Chinese graves**. These graves where relocated from portion 2, to Portion 7, before being re-interred to Portion 19. Most of the early Chinese graves were exhumed and returned to China.
+- **Portions 20, 21, 22, 23, 29 and 29A** in the northern corner of the Cemetery were laid out after the turn of the century. Part of Portions 21 and 22 contain **hospital and Department of Native Affairs graves**. Portion 22 contains Italian graves and also the grave of former **Prime Minister Francis Forde**.
+- **Portions 25, 26 and 27** laid out in the western corner of the site contain **Catholic graves** and occupy the land purchased in 1916 from Ned Alexander. 
+- **Portion 30** was the last ground to be laid out in 1930 and contains, amongst others, graves for **Dunwich and Goodna Asylum patients** in its south-eastern corner. An avenue of oleanders marks the boundary between Portions 29 and 30.
 
-<!-- what about portions 16-19, 24, 28 -->
+<!-- what about portions 17-18, 24, 28 -->
 
 A survey of the layout of graves, reveal differences between many of the portions with some aligned to magnetic north, some to true north, and others at varying degrees from North. The sections in the Church of England section are laid out at 45 degrees east of true north. In August 1875, the Church of England requested that graves be laid east-west.
 
