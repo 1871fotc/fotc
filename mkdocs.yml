@@ -3,8 +3,8 @@ site_name: Friends of Toowong Cemetery
 site_url: https://stephen-gates.github.io/fotc/site/
 site_author: Stephen Gates
 site_description: >-
-  Discover and share our local history
-copyright: © 2000–2021 Friends of Toowong Cemetery 
+  Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
+copyright: © 2021 Friends of Toowong Cemetery 
 
 # Configuration
 theme:

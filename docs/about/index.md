@@ -43,7 +43,7 @@ The Friends of Toowong Cemetery have:
     - **Extraordinary Stories of Ordinary People**, a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. 
     - **140th Anniversary Commemoration of the Toowong Cemetery** - DVD
 
-![Federation Pavillion](../assets/federation-pavillion.jpg)
+![](../assets/federation-pavillion.jpg)
 
 ## What we're working on
 
@@ -69,7 +69,6 @@ With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 
 The Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha)** on the **[last Wednesday of the month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=___1___&cwf=______&holm=1&df=1)** (except December) at 6pm.
 
 ![](../assets/auditorium.jpg)
-
 
 <!-- convert to google form --> 
 **Anyone can join** by completing an [Application form](http://www.fotc.org.au/subset/membership.pdf) and paying the Annual Membership Subscription (inc. GST):
