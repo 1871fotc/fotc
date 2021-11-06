@@ -47,8 +47,15 @@ The Friends of Toowong Cemetery have:
 
 ## What we're working on
 
-==to do==
+- We're updating the directions and maps for our [Self‑guided walks](../walks/index.md). To update the maps we need access to the location data for the cemetery and someone skilled in making maps. Can you help?  
+- We're encouraging the community to volunteer through a simple one-off interaction. On this site you'll find these opportunities shown in orange Volunteer boxes like the one below.
 
+!!! warning "Volunteer opportunity"
+
+    A simple opportunity to contribute to improving the Toowong Cemetery environment and our understanding of its stories and history.
+    
+
+    
 ## What have we got planned? 
 
 With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 5 July 2025** we're planning a very special event. More will be revealed closer to the day.

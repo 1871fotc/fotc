@@ -31,7 +31,7 @@ theme:
   icon:
     admonition:
       example: fontawesome/regular/compass
-      warning: fontawesome/solid/pen
+      warning: fontawesome/solid/hand-holding-heart
   custom_dir: overrides
   features:
 #  - header.autohide

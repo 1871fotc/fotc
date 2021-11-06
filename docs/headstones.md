@@ -29,21 +29,11 @@ The cross comes in a variety of shapes. The Celtic cross (with its arms enclosed
 
 ![](../assets/celtic-cross.jpg){ width="30%" } ![](../assets/cross-with-bird-and-flowers.jpg){ width="30%" } ![](../assets/orthodox-cross.jpg){ width="30%" }
 
-<!--
-Examples include:
-- the Orthodox crosses in portion 4
-- the Celtic cross for Charles Bragg (1-44-14)
--->
-
-<!-- photos --> 
-<!-- add caption and plot id -->
-
 ## Columns
 
 Columns are indicative of heaven and their height implies the social status of the person buried. A broken column represents the break between life on earth and in heaven, and also a life cut short. Columns were also used to represent the loss of the head of family.
 
 ![](../assets/column.jpg)
-
 
 ## Crown
 
@@ -55,6 +45,10 @@ A crown was often used to represent the "sovereignty of the Lord".
 ## Harp or Lyre
 
 A harp or lyre symbolises hope, joy and music. It was the symbol of St. Cecila, the Patron Saint of Musicians, and is often associated with worship in heaven. This can be seen on the grave of Joseph Phillips (10-8-12).
+
+!!! warning "Volunteer opportunity"
+
+    Contribute a photo of a headstone with a Harp or Lyre. Tell us where you found it. 
 
 <!-- photos of grave of Joseph Phillips (10-8-12) --> 
 <!-- add caption and plot id -->
@@ -85,9 +79,17 @@ Clasped hands symbolise the belief Victorians held that they would be reunited w
 
 Plants can represent a person's birthplace (such as thistles from Scotland) and also reflect religious meanings. See the grave of Michael McCormack and his wife Elizabeth (1-20-9) where ivy symbolises hope and mortality. Roses are another symbol that has multiple interpretations (including beauty, hope and love) and they are often associated with the Virgin Mary. The age of the deceased can also be revealed by the size of the flower or plant - a bud represents a child, and a full flower represents an adult. 
 
-![](../assets/plant.jpg)
+![](../assets/plant.jpg){ width="30%" }  ![](../assets/cross-with-vine.jpg){ width="30%" }  ![](../assets/bud.jpg){ width="30%" } 
+
+
 <!-- add caption and plot id -->
 <!-- Get photo of Michael McCormack and his wife Elizabeth (1-20-9) -->
+
+
+!!! warning "Volunteer opportunity"
+
+    Contribute a photo of a headstone with a thistle, rose or other plant on it. Tell us where you found it. 
+
 
 ## Urns
 

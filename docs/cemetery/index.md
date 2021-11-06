@@ -80,6 +80,11 @@ Some road names have recently been changed to the names of notable people interr
 - **10th Avenue** unchanged
 -->
 
+!!! warning "Volunteer"
+
+    Unfortunately signs are often vandalised in the cemetery. If you find a damaged of missing sign, please take a photo and [report it to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)
+
+
 <!--
 Points to note: 
 

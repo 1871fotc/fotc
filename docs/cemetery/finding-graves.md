@@ -14,6 +14,11 @@ Portion numbers are shown on maps and sign posts throughout the cemetery.
 
 ![Portion Sign](../assets/portion-sign.jpg)
 
+!!! warning "Volunteer opportunity"
+
+    Unfortunately Portion signs are often vandalised in the cemetery. If you find a damaged of missing sign, please take a photo and [report it to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)
+
+
 ## Look up where someone is buried
 
 Use the Brisbane City Council [Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search) to look up a person's name and find the grave location and other details. 
@@ -32,7 +37,7 @@ Information on the official burial records that can be updated, includes:
 - cause of death
 - photograph of headstone or grave
 
-!!! warning "Volunteer"
+!!! warning "Volunteer opportunity"
 
     Consider contributing a photograph of a headstone to improve the Council database to help others discover the history and stories of Toowong Cemetery.
 
@@ -79,7 +84,7 @@ Grave makers can be seen beside or embedded into graves. They don't follow the *
 
 ![Toowong Cemetery Main Entrance](../assets/markers.jpg)
 
-!!! warning "Volunteer"
+!!! warning "Volunteer opportunity"
 
     Do you know how the marker numbering scheme works? Contact us and let us know and we'll add the information here.
 
