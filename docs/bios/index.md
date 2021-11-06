@@ -1,6 +1,9 @@
 ---
 hide:
-  - navigation
+  - navigation  
+
+search:
+  boost: 2  
 ---
 
 #  Biographies 
@@ -36,19 +39,3 @@ Search [Trove](https://trove.nla.gov.au) to read obituaries of people interred i
 - [Obituaries K - N](http://trove.nla.gov.au/list?id=4454)
 - [Obituaries O - R](http://trove.nla.gov.au/list?id=4453)
 - [Obituaries S - Z](http://trove.nla.gov.au/list?id=4430)
-
-## Find a grave site 
-
-[Search the Toowong Cemetery Burial Records](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). Records returned include: 
-
-- Surname
--	Given Names
--	Other Names
--	Details
--	Date of Birth	
-- Date of Death	
-- Age	
-- Service Date	
-- Cemetery
-
-[View the Brisbane City Council Map](https://graves.brisbane.qld.gov.au/pdf/Facilities_cemeteries_Toowong.pdf) to locate grave sites.

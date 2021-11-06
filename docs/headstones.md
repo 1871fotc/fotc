@@ -1,6 +1,9 @@
 ---
 hide:
   - navigation
+
+search:
+  boost: 2  
 ---
 
 #  Headstones

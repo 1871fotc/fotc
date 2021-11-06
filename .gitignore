@@ -1,1 +1,11 @@
+# Caches and logs
+
 .cache
+
+# macOS internals
+
+.DS_Store
+
+# Build files
+
+/site

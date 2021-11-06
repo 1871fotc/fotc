@@ -1,5 +1,5 @@
 
-Before you start, review the map.
+
 
 <a href="http://www.fotc.org.au/toowong_map.jpg" title="Click to expand. Press back to return to this page.">
   <figure>

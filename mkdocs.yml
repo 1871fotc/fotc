@@ -8,6 +8,7 @@ copyright: © 2000–2021 Friends of Toowong Cemetery
 
 # Configuration
 theme:
+  language: en
   name: material
   logo: assets/fotc@0.5x.png
   favicon: assets/favicon.ico
@@ -30,7 +31,7 @@ theme:
   icon:
     admonition:
       example: fontawesome/regular/compass
-
+      warning: fontawesome/solid/pen
   custom_dir: overrides
   features:
 #  - header.autohide
@@ -42,7 +43,7 @@ theme:
   - navigation.indexes
   - search.highlight
   - search.suggest
-  - search.share
+#  - search.share
 
 # Customization
 extra:
@@ -90,6 +91,8 @@ markdown_extensions:
   
 # Plugins
 # plugins:
+#  - tags:
+#      tags_file: tags.md
 #  - search
 #  - social:
 #      cards_directory: assets/images/social
@@ -98,7 +101,11 @@ markdown_extensions:
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
-  - The Cemetery: cemetery.md
+  - The Cemetery: 
+    - The Cemetery: cemetery/index.md
+    - Cemetery History: cemetery/cemetery-history.md
+    - Museum: cemetery/museum.md
+    - Finding Graves: cemetery/finding-graves.md
   - Guided Tours: guided-tours.md
   - Self-Guided Walks:
     - Self-Guided Walks: walks/index.md    
@@ -134,3 +141,6 @@ nav:
   - About Us: 
     - About Us: about/index.md
     - 140th Anniversary Commemoration: about/140-commemoration.md
+  - Blog: 
+    - Blog: blog/index.md
+    - Blog 2020: blog/2020.md    

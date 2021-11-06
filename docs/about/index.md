@@ -1,6 +1,9 @@
 ---
 hide:
   - navigation
+  
+search:
+  boost: 2  
 ---
 
 #  About Friends of Toowong Cemetery
@@ -16,8 +19,8 @@ The Friends of Toowong Cemetery:
 - **research the history of Toowong Cemetery**, its headstone designs, and the biographies of the people interred there. We encourage others to do to the same.
 - **share our discoveries** with the community through our publications, guided heritage tours, self-guided walks, our educational museum, and contributions to other local history resources.
 - **contribute stories** of individuals interred at the Toowong and [Milton/Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to publications and biographical databases.
-- **participate in [archaeological digs](https://www.abc.net.au/news/2018-05-26/archaeology-dig-at-toowong-cemetery-a-chance-to-unearth-history/9800474)** in the cemetery grounds in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology). The dig searches for buried headstones from previously demolished graves and is [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022).
-- **consult with the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)** on future plans, new initiatives, and the restoration of graves.
+- **participate in archaeological digs** in the cemetery grounds in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology). The dig searches for [buried headstones](https://www.abc.net.au/news/2018-05-26/archaeology-dig-at-toowong-cemetery-a-chance-to-unearth-history/9800474) from previously demolished graves and is [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022).
+- **consult with the Brisbane City Council** on future plans, new initiatives, and the restoration of graves.
 - **locate marked and unmarked graves**. Contact us to ask us to:
     - mark the side of the road with the section number relating to your search to help you to find it easily when you visit.
     - outline an unmarked grave using a surface spray if the grave is unmarked. The spray does no harm and two mowings later will have disappeared. 
@@ -40,8 +43,11 @@ The Friends of Toowong Cemetery have:
     - **Extraordinary Stories of Ordinary People**, a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. 
     - **140th Anniversary Commemoration of the Toowong Cemetery** - DVD
 
-<!-- add image -->
+<!-- add image of Fe-->
 
+## What we're working on
+
+==to do==
 
 ## What have we got planned? 
 
@@ -50,6 +56,9 @@ With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 
 ## Join us 
 
 The Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha)** on the **[last Wednesday of the month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=___1___&cwf=______&holm=1&df=1)** (except December) at 6pm.
+
+![](../assets/auditorium.jpg)
+
 
 <!-- convert to google form --> 
 **Anyone can join** by completing an [Application form](http://www.fotc.org.au/subset/membership.pdf) and paying the Annual Membership Subscription (inc. GST):

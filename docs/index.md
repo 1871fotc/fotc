@@ -12,9 +12,6 @@ hide:
 
 ![][image1]{ width="30%" } ![][image2]{ width="30%" } ![][image3]{ width="30%" }   
 
-
-
-
 The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland with over 190,000 people buried there. It was established in 1866 and officially opened on 5 July 1875.
 
 <!-- What is planned for the 150th commemoration? -->
