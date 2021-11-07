@@ -18,7 +18,6 @@ There is **no need to book**, just **[meet under the flagpole, in Canon Garland 
 
 ![](../assets/flag-pole.jpg)
 
-
 **Wear a hat, enclosed shoes, and bring a water bottle**. 
 
 **A gold coin donation is appreciated to allow us to continue [our work](about/index.md)**. Although we are a registered charity, donations are not tax deductable. 
@@ -26,4 +25,4 @@ There is **no need to book**, just **[meet under the flagpole, in Canon Garland 
 
 ## Ghost Tours
 
-[Toowong Cemetery Ghost Tours](https://ghosttoursaustralia.com.au/brisbane-ghost-tours/toowong-cemetery-original/) is a commercial tour run in the cemetery at night. This tour is not associated with the Friends of Toowong Cemetery.
+**[Toowong Cemetery Ghost Tours](https://ghosttoursaustralia.com.au/brisbane-ghost-tours/toowong-cemetery-original/)** is a commercial tour run in the cemetery at night. This tour is not associated with the Friends of Toowong Cemetery.

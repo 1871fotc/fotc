@@ -8,7 +8,6 @@ search:
 
 #  Headstones
 
-
 The Toowong Cemetery is a Brisbane icon and was once the city's main cemetery. Toowong Cemetery officially opened in July 1875, however burials took place from 1871 (most notably Queensland's second governor, Colonel Samual Blackall in 1871).
 
 Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll see the traditions and symbols from her reign throughout the cemetery.
@@ -81,15 +80,12 @@ Plants can represent a person's birthplace (such as thistles from Scotland) and 
 
 ![](../assets/plant.jpg){ width="30%" }  ![](../assets/cross-with-vine.jpg){ width="30%" }  ![](../assets/bud.jpg){ width="30%" } 
 
-
 <!-- add caption and plot id -->
 <!-- Get photo of Michael McCormack and his wife Elizabeth (1-20-9) -->
-
 
 !!! warning "Volunteer opportunity"
 
     Contribute a photo of a headstone with a thistle, rose or other plant on it. Tell us where you found it. 
-
 
 ## Urns
 

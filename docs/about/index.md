@@ -56,10 +56,8 @@ Currently we are:
 
 !!! warning "Volunteer opportunity"
 
-    A simple opportunity to contribute to improving the Toowong Cemetery environment and our understanding of its stories and history.
-    
+    A simple opportunity to contribute to improving the Toowong Cemetery environment and our understanding of its stories and history.    
 
-    
 ## What have we got planned? 
 
 With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 5 July 2025** we're planning a very special event. More will be revealed closer to the day.
@@ -75,7 +73,6 @@ The Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditor
 
 - $11 Individual
 - $5.50 Students / Pensioners
-
 
 ## Contact us 
 
