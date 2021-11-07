@@ -10,12 +10,26 @@ search:
 
 ## Getting here
 
+### Driving
+
 If you're driving to the cemetery, it has two entrances:
 
 - The main entrance (above), on the **[corner on Frederick Street and Mt Coot-tha Road, Toowong](https://www.google.com/maps/place/Toowong+Cemetery/@-27.4772749,152.9818283,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!8m2!3d-27.4772714!4d152.9839608)** can only be entered via a slip road approaching from the west.
 - The back gate entrance, **[opposite 26 Richer St, Toowong](https://www.google.com/maps/place/25+Richer+St,+Toowong+QLD+4066/@-27.4737507,152.9767263,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150dd31b12cc5:0xc3a1deb2fe09484!8m2!3d-27.4737555!4d152.978915)** is much easier to access. 
 
-Parking is available inside the cemetery along the roads. Please park on the left side of two-way roads where possible.
+Parking is available inside the cemetery along the roads. Please park on the left side of two‑way roads where possible.
+
+### Walking
+
+If you're walking, in addition to the entries above, you can enter via:
+
+- the pedestrian ramp from Mt Coot-tha Road, opposite the Brisbane Botanic Gardens Mt Coot-tha
+- Frederick Street gate that leads onto Steel Rudd Avenue (previously 4th Avenue)
+- the many informal entries off Birdwood Terrance
+
+![](../assets/pedestrian-ramp.jpg)
+
+### Public Transport
 
 If you're using public transport to get here, use the [TransLink Journey Planner](https://jp.translink.com.au/plan-your-journey/journey-planner) to plan your trip.
 
@@ -28,20 +42,26 @@ If you enter main entrance through the front gates, you'll find:
 - an [Educational Museum](museum.md) operated by the Friends of Toowong Cemetery. 
 - toilets, the only ones open in the cemetery.
 
-If you enter via the Richer Street back gate:
+If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
-- turn right into Dr. Lillian Cooper Drive and continue to the Shelter Shed 
-- veer left at the Shelter Shed down the one way William Brown Avenue (previously 14th Avenue) 
-- at the end, turn right into 8th Avenue to arrive behind Canon Garland Place, where you can park on the side of the road. 
+- turn right into Dr. Lillian Cooper Drive (previously Boundary Road) and continue to the Shelter Shed 
+- veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14th Avenue) 
+- at the end, turn right into Emma Miller Avenue (previously 8th Avenue) to arrive behind Canon Garland Place, where you can park on the side of the road. 
 
- 
+![](../assets/flag-pole.jpg)
+
 ## Map
 
 Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. 
 
 Before you start, review the map.
 
---8<-- "snippets/map.md"
+<!-- Map -->
+[![](../assets/toowong-cemetery-map.png)][map]
+<figcaption>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: Old Road names shown.</figcaption>
+<!-- Map links -->
+[map]: ../assets/toowong-cemetery-map.png "Click to expand the map. Use Back to return to this page"
+[map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
 
 ### Road name changes
 
@@ -91,11 +111,5 @@ Points to note:
 - Some roads are one way but not marked on the map.
 - There is a large difference in height between the main entrance and Birdwood Terrace which runs parallel to the edge of the cemetery. 
 - Fifth Avenue is especially steep.
-- Fourth Avenue is a dead end.
 - Fifteenth Avenue is a dead end but one of the highlights of the cemetery.
-- Some street names in the cemetery have recently changed. 
 -->
-
-<!-- Links -->
-
-[cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"

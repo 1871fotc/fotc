@@ -1,16 +1,7 @@
 
+[![](../assets/toowong-cemetery-map.png)][map]
+<figcaption>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: Old Road names shown.</figcaption>
 
-
-<a href="http://www.fotc.org.au/toowong_map.jpg" title="Click to expand. Press back to return to this page.">
-  <figure>
-    <img src="http://www.fotc.org.au/toowong_map.jpg" alt="Toowong Cemetery Map" style="height:200px;">
-    <figcaption>Toowong Cemetery Map</figcaption>
-  </figure>
-</a>
-
-<!-- 
-- Add coloured gradient and slope direction to map - https://www.plotaroute.com/tip/15/how-to-show-gradients-on-a-route-map
-- Add route
-- Add plots
-- Add points of interest
--->
+<!-- Links -->
+[map]: ../assets/toowong-cemetery-map.png "Click to expand the map. Use Back to return to this page"
+[map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"

@@ -91,14 +91,12 @@ markdown_extensions:
   
 # Plugins
 # plugins:
-#  - tags:
-#      tags_file: tags.md
 #  - search
 #  - social:
 #      cards_directory: assets/images/social
 
-
 # Page tree - only 2 levels allowed
+# order wals better
 nav:
   - Home: index.md
   - The Cemetery: 
