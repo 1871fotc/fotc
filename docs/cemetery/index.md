@@ -57,7 +57,7 @@ Inside the cemetery you can get around by driving, walking, riding a bike or sco
 Before you start, review the map.
 
 <!-- Map -->
-[![](../assets/toowong-cemetery-map.png)][map]
+[![](../assets/toowong-cemetery-map@0.5x.png)][map]
 <figcaption>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: Old Road names shown.</figcaption>
 <!-- Map links -->
 [map]: ../assets/toowong-cemetery-map.png "Click to expand the map. Use Back to return to this page"
