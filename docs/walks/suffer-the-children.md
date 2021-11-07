@@ -8,7 +8,6 @@ hide:
 
 Brisbane’s infant mortality rate in the latter half of the 19th century equalled that of the worse slums of the United Kingdom. More children died in spring and summer than winter and these rates did not improve between the mid-1870s and the 1890s[^1]. In December 1876, 52 children under the age of eight were buried at Toowong Cemetery. The most common causes of death included childhood diseases, infections, drowning, burns and scalds. The most dramatic improvement did not occur until the fifth decade of the twentieth century and the advent of penicillin.
 
-
 ## Map
 
 [![](../assets/toowong-cemetery-map.png)][map]
