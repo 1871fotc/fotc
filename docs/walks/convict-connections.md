@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Convict Connections
+# Convict Connections Trail
 
 [Notes](http://www.fotc.org.au/subset/convicts.pdf)
 

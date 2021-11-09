@@ -10,6 +10,9 @@ A Maritime Walk through Toowong Cemetery. Compiled by Hilda Maclean.
 
 The anchor is a symbol found on many Christian graves but it does not necessarily point to a maritime career. The allegorical figure, Hope, is often shown holding an anchor. Anchors may be shown with its rope crudely cut or a broken chain link to indicate the deceased has been removed from the land of the living, often prematurely.
 
+==insert map and directions==
+
+
 ## Able Seaman W. J. Harrhy <small>(4-16-4)</small>
 
 William John Harrhy, aged 31, a sailor on HMS Dauntless, drowned in the Brisbane River on Good Friday, 1924 when ship was on a goodwill visit. The officers organised a dance aboard the Dauntless in aid of his dependents. William was born in Cardiff, Wales and had been in the Navy for over fifteen years.

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Founding Fathers 
+# Founding Fathers Trail
 
 Members of the first Brisbane General Cemetery Trust. 
 

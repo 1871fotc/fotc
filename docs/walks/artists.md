@@ -4,7 +4,10 @@ hide:
   - navigation
 ---
 
-# Artists 
+# The Artists Trail
+
+==insert map and directions==
+
 
 ## Le Fevre James Cranstone <small>(2A-15-22)</small>
 

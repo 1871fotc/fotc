@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Brisbane Mayors 
+# Brisbane Mayors Trail
  
 [Notes](http://www.fotc.org.au/subset/brisbane_mayors.pdf)
 

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Irish Trail 
+# The Irish Heritage Trail 
 
 ==work in progress== 
 

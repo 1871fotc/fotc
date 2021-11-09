@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Colonial Conflicts
+# Colonial Conflicts Trail
 
 Remembrance Day Service and Guided Walk conducted at Toowong Cemetery on the 4th November 2012.
 
