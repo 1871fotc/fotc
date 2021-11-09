@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Toowong Identities - Heritage Walk A 
+# Toowong Identities Heritage Trail 1 
 
 Sponsored by Judy Magub, Councillor for Toowong.
 

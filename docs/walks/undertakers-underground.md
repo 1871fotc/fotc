@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Undertakers Underground
+# Undertakers Underground Heritage Trail
 
 <!-- Insert a map -->
 <!-- What to the numbers mean - map references --> 

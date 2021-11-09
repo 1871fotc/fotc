@@ -17,7 +17,7 @@ theme:
   logo: assets/fotc@0.5x.png
   favicon: assets/favicon.ico
   icon:
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/github-alt
   font:
     text: Raleway
     code: Roboto Mono 
@@ -124,8 +124,8 @@ nav:
     - The Artists Trail: walks/artists.md 
     - Founding Fathers: walks/founding-fathers.md     
     - Notable Women: walks/notable-women.md    
-    - Toowong Identities Heritage Trail A: walks/toowong-identities-a.md 
-    - Toowong Identities Heritage Trail B: walks/toowong-identities-b.md 
+    - Toowong Identities Heritage Trail 1: walks/toowong-identities-a.md 
+    - Toowong Identities Heritage Trail 2: walks/toowong-identities-b.md 
     - The Federation Trail: walks/federation-trail.md
     - Governors Past: walks/governors-past.md 
     - Brisbane Mayors: walks/brisbane-mayors.md
@@ -136,8 +136,8 @@ nav:
     - The Jewish Heritage Trail: walks/jewish-trail.md    
     - The Lutheran Heritage Trail: walks/lutheran-trail.md    
     - Suffer the children to come unto me: walks/suffer-the-children.md 
-    - BCC Toowong Cemetery Tour One: walks/bcc-walk-1.md 
-    - BCC Toowong Cemetery Tour Two: walks/bcc-walk-2.md 
+    - BCC Toowong Cemetery Tour 1: walks/bcc-walk-1.md 
+    - BCC Toowong Cemetery Tour 2: walks/bcc-walk-2.md 
   - Headstones: headstones.md  
   - Biographies: 
     - Biographies: bios/index.md

@@ -33,7 +33,7 @@ He was a world‑class heavy‑weight wrestler. As a youth he trained to be a si
 
 ??? Example "Directions" 
 
-    Moving along another 14 headstones you will come across the grave of: 
+    Moving along another 14 headstones you will come across the grave of...
 
 ## Morris Moskowitch 
 
@@ -45,7 +45,7 @@ Walking up another 6 headstones and still looking left you will come to the grav
 
 This type of massive monument is unusual for its size and is rarely utilised nowadays.
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
     Another 13 headstones along this same path is the grave of 
 
@@ -53,7 +53,7 @@ This type of massive monument is unusual for its size and is rarely utilised now
 
 This is an example of the bronze plaques erected by the War Graves Commission over the graves of ex‑servicemen.
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
     The grave next to this one is the grave of... 
 
@@ -65,7 +65,7 @@ As a young man he came to Brisbane from his home in Latvia. He worked as a plumb
 
     Walking to the end of this path walk around to the start of second path. Looking right, go to the seventh headstone, and you will see the large headstone of...
 
- ## Rev. Jonas Myer Myers 
+## Rev. Jonas Myer Myers 
  
 The good man was the Minister of the Brisbane Hebrew Congregation, serving here for 45 years and in Toowoomba and Adelaide for several years. He was, more than anyone else, responsible for the building of the Brisbane Synagogue in Margaret Street. It was started in 1885 and finished in 1886 and remains in full use. The Sepher Torah scroll, at the top of his monument, indicates that he was regarded as a particularly good person. It carries the words,
 
@@ -73,7 +73,7 @@ The good man was the Minister of the Brisbane Hebrew Congregation, serving here 
 
 ??? Example "Directions" 
 
-    Walk two graves along and you have reached the graves of: 
+    Walk two graves along and you have reached the graves of...
     
 ## Lawrence, Lawrence and Loewe 
 
@@ -105,7 +105,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
     
 ## Phyliss Mary Peixetto  
 
-(The x in Peixetto is pronounced z.) 
+(The "x" in Peixetto is pronounced "z".) 
 
 She was a descendant of a man by that name, who led the entire Jewish Community of America. There is a well‑known painting in the Library of the US Congress, showing him with a Jewish delegation which was congratulating George Washington on his victory over the colonial power and assuring him of their loyalty.
 
@@ -178,7 +178,7 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
 
 ??? Example "Directions" 
 
-    Now go to the end of this 3rd path and round to the start of the 4th path and look to the right and to the 4th grave of:
+    Now go to the end of this 3rd path and round to the start of the 4th path and look to the right and to the 4th grave of...
 
 ## Van Millingen 
 
@@ -186,7 +186,7 @@ It would be a pity if this fine Grey‑Gum has to be destroyed before it does fu
 
 ??? Example "Directions" 
 
-    Walking along the same path another 3 headstones you will come to the grave of:
+    Walking along the same path another 3 headstones you will come to the grave of...
 
 ## Arthur Hyam 
 
@@ -206,7 +206,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
 
 ??? Example "Directions" 
 
-    The third grave after the SHEMOTH grave and in the rear row is that of 
+    The third grave after the SHEMOTH grave and in the rear row is that of... 
 
 ## E. S. Meyers <small>3‑22‑22</small>
 
@@ -254,7 +254,7 @@ Sali was Queensland's greatest bush balladeer and wrote many songs about the dro
 
 ??? Example "Directions" 
 
-    Moving along the path for another 10 monuments, you will come to the grave of:
+    Moving along the path for another 10 monuments, you will come to the grave of...
 
 ## Samuel Joseph Levy <small>3‑8‑20/21</small>
 

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Toowong Identities - Heritage Walk B
+# Toowong Identities Heritage Trail 2
 
 A Heritage Walk to Commemorate the Centenary of the Proclamation of the Town of Toowong in 1903
 

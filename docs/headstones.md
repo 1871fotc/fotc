@@ -127,6 +127,10 @@ In Steele Rudd Avenue you'll find a collection of broken headstones. Where did t
 
 Gillon, E. (1972). [Victorian Cemetery Art][Victorian Cemetery Art]. New York: Dover Publications 
 
+## Further Reading
+
+The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conservation](https://www.nationaltrust.org.au/services/cemetery-conservation/) has further information on headstone and monument conservation, terminology and symbology. 
+
 ## Copyright
 
 Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes, Lost and Found section, photos and links added.
