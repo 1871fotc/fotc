@@ -43,7 +43,7 @@ A walk recognising people involved in the Labor Movement.
 
     - Continue to walk down 15th Avenue to and  stop at 11‑51‑3, on your left, where you'll find the 3 graves close to each other. 
     
-      ![William Henry Browne](../assets/william-brown.jpg){ width="100" } ![John Gordon Smith](https://dummyimage.com/100x138/){ width="100" } ![Anderson Dawson](https://dummyimage.com/100x138/){ width="100" } 
+      ![William Henry Browne](../assets/william-henry-browne.jpg){ width="100" } ![John Gordon Smith](https://dummyimage.com/100x138/){ width="100" } ![Anderson Dawson](https://dummyimage.com/100x138/){ width="100" } 
 
 --8<-- "snippets/william-henry-browne.md"
 

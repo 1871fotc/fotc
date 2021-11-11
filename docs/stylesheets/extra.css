@@ -2,6 +2,19 @@
   color: #7e56c2;
 }
 
+
+/* banded rows */
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+th {
+  background-color: #cccccc;
+}
+
+
+
 // Blog author
 .mdx-author {
   display: flex;
