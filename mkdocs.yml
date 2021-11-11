@@ -144,13 +144,15 @@ nav:
     - Suffer the children to come unto me: walks/suffer-the-children.md 
     - BCC Toowong Cemetery Tour 1: walks/bcc-walk-1.md 
     - BCC Toowong Cemetery Tour 2: walks/bcc-walk-2.md 
-  - Headstones: headstones.md  
+  - Headstones: 
+    - Headstones: headstones/index.md  
+    - Headstone Symbolism: headstones/headstone-symbology.md
   - Biographies: 
     - Biographies: bios/index.md
     - Biography Index: bios/bio-index.md
   - About Us: 
     - About Us: about/index.md
     - 140th Anniversary Commemoration: about/140-commemoration.md
-  - Blog: 
-    - Blog: blog/index.md
-    - Blog 2020: blog/2020.md    
+  - News: 
+    - News 2021: news/index.md
+    - News 2020: news/2020.md    

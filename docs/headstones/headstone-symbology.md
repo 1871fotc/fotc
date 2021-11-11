@@ -1,12 +1,10 @@
 ---
-hide:
-  - navigation
 
 search:
   boost: 2  
 ---
 
-#  Headstones
+#  Headstone Symbolism
 
 The Toowong Cemetery is a Brisbane icon and was once the city's main cemetery. Toowong Cemetery officially opened in July 1875, however burials took place from 1871 (most notably Queensland's second governor, Colonel Samual Blackall in 1871).
 
@@ -17,8 +15,6 @@ In section 2 of the cemetery, at the intersection of Soldiers Parade and Garland
 ![](../assets/symbolism-display.jpg)
 
 <!-- link to map --> 
-
-## Symbolism
 
 Headstones within the Cemetery come in many shapes and sizes. Throughout the first half of the 19th Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
 

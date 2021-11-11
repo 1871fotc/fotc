@@ -1,12 +1,11 @@
 ---
-hide:
-  - navigation
+
   
 search:
   boost: 2  
 ---
 
-# Blog 2021
+# News 2021
 
 ---
 
