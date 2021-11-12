@@ -33,7 +33,7 @@ The Friends of Toowong Cemetery have:
 - **established [Federation Pavilion](https://monumentaustralia.org.au/themes/government/federal/display/92703-the-federation-pavilion-)**, which commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 - **celebrated the [140th Anniversary Commemoration of the cemetery](140-commemoration.md)**. We received a Silver Award in the 2012 National Trust of Queensland Heritage Awards for Volunteer Projects.
 - provided **biographies for information signs** at notable grave sites.
-- provided over ==##== **[guided heritage tours](../guided-tours.md)** since ==yyyy==.
+- provided **[guided heritage tours](../guided-tours.md)** since 1996.
 - published: 
     - **[Self‑guided walks](../walks/index.md)** 
     - **Resource Manual: a guide to visiting Toowong Cemetery**, which is recommended for teachers of school groups visiting the cemetery. It is available at ==[Brisbane City Council Libraries](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries)==, the [Paddington Ward Office](https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/lord-mayor-and-councillors/ward-office-locations/paddington-ward), or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
@@ -50,13 +50,18 @@ The Friends of Toowong Cemetery have:
 Currently we are: 
 
 - updating our website (if you're reading this, you're looking at our work in progress)
-- creating a simple logo <br><br> ![](../assets/fotc@0.5x.png){ width="32px" } <br>
-- updating the directions and maps for our [self‑guided walks](../walks/index.md). To update the maps we need access to the location data for the cemetery and someone skilled in making maps. Can you help?  
+- creating a simple logo <br><br> ![](../assets/fotc@0.5x.png){ width="32px" } <br> 
 - encouraging the community to volunteer through a simple one-off interaction. On this site you'll find these opportunities shown in orange Volunteer boxes like the one below. 
+- updating the directions and maps for our [self‑guided walks](../walks/index.md). 
 
 !!! warning "Volunteer opportunity"
 
-    A simple opportunity to contribute to improving the Toowong Cemetery environment and our understanding of its stories and history.    
+    To update the maps we need:
+    
+    - access and a licence to the location data for the cemetery (boundaries, internal and surrounding roads, portions, sections and plots, building outlines, monuments, waterways, taps). Ideally this would be released as Open Data.
+    - access and a licence to the [grave data](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). Ideally this would be released as Open Data.
+    - someone skilled in making maps. Can you help? 
+
 
 ## What have we got planned? 
 

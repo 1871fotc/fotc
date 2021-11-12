@@ -10,7 +10,7 @@ hide:
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
-![][image1]{ width="30%" } ![][image2]{ width="30%" } ![][image3]{ width="30%" }   
+![][image1]{ width="32%" } ![][image2]{ width="32%" } ![][image3]{ width="32%" }   
 
 <!-- Carousal or clickable images -->
 
@@ -31,6 +31,3 @@ On this site you'll find information about:
 [image1]: assets/main-entrance.jpg
 [image2]: assets/140-commemoration-sml.png
 [image3]: assets/symbolism-display.jpg 
-[image4]: assets/harry-potter.jpg
-[image5]: assets/140-commemoration-sml.png
-[image6]: assets/symbolism-display.jpg 

@@ -13,31 +13,12 @@ th {
   background-color: #cccccc;
 }
 
+/* show logo in mobile format 
 
-
-// Blog author
-.mdx-author {
-  display: flex;
-  font-size: px2rem(13.6px);
-
-  // Blog author image
-  img {
-    height: px2rem(40px);
-    border-radius: 100%;
-  }
-
-  // Blog author content
-  p {
-
-    // TODO: refactor, use dedicated classes
-    &:first-child {
-      flex-shrink: 0;
-      margin-right: px2rem(16px);
-    }
-
-    // Blog metadata
-    > span {
-      display: block;
-    }
+@media screen and (max-width: 76.1875em) {
+  .md-nav__button.md-logo {
+    order: -1;
+    display: block;
   }
 }
+*/
