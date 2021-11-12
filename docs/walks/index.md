@@ -19,7 +19,7 @@ Walks by profession:
 - [In their caring hands](in-their-caring-hands.md) - A heritage trail to commemorate the role of nurses, doctors and health professionals. <!-- Hilda Maclean -->
 - [Lest We Forget](lest-we-forget.md) 
 - [Lest We Forget - Navy Walk](lest-we-forget-navy.md) 
-- [Toowong Cemetery Rememberance Walk](rememberance-walk.md) - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known.
+<!-- - [Toowong Cemetery Rememberance Walk](rememberance-walk.md) - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
 - [Anchors Aweigh!](anchors-aweigh.md) - A Maritime walk through Toowong Cemetery.  <!-- Hilda Maclean -->
 - [The Thin Blue Line](thin-blue-line.md) - Queensland Colonial Policing.
 - [All the world’s a stage](all-the-worlds-a-stage.md) 

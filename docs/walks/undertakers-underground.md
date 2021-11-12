@@ -7,7 +7,7 @@ hide:
 # Undertakers Underground Heritage Trail
 
 <!-- Insert a map -->
-<!-- What to the numbers mean - map references --> 
+<!-- What to the numbers mean? add into map snippet --> 
 
 <a href="https://uc49c45756ccdb9e02b3bfa0fc46.previews.dropboxusercontent.com/p/thumb/ABXBp5mi8z0StualrswvLuQiuCcjxlLGEUhqZKQldVvYhngJfcSIqlgTXaAfEu_Uc9ewxWGX4BZ4FshtjN2IOlk4L1XBVxKpAXh6QPFJ3cOcNP6dHtmXgqfH4iC3SN4ytAD1gM0OawK5qs0QwcM6mBvdOa8XoLtdaWyBtjx_2LL_q2DBDYbr0XkOci4x0pFVYW9-cAeW8wVFGq3msdrRBUOmKyLj_klSXuXTOyrIVgIcM238mfIWqZ-fCvxdx2YFOfNSnkJTt2hqtgMag6oZyK7QPT40cWSKhZwymBtFjpA8UvU6YSHFoLLUyOnj4NkqmWbUchfS93tylYXGh-KCmVuYX2wR0TSkAGaXQteLle-TrCQDfpCwugJGa8dU7xiE4linnvCDuVLf67xi3ZPaHSAu/p.png?fv_content=true&size_mode=5" title="click to expand">
   <figure>
@@ -16,6 +16,12 @@ hide:
   </figure>
 </a>
 
+??? Warning "To Do" 
+
+    - Check walking order
+    - Create map
+    - Add directions
+    - Add headstone photos
 
 ## George Barney Petrie (13-5-3)
 
@@ -45,7 +51,11 @@ Walter Barrett was born in July 1833 in Taunton, Somerset, son of a veterinary s
 
 ## Kate Mary Smith (1-7-14)
 
-Kate Mary Smith, giving her name to the KM Smith Funerals, was a true pioneer in an era when women pursued domestic duties or worked in service or in factories. Born in Ireland in 1847 as Catherine Mary Farrell, she immigrated to Australia with her brother in the 1860s. Kate Farrell is believed to have worked for the Jardine family on Cape York. Certainly she was at Somerset on 27 January 1868 when she married Marine John Smith at the Registrar’s Office. Their marriage certificate shows John was 29, and a piano forte maker like his father; Kate was 21 and described herself as a servant. Kate Mary, a Catholic, and her Anglican husband John, arrived in Brisbane in 1874. Through their respective churches and his Freemasonry, they were able to make extensive social and business connections, despite living in poor circumstances themselves. John often applied his cabinet making and carpentry skills to produce coffins, subsequently becoming an undertaker. They lived in Peel Street, South Brisbane, and later at Manning Street, and bought the undertaking business of William Walsh in 1883. They operated for many years from George Street, just near the old Lands Department, and they competed for business with other undertakers such as Walter Barrett and the Hislops. Two years later John Smith was dealing with his solicitors about leasing land at the corner of Wickham and Gotha Streets, below the steep hill crowned by All Hallows. On 11 January 1886, the Smith family moved from South Brisbane to the Valley where they lived in the upper storey, above the business. Nearby were the very necessary stables, housing the hearses and the black horses that drew them. It was a many-faceted business, and they were on call day and night. But Kate Mary's husband was ill, suffering from consumption, and weakened by an attack on the Marines at Somerset in 1864 in which he had suffered two spear wounds, serious enough for him to have been sent to Sydney for some months. A few months later he died, at Wickham Street, aged 42, and was buried by a Church of England minister at Toowong on 20 May 1886. Kate Mary had run the business for some time already, assisted by her eldest son, John. She had learned how to embalm, a necessary skill to enable the transportation of bodies, but a rare one for a woman to master. This was especially remarkable as women of the time rarely attended funerals let alone work in the industry. She closely monitored all aspects of its operations and insisted on quality service.
+Kate Mary Smith, giving her name to the KM Smith Funerals, was a true pioneer in an era when women pursued domestic duties or worked in service or in factories. Born in Ireland in 1847 as Catherine Mary Farrell, she immigrated to Australia with her brother in the 1860s. Kate Farrell is believed to have worked for the Jardine family on Cape York. Certainly she was at Somerset on 27 January 1868 when she married Marine John Smith at the Registrar’s Office. Their marriage certificate shows John was 29, and a piano forte maker like his father; Kate was 21 and described herself as a servant. 
+
+Kate Mary, a Catholic, and her Anglican husband John, arrived in Brisbane in 1874. Through their respective churches and his Freemasonry, they were able to make extensive social and business connections, despite living in poor circumstances themselves. John often applied his cabinet making and carpentry skills to produce coffins, subsequently becoming an undertaker. They lived in Peel Street, South Brisbane, and later at Manning Street, and bought the undertaking business of William Walsh in 1883. They operated for many years from George Street, just near the old Lands Department, and they competed for business with other undertakers such as Walter Barrett and the Hislops. Two years later John Smith was dealing with his solicitors about leasing land at the corner of Wickham and Gotha Streets, below the steep hill crowned by All Hallows. 
+
+On 11 January 1886, the Smith family moved from South Brisbane to the Valley where they lived in the upper storey, above the business. Nearby were the very necessary stables, housing the hearses and the black horses that drew them. It was a many-faceted business, and they were on call day and night. But Kate Mary's husband was ill, suffering from consumption, and weakened by an attack on the Marines at Somerset in 1864 in which he had suffered two spear wounds, serious enough for him to have been sent to Sydney for some months. A few months later he died, at Wickham Street, aged 42, and was buried by a Church of England minister at Toowong on 20 May 1886. Kate Mary had run the business for some time already, assisted by her eldest son, John. She had learned how to embalm, a necessary skill to enable the transportation of bodies, but a rare one for a woman to master. This was especially remarkable as women of the time rarely attended funerals let alone work in the industry. She closely monitored all aspects of its operations and insisted on quality service.
 
 The company continued to develop as times changed, and was an early mover from horse drawn hearses to motor vehicles completing the process in 1932. Kate Mary was a generous supporter of the church and the Mater hospital. Strong and determined, she has been described as a feisty woman who did not suffer fools gladly. These qualities saw the company flourish, despite the hardships of World War One and the depression. Personal tragedy also continued to strike, by the time of her death in June 1932 aged 85, Kate Mary had buried four of her six children.
 
@@ -67,7 +77,10 @@ Thank you to Laurel Shanley from [K. M. Smith Funerals](https://kmsmith.com.au) 
 
 [Download the PDF of this walk](http://www.fotc.org.au/subset/undertakers_underground.pdf), print it, and fold it in half to make an A5 booklet. 
 
+<!-- 
 ## View the map
 
 - [View the FoTC map to locate the graves](http://www.fotc.org.au/toowong_map.jpg)
 - [View the BCC map to locate the graves](https://graves.brisbane.qld.gov.au/pdf/Facilities_cemeteries_Toowong.pdf)
+
+-->

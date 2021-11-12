@@ -22,7 +22,7 @@ On this site you'll find information about:
 
 - visiting **[the cemetery](cemetery/index.md)**, exploring its history, and a map to guide you
 - monthly **[guided heritage tours](guided-tours.md)** and **[self‑guided walks](walks/index.md)** 
-- **[headstones](headstones/index.md)** and their **[symbology](headstones/headstone-symbology.md)**
+- **[headstones](headstones/index.md)** and their **[symbology](headstones/symbolism.md)**
 - the **[biographies](bios/index.md)** of people interred at the cemetery
 - **[Friends of Toowong Cemetery](about/index.md)** - what we do, how to join in, and contact details 
 

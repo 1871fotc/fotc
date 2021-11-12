@@ -5,7 +5,7 @@ hide:
 
 # Biography Index
 
-The sortable table below lists the people mentioned in our self-guided walks.
+The sortable table below lists the people mentioned in our [self-guided walks](../walks/index.md).
 
 - Dates are formatted in year, month, day order to facilitate sorting
 - Where a day, month or year is unknown, a placeholder value of "dd", "mm", or "yyyy" is used

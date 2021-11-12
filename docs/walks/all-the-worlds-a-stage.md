@@ -9,7 +9,17 @@ hide:
 Samuel Keenan, Member of the Original Georgia Minstrels
 -->
 
-==insert map and directions==
+
+??? Warning "To Do" 
+
+    - Add cover image
+    - Check walking order
+    - Create and insert map with link to portion-section-plot explanation
+    - Add directions
+    - Add headstone photos
+    - Convert Bios to Snippets
+    - Create Bio pages
+    - Add Bios to [Index](../bios/bio-index.md)
 
 ## Edward McGregor <small>(4‑16‑17/18)</small>
 
