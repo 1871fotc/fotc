@@ -11,7 +11,11 @@ search:
 
 The Friends of Toowong Cemetery have researched and published a large collection of themed self-guided walks. The Brisbane City Council has also published two walks. You can do self-guided walks around the cemetery anytime during [visiting hours](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#visiting-hours).
 
-<!-- re-categorise these walks -->
+
+??? Warning "To Do" 
+
+    - Determine the best way to group these walks
+    - Refine names and descriptions
 
 Walks by profession:
 

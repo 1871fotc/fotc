@@ -4,7 +4,10 @@
 
 An Educational Museum is operated by the Friends of Toowong Cemetery. 
 
-The Museum is opened before and after our [guided heritage tours](../guided-tours.md). If you visit at other times, staff at the Office will be pleased to open the Museum for you. 
+The Museum is opened before and after our [guided heritage tours](../guided-tours.md). 
+<!--
+If you visit at other times, staff at the Office will be pleased to open the Museum for you. 
+--> 
 
 ![Toowong Cemetery Museum](../assets/museum.jpg)
 

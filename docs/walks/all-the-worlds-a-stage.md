@@ -9,7 +9,6 @@ hide:
 Samuel Keenan, Member of the Original Georgia Minstrels
 -->
 
-
 ??? Warning "To Do" 
 
     - Add cover image
@@ -47,7 +46,9 @@ In December 1905 Mobsby's 11‑year‑old son Arthur Timewell drowned; each year
 
 ## Karoly (Charles) Pulszky <small>(5‑2‑3)</small>
 
-Charles was born in London on 10 November 1854, the son of politician and revolutionary Ferenc Pulsky, a member of a prominent Hungarian family. He was an urbane art collector who founded the Budapest Museum of Fine Arts. He married famous Ibsen‑exponent, actress Emilia Márkus. Implicated in a politically‑motivated financial scandal, he went into a lonely exile after a trial in 1896. He shot himself at Myrltetown on 5 June 1899 having been in Queensland for about two months working as an AMP canvasser. In 1913, while on a tour to South America, the world‑famous ballet dancer Vaslav Nijinsky impulsively married his daughter, Romola Pulsky, who had pursued him throughout Europe. The White Stag of Exile was written about his life by Thomas Shapcott in 1984.
+Charles was born in London on 10 November 1854, the son of politician and revolutionary Ferenc Pulsky, a member of a prominent Hungarian family. He was an urbane art collector who founded the Budapest Museum of Fine Arts. He married famous Ibsen‑exponent, actress Emilia Márkus. 
+
+Implicated in a politically‑motivated financial scandal, he went into a lonely exile after a trial in 1896. He shot himself at Myrltetown on 5 June 1899 having been in Queensland for about two months working as an AMP canvasser. In 1913, while on a tour to South America, the world‑famous ballet dancer Vaslav Nijinsky impulsively married his daughter, Romola Pulsky, who had pursued him throughout Europe. The White Stag of Exile was written about his life by Thomas Shapcott in 1984.
 
 ## Thomas Macer AKA Megan <small>(21‑14‑3)</small>
 
@@ -55,7 +56,13 @@ Thomas was an English music hall artist touring Australia when he died suddenly 
 
 ## Arthur Aldridge <small>(23‑31‑14)</small> and Kyrle Edward McAllister AKA Kyrle Sylvaney <small>(23‑31‑15)</small>
 
-English‑born Arthur was a tenor who was a regular fixture on the Melbourne stage. Arthur was 57 when he died on 3 November 1929 in a motor accident together with variety artist Kyrle Sylvaney who was aged 33. Their headstone was erected as a token of affection by their friends and admirers. He was born in 1873 in Walsall, Staffordshire. He was a saddlemaker and the story goes that his workmates heard him singing and said that if they could sing like that then they would never work again. He decided to try his fame and fortune by going to London and performing at the music halls The Pavillion and The Palace. He was discovered by William Morris who suggested he go with him to New York. His wife did not want to go, but he went regardless! He sang Shubert‑Brady revivals on Broadway where he played many leading roles until 1915. He was with J. C. Williamson’s company and toured Australia. He came to Australia with Nell Flemming and played in The Follies. The National Library of Australia has a collection of sheet music dedicated to him.
+English‑born Arthur was a tenor who was a regular fixture on the Melbourne stage. Arthur was 57 when he died on 3 November 1929 in a motor accident together with variety artist Kyrle Sylvaney who was aged 33. Their headstone was erected as a token of affection by their friends and admirers. 
+
+He was born in 1873 in Walsall, Staffordshire. He was a saddlemaker and the story goes that his workmates heard him singing and said that if they could sing like that then they would never work again. He decided to try his fame and fortune by going to London and performing at the music halls The Pavillion and The Palace. 
+
+He was discovered by William Morris who suggested he go with him to New York. His wife did not want to go, but he went regardless! He sang Shubert‑Brady revivals on Broadway where he played many leading roles until 1915. He was with J. C. Williamson’s company and toured Australia. He came to Australia with Nell Flemming and played in The Follies. 
+
+The National Library of Australia has a collection of sheet music dedicated to him.
 
 ## Sources
 

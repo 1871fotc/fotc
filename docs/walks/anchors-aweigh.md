@@ -11,15 +11,17 @@ A Maritime Walk through Toowong Cemetery.
 The anchor is a symbol found on many Christian graves but it does not necessarily point to a maritime career. The allegorical figure, Hope, is often shown holding an anchor. Anchors may be shown with its rope crudely cut or a broken chain link to indicate the deceased has been removed from the land of the living, often prematurely.
 
 
-??? Warning "To Do" 
+??? warning "To Do" 
 
+    - Add cover image
     - Check walking order
-    - Create map
+    - Create and insert map with link to portion-section-plot explanation
     - Add directions
     - Add headstone photos
     - Convert Bios to Snippets
     - Create Bio pages
-    - Add Bios to [Index](../bios/bio-index.md)
+    - Add Bios to [Index](../bios/bio-index.md)    
+
 
 ## Able Seaman W. J. Harrhy <small>(4-16-4)</small>
 

@@ -11,6 +11,19 @@ Members of the first Brisbane General Cemetery Trust.
 The Brisbane General Cemetery Trust commenced when the first Trustees were appointed on 7 Oct 1870. They were John Petrie (Chairman), Samuel Walker Griffith, George Edmonstone, John Hardgrave, James Cowlishaw, William Pettigrew, Alexander Raff, Nathaniel Lade and Michael Quinlan. The Trust’s first secretary was Henry James Oxley, Griffith’s brother‑in‑law, who held the position for 41 years. John Melville was appointed overseer of the cemetery by the Trustees in 1873. On 1 August 1930, Toowong Cemetery and all others with the Brisbane City Council municipality were placed under the management and control of the Council.
 
 
+??? Warning "To Do" 
+
+    - Check walking order
+    - Create and insert map with link to portion-section-plot explanation
+    - Add directions
+    - Add headstone photos
+    - Convert Bios to Snippets
+    - Create Bio pages
+    - Add Bios to [Index](../bios/bio-index.md)
+    - Decide if link is needed to [Download the PDF of this walk]http://www.fotc.org.au/subset/founding_fathers.pdf)
+    
+    
+
 ## John Petrie <small>(13‑5‑3)</small>
 
 John Petrie was born on 15 January 1822 at Edinburgh, eldest son of Andrew Petrie and his wife Mary, née Cuthbertson. He arrived in Sydney with his family in 1831 and was educated at Reverend John Dunmore Lang's school. In 1837, he arrived aboard the James Watt, the first steamer to enter Moreton Bay, where his father had been appointed clerk of works, and accompanied him on explorations to the Bunya Mountains and Maroochy River. The family stayed on in the Moreton Bay District after the penal settlement closed. After learning the ropes in the family building and contracting business John assumed responsibility for its management after his father's blindness in 1848 forced him to retire. John became sole proprietor and the firm was changed from Petrie & Son to John Petrie. 

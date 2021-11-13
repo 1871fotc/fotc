@@ -18,7 +18,7 @@ Volunteer guides lead you on a heritage walk through the cemetery. The **[Toowon
 
 There is **no need to book**, just **[meet under the flagpole, in Canon Garland Place at the, at the Toowong Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#location)**. There is plenty of parking available inside the cemetery.
 
-![](assets/flag-pole.jpg)
+![][image1]
 
 **Wear a hat, enclosed shoes, and bring a water bottle.**
 
@@ -32,3 +32,5 @@ Other volunteer groups and commercial operators run tours in the cemetery under 
 - **[Tragic Tales of Toowong Cemetery](https://www.fosbc.com/tours/tragic-tales-toowong-tour/)** is a unique night tour that focusses on some of the ghost stories, cemetery folklore and the horrible history surrounding this priceless heritage-listed site. Hear amazing true stories of the Moreton Bay Penal Settlement, Brisbane’s lost graveyard, horrific hangings, bloody murders, and, in among this horrible history, be prepared for some spine-tingling tales of the ghosts that are said to reside within Toowong Cemetery.
 
 - **[Toowong Cemetery Ghost Tours](https://ghosttoursaustralia.com.au/brisbane-ghost-tours/toowong-cemetery-original/)** is a commercial tour run in the cemetery at night. 
+
+[image1]: assets/flag-pole.jpg

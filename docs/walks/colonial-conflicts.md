@@ -9,6 +9,19 @@ Remembrance Day Service and Guided Walk conducted at Toowong Cemetery on the 4th
 
 Service arranged by [Gavin Stoneley](https://www.linkedin.com/in/gavin-stoneley-a1569234/?originalSubdomain=au) Metropolitan Funerals. Address given by [Judy Magub](https://www.funeralcelebrants.org.au/celebrant-profiles/qld/judy-magub-funeral-celebrant).
 
+??? Warning "To Do" 
+
+    - Add cover image - galloway image © BCC- B120-3459galloway image © BCC- B120-3459
+    - Check walking order
+    - Create and insert map with link to portion-section-plot explanation
+    - Add directions
+    - Add headstone photos
+    - Convert Bios to Snippets
+    - Create Bio pages
+    - Add Bios to [Index](../bios/bio-index.md)
+    - Decide if link is needed to [Download the PDF of this walk](http://www.fotc.org.au/subset/military_2012.pdf)
+    
+    
 [Portion 10](http://www.fotc.org.au/toowong_map.jpg) contains numerous Commonwealth War Graves and received military burials between 1917 and 1942 when they were transferred to [Lutwyche Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/lutwyche-cemetery). Flowers were cultivated and sold at the Cemetery from Portion 10 until the 1930s. In 1934 the area set apart for soldiers’ graves within Portion 10 was extended to incorporate the flower gardens and the wooden pavilion was demolished. As the military graves were interspersed amongst civilian burials, this portion lacks the familiar formality of a [Commonwealth War Cemetery](https://www.cwgc.org).
 
 
@@ -56,12 +69,3 @@ Vowles, born ca. 1846 in Ipswich, claimed to be the first Queensland-born soldie
 ## Acknowledgements
 
 Additional Research by Paul Seto
-
-## Print the booklet
-
-[Download the PDF of this walk](http://www.fotc.org.au/subset/military_2012.pdf), print it, and fold it in half to make an A5 booklet. 
-
-## View the map
-
-- [View the FoTC map to locate the graves](http://www.fotc.org.au/toowong_map.jpg)
-- [View the BCC map to locate the graves](https://graves.brisbane.qld.gov.au/pdf/Facilities_cemeteries_Toowong.pdf)

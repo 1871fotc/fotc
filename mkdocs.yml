@@ -4,7 +4,7 @@ site_url: https://stephen-gates.github.io/fotc/site/
 site_author: Stephen Gates
 site_description: >-
   Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
-copyright: © 2021 Friends of Toowong Cemetery 
+copyright: © 1996 — 2021 Friends of Toowong Cemetery Association Incorporated
 # repo_url: https://github.com/Stephen-Gates/fotc
 # repo_name: Stephen-Gates/fotc
 # edit_uri: ""
@@ -36,8 +36,9 @@ theme:
 #      name: Switch to dark mode
   icon:
     admonition:
+      question: fontawesome/solid/hand-holding-heart
       example: fontawesome/regular/compass
-      warning: fontawesome/solid/hand-holding-heart
+      warning: fontawesome/regular/check-circle
   custom_dir: overrides
   features:
 #  - header.autohide
@@ -130,29 +131,31 @@ nav:
     - The Artists Trail: walks/artists.md 
     - Founding Fathers: walks/founding-fathers.md     
     - Notable Women: walks/notable-women.md    
-    - Toowong Identities Heritage Trail 1: walks/toowong-identities-a.md 
-    - Toowong Identities Heritage Trail 2: walks/toowong-identities-b.md 
+    - Toowong Identities Trail 1: walks/toowong-identities-a.md 
+    - Toowong Identities Trail 2: walks/toowong-identities-b.md 
     - The Federation Trail: walks/federation-trail.md
     - Governors Past: walks/governors-past.md 
     - Brisbane Mayors: walks/brisbane-mayors.md
     - Labor Luminaries: walks/labor-luminaries.md 
     - Convict Connections: walks/convict-connections.md 
     - Colonial Conflicts: walks/colonial-conflicts.md     
-    - The Irish Heritage Trail: walks/irish-trail.md 
-    - The Jewish Heritage Trail: walks/jewish-trail.md    
-    - The Lutheran Heritage Trail: walks/lutheran-trail.md    
+    - The Irish Trail: walks/irish-trail.md 
+    - The Jewish Trail: walks/jewish-trail.md    
+    - The Lutheran Trail: walks/lutheran-trail.md    
     - Suffer the children to come unto me: walks/suffer-the-children.md 
     - BCC Toowong Cemetery Tour 1: walks/bcc-walk-1.md 
     - BCC Toowong Cemetery Tour 2: walks/bcc-walk-2.md 
   - Headstones: 
-    - Headstones: headstones/index.md  
-    - Headstone Symbolism: headstones/symbolism.md
+    - Headstone Symbolism: headstones/index.md
+    - Headstones Types: headstones/types.md  
   - Biographies: 
     - Biographies: bios/index.md
-    - Biography Index: bios/bio-index.md
-  - About Us: 
-    - About Us: about/index.md
-    - 140th Anniversary Commemoration: about/140-commemoration.md
+    - Index: bios/bio-index.md
   - News: 
     - News 2021: news/index.md
     - News 2020: news/2020.md    
+  - About Us: 
+    - About Us: about/index.md
+    - Ideas: about/ideas.md
+    - 140th Anniversary Commemoration: about/140-commemoration.md
+#    - Federation Pavillion: about/federation-pavillion.md

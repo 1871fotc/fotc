@@ -5,10 +5,19 @@ hide:
 ---
 
 # Brisbane Mayors Trail
- 
-[Notes](http://www.fotc.org.au/subset/brisbane_mayors.pdf)
 
-<!-- galloway image © BCC- B120-3459 -->
+??? Warning "To Do" 
+
+    - Add cover image - galloway image © BCC- B120-3459galloway image © BCC- B120-3459
+    - Check walking order
+    - Create and insert map with link to portion-section-plot explanation
+    - Add directions
+    - Add headstone photos
+    - Convert Bios to Snippets
+    - Create Bio pages
+    - Add Bios to [Index](../bios/bio-index.md)
+    - Decide if link is needed to [Notes](http://www.fotc.org.au/subset/brisbane_mayors.pdf)
+ 
 
 ## John Petrie <small>(13‑5‑3)</small>
 

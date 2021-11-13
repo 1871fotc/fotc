@@ -6,7 +6,17 @@ hide:
 
 # Convict Connections Trail
 
-[Notes](http://www.fotc.org.au/subset/convicts.pdf)
+
+??? Warning "To Do" 
+
+    - Check walking order
+    - Create and insert map with link to portion-section-plot explanation
+    - Add directions
+    - Add headstone photos
+    - Convert Bios to Snippets
+    - Create Bio pages
+    - Add Bios to [Index](../bios/bio-index.md)
+    - Decide if link is needed to [Notes](http://www.fotc.org.au/subset/convicts.pdf)
 
 ## Convict settlement children
 

@@ -6,9 +6,17 @@ hide:
 
 # The Federation Trail 
 
-<!-- drawing --> 
+??? Warning "To Do" 
 
-[Notes](http://www.fotc.org.au/subset/Federation_Trail.pdf)
+    - Add cover image -
+    - Check walking order
+    - Create and insert map with link to portion-section-plot explanation
+    - Add directions
+    - Add headstone photos
+    - Convert Bios to Snippets
+    - Create Bio pages
+    - Add Bios to [Index](../bios/bio-index.md)
+    - Decide if link is needed to [Notes](http://www.fotc.org.au/subset/Federation_Trail.pdf)
 
 The Federation Trail was produced by the Friends of Toowong Cemetery as a Centenary of Federation project to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
 
@@ -20,9 +28,10 @@ Other Queensland issues in the federation debate included Queensland’s use of 
 
 Despite many arguments against federation, the Federal Referendum on the 2nd of September 1899 narrowly voted in favour of Queensland's joining the new nation.  Interestingly, the south-east corner of the colony was against Federation.
 
-### Directions: 
 
-From the amenities building, cross the road and head straight up the hill towards Governor Blackall’s monument. Enter the portion on the path between the graves of Pethebridge and Thurlow. Rutledge is half way up and just off to the left.
+???+ Example "Directions" 
+
+    From the amenities building, cross the road and head straight up the hill towards Governor Blackall’s monument. Enter the portion on the path between the graves of Pethebridge and Thurlow. Rutledge is half way up and just off to the left.
 
 <!-- Map -->
 
@@ -35,17 +44,17 @@ From the amenities building, cross the road and head straight up the hill toward
 
 Rutledge was born in New South Wales and came to Queensland as a Wesleyan Minister. From 1878 to 1893 and 1899 to 1904 he was a member of the Legislative Assembly. He served five years as Queensland’s Attorney General from 1883. Rutledge was admitted as a barrister in 1878 and became a QC in 1899 and later a district court judge. He was also the chairman of the Land Appeal Court. He was knighted in 1902. At the convention he was a member of the Judiciary Committee. He was a supporter of Griffith and the liberal franchise. Rutledge was also a strong supporter of the federation of the colonies and an opponent of the Northern Separatist movement.
 
-### Directions: 
+??? Example "Directions" 
 
-Map Number 1
+    Map Number 1
 
-Continue up the hill until you reach the Uhl family monument. Turn right and follow the path until you reach a wide path sloping from the top. Turn left and walk directly towards the Blackall Monument. Here you will find a place to rest.
+    Continue up the hill until you reach the Uhl family monument. Turn right and follow the path until you reach a wide path sloping from the top. Turn left and walk directly towards the Blackall Monument. Here you will find a place to rest.
 
 ## The Federation Pavilion
 
 The Commonwealth of Australia was inaugurated under a pavilion erected for the occasion in Sydney’s Centennial Park. Our pavilion, designed by Brisbane architect Ian Sinnamon, honours the Queensland delegates to the 1891 National Australasian Convention who are interred nearby. It was funded by the Federation Community Projects Program and construction was arranged by the Brisbane City Council Cemeteries Division.
 
-### Directions: 
+??? Example "Directions" 
 
 Map Number 2
 
@@ -65,9 +74,9 @@ He died on the 9th of August 1920 at his grand home Merthyr which gave its name 
 
 ### Directions: 
 
-Map Number 3
+    Map Number 3
 
-Proceed along the bitumen road. The next two graves are located on the right.
+    Proceed along the bitumen road. The next two graves are located on the right.
 
 ## John Donaldson MLA <small>(12‑47‑13)</small> 1841-1896
 
@@ -75,9 +84,9 @@ Proceed along the bitumen road. The next two graves are located on the right.
 
 Victorian‑born Donaldson became a pastoralist in Queensland. He was a manager and director of a mortgage agency and a bank. He was also President of the Queensland branch of the Australian Natives’ Association. Donaldson was a member of the Legislative Assembly from 1883 to 1893 and served as Post Master General and Colonial Treasurer. At the convention he sought free‑trade colonies conservative constitution.
 
-### Directions: 
+??? Example "Directions" 
 
-Map Number 4
+    Map Number 4
 
 ## Thomas Macdonald‑Paterson MLC <small>(12‑53-10)</small> 1844-1906
 
@@ -85,9 +94,9 @@ Map Number 4
 
 Macdonald‑Paterson arrived in Rockhampton from Scotland in 1861. He worked at a butchery before moving to Brisbane, where he qualified as a solicitor. He was a member for the Queensland Central Separation League and National Association. Macdonald‑Paterson served as mayor of Rockhampton in 1870. He was a member of the Legislative Assembly from 1878 to 1885 and again from 1896 to 1901. He was a member of the Legislative Council from 1885 to 1896. He served in three tiers of government as he was the Brisbane Federal Member of the House of Representatives from 1901 to 1903. His main claims at the convention were for uniform financial legislation and the abolition of the right to appeal to the Judicial Committee of the Privy Council.
 
-### Directions: 
+??? Example "Directions" 
 
-Map Number 5 
+    Map Number 5 
 
 
 ## Further Reading

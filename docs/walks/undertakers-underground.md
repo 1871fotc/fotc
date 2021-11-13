@@ -18,10 +18,14 @@ hide:
 
 ??? Warning "To Do" 
 
+    - Add cover image
     - Check walking order
-    - Create map
+    - Create and insert map with link to portion-section-plot explanation
     - Add directions
     - Add headstone photos
+    - Convert Bios to Snippets
+    - Create Bio pages
+    - Add Bios to [Index](../bios/bio-index.md)    
 
 ## George Barney Petrie (13-5-3)
 

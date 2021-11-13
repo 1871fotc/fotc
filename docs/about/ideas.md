@@ -9,34 +9,39 @@ hide:
 
 - Tree lined avenues
 - Remove weed trees
-- Plant white flowering plants on the road edge and base of plaque wall
+- Plant white flowering plants on the road edge and base of plaque walls
 
-## Signs
+## Signage
 
-- Fix replace road signs
-- Update maps to show new road names
+- Fix bent road signs
+- Update maps at Shelter Sheds to show new road names
 - Explain broken grave stones in Steel Rudd drive
 - Repair broken grave-side information signs
-- Mark section numbers on gutters to make graves easier to find
+- QR Code on signs to link to website walks 
+- Paint section numbers on gutters with relective paint to make graves easier to find
+- Install new Portion Signs
+
+![][image1]{ width="32%" } ![][image2]{ width="32%" } ![][image3]{ width="32%" }   
+
+![][image4]{ width="32%" } ![][image5]{ width="32%" } 
+
 
 ## Data
 
-- Request the release [grave data]() and [location data]() as [Open Data](https://www.data.brisbane.qld.gov.au/)
-- Release geospatial data as Open Data
+- Request the release [grave data](https://graves.brisbane.qld.gov.au) and location data as [Open Data](https://www.data.brisbane.qld.gov.au/)
+- Publish FoTC data
 
-## Website and Apps
+## Website
 
 - Redevelop website to be mobile friendly
-- Make Interactive Map 
+- Make interactive map 
 - Make interactive tour
 - Podcast
 
-## Shelter Sheds
+<!-- links -->
 
-- What could you do with these?
-
-## Questions
-
-- What are the metal tags?
-- Why is the Museum built over the canal?
-- Are there any licenced Ghost Tours that can operate in the cemetery
+[image1]: ../assets/portion-sign-small.jpg
+[image2]: ../assets/portion-sign-medium.jpg
+[image3]: ../assets/portion-sign-large.jpg 
+[image4]: ../assets/curb-numbering-1.png
+[image5]: ../assets/curb-numbering-2.png

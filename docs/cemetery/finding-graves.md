@@ -14,7 +14,7 @@ Portion numbers are shown on maps and sign posts throughout the cemetery.
 
 ![Portion Sign](../assets/portion-sign.jpg)
 
-!!! warning "Volunteer opportunity"
+!!! question "Volunteer opportunity"
 
     Unfortunately Portion signs are often vandalised in the cemetery. If you find a damaged of missing sign, please take a photo and [report it to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)
 
@@ -37,9 +37,11 @@ Information on the official burial records that can be updated, includes:
 - cause of death
 - photograph of headstone or grave
 
-!!! warning "Volunteer opportunity"
+!!! question "Volunteer opportunity"
 
     Consider contributing a photograph of a headstone to improve the Council database to help others discover the history and stories of Toowong Cemetery.
+
+<!--  DISPUTED BY RUSSELL MADDOCK FOTC
 
 ## Portion History
 
@@ -74,20 +76,20 @@ The Cemetery Trustees received numerous requests for separate burial sections fr
 - **Portions 25, 26 and 27** laid out in the western corner of the site contain **Catholic graves** and occupy the land purchased in 1916 from Ned Alexander. 
 - **Portion 30** was the last ground to be laid out in 1930 and contains, amongst others, graves for **Dunwich and Goodna Asylum patients** in its south-eastern corner. An avenue of oleanders marks the boundary between Portions 29 and 30.
 
-<!-- what about portions 17-18, 24, 28 -->
 
 A survey of the layout of graves, reveal differences between many of the portions with some aligned to magnetic north, some to true north, and others at varying degrees from North. The sections in the Church of England section are laid out at 45 degrees east of true north. In August 1875, the Church of England requested that graves be laid east-west.
 
+-->
+
 ## Markers
 
-Grave makers can be seen beside or embedded into graves. They don't follow the *Portion*-*Section*-*Plot* numbering scheme. 
+Grave makers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a person's marker to the appropriate grave (portion-section-plot* numbering scheme. 
 
-![Toowong Cemetery Main Entrance](../assets/markers.jpg)
+![](../assets/markers.jpg)
 
-!!! warning "Volunteer opportunity"
+To map a marker to a grave, you need to look up old ledgers. For example Portion 1, Section 1, Plot 1 maps to Marker XI 755. 
 
-    Do you know how the marker numbering scheme works? Contact us and let us know and we'll add the information here.
-
+![](../assets/marker-ledger.png)
 
 <!--
 - The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery). 
@@ -97,10 +99,11 @@ Grave makers can be seen beside or embedded into graves. They don't follow the *
 - Read the [Toowong Cemetery Citation on Queensland WWII Historic Places Website](https://www.ww2places.qld.gov.au/place?id=2064)
 --> 
 
+<!--
 ## Copyright
 
 The Portion History section is derived from [Toowong Cemetery](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery) © The State of Queensland 1995–2021, used under [CC BY 4.0][cc-by] 
-
+-->
 
 <!-- Links -->
 

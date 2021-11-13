@@ -6,6 +6,18 @@ hide:
 
 # Governors Past Trail
 
+??? Warning "To Do" 
+
+    - Cover image
+    - Check walking order
+    - Create and insert map with link to portion-section-plot explanation
+    - Add directions
+    - Add headstone photos
+    - Convert Bios to Snippets
+    - Create Bio pages
+    - Add Bios to [Index](../bios/bio-index.md)
+    - Decide if link is needed to [notes](http://www.fotc.org.au/subset/governors_past.pdf)
+
 ## Colonel Samuel Wensley Blackall <small>(Mount Blackall)</small>
 
 Governor - 14 August 1868 to 2 January 1871

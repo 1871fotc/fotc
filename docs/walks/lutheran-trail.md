@@ -6,17 +6,20 @@ hide:
 
 # The Lutheran Heritage Trail - With all the company of heaven
 
-==work in progress==
+??? Warning "To Do" 
 
-==insert rose seal==
+    - Add cover image - Martin Luther’s rose seal from 1530
+    - Check walking order
+    - Create and insert map with link to portion-section-plot explanation
+    - Add directions
+    - Add headstone photos
+    - Convert Bios to Snippets
+    - Create Bio pages
+    - Add Bios to [Index](../bios/bio-index.md)
+    - Be consistent on internment number 
 
-Martin Luther’s rose seal from 1530
 
-Amongst the 117,000 internments at Toowong Cemetery are many Lutherans of various backgrounds. This trail represents a small number of those who participated in the sacramental life of this tradition of the church or who were at some time, or in some way, connected with it. They came from all walks of life.
-
-==add map==
-
-==add directions==
+Amongst the ==117,000== internments at Toowong Cemetery are many Lutherans of various backgrounds. This trail represents a small number of those who participated in the sacramental life of this tradition of the church or who were at some time, or in some way, connected with it. They came from all walks of life.
 
 ## Christian Thomas Wagner <small>(4‑32‑1)</small>
 
