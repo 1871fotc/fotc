@@ -8,10 +8,33 @@ hide:
 
 ![](../assets/william-mcnaughton-galloway.jpg){ width="33%" }
 
+On this trail you'll visit many of the Town of Brisbane's early Mayors:
+
+- John Petrie, the first mayor of the Town of Brisbane 1859—1862
+- George Edmondstone, the third mayor, 1863
+- Joshua Jeays, 1864
+- Richard Symes Warry, 1866
+- John Hardgrave, 1868—1869
+- William Pettigrew, 1870
+- James Swan, 1873—1875
+- John Daniel Heal, 1879
+- John Sinclair, 1880—1881
+- Richard Southall, 1888
+- William McNaughton Galloway, 1889
+- Thomas Proe, 1901
+
+The City of Brisbane, established in 1903, replaced the Town of Brisbane. Mayors you'll visit: 
+
+- Thomas Proe, (second term), 1905
+- Alfred John Raymond, 1912
+
+The new City of Brisbane, established in 1925, replaced the former City of Brisbane. You'll visit: 
+
+- Archibald Watson, the second Lord Mayor of the City of Brisbane, 1931
+ 
 
 ??? Warning "To Do" 
 
-    - Add cover image - galloway image © BCC- B120-3459galloway image © BCC- B120-3459
     - Check walking order
     - Create and insert map with link to portion-section-plot explanation
     - Add directions
@@ -43,7 +66,7 @@ On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Du
 
 ## George Edmondstone <small>(13‑20‑5)</small>
 
-George Edmondstone was born in Edinburgh, Scotland, on 4 May 1809 son of William Edmondstone and Alexandrina Farquhar. In 1832, he arrived in New South Wales and had businesses in Sydney and Maitland. On 10 July 1837 in Sydney he married Alexis Watson Tilleray. In 1840 he purchased Normanby Plains Station in Queensland. He sold this in 1842 and was one of the early free settlers in Brisbane, working as a butcher. He was an Alderman in Brisbane 1859-66 and the Mayor in 1863-64. In the Queensland Legislative Assembly he represented East Moreton in 1860-67, Brisbane in 1869-73 and Wickham in 1873-77. He retired from business because of a heart complaint and died at his home in Breakfast Creek on 23 February 1883.
+George Edmondstone was born in Edinburgh, Scotland, on 4 May 1809 son of William Edmondstone and Alexandrina Farquhar. In 1832, he arrived in New South Wales and had businesses in Sydney and Maitland. On 10 July 1837 in Sydney he married Alexis Watson Tilleray. In 1840 he purchased Normanby Plains Station in Queensland. He sold this in 1842 and was one of the early free settlers in Brisbane, working as a butcher. He was an Alderman in Brisbane 1859—66 and the Mayor in 1863—64. In the Queensland Legislative Assembly he represented East Moreton in 1860—67, Brisbane in 1869—73 and Wickham in 1873—77. He retired from business because of a heart complaint and died at his home in Breakfast Creek on 23 February 1883.
 
 
 ??? Example "Directions" 
@@ -64,7 +87,7 @@ Publican Thomas Proe was Mayor of Brisbane in 1901 and 1905. He married Mary Str
 
 ## John Daniel Heal <small>(13‑40‑9)</small>
 
-John Daniel Heal was born near Bradford‑on‑Avon, England on 18 January 1825. He was the son of Ambrose Heal, mason and Elizabeth Smith. He emigrated from England to Brisbane in mid 1856. He married at least twice and had at least eight children, many of whom died in childhood. In Brisbane, John Heal worked at his trade as a stone mason. In 1863, he leased the Prince Consort Hotel in Wickham Street, Fortitude Valley and became a publican. He bought the hotel in 1879 and by 1887 had acquired a number of adjoining properties. In 1887-1888, Heal tore down the old hotel and had a larger hotel erected, which was designed by Richard Gailey. He was very involved in community affairs and was a great advocate for the progress of Fortitude Valley. In 1870 he was elected to the Brisbane Council as an Alderman for the Fortitude Valley Ward. He served his electorate in this role from 1870 to 1873, losing in 1874. However, the following year, he won the ward of Fortitude Valley back and held it until 1894, after which he did not seek re‑election. He was Mayor in 1879. He died in Brisbane on 18 August 1908.
+John Daniel Heal was born near Bradford‑on‑Avon, England on 18 January 1825. He was the son of Ambrose Heal, mason and Elizabeth Smith. He emigrated from England to Brisbane in mid 1856. He married at least twice and had at least eight children, many of whom died in childhood. In Brisbane, John Heal worked at his trade as a stone mason. In 1863, he leased the Prince Consort Hotel in Wickham Street, Fortitude Valley and became a publican. He bought the hotel in 1879 and by 1887 had acquired a number of adjoining properties. In 1887—1888, Heal tore down the old hotel and had a larger hotel erected, which was designed by Richard Gailey. He was very involved in community affairs and was a great advocate for the progress of Fortitude Valley. In 1870 he was elected to the Brisbane Council as an Alderman for the Fortitude Valley Ward. He served his electorate in this role from 1870 to 1873, losing in 1874. However, the following year, he won the ward of Fortitude Valley back and held it until 1894, after which he did not seek re‑election. He was Mayor in 1879. He died in Brisbane on 18 August 1908.
 
 ??? Example "Directions" 
 
@@ -76,7 +99,7 @@ John Daniel Heal was born near Bradford‑on‑Avon, England on 18 January 1825.
 
 John Sinclair was born in Lanarkshire, Scotland on 8 December 1827, the son of John Sinclair and Jane Smith. He married Jane Kelman in Brisbane on 11 August 1857. They had six children four of whom died in infancy. His wife Jane died in Brisbane on 11 February 1872. On 14 January 1888 in Brisbane, John Sinclair remarried to Constance Isabel Georgina Geoghegan. However, Constance died at their home, Delholm, Kangaroo Point on 21 May 1893. 
 
-Sinclair died at Kangaroo Point, on 5 May 1906 aged 79 years and was buried here, together with Constance and his two adult children Margaret and James. John Sinclair was an Alderman of the Brisbane Municipal Council for the ward of Kangaroo Point from 1871-1882 and 1886-1887. He was Mayor of the Brisbane Municipal Council in 1880 and 1881.
+Sinclair died at Kangaroo Point, on 5 May 1906 aged 79 years and was buried here, together with Constance and his two adult children Margaret and James. John Sinclair was an Alderman of the Brisbane Municipal Council for the ward of Kangaroo Point from 1871—1882 and 1886—1887. He was Mayor of the Brisbane Municipal Council in 1880 and 1881.
 
 ??? Example "Directions" 
 
@@ -111,7 +134,7 @@ James Swan was an Alderman of the Brisbane Municipal Council from 1872 to 1875 a
     
 ## Richard Symes Warry <small>(13‑49‑22)</small>
 
-Richard Symes Warry was born about 1829 in England, son of Thomas Warry and Maria Symes. On 25 January 1851 in Brisbane, Richard Symes Warry married Mary Lydia Pratten. They had fourteen children, a number of whom died young. He died 12 March 1891 at his residence in Enoggera, aged 62 years. Richard Warry was a grocer and was one of the earliest of the Queen Street storekeepers, having had a shop for many years on the eastern side near the corner with Albert Street. Richard Warry was an Alderman of the Brisbane Municipal Council in 1862-1863 and 1865-1866. He was Mayor in 1866. He took a break from public life for a number of years and then returned as Alderman of the West Ward from 1883-1888 before finally retiring.
+Richard Symes Warry was born about 1829 in England, son of Thomas Warry and Maria Symes. On 25 January 1851 in Brisbane, Richard Symes Warry married Mary Lydia Pratten. They had fourteen children, a number of whom died young. He died 12 March 1891 at his residence in Enoggera, aged 62 years. Richard Warry was a grocer and was one of the earliest of the Queen Street storekeepers, having had a shop for many years on the eastern side near the corner with Albert Street. Richard Warry was an Alderman of the Brisbane Municipal Council in 1862—1863 and 1865—1866. He was Mayor in 1866. He took a break from public life for a number of years and then returned as Alderman of the West Ward from 1883—1888 before finally retiring.
 
 ??? Example "Directions" 
 
@@ -155,7 +178,7 @@ The third Mayor of Brisbane, Joshua Jeays died on the 11 March 1881 aged 69. He 
 
 ## William Pettigrew <small>(13‑66‑2)</small>
 
-William Pettigrew born on 26 August 1825 was the son of an Ayreshire farmer. He trained as a surveyor and as such arrived aboard the Fortitude in January 1849. He became a sawmiller, importing the first steam‑powered sawmill in 1853. Pettigrew was elected to the Brisbane Municipal Council three times in the period 1863 – 1881, including the mayoralty in 1870 – 1871. There is an overlap between his municipal duties and membership of the Queensland Legislative Council from 1877 – 1894. 
+William Pettigrew born on 26 August 1825 was the son of an Ayreshire farmer. He trained as a surveyor and as such arrived aboard the Fortitude in January 1849. He became a sawmiller, importing the first steam‑powered sawmill in 1853. Pettigrew was elected to the Brisbane Municipal Council three times in the period 1863 – 1881, including the mayoralty in 1870–1871. There is an overlap between his municipal duties and membership of the Queensland Legislative Council from 1877–1894. 
 
 He was a member of a number of societies; including the Queensland Philosophical Society, the School of Arts Committee (along with Samuel Walker Griffith) and was a life‑member of the Queensland Acclimatisation Society. He was also a land speculator. 
 
@@ -196,8 +219,8 @@ He was an Alderman in the Brisbane Municipal Council from 1884 to 1891, serving 
 - Finance Committee 1884, 1886, 1890
 - Works Committee 1885, 1887, 1889, 1891
 - Legislative Committee 1885, 1889
-- Town Hall Committee 1885 – 1887
-- Health Committee 1887, 1889 – 1891 
+- Town Hall Committee 1885—1887
+- Health Committee 1887, 1889—1891 
 - Street Lighting Committee 1891
 
 He married Anne Hunter in Sydney in 1885 before moving to Aberleigh, Kelvin Grove where they lived until settling into his newly completed hotel.
@@ -205,3 +228,8 @@ He married Anne Hunter in Sydney in 1885 before moving to Aberleigh, Kelvin Grov
 ??? Example "Directions" 
 
     - Retrace your steps back to the starting point
+
+## Further Reading
+
+- [Brisbane's Lord Mayors](https://www.brisbane.qld.gov.au/about-council/council-information-and-rates/council-history/brisbanes-lord-mayors)
+- [List of mayors and lord mayors of Brisbane](https://en.wikipedia.org/wiki/List_of_mayors_and_lord_mayors_of_Brisbane)
