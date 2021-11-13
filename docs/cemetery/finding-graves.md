@@ -87,7 +87,7 @@ Grave makers can be seen on, or embedded into, graves. They represent a person b
 
 ![](../assets/markers.jpg)
 
-To map a marker to a grave, you need to look up old ledgers. For example Portion 1, Section 1, Plot 1 maps to Marker XI 755. 
+To map a marker to a grave, you need to look up old portion books. For example Portion 1, Section 1, Plot 1 maps to Marker XI 755. 
 
 ![](../assets/marker-ledger.png)
 

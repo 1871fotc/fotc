@@ -32,7 +32,7 @@ More information on the [symbolism used in Victorian era cemeteries](../headston
     - Add Bios to [Index](../bios/bio-index.md)
 
 ## Start the walk
-
+ 
 ==insert map and directions==
 
 Before starting, you may like to download the [Toowong Cemetery map](http://www.fotc.org.au/toowong_map.jpg). 

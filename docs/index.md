@@ -10,7 +10,7 @@ hide:
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
-![][image1]{ width="32%" } ![][image4]{ width="32%" } ![][image3]{ width="32%" }   
+![][image1]{ width="32%" } ![][image2]{ width="32%" } ![][image3]{ width="32%" }   
 
 <!-- Carousal or clickable images -->
 
