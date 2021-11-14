@@ -49,7 +49,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     - Start behind Canon Garland Place in Emma Miller Avenue. 
     - ...
               
-    ![](../assets/john-petrie.jpg){ width="100" }
+    ![x](../assets/john-petrie.jpg){ width="100" }
 
 
 ## John Petrie <small>(13‑5‑3)</small>
@@ -58,42 +58,42 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Dunbarton, Scotland. The family grew to five sons and five daughters. John Petrie was public‑spirited and held many important offices. He topped the poll in Brisbane's first municipal election in 1859 and was mayor three times by 1862 and served as an Alderman until 1867. He was also an active member of the first Masonic lodge in Queensland. A staunch Presbyterian, he was an elder and worked on building St Paul's Church. John Petrie died on 8 December 1892.
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - poke picture
               
-    ![](../assets/george-edmondstone.jpg){ width="100" }
+    ![x](../assets/george-edmondstone.jpg){ width="100" }
 
 ## George Edmondstone <small>(13‑20‑5)</small>
 
 [George Edmondstone](https://adb.anu.edu.au/biography/edmondstone-george-3469) was born in Edinburgh, Scotland, on 4 May 1809 son of William Edmondstone and Alexandrina Farquhar. In 1832, he arrived in New South Wales and had businesses in Sydney and Maitland. On 10 July 1837 in Sydney he married Alexis Watson Tilleray. In 1840 he purchased Normanby Plains Station in Queensland. He sold this in 1842 and was one of the early free settlers in Brisbane, working as a butcher. He was an Alderman in Brisbane 1859—66 and the Mayor in 1863—64. In the Queensland Legislative Assembly he represented East Moreton in 1860—67, Brisbane in 1869—73 and Wickham in 1873—77. He retired from business because of a heart complaint and died at his home in Breakfast Creek on 23 February 1883.
 
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - poke picture
               
-    ![](../assets/thomas-proe.jpg){ width="100" }
+    ![x](../assets/thomas-proe.jpg){ width="100" }
 
 ## Thomas Proe <small>(13‑35‑9)</small>
 
 Publican [Thomas Proe](https://trove.nla.gov.au/search?keyword=Thomas%20Proe) was Mayor of Brisbane in 1901 and 1905. He married Mary Strasburg in Brisbane in 1881 and fathered seven children. He died on 17 Dec 1922 aged 71. He is buried with his wife, mother-in-law, two of their children who died in childhood and two married daughters.
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - needs picture
               
-    ![](../assets/john-daniel-heal.jpg){ width="100" }
+    ![x](../assets/john-daniel-heal.jpg){ width="100" }
 
 ## John Daniel Heal <small>(13‑40‑9)</small>
 
 John Daniel Heal was born near Bradford‑on‑Avon, England on 18 January 1825. He was the son of Ambrose Heal, mason and Elizabeth Smith. He emigrated from England to Brisbane in mid 1856. He married at least twice and had at least eight children, many of whom died in childhood. In Brisbane, John Heal worked at his trade as a stone mason. In 1863, he leased the Prince Consort Hotel in Wickham Street, Fortitude Valley and became a publican. He bought the hotel in 1879 and by 1887 had acquired a number of adjoining properties. In 1887—1888, Heal tore down the old hotel and had a larger hotel erected, which was designed by Richard Gailey. He was very involved in community affairs and was a great advocate for the progress of Fortitude Valley. In 1870 he was elected to the Brisbane Council as an Alderman for the Fortitude Valley Ward. He served his electorate in this role from 1870 to 1873, losing in 1874. However, the following year, he won the ward of Fortitude Valley back and held it until 1894, after which he did not seek re‑election. He was Mayor in 1879. He died in Brisbane on 18 August 1908.
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - needs picture
               
-    ![](../assets/john-sinclair.jpg){ width="100" }
+    ![x](../assets/john-sinclair.jpg){ width="100" }
     
 ## John Sinclair <small>(9‑40‑5)</small>
 
@@ -101,11 +101,11 @@ John Sinclair was born in Lanarkshire, Scotland on 8 December 1827, the son of J
 
 Sinclair died at Kangaroo Point, on 5 May 1906 aged 79 years and was buried here, together with Constance and his two adult children Margaret and James. John Sinclair was an Alderman of the Brisbane Municipal Council for the ward of Kangaroo Point from 1871—1882 and 1886—1887. He was Mayor of the Brisbane Municipal Council in 1880 and 1881.
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - needs picture
               
-    ![](../assets/alfred-john-raymond.jpg){ width="100" }
+    ![x](../assets/alfred-john-raymond.jpg){ width="100" }
 
 ## Alfred John Raymond <small>(9‑32‑8)</small>
 
@@ -113,11 +113,11 @@ Alfred was born in Clifton, Bristol son of Henry George Raymond and Mary Ann Hew
 
 On 20 June 1888, Alfred remarried, to Jessie Catherine Shearer, in the Congregational Church in Wharf Street. In the 1890s, the Raymond family lived in Kangaroo Point. It was while living there that Alfred became interested in politics and in 1894 he was elected as Alderman for the ward of Kangaroo Point. Although South Brisbane was then a separate town to Brisbane, Kangaroo Point was still a ward of Brisbane. Alfred represented Kangaroo Point from 1894 to 1899 when resigned from politics. However, he returned as Alderman for Kangaroo Point again from 1902 to 1903 and then from 1911 to 1924. He was [Mayor of Brisbane in 1912](https://trove.nla.gov.au/work/235651422?keyword=Alfred%20John%20Raymond).
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - 
               
-    ![](../assets/james-swan.jpg){ width="100" }
+    ![x](../assets/james-swan.jpg){ width="100" }
     
 ## James Swan <small>(9‑39‑8)</small>
 
@@ -126,42 +126,42 @@ On 20 June 1888, Alfred remarried, to Jessie Catherine Shearer, in the Congregat
 James Swan was an Alderman of the Brisbane Municipal Council from 1872 to 1875 and was Mayor from 1873 to 1875. James's wife Christina died aged 76 years at their home Burnside at Windsor on 27 January 1888 after a lingering illness and was buried here. James married again on 10 January 1889 to Christina Meikle. James Swan died on 26 May 1891 on board Jelunga while in the Mediterranean Sea bound for England. He was travelling with his wife for a 12‑month visit. Aged 80 and in poor health when he commenced the trip, many doubted they would see him return. He was buried at sea off Port Said, Egypt but he was memorialised on his first wife's grave. James's second wife Christina died on 3 March 1929 aged 71 years.
 
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - needs picture
               
-    ![](../assets/richard-symes-warry.jpg){ width="100" }
+    ![x](../assets/richard-symes-warry.jpg){ width="100" }
     
 ## Richard Symes Warry <small>(13‑49‑22)</small>
 
 Richard Symes Warry was born about 1829 in England, son of Thomas Warry and Maria Symes. On 25 January 1851 in Brisbane, Richard Symes Warry married Mary Lydia Pratten. They had fourteen children, a number of whom died young. He died 12 March 1891 at his residence in Enoggera, aged 62 years. Richard Warry was a grocer and was one of the earliest of the Queen Street storekeepers, having had a shop for many years on the eastern side near the corner with Albert Street. Richard Warry was an Alderman of the Brisbane Municipal Council in 1862—1863 and 1865—1866. He was Mayor in 1866. He took a break from public life for a number of years and then returned as Alderman of the West Ward from 1883—1888 before finally retiring.
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - needs picture
               
-    ![](../assets/richard-southall.jpg){ width="100" }
+    ![x](../assets/richard-southall.jpg){ width="100" }
 
 ## Richard Southall <small>(13‑59‑12)</small>
 
 Contractor Richard Southall was Brisbane’s twenty‑second Mayor in 1888. He was nominated for the East Ward in 1885. Amongst his projects was the construction of the Albert Hall in Adelaide Street. He married Janet Banks Guild, at St Marylebone, London on 26 Jul 1852. He is buried with his wife, son, daughter and mother‑in‑law.
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - needs picture
               
-    ![](../assets/john-hardgrave.jpg){ width="100" }
+    ![x](../assets/john-hardgrave.jpg){ width="100" }
 
 ## John Hardgrave <small>(14‑22‑2/3)</small>
 
 John Hardgrave, a local politician and Mayor of Brisbane, was born in Wicklow, Ireland, in 1826. He arrived in Sydney in 1843 and moved to Brisbane in 1848. In 1860 he purchased 6 acres (2.4 hectares) of land in the Brisbane suburb of West End. Hardgrave Road is named after him. He was in the boot trade to 1862 and was involved in local government from 1867 to 1890. He was Mayor of Brisbane in 1868 and 1870, first chairman of the Woolloongabba Divisional Board, Alderman for South Brisbane from 1888 to 1890, and chairman of the Waterworks Board from 1893. He died in Brisbane on 8 November 1906 and was interred in the family grave.
 
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - needs picture
               
-    ![](../assets/joshua-jeays.jpg){ width="100" }
+    ![x](../assets/joshua-jeays.jpg){ width="100" }
 
 
 ## Joshua Jeays <small>(13‑62‑13)</small>
@@ -169,11 +169,11 @@ John Hardgrave, a local politician and Mayor of Brisbane, was born in Wicklow, I
 The third Mayor of Brisbane, Joshua Jeays died on the 11 March 1881 aged 69. He was born in Leicestershire, 1812. He married Sarah Edwyn in 1838 in Marylebone, Middlesex. They and their three children immigrated to Moreton Bay in 1853. His daughter Sarah Jane married in 1858 in Brisbane to Sir Charles Lilley, who became Premier of Queensland. In 1862, Joshua Jeays bought 39 acres at the corner of Cooper's Camp Road on which he built Bardon House. He is buried with his wife Sarah who predeceased him, dying on 26 July 1864 in Brisbane. Sarah was originally buried in Paddington Cemetery but re‑interred in here on 17 April 1913. Joshua built homes of prominent Brisbane residents such as John Petrie and the Cribb family. Joshua was an Alderman from 1859 to 1867 and was Mayor in 1864.
 
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - 
               
-    ![](../assets/william-pettigrew.jpg){ width="100" }
+    ![x](../assets/william-pettigrew.jpg){ width="100" }
 
 
 ## William Pettigrew <small>(13‑66‑2)</small>
@@ -185,11 +185,11 @@ He was a member of a number of societies; including the Queensland Philosophical
 His wife Amelia Boughay, a fellow Fortitude passenger whom he had married in 18 February 1859, pre‑deceased him on 1 September 1893 and is buried here. He died on 28 Oct 1906 and was interred in at Bowen. William Pettigrew was a strict Presbyterian, who kept the Sabbath sacred to the extent of walking to church and banning musical instruments from worship.
 
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
-    - ...
+    - needs picture
               
-    ![](../assets/archibald-watson.jpg){ width="100" }
+    ![x](../assets/archibald-watson.jpg){ width="100" }
 
 
 ## Archibald Watson <small>(12‑13‑2)</small>
@@ -197,7 +197,7 @@ His wife Amelia Boughay, a fellow Fortitude passenger whom he had married in 18 
 Archibald was the Chairman of the Toowong Fire Brigade, which had built a fire station in Jephson Street in 1919. He was the last Mayor of the town of Toowong in 1925 and went on to serve as an Alderman on the Brisbane City Council between 1926 and 1931. He was Deputy Mayor from 1926 to 1931 and Lord Mayor from February to May 1931. He died on 25 February 1941 aged 67.
 
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
     At this point you can either: 
     
@@ -207,8 +207,10 @@ Archibald was the Chairman of the Toowong Fire Brigade, which had built a fire s
       - Continue down Charles Heaphy Drive to the Shelter Shed.
       - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
       - Walk into Portion 7a about 4 sections, and you'll find...
-              
-    ![](../assets/william-macNaughton-galloway.jpg){ width="100" }
+            
+    - poke picture  
+    
+    ![x](../assets/william-macnaughton-galloway.jpg){ width="100" }
 
 ## William MacNaughton Galloway <small>(7A‑41‑18)</small>
 
@@ -225,7 +227,7 @@ He was an Alderman in the Brisbane Municipal Council from 1884 to 1891, serving 
 
 He married Anne Hunter in Sydney in 1885 before moving to Aberleigh, Kelvin Grove where they lived until settling into his newly completed hotel.
 
-??? Example "Directions" 
+???+ Example "Directions" 
 
     - Retrace your steps back to the starting point
 

@@ -89,7 +89,7 @@ Grave makers can be seen on, or embedded into, graves. They represent a person b
 
 To map a marker to a grave, you need to look up old portion books. For example Portion 1, Section 1, Plot 1 maps to Marker XI 755. 
 
-![](../assets/marker-ledger.png)
+![](../assets/portion-ledger.png)
 
 <!--
 - The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery). 
