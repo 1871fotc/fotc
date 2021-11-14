@@ -8,29 +8,29 @@ hide:
 
 ![](../assets/william-mcnaughton-galloway.jpg){ width="33%" }
 
-On this trail you'll visit many of the Town of Brisbane's early Mayors:
+On this trail you'll visit many of the early Mayors of the **Town of Brisbane**: 
 
-- John Petrie, the first mayor of the Town of Brisbane 1859—1862
-- George Edmondstone, the third mayor, 1863
-- Joshua Jeays, 1864
-- Richard Symes Warry, 1866
-- John Hardgrave, 1868—1869
-- William Pettigrew, 1870
-- James Swan, 1873—1875
-- John Daniel Heal, 1879
-- John Sinclair, 1880—1881
-- Richard Southall, 1888
-- William McNaughton Galloway, 1889
-- Thomas Proe, 1901
+- **John Petrie**, the first mayor of the Town of Brisbane 1859—1862
+- **George Edmondstone**, the third mayor, 1863
+- **Joshua Jeays**, 1864
+- **Richard Symes Warry**, 1866
+- **John Hardgrave**, 1868—1869
+- **William Pettigrew**, 1870
+- **James Swan**, 1873—1875
+- **John Daniel Heal**, 1879
+- **John Sinclair**, 1880—1881
+- **Richard Southall**, 1888
+- **William McNaughton Galloway**, 1889
+- **Thomas Proe**, 1901
 
-The City of Brisbane, established in 1903, replaced the Town of Brisbane. Mayors you'll visit: 
+The **City of Brisbane** replaced the Town of Brisbane in 1903. Mayors you'll visit are: 
 
-- Thomas Proe, (second term), 1905
-- Alfred John Raymond, 1912
+- **Thomas Proe**, (second term), 1905
+- **Alfred John Raymond**, 1912
 
-The new City of Brisbane, established in 1925, replaced the former City of Brisbane. You'll visit: 
+The **new City of Brisbane**, established in 1925, replaced the former City of Brisbane. You'll visit the Lord Mayor: 
 
-- Archibald Watson, the second Lord Mayor of the City of Brisbane, 1931
+- **Archibald Watson**, the second Lord Mayor of the City of Brisbane, 1931
  
 
 ??? Warning "To Do" 
@@ -54,7 +54,7 @@ The new City of Brisbane, established in 1925, replaced the former City of Brisb
 
 ## John Petrie <small>(13‑5‑3)</small>
 
-John Petrie was born on 15 January 1822 at Edinburgh, eldest son of Andrew Petrie and his wife Mary, née Cuthbertson. He arrived in Sydney with his family in 1831 and was educated at Reverend John Dunmore Lang's school. In 1837, he arrived aboard the James Watt, the first steamer to enter Moreton Bay, where his father had been appointed clerk of works, and accompanied him on explorations to the Bunya Mountains and Maroochy River. The family stayed on in the Moreton Bay District after the penal settlement closed. After learning the ropes in the family building and contracting business John assumed responsibility for its management after his father's blindness in 1848 forced him to retire. John became sole proprietor and the firm was changed from Petrie & Son to John Petrie. 
+[John Petrie](https://adb.anu.edu.au/biography/petrie-john-4394) was born on 15 January 1822 at Edinburgh, eldest son of Andrew Petrie and his wife Mary, née Cuthbertson. He arrived in Sydney with his family in 1831 and was educated at Reverend John Dunmore Lang's school. In 1837, he arrived aboard the James Watt, the first steamer to enter Moreton Bay, where his father had been appointed clerk of works, and accompanied him on explorations to the Bunya Mountains and Maroochy River. The family stayed on in the Moreton Bay District after the penal settlement closed. After learning the ropes in the family building and contracting business John assumed responsibility for its management after his father's blindness in 1848 forced him to retire. John became sole proprietor and the firm was changed from Petrie & Son to John Petrie. 
 
 On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Dunbarton, Scotland. The family grew to five sons and five daughters. John Petrie was public‑spirited and held many important offices. He topped the poll in Brisbane's first municipal election in 1859 and was mayor three times by 1862 and served as an Alderman until 1867. He was also an active member of the first Masonic lodge in Queensland. A staunch Presbyterian, he was an elder and worked on building St Paul's Church. John Petrie died on 8 December 1892.
 
@@ -66,7 +66,7 @@ On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Du
 
 ## George Edmondstone <small>(13‑20‑5)</small>
 
-George Edmondstone was born in Edinburgh, Scotland, on 4 May 1809 son of William Edmondstone and Alexandrina Farquhar. In 1832, he arrived in New South Wales and had businesses in Sydney and Maitland. On 10 July 1837 in Sydney he married Alexis Watson Tilleray. In 1840 he purchased Normanby Plains Station in Queensland. He sold this in 1842 and was one of the early free settlers in Brisbane, working as a butcher. He was an Alderman in Brisbane 1859—66 and the Mayor in 1863—64. In the Queensland Legislative Assembly he represented East Moreton in 1860—67, Brisbane in 1869—73 and Wickham in 1873—77. He retired from business because of a heart complaint and died at his home in Breakfast Creek on 23 February 1883.
+[George Edmondstone](https://adb.anu.edu.au/biography/edmondstone-george-3469) was born in Edinburgh, Scotland, on 4 May 1809 son of William Edmondstone and Alexandrina Farquhar. In 1832, he arrived in New South Wales and had businesses in Sydney and Maitland. On 10 July 1837 in Sydney he married Alexis Watson Tilleray. In 1840 he purchased Normanby Plains Station in Queensland. He sold this in 1842 and was one of the early free settlers in Brisbane, working as a butcher. He was an Alderman in Brisbane 1859—66 and the Mayor in 1863—64. In the Queensland Legislative Assembly he represented East Moreton in 1860—67, Brisbane in 1869—73 and Wickham in 1873—77. He retired from business because of a heart complaint and died at his home in Breakfast Creek on 23 February 1883.
 
 
 ??? Example "Directions" 
@@ -77,7 +77,7 @@ George Edmondstone was born in Edinburgh, Scotland, on 4 May 1809 son of William
 
 ## Thomas Proe <small>(13‑35‑9)</small>
 
-Publican Thomas Proe was Mayor of Brisbane in 1901 and 1905. He married Mary Strasburg in Brisbane in 1881 and fathered seven children. He died on 17 Dec 1922 aged 71. He is buried with his wife, mother-in-law, two of their children who died in childhood and two married daughters.
+Publican [Thomas Proe](https://trove.nla.gov.au/search?keyword=Thomas%20Proe) was Mayor of Brisbane in 1901 and 1905. He married Mary Strasburg in Brisbane in 1881 and fathered seven children. He died on 17 Dec 1922 aged 71. He is buried with his wife, mother-in-law, two of their children who died in childhood and two married daughters.
 
 ??? Example "Directions" 
 
@@ -111,7 +111,7 @@ Sinclair died at Kangaroo Point, on 5 May 1906 aged 79 years and was buried here
 
 Alfred was born in Clifton, Bristol son of Henry George Raymond and Mary Ann Hewland. Alfred, like his father, was a carpenter. Alfred was a deeply devout man throughout his life and an active lay worker in the Congregational Church. In 1878, Alfred married Elizabeth Paul and they had two sons. In 1885–86, Alfred was a carpenter and living on Stanley Street, South Brisbane beside the river. Shortly after their arrival in Brisbane, their baby son Leslie died on 4 April 1884 and then exactly two years later Elizabeth died. They are buried nearby. 
 
-On 20 June 1888, Alfred remarried, to Jessie Catherine Shearer, in the Congregational Church in Wharf Street. In the 1890s, the Raymond family lived in Kangaroo Point. It was while living there that Alfred became interested in politics and in 1894 he was elected as Alderman for the ward of Kangaroo Point. Although South Brisbane was then a separate town to Brisbane, Kangaroo Point was still a ward of Brisbane. Alfred represented Kangaroo Point from 1894 to 1899 when resigned from politics. However, he returned as Alderman for Kangaroo Point again from 1902 to 1903 and then from 1911 to 1924. He was Mayor of Brisbane in 1912.
+On 20 June 1888, Alfred remarried, to Jessie Catherine Shearer, in the Congregational Church in Wharf Street. In the 1890s, the Raymond family lived in Kangaroo Point. It was while living there that Alfred became interested in politics and in 1894 he was elected as Alderman for the ward of Kangaroo Point. Although South Brisbane was then a separate town to Brisbane, Kangaroo Point was still a ward of Brisbane. Alfred represented Kangaroo Point from 1894 to 1899 when resigned from politics. However, he returned as Alderman for Kangaroo Point again from 1902 to 1903 and then from 1911 to 1924. He was [Mayor of Brisbane in 1912](https://trove.nla.gov.au/work/235651422?keyword=Alfred%20John%20Raymond).
 
 ??? Example "Directions" 
 
@@ -121,7 +121,7 @@ On 20 June 1888, Alfred remarried, to Jessie Catherine Shearer, in the Congregat
     
 ## James Swan <small>(9‑39‑8)</small>
 
-James Swan was born in 1811 in Glasgow, Scotland, the son of Daniel Swan and Jennet McLaren. He was apprenticed to the printing trade in Glasgow. In 1831, James married Christina Mackay. In 1837, James emigrated from Glasgow to Sydney with the Rev. Dr John Dunmore Lang and worked on his paper The Colonialist. In 1846, the Moreton Bay Courier was founded in Brisbane by Sidney Lyons, who persuaded James Swan to come to Brisbane and work on the newspaper. Sidney Lyons had money problems and about 18 months later, James Swan took over the newspaper. In 1859, James sold the Moreton Bay Courier to Thomas Blacket Stephens (Brisbane’s second Mayor) who renamed it the Brisbane Courier. 
+[James Swan](https://adb.anu.edu.au/biography/swan-james-4677) was born in 1811 in Glasgow, Scotland, the son of Daniel Swan and Jennet McLaren. He was apprenticed to the printing trade in Glasgow. In 1831, James married Christina Mackay. In 1837, James emigrated from Glasgow to Sydney with the Rev. Dr John Dunmore Lang and worked on his paper The Colonialist. In 1846, the Moreton Bay Courier was founded in Brisbane by Sidney Lyons, who persuaded James Swan to come to Brisbane and work on the newspaper. Sidney Lyons had money problems and about 18 months later, James Swan took over the newspaper. In 1859, James sold the Moreton Bay Courier to Thomas Blacket Stephens (Brisbane’s second Mayor) who renamed it the Brisbane Courier. 
 
 James Swan was an Alderman of the Brisbane Municipal Council from 1872 to 1875 and was Mayor from 1873 to 1875. James's wife Christina died aged 76 years at their home Burnside at Windsor on 27 January 1888 after a lingering illness and was buried here. James married again on 10 January 1889 to Christina Meikle. James Swan died on 26 May 1891 on board Jelunga while in the Mediterranean Sea bound for England. He was travelling with his wife for a 12‑month visit. Aged 80 and in poor health when he commenced the trip, many doubted they would see him return. He was buried at sea off Port Said, Egypt but he was memorialised on his first wife's grave. James's second wife Christina died on 3 March 1929 aged 71 years.
 
@@ -178,7 +178,7 @@ The third Mayor of Brisbane, Joshua Jeays died on the 11 March 1881 aged 69. He 
 
 ## William Pettigrew <small>(13‑66‑2)</small>
 
-William Pettigrew born on 26 August 1825 was the son of an Ayreshire farmer. He trained as a surveyor and as such arrived aboard the Fortitude in January 1849. He became a sawmiller, importing the first steam‑powered sawmill in 1853. Pettigrew was elected to the Brisbane Municipal Council three times in the period 1863 – 1881, including the mayoralty in 1870–1871. There is an overlap between his municipal duties and membership of the Queensland Legislative Council from 1877–1894. 
+[William Pettigrew](https://adb.anu.edu.au/biography/pettigrew-william-13152) born on 26 August 1825 was the son of an Ayreshire farmer. He trained as a surveyor and as such arrived aboard the Fortitude in January 1849. He became a sawmiller, importing the first steam‑powered sawmill in 1853. Pettigrew was elected to the Brisbane Municipal Council three times in the period 1863 – 1881, including the mayoralty in 1870–1871. There is an overlap between his municipal duties and membership of the Queensland Legislative Council from 1877–1894. 
 
 He was a member of a number of societies; including the Queensland Philosophical Society, the School of Arts Committee (along with Samuel Walker Griffith) and was a life‑member of the Queensland Acclimatisation Society. He was also a land speculator. 
 
