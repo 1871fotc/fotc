@@ -19,11 +19,23 @@ hide:
     - Create Bio pages
     - Add Bios to [Index](../bios/bio-index.md)
     
+
+???+ Example "Directions" 
+
+    - walking directions
+    
+    ![image of headstone](?.jpg)    
     
 ## Le Fevre James Cranstone <small>(2A-15-22)</small>
 
 Cranstone was born in 1822 at Hemel Hempstead, England, the son of Quakers James and Maria Cranstone (nee Le Fevre). In September 1859, he began a nine-month journey through the east and mid-west of the USA. During this journey he prepared 296 watercolor sketches now at Indiana University. The purpose of his trip was to visit cousins who lived in Richmond, Indiana and Virginia. He arrived in Brisbane in the early 1880s with members of his family and created many sketches of early Brisbane including Toowong Cemetery. Le Fevre died on 22 June 1893 aged 71 years.
 
+??? Example "Directions" 
+
+    - walking directions
+    
+    ![image of headstone](?.jpg)    
+    
 ## Isaac Walter Jenner <small>(5-43-16)</small>
 
 Jenner was born on 18 March 1837 at Brighton, Sussex, son of Thomas Jenner, blacksmith, and his wife Harriet, née Walter. Without known formal education, he worked on oyster boats and signed on for a voyage in Arctic waters. In March 1855 he joined the Royal Navy, serving during the Crimean War in the Black Sea. Discharged in 1865, he learned to paint and worked as a landscape and marine painter in 1873-79 at Brighton and at Hove in 1880- 83. He exhibited at Brighton and once at the Royal Academy. He decided to migrate and reached Brisbane by R.M.S. Roma on 19 September 1883.
@@ -34,6 +46,12 @@ A self-taught marine and landscape painter of considerable ability and technical
 
 He died at Taringa on 1 March 1902. He was survived by his wife Mary, née Jenkins, whom he had married on 23 May 1860 at Anthony, Cornwall, and by three sons and three daughters.
 
+??? Example "Directions" 
+
+    - walking directions
+    
+    ![image of headstone](?.jpg)    
+    
 ## Richard Godfrey Rivers <small>(12-24-4)</small>
 
 Rivers was born probably in 1859 at Plymouth, Devon, son of Richard Rivers, landed proprietor, and his wife Bertha, née Harris. He studied at the Slade School of Fine Art, University College, London (1877-83) receiving the prize for landscape painting in 1883 and exhibiting at the Royal Academy of Arts in 1884. In 1889 he came to Australia. He taught at Katoomba College, NSW, and then was appointed second art master at Brisbane Technical College (1890-1910, part-time 1910-15). He soon emerged as leader of Brisbane's artistic community and the first artist member of the Queensland Club in 1891.
@@ -44,6 +62,12 @@ His course at the technical college embraced both art and craft. His extant work
 
 Rivers died on 4 February 1925 of typhoid fever while on a visit to England and his ashes were interred here. His wife and daughter survived him. The Godfrey Rivers Trust, founded by his wife for the Queensland Art Gallery, established the Godfrey Rivers prize (acquisitive) and purchased art works. His most popular work, 'Under the Jacaranda' (1903), hangs in the Queensland Art Gallery and features his wife.
 
+??? Example "Directions" 
+
+    - walking directions
+    
+    ![image of headstone](?.jpg)    
+    
 ## Eliza Jeanettie Sheldon <small>(7-95-13/14)</small> 1885-1974
 ## Edwin Arthur Vincent Sheldon <small>(7-95-13/14)</small> 1895-1945 
 
