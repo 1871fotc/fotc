@@ -86,22 +86,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stephen-gates.github.io/fotc/site/headstones/</loc>
+         <loc>https://stephen-gates.github.io/fotc/site/headstones/shapes/</loc>
          <lastmod>2021-11-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stephen-gates.github.io/fotc/site/headstones/types/</loc>
-         <lastmod>2021-11-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stephen-gates.github.io/fotc/site/news/</loc>
+         <loc>https://stephen-gates.github.io/fotc/site/headstones/symbolism/</loc>
          <lastmod>2021-11-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/site/news/2020/</loc>
+         <lastmod>2021-11-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stephen-gates.github.io/fotc/site/news/2021/</loc>
+         <lastmod>2021-11-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stephen-gates.github.io/fotc/site/news/2022/</loc>
          <lastmod>2021-11-16</lastmod>
          <changefreq>daily</changefreq>
     </url>

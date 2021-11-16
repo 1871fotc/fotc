@@ -99,6 +99,16 @@ To map a marker to a grave, you need to look up old portion books. For example P
 - Read the [Toowong Cemetery Citation on Queensland WWII Historic Places Website](https://www.ww2places.qld.gov.au/place?id=2064)
 --> 
 
+## Need help locating a grave? 
+
+You can ask at the Toowong Cemetery Office for assistance finding graves.
+
+Friends of Toowong Cemetery can also assist finding graves. Contact us to ask us to:
+
+  - mark the side of the road with the section number relating to your search to help you to find it easily when you visit.
+  - outline an unmarked grave using a surface spray if the grave is unmarked. The spray does no harm and two mowings later will disappear. 
+  - take digital photographs of a grave and email it to you.
+  
 <!--
 ## Copyright
 

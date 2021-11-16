@@ -25,8 +25,8 @@ The table below lists people mentioned in our [self-guided walks](../walks/index
 | Samuel           | Keenan       | yyyy-mm-dd | yyyy-mm-dd | 2‑48‑7     | [Bio](?.md)                    |
 | Henry William    | Mobsby       | 1860-08-17 | 1933-04-09 | 5‑61‑11    | [Bio](?.md)                    |
 | Karoly (Charles) | Pulszky      | 1854-11-10 | 1899-06-05 | 5‑2‑3      | [Bio](?.md)                    |
-| Thomas           | Macer (Megan)| yyyy-mm-dd | 1926-mm-dd | p21‑14‑3   | [Bio](?.md)                    |
-| Arthur           | Aldridge     | 1873-mm-dd | 1929-11-03 | pp-ss-xx   | [Bio](?.md)                    |
+| Thomas           | Macer (Megan)| yyyy-mm-dd | 1926-mm-dd | 21‑14‑3    | [Bio](?.md)                    |
+| Arthur           | Aldridge     | 1873-mm-dd | 1929-11-03 | 23‑31‑14   | [Bio](?.md)                    |
 | George Barney    | Petrie       | 1839-mm-dd | 1878-06-21 | 13-5-3     | [Bio](?.md)                    |
 | Alex             | Gow          | 1861-10-19 | 1919-05-02 | 13-59-3/4  | [Bio](?.md)                    |
 | John             | Hislop       | yyyy-mm-dd | 1918-07-15 | 11-68-9    | [Bio](?.md)                    |
@@ -44,9 +44,10 @@ The table below lists people mentioned in our [self-guided walks](../walks/index
 | Thomas           | Macer (Megan)| yyyy-mm-dd | yyyy-mm-dd | 21‑14‑3    | [Bio](?.md)                    |
 | Arthur           | Aldridge     | yyyy-mm-dd | 1929-11-03 | 23‑31‑14   | [Bio](?.md)                    |
 | Kyrle Edward     | McAllister (Sylvaney)| yyyy-mm-dd | yyyy-mm-dd | 23‑31‑15 | [Bio](?.md) |
-|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
-|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
 
+<!--
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+-->
 
 [^1]: Also Known As names shown in (brackets).
 [^2]: Dates are formatted as yyyy-mm-dd (year, month, day) to facilitate sorting. Where a day, month or year is unknown, a placeholder value of "dd", "mm", or "yyyy" is used.

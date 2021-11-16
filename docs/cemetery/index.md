@@ -38,9 +38,9 @@ If you're using public transport to get here, use the [TransLink Journey Planner
 If you enter main entrance through the front gates, you'll find: 
 
 - Canon Garland Place named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for [guided heritage tours](../guided-tours.md) and most [self-guided walks](../walks/index.md)
-- the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) - open from 9am-1pm Monday to Friday. Staff can answer your enquiries, including helping to locate graves and ashes memorial sites.
+- the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) - open from 9am-1pm Monday to Friday. Staff can answer your enquiries and help to locate graves and ashes memorial sites.
 - an [Educational Museum](museum.md) operated by the Friends of Toowong Cemetery. 
-- toilets, the only ones open in the cemetery.
+- toilets, the only ones available in the cemetery.
 
 If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
@@ -52,9 +52,7 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ## Map
 
-Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. 
-
-Before you start, review the map.
+Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. Before you start, review the map.
 
 <!-- Map -->
 [![](../assets/toowong-cemetery-map@0.5x.png)][map]
@@ -65,7 +63,7 @@ Before you start, review the map.
 
 ### Road name changes
 
-Some road names have recently been changed to the names of notable people interred on the road. Not all signs in the Cemetery have been updated to reflect these changes: 
+Some road names have recently been changed to the names of notable people interred nearby. Not all maps and signs in the Cemetery have been updated to reflect these changes: 
 
 - **Walter Hill Drive** was part of **Boundary Road** running parallel to Mt Coot-tha Road
 - **Dr Lillian Cooper Drive** was part of **Boundary Road** running parallel to Richer Street

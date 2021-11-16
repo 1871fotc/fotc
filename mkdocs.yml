@@ -59,12 +59,15 @@ extra:
 #    property: !ENV GOOGLE_ANALYTICS_KEY
   generator: false
   social:
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/1871fotc/
-      name: We're also on facebook 
+    - icon: fontawesome/solid/phone
+      link: tel:0436604596
+      name: Call us on the phone
     - icon: fontawesome/solid/envelope
       link: mailto:inquiries@fotc.org.au
-      name: Send us an email
+      name: Send us an email      
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/1871fotc/
+      name: We're also on facebook       
 #    - icon: fontawesome/brands/creative-commons
 #      link: https://creativecommons.org/licenses/by/4.0/
 #      name: CC-BY 4.0 licence
@@ -146,14 +149,15 @@ nav:
     - BCC Toowong Cemetery Tour 1: walks/bcc-walk-1.md 
     - BCC Toowong Cemetery Tour 2: walks/bcc-walk-2.md 
   - Headstones: 
-    - Headstone Symbolism: headstones/index.md
-    - Headstones Types: headstones/types.md  
+    - Headstone Symbolism: headstones/symbolism.md
+    - Headstones Shapes: headstones/shapes.md  
   - Biographies: 
     - Biographies: bios/index.md
     - Index: bios/bio-index.md
   - News: 
-    - News 2021: news/index.md
-    - News 2020: news/2020.md    
+    - News 2022: news/2022.md    
+    - News 2021: news/2021.md
+#    - News 2020: news/2020.md    
   - About Us: 
     - About Us: about/index.md
     - Ideas: about/ideas.md

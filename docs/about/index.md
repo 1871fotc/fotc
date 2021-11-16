@@ -61,7 +61,7 @@ Currently we are:
     
     - access and a licence to the location data for the cemetery (boundaries, internal and surrounding roads, portions, sections and plots, building outlines, monuments, waterways, taps). Ideally this would be released as Open Data.
     - access and a licence to the [grave data](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). Ideally this would be released as Open Data.
-    - someone skilled in making maps. Can you help? 
+    - someone skilled in making maps. **Can you help?** 
 
 
 ## What have we got planned? 

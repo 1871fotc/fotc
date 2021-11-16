@@ -8,7 +8,7 @@ search:
 
 #  Biographies 
 
-## Index of Biographies
+## Biography Index
 
 View a sortable table of [people mentioned in our self-guided walks](bio-index.md).
 
