@@ -18,7 +18,6 @@ Portion numbers are shown on maps and sign posts throughout the cemetery.
 
     Unfortunately Portion signs are often vandalised in the cemetery. If you find a damaged of missing sign, please take a photo and [report it to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)
 
-
 ## Look up where someone is buried
 
 Use the Brisbane City Council [Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search) to look up a person's name and find the grave location and other details. 
@@ -41,7 +40,6 @@ Information on the official burial records that can be updated, includes:
 
     Consider contributing a photograph of a headstone to improve the Council database to help others discover the history and stories of Toowong Cemetery.
 
-<!--  DISPUTED BY RUSSELL MADDOCK FOTC
 
 ## Portion History
 
@@ -76,10 +74,9 @@ The Cemetery Trustees received numerous requests for separate burial sections fr
 - **Portions 25, 26 and 27** laid out in the western corner of the site contain **Catholic graves** and occupy the land purchased in 1916 from Ned Alexander. 
 - **Portion 30** was the last ground to be laid out in 1930 and contains, amongst others, graves for **Dunwich and Goodna Asylum patients** in its south-eastern corner. An avenue of oleanders marks the boundary between Portions 29 and 30.
 
-
 A survey of the layout of graves, reveal differences between many of the portions with some aligned to magnetic north, some to true north, and others at varying degrees from North. The sections in the Church of England section are laid out at 45 degrees east of true north. In August 1875, the Church of England requested that graves be laid east-west.
 
--->
+
 
 ## Markers
 
