@@ -6,7 +6,6 @@ hide:
 
 # The Artists Trail
 
-
 ??? Warning "To Do" 
 
     - Check walking order
@@ -20,7 +19,7 @@ hide:
 
     - walking directions
     
-    ![image of headstone](?.jpg)
+    ![image of headstone](le-fevre-james-cranstone.jpg)
     
 --8<-- "snippets/le-fevre-james-cranstone.md"
 
@@ -28,7 +27,7 @@ hide:
 
     - walking directions
     
-    ![image of headstone](?.jpg)
+    ![image of headstone](isaac-walter-jenner.jpg)
     
 --8<-- "snippets/isaac-walter-jenner.md"
 
@@ -36,7 +35,7 @@ hide:
 
     - walking directions
     
-    ![image of headstone](?.jpg)    
+    ![image of headstone](richard-godfrey-rivers.jpg)    
     
 --8<-- "snippets/richard-godfrey-rivers.md"
 
@@ -44,9 +43,13 @@ hide:
 
     - walking directions
     
-    ![image of headstone](?.jpg)   
+    ![image of headstone](eliza-and-edwin-sheldon.jpg)   
     
 --8<-- "snippets/eliza-jeanettie-sheldon.md"
+
+??? Example "Directions" 
+
+    - walking directions back to the start
 
 ## Source
 

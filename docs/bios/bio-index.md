@@ -43,7 +43,23 @@ The table below lists people mentioned in our [self-guided walks](../walks/index
 | Karoly (Charles) | Pulszky      | 1854-11-10 | 1899-06-05 | 5‑2‑3      | [Bio](?.md)                    |
 | Thomas           | Macer (Megan)| yyyy-mm-dd | yyyy-mm-dd | 21‑14‑3    | [Bio](?.md)                    |
 | Arthur           | Aldridge     | yyyy-mm-dd | 1929-11-03 | 23‑31‑14   | [Bio](?.md)                    |
-| Kyrle Edward     | McAllister (Sylvaney)| yyyy-mm-dd | yyyy-mm-dd | 23‑31‑15 | [Bio](?.md) |
+| Kyrle Edward     | McAllister (Sylvaney)| yyyy-mm-dd | yyyy-mm-dd | 23‑31‑15 | [Bio](?.md)              |
+| Le Fevre James   | Cranstone    | 1822-mm-dd | 1893-06-22 | 2A‑15‑22   | [Bio](?.md)                    |
+| Isaac Walter     | Jenner       | 1837-03-18 | 1902-03-01 | 5‑43‑16    | [Bio](?.md)                    |
+| Richard Godfrey  | Rivers       | 1859-mm-dd | 1925-04-02 | 12‑24‑4    | [Bio](?.md)                    |
+| Eliza Jeanettie  | Sheldon      | 1885-05-24 | 1974-mm-dd | 7‑95‑13/14 | [Bio](?.md)                    |
+| Edwin Arthur Vincent | Sheldon  | 1895-mm-dd | 1945-mm-dd | 7‑95‑13/14 | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
 
 <!--
 |                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
