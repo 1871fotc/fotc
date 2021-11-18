@@ -106,8 +106,8 @@ extra_javascript:
   
     
 # Plugins
-# plugins:
-#  - search
+plugins:
+  - search
 #  - social:
 #      cards_directory: assets/images/social
 

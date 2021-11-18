@@ -5,7 +5,7 @@ search:
 
 #  Headstone Shapes
 
-You will find many different types of headstones in Toowong Cemetery. Examples of each style are shown below. **[Learn more about the meaning of the shapes and the symbols on headstones](index.md)**.
+You will find many different types of headstones in Toowong Cemetery. Examples of each style are shown below. **[Learn more about the meaning of the shapes and the symbols on headstones](symbolism.md)**.
 
 ## Upright Slabs / Stelae
 
