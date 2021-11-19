@@ -49,7 +49,7 @@ The table below lists people mentioned in our [self-guided walks](../walks/index
 | Richard Godfrey  | Rivers       | 1859-mm-dd | 1925-04-02 | 12‑24‑4    | [Bio](?.md)                    |
 | Eliza Jeanettie  | Sheldon      | 1885-05-24 | 1974-mm-dd | 7‑95‑13/14 | [Bio](?.md)                    |
 | Edwin Arthur Vincent | Sheldon  | 1895-mm-dd | 1945-mm-dd | 7‑95‑13/14 | [Bio](?.md)                    |
-|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
+| Lilian Violet    | Cooper       | 1861-08-11 | 1947-08-18 | 8‑69‑13/14 | [Bio](lilian-cooper.md)                    |
 |                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
 |                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
 |                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio](?.md)                    |
