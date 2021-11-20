@@ -67,9 +67,9 @@ In 1893 Griffith left government to become Chief Justice of Queensland and from 
 
 John Hardgrave, a local politician and lord mayor of Brisbane, was born in Wicklow, Ireland, in 1826. He arrived in Sydney in 1843 and moved to Brisbane in 1848. In 1860 he purchased 6 acres (2.4 hectares) of land in the Brisbane suburb of West End. Hardgrave Road in West End is named after him. He was in the boot trade to 1862 and was involved in local government from 1867 to 1890. He was mayor of Brisbane in 1868 and 1870, first chairman of the Woolloongabba Divisional Board, alderman for South Brisbane from 1888 to 1890, and chairman of the Waterworks Board from 1893. He died in Brisbane on 8 November 1906 and was interred in the family grave.
 
-## William Pettigrew <small>(13‑66‑2)</small>
 
-William Pettigrew born on 26 August 1825 was the son of an Ayreshire farmer. He trained as a surveyor and as such arrived aboard the Fortitude in January 1849. He became a sawmiller, importing the first steam‑powered sawmill in 1853. Pettigrew was elected to the Brisbane Municipal Council three times in the period 1863 – 1881, including the mayoralty in 1870 – 1871. There is an overlap between his municipal duties and membership of the Queensland Legislative Council from 1877 – 1894. He was a member of a number of societies; including the Queensland Philosophical Society, the School of Arts Committee (along with Griffith) and was a life‑member of the Queensland Acclimatisation Society. He was also a land speculator. His wife Amelia (nee Boughay), a fellow Fortitude passenger whom he had married in 18 Feb 1859, pre‑deceased him on 1 September 1893 and is buried at Toowong Cemetery. He died on 28 Oct 1906 and was interred in at Bowen. William Pettigrew was a strict Presbyterian, who kept the Sabbath sacred to the extent of walking to church and banning musical instruments from worship.
+--8<-- "snippets/william-pettigrew.md"
+
 
 ## Nathaniel Lade <small>(13‑52‑20/21)</small>
 

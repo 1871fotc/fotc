@@ -88,7 +88,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 --8<-- "snippets/john-sinclair.md"
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
     - walking directions
               
@@ -104,7 +104,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![](../assets/james-swan.jpg){ width="100" }
 
 
---8<-- "snippets/james-swan.md"  
+--8<-- "snippets/james-swan.md"
 
 ??? Example "Directions" 
 
@@ -113,7 +113,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![missing picture](../assets/richard-symes-warry.jpg){ width="100" }
 
 
---8<-- "snippets/richard-symes-warry.md"  
+--8<-- "snippets/richard-symes-warry.md"
 
 ??? Example "Directions" 
 
@@ -122,7 +122,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![missing picture](../assets/richard-southall.jpg){ width="100" }
 
 
---8<-- "snippets/richard-southall.md"  
+--8<-- "snippets/richard-southall.md"
 
 ??? Example "Directions" 
 
@@ -131,7 +131,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![missing picture](../assets/john-hardgrave.jpg){ width="100" }
 
 
---8<-- "snippets/john-hardgrave.md"  
+--8<-- "snippets/john-hardgrave.md"
 
 ??? Example "Directions" 
 
@@ -140,7 +140,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![missing picture](../assets/joshua-jeays.jpg){ width="100" }
 
 
---8<-- "snippets/joshua-jeays.md"  
+--8<-- "snippets/joshua-jeays.md"
 
 ??? Example "Directions" 
 
@@ -149,7 +149,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![poke](../assets/william-pettigrew.jpg){ width="100" }
 
 
---8<-- "snippets/william-pettigrew.md"  
+--8<-- "snippets/william-pettigrew.md"
 
 ??? Example "Directions" 
 
@@ -158,7 +158,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![x](../assets/archibald-watson.jpg){ width="100" }
 
 
---8<-- "snippets/archibald-watson.md"  
+--8<-- "snippets/archibald-watson.md"
 
 ??? Example "Directions" 
 
@@ -173,7 +173,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     ![missing picture](../assets/william-macnaughton-galloway-headstone.jpg){ width="100" }
 
---8<-- "snippets/william-macnaughton-galloway.md"  
+--8<-- "snippets/william-macnaughton-galloway.md"
 
 ??? Example "Directions" 
 

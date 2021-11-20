@@ -1,4 +1,3 @@
-
 ## Arthur Aldridge <small>(23‑31‑14)</small> and Kyrle Edward McAllister (Sylvaney) <small>(23‑31‑15)</small>
 
 English‑born Arthur was a tenor who was a regular fixture on the Melbourne stage. Arthur was 57 when he died on 3 November 1929 in a motor accident together with variety artist Kyrle Sylvaney who was aged 33. Their headstone was erected as a token of affection by their friends and admirers. 
