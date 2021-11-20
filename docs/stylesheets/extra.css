@@ -13,7 +13,7 @@ th {
   color: white;
 }
 
-/* show logo in mobile format */
+/* show logo in mobile format 
 
 @media screen and (max-width: 76.1875em) {
   .md-nav__button.md-logo {
@@ -21,3 +21,4 @@ th {
     display: block;
   }
 }
+*/

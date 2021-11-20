@@ -116,9 +116,9 @@ plugins:
 nav:
   - Home: index.md
   - Toowong Cemetery: 
-    - Discover: cemetery/discover.md
+    - Discover Toowong Cemetery: cemetery/discover.md
     - History: cemetery/history.md
-    - Museum: cemetery/museum.md
+    - Museum: cemetery/museum.md 
     - Finding Graves: cemetery/finding-graves.md
   - Guided Tours: guided-tours.md
   - Self-Guided Walks:

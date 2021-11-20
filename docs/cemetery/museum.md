@@ -1,3 +1,7 @@
+---
+title: Museum
+---
+
 #  Toowong Cemetery Museum
 
 <!-- photographs -->
