@@ -2,18 +2,18 @@
   color: #7e56c2;
 }
 
-
-/* banded rows */
+/* banded rows matching admonitions */
 
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: rgba(124, 77, 255, 0.1);  
 }
 
 th {
-  background-color: #cccccc;
+  background-color: #7e56c2;
+  color: white;
 }
 
-/* show logo in mobile format 
+/* show logo in mobile format */
 
 @media screen and (max-width: 76.1875em) {
   .md-nav__button.md-logo {
@@ -21,4 +21,3 @@ th {
     display: block;
   }
 }
-*/

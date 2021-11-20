@@ -39,10 +39,11 @@ theme:
       question: fontawesome/solid/hand-holding-heart
       example: fontawesome/regular/compass
       warning: fontawesome/regular/check-circle
+#      tip: fontawesome/regular/question-circle
   custom_dir: overrides
   features:
 #  - header.autohide
-#  - navigation.instant
+  - navigation.instant
   - navigation.tracking
   - navigation.top
   - navigation.tabs
@@ -114,9 +115,9 @@ plugins:
 # order wals better
 nav:
   - Home: index.md
-  - The Cemetery: 
-    - The Cemetery: cemetery/index.md
-    - Cemetery History: cemetery/history.md
+  - Toowong Cemetery: 
+    - Discover: cemetery/discover.md
+    - History: cemetery/history.md
     - Museum: cemetery/museum.md
     - Finding Graves: cemetery/finding-graves.md
   - Guided Tours: guided-tours.md
@@ -151,8 +152,8 @@ nav:
     - Headstone Symbolism: headstones/symbolism.md
     - Headstones Shapes: headstones/shapes.md  
   - Biographies: 
-    - Biographies: bios/index.md
-    - Index: bios/bio-index.md
+    - Biography Index: bios/bio-index.md
+    - Research Resources: bios/research.md
   - News: 
 #    - News 2022: news/2022.md    
     - News 2021: news/2021.md

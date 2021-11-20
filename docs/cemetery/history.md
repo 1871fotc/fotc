@@ -1,14 +1,17 @@
-#  Toowong Cemetery
+#  Toowong Cemetery History
 
 The Toowong Cemetery is the largest cemetery in Queensland and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried there. 
 
-Learn more about the cemetery:
+The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery). 
 
-- The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery). 
+Learn more about the cemetery's history:
+
 - [Toowong Cemetery](https://en.wikipedia.org/wiki/Toowong_Cemetery) on Wikipedia
 - [Burials at Toowong Cemetery](https://en.wikipedia.org/wiki/Category:Burials_at_Toowong_Cemetery)
 - [Toowong Cemetery listing in the Queensland Heritage Register](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery).
 - [Toowong Cemetery Citation on Queensland WWII Historic Places website](https://www.ww2places.qld.gov.au/place?id=2064)
+
+Learn the [stories of the people interred at Toowong Cemetery](../bios/bio-index.md).
 
 <!-- Links -->
 

@@ -1,12 +1,13 @@
 ---
-
 search:
   boost: 2  
 ---
 
 #  Discover Toowong Cemetery
 
-![Toowong Cemetery Main Entrance](../assets/main-entrance.jpg)
+![Toowong Cemetery Main Entrance][main-entrance]
+
+*<small>Toowong Cemetery Main Entrance off Frederick Street</small>*
 
 ## Getting here
 
@@ -29,6 +30,9 @@ If you're walking, in addition to the entries above, you can enter via:
 
 ![](../assets/pedestrian-ramp.jpg)
 
+*<small>Toowong Cemetery Pedestrian Entrance off Mt Coot tha Road</small>*
+
+
 ### Public Transport
 
 If you're using public transport to get here, use the [TransLink Journey Planner](https://jp.translink.com.au/plan-your-journey/journey-planner) to plan your trip.
@@ -50,63 +54,53 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ![](../assets/flag-pole.jpg)
 
+*<small>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</small>*
+
+
 ## Map
 
 Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. Before you start, review the map.
 
+
 <!-- Map -->
 [![](../assets/toowong-cemetery-map@0.5x.png)][map]
-<figcaption>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: Old Road names shown.</figcaption>
+
+*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: Shows old Road names.</small>*
+
 <!-- Map links -->
 [map]: ../assets/toowong-cemetery-map.png "Click to expand the map. Use Back to return to this page"
 [map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
 
-### Road name changes
+
+<!-- Add a mobility map eg https://www.brisbane.qld.gov.au/sites/default/files/brisbane_botanic_gardens_mobility_map.pdf -->
+
+## Road name changes
 
 Some road names have recently been changed to the names of notable people interred nearby. Not all maps and signs in the Cemetery have been updated to reflect these changes: 
 
-- **Walter Hill Drive** was part of **Boundary Road** running parallel to Mt Coot-tha Road
-- **Dr Lillian Cooper Drive** was part of **Boundary Road** running parallel to Richer Street
-- **Pride of Erin Drive** was part of **Boundary Road** running parallel to Birdwood Terrace
-- **Francis Forde** was part of **Boundary Road** running parallel to Birdwood Terrace closest to Frederick Street
-- **Peter Jackson** was part of **Boundary Road** running parallel to Frederick Street furthest from the Front Gate
-- **Soldiers Parade** was part of **Boundary Road** running parallel to Frederick Street closest to the Front Gate
-- **Steele Rudd Avenue** was **4th Avenue**
-- **Emma Miller Avenue** was the part of **8th Avenue** behind Canon Garland Place
-- **Charles Heaphy Drive** was part of **8th Avenue** from the Shelter Shed to Emma Miller Avenue 
-- **Pat Hill Drive** was part of **8th Avenue** from the Richer Street end to the Shelter Shed
-- **O'Doherty Ave** was **11th Avenue**
-- **Elizabeth Dale Walk** was **12th Avenue**
-- **Canon Garland Avenue** was **13th Avenue**
-- **William Brown Avenue** was **14th Avenue**
-- **Federation Avenue** was **15th Avenue**
-
-<!--
-- **1st Avenue** unchanged
-- **2nd Avenue** unchanged
-- **3rd Avenue** unchanged
--->
-
-<!--
-- **5th Avenue** unchanged
-- **6th Avenue** unchanged
-- **7th Avenue** unchanged
--->
-
-<!--
-- **9th Avenue** unchanged. 
-- **10th Avenue** unchanged
--->
+| New Road Name           | Old Road Name | Notes                                                                |
+| :----------             | :--------     | :---------                                                           |
+| Walter Hill Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
+| Dr Lillian Cooper Drive | Boundary Road | running parallel to Richer Street                                    |
+| Pride of Erin Drive     | Boundary Road | running parallel to Birdwood Terrace                                 |
+| Francis Forde Avenue    | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
+| Peter Jackson Parade    | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
+| Soldiers Parade         | Boundary Road | running parallel to Frederick Street closest to the main entrance    |
+| Steele Rudd Avenue      | 4th Avenue    |                                                                      |
+| Walter Ralstone Avenue  | 7th Avenue    |                                                                      |
+| Emma Miller Avenue      | 8th Avenue    | behind Canon Garland Place                                           |
+| Charles Heaphy Drive    | 8th Avenue    | from the Shelter Shed to Emma Miller Avenue                          |
+| Pat Hill Drive          | 8th Avenue    | from the Richer Street end to the Shelter Shed                       |
+| O'Doherty Avenue        | 11th Avenue   |                                                                      |
+| Elizabeth Dale Walk     | 12th Avenue   |                                                                      |
+| Garland Avenue          | 13th Avenue   |                                                                      |
+| William Brown Avenue    | 14th Avenue   |                                                                      |
+| Federation Avenue       | 15th Avenue   |                                                                      |
 
 !!! question "Volunteer"
 
     Unfortunately signs are often vandalised in the cemetery. If you find a damaged or missing sign, please take a photo and [report it to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)
 
-<!--
-Points to note: 
+<!-- Links -->
 
-- Some roads are one way but not marked on the map.
-- There is a large difference in height between the main entrance and Birdwood Terrace which runs parallel to the edge of the cemetery. 
-- Fifth Avenue is especially steep.
-- Fifteenth Avenue is a dead end but one of the highlights of the cemetery.
--->
+[main-entrance]: ../assets/main-entrance.jpg "Toowong Cemetery Main Entrance"

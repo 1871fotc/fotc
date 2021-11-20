@@ -22,10 +22,7 @@ The Friends of Toowong Cemetery:
 - **clean and conserve headstones**.
 - **participate in archaeological digs** in the cemetery grounds in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology). The dig searches for [buried headstones](https://www.abc.net.au/news/2018-05-26/archaeology-dig-at-toowong-cemetery-a-chance-to-unearth-history/9800474) from previously demolished graves and is [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022).
 - **consult with the Brisbane City Council** on future plans, new initiatives, and the restoration of graves.
-- **locate marked and unmarked graves**. Contact us to ask us to:
-    - mark the side of the road with the section number relating to your search to help you to find it easily when you visit.
-    - outline an unmarked grave using a surface spray if the grave is unmarked. The spray does no harm and two mowings later will have disappeared. 
-    - take digital photographs of a grave and email it to you.
+- **locate marked and unmarked graves**.
 
 ## What we've done
 
