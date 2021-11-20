@@ -1,7 +1,4 @@
 ---
-hide:
-  - navigation
-  
 search:
   boost: 2  
 ---
@@ -28,7 +25,7 @@ The Friends of Toowong Cemetery:
 
 The Friends of Toowong Cemetery have:
 
-- **established [Federation Pavilion](https://monumentaustralia.org.au/themes/government/federal/display/92703-the-federation-pavilion-)**, which commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
+- **established [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 - **celebrated the [140th Anniversary Commemoration of the cemetery](140-commemoration.md)**. We received a Silver Award in the 2012 National Trust of Queensland Heritage Awards for Volunteer Projects.
 - provided **biographies for information signs** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby to make it easier to find your way around the cemetery.
@@ -38,7 +35,7 @@ The Friends of Toowong Cemetery have:
     - **Resource Manual: a guide to visiting Toowong Cemetery**, which is recommended for teachers of school groups visiting the cemetery. It is available at ==[Brisbane City Council Libraries](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries)==, the [Paddington Ward Office](https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/lord-mayor-and-councillors/ward-office-locations/paddington-ward), or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
     <!-- Not in https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat -->
     <!-- Why not publish the resource for free? -->
-    - **[Colonel Samuel Wensley Blackall : 1809-1871](https://catalogue.nla.gov.au/Record/5581999)** was published to celebrate the 140th anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery and the internment of the first person buried there, Governor Samuel Wensley Blackall.
+    - **[Colonel Samuel Wensley Blackall : 1809-1871](https://catalogue.nla.gov.au/Record/5581999)** to celebrate the 140th anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery and the internment of the first person buried there, Governor Samuel Wensley Blackall.
     - **Extraordinary Stories of Ordinary People**, a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. 
     - **140th Anniversary Commemoration of the Toowong Cemetery** - DVD
 

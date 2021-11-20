@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # 140th Anniversary Commemoration of the Toowong Cemetery
 
 To mark the anniversary of Toowong Cemetery's first year of operation, there was a Heritage Day on Sunday, 24th of July 2011 featuring a re-enactment of the burial of Governor Blackall. A speech was made by Her Excellency [Ms Penelope Wensley AC](https://en.wikipedia.org/wiki/Penelope_Wensley). 
