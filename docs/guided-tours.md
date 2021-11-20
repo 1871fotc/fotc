@@ -16,7 +16,7 @@ The Friends of Toowong Cemetery offer guided heritage walking tours on the **[fi
 
 Volunteer guides lead you on a heritage walk through the cemetery. The **[Toowong Cemetery Museum](cemetery/museum.md)** will be open before and after the walk and has an extensive display of photographs and artefacts.
 
-There is **no need to book**, just **[meet under the flagpole, in Canon Garland Place at the, at the Toowong Cemetery](cemetery/discover.md)**. There is plenty of parking available inside the cemetery.
+There is **no need to book**, just **meet under the flagpole, in Canon Garland Place at the, at the Toowong Cemetery**. There is plenty of parking available inside the cemetery.
 
 ![](assets/flag-pole.jpg)
 

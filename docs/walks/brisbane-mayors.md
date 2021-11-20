@@ -6,7 +6,7 @@ hide:
 
 # Brisbane Mayors Trail
 
-![](../assets/william-mcnaughton-galloway.jpg){ width="33%" }
+![](../assets/william-macnaughton-galloway.jpg){ width="33%" }
 
 On this trail you'll visit many of the early Mayors of the **Town of Brisbane**: 
 
@@ -45,109 +45,122 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 ???+ Example "Directions" 
 
     - Start behind Canon Garland Place in Emma Miller Avenue. 
-    - ...
+    - walking directions
               
-    ![x](../assets/john-petrie.jpg){ width="100" }
+    ![](../assets/john-petrie.jpg){ width="100" }
+
 
 --8<-- "snippets/john-petrie.md"
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
-    - poke picture
+    - walking directions 
               
-    ![x](../assets/george-edmondstone.jpg){ width="100" }
+    ![poke](../assets/george-edmondstone.jpg){ width="100" }
+
 
 --8<-- "snippets/george-edmondstone.md"
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
-    - poke picture
+    - walking directions
               
-    ![x](../assets/thomas-proe.jpg){ width="100" }
-    
+    ![](../assets/thomas-proe.jpg){ width="100" }
+
+
 --8<-- "snippets/thomas-proe.md"
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
-    - needs picture
+    - walking directions
               
-    ![x](../assets/john-daniel-heal.jpg){ width="100" }
-    
+    ![missing picture](../assets/john-daniel-heal.jpg){ width="100" }
+
+
 --8<-- "snippets/john-daniel-heal.md"
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
-    - needs picture
+    - walking directions
               
-    ![x](../assets/john-sinclair.jpg){ width="100" }
-    
+    ![missing picture](../assets/john-sinclair.jpg){ width="100" }
+
+
 --8<-- "snippets/john-sinclair.md"
 
 ???+ Example "Directions" 
 
-    - needs picture
+    - walking directions
               
-    ![x](../assets/alfred-john-raymond.jpg){ width="100" }
-    
+    ![missing picture](../assets/alfred-john-raymond.jpg){ width="100" }
+
+
 --8<-- "snippets/alfred-john-raymond.md"
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
     - walking directions
               
-    ![x](../assets/james-swan.jpg){ width="100" }
-    
+    ![](../assets/james-swan.jpg){ width="100" }
+
+
 --8<-- "snippets/james-swan.md"  
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
-    - needs picture
+    - walking directions
               
-    ![x](../assets/richard-symes-warry.jpg){ width="100" }
-    
+    ![missing picture](../assets/richard-symes-warry.jpg){ width="100" }
+
+
 --8<-- "snippets/richard-symes-warry.md"  
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
-    - needs picture
+    - walking directions
               
-    ![x](../assets/richard-southall.jpg){ width="100" }
-    
+    ![missing picture](../assets/richard-southall.jpg){ width="100" }
+
+
 --8<-- "snippets/richard-southall.md"  
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
-    - needs picture
+    - walking directions
               
-    ![x](../assets/john-hardgrave.jpg){ width="100" }
-    
+    ![missing picture](../assets/john-hardgrave.jpg){ width="100" }
+
+
 --8<-- "snippets/john-hardgrave.md"  
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
-    - needs picture
+    - walking directions
               
-    ![x](../assets/joshua-jeays.jpg){ width="100" }
+    ![missing picture](../assets/joshua-jeays.jpg){ width="100" }
+
 
 --8<-- "snippets/joshua-jeays.md"  
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
     - walking directions
               
-    ![x](../assets/william-pettigrew.jpg){ width="100" }
+    ![poke](../assets/william-pettigrew.jpg){ width="100" }
+
 
 --8<-- "snippets/william-pettigrew.md"  
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
     - needs picture
               
     ![x](../assets/archibald-watson.jpg){ width="100" }
 
+
 --8<-- "snippets/archibald-watson.md"  
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
     At this point you can either: 
     
@@ -157,14 +170,12 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
       - Continue down Charles Heaphy Drive to the Shelter Shed.
       - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
       - Walk into Portion 7a about 4 sections, and you'll find...
-            
-    - poke picture  
-    
-    ![x](../assets/william-macnaughton-galloway.jpg){ width="100" }
-    
+
+    ![missing picture](../assets/william-macnaughton-galloway-headstone.jpg){ width="100" }
+
 --8<-- "snippets/william-macnaughton-galloway.md"  
 
-???+ Example "Directions" 
+??? Example "Directions" 
 
     - Retrace your steps back to the starting point
 

@@ -40,12 +40,7 @@ A crown was often used to represent the "sovereignty of the Lord".
 
 A harp or lyre symbolises hope, joy and music. It was the symbol of St. Cecila, the Patron Saint of Musicians, and is often associated with worship in heaven. This can be seen on the grave of Joseph Phillips (10-8-12).
 
-!!! question "Volunteer opportunity"
-
-    Contribute a photo of a headstone with a Harp or Lyre. Tell us where you found it. 
-
-<!-- photos of grave of Joseph Phillips (10-8-12) --> 
-<!-- add caption and plot id -->
+![](../assets/lyre.jpg)
 
 ## Ship's Anchor
 
@@ -86,7 +81,7 @@ Plants can represent a person's birthplace (such as thistles from Scotland) and 
 
 Urns are a Greek symbol of mourning and represent the process of death, where the body becomes dust while the spirit rests with God. When the urn is draped it becomes a symbol of the house mourning.
 
-![](../assets/urn.jpg)
+![](../assets/draped-urn.jpg)
 <!-- add caption and plot id -->
 
 ## Animals
@@ -126,7 +121,7 @@ Gillon, E. (1972). [Victorian Cemetery Art][Victorian Cemetery Art]. New York: D
 
 The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conservation](https://www.nationaltrust.org.au/services/cemetery-conservation/) has further information on headstone and monument conservation, terminology and symbology. 
 
-## Copyright
+### Copyright
 
 Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes, Lost and Found section, photos and links added.
 

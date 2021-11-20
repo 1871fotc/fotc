@@ -6,19 +6,12 @@ hide:
 
 # Undertakers Underground Heritage Trail
 
-<!-- Insert a map -->
-<!-- What to the numbers mean? add into map snippet --> 
+![](../assets/John-Hislop-Undertakers-Brisbane-ca1902.jpg)
 
-<a href="https://uc49c45756ccdb9e02b3bfa0fc46.previews.dropboxusercontent.com/p/thumb/ABXBp5mi8z0StualrswvLuQiuCcjxlLGEUhqZKQldVvYhngJfcSIqlgTXaAfEu_Uc9ewxWGX4BZ4FshtjN2IOlk4L1XBVxKpAXh6QPFJ3cOcNP6dHtmXgqfH4iC3SN4ytAD1gM0OawK5qs0QwcM6mBvdOa8XoLtdaWyBtjx_2LL_q2DBDYbr0XkOci4x0pFVYW9-cAeW8wVFGq3msdrRBUOmKyLj_klSXuXTOyrIVgIcM238mfIWqZ-fCvxdx2YFOfNSnkJTt2hqtgMag6oZyK7QPT40cWSKhZwymBtFjpA8UvU6YSHFoLLUyOnj4NkqmWbUchfS93tylYXGh-KCmVuYX2wR0TSkAGaXQteLle-TrCQDfpCwugJGa8dU7xiE4linnvCDuVLf67xi3ZPaHSAu/p.png?fv_content=true&size_mode=5" title="click to expand">
-  <figure>
-    <img src="https://uc49c45756ccdb9e02b3bfa0fc46.previews.dropboxusercontent.com/p/thumb/ABXBp5mi8z0StualrswvLuQiuCcjxlLGEUhqZKQldVvYhngJfcSIqlgTXaAfEu_Uc9ewxWGX4BZ4FshtjN2IOlk4L1XBVxKpAXh6QPFJ3cOcNP6dHtmXgqfH4iC3SN4ytAD1gM0OawK5qs0QwcM6mBvdOa8XoLtdaWyBtjx_2LL_q2DBDYbr0XkOci4x0pFVYW9-cAeW8wVFGq3msdrRBUOmKyLj_klSXuXTOyrIVgIcM238mfIWqZ-fCvxdx2YFOfNSnkJTt2hqtgMag6oZyK7QPT40cWSKhZwymBtFjpA8UvU6YSHFoLLUyOnj4NkqmWbUchfS93tylYXGh-KCmVuYX2wR0TSkAGaXQteLle-TrCQDfpCwugJGa8dU7xiE4linnvCDuVLf67xi3ZPaHSAu/p.png?fv_content=true&size_mode=5" alt="" style="height:200px;">
-    <figcaption>John Hislop Undertakers Hearse</figcaption>
-  </figure>
-</a>
+*<small>John Hislop Undertakers, Brisbane, ca. 1902, held by [John Oxley Library, State Library of Queensland](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_alma21220144750002061&context=L&vid=SLQ&lang=en_US).</small>*
 
 ??? Warning "To Do" 
 
-    - Add cover image
     - Check walking order
     - Create and insert map with link to portion-section-plot explanation
     - Add directions
