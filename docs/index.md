@@ -26,7 +26,7 @@ On this site you'll find information about:
 - the **[biographies](bios/bio-index.md)** of people interred at the cemetery, and [research resources](bios/research.md)
 - **[Friends of Toowong Cemetery](about/index.md)** - what we do, how to join in, and contact details 
 
-![][image7]{ width="32%" } ![][image8]{ width="32%" } ![][image9]{ width="32%" }   
+![][image7]{ width="32%" } ![][image9]{ width="32%" } ![][image11]{ width="32%" }   
 
 <!-- links -->
 
@@ -42,3 +42,4 @@ On this site you'll find information about:
 [image8]: assets/cherub.jpg "Cherub Headstone"
 [image9]: assets/harry-potter-16x9.jpg "Spoiler Alert"
 [image10]: assets/clasped-hands.jpg "We Part To Meet Again"
+[image11]: assets/pat-hill.jpg "Pat Hill's Headstone"

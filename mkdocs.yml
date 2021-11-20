@@ -14,7 +14,7 @@ copyright: © 1996 — 2021 Friends of Toowong Cemetery Association Incorporated
 theme:
   language: en
   name: material
-  logo: assets/fotc@0.5x.png
+  logo: assets/fotc-logo.png
   favicon: assets/favicon.ico
 #  icon:
 #    repo: fontawesome/brands/github-alt
@@ -42,7 +42,6 @@ theme:
 #      tip: fontawesome/regular/question-circle
   custom_dir: overrides
   features:
-#  - header.autohide
   - navigation.instant
   - navigation.tracking
   - navigation.top
@@ -51,7 +50,6 @@ theme:
   - navigation.indexes
   - search.highlight
   - search.suggest
-#  - search.share
 
 # Customization
 extra:
@@ -110,6 +108,9 @@ plugins:
   - search
 #  - social:
 #      cards_directory: assets/images/social
+#      cards_color:
+#        fill: "#7e56c2" 
+#        text: "#FFFFFF"
 
 # Page tree - only 2 levels allowed
 # order wals better
