@@ -62,9 +62,9 @@ George Phillips died on 3 June 1921 at the age of 77 after being known as one of
 ## James Cowlishaw <small>(1834-1913)</small>
 James Cowlishaw was an architect, newspaper director, trustee and politician. He was born in Sydney in 1834 and came to Brisbane in 1861 to practise as an architect. He designed a few private homes including Hanworth House at East Brisbane and Oakwal at Windsor, both of which still exist, but he was mostly concerned with commercial buildings and designed some of the finest buildings of the period, including Brisbane Grammar School. He acquired a large interest in the Queensland Trustees Limited, and was a founder of the Brisbane Gas Company in 1864. He was also one of the founding trustees of the Toowong Cemetery.
 
-Cowlishaw was Chairman of Directors of The Daily Telegraph for many years. Later his brother George, who is also buried in this plot, became Director of The Daily Telegraph for an unbroken period of 20 years from 1893 until his sudden death from a seizure on 6 January 1913. 
+Cowlishaw was Chairman of Directors of The Daily Telegraph for many years. Later his brother George, who is also buried in this grave, became Director of The Daily Telegraph for an unbroken period of 20 years from 1893 until his sudden death from a seizure on 6 January 1913. 
 
-Cowlishaw’s wife, Charlotte (nee Owen) was the second burial in the plot following her death in 1914.
+Cowlishaw’s wife, Charlotte (nee Owen) was the second burial in the grave following her death in 1914.
 
 <!-- insert photo -->
 
@@ -134,7 +134,7 @@ Governor Musgrave was born and educated in the West Indies where he established 
 
 ??? Example "Directions" 
 
-    Across the path lies a series of tombs beginning with a large family plot. Notice on the far left a plaque commemorating Dorothy Hawthorn, MBE.
+    Across the path lies a series of tombs beginning with a large family grave. Notice on the far left a plaque commemorating Dorothy Hawthorn, MBE.
 
 ## Dorothy Hawthorn, MBE <small>(1900‑1983)</small>
 

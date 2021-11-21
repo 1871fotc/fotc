@@ -1,8 +1,8 @@
 # Finding Graves at Toowong Cemetery
 
-## Portions, Sections and Plots
+## Portions, Sections and Graves
 
-Graves are located using 3 numbers, *Portion*-*Section*-*Plot*. For example, Peter Jackson's grave is located at Portion 5, Section 28, Plot 1 or (5-28-1). 
+Graves are located using 3 numbers, *Portion*-*Section*-*Grave*. For example, Peter Jackson's grave is located at Portion 5, Section 28, Grave 1 or (5-28-1). 
 
 See if you can locate Peter Jackson's grave using the Portion and Section numbers in the map below.
 
@@ -50,13 +50,13 @@ Information on the official burial records that can be updated, includes:
 
 ## Markers
 
-Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a person's marker to the appropriate grave (portion-section-plot). 
+Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a person's marker to the appropriate grave (portion-section-grave). 
 
 ![](../assets/markers.jpg)
 
 *<small>Grave markers found on the grass, separated from their grave.</small>*
 
-To map a marker to a grave, you need to look up old portion books. For example Portion 1, Section 1, Plot 1 maps to Marker XI 755. 
+To map a marker to a grave, you need to look up old portion books. For example Portion 1, Section 1, Grave 1 maps to Marker XI 755. 
 
 ![](../assets/portion-ledger.png)
 

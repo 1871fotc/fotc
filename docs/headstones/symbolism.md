@@ -15,7 +15,7 @@ In section 2 of the cemetery, at the intersection of Soldiers Parade and Garland
 
 <!-- link to map --> 
 
-Headstones within the Cemetery come in many shapes and sizes. Throughout the first half of the 19th Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
+Headstones within the Cemetery come in [many shapes](shapes.md) and sizes. Throughout the first half of the 19th Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
 
 ## The Cross
 
@@ -69,6 +69,8 @@ Clasped hands symbolise the belief Victorians held that they would be reunited w
 Plants can represent a person's birthplace (such as thistles from Scotland) and also reflect religious meanings. See the grave of Michael McCormack and his wife Elizabeth (1-20-9) where ivy symbolises hope and mortality. Roses are another symbol that has multiple interpretations (including beauty, hope and love) and they are often associated with the Virgin Mary. The age of the deceased can also be revealed by the size of the flower or plant - a bud represents a child, and a full flower represents an adult. 
 
 ![](../assets/plant.jpg){ width="30%" }  ![](../assets/cross-with-vine.jpg){ width="30%" }  ![](../assets/bud.jpg){ width="30%" } 
+![](../assets/thistle.jpg){ width="30%" } ![](../assets/rose.jpg){ width="30%" }
+
 
 <!-- add caption and plot id -->
 <!-- Get photo of Michael McCormack and his wife Elizabeth (1-20-9) -->

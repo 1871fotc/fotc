@@ -10,7 +10,7 @@ hide:
 
     - Add cover image - Martin Luther’s rose seal from 1530
     - Check walking order
-    - Create and insert map with link to portion-section-plot explanation
+    - Create and insert map with link to portion-section-grave explanation
     - Add directions
     - Add headstone photos
     - Convert Bios to Snippets
@@ -52,7 +52,7 @@ Theodore traded with his partner J. C. Heussler as a wholesale merchant and was 
 
 Ernst Otto Maier was born on 13 April 1853 in Köngen, Württemberg and died on 15 March 1905. He was the first of five Basel trained pastors to serve the “German Lutheran Church North Brisbane” (St Andreas) from 1888 until his death. This monument was erected by his family, friends and congregation. He is buried with his wife Regula Albertina Maier née Bunzli who was born on 1 April 1853 in Zurich, Switzerland and died on 11 Aug 1935 at Ipswich. 
 
-Also buried in the plot is Martha Maria Hiller née Maier who was born on 26 Aug 1880 at German Station (Nundah) and died on 4 Dec 1915. She was the organist at St. Andreas in 1900 before she married the Rev. Eugen Hiller (1870 – 1958) who was the pastor there in 1905‑06.
+Also buried in the grave is Martha Maria Hiller née Maier who was born on 26 Aug 1880 at German Station (Nundah) and died on 4 Dec 1915. She was the organist at St. Andreas in 1900 before she married the Rev. Eugen Hiller (1870 – 1958) who was the pastor there in 1905‑06.
 
 ## Gentner Family <small>(13‑20‑3)</small>
 

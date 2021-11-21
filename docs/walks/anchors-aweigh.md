@@ -98,7 +98,7 @@ Three generations of David Muirs are buried in this grave. David was a shipwrigh
 
     - walking directions
     
-    ![image of headstone](?.jpg)    
+    ![](../assets/tom-george-johnson.jpg){ width="100" }    
     
 ## Tom George Johnson <small>(14-18-4)</small>
 

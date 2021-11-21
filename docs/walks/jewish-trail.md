@@ -8,16 +8,13 @@ hide:
 
 [Notes](http://www.fotc.org.au/subset/Jewish_Trail.pdf)
 
-==work in progress==
+![](../assets/brisbane-synagogue-1906.jpg){ width="50%" }
 
-
-==insert image==
-
-The Brisbane Synagogue Consecrated in 1886
+*<small>The Brisbane Synagogue, ca 1906, consecrated in 1886</small>*
  
 ## Foreword
 
-This is a Jewish Cemetery. Our population in Queensland is quite small, so its cemeteries number only ten and some have rarely been used. In Brisbane there is one at Toowong dating back from the 1870's and the other is at Mt Gravatt, which opened in 1966. Originally there was a small area in the old Lang Park (Paddington) Cemetery, but that was closed and the 3 known Jewish burials, and their monuments, were brought to Toowong in 1913. Now Toowong has only about 20 available plots, all of which were purchased years ago and are being used.
+This is a Jewish Cemetery. Our population in Queensland is quite small, so its cemeteries number only ten and some have rarely been used. In Brisbane there is one at Toowong dating back from the 1870's and the other is at Mt Gravatt, which opened in 1966. Originally there was a small area in the old Lang Park (Paddington) Cemetery, but that was closed and the 3 known Jewish burials, and their monuments, were brought to Toowong in 1913. 
 
 Jewish deceased are buried with their heads toward the East. This has a religious significance. Only one person is buried in each grave. Before the coffin is covered with earth, a small amount of soil of the Holy City of Jerusalem is sprinkled over it. Burial is conducted by a world‑wide, ancient organisation called the "Chevra Kadisha" (The Sacred Society). It has a variety of duties, all of a compassionate nature, e.g. care of orphans and widows, comfort of the dying, charity etc.
 

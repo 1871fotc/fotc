@@ -26,7 +26,7 @@ A walk recognising people involved in the Labor Movement.
  
 ???+ Example "Directions" 
 
-    - Start behind Canon Garland Place in Emma Miller Avenue. 
+    - Start behind [Canon Garland Place](../cemetery/discover.md#when-you-arrive) in Emma Miller Avenue. 
     - Walk North towards William Brown Avenue (previously 14th Avenue).
     - At the end of the second row back from Emma Miller Avenue, you'll find Emma Miller's memorial stone.  
     
