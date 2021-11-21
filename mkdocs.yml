@@ -9,7 +9,6 @@ copyright: © 1996 — 2021 Friends of Toowong Cemetery Association Incorporated
 # repo_name: Stephen-Gates/fotc
 # edit_uri: ""
 
-
 # Configuration
 theme:
   language: en
@@ -47,7 +46,7 @@ theme:
   - navigation.top
   - navigation.tabs
   - navigation.tabs.sticky
-  - navigation.indexes
+#  - navigation.indexes
   - search.highlight
   - search.suggest
 
@@ -160,9 +159,10 @@ nav:
     - News 2021: news/2021.md
     - News 2020: news/2020.md    
   - About Us: 
-    - About Us: about/index.md
-    - 140th Anniversary Commemoration: about/140-commemoration.md
+    - About Friends of Toowong Cemetery: about/index.md
     - Federation Pavilion: about/federation-pavilion.md
+    - Archaeological Digs: about/archaeological-digs.md
+    - 140th Anniversary Commemoration: about/140-commemoration.md
     - Ideas: about/ideas.md
 
 #    - Federation Pavillion: about/federation-pavillion.md

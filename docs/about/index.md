@@ -17,7 +17,7 @@ The Friends of Toowong Cemetery:
 - **share our discoveries** with the community through our publications, guided heritage tours, self-guided walks, our educational museum, and contributions to other local history resources.
 - **contribute stories** of individuals interred at the Toowong and [Milton/Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to publications and biographical databases.
 - **clean and conserve headstones**.
-- **participate in archaeological digs** in the cemetery grounds in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology). The dig searches for [buried headstones](https://www.abc.net.au/news/2018-05-26/archaeology-dig-at-toowong-cemetery-a-chance-to-unearth-history/9800474) from previously demolished graves and is [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022).
+- **search for buried headstones in archaeological digs** in the cemetery grounds in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology). 
 - **consult with the Brisbane City Council** on future plans, new initiatives, and the restoration of graves.
 - **locate marked and unmarked graves**.
 

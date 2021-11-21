@@ -38,7 +38,7 @@ Local Identities:
 
 Politics: 
 
-- [The Federation Trail](federation-trail.md) - A walk to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
+- **[The Federation Trail](federation-trail.md)** - A walk to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
 - [Governors Past Trail](governors-past.md)
 - [Brisbane Mayors Trail](brisbane-mayors.md) 
 - **[Labor Luminaries Trail](labor-luminaries.md)** - A walk recognising people involved in the Labor Movement <!-- Hilda Maclean -->

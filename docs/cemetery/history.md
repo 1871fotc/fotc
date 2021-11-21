@@ -4,14 +4,21 @@ title: History
 
 #  Toowong Cemetery History
 
-The Toowong Cemetery is the largest cemetery in Queensland and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried there. 
+The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the largest cemetery in Queensland and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried there. 
 
+![](../assets/toowong-cemetery-aerial-photo.jpg){ width="50%" } 
+
+*<small>Toowong Cemetery aerial photo, 1934. Frederick St is the straight road on the right, running top to bottom.</small>*
+
+![](../assets/stone-of-remembrance.jpg){ width="50%" }  
+
+*<small>The Stone of Remembrance and Cross of Sacrifice.</small>*
 
 ## Portion History
 
 The grounds at the Cemetery were laid out by the prominent surveyor, George Phillips and a set of books drawn up by the Government Printer.
 
-![Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909 - Queensland State Archives](../assets/brisbane-general-cemetery-19090708.jpg)
+![Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909 - Queensland State Archives](../assets/brisbane-general-cemetery-19090708.jpg){ width="50%" }  
 
 *<small>Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909 - Queensland State Archives.</small>*
 
@@ -27,7 +34,7 @@ The contrast is stark between elaborate monuments built by the elite on the high
 The Cemetery Trustees received numerous requests for separate burial sections from churches and other like minded group to ensure that religious and social class distinctions within society were perpetuated in mortality.
 
 - **Portion 1** was allocated to the **Church of England** with still born babies occupying the northern area of this Portion. 
-- **Portion 2** which was originally allocated to the **Wesleyan Methodists** (2A) also contains the graves of more than 10,000 still born babies and other hospital burials. 
+- **Portion 2** which was originally allocated to the **Wesleyan Methodists**. **Portion 2A** contains the graves of more than 10,000 still born babies and other hospital burials. 
 - **Portion 3** was allocated to the **Hebrews**.
 - **Portion 4** appears to be a **general area** and contains the [Temple of Peace](https://apps.des.qld.gov.au/heritage-register/detail/?id=600334) and the [Caskey Memorial](https://apps.des.qld.gov.au/heritage-register/detail/?id=600335). 
 - **Portion 5** contains **public ground**. 
@@ -46,7 +53,7 @@ The Cemetery Trustees received numerous requests for separate burial sections fr
 A survey of the layout of graves, reveal differences between many of the portions with some aligned to magnetic north, some to true north, and others at varying degrees from North. The sections in the Church of England section are laid out at 45 degrees east of true north. In August 1875, the Church of England requested that graves be laid east-west.
 
 
-## Learn more about the cemetery's history:
+## Learn more about the cemetery's history
 
 - [Toowong Cemetery](https://en.wikipedia.org/wiki/Toowong_Cemetery) on Wikipedia
 - [Burials at Toowong Cemetery](https://en.wikipedia.org/wiki/Category:Burials_at_Toowong_Cemetery)
