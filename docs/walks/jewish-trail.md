@@ -6,14 +6,11 @@ hide:
 
 # The Jewish Heritage Trail
 
-[Notes](http://www.fotc.org.au/subset/Jewish_Trail.pdf)
 
 ![](../assets/brisbane-synagogue-1906.jpg){ width="50%" }
 
 *<small>The Brisbane Synagogue, ca 1906, consecrated in 1886</small>*
  
-## Foreword
-
 This is a Jewish Cemetery. Our population in Queensland is quite small, so its cemeteries number only ten and some have rarely been used. In Brisbane there is one at Toowong dating back from the 1870's and the other is at Mt Gravatt, which opened in 1966. Originally there was a small area in the old Lang Park (Paddington) Cemetery, but that was closed and the 3 known Jewish burials, and their monuments, were brought to Toowong in 1913. 
 
 Jewish deceased are buried with their heads toward the East. This has a religious significance. Only one person is buried in each grave. Before the coffin is covered with earth, a small amount of soil of the Holy City of Jerusalem is sprinkled over it. Burial is conducted by a world‑wide, ancient organisation called the "Chevra Kadisha" (The Sacred Society). It has a variety of duties, all of a compassionate nature, e.g. care of orphans and widows, comfort of the dying, charity etc.
@@ -23,6 +20,9 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 ???+ Example "Directions" 
 
     Starting from the ==TOP LEFT HAND== corner of the small Jewish portion, walk down the first row, looking left. About the 16th headstone from the start is the grave of...
+    
+    ![](../assets/sam-burmister.jpg){ width="20%" }
+
 
 ## Sam Burmister <small>3‑25‑5</small>
 
@@ -31,12 +31,19 @@ He was a world‑class heavy‑weight wrestler. As a youth he trained to be a si
 ??? Example "Directions" 
 
     Moving along another 14 headstones you will come across the grave of...
+    
+    ![](../assets/morris-moskowitch.jpg){ width="20%" }
+
 
 ## Morris Moskowitch 
 
 Morris built, renovated or moved many homes in South Brisbane, in the first half of this century. He built a small synagogue as an annex to his home in Greenslopes, where he and a group of friends used to pray.
 
-Walking up another 6 headstones and still looking left you will come to the grave of...
+??? Example "Directions" 
+
+    Walking up another 6 headstones and still looking left you will come to the grave of...
+
+    ![](../assets/guinsberg-family.jpg){ width="20%" }
 
 ##The Guinsberg Family	<small>3‑13A‑14/16</small>
 
@@ -44,7 +51,10 @@ This type of massive monument is unusual for its size and is rarely utilised now
 
 ??? Example "Directions" 
 
-    Another 13 headstones along this same path is the grave of 
+    Another 13 headstones along this same path is the grave of...
+    
+    ![](../assets/w-j-friedlander.jpg){ width="20%" }
+ 
 
 ## W. J. Friedlander (AIF) <small>3‑9A‑17</small>
 
@@ -53,6 +63,9 @@ This is an example of the bronze plaques erected by the War Graves Commission ov
 ??? Example "Directions" 
 
     The grave next to this one is the grave of... 
+    
+    ![](../assets/isaac-hillel-hillman.jpg){ width="20%" }
+
 
 ## Isaac Hillel Hillman <small>3‑9A‑16</small>
 
@@ -61,6 +74,9 @@ As a young man he came to Brisbane from his home in Latvia. He worked as a plumb
 ??? Example "Directions" 
 
     Walking to the end of this path walk around to the start of second path. Looking right, go to the seventh headstone, and you will see the large headstone of...
+    
+    ![](../assets/jonas-myer-myers.jpg){ width="20%" }
+
 
 ## Rev. Jonas Myer Myers 
  
@@ -72,25 +88,33 @@ The good man was the Minister of the Brisbane Hebrew Congregation, serving here 
 
     Walk two graves along and you have reached the graves of...
     
+    ![upload photo](../assets/lawrence-lawrence-loewe.jpg){ width="20%" }
+
 ## Lawrence, Lawrence and Loewe 
 
 These are the three monuments which were transferred here from Lang Park. They are in sandstone, which is not used much nowadays for monuments.
 
-The third headstone of the 3 just mentioned has a carved pitcher or urn, from which water is being poured. Persons who are descended from the Biblical clan of Levi are called 'Levites' and they had certain duties in the ancient temple in Jerusalem. One was the 'laving' (i.e. washing) of the hands of the 'Cohen' i.e. Priest, before the service, hence the above mentioned pitcher.
+Loewe's headstone has a carved pitcher or urn, from which water is being poured. Persons who are descended from the Biblical clan of Levi are called 'Levites' and they had certain duties in the ancient temple in Jerusalem. One was the 'laving' (i.e. washing) of the hands of the 'Cohen' i.e. Priest, before the service, hence the above mentioned pitcher.
 
 There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Similarly, there are variants to the name of 'Cohen' and it will be seen that some who are identified as priests (see later notes) have other names such as Kangan, Konn, Kahn etc.
 
 ??? Example "Directions" 
 
     Moving along the same path and another 12 headstones ahead is the grave of...
+    
+    ![](../assets/alan-taylor.jpg){ width="20%" }
 
-## Allan Taylor <small>3‑13‑1A</small>
+
+## Alan Taylor <small>3‑13‑1A</small>
 
 He was climbing the face of Mt Tibrogargan with two other University climbers. They were ascending without safety ropes. He fell to his death and the Jewish Community was deeply shocked at the loss of this fine young man.
 
 ??? Example "Directions" 
 
     Proceed along the path for another 11 headstones and you will come to the grave of...
+    
+    ![](../assets/trooper-lipstine.jpg){ width="20%" }
+
 
 ## Trooper Lipstine <small>	3‑13‑9/10</small>
 
@@ -99,6 +123,9 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
 ??? Example "Directions" 
 
     Another 8 headstones along this path is the grave of...
+    
+    ![](../assets/phyliss-mary-peixetto.jpg){ width="20%" }
+
     
 ## Phyliss Mary Peixetto  
 
@@ -109,6 +136,9 @@ She was a descendant of a man by that name, who led the entire Jewish Community 
 ??? Example "Directions" 
 
     Walking along another 8 headstones we come upon the grave of...
+    
+    ![](../assets/henry-montague-bloom.jpg){ width="20%" }
+
 
 ## Monty Bloom <small>3‑24‑3</small>
 
@@ -117,6 +147,9 @@ Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. H
 ??? Example "Directions" 
 
     Now walk around to the start of the third path. Looking LEFT the 23rd headstone from the start is that of... 
+    
+    ![](../assets/myer-kangan.jpg){ width="20%" }
+
 
 ## Myer Kangan AO, MBE <small>3‑18‑1A</small>
 
@@ -125,6 +158,8 @@ He was decorated with the Order of Australia and made a member of the Order of t
 ??? Example "Directions" 
 
     Behind Kangan's headstone is that of...
+    
+    ![](../assets/louis-paul-fingereth.jpg){ width="20%" }
     
 ## Louis Paul Fingereth, M.B.E. <small>3‑18‑14</small>
 
@@ -136,6 +171,9 @@ Note that not all the Cohanim (the plural) are named "Cohen". The Levites (male 
 ??? Example "Directions" 
 
     Moving also this path 6 more headstones, we come to the grave of...
+    
+    ![](../assets/lipman-abrahams.jpg){ width="20%" }
+
 
 ## Lipman Abrahams <small>3‑12‑9</small>
 
@@ -144,6 +182,9 @@ This is a beautiful carved sandstone monument. The symbol of the book would sugg
 ??? Example "Directions" 
 
     Next to this beautiful monument is the grave of...
+    
+    ![](../assets/benjamin-benjamin.jpg){ width="20%" }
+
 
 ## Benjamin Benjamin <small>3‑12‑7/8</small>
 
@@ -152,6 +193,9 @@ Percy Benjamin was a son of Sir Benjamin Benjamin and Lady Fanny Benjamin. Sir B
 ??? Example "Directions" 
 
     Walk along a couple of more headstones and you will see the striking sculpted red granite monument of **Flegeltaub**. Moving along another 4 headstones and still looking right you will see the headstone of...
+    
+    ![](../assets/behr-raphael-lewin.jpg){ width="20%" }
+
 
 ## Behr Raphael Lewin <small>3‑8‑10/11</small>
 
@@ -160,6 +204,9 @@ About 1875 he carried a "Sepher Torah" (i.e. a Scroll of the Old Testament) on h
 ??? Example "Directions" 
 
     A further 3 headstones along, we have the headstone of...
+    
+    ![](../assets/cornelia-harris.jpg){ width="20%" }
+
 
 ## Cornelia Harris 
 
@@ -168,6 +215,9 @@ On this monument is a passage from Proverbs XXXI. It is a fine tribute to a good
 ??? Example "Directions" 
 
     Several of the next graves on both sides of the path form the centre of the oldest part of this Jewish Cemetery. Most of these monuments were cut in sandstone, quarried near Helidon. Another 3 headstones along is the headstone of...
+    
+    ![](../assets/caroline-benjamin.jpg){ width="20%" }
+
 
 ## Caroline Benjamin
 
@@ -176,6 +226,9 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
 ??? Example "Directions" 
 
     Now go to the end of this 3rd path and round to the start of the 4th path and look to the right and to the 4th grave of...
+    
+    ![](../assets/van-millingen.jpg){ width="20%" }
+
 
 ## Van Millingen 
 
@@ -184,6 +237,9 @@ It would be a pity if this fine Grey‑Gum has to be destroyed before it does fu
 ??? Example "Directions" 
 
     Walking along the same path another 3 headstones you will come to the grave of...
+    
+    ![](../assets/arthur-hyam.jpg){ width="20%" }
+
 
 ## Arthur Hyam 
 
@@ -192,6 +248,9 @@ You will see some columns with the top broken off. This is a well‑known symbol
 ??? Example "Directions" 
 
     As you walk along this path a few headstones up you will notice some more of the old sandstone monuments. Further along you will come upon the white marble monument of...
+    
+    ![](../assets/l-m-boock.jpg){ width="20%" }
+
 
 ## L. M. Boock <small>3‑22‑4</small>
 
@@ -204,6 +263,8 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
 ??? Example "Directions" 
 
     The third grave after the SHEMOTH grave and in the rear row is that of... 
+    
+    ![](../assets/e-s-meyers.jpg){ width="20%" }
 
 ## E. S. Meyers <small>3‑22‑22</small>
 
@@ -214,6 +275,9 @@ Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First 
     Now walk round to the start of the fifth path. The first small monument is over another "SHEMOTH" burial. Hundreds of articles (mainly worn out books) are buried in each "SHEMOTH" grave.
 
     Walking along to the fifth monument and at the rear of it is the grave of...
+    
+    ![](../assets/e-m-margulies.jpg){ width="20%" }
+
 
 ## Dr E. M. Margulies <small>3‑21‑8</small>
 
@@ -222,6 +286,9 @@ Eric Mark Margulies was the only doctor in the western Queensland country town o
 ??? Example "Directions" 
 
     Moving along another 10 monuments you will come to the headstones of...
+    
+    ![](../assets/gerson-family.jpg){ width="20%" }
+
 
 ## The Gerson Family <small>==3‑16‑3/4==</small>
 
@@ -231,6 +298,9 @@ These three identical monuments are an example of the work of vandals. It can be
 
     Walking along another 12 monuments is the grave of...
     
+    ![](../assets/roy-mark-levy.jpg){ width="20%" }
+
+    
 ## Roy Mark Levy <small>3‑10‑14A</small>
 
 He was a well‑known cricketer representing Queensland in the Sheffield Shield series over many years.
@@ -238,6 +308,9 @@ He was a well‑known cricketer representing Queensland in the Sheffield Shield 
 ??? Example "Directions" 
 
     Walk along the path past 6 monuments, and you will be standing at the grave of...
+    
+    ![](../assets/sali-mendelsohn.jpg){ width="20%" }
+
 
 ##"Sali" Mendelsohn <small>3‑6‑7</small>
 
@@ -252,6 +325,9 @@ Sali was Queensland's greatest bush balladeer and wrote many songs about the dro
 ??? Example "Directions" 
 
     Moving along the path for another 10 monuments, you will come to the grave of...
+    
+    ![](../assets/samuel-joseph-levy.jpg){ width="20%" }
+
 
 ## Samuel Joseph Levy <small>3‑8‑20/21</small>
 
@@ -262,6 +338,9 @@ When a person dies at a relatively young age, it is sometimes symbolised by a "b
     Walking along a couple of graves, we come across some more handsome sandstone monuments bearing the surname of **Phillips**.
 
     Go to the end of the path and onto the road. The first monument is that of...
+    
+    ![](../assets/joseph-hearsch.jpg){ width="20%" }
+
     
 ## Joseph Hearsch <small>3‑1A‑1/2</small>
 
@@ -283,9 +362,10 @@ Should you have any questions arising from this visit, please jot them on a piec
 
 ## Acknowledgements
 
+[Text](http://www.fotc.org.au/subset/Jewish_Trail.pdf) by: Morris. S. Ochert OAM - Queensland Researcher, Australian Jewish Historical Society
 
-Text by: Morris. S. Ochert OAM - Queensland Researcher, Australian Jewish Historical Society
-
+<!-- 
 Photography by: Joyce Simpson Sexton's Office Toowong Cemetery
+-->
 
 Edited by: Hilda Maclean Friends of Toowong Cemetery
