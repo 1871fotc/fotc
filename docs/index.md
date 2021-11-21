@@ -20,13 +20,13 @@ The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland wit
 
 On this site you'll find information about:
 
-- visiting **[the cemetery](cemetery/discover.md)**, exploring its history, a map, and [how to find graves](cemetery/finding-graves.md)
+- visiting **[the cemetery](cemetery/discover.md)**, exploring its history, a map, and **[how to find graves](cemetery/finding-graves.md)**
 - monthly **[guided heritage tours](guided-tours.md)** and **[self‑guided walks](walks/)** 
 - **[headstone symbolism](headstones/symbolism.md)** and **[shapes](headstones/shapes.md)**
-- the **[biographies](bios/bio-index.md)** of people interred at the cemetery, and [research resources](bios/research.md)
-- **[Friends of Toowong Cemetery](about/index.md)** - what we do, how to join in, and contact details 
+- the **[biographies](bios/bio-index.md)** of people interred at the cemetery, and **[research resources](bios/research.md)**
+- **[Friends of Toowong Cemetery](about/index.md)** - what we do, what we've done, and how to join in 
 
-![][image7]{ width="32%" } ![][image11]{ width="32%" } ![][image8]{ width="32%" }   
+![][image7]{ width="32%" } ![][image4]{ width="32%" } ![][image8]{ width="32%" }   
 
 <!-- links -->
 
