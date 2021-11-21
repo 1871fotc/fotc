@@ -32,14 +32,10 @@ Despite many arguments against federation, the Federal Referendum on the 2nd of 
 
 ???+ Example "Directions" 
 
-    From the amenities building, cross the road and head straight up the hill towards Governor Blackall’s monument. Enter the portion on the path between the graves of Pethebridge and Thurlow. Rutledge is half way up and just off to the left.
+    From the amenities building, cross the road and head straight up the hill towards Governor Blackall’s monument. Enter the portion on the path between the graves of Pethebridge and Thurlow. Rutledge is half way up and just off to the left (Map Number 1.)
     
-    ![missing photo](../assets/missing.jpg){ width="100" } 
+    ![](../assets/federation-trail-start.jpg){ width="100" } ![](../assets/arthur-rutledge-headstone.jpg){ width="100" } 
 
-
-<!-- Map -->
-
-<!-- change to start from Blackall Monument -->
 
 
 ## Sir Arthur Rutledge KCMG, QC, MLA  <small><(13‑49‑15)</small>
@@ -52,11 +48,7 @@ Rutledge was born in New South Wales and came to Queensland as a Wesleyan Minist
 
 ??? Example "Directions" 
 
-    Map Number 1
-
-    Continue up the hill until you reach the Uhl family monument. Turn right and follow the path until you reach a wide path sloping from the top. Turn left and walk directly towards the Blackall Monument. Here you will find a place to rest.
-    
-    ![missing photo](../assets/missing.jpg){ width="100" } 
+    Continue up the hill until you reach the Uhl family monument. Turn right and follow the path until you reach a wide path sloping from the top. Turn left and walk directly towards the Blackall Monument. Here you will find the Federation Pavilion (Map Number 2.)
 
 ## The Federation Pavilion
 
@@ -66,11 +58,10 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 ??? Example "Directions" 
 
-    Map Number 2
-
-    The pavilion is adjacent to the grave of Sir Samuel Griffith.
+    The pavilion is adjacent to the grave of Sir Samuel Griffith. (Map Number 3.)
     
-    ![missing photo](../assets/missing.jpg){ width="100" } 
+    ![missing photo](../assets/samuel-walker-griffith-headstone-1.jpg){ width="180" } 
+
 
 ## Sir Samuel Walker Griffith KCMG, QC, MLA <small>(12‑11‑6/7)</small> 
 
