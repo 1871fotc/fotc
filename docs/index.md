@@ -27,12 +27,11 @@ On this site you'll find information about:
 - **[Friends of Toowong Cemetery](about/index.md)** - what we do, what we've done, and how to join in 
 
 <!--
-![][image7]{ width="32%" } ![][image4]{ width="32%" } ![][image8]{ width="32%" }   
+![][image7] ![][image4] ![][image8]   
 --> 
 
-<div>
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0"
-  frameborder="0"></iframe>
+<div class="video-wrapper">
+<iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" frameborder="0"></iframe>
 </div>  
 
 <!--

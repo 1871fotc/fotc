@@ -7,8 +7,8 @@ The annual archaeology dig attempts to discover buried headstones from previousl
 The dig is [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022). We hope to hold the [next dig in May 2022](../news/2022.md). 
 
 
-<div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/hgCx4OW69cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/hgCx4OW69cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
 
