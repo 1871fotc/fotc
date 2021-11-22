@@ -13,7 +13,7 @@ hide:
     - Click a column name to sort the table.
     - "Also Known As" names are shown in (brackets).
     - Dates are formatted as yyyy-mm-dd (year, month, day) to aid sorting. Where a day, month or year is unknown, a placeholder value of "dd", "mm", or "yyyy" is used.
-    - Where a Grave number is unknown, a placeholder value of "xx" is used. Learn more about [finding graves at Toowong Cemetery](../cemetery/finding-graves.md).
+    - Where a Grave number is unknown, a placeholder value of "gg" is used. Learn more about [finding graves at Toowong Cemetery](../cemetery/finding-graves.md).
     - The link to the Biography includes (if available):
 
         - the text from the self-guided walk 
@@ -57,5 +57,5 @@ hide:
 | Lilian Violet    | Cooper       | 1861-08-11 | 1947-08-18 | 8‑69‑13/14 | [Bio](lilian-cooper.md)        |
 
 <!--
-|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-xx   | [Bio]()                    |
+|                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | [Bio]()                    |
 -->
