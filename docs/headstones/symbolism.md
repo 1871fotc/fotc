@@ -127,7 +127,7 @@ The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conse
 
 Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes, Lost and Found section, photos and links added.
 
-Toowong Cemetery Headstone Symbolism photographs © 2021 by Stephen Gates is licensed under [CC BY 4.0][cc-by].
+Toowong Cemetery Headstone Symbolism photographs © 2021 by Stephen Gates are licensed under [CC BY 4.0][cc-by].
 
 <!-- Links -->
 

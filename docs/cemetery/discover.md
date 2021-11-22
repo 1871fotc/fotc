@@ -25,7 +25,7 @@ Parking is available inside the cemetery along the roads. Please park on the lef
 If you're walking, in addition to the entries above, you can enter via:
 
 - the pedestrian ramp from Mt Coot-tha Road, opposite the Brisbane Botanic Gardens Mt Coot-tha
-- Frederick Street gate that leads onto Steel Rudd Avenue (previously 4th Avenue)
+- Frederick Street gate (opposite Sleath St) that leads onto Steel Rudd Avenue (previously 4th Avenue)
 - the many informal entries off Birdwood Terrance
 
 ![](../assets/pedestrian-ramp.jpg)
@@ -42,7 +42,7 @@ If you're using public transport to get here, use the [TransLink Journey Planner
 If you enter main entrance through the front gates, you'll find: 
 
 - Canon Garland Place named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for [guided heritage tours](../guided-tours.md) and most [self-guided walks](../walks/index.md)
-- the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) - open from 9am-1pm Monday to Friday. Staff can answer your enquiries and help to locate graves and ashes memorial sites.
+- the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) - staff can answer your enquiries and help to locate graves and ashes memorial sites.
 - a [Museum](museum.md) operated by the Friends of Toowong Cemetery. 
 - toilets, the only ones available in the cemetery.
 
@@ -70,7 +70,6 @@ Inside the cemetery you can get around by driving, walking, riding a bike or sco
 <!-- Map links -->
 [map]: ../assets/toowong-cemetery-map.png "Click to expand the map. Use Back to return to this page"
 [map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
-
 
 <!-- Add a mobility map eg https://www.brisbane.qld.gov.au/sites/default/files/brisbane_botanic_gardens_mobility_map.pdf -->
 

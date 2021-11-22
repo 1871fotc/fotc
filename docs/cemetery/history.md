@@ -6,27 +6,30 @@ title: History
 
 The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the largest cemetery in Queensland and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried there. 
 
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJ3oK4nwNbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/jJ3oK4nwNbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 *<small>Toowong Cemetary: Resting place of Governor Samuel Blackall (One Minute Archive), by Queensland State Archives*</small>
 
+![](../assets/unveiling-cross-of-sacrifice.jpg){ width="99%" }  
 
-![](../assets/toowong-cemetery-aerial-photo.jpg){ width="50%" } 
+*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
-*<small>Toowong Cemetery aerial photo, 1934. Frederick St is the straight road on the right, running top to bottom.</small>*
 
+<!--
 ![](../assets/stone-of-remembrance.jpg){ width="50%" }  
 
-*<small>The Stone of Remembrance and Cross of Sacrifice.</small>*
+*<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772), [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+-->
 
 ## Portion History
 
 The grounds at the Cemetery were laid out by the prominent surveyor, George Phillips and a set of books drawn up by the Government Printer.
 
-![Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909 - Queensland State Archives](../assets/brisbane-general-cemetery-19090708.jpg){ width="50%" }  
+![Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909 - Queensland State Archives](../assets/brisbane-general-cemetery-19090708.jpg){ width="49%" }  ![](../assets/toowong-cemetery-aerial-photo.jpg){ width="49%" } 
 
-*<small>Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909 - Queensland State Archives.</small>*
+*<small>Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909 - Queensland State Archives.</small>* <br>
+*<small>Toowong Cemetery aerial photo, 1934. Frederick St is the straight road on the right, running top to bottom.</small>*
 
 
 The topography provides the social division of the cemetery 
