@@ -15,12 +15,13 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
-
 <!--
 ![](../assets/stone-of-remembrance.jpg){ width="50%" }  
 
 *<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772), [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 -->
+
+[View more historic photos](http://onesearch.slq.qld.gov.au/primo-explore/search?query=any,contains,Toowong%20cemetery&tab=dt&search_scope=DT&vid=SLQ&mfacet=tlevel,include,online_resources,1) from the [State Library of Queensland](https://www.slq.qld.gov.au).
 
 ## Portion History
 
