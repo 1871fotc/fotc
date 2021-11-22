@@ -1,6 +1,6 @@
 ## Thomas Macdonald‑Paterson MLC <small>(12‑53-10)</small> 
 
-![](../assets/thomas-macdonald‑paterson.jpg){ width="50%" } 
+![](../assets/thomas-macdonald‑paterson.jpg){ width="40%" } 
 
 *<small>Thomas Macdonald‑Paterson 1844-1906</small>*
 

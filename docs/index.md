@@ -26,7 +26,20 @@ On this site you'll find information about:
 - the **[biographies](bios/bio-index.md)** of people interred at the cemetery, and **[research resources](bios/research.md)**
 - **[Friends of Toowong Cemetery](about/index.md)** - what we do, what we've done, and how to join in 
 
+<!--
 ![][image7]{ width="32%" } ![][image4]{ width="32%" } ![][image8]{ width="32%" }   
+--> 
+
+<div>
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0"
+  frameborder="0"></iframe>
+</div>  
+
+<!--
+<iframe width="100%"  src="https://www.youtube.com/embed/41fWB0IvDKU" title="Toowong Cemetery, Brisbane - DJI Mavic aerial" frameborder="0"; autoplay="1"; controls="0"; modestbranding="1"; allowfullscreen></iframe>
+--> 
+
+
 
 <!-- links -->
 

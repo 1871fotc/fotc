@@ -1,6 +1,6 @@
 ## Sir Samuel Walker Griffith KCMG, QC, MLA <small>(12‑11‑6/7)</small> 
 
-![](../assets/samuel-walker-griffith.jpg){ width="50%" }
+![](../assets/samuel-walker-griffith.jpg){ width="40%" }
 
 *<small>Sir Samuel Walker Griffith 1845-1920</small>*
 

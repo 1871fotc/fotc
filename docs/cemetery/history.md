@@ -6,6 +6,12 @@ title: History
 
 The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the largest cemetery in Queensland and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried there. 
 
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJ3oK4nwNbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+*<small>Toowong Cemetary: Resting place of Governor Samuel Blackall (One Minute Archive), by Queensland State Archives*</small>
+
+
 ![](../assets/toowong-cemetery-aerial-photo.jpg){ width="50%" } 
 
 *<small>Toowong Cemetery aerial photo, 1934. Frederick St is the straight road on the right, running top to bottom.</small>*
