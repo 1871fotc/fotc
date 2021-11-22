@@ -69,8 +69,7 @@ Clasped hands symbolise the belief Victorians held that they would be reunited w
 Plants can represent a person's birthplace (such as thistles from Scotland) and also reflect religious meanings. See the grave of Michael McCormack and his wife Elizabeth (1-20-9) where ivy symbolises hope and mortality. Roses are another symbol that has multiple interpretations (including beauty, hope and love) and they are often associated with the Virgin Mary. The age of the deceased can also be revealed by the size of the flower or plant - a bud represents a child, and a full flower represents an adult. 
 
 ![](../assets/plant.jpg){ width="30%" }  ![](../assets/cross-with-vine.jpg){ width="30%" }  ![](../assets/bud.jpg){ width="30%" } 
-![](../assets/thistle.jpg){ width="30%" } ![](../assets/rose.jpg){ width="30%" }
-
+![](../assets/thistle.jpg){ width="30%" } ![](../assets/rose.jpg){ width="30%" } ![](../assets/wood-headstone-with-plants.jpg){ width="30%" }
 
 <!-- add caption and plot id -->
 <!-- Get photo of Michael McCormack and his wife Elizabeth (1-20-9) -->
