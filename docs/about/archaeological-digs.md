@@ -4,13 +4,16 @@ Friends of Toowong Cemetery, in conjunction with the [University of Queensland A
 
 The annual archaeology dig attempts to discover buried headstones from previously demolished graves. Why were graves demolished? The Friends of South Brisbane Cemetery explain why in the [1970's "Beautification Scheme"](https://www.fosbc.com/beautification/).
 
-The dig is [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022). We hope to hold the [next dig in May 2022](../news/2022.md). 
-
+See [photos of our discoveries on Facebook](https://www.facebook.com/pg/1871fotc/photos/?ref=page_internal).
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/hgCx4OW69cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
+Digs are [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022). We hope to see you at the [next dig in May 2022](../news/2022.md). 
+
+
+<!--
 
 ## 2019 Event 
 
@@ -73,3 +76,5 @@ The dig is [open to the public](https://archaeologyweek.org/events-list/national
 ## 2006 Discoveries
 
 [Photos on Facebook](https://www.facebook.com/1871fotc/photos/ms.c.eJw9zlEOwDAIAtAbLS0q6v0vtmzUfr4gxEBlWWxrJ9hPHCeyuTBesh17yTE51K9xLG603T7lPU7d282~;vegct~_zH1H8x~;xHKZ4~;27~_Pe~_59XvxP~;LfU~-.bps.a.528783467279607/528783513946269/?type=3&theater)
+
+-->
