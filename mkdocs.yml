@@ -68,22 +68,21 @@ extra:
 #      name: CC-BY 4.0 licence
   analytics: 
     provider: google
-    property: G-XXXXXXXXXX
-#    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-FT5X64207N
     feedback:
       title: Was this page helpful?
       ratings:
-        - icon: material/heart
+        - icon: material/emoticon-happy-outline
           name: This page was helpful
           data: 1
           note: >-
             Thanks for your feedback!
-        - icon: material/heart-broken
+        - icon: material/emoticon-sad-outline
           name: This page could be improved
           data: 0
           note: >-
-            Thanks for your feedback! Help us improve this page by
-            using our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>feedback form</a>.
+            Thanks! Help us improve this page by
+            completing our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>feedback form</a>.
 # See https://support.google.com/a/users/answer/9308781?hl=en; add {} to URL answer; copy link; replace =%7B%7D with ={}; done            
 # https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590=%7B%7D
   consent:
