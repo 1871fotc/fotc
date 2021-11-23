@@ -88,7 +88,7 @@ extra:
   consent:
     title: Cookie consent
     description: >-
-      <p>We use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you find this site helpful.</p>
+      <p>We use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you think this site is helpful.</p>
       <p>With your consent, you're helping us to make this site better.</p>
   
 extra_css:
