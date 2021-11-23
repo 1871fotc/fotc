@@ -70,9 +70,9 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
     - Click a column name to sort the table.
     - An example of where the acronym can be found is shown in the Plot-Section-Grave column
-    - Where a Plot number is unknown, a placeholder value of "pp" is used
-    - Where a Section number is unknown, a placeholder value of "ss" is used
-    - Where a Grave number is unknown, a placeholder value of "gg" is used. Learn more about [finding graves at Toowong Cemetery](../cemetery/finding-graves.md).
+        - Where a Plot number is unknown, a placeholder value of "pp" is used
+        - Where a Section number is unknown, a placeholder value of "ss" is used
+        - Where a Grave number is unknown, a placeholder value of "gg" is used. Learn more about [finding graves at Toowong Cemetery](../cemetery/finding-graves.md).
 
 
 | Acronym | Meaning                                                      | Organisation     | Plot-Section-Grave |
