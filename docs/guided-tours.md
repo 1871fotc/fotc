@@ -22,8 +22,7 @@ There is **no need to book**, just **meet under the flagpole, in Canon Garland P
 
 **Wear a hat, enclosed shoes, and bring a water bottle.**
 
-**A gold coin donation is appreciated to allow us to continue [our work](about/index.md)**. Although we are a registered charity, donations are not tax deductable. 
-<!-- place coin on skeleton money box -->
+**Guided  tours are free but a small donation is appreciated to help us continue [our work](about/index.md)**. 
 
 ## Other Tours
 
