@@ -4,6 +4,7 @@ description: Friends of Toowong Cemetery discover and share our local history
 
 hide:
   - navigation
+  - feedback
 ---
 
 # Friends of Toowong Cemetery
