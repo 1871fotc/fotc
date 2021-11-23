@@ -30,7 +30,9 @@ The [Australian Dictionary of Biography](http://adb.anu.edu.au/) is Australia's 
 
 [Obituaries Australia](https://oa.anu.edu.au) is a digital repository of obituaries published in newspapers, journals, magazines and bulletins. [View Obituaries of people interred at Toowong Cemetery](https://oa.anu.edu.au/obituaries/search/?scope=all&query=Toowong+Cemetery+&x=85&y=18&rs=)
 
+<!--
 Obituaries Australia is a new initiative of the National Centre of Biography at the Australian National University. Enter "Toowong Cemetery" in the text search box at http://oa.anu.edu.au/ for the obituaries of people buried at Toowong Cemetery who formed Brisbane's social fabric.
+-->
 
 ## Under the Lino 
 
