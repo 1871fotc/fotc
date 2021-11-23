@@ -1,5 +1,7 @@
 ---
 title: History
+hide:
+  - toc
 ---
 
 #  Toowong Cemetery History
@@ -11,7 +13,7 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 </div>
 *<small>Toowong Cemetary: Resting place of Governor Samuel Blackall (One Minute Archive), by Queensland State Archives*</small>
 
-![](../assets/unveiling-cross-of-sacrifice.jpg){ width="99%" }  
+![](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
@@ -21,7 +23,14 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 *<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772), [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 -->
 
-[View more historic photos](http://onesearch.slq.qld.gov.au/primo-explore/search?query=any,contains,Toowong%20cemetery&tab=dt&search_scope=DT&vid=SLQ&mfacet=tlevel,include,online_resources,1) from the [State Library of Queensland](https://www.slq.qld.gov.au).
+
+![Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909 - Queensland State Archives](../assets/brisbane-general-cemetery-19090708.jpg){ width="48%" }  ![](../assets/toowong-cemetery-aerial-photo.jpg){ width="48%" } 
+
+*<small>Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909 - Queensland State Archives.</small>* <br>
+*<small>Toowong Cemetery aerial photo, 1934. Frederick St is the straight road on the right, running top to bottom.</small>*
+
+
+<!-- 
 
 ## Portion History
 
@@ -62,20 +71,26 @@ The Cemetery Trustees received numerous requests for separate burial sections fr
 
 A survey of the layout of graves, reveal differences between many of the portions with some aligned to magnetic north, some to true north, and others at varying degrees from North. The sections in the Church of England section are laid out at 45 degrees east of true north. In August 1875, the Church of England requested that graves be laid east-west.
 
+-->
 
 ## Learn more about the cemetery's history
 
+- **[Historic photos](http://onesearch.slq.qld.gov.au/primo-explore/search?query=any,contains,Toowong%20cemetery&tab=dt&search_scope=DT&vid=SLQ&mfacet=tlevel,include,online_resources,1)** from the State Library of Queensland.
+- **[Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery)** in the Queensland Heritage Register.
+- **[Toowong Cemetery citation](https://www.ww2places.qld.gov.au/place?id=2064)** on Queensland WWII Historic Places website.
+- Read our **[stories of the people interred at Toowong Cemetery](../bios/bio-index.md)**.
+
+<!--
+
 - [Toowong Cemetery](https://en.wikipedia.org/wiki/Toowong_Cemetery) on Wikipedia
 - [Burials at Toowong Cemetery](https://en.wikipedia.org/wiki/Category:Burials_at_Toowong_Cemetery)
-- [Toowong Cemetery listing in the Queensland Heritage Register](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery).
-- [Toowong Cemetery Citation on Queensland WWII Historic Places website](https://www.ww2places.qld.gov.au/place?id=2064)
-
-Learn the [stories of the people interred at Toowong Cemetery](../bios/bio-index.md).
 
 
 ### Copyright
 
 The Portion History section is derived from [Toowong Cemetery](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery) © The State of Queensland 1995–2021, used under [CC BY 4.0][cc-by] 
+
+--> 
 
 <!-- Links -->
 

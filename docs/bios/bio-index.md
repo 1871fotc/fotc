@@ -6,7 +6,7 @@ hide:
 
 # Biography Index
 
-**Learn the stories of the people interred at Toowong Cemetery**. The index below lists people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
+**Read the stories of the people interred at Toowong Cemetery**. The index below lists people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
 
 ??? example "Index Usage Tips" 
 
