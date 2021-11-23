@@ -24,7 +24,7 @@ Parking is available inside the cemetery along the roads. Please park on the lef
 
 If you're walking, in addition to the entries above, you can enter via:
 
-- the pedestrian ramp from Mt Coot-tha Road, opposite the Brisbane Botanic Gardens Mt Coot-tha
+- the pedestrian ramp from Mt Coot-tha Road, opposite the [Brisbane Botanic Gardens Mt Coot-tha](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha)
 - Frederick Street gate (opposite Sleath St) that leads onto Steel Rudd Avenue (previously 4th Avenue)
 - the many informal entries off Birdwood Terrance
 

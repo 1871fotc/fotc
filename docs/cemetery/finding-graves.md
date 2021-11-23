@@ -30,7 +30,7 @@ Use the Brisbane City Council [Grave location search](https://www.brisbane.qld.g
 
 ## Update burial records
 
-To request an update to the official burial records, [email Cemeteries Administration](mailto://CB-Cemeteries@brisbane.qld.gov.au) and include:
+To request an update to the official burial records, [email Cemeteries Administration](mailto://CB-Cemeteries@brisbane.qld.gov.au) and include, either:
 
 - a death certificate 
 - a photograph of the headstone where the information on the headstone can be clearly read
@@ -50,7 +50,7 @@ Information on the official burial records that can be updated, includes:
 
 ## Markers
 
-Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a person's marker to the appropriate grave (portion-section-grave). 
+Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a person's marker to the appropriate grave. 
 
 ![](../assets/markers.jpg)
 
