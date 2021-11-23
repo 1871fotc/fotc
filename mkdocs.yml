@@ -54,6 +54,9 @@ theme:
 extra:
   generator: false
   social:
+    - icon: material/heart-broken
+      link: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
+      name: Provide feedback
     - icon: fontawesome/solid/phone
       link: tel:0436604596
       name: Call us on the phone
@@ -62,34 +65,36 @@ extra:
       name: Send us an email      
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/1871fotc/
-      name: We're also on facebook       
+      name: We're also on facebook
 #    - icon: fontawesome/brands/creative-commons
 #      link: https://creativecommons.org/licenses/by/4.0/
 #      name: CC-BY 4.0 licence
-  analytics: 
-    provider: google
-    property: G-FT5X64207N
-    feedback:
-      title: Was this page helpful?
-      ratings:
-        - icon: material/emoticon-happy-outline
-          name: This page was helpful
-          data: 1
-          note: >-
-            Thanks for your feedback!
-        - icon: material/emoticon-sad-outline
-          name: This page could be improved
-          data: 0
-          note: >-
-            Thanks! Help us improve this page by
-            completing our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>feedback form</a>.
+#  analytics: 
+#    provider: google
+#    property: G-FT5X64207N
+#    feedback:
+#      title: Was this page helpful?
+#      ratings:
+#        - icon: material/emoticon-happy-outline
+#          name: This page was helpful
+#          data: 1
+#          note: >-
+#            Thanks for your feedback!
+#        - icon: material/emoticon-sad-outline
+#          name: This page could be improved
+#          data: 0
+#          note: >-
+#            Thanks! Help us improve this page by
+#            completing our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>feedback form</a>.
+#
 # See https://support.google.com/a/users/answer/9308781?hl=en; add {} to URL answer; copy link; replace =%7B%7D with ={}; done            
 # https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590=%7B%7D
-  consent:
-    title: Cookie consent
-    description: >-
-      <p>We use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you think this site is helpful.</p>
-      <p>With your consent, you're helping us to make this site better.</p>
+#
+#  consent:
+#    title: Cookie consent
+#    description: >-
+#      <p>We use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you think this site is helpful.</p>
+#      <p>With your consent, you're helping us to make this site better.</p>
   
 extra_css:
   - stylesheets/extra.css
