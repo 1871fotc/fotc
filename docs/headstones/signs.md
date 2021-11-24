@@ -106,7 +106,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
 !!! question "Volunteer opportunity"
 
-    Have you found the location of, or a new, Acronym? [Contact us](../about/index.md#contact-us) with a photo and the details. 
+    Have you found the location of an Acronym? [Contact us](../about/index.md#contact-us) with a photo and the details. 
     
 
 ## Further Reading
