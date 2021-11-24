@@ -16,13 +16,27 @@ Volunteer guides lead you on a heritage walk through the cemetery. The **[Toowon
 
 There is **no need to book**, just **meet under the flagpole, in Canon Garland Place at the Toowong Cemetery**. There is plenty of parking available inside the cemetery.
 
-![](assets/flag-pole.jpg)
+![](assets/flag-pole.jpg){ width="97%" } 
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
 **Wear a hat, enclosed shoes, and bring a water bottle.**
 
 **Guided  tours are free but a small donation is appreciated to help us continue [our work](about/index.md)**. 
+
+
+
+![][image11]{ width="32%" } ![][image9]{ width="32%" } ![][image8]{ width="32%" }   
+ 
+
+[image4]: assets/140-commemoration-sml.png
+[image5]: assets/museum.jpg
+[image6]: assets/federation-pavillion.jpg
+[image7]: assets/peter-jackson.jpg "Peter Jackson's Headstone"
+[image8]: assets/cherub.jpg "Cherub Headstone"
+[image9]: assets/harry-potter-16x9.jpg "Spoiler Alert"
+[image10]: assets/clasped-hands.jpg "We Part To Meet Again"
+[image11]: assets/pat-hill.jpg "Pat Hill's Headstone"
 
 ## Other Tours
 
