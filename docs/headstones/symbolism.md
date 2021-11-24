@@ -74,10 +74,6 @@ Plants can represent a person's birthplace (such as thistles from Scotland) and 
 <!-- add caption and plot id -->
 <!-- Get photo of Michael McCormack and his wife Elizabeth (1-20-9) -->
 
-!!! question "Volunteer opportunity"
-
-    Contribute a photo of a headstone with a thistle, rose or other plant on it. Tell us where you found it. 
-
 ## Urns
 
 Urns are a Greek symbol of mourning and represent the process of death, where the body becomes dust while the spirit rests with God. When the urn is draped it becomes a symbol of the house mourning.
