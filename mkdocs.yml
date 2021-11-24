@@ -184,12 +184,10 @@ nav:
   - News: 
     - 2021: news/2021.md
     - 2022: news/2022.md    
-    - 2020: news/2020.md    
+#    - 2020: news/2020.md    
   - About Us: 
     - About Friends of Toowong Cemetery: about/index.md
     - Federation Pavilion: about/federation-pavilion.md
     - Archaeological Digs: about/archaeological-digs.md
     - 140th Anniversary Commemoration: about/140-commemoration.md
 #    - Ideas: about/ideas.md
-
-#    - Federation Pavillion: about/federation-pavillion.md
