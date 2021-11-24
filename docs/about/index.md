@@ -13,11 +13,11 @@ search:
 
 The Friends of Toowong Cemetery:
 
-- **research the history of Toowong Cemetery**, its headstone designs, and the biographies of the people interred there. We encourage others to do to the same.
-- **share our discoveries** with the community through our publications, guided heritage tours, self-guided walks, our educational museum, and contributions to other local history resources.
+- **research the history of Toowong Cemetery**, its [headstone designs](../headstones/symbolism.md), and the [biographies](../bios/bio-index.md) of the people interred there. We encourage others to do to the same.
+- **share our discoveries** with the community through our publications, [guided heritage tours](../guided-tours.md), [self-guided walks](../walks/index.md), our [educational museum](../cemetery/museum.md), and contributions to other local history resources.
 - **contribute stories** of individuals interred at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to publications and biographical databases.
 - **clean and conserve headstones**.
-- **search for buried headstones in archaeological digs** in the cemetery grounds in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology). 
+- **search for buried headstones** in [archaeological digs](archaeological-digs.md) in the cemetery grounds. 
 - **consult with the Brisbane City Council** on future plans, new initiatives, and the restoration of graves.
 - **locate marked and unmarked graves**.
 
@@ -110,6 +110,7 @@ Our Bank details:
 
 Please include your Surname as a reference if paying a membership subscription by direct deposit. 
 
+<!--
 ## Your consent 
 
 When you visited this site for the first time, we asked for your consent to use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you find this site helpful. With your consent you're helping us to make this site better. 
@@ -117,3 +118,4 @@ When you visited this site for the first time, we asked for your consent to use 
 You can change your cookie settings at any time. 
 
 [Change cookie settings](#__consent){ .md-button }
+-->
