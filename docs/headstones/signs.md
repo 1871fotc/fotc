@@ -79,15 +79,15 @@ These acronyms can be found on headstones in Toowong Cemetery.
 |     --: | :--                                                          | :--              | :--                |
 | AHCG    | [Australasian Holy Catholic Guild][AHCG]                     | Friendly Society | pp-ss-gg           |
 | AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society | pp-ss-gg           |
-| ANA     | Australian Natives Association                               | Friendly Society | pp-ss-gg           |
+| ANA     | [Australian Natives Association][ANA]                        | Friendly Society | pp-ss-gg           |
 | AOF     | Ancient Order of Foresters                                   | Friendly Society | pp-ss-gg           |
 | EC      | English Constitution                                         | Freemasonry      | pp-ss-gg           |
 | GUOOF   | Grand United Order of Odd Fellows                            | Friendly Society | pp-ss-gg           |
 | HACBS   | Hibernian Australia Catholic Benefit Society                 | Friendly Society | pp-ss-gg           |
 | IC      | Irish Constitution                                           | Freemasonry      | pp-ss-gg           |
 | INF     | Irish National Foresters                                     | Friendly Society | pp-ss-gg           |
-| IOGT    | Independent Order of Good Templars                           | Temperance       | pp-ss-gg           |
-| IOOF    | [Independent Order of Odd Fellows][MUIOOF]                   | Friendly Society | pp-ss-gg           |
+| IOGT    | [Independent Order of Good Templars][IOGT]                   | Temperance       | pp-ss-gg           |
+| IOOF    | Independent Order of Odd Fellows                             | Friendly Society | pp-ss-gg           |
 | IOR     | Independent Order of Rechabites                              | Temperance       | pp-ss-gg           |
 | LOI     | [Loyal Orange Institute][LOI]                                |                  | pp-ss-gg           |
 | MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society | pp-ss-gg           |
@@ -97,7 +97,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | OST     | Order of the Sons of Temperance                              | Temperance       | pp-ss-gg           |
 | PAFS    | Protestant Alliance Friendly Society                         | Friendly Society | pp-ss-gg           |
 | RA      | [Royal Arch][RA]                                             | Friendly Society | pp-ss-gg           |
-| RAOB    | [Royal Antediluvian Order of Buffaloes][RAOB]                | Friendly Society | pp-ss-gg           |
+| RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society | pp-ss-gg           |
 | RBP     | [Royal Black Preceptory][RBP] [^1]                           |                  | pp-ss-gg           |
 | SC      | Scottish Constitution                                        | Freemasonry      | pp-ss-gg           |
 | UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society | pp-ss-gg           |
@@ -108,6 +108,19 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
     Have you found the location of an Acronym? [Contact us](../about/index.md#contact-us) with a photo and the details. 
     
+## Today
+
+Some of these organisations have evolved to become financial services companies, such as: 
+
+- The Ancient Order of Foresters evolved into [Foresters Financial](https://forestersfinancial.com.au/about-us/our-history/).
+- The Independent Order of Odd Fellows became [IOOF](https://www.ioof.com.au/about-us/about-ioof).
+- In 1993, the Australian Natives Association merged with Manchester Unity Independent Order of Oddfellows, a British fraternal society established in Australia in 1840, to become [Australian Unity](https://www.australianunity.com.au/about-us/our-story).
+
+You can find signs of Friendly Societies in the local area such as: 
+
+- [Foresters Hall](https://apps.des.qld.gov.au/heritage-register/detail/?id=601662) 16 Latrobe Terrace, Paddington.
+- [Baroona Hall](https://www.qld.gov.au/recreation/arts/heritage/experience/music-trail/baroona-hall) in Caxton St, Milton, built for the United Brothers Lodge of the Order of Oddfellows.
+- [Royal Antediluvian Order of Buffaloes Lodge Hall](https://heritage.brisbane.qld.gov.au/heritage-places/1827) in Woolloongabba.
 
 ## Further Reading
 
@@ -118,10 +131,11 @@ Harwood, J. *The Freemasons* London, Hermes House, 2006
 <!-- links -->
 
 [AHCG]: https://trove.nla.gov.au/newspaper/article/261238209?searchTerm=Australasian%20Holy%20Catholic%20Guild "AHCG on Trove"
+[ANA]: https://www.nma.gov.au/defining-moments/resources/australian-natives-association
+[IOGT]: https://movendi.ngo/about-movendi/the-movendi-way/who-we-are/the-history/
 [LOI]: https://www.facebook.com/pages/category/Religious-Organization/Loyal-Orange-Institution-of-Queensland-895315537148498/ "Loyal Orange Institute Queensland on Facebook"
-[MUIOOF]: https://trove.nla.gov.au/newspaper/article/20309632
+[MUIOOF]: https://www.facebook.com/groups/535759726633938/?ref=share
 [RA]: https://www.royalarch.org.au
-[RAOB]: https://heritage.brisbane.qld.gov.au/heritage-places/1827 "The Heritage-listed R.A.O.B. Lodge Hall in Woolloongabba"
 [RBP]: http://royalblack.org/mission-statement/our-history/
 [UAOD]: https://en.wikipedia.org/wiki/United_Ancient_Order_of_Druids "UAOD on Wikipedia"
 [UGL]: https://uglq.org.au
