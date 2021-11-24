@@ -112,9 +112,9 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
 Some of these organisations have evolved to become financial services companies, such as: 
 
-- The Ancient Order of Foresters evolved into [Foresters Financial](https://forestersfinancial.com.au/about-us/our-history/).
 - The Independent Order of Odd Fellows became [IOOF](https://www.ioof.com.au/about-us/about-ioof).
-- In 1993, the Australian Natives Association merged with Manchester Unity Independent Order of Oddfellows, a British fraternal society established in Australia in 1840, to become [Australian Unity](https://www.australianunity.com.au/about-us/our-story).
+- The Ancient Order of Foresters evolved into [Foresters Financial](https://forestersfinancial.com.au/about-us/our-history/).
+- In 1993, the Australian Natives Association merged with Manchester Unity Independent Order of Oddfellows to become [Australian Unity](https://www.australianunity.com.au/about-us/our-story).
 
 You can find signs of Friendly Societies in the local area such as: 
 
