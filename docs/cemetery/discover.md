@@ -46,15 +46,15 @@ If you enter main entrance through the front gates, you'll find:
 - a [Museum](museum.md) operated by the Friends of Toowong Cemetery. 
 - toilets, the only ones available in the cemetery.
 
+![](../assets/flag-pole.jpg)
+
+*<small>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</small>*
+
 If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 - turn right into Dr. Lillian Cooper Drive (previously Boundary Road) and continue to the Shelter Shed 
 - veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14th Avenue) 
 - at the end, turn right into Emma Miller Avenue (previously 8th Avenue) to arrive behind Canon Garland Place, where you can park on the side of the road. 
-
-![](../assets/flag-pole.jpg)
-
-*<small>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</small>*
 
 
 ## Map

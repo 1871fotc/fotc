@@ -54,7 +54,10 @@ hide:
 | Richard Godfrey  | Rivers       | 1859-mm-dd | 1925-04-02 | 12‑24‑4    | [Bio]()                    |
 | Eliza Jeanettie  | Sheldon      | 1885-05-24 | 1974-mm-dd | 7‑95‑13/14 | [Bio]()                    |
 | Edwin Arthur Vincent | Sheldon  | 1895-mm-dd | 1945-mm-dd | 7‑95‑13/14 | [Bio]()                    |
-| Lilian Violet    | Cooper       | 1861-08-11 | 1947-08-18 | 8‑69‑13/14 | [Bio](lilian-cooper.md)        |
+| Lilian Violet    | Cooper       | 1861-08-11 | 1947-08-18 | 8‑69‑13/14 | [Bio](lilian-cooper.md     |
+| Ann              | Hill         | 1850-04-25 | 1871-11-01 | 6-21-9     | [Bio](ann-hill.md)         |
+| Walter           | Hill         | 1819-12-21 | 1904-02-04 | 6-21-9     | [Bio](walter-hill.md)      |
+  
 
 <!--
 |                  |              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | [Bio]()                    |

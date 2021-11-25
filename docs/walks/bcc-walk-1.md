@@ -3,7 +3,6 @@ hide:
   - navigation
 ---
 
-
 # Toowong Cemetery Tour One 
 
 ## Conditions of entry
@@ -32,7 +31,7 @@ More information on the [symbolism used in Victorian era cemeteries](../headston
     - Add Bios to [Index](../bios/bio-index.md)
 
 ## Start the walk
- 
+
 ==insert map and directions==
 
 Before starting, you may like to download the [Toowong Cemetery map](http://www.fotc.org.au/toowong_map.jpg). 
@@ -41,6 +40,9 @@ Before starting, you may like to download the [Toowong Cemetery map](http://www.
 ???+ Example "Directions" 
 
     Begin the heritage trail at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
+    
+    ![](../assets/missing.jpg){ width="15%" } 
+
 
 <!-- insert photo -->
 
@@ -71,6 +73,9 @@ Cowlishaw’s wife, Charlotte (nee Owen) was the second burial in the grave foll
 ??? Example "Directions" 
 
     Proceed to the end of the avenue and to the left find the Federation Pavilion. In the area to the left of the pavilion are Sir Charles Lilley and Sir Samuel Walker Griffith.
+    
+    ![x](../assets/missing.jpg){ width="15%"} ![](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
+
 
 ## Sir Charles Lilley <small>(1830-1897)</small>
 
@@ -223,7 +228,7 @@ James W. Wassell arrived in Queensland in 1864 and immediately joined the Water 
 
 ## R.R. Smellie <small>(1823‑1898)</small>
 
-Robert Russell Smellie was a pioneer of the engineering and iron foundry trade and in the 1860s, he established Smellie and Co. With the discovery of gold, Smellie also imported mining machinery while still manufacturing agricultural implements, general hardware and some boat building. The old Smellie and Co. Warehouse, still situated at 32 Edward Street, City is heritage listed.
+Robert Russell Smellie was a pioneer of the engineering and iron foundry trade and in the 1860s, he established Smellie and Co. With the discovery of gold, Smellie also imported mining machinery while still manufacturing agricultural implements, general hardware and some boat building. The old [Smellie and Co. Warehouse](https://apps.des.qld.gov.au/heritage-register/detail/?id=600097), still situated at 32 Edward Street, City is heritage listed.
 
 <!-- insert photo -->
  
@@ -302,15 +307,15 @@ The Petrie family is one of Queensland’s oldest and most prominent. Andrew Pet
 John Petrie (1822‑1892), Andrew’s eldest son, was Brisbane’s first Mayor from 1859‑1862 and was an alderman for several years. As Mayor, he had the honour of receiving Sir George Bowen as Queensland’s first Governor when the colony achieved separation in 1859. 
 
 Also a stonemason, John Petrie’s best remembered work is the conversion of the windmill on Wickham Terrace to a signal station in 1861. John’s son, Andrew Lang Petrie (1854‑1928), a monumental mason and contractor, entered the Legislative Assembly on 29 April 1893 and remained a member until 7 May 1926. 
-Directions: Cross the road and walk toward the entrance to the cemetery. Look to the right opposite the brick tool shed to find the urn topped column commemorating Ann and Walter Hill.
+
+
+??? Example "Directions" 
+
+    Cross the road and walk toward the entrance to the cemetery. Look to the right opposite the brick tool shed to find the urn topped column commemorating Ann and Walter Hill.
 
 <!-- insert photo -->
 
-## Ann and Walter Hill 
-
-Ann Hill (1850‑1871) was the second person buried in Toowong Cemetery, after Governor Blackall. Walter Hill, her father, was appointed first Superintendent of the Brisbane Botanic Gardens in 1855. As a tribute to Walter Hill, the Walter Hill fountain was erected in the City Botanic Gardens in 1867. This explanatory plaque was unveiled by the Lord Mayor Clem Jones in 1972. 
-
-<!-- insert photo -->
+--8<-- "snippets/walter-hill.md"
 
 ??? Example "Directions" 
 
@@ -342,7 +347,7 @@ Beneath a rough cross directly behind Edward McGregor lies Able Seaman W.J. Harr
 
 ## Caskey Memorial
 
-Unveiled in May 1902, this is the first known monument to the South African War to be erected in Queensland. Lieutenant Caskey, of the 5th Queensland Imperial Bushmen was killed in action in September 1901. This obelisk made of white Helidon sandstone and draped by a shroud, features emblems of Caskey’s teaching career and sporting interests. A rare memorial of the Anglo‑Boer conflict, this monument is a significant reminder of the emerging nationalism and contemporary attitudes to war.  
+Unveiled in May 1902, this is the [first known monument to the South African War](https://apps.des.qld.gov.au/heritage-register/detail/?id=600335) to be erected in Queensland. Lieutenant Caskey, of the 5th Queensland Imperial Bushmen was killed in action in September 1901. This obelisk made of white Helidon sandstone and draped by a shroud, features emblems of Caskey’s teaching career and sporting interests. A rare memorial of the Anglo‑Boer conflict, this monument is a significant reminder of the emerging nationalism and contemporary attitudes to war.  
 
 <!-- insert photo -->
 
@@ -362,7 +367,7 @@ Prior to Federation, each of the Australian colonies maintained its own defence 
 
 ## Temple of Peace
 
-This state‑heritage‑listed monument was designed and largely constructed by Richard Ramo in memory of his three sons killed in World War I, to his adopted son Fred who died tragically in 1923, and later to the family dog. The dedication of the mausoleum was attended by several thousand people, largely pacifists, socialists and members of the Industrial Workers of the World. The temple bears several leaded marble inscriptions expressing Ramo’s bitter hatred of war and details of the deaths of his sons. One particularly sombre inscription reads: “All my hope lies buried here”. 
+This [state‑heritage‑listed monument](https://apps.des.qld.gov.au/heritage-register/detail/?id=600334) was designed and largely constructed by Richard Ramo in memory of his three sons killed in World War I, to his adopted son Fred who died tragically in 1923, and later to the family dog. The dedication of the mausoleum was attended by several thousand people, largely pacifists, socialists and members of the Industrial Workers of the World. The temple bears several leaded marble inscriptions expressing Ramo’s bitter hatred of war and details of the deaths of his sons. One particularly sombre inscription reads: “All my hope lies buried here”. 
 
 <!-- insert photo -->
 

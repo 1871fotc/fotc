@@ -41,6 +41,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stephen-gates.github.io/fotc/bios/ann-hill/</loc>
+         <lastmod>2021-11-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stephen-gates.github.io/fotc/bios/bio-index/</loc>
          <lastmod>2021-11-25</lastmod>
          <changefreq>daily</changefreq>
@@ -72,6 +77,11 @@
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/bios/thomas-glassey/</loc>
+         <lastmod>2021-11-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stephen-gates.github.io/fotc/bios/walter-hill/</loc>
          <lastmod>2021-11-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
