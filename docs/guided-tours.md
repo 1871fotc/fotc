@@ -10,19 +10,21 @@ search:
 
 ## Heritage Tours
 
-The Friends of Toowong Cemetery offer guided heritage tours on the **[first Sunday of every month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=1______&holm=1&df=1)** (except January and February due to the heat) from **10.30am to 12 noon**. 
+The Friends of Toowong Cemetery offer guided heritage tours on the **[first Sunday of every month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=1______&holm=1&df=1)** from **10.30am to 12 noon** (except January and February due to the heat :sweat:). **Wear a hat, enclosed shoes, and bring a water bottle**.
+ 
 
-Volunteer guides lead you on a heritage walk through the cemetery. The **[Toowong Cemetery Museum](cemetery/museum.md)** will be open before and after the walk and has an extensive display of photographs and artefacts.
+Volunteer guides lead you on a different heritage walk each month. The **[Toowong Cemetery Museum](cemetery/museum.md)** will be open before and after the walk and has an extensive display of photographs and artefacts.
 
-There is **no need to book**, just **meet under the flagpole, in Canon Garland Place at the Toowong Cemetery**. There is plenty of parking available inside the cemetery.
+There's **no need to book**, just **meet under the flagpole, in Canon Garland Place at the Toowong Cemetery**. There is plenty of parking available inside the cemetery.
+
+
+**Guided  tours are free** but a small donation is appreciated to help us continue **[our work](about/index.md)**. 
+
 
 ![](assets/flag-pole.jpg){ width="97%" } 
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
-**Wear a hat, enclosed shoes, and bring a water bottle.**
-
-**Guided  tours are free but a small donation is appreciated to help us continue [our work](about/index.md)**. 
 
 
 
