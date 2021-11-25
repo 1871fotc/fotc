@@ -131,4 +131,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
-[contact]: [https://twitter.com/SGatesHQ]. 
+[contact]: https://twitter.com/SGatesHQ 
