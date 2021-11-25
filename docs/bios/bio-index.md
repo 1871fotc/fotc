@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  
 ---
 
 
@@ -20,9 +21,8 @@ hide:
         - a photo of the headstone
         - additional photos and stories
         - links to references 
-        
 
-## Index
+### Index
 
 | Given Names      | Last Name    | Date of Birth| Date of Death | Portion-Section-Grave | Biography       |
 | ----------:      | :--------    | :--------- | :--------- | :--------- | :---------------------------   |
