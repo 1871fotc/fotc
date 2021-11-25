@@ -31,12 +31,6 @@ On this site you'll find information about:
 <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" frameborder="0"></iframe>
 </div>  
 
-<!--
-<iframe width="100%"  src="https://www.youtube.com/embed/41fWB0IvDKU" title="Toowong Cemetery, Brisbane - DJI Mavic aerial" frameborder="0"; autoplay="1"; controls="0"; modestbranding="1"; allowfullscreen></iframe>
---> 
-
-
-
 <!-- links -->
 
 [image1]: assets/main-entrance.jpg "The main entrance to Toowong Cemetery"
