@@ -30,6 +30,7 @@ On this site you'll find information about:
 <div class="video-wrapper">
 <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" frameborder="0"></iframe>
 </div>  
+*<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by [Drone Runner](https://www.youtube.com/channel/UCkeyrr7F795wvfFUITXSm_w).</small>*
 
 <!-- links -->
 
