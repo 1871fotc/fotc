@@ -25,6 +25,11 @@ hide:
 
 --8<-- "snippets/john-hislop.md"
 
+![](../assets/john-hislop-hearse-cemetery-road.jpg)
+
+*<small>[John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892]((http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116790002061)), held by John Oxley Library, State Library of Queensland. It is believed the procession is in Sylvan Road (previosly Cemetery Road) on corner of Kate Street.</small>*
+
+
 --8<-- "snippets/alma-adlington.md"
 
 --8<-- "snippets/george-sillett.md"

@@ -22,10 +22,7 @@ The Museum has an extensive display of photographs and artefacts.
 ![](../assets/museum-photos-3.jpg){ width="49%" } ![](../assets/museum-photos-4.jpg){ width="49%" } 
 
 
-
-
-
-## The Museum's History
+### The Museum's History
 
 The Museum building, located over the open drain, was formerly the Sexton's office and was built at the turn of the century. It is a single storey, single skin timber framed building with terracotta tile roof. The two room structure is located above the floor of an earlier structure identified as the flower shed which was associated with the cultivation and selling of flowers from Portion 10. The internal partition wall was reconstructed, windows replaced and an adjoining store room was demolished as part of the museum conversion project carried out by the Brisbane City Council Heritage Unit in 1991. 
  

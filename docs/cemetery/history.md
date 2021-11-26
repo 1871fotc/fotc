@@ -1,7 +1,6 @@
 ---
 title: History
-hide:
-  - toc
+
 ---
 
 #  Toowong Cemetery History
@@ -13,6 +12,22 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 </div>
 *<small>[Toowong Cemetery: Resting place of Governor Samuel Blackall (One Minute Archive)](https://www.youtube.com/watch?v=jJ3oK4nwNbA) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives)*</small>
 
+![](../assets/toowong-cemetery-ca1890.jpg){ width="96%" }  
+
+*<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+
+
+![](../assets/Toowong-cemetery-map-photo.jpg){ width="96%" }  
+
+*<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
+*<small>Series 46 Film BCC2 Frame 34691, 31 May 1946  — Brisbane City Council. Frederick St is the straight road on the right, running top to bottom.</small>*
+
+
+![](../assets/chermside-park.jpg){ width="96%" }  
+
+*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now Couldrey St, and Heussler Terrace is now Birdwood Terrace that bounds the North edge of the cemetery.</small>*
+
+
 ![](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
@@ -22,12 +37,6 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 
 *<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 -->
-
-
-![](../assets/Toowong-cemetery-map-photo.jpg){ width="96%" }  
-
-*<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
-*<small>Series 46 Film BCC2 Frame 34691, 31 May 1946  — Brisbane City Council. Frederick St is the straight road on the right, running top to bottom.</small>*
 
 
 <!-- 
@@ -73,7 +82,7 @@ A survey of the layout of graves, reveal differences between many of the portion
 
 -->
 
-## Learn more about the cemetery's history
+### Learn more about the cemetery's history
 
 - **[Historic photos](http://onesearch.slq.qld.gov.au/primo-explore/search?query=any,contains,Toowong%20cemetery&tab=dt&search_scope=DT&vid=SLQ&mfacet=tlevel,include,online_resources,1)** from the State Library of Queensland.
 - **[Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery)** in the Queensland Heritage Register.
