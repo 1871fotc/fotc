@@ -59,7 +59,7 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ## Map
 
-Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. Before you start, review the map.
+Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. Before you start, review the map (Click to expand the map).
 
 
 <!-- Map -->

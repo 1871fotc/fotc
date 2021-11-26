@@ -2,7 +2,11 @@
 
 Friends of Toowong Cemetery, in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology), search for buried headstones in the cemetery grounds.
 
-The annual archaeology dig attempts to discover buried headstones from previously demolished graves. Why were graves demolished? The Friends of South Brisbane Cemetery explain why in the [1970's Beautification Scheme](https://www.fosbc.com/beautification/).
+The annual archaeology dig attempts to discover buried headstones from previously demolished graves. 
+
+<!--
+Why were graves demolished? The Friends of South Brisbane Cemetery explain why in the [1970's Beautification Scheme](https://www.fosbc.com/beautification/).
+-->
 
 See [photos of our discoveries on Facebook](https://www.facebook.com/pg/1871fotc/photos/?ref=page_internal).
 
