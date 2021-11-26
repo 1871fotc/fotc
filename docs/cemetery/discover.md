@@ -30,7 +30,7 @@ If you're walking, in addition to the entries above, you can enter via:
 
 ![](../assets/pedestrian-ramp.jpg)
 
-*<small>Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road. <b>[Bus stop 17 Mt Coot-tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/2021-11-27?dateRedirect=False)</b> is nearby.</small>*
+*<small>Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road. <b>[Bus stop 17, Mt Coot-tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/2021-11-27?dateRedirect=False)</b> is nearby.</small>*
 
 
 
@@ -40,7 +40,7 @@ If you're walking, in addition to the entries above, you can enter via:
 If you're using public transport to get here, use the [TransLink Journey Planner](https://jp.translink.com.au/plan-your-journey/journey-planner) to plan your trip. Be aware some results tell you to walk across the road at the Toowong roundabout - this is not safe and you may need to walk a long way to find a safe place to cross Milton Road or the Western Freeway. Options are: 
 
 - cross Milton Road at its intersection with Morley Street
-- cross the Western Freeway using the [Canon Garland Overpass](https://garlandmemorial.com/2019/10/09/canon-garland-overpass/), a bike and walking bridge access from Anzac Park
+- cross the Western Freeway using the [Canon Garland Overpass](https://garlandmemorial.com/2019/10/09/canon-garland-overpass/), a bike and walking bridge accessed from Anzac Park
 - choose a bus the avoids the need to cross (e.g. Routes [471](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/), [598](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/598), [599](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/599))
 
 ## When you arrive
@@ -71,9 +71,10 @@ Inside the cemetery you can get around by driving, walking, riding a bike or sco
 <!-- Map -->
 [![](../assets/toowong-cemetery-map@0.5x.png)][map]
 
-*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: Shows old Road names.</small>*
+*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: The map shows old Road names.</small>*
 
 <!-- Map links -->
+
 [map]: ../assets/toowong-cemetery-map.png "Click to expand the map. Use Back to return to this page"
 [map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
 

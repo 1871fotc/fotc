@@ -110,6 +110,8 @@ Our Bank details:
 
 Please include your Surname as a reference if paying a membership subscription by direct deposit. 
 
+![](../assets/fotc-banner.png)
+
 <!--
 ## Your consent 
 
