@@ -112,7 +112,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
 Some of these organisations have evolved to become financial services companies, such as: 
 
-- The Independent Order of Odd Fellows became [IOOF](https://www.ioof.com.au/about-us/about-ioof).
+- The Independent Order of Odd Fellows became [IOOF](https://www.ioof.com.au/about-us/about-ioof), who in late 2021 decided to rebrand as Insignia Finance. 
 - The Ancient Order of Foresters evolved into [Foresters Financial](https://forestersfinancial.com.au/about-us/our-history/).
 - In 1993, the Australian Natives Association merged with Manchester Unity Independent Order of Oddfellows to become [Australian Unity](https://www.australianunity.com.au/about-us/our-story).
 

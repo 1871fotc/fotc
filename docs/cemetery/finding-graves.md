@@ -60,7 +60,7 @@ To map a marker to a grave, you need to look up old portion books. For example P
 
 ![](../assets/portion-ledger.png)
 
-*<small>Sample Portion Book page.</small>*
+*<small>Sample Portion Book page. © Brisbane City Council</small>*
 
 ## Need help locating a grave? 
 
