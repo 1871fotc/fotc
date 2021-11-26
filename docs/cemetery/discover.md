@@ -65,11 +65,11 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ## Map
 
-Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. Before you start, review the map (Click to expand the map).
+Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. Before you start, review the map.
 
 
 <!-- Map -->
-[![](../assets/toowong-cemetery-map@0.5x.png)][map]
+[![](../assets/toowong-cemetery-map.png)][map]
 
 *<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: The map shows old Road names.</small>*
 
