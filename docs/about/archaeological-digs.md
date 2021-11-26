@@ -10,7 +10,7 @@ See [photos of our discoveries on Facebook](https://www.facebook.com/pg/1871fotc
   <iframe src="https://www.youtube.com/embed/hgCx4OW69cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
-Digs are [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022). We hope to see you at the [next dig in May 2022](../news/2022.md). 
+Digs are [open to the public](https://archaeologyweek.org/events-list/national-archaeology-week-2022). We hope to see you at the **[next dig in May 2022](../news/2022.md)**. 
 
 
 <!--
