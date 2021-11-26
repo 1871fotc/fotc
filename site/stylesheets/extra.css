@@ -31,6 +31,14 @@ th {
   border: 0;
 }
 
+/* dont print certain elements */
+@media print {
+               .noprint {
+                  visibility: hidden;
+               }
+             }
+            
+            
 /* show logo in mobile format 
 
 @media screen and (max-width: 76.1875em) {

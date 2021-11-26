@@ -21,11 +21,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stephen-gates.github.io/fotc/about/archaeological-digs/</loc>
-         <lastmod>2021-11-26</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://stephen-gates.github.io/fotc/about/federation-pavilion/</loc>
          <lastmod>2021-11-26</lastmod>
          <changefreq>daily</changefreq>
@@ -107,6 +102,11 @@
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/cemetery/museum/</loc>
+         <lastmod>2021-11-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stephen-gates.github.io/fotc/headstones/archaeological-digs/</loc>
          <lastmod>2021-11-26</lastmod>
          <changefreq>daily</changefreq>
     </url>

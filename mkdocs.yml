@@ -178,6 +178,7 @@ nav:
     - Symbols: headstones/symbolism.md
     - Shapes: headstones/shapes.md  
     - Signs: headstones/signs.md  
+    - Archaeological Digs: headstones/archaeological-digs.md
   - Biographies: 
     - Biography Index: bios/bio-index.md
     - Research Resources: bios/research.md
@@ -187,6 +188,5 @@ nav:
   - About Us: 
     - About Friends of Toowong Cemetery: about/index.md
     - Federation Pavilion: about/federation-pavilion.md
-    - Archaeological Digs: about/archaeological-digs.md
     - 140th Anniversary Commemoration: about/140-commemoration.md
 #    - Ideas: about/ideas.md

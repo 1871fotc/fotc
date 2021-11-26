@@ -95,9 +95,11 @@ Slattery was born at Ballaglass, County Tipperary, Ireland. After emigrating, he
 
 Police career information supplied by the [Queensland Police Museum](https://www.police.qld.gov.au/museum)
 
+<div class="noprint" markdown="1">
 ## Print the booklet
 
 [Download the PDF of this walk](http://www.fotc.org.au/subset/police.pdf), print it, and fold it in half to make an A5 booklet. 
+</div>
 
 ## View the map
 
