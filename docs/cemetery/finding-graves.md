@@ -7,12 +7,12 @@ Graves are located using 3 numbers, *Portion*-*Section*-*Grave*. For example, Pe
 See if you can locate Peter Jackson's grave using the Portion and Section numbers in the map below.
 
 <!-- Map -->
-[![]( http://www.fotc.org.au/toowong_map.jpg){ width="100%" }][map]
+[![](../assets/toowong-cemetery-map-alt.jpg){ width="100%" }][map]
 
 *<small>Toowong Cemetery Map showing Portions (the large numbers) and Sections (the numbers inside the white rectangles).</small>*
 
 <!-- Map links -->
-[map]: http://www.fotc.org.au/toowong_map.jpg "Click to expand the map. Use Back to return to this page"
+[map]: ../assets/toowong-cemetery-map-alt.jpg "Click to expand the map. Use Back to return to this page"
 
 Portion numbers are shown on signs throughout the cemetery.
 
