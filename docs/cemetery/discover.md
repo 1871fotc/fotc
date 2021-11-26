@@ -110,3 +110,5 @@ Some road names have recently been changed to the names of notable people interr
 <!-- Links -->
 
 [main-entrance]: ../assets/main-entrance.jpg "Toowong Cemetery Main Entrance"
+*[Frederick Street]: William and Janet Wall were the first to settle in what is now called Frederick Street. It was named after their first son, Frederick, who was born in 1891. 
+*[Richer Street]: Named after William Richer, founding minister Baptist Church, Toowong. Richer arrived in Australia in 1869. He lived in Toowong from 1875. Richer was a builder, architect and a minister.
