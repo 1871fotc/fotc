@@ -25,7 +25,7 @@ Parking is available inside the cemetery along the roads. Please park on the lef
 If you're walking, in addition to the entries above, you can enter via:
 
 - the pedestrian ramp from Mt Coot-tha Road, opposite the [Mt Coot-tha Botanic Gardens](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha). Turn right at the top of the ramp and walk downhill to go to Canon Garland Place.
-- Frederick Street gate (opposite Sleath St) that leads onto Steel Rudd Avenue (previously 4th Avenue).
+- Frederick Street gate (opposite Sleath Street) that leads onto Steel Rudd Avenue (previously 4th Avenue).
 - the many informal entries off Birdwood Terrace.
 
 ![](../assets/pedestrian-ramp.jpg)
@@ -112,3 +112,4 @@ Some road names have recently been changed to the names of notable people interr
 [main-entrance]: ../assets/main-entrance.jpg "Toowong Cemetery Main Entrance"
 *[Frederick Street]: William and Janet Wall were the first to settle in what is now called Frederick Street. It was named after their first son, Frederick, who was born in 1891. 
 *[Richer Street]: Named after William Richer, founding minister Baptist Church, Toowong. Richer arrived in Australia in 1869. He lived in Toowong from 1875. Richer was a builder, architect and a minister.
+*[Sleath Street]: Named after Henry Walter Sleath. Henry had a music business in George Street, Brisbane in the late 1800's, where he and family lived before moving to Glenn Rd Toowong. In 1881 he was elected as a councillor for Toowong.
