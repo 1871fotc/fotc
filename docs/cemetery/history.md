@@ -88,6 +88,7 @@ A survey of the layout of graves, reveal differences between many of the portion
 - **[Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery)** in the Queensland Heritage Register.
 - **[Toowong Cemetery citation](https://www.ww2places.qld.gov.au/place?id=2064)** on Queensland WWII Historic Places website.
 - Read our **[stories of the people interred at Toowong Cemetery](../bios/bio-index.md)**.
+- Watch **[Darcy Maddock, President of Friends of the Toowong Cemetery, Talk History](https://www.youtube.com/playlist?list=PLv0V6xrruq2kcliEjK1Kus3O4gFPthNKz)**
 
 <!--
 
