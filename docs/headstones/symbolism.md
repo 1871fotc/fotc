@@ -105,7 +105,7 @@ Books often symbolise the Bible and the faith of its reader. An open book has al
 
 ## Lost and Found
 
-In Steele Rudd Avenue you'll find a collection of broken headstones. [Where did they come from?](../about/archaeological-digs.md) Why are they here? What is planned? 
+In Steele Rudd Avenue you'll find a collection of broken headstones. [Where did they come from?](archaeological-digs.md) Why are they here? What is planned? 
 
 ![](../assets/lost-and-found.jpg)
 <!-- add caption and plot id -->

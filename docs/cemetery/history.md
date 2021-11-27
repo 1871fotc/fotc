@@ -12,6 +12,8 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 </div>
 *<small>[Toowong Cemetery: Resting place of Governor Samuel Blackall (One Minute Archive)](https://www.youtube.com/watch?v=jJ3oK4nwNbA) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives)*</small>
 
+
+
 ![](../assets/toowong-cemetery-ca1890.jpg){ width="96%" }  
 
 *<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
@@ -25,7 +27,7 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 
 ![](../assets/chermside-park.jpg){ width="96%" }  
 
-*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now Couldrey St, and Heussler Terrace is now Birdwood Terrace that bounds the North edge of the cemetery.</small>*
+*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now Couldrey St, and Heussler Terrace was renamed Birdwood Terrace which borders the North edge of the cemetery. </small>*
 
 
 ![](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
@@ -38,6 +40,7 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 *<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 -->
 
+In April 1974 the Cemetery was full with all plot having been sold. The Brisbane City Council Health Dept of the time was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery.
 
 <!-- 
 
