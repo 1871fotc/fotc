@@ -90,6 +90,7 @@ A survey of the layout of graves, reveal differences between many of the portion
 - **[Historic photos](http://onesearch.slq.qld.gov.au/primo-explore/search?query=any,contains,Toowong%20cemetery&tab=dt&search_scope=DT&vid=SLQ&mfacet=tlevel,include,online_resources,1)** from the State Library of Queensland.
 - **[Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery)** in the Queensland Heritage Register.
 - **[Toowong Cemetery citation](https://www.ww2places.qld.gov.au/place?id=2064)** on Queensland WWII Historic Places website.
+- **[Graveyard Games – Lang Park Cemetery](https://blogs.archives.qld.gov.au/2021/11/24/graveyard-games-lang-park-cemetery/)** by the Queensland State Archives
 - Read our **[stories of the people interred at Toowong Cemetery](../bios/bio-index.md)**.
 - Watch **[Darcy Maddock, President of Friends of the Toowong Cemetery, Talk History](https://www.youtube.com/playlist?list=PLv0V6xrruq2kcliEjK1Kus3O4gFPthNKz)**
 
