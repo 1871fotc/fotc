@@ -5,7 +5,7 @@ title: History
 
 #  Toowong Cemetery History
 
-The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the largest cemetery in Queensland and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried there. 
+The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried in approximately 46,000 graves.
 
 ## Opened in 1875
 
@@ -13,8 +13,6 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 <iframe src="https://www.youtube.com/embed/jJ3oK4nwNbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 *<small>[Toowong Cemetery: Resting place of Governor Samuel Blackall (One Minute Archive)](https://www.youtube.com/watch?v=jJ3oK4nwNbA) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives)*</small>
-
-
 
 ![](../assets/toowong-cemetery-ca1890.jpg){ width="96%" }  
 
@@ -92,20 +90,27 @@ The Cross of Sacrifice and Stone of Remembrance memorials were officially unveil
 *<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
 
-
-
-
 ## 1970's "Beautification Scheme"
 
-In April 1974 the Cemetery was full with all plots sold. The Brisbane City Council Health Dept was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery.
+In April 1974 the Cemetery was full with all plots sold. The Brisbane City Council Health Dept was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery. Headstones (most of them just needing weeding) were removed from these cemeteries with the aim to make open parklands.
 
-==more details to follow==
+Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. Intervention in 1979 saw an end to the organised vandalism.  The Cemetery reopened in 1998 with approximately 450 plots for sale. 
+
+==Photo of a Council letter?==
 
 ## 2001 Federation Pavilion
 
 The [Federation Pavilion](../about/federation-pavilion.md) commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
 ![](../assets/federation-pavillion.jpg){ width="96%" }  
+
+## 2006 Archaeological Digs
+
+From 2006, in conjunction with the University of Queensland Archaeology Department, Friends of Toowong Cemetery have been [searching for the demolished headstones](../headstones/archaeological-digs.md) that were buried in the cemetery grounds.
+
+In 2011 while staff prepared grave, the headstone of a John Peel was discovered. Brisbane City Council has no record of John Pell and asked Friends of Toowong Cemetery for help. The headstone was one of 504 missing headstones from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for roadbase. This was not entirely true as many headstones have been found in archaeological digs from 2011-2016. 
+
+![](../assets/lost-and-found.jpg)
 
 
 ## 2011 Governor Blackall's funeral re-enactment
