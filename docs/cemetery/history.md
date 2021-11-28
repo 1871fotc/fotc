@@ -5,7 +5,7 @@ title: History
 
 #  Toowong Cemetery History
 
-The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried in approximately 46,000 graves.
+The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried in approximately 46,000 graves.
 
 ## Opened in 1875
 
@@ -84,10 +84,20 @@ The Cross of Sacrifice and Stone of Remembrance memorials were officially unveil
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
-
+<!--
 ![](../assets/stone-of-remembrance.jpg){ width="96%" }  
 
 *<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+
+-->
+
+![](../assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" }  
+
+*<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+
+
+
+
 
 
 ## 1970's "Beautification Scheme"
@@ -98,6 +108,10 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
 ==Photo of a Council letter?==
 
+## 1996 Friends of Toowong Cemetery 
+
+==Darcy to provide the FOTC origin story. Cr. Judy Magub first President. Judy was the councillor for the Toowong ward since it was formed in 1994 and she retired in 2007.==
+
 ## 2001 Federation Pavilion
 
 The [Federation Pavilion](../about/federation-pavilion.md) commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
@@ -106,9 +120,9 @@ The [Federation Pavilion](../about/federation-pavilion.md) commemorates the cont
 
 ## 2006 Archaeological Digs
 
-From 2006, in conjunction with the University of Queensland Archaeology Department, Friends of Toowong Cemetery have been [searching for the demolished headstones](../headstones/archaeological-digs.md) that were buried in the cemetery grounds.
+In 2006, in conjunction with the University of Queensland Archaeology Department, Friends of Toowong Cemetery started [searching for demolished headstones](../headstones/archaeological-digs.md) buried in the cemetery grounds.
 
-In 2011 while staff prepared grave, the headstone of a John Peel was discovered. Brisbane City Council has no record of John Pell and asked Friends of Toowong Cemetery for help. The headstone was one of 504 missing headstones from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for roadbase. This was not entirely true as many headstones have been found in archaeological digs from 2011-2016. 
+In 2011, while staff prepared a new grave, the headstone of a John Peel was discovered. Brisbane City Council had no record of John Pell and asked Friends of Toowong Cemetery for help. It was discovered that the headstone was one of 504 missing headstones from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for roadbase. This was not entirely true as many headstones have been found in archaeological digs between 2011-2016. 
 
 ![](../assets/lost-and-found.jpg)
 
@@ -121,7 +135,15 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a [re-enactment o
 
 ## Today
 
-Toowong Cemetery is loved by those who come to visit loved ones, walk their dog, exercise, or discover the history and stories inside.
+Today, the Friends of Toowong Cemetery and the Brisbane City Council work together to maintain and improve Toowong Cemetery. Together we have delivered improvements including:
+
+- The [Federation Pavilion](../about/federation-pavilion.md)
+- Renaming the Cemetery Roads after notable people buried nearby
+- Reusing the old Sexton's office as the [Toowong Cemetery Museum](museum.md)
+- The Paddington Memorial, and [Headstone Symbology](../headstones/symbology.md) display
+- The Toowong Cemetery Rememberance Walk that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend. 
+
+**Toowong Cemetery is enjoyed by those who come to visit loved ones, walk their dog, exercise, or discover the history and stories inside.**
 
 <!-- 
 
