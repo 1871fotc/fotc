@@ -1,1 +1,1 @@
-Thanks for being here. [Read about contributing](https://stephen-gates.github.io/report-gallery/site/about/) on the [LeanIX Report Gallery site](https://stephen-gates.github.io/report-gallery/site/).
+Thanks for being here. [Read about contributing](https://stephen-gates.github.io/fotc/site/about/legal) on the [Friends of Toowong Cemetery site](https://stephen-gates.github.io/fotc/site/).

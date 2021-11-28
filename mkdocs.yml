@@ -4,7 +4,7 @@ site_url: https://stephen-gates.github.io/fotc/
 site_author: Stephen Gates
 site_description: >-
   Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
-copyright: © 1996 — 2021 Friends of Toowong Cemetery Association Incorporated
+copyright: © 1996 — 2021 Friends of Toowong Cemetery Association Incorporated. | <p><a hef="https://stephen-gates.github.io/fotc/about/legal/">Legal</a></p>
 # repo_url: https://github.com/Stephen-Gates/fotc
 # repo_name: Stephen-Gates/fotc
 # edit_uri: ""
@@ -190,4 +190,5 @@ nav:
     - About Friends of Toowong Cemetery: about/index.md
     - Federation Pavilion: about/federation-pavilion.md
     - 140th Anniversary Commemoration: about/140-commemoration.md
+    - Legal: about/legal.md
 #    - Ideas: about/ideas.md
