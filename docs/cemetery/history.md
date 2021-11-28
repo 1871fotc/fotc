@@ -40,9 +40,37 @@ https://nundahnews.com.au/did-you-know-that-nundah-cemetery-is-queenslands-oldes
 oldest headstone dates to March 1855
 -->
 
+<!--
+Brisbane, 1844 (after a drawing by Carl Friedrich Gerler)
+
+https://www.flickr.com/photos/queenslandstatearchives/42971363315/in/album-72157710041752261/
+
+View the original record at the Queensland State Archives:
+Series ID 189
+ 
+Map of Brisbane drawn by C. F. Gerler (this version has been updated with the location of modern day Brisbane streets). This basic map has a numbered list of forty-eight locations in the bottom right corner. The list corresponds to places and residences on the map. The locations are represented by hand drawings of houses and other buildings with the numbers next to them. Trees, roads, and rivers are have also been included as a decorative flourish.
+ 
+Map legend :
+1. Andrew Petrie, 2, Handel, cattle drover, 3. Savory (the only baker), 4. Bensteads, sawyers, 5. T. Richardtson (the only general store), 6. Convict Barracks, 7. W. Kent (druggist shop), 8. Fitzpatrick (the first Chief Constable), 9. The Lock-up, 10. The Constable's place (only two in all), 11. Slade's Post Office (old), 12. Slade's Pineapple Garden, 13. Church of England, 14. The Hospital, 15. Mort, milkman.
+ 
+16. Wright's Hotel, 17. General Cemetery, 18. Tread and Windmill, 19. Edmonston.s Paddock, 20. Old R. Jones, 21. Dr. Simpson (the first Commissioner), 22. Old Major Prior, 23. The Gaol, 24. Skyring's Beehives (soft goods shop), 25. Hayes, milkman, 26. Brothers Fraser (first houses), 27. Catholic Church, 28. McLean's Blacksmith's Shop, 29. Edmonston's butcher, 30. Bow's Hotel.
+ 
+31. Taylor Shappart, 32. Montifeur (a financier), 33. W. Pickering, 34. Sergeant Jones, 35. Soldiers' Barracks, 36. Officer de Winton, 37. Commission Stores, 38. Queen's Wharf, 39. Captain Wickham's office, 40. Commissioner T. Kent, 41. Commissioner's Garden, 42. Captain Coley, 43. Government Gardens, 44. Father Hanley (the only priest), 45. Saw Pits, 46. Queen Street, 47. The Boat House and Boatman's House, 48. The First Tombstone (two graves). (Description supplied with photograph.)
+ 
+The Postmaster in 1844 was George M. Slade.
+
+
+-->
+
 ## 1911 Paddington Cemetery Act
 
-Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglected [Paddington Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) into a park and sports field. In 1911 the Queensland Government passed the *[Paddington Cemetery Act](http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/)* allowing them to move the bodies to another location.
+Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglected North Brisbane Burial Grounds (also known as  [Paddington Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery)) into a park and sports field. 
+
+![](../assets/paddington-cemetery-goat-1910.png){ width="96%" } 
+
+*<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) - Queensland State Archives.</small>*
+
+In 1911 the Queensland Government passed the *[Paddington Cemetery Act](http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/)* allowing them to move the bodies to another location.
 
 <!--
 
@@ -56,7 +84,7 @@ During the redevelopment of Suncorp Stadium in 2001/02 part of the former cemete
 
 *<small>Paddington Memorial, Portion 17 Section 1.</small>*
 
-The plaque on the Paddington Memorial reads:
+The Paddington Memorial commemorates people originally buried in the North Brisbane Burial Grounds, now interred at Toowong Cemetery. The Paddington Memorial plaque reads:
 
 >The North Brisbane Burial Grounds at Paddington were opened by 1844 and became the final resting place for thousands of Brisbane's inhabitants over the ensuing decades. Following the opening of the Brisbane General Cemetery of Toowong in 1875, the seven sectarian cemeteries were gradually abandoned. By the end of the 19^th^ century, the site had fallen into a state of disrepair. A decision was made in 1911 to have the Paddington Cemetery converted to public parklands. The memorials were subsequently removed and the opportunity was provided to relatives to relocate the remains and or memorials to other cemeteries including Toowong. Only a few hundred bodies were removed leaving several thousand on the site that became known as Lang Park.
 
@@ -94,10 +122,6 @@ The Cross of Sacrifice and Stone of Remembrance memorials were officially unveil
 ![](../assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" }  
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
-
-
-
-
 
 
 ## 1970's "Beautification Scheme"
