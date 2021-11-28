@@ -7,6 +7,8 @@ title: History
 
 The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the largest cemetery in Queensland and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried there. 
 
+## Opened in 1875
+
 <div class="video-wrapper">
 <iframe src="https://www.youtube.com/embed/jJ3oK4nwNbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -25,22 +27,91 @@ The Toowong Cemetery, formally known as the Brisbane General Cemetery, is the la
 *<small>Series 46 Film BCC2 Frame 34691, 31 May 1946  — Brisbane City Council. Frederick St is the straight road on the right, running top to bottom.</small>*
 
 
+## 1881 Queensland's oldest surviving headstones
+
+==insert story about 3 child graves relocated from North Quay.==
+
+![](../assets/children-on-bank.jpg){ width="96%" }  
+
+*<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank inbetween Herschell  and Tank Streets. Source unknown.</small>*
+
+==Add photo of graves at Toowong==
+
+<!-- 
+https://nundahnews.com.au/did-you-know-that-nundah-cemetery-is-queenslands-oldest-surviving-cemetery/ 
+oldest headstone dates to March 1855
+-->
+
+## 1911 Paddington Cemetery Act
+
+Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglected [Paddington Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) into a park and sports field. In 1911 the Queensland Government passed the *[Paddington Cemetery Act](http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/)* allowing them to move the bodies to another location.
+
+<!--
+
+There were approximately 4,600 grave in the Paddington Cemetery. Five Hundred memorials and headstones were moved to a small reserve at Christ Church, Milton, and 186 bodies relocated at the request of the families. The parkland was established and named Lang Park after John Dunmore Lang. 
+
+During the redevelopment of Suncorp Stadium in 2001/02 part of the former cemetery was excavated by archaeologists from the University of Queensland and they excavated 394 graves. All remains were taken to Toowong Cemetery and interred in two vaults under a specially commissioned monument in July 2003 (located at Portion 17 Section 1).
+
+--> 
+
+![](../assets/paddington-memorial.jpg){ width="96%" } 
+
+*<small>Paddington Memorial, Portion 17 Section 1.</small>*
+
+The plaque on the Paddington Memorial reads:
+
+>The North Brisbane Burial Grounds at Paddington were opened by 1844 and became the final resting place for thousands of Brisbane's inhabitants over the ensuing decades. Following the opening of the Brisbane General Cemetery of Toowong in 1875, the seven sectarian cemeteries were gradually abandoned. By the end of the 19^th^ century, the site had fallen into a state of disrepair. A decision was made in 1911 to have the Paddington Cemetery converted to public parklands. The memorials were subsequently removed and the opportunity was provided to relatives to relocate the remains and or memorials to other cemeteries including Toowong. Only a few hundred bodies were removed leaving several thousand on the site that became known as Lang Park.
+
+>Lang Park evolved into an iconic inner-city sports ground, with a major redevelopment of the stadium from 2001 to 2003. This resulted in the necessary excavation of sections of the former burial grounds that would be disturbed by construction. A methodical archaeological investigation was undertaken, and the fragmentary remains of 394 unidentified individuals were exhumed from the Episopalian (Anglican), Roman Catholic, and Presbyterian cemeteries. The remains were interred in this memorial in July 2003.
+
+
+## 1921 New Neighbours
+
+Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*", which stopped near the main cemetery gates, was a selling point. 
+
 ![](../assets/chermside-park.jpg){ width="96%" }  
 
-*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now Couldrey St, and Heussler Terrace was renamed Birdwood Terrace which borders the North edge of the cemetery. </small>*
+*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now named Couldrey St. </small>*
 
+## 1924 Remembering the Anzacs
+
+The Cross of Sacrifice and Stone of Remembrance memorials were officially unveiled on Anzac Day at Toowong Cemetery, Brisbane, 1924
 
 ![](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
-<!--
-![](../assets/stone-of-remembrance.jpg){ width="50%" }  
+
+![](../assets/stone-of-remembrance.jpg){ width="96%" }  
 
 *<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
--->
 
-In April 1974 the Cemetery was full with all plot having been sold. The Brisbane City Council Health Dept of the time was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery.
+
+
+
+
+## The 1970's "Beautification Scheme"
+
+In April 1974 the Cemetery was full with all plots sold. The Brisbane City Council Health Dept was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery.
+
+==more details to follow==
+
+## 2001 Federation Pavilion
+
+The [Federation Pavilion](../about/federation-pavilion.md) commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
+
+![](../assets/federation-pavillion.jpg){ width="96%" }  
+
+
+## 2011 Governor Blackall's funeral re-enactment
+
+On 24 July 2011, 140 years after Governor Blackall was buried, a [re-enactment of the funeral](../about/140-commemoration.md) was performed.
+
+![](../assets/140-commemoration.png){ width="96%" }  
+
+## Today
+
+Toowong Cemetery is loved by those who come to, visit loved ones, walk their dog, exercise, or discover the history and stories inside.
 
 <!-- 
 
@@ -85,7 +156,7 @@ A survey of the layout of graves, reveal differences between many of the portion
 
 -->
 
-### Learn more about the cemetery's history
+## Learn more about the cemetery's history
 
 - **[Historic photos](http://onesearch.slq.qld.gov.au/primo-explore/search?query=any,contains,Toowong%20cemetery&tab=dt&search_scope=DT&vid=SLQ&mfacet=tlevel,include,online_resources,1)** from the State Library of Queensland.
 - **[Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery)** in the Queensland Heritage Register.
@@ -109,3 +180,7 @@ The Portion History section is derived from [Toowong Cemetery](https://apps.des.
 <!-- Links -->
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
+
+*[Birdwood Terrace]: Field Marshal William Riddell Birdwood commanded the Australian Corps for much of the First World War. 
+
+*[Heussler Terrace]: Johann (John) Christian Heussler (1820–1907) was a Member of Queensland's Upper House (1866-1907)
