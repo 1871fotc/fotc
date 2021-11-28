@@ -1,5 +1,5 @@
 ---
-title: Celebrities
+title: Celebrity Headstones
 hide:
   - toc
 ---
@@ -8,16 +8,17 @@ hide:
 
 Many people interred in Toowong Cemetery share their name with celebrities or the characters they played. 
 
-![][image9]{ width="32%" } ![][image9]{ width="32%" } ![][image9]{ width="32%" }   
+![6-12-28][image9]{ width="32%" } ![6-12-28][image9]{ width="32%" } ![6-12-28][image9]{ width="32%" }   
 
-[image9]: ../assets/harry-potter-16x9.jpg "Spoiler Alert"
+[image9]: ../assets/harry-potter-16x9.jpg "6-12-28"
 
 
 ??? Warning "To Do" 
 
-    - Source names from Darcy
+    - Source names and locations from Darcy
     - Collect and add photos
 
+<!-- 
 ??? example "Index Usage Tips" 
 
     - Click a column name to sort the table.
@@ -35,6 +36,7 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 |                  |                                   | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
 |                  |                                   | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
   
+-->
 
 <!--
 |                  |                                   | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 

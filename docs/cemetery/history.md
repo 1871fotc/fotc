@@ -67,11 +67,16 @@ The plaque on the Paddington Memorial reads:
 
 ## 1921 New Neighbours
 
-Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*", which stopped near the main cemetery gates, was a selling point. 
+Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*" was a selling point. The Toowong Tram stopped near the main cemetery gates.
 
 ![](../assets/chermside-park.jpg){ width="96%" }  
 
 *<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now named Couldrey St. </small>*
+
+![](../assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" }  
+
+*<small>[Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — [State Library of Queensland](https://www.slq.qld.gov.au). </small>*
+
 
 ## 1924 Remembering the Anzacs
 
@@ -90,7 +95,7 @@ The Cross of Sacrifice and Stone of Remembrance memorials were officially unveil
 
 
 
-## The 1970's "Beautification Scheme"
+## 1970's "Beautification Scheme"
 
 In April 1974 the Cemetery was full with all plots sold. The Brisbane City Council Health Dept was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery.
 
@@ -111,7 +116,7 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a [re-enactment o
 
 ## Today
 
-Toowong Cemetery is loved by those who come to, visit loved ones, walk their dog, exercise, or discover the history and stories inside.
+Toowong Cemetery is loved by those who come to visit loved ones, walk their dog, exercise, or discover the history and stories inside.
 
 <!-- 
 
