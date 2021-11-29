@@ -3,7 +3,6 @@
 }
 
 /* banded rows matching admonitions */
-
 tr:nth-child(even) {
   background-color: rgba(124, 77, 255, 0.1);  
 }
@@ -13,6 +12,7 @@ th {
   color: white;
 }
 
+/* YouTube embed */
 .video-wrapper {
   position: relative;
   display: block;
@@ -21,6 +21,7 @@ th {
   overflow: hidden;
   padding-bottom: 56.25%;
 }
+
 .video-wrapper > iframe {
   position: absolute;
   top: 0;
@@ -33,12 +34,19 @@ th {
 
 /* dont print certain elements */
 @media print {
-               .noprint {
-                  visibility: hidden;
-               }
-             }
-            
-            
+  .noprint {
+     visibility: hidden;
+  }
+}
+
+/* change styling of link in banner*/
+.md-banner a {
+  color: var(--md-primary-bg-color);
+  text-decoration: underline;
+}
+
+
+
 /* show logo in mobile format 
 
 @media screen and (max-width: 76.1875em) {

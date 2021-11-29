@@ -46,6 +46,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stephen-gates.github.io/fotc/bios/arthur-rutledge/</loc>
+         <lastmod>2021-11-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stephen-gates.github.io/fotc/bios/bio-index/</loc>
          <lastmod>2021-11-29</lastmod>
          <changefreq>daily</changefreq>
@@ -57,6 +62,11 @@
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/bios/emma-miller/</loc>
+         <lastmod>2021-11-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stephen-gates.github.io/fotc/bios/john-donaldson/</loc>
          <lastmod>2021-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -76,7 +86,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stephen-gates.github.io/fotc/bios/samuel-walker-griffith/</loc>
+         <lastmod>2021-11-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stephen-gates.github.io/fotc/bios/thomas-glassey/</loc>
+         <lastmod>2021-11-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stephen-gates.github.io/fotc/bios/thomas-macdonald%E2%80%91paterson/</loc>
          <lastmod>2021-11-29</lastmod>
          <changefreq>daily</changefreq>
     </url>

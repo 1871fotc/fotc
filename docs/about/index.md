@@ -46,13 +46,13 @@ The Friends of Toowong Cemetery have:
 Currently we are: 
 
 - creating a database of people who have served their nation in military uniform and now rest in Toowong Cemetery. These men and women will be recognised on an [honour board](https://youtu.be/mVfixEzUpwk) at the cemetery's main entrance.
-- updating our website (if you're reading this, you're looking at our work in progress).
-- encouraging the broader community to volunteer through a simple one-off interaction. On this site you'll find these opportunities shown in green Volunteer Opportunity boxes like the one below. 
+- updating our website to include even more content.
 - updating the directions and maps for our [self‑guided walks](../walks/index.md). 
+- encouraging the broader community to volunteer through a simple one-off interaction. On this site you'll find these opportunities shown in green Volunteer Opportunity boxes like the one below. 
 
 !!! question "Volunteer opportunity"
 
-    To update the maps we need:
+    To update our maps we need:
     
     - access and a licence to the location data for the cemetery (boundaries, internal and surrounding roads, portions, sections and graves, building outlines, monuments, waterways, taps). Ideally this would be released as Open Data.
     - access and a licence to the [grave data](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). Ideally this would be released as Open Data.
