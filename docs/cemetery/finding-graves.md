@@ -26,7 +26,7 @@ Portion numbers are shown on signs throughout the cemetery.
 
 ## Search for a grave
 
-Use the Brisbane City Council [Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search) to look up a person's name and find the grave location and other details. 
+Use the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find the grave location and other details. 
 
 ## Update burial records
 
