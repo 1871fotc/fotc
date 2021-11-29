@@ -1,7 +1,7 @@
 # Project information
 site_name: Friends of Toowong Cemetery
 site_url: https://stephen-gates.github.io/fotc/
-site_author: Stephen Gates
+site_author: Friends of Toowong Cemetery Association Incorporated
 site_description: >-
   Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
 copyright: © 1996 — 2021 Friends of Toowong Cemetery Association Incorporated. 
@@ -139,7 +139,7 @@ plugins:
 #        text: "#FFFFFF"
 
 # Page tree - only 2 levels allowed
-# order wals better
+# order walks better
 nav:
   - Home: index.md
   - Toowong Cemetery: 
@@ -150,37 +150,37 @@ nav:
   - Guided Tours: guided-tours.md
   - Self-Guided Walks:
     - Self-Guided Walks: walks/index.md    
-    - Undertakers Underground: walks/undertakers-underground.md
-    - In their caring hands: walks/in-their-caring-hands.md 
-    - Lest We Forget: walks/lest-we-forget.md
-    - Lest we forget - Navy Walk: walks/lest-we-forget-navy.md 
-    - Toowong Cemetery Rememberance Walk: walks/rememberance-walk.md    
-    - Anchors Aweigh!: walks/anchors-aweigh.md
-    - The Thin Blue Line: walks/thin-blue-line.md 
-    - All the world’s a stage: walks/all-the-worlds-a-stage.md 
-    - The Artists Trail: walks/artists.md 
-    - Founding Fathers: walks/founding-fathers.md     
-    - Notable Women: walks/notable-women.md    
-    - Toowong Identities Trail 1: walks/toowong-identities-a.md 
-    - Toowong Identities Trail 2: walks/toowong-identities-b.md 
+#    - Undertakers Underground: walks/undertakers-underground.md
+#    - In their caring hands: walks/in-their-caring-hands.md
+#    - Lest We Forget: walks/lest-we-forget.md
+#    - Lest we forget - Navy Walk: walks/lest-we-forget-navy.md 
+#    - Toowong Cemetery Rememberance Walk: walks/rememberance-walk.md    
+#    - Anchors Aweigh!: walks/anchors-aweigh.md
+#    - The Thin Blue Line: walks/thin-blue-line.md 
+#    - All the world’s a stage: walks/all-the-worlds-a-stage.md 
+#    - The Artists Trail: walks/artists.md 
+#    - Founding Fathers: walks/founding-fathers.md     
+#    - Notable Women: walks/notable-women.md    
+#    - Toowong Identities Trail 1: walks/toowong-identities-a.md 
+#    - Toowong Identities Trail 2: walks/toowong-identities-b.md 
     - The Federation Trail: walks/federation-trail.md
-    - Governors Past: walks/governors-past.md 
+#    - Governors Past: walks/governors-past.md 
     - Brisbane Mayors: walks/brisbane-mayors.md
     - Labor Luminaries: walks/labor-luminaries.md 
-    - Convict Connections: walks/convict-connections.md 
-    - Colonial Conflicts: walks/colonial-conflicts.md     
-    - The Irish Trail: walks/irish-trail.md 
-    - The Jewish Trail: walks/jewish-trail.md    
-    - The Lutheran Trail: walks/lutheran-trail.md    
-    - Suffer the children to come unto me: walks/suffer-the-children.md 
-    - BCC Toowong Cemetery Tour 1: walks/bcc-walk-1.md 
-    - BCC Toowong Cemetery Tour 2: walks/bcc-walk-2.md 
+#    - Convict Connections: walks/convict-connections.md 
+#    - Colonial Conflicts: walks/colonial-conflicts.md     
+#    - The Irish Trail: walks/irish-trail.md 
+#    - The Jewish Trail: walks/jewish-trail.md    
+#    - The Lutheran Trail: walks/lutheran-trail.md    
+#    - Suffer the children to come unto me: walks/suffer-the-children.md 
+#    - BCC Toowong Cemetery Tour 1: walks/bcc-walk-1.md 
+#    - BCC Toowong Cemetery Tour 2: walks/bcc-walk-2.md 
   - Headstones: 
     - Symbols: headstones/symbolism.md
     - Shapes: headstones/shapes.md  
     - Signs: headstones/signs.md  
     - Archaeological Digs: headstones/archaeological-digs.md
-    - Celebrity Headstones: headstones/celebrities.md
+#    - Celebrity Headstones: headstones/celebrities.md
   - Biographies: 
     - Biography Index: bios/bio-index.md
     - Research Resources: bios/research.md

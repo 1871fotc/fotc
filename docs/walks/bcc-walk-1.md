@@ -41,7 +41,7 @@ Before starting, you may like to download the [Toowong Cemetery map](http://www.
 
     Begin the heritage trail at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
     
-    ![](../assets/missing.jpg){ width="15%" } 
+    ![](../assets/404.png){ width="10%" } 
 
 
 <!-- insert photo -->
@@ -74,7 +74,7 @@ Cowlishaw’s wife, Charlotte (nee Owen) was the second burial in the grave foll
 
     Proceed to the end of the avenue and to the left find the Federation Pavilion. In the area to the left of the pavilion are Sir Charles Lilley and Sir Samuel Walker Griffith.
     
-    ![x](../assets/missing.jpg){ width="15%"} ![](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
+    ![x](../assets/404.png){ width="10%"} ![](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
 
 
 ## Sir Charles Lilley <small>(1830-1897)</small>
