@@ -2,6 +2,8 @@
 title: Celebrity Headstones
 hide:
   - toc
+search:
+  exclude: true  
 ---
 
 # Celebrity Headstones

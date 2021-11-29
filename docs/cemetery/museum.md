@@ -12,7 +12,7 @@ A Museum is operated by the Friends of Toowong Cemetery. The Museum is open befo
 If you visit at other times, staff at the Office will be pleased to open the Museum for you. 
 --> 
 
-![Toowong Cemetery Museum](../assets/museum.jpg)
+![Toowong Cemetery Museum](../assets/museum.jpg){ width="98%" }
 
 *<small>The Toowong Cemetery Museum is the former Sexton's office.</small>*
 
