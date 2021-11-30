@@ -106,7 +106,7 @@ Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary 
 
 ## 1924 Remembering the Anzacs
 
-With Australia and New Zealand at war with the German Empire, David John Garland in 1915 was tasked with providing and coordinating chaplaincy and welfare services at Enoggera Army Base to thousands of fresh recruits. 
+With Australia and New Zealand at war with the German Empire, in 1915 David Garland was tasked with providing and coordinating chaplaincy and welfare services at Enoggera Army Base to thousands of fresh recruits. 
 
 In the wake of climbing casualty lists and community grief, he urged legislators to establish a framework to enable the nation to publicly honour the service and sacrifice of Australian and New Zealand troops killed in the Gallipoli Peninsula landings of 25 April 1915. This movement culminated in a public meeting on 10 January 1916 at Brisbane's Exhibition Hall which voted to establish the Anzac Day Commemoration Committee of Queensland, with chaplain Lieutenant-Colonel Garland its secretary. 
 

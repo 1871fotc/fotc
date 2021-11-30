@@ -1,25 +1,16 @@
-
-
 # Biography Index
 
 **Read the stories of the people interred at Toowong Cemetery**. The index below lists people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
 
-<!--
-
-??? Warning "To Do" 
-
-    - Add Biography index entries
-    - Add Biography pages 
-    - Add Biography page links
-
--->
-
-??? example "Index Usage Tips" 
+??? example "How to use the Index" 
 
     - Click a column name to sort the table.
     - "Also Known As" names are shown in (brackets).
     - Dates are formatted as yyyy-mm-dd (year, month, day) to help with sorting. Where a year, month or day is unknown, a placeholder value of "yyyy", "mm", or "dd" is used.
-    - Where a Grave number is unknown, a placeholder value of "gg" is used. Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
+    - Location is in the Portion-Section-Grave format.
+    
+        - Where a Grave number is unknown, a placeholder value of "gg" is used. 
+        - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
     - The Last Name links to the Biography and, if available, includes:
 
         - the text from the self-guided walk 
@@ -29,7 +20,7 @@
 
 ### Index
 
-| Given Names          | Last Name                                 | Date of Birth| Date of Death | Portion-Section-Grave | 
+| Given Names          | Last Name                                 | Born       | Died       | Location | 
 | ----------:          | :--------                                 | :--------- | :--------- | :--------- | 
 | David John           | **[Garland](david-john-garland.md)**      | 1864-10-4  | 1939-10-11 | 1-50a-9    | 
 | Arthur               | **[Rutledge](arthur-rutledge.md)**        | 1843-08-29 | 1917-02-08 | 13‑49‑15   | <!-- federation -->
@@ -41,13 +32,19 @@
 | William Henry        | **[Brown](william-henry-browne.md)**      | 1846-09-13 | 1904-04-12 | 11‑51‑3    | 
 | John Gordon          | **[Smith](john-gordon-smith.md)**         | 1863-mm-dd | 1921-06-21 | 11‑53‑5/6  | 
 | Anderson             | **[Dawson](anderson-dawson.md)**          | 1863-07-16 | 1910-07-20 | 11‑56‑1    | 
-| David                | **[Bowman](david-bowman.md)**             | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| William            | **[Forgan Smith](william-forgan-smith.md)** | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| William Neal         | **[Gillies](william-neal-gillies.md)**    | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| Edward Michael       | **[Hanlon](edward-michael-hanlon.md)**    | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| John                 | **[Hoolan](john-hoolan.md)**              | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| Albert Edward Victor | **[Whitford](albert-edward-victor-whitford.md)** | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| Edward               | McGregor                                  | yyyy-mm-dd | 1939-mm-dd | 4‑16‑17/18 | <!-- Actors -->
+| David                | **[Bowman](david-bowman.md)**             | 1860-08-04 | 1916-02-25 | 11‑76‑12/13| 
+| William            | **[Forgan Smith](william-forgan-smith.md)** | 1887-04-15 | 1953-09-25 | 8‑25‑20/21 | 
+| William Neal         | **[Gillies](william-neal-gillies.md)**    | 1868-10-28 | 1928-02-09 | 18‑106‑20  | 
+| Edward Michael       | **[Hanlon](edward-michael-hanlon.md)**    | 1887-10-01 | 1952-01-15 | 7A‑38‑19/21 | 
+| John                 | **[Hoolan](john-hoolan.md)**              | 1842-mm-dd | 1911-06-15 | 7A‑34‑2    | 
+| Albert Edward Victor | **[Whitford](albert-edward-victor-whitford.md)** | 1877-mm-dd | 1924-01-29 | 15‑6‑40   | 
+| Lilian Violet        | **[Cooper](lilian-cooper.md)**            | 1861-08-11 | 1947-08-18 | 8‑69‑13/14 | <!-- ? -->
+| Ann                  | **[Hill](ann-hill.md)**                   | 1850-04-25 | 1871-11-01 | 6-21-9     | <!-- ? -->
+| Walter               | **[Hill](walter-hill.md)**                | 1819-12-21 | 1904-02-04 | 6-21-9     | <!-- ? -->
+
+<!--
+
+| Edward               | McGregor                                  | yyyy-mm-dd | 1939-mm-dd | 4‑16‑17/18 | <!-- Actors ->
 | Sidney               | Cook                                      | yyyy-mm-dd | 1937-03-23 | 4‑35‑14    | 
 | Samuel               | Keenan                                    | yyyy-mm-dd | yyyy-mm-dd | 2‑48‑7     | 
 | Henry William        | Mobsby                                    | 1860-08-17 | 1933-04-09 | 5‑61‑11    | 
@@ -55,7 +52,7 @@
 | Thomas               | Macer (Megan)                             | yyyy-mm-dd | 1926-mm-dd | 21‑14‑3    | 
 | Arthur               | Aldridge                                  | 1873-mm-dd | 1929-11-03 | 23‑31‑14   | 
 | Kyrle Edward         | McAllister (Sylvaney)                     | yyyy-mm-dd | yyyy-mm-dd | 23‑31‑15   | 
-| George Barney        | Petrie                                    | 1839-mm-dd | 1878-06-21 | 13-5-3     | <!-- Undertakers -->
+| George Barney        | Petrie                                    | 1839-mm-dd | 1878-06-21 | 13-5-3     | <!-- Undertakers ->
 | Alex                 | Gow                                       | 1861-10-19 | 1919-05-02 | 13-59-3/4  | 
 | John                 | Hislop                                    | yyyy-mm-dd | 1918-07-15 | 11-68-9    | 
 | Alma                 | Adlington                                 | 1856-mm-dd | 1891-05-04 | 7-114-5    | 
@@ -64,15 +61,13 @@
 | Kate Mary            | Smith                                     | 1847-mm-dd | 1932-06-dd | 1-7-14     | 
 | Alfred               | Cannon                                    | yyyy-mm-dd | 1915-09-11 | 4-1-21/22  | 
 | Joseph               | Cripps                                    | 1849-mm-dd | 1849-01-15 | 4-28-6     | 
-| Le Fevre James       | Cranstone                                 | 1822-mm-dd | 1893-06-22 | 2A‑15‑22   | <!-- Artists -->
+| Le Fevre James       | Cranstone                                 | 1822-mm-dd | 1893-06-22 | 2A‑15‑22   | <!-- Artists ->
 | Isaac Walter         | Jenner                                    | 1837-03-18 | 1902-03-01 | 5‑43‑16    | 
 | Richard Godfrey      | Rivers                                    | 1859-mm-dd | 1925-04-02 | 12‑24‑4    | 
 | Eliza Jeanettie      | Sheldon                                   | 1885-05-24 | 1974-mm-dd | 7‑95‑13/14 | 
 | Edwin Arthur Vincent | Sheldon                                   | 1895-mm-dd | 1945-mm-dd | 7‑95‑13/14 | 
-| Lilian Violet        | **[Cooper](lilian-cooper.md)**            | 1861-08-11 | 1947-08-18 | 8‑69‑13/14 | <!-- ? -->
-| Ann                  | **[Hill](ann-hill.md)**                   | 1850-04-25 | 1871-11-01 | 6-21-9     | <!-- ? -->
-| Walter               | **[Hill](walter-hill.md)**                | 1819-12-21 | 1904-02-04 | 6-21-9     | <!-- ? -->
 
+-->
 
 <!--
 | firstname            | **[lastname](missing.md)**                 | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 

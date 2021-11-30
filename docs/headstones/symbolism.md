@@ -15,7 +15,7 @@ In [Portion 2](../cemetery/finding-graves.md) of the cemetery, at the intersecti
 
 <!-- link to map --> 
 
-Headstones within the Cemetery come in [many shapes](shapes.md) and contain [mysterious signs](signs.md). Throughout the first half of the 19th Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
+Headstones within the Cemetery come in many shapes <!-- [many shapes](shapes.md) --> and contain [mysterious signs](signs.md). Throughout the first half of the 19th Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
 
 ## The Cross
 
@@ -109,6 +109,17 @@ In Steele Rudd Avenue you'll find a collection of broken headstones. [Where did 
 
 ![](../assets/lost-and-found.jpg)
 <!-- add caption and plot id -->
+
+<!-- 
+
+## Other signs
+
+### Seven pointed star before federation
+
+https://en.wikipedia.org/wiki/Heptagram
+
+
+-->
 
 ## Source
 
