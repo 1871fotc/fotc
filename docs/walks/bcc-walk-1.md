@@ -325,7 +325,7 @@ Also a stonemason, John Petrie’s best remembered work is the conversion of the
 
 ## Soldiers Memorial 
 
-The Cross of Sacrifice and Stone of Remembrance were unveiled on Anzac Day, 1924, by the Governor‑General, Lord Forster. The Stone of Remembrance is a solid block of Helidon sandstone weighing 10 tonne. Photographs of the unveiling ceremony, attended by several hundred people including many prominent Queenslanders, can be seen in the restored Sexton’s office. Canon Garland raised the funds for this memorial.
+The Cross of Sacrifice and Stone of Remembrance were unveiled on Anzac Day, 1924, by the Governor‑General, Lord Forster. The Stone of Remembrance is a solid block of Helidon sandstone weighing 10 tonne. Photographs of the unveiling ceremony, attended by several hundred people including many prominent Queenslanders, can be seen in the [Museum](../cemetery/museum.md). Canon Garland raised the funds for this memorial.
 
 <!-- insert photo -->
 

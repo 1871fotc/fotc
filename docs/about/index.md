@@ -46,7 +46,7 @@ The Friends of Toowong Cemetery have:
 Currently we are: 
 
 - creating a database of people who have served their nation in military uniform and now rest in Toowong Cemetery. These men and women will be recognised on an [honour board](https://youtu.be/mVfixEzUpwk) at the cemetery's main entrance.
-- updating our website to include even more content.
+- updating our website to include [even more content](https://github.com/Stephen-Gates/fotc/projects/1?fullscreen=true).
 - updating the directions and maps for our [self‑guided walks](../walks/index.md). 
 - encouraging the broader community to volunteer through a simple one-off interaction. On this site you'll find these opportunities shown in green Volunteer Opportunity boxes like the one below. 
 
