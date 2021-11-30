@@ -7,7 +7,7 @@ title: History
 
 The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried in approximately 46,000 graves.
 
-## Opened in 1875
+## 1875 Toowong Cemetery opened
 
 <div class="video-wrapper">
 <iframe src="https://www.youtube.com/embed/jJ3oK4nwNbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -106,7 +106,19 @@ Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary 
 
 ## 1924 Remembering the Anzacs
 
-The Cross of Sacrifice and Stone of Remembrance memorials were officially unveiled on Anzac Day at Toowong Cemetery, Brisbane, 1924
+With Australia and New Zealand at war with the German Empire, David John Garland in 1915 was tasked with providing and coordinating chaplaincy and welfare services at Enoggera Army Base to thousands of fresh recruits. 
+
+In the wake of climbing casualty lists and community grief, he urged legislators to establish a framework to enable the nation to publicly honour the service and sacrifice of Australian and New Zealand troops killed in the Gallipoli Peninsula landings of 25 April 1915. This movement culminated in a public meeting on 10 January 1916 at Brisbane's Exhibition Hall which voted to establish the Anzac Day Commemoration Committee of Queensland, with chaplain Lieutenant-Colonel Garland its secretary. 
+
+Garland's contribution to Anzac Day tradition was to devise ecumenical or secular rituals for public commemoration of those who died in battle and and to comfort the bereaved. Because his format was non-denominational, everyone could participate, regardless of their faith tradition. The minute's silence provided a space for all Australian's and New Zealanders to demonstrate respect for The Fallen of the Great War. 
+
+In 1916 Garland initiated a trust to receive money raised from the sale of silk, lavender-coloured badges embossed with gold leaf with the lion of St Mark and the motto "Their Name Liveth for Evermore". These became the first Anzac Day badges, initially earmarked to pay for the upkeep of soldiers' graves at home and abroad. The appeal eventually helped fund soldier respite hostels and memorials to be established. 
+
+On the morning of Anzac Day 1920, the first since his return from war service, Garland visited "Soldiers' Corner" at Toowong Cemetery and found friends and families of the deceased paying their respects. Noting people of all religions were present, he asked all to observe a minutes' silence rather than offer up prayers during an impromptu commemoration service. 
+
+Under the guidance of Garland the Anzac Day service at Toowong Cemetery grew in size and significance as did the badge-selling campaign which supported the Lady Mayoress's committee. The campaign's success helped fund the establishment of the "Cross of Sacrifice" and "The Stone of Rememberance" which were erected and unveiled in 1924 near the entrance to Toowong Cemetery immediately adjacent to Canon Garland Place. Anzac Day commemoration's in Brisbane where held here until the Anzac Memorial - Shrine of Rememberance - in Anzac Square, was completed in 1930.
+
+Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at Portion 1, Section 50A, Grave 9, overlooking "Soldiers' Corner".
 
 ![](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
 
@@ -132,7 +144,7 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
 ==Photo of a Council letter?==
 
-## 1996 Friends of Toowong Cemetery 
+## 1996 Friends of Toowong Cemetery formed 
 
 ==Darcy to provide the FOTC origin story. Cr. Judy Magub first President. Judy was the councillor for the Toowong ward since it was formed in 1994 and she retired in 2007.==
 

@@ -64,7 +64,7 @@
 | Samuel Walker        | **[Griffith](samuel-walker-griffith.md)** | 1843-08-29 | 1917-02-08 | 13‑49‑15   | 
 | John                 | **[Donaldson](john-donaldson.md)**        | 1841-06-15 | 1896-07-25 | 12‑47‑13   | 
 | Thomas  | **[Macdonald‑Paterson](thomas-macdonald‑paterson.md)** | 1844-05-09 | 1906-03-21 | 12‑53-10   |  
-
+| David John           | **[Garland](david-john-garland.md)**      | 1864-10-4  | 1939-10-11 | 1-50a-9    | 
 
 
 <!--

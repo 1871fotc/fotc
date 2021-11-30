@@ -80,7 +80,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | AHCG    | [Australasian Holy Catholic Guild][AHCG]                     | Friendly Society | pp-ss-gg           |
 | AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society | pp-ss-gg           |
 | ANA     | [Australian Natives Association][ANA]                        | Friendly Society | pp-ss-gg           |
-| AOF     | Ancient Order of Foresters                                   | Friendly Society | pp-ss-gg           |
+| AOF     | Ancient Order of Foresters                                   | Friendly Society | 1-29-8             |
 | EC      | English Constitution                                         | Freemasonry      | pp-ss-gg           |
 | GUOOF   | Grand United Order of Odd Fellows                            | Friendly Society | pp-ss-gg           |
 | HACBS   | Hibernian Australia Catholic Benefit Society                 | Friendly Society | pp-ss-gg           |
@@ -102,6 +102,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | SC      | Scottish Constitution                                        | Freemasonry      | pp-ss-gg           |
 | UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society | pp-ss-gg           |
 | UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry      | pp-ss-gg           |
+
 
 
 !!! question "Volunteer opportunity"
