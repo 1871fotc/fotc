@@ -31,7 +31,6 @@ The Odd Fellows were so named because they were originally drawn together from a
 
 ![](../assets/wooden-hand-heart-in-hand.jpg){ width="47%" }  ![](../assets/odd-fellows.jpg){ width="49%" }  
 
-
 *<small>[Wooden Hand - Heart in Hand](https://collections.museumsvictoria.com.au/items/251958), Museums Victoria </small>* <br>
 *<small>[Manchester Unity Independent Order of Odd Fellows, ca. 1910](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1413410), State Library of Queensland</small>*
 
@@ -104,10 +103,12 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry      | pp-ss-gg           |
 
 
-
 !!! question "Volunteer opportunity"
 
     Have you found the location of an Acronym? [Contact us](../about/index.md#contact-us) with a photo and the details. 
+
+![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  
+
     
 ## Today
 
@@ -140,3 +141,5 @@ Harwood, J. *The Freemasons* London, Hermes House, 2006
 [RBP]: http://royalblack.org/mission-statement/our-history/
 [UAOD]: https://en.wikipedia.org/wiki/United_Ancient_Order_of_Druids "UAOD on Wikipedia"
 [UGL]: https://uglq.org.au
+
+[1-29-8]: ../assets/sign-aof.jpg "AOF - William Wayte Headstone 1-29-8"

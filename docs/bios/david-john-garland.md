@@ -13,8 +13,7 @@ Lived: **4 October 1864 — 11 October 1939**
 
 ![](../assets/david-john-garland.jpg){ width="27%" } ![](../assets/anzac-day-ribbon-1916.jpg){ width="20%" }
 
-<small>[Canon David John Garland - in uniform](https://commons.wikimedia.org/w/index.php?curid=47014045) by Unknown author, John Oxley Library, State Library of Queensland, Public Domain</small>*
-
+<small>[Canon David John Garland - in uniform](https://commons.wikimedia.org/w/index.php?curid=47014045) by Unknown author, John Oxley Library, State Library of Queensland, Public Domain</small>*<br>
 <small>[Anzac Day 1916 fundraising ribbon](https://www.awm.gov.au/collection/C1244262), Australian War Memorial, used under the [CC BY-NC AU 3.0](https://creativecommons.org/licenses/by-nc/3.0/au/) licence</small>*
  
 Learn more: 
