@@ -42,7 +42,8 @@ Choose a walk from the list below.
 ## Professions
 
 - [All the world’s a stage][actors]
-- [Anchors Aweigh!][anchors-aweigh] - A Maritime walk through Toowong Cemetery.  
+- [Anchors Aweigh!][anchors-aweigh] - A Maritime walk through Toowong Cemetery. 
+- [Men of the Royal Navy][rn]  
 - [The Artists Trail][artists]
 - [In their caring hands][nurses] - A heritage trail to commemorate the role of nurses, doctors and health professionals. 
 - [Lest We Forget][lest-we-forget]
@@ -108,3 +109,4 @@ Choose a walk from the list below.
 [children]: ../assets/guides/children.pdf
 [bcc-walk-1]: bcc-walk-1.md
 [bcc-walk-2]: bcc-walk-2.md
+[rn]: ../assets/guides/men-of-the-royal-navy.pdf

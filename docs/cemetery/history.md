@@ -153,11 +153,15 @@ In April 1974 the Cemetery was full with all plots sold. The Brisbane City Counc
 
 Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. Intervention in 1979 saw an end to the organised vandalism.  The Cemetery reopened in 1998 with approximately 450 plots for sale. 
 
+<!-- 
+
 ==Photo of a Council letter?==
 
 ## 1996 Friends of Toowong Cemetery formed 
 
 ==Darcy to provide the FOTC origin story. Cr. Judy Magub first President. Judy was the councillor for the Toowong ward since it was formed in 1994 and she retired in 2007.==
+
+-->
 
 ## 2001 Federation Pavilion
 
