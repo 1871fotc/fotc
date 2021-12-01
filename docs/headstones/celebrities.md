@@ -12,20 +12,25 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 
 [![6-12-28][6-12-28]{ width="32%" }][Harry Potter] [![28-43-3][2]{ width="32%" }][James Bond]  [![13-59-8][3]{ width="32%" }][James Kirk]
 
-[![pp-ss-gg][4]{ width="32%" }][Ella Fitzgerald] [![pp-ss-gg][5]{ width="32%" }][John Lennon] [![pp-ss-gg][6]{ width="32%" }][George Harrison]  
+**Harry Potter** (6‑12‑28), **James Bond** (28‑43‑3), **James Kirk** (13‑59‑8)
 
-[![pp-ss-gg][7]{ width="32%" }][Julius Caesar] [![pp-ss-gg][8]{ width="32%" }][Richard Nixon] [![pp-ss-gg][9]{ width="32%" }][James Carter]  
+[![20-34-13][4]{ width="32%" }][Ella Fitzgerald] [![1-84-12][5]{ width="32%" }][John Lennon] [![16-4-37][6]{ width="32%" }][George Harrison]  
+
+**Ella Fitzgerald** (20‑34‑13), **John Lennon** (1‑84‑12), **George Harrison** (16‑4‑37)
+
+[![1-121-36][7]{ width="32%" }][Julius Caesar] [![27-1-11][8]{ width="32%" }][Richard Nixon] [![7A-134-8/9][9]{ width="32%" }][James Carter]  
  
+**Julius Caesar** (1‑121‑36), **Richard Nixon** (27‑1‑11), **James 'Jimmy' Carter** (7A‑134‑8/9)
 
-[![pp-ss-gg][10]{ width="32%" }][Richard Harris] [![pp-ss-gg][11]{ width="32%" }][James Stewart] [![pp-ss-gg][12]{ width="32%" }][Susan Boyle]  
+[![23-11-4/5][10]{ width="32%" }][Richard Harris] [![2-39-19][11]{ width="32%" }][James Stewart] [![28-54-25][12]{ width="32%" }][Richard Powell]  
 
-[![pp-ss-gg][13]{ width="32%" }][Michael Cain] [![pp-ss-gg][14]{ width="32%" }][Ronald Corbett] [![pp-ss-gg][15]{ width="32%" }][Sid James]  
-  
-  
+**Richard Harris** (23‑11‑4/5), **James Stewart** (2‑39‑19), **Richard Powell** (28‑54‑25)
+
+[![26-25-6][13]{ width="32%" }][Michael Cain] [![7A-113-12/13][14]{ width="32%" }][Ronald Corbett] [![18-130-28][15]{ width="32%" }][Sid James]  
+
+**Michael Cain** (26‑25‑6), **Ronald 'Ronnie' Corbett** (7A‑113‑12/13), **Sidney 'Sid' James** (18‑130‑28)
+
 <!-- links -->
-
-[pp-ss-gg]: ../assets/404-16x9.png "Missing headstone photo"
-
 
 [Harry Potter]: https://en.wikipedia.org/wiki/Harry_Potter
 [6-12-28]: ../assets/harry-potter-16x9.jpg "Harry Potter headstone 6-12-28"
@@ -66,11 +71,12 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 [Michael Cain]: https://en.wikipedia.org/wiki/Michael_Caine
 [13]: ../assets/404-16x9.png "Michael Cain headstone 26-25-6"
 
-[Sid James]: https://en.wikipedia.org/wiki/Sid_James   
-[14]: ../assets/404-16x9.png "Sidney 'Sid' James headstone 18-130-28"
-
 [Ronald Corbett]: https://en.wikipedia.org/wiki/Ronnie_Corbett 
-[15]: ../assets/404-16x9.png "Ronald 'Ronnie' Corbett headstone 7A-113-12/13"
+[14]: ../assets/404-16x9.png "Ronald 'Ronnie' Corbett headstone 7A-113-12/13"
+
+[Sid James]: https://en.wikipedia.org/wiki/Sid_James   
+[15]: ../assets/404-16x9.png "Sidney 'Sid' James headstone 18-130-28"
+
 
 
 <!-- [Alice Fay]: -->

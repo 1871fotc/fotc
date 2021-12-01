@@ -41,7 +41,7 @@ theme:
 #      tip: fontawesome/regular/question-circle
   custom_dir: overrides
   features:
-  - announce.dismiss
+#  - announce.dismiss
   - navigation.instant
   - navigation.tracking
   - navigation.top
