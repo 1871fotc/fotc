@@ -89,7 +89,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | IOOF    | Independent Order of Odd Fellows                             | Friendly Society | pp-ss-gg           |
 | IOR     | Independent Order of Rechabites                              | Temperance       | pp-ss-gg           |
 | LOI     | [Loyal Orange Institute][LOI]                                |                  | pp-ss-gg           |
-| MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society | pp-ss-gg           |
+| MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society | 9-16-9           |
 | NIOOF   | National Independent Order of Odd Fellows                    | Friendly Society | pp-ss-gg           |
 | ODT     | Order of the Daughters of Temperance                         | Temperance       | pp-ss-gg           |
 | OES     | Order of the Eastern Star                                    | Friendly Society | pp-ss-gg           |
@@ -107,8 +107,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
     Have you found the location of an Acronym? [Contact us](../about/index.md#contact-us) with a photo and the details. 
 
-![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  
-
+![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }
     
 ## Today
 
@@ -143,3 +142,4 @@ Harwood, J. *The Freemasons* London, Hermes House, 2006
 [UGL]: https://uglq.org.au
 
 [1-29-8]: ../assets/sign-aof.jpg "AOF - William Wayte Headstone 1-29-8"
+[9-16-9]:  ../assets/muioof-william-thomas-birkbeck-ppcm.jpg "MUIOOF 9-16-9"
