@@ -17,9 +17,9 @@ hide:
 
 ???+ Example "Directions" 
 
-    Start ...
+    Start at ... and follow these walking directions to arrive at the grave of...
     
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/joseph-watters.md"
 
@@ -27,7 +27,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/watkin-llewellyn-whitaker.md"
 
@@ -35,7 +35,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/james-kirk.md"
 
@@ -43,7 +43,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/thomas-lodge-murray-prior.md"
 
@@ -51,7 +51,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/john-stephen-ferriter.md"
 
@@ -59,7 +59,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/william-leworthy-goode-drew.md"
 
@@ -67,7 +67,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 <!-- Done to here -->
 
@@ -78,7 +78,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/john-forrest-haymen.md"
 
@@ -86,7 +86,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/william-henry-browne.md"
 
@@ -94,7 +94,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/ian-chesborough-rose-macdonald.md"
 
@@ -102,7 +102,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/arthur-lowe.md"
 
@@ -110,7 +110,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/john-cornish-pentecost.md"
 
@@ -118,7 +118,7 @@ hide:
 
     Walking directions...
 
-    ![](../assets/404-16x9.jpg){ width="15%" } 
+    ![](../assets/404-16x9.png){ width="15%" } 
 
 --8<-- "snippets/alexander-hastings-gruer.md"
 
@@ -130,7 +130,7 @@ hide:
 ## Sources
 
 - ‘BDM Queensland Index Search’, The State of Queensland (Department of Justice and Attorney-General), 1995-2013
-- Trove, Digitised Newspapers and More (2016) 
+- Trove, Digitised Newspapers and more (2016) 
 - ancestry.com.
 - Royal Navy records UK
 - Peter Collins CGMM
@@ -139,3 +139,7 @@ hide:
 ## Acknowledgements
 
 Authors: Darcy and Lyn Maddock
+
+<!-- include site-wide abbreviations -->
+
+--8<-- "snippets/abbreviations.md"

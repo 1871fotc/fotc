@@ -109,4 +109,5 @@ Choose a walk from the list below.
 [children]: ../assets/guides/children.pdf
 [bcc-walk-1]: bcc-walk-1.md
 [bcc-walk-2]: bcc-walk-2.md
-[rn]: ../assets/guides/men-of-the-royal-navy.pdf
+[rnx]: ../assets/guides/men-of-the-royal-navy.pdf
+[rn]: men-of-the-royal-navy.md
