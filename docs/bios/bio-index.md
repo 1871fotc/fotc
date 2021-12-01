@@ -1,6 +1,6 @@
 # Biography Index
 
-**Read the stories of the people interred at Toowong Cemetery**. The index below lists people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
+**Read the stories of the people interred at Toowong Cemetery**. The index below lists some of the people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
 
 ??? example "How to use the Index" 
 
@@ -20,7 +20,7 @@
 
 ### Index
 
-| Given Names          | Last Name                                 | Born       | Died       | Location | 
+| Given Names          | Last Name                                 | Born       | Died       | Location   | 
 | ----------:          | :--------                                 | :--------- | :--------- | :--------- | 
 | David John           | **[Garland](david-john-garland.md)**      | 1864-10-4  | 1939-10-11 | 1-50a-9    | 
 | Arthur               | **[Rutledge](arthur-rutledge.md)**        | 1843-08-29 | 1917-02-08 | 13‑49‑15   | <!-- federation -->
