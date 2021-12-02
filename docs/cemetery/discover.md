@@ -16,7 +16,7 @@ search:
 If you're driving to the cemetery, it has two entrances:
 
 - The main entrance (above), at **[Frederick Street, Toowong](https://www.google.com/maps/place/Toowong+Cemetery/@-27.4772749,152.9818283,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!8m2!3d-27.4772714!4d152.9839608)**,  can only be entered via a slip road beside the roundabout, approaching from the west.
-- The back entrance, **[opposite 26 Richer St, Toowong](https://www.google.com/maps/place/25+Richer+St,+Toowong+QLD+4066/@-27.4737507,152.9767263,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150dd31b12cc5:0xc3a1deb2fe09484!8m2!3d-27.4737555!4d152.978915)** is much easier to access. 
+- The back entrance, **[opposite 26 Richer Street, Toowong](https://www.google.com/maps/place/25+Richer+St,+Toowong+QLD+4066/@-27.4737507,152.9767263,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150dd31b12cc5:0xc3a1deb2fe09484!8m2!3d-27.4737555!4d152.978915)** is much easier to access. 
 
 Parking is available inside the cemetery along the roads. Please park on the left side of two‑way roads where possible.
 
