@@ -106,7 +106,6 @@ Some road names have recently been changed to the names of notable people interr
 
 [main-entrance]: ../assets/main-entrance.jpg "Toowong Cemetery Main Entrance"
 
-
 <!-- include site-wide abbreviations -->
 
 --8<-- "snippets/abbreviations.md"
