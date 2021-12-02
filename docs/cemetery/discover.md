@@ -59,7 +59,6 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 - veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14th Avenue) 
 - at the end, turn right into Emma Miller Avenue (previously 8th Avenue) to arrive behind Canon Garland Place, where you can park on the side of the road. 
 
-
 ## Map
 
 Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. Before you start, review the map.
