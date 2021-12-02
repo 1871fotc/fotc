@@ -32,6 +32,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 - **Archibald Watson**, the second Lord Mayor of the City of Brisbane, 1931
 
+<!--
 ??? Warning "To Do" 
 
     - Check walking order
@@ -40,7 +41,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     - Add headstone photos
     - Create Bio pages
     - Add Bios to [Index](../bios/bio-index.md)
-    - Decide if link is needed to [Notes](http://www.fotc.org.au/subset/brisbane_mayors.pdf)
+-->
 
 ???+ Example "Directions" 
 
@@ -110,7 +111,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![missing picture](../assets/richard-symes-warry.jpg){ width="100" }
+    ![](../assets/richard-symes-warry.jpg){ width="100" }
 
 
 --8<-- "snippets/richard-symes-warry.md"
@@ -119,7 +120,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![missing picture](../assets/richard-southall.jpg){ width="100" }
+    ![](../assets/richard-southall.jpg){ width="100" }
 
 
 --8<-- "snippets/richard-southall.md"
@@ -146,7 +147,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![poke](../assets/william-pettigrew.jpg){ width="100" }
+    ![](../assets/william-pettigrew.jpg){ width="100" }
 
 
 --8<-- "snippets/william-pettigrew.md"
@@ -155,7 +156,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - needs picture
               
-    ![x](../assets/archibald-watson.jpg){ width="100" }
+    ![](../assets/archibald-watson.jpg){ width="100" }
 
 
 --8<-- "snippets/archibald-watson.md"
@@ -171,7 +172,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
       - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
       - Walk into Portion 7a about 4 sections, and you'll find...
 
-    ![missing picture](../assets/william-macnaughton-galloway-headstone.jpg){ width="100" }
+    ![](../assets/william-macnaughton-galloway-headstone.jpg){ width="100" }
 
 --8<-- "snippets/william-macnaughton-galloway.md"
 
@@ -183,3 +184,11 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 - [Brisbane's Lord Mayors](https://www.brisbane.qld.gov.au/about-council/council-information-and-rates/council-history/brisbanes-lord-mayors)
 - [List of mayors and lord mayors of Brisbane](https://en.wikipedia.org/wiki/List_of_mayors_and_lord_mayors_of_Brisbane)
+
+
+<div class="noprint" markdown="1">
+## Brochure
+
+**[Download this walk](../assets/guides/brisbane-mayors.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+
+</div>

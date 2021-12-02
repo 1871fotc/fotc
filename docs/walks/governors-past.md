@@ -6,6 +6,8 @@ hide:
 
 # Governors Past Trail
 
+<!--
+
 ??? Warning "To Do" 
 
     - Cover image
@@ -17,6 +19,8 @@ hide:
     - Create Bio pages
     - Add Bios to [Index](../bios/bio-index.md)
     - Decide if link is needed to [notes](http://www.fotc.org.au/subset/governors_past.pdf)
+    
+-->
 
 ## Colonel Samuel Wensley Blackall <small>(Mount Blackall)</small>
 
@@ -84,3 +88,11 @@ Cooper was born on 12 May 1846 at Lake George, New South Wales, son of Francis C
 ## Further Reading
  
 Forrest, Peter and Sheila Forrest, *[All for Queensland: The Governors and the People](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21131046020002061)*, Darwin, Shady Tree, 2009
+
+
+<div class="noprint" markdown="1">
+## Brochure
+
+**[Download this walk](../assets/guides/governors-past.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+
+</div>

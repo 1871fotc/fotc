@@ -7,4 +7,4 @@ He was born in 1873 in Walsall, Staffordshire. He was a saddlemaker and the stor
 
 He was discovered by William Morris who suggested he go with him to New York. His wife did not want to go, but he went regardless! He sang Shubert‑Brady revivals on Broadway where he played many leading roles until 1915. He was with J. C. Williamson’s company and toured Australia. He came to Australia with Nell Flemming and played in The Follies. 
 
-The National Library of Australia has a collection of sheet music dedicated to him.
+The National Library of Australia has a [collection of sheet music dedicated to him](https://catalogue.nla.gov.au/Search/Home?lookfor=%22Arthur+Aldridge%22&type=all&limit%5B%5D=&submit=Find).

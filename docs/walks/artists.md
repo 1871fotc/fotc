@@ -4,7 +4,9 @@ hide:
   - navigation
 ---
 
-# The Artists Trail
+# The Artists 
+
+<!--
 
 ??? Warning "To Do" 
 
@@ -21,40 +23,66 @@ hide:
     - walking directions
     
     ![image of headstone](le-fevre-james-cranstone.jpg)
-    
+
+-->
+
+
 --8<-- "snippets/le-fevre-james-cranstone.md"
+
+<!--
 
 ??? Example "Directions" 
 
     - walking directions
     
     ![image of headstone](isaac-walter-jenner.jpg)
-    
+
+-->
+
 --8<-- "snippets/isaac-walter-jenner.md"
+
+<!--
 
 ??? Example "Directions" 
 
     - walking directions
     
     ![image of headstone](richard-godfrey-rivers.jpg)    
-    
+
+-->
+
 --8<-- "snippets/richard-godfrey-rivers.md"
+
+<!--
 
 ??? Example "Directions" 
 
     - walking directions
     
     ![image of headstone](eliza-and-edwin-sheldon.jpg)   
-    
+
+-->
+
 --8<-- "snippets/eliza-jeanettie-sheldon.md"
+
+<!--
 
 ??? Example "Directions" 
 
     - walking directions back to the start
 
+-->
+
 ## Source
 
-- Bradbury, Keith, *Sheldon, Eliza Jeanettie (1885 - 1974)*, Australian Dictionary of Biography, Volume 16, Melbourne University Press, 2002, pp 227-228.
-- Hogan, Janet, *Rivers, Richard Godfrey (1859? - 1925)*, Australian Dictionary of Biography, Volume 11, Melbourne University Press, 1988, pp 397-398.
-- Maynard, Margaret, *Jenner, Isaac Walter (1837 - 1902)*, Australian Dictionary of Biography, Volume 9, Melbourne University Press, 1983, p. 480.
+- Bradbury, Keith, *Sheldon, Eliza Jeanettie (1885-1974)*, Australian Dictionary of Biography, Volume 16, Melbourne University Press, 2002, pp 227-228.
+- Hogan, Janet, *Rivers, Richard Godfrey (1859?-1925)*, Australian Dictionary of Biography, Volume 11, Melbourne University Press, 1988, pp 397-398.
+- Maynard, Margaret, *Jenner, Isaac Walter (1837-1902)*, Australian Dictionary of Biography, Volume 9, Melbourne University Press, 1983, p. 480.
 - Smith, Donald, *Lefevre James Cranstone : his life and art*, Richmond, Virginia : Brandylane Publishers, 2004.
+
+<div class="noprint" markdown="1">
+## Brochure
+
+**[Download this walk](../assets/guides/artists.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+
+</div>

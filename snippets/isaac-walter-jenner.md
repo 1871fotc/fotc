@@ -1,7 +1,7 @@
 
 ## Isaac Walter Jenner <small>(5‑43‑16)</small>
 
-Jenner was born on 18 March 1837 at Brighton, Sussex, son of Thomas Jenner, blacksmith, and his wife Harriet, née Walter. Without known formal education, he worked on oyster boats and signed on for a voyage in Arctic waters. In March 1855 he joined the Royal Navy, serving during the Crimean War in the Black Sea. Discharged in 1865, he learned to paint and worked as a landscape and marine painter in 1873‑79 at Brighton and at Hove in 1880‑83. He exhibited at Brighton and once at the Royal Academy. He decided to migrate and reached Brisbane by R.M.S. Roma on 19 September 1883.
+Jenner was born on 18 March 1837 at Brighton, Sussex, son of Thomas Jenner, blacksmith, and his wife Harriet, nee Walter. Without known formal education, he worked on oyster boats and signed on for a voyage in Arctic waters. In March 1855 he joined the Royal Navy, serving during the Crimean War in the Black Sea. Discharged in 1865, he learned to paint and worked as a landscape and marine painter in 1873‑79 at Brighton and at Hove in 1880‑83. He exhibited at Brighton and once at the Royal Academy. He decided to migrate and reached Brisbane by R.M.S. Roma on 19 September 1883.
 
 Jenner made a living by selling paintings, holding art unions and teaching at Miss O'Connor's School, Oxley, and at the Brisbane Technical College in 1887‑89. Although he travelled in New South Wales and New Zealand in 1889, he exhibited only in Brisbane and at the Centennial International Exhibition of 1888‑89 in Melbourne. He had helped to found the Queensland Art Society in 1887. He moved his studio in 1890 to Montrose Road, Taringa, where he lived and worked for the rest of his life.
 

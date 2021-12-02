@@ -8,19 +8,13 @@ search:
 
 # Self-Guided Walks
 
-The Friends of Toowong Cemetery have researched and published a large collection of themed self-guided walks. 
-
-Choose a walk from the list below.
+The Friends of Toowong Cemetery have researched and published a large collection of themed self-guided walks. Choose a walk from the list below.
 
 ???+ example "Self-guided walk improvements" 
 
-    Some walks are are A4 pdf files, designed to be printed and folded in half to make an A5 brochure. 
+    We're progressively improving the self-guided walk format by converting them to a mobile-friendly format,  adding maps, walking instructions, and photos. Mobile-friendly walks are shown in bold.
 
-    We're progressively the self-guided walk format by:
-     
-    - converting them to a mobile-friendly format 
-    - adding maps, walking instructions, and photos
-    
+    Some walks are A4 pdf files, designed to be printed and folded in half to make an A5 brochure. 
 
 <!-- 
 
@@ -39,23 +33,21 @@ Choose a walk from the list below.
 
 ## Politics
 
-- **[The Federation Trail][federation-trail]** - A walk to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
-- **[Labor Luminaries Trail][labor-luminaries]** - A walk recognising people involved in the Labor Movement 
-- [Brisbane Mayors Trail][brisbane-mayors]
-- [Governors Past Trail][governors-past]
+- **[The Federation Trail][federation-trail]** - a walk to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery
+- **[Governors Past][governors-past]** - visit some of Queensland's earliest Governors
+- [Brisbane Mayors][brisbane-mayors] - learn about 14 Brisbane Mayors from 1859 to 1931
+- **[Labor Luminaries][labor-luminaries]** - a walk recognising people involved in the Labor movement 
 
 ## Professions
 
-- [All the world’s a stage][actors]
-- [Anchors Aweigh!][anchors-aweigh] - A Maritime walk through Toowong Cemetery. 
-- [Men of the Royal Navy][rn]  
-- [The Artists Trail][artists]
-- [In their caring hands][nurses] - A heritage trail to commemorate the role of nurses, doctors and health professionals. 
+- **[All the world’s a stage][actors]** - Actors and performers buried in Toowong Cemetery
+- **[Anchors Aweigh!][anchors-aweigh]** - a Maritime walk through Toowong Cemetery
+- **[The Artists][artists]**
+- [In their caring hands][nurses] - commemorate the role of nurses, doctors and health professionals
 - [Lest We Forget][lest-we-forget]
 - [Lest We Forget - Navy Walk][lest-we-forget-navy]
-
 <!-- - [Toowong Cemetery Rememberance Walk][rememberance-walk] - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
-
+- **[Men of the Royal Navy][rn]** 
 - [The Thin Blue Line][thin-blue-line] - Queensland Colonial Policing.
 - [Undertakers Underground Heritage Trail][undertakers-underground]
 
@@ -88,24 +80,30 @@ Choose a walk from the list below.
 
 <!-- links to pages or pdfs -->
 
-[undertakers-underground]: ../assets/guides/undertakers-underground.pdf
-<!-- [undertakers-underground]: undertakers-underground.md -->
+[federation-trail]: federation-trail.md
+[governors-past]: governors-past.md
+[brisbane-mayors]: ../assets/guides/brisbane-mayors.pdf
+[labor-luminaries]: labor-luminaries.md
+
+[actors]: all-the-worlds-a-stage.md 
+[anchors-aweigh]: anchors-aweigh.md
+[artists]: artists.md
+
+[rn]: men-of-the-royal-navy.md
+
+[undertakers-underground]: undertakers-underground.md 
 [nurses]: ../assets/guides/in-their-caring-hands.pdf
+[nursesx]: in-their-caring-hands.md
 [lest-we-forget]: ../assets/guides/lest-we-forget.pdf
 [lest-we-forget-navy]: ../assets/guides/lest-we-forget-navy.pdf
 [rememberance-walk]: ../assets/guides/rememberance-walk.pdf
-[anchors-aweigh]: ../assets/guides/anchors-aweigh.pdf
 [thin-blue-line]: ../assets/guides/thin-blue-line.pdf
-[actors]: ../assets/guides/actors.pdf
-[artists]: ../assets/guides/artists.pdf
+<!-- [actors]: ../assets/guides/actors.pdf -->
 [founding-fathers]: ../assets/guides/founding-fathers.pdf
 [notable-women]: ../assets/guides/notable-women.pdf
 [toowong-identities-a]: ../assets/guides/toowong-identities-a.pdf
 [toowong-identities-b]: ../assets/guides/toowong-identities-b.pdf
-[federation-trail]: federation-trail.md
-[governors-past]: ../assets/guides/governors-past.pdf
-[brisbane-mayors]: ../assets/guides/brisbane-mayors.pdf
-[labor-luminaries]: labor-luminaries.md
+
 [convicts]: ../assets/guides/convicts.pdf
 [colonial-conflicts]: ../assets/guides/colonial-conflicts.pdf
 [irish-trail]: ../assets/guides/irish-trail.pdf
@@ -114,5 +112,3 @@ Choose a walk from the list below.
 [children]: ../assets/guides/children.pdf
 [bcc-walk-1]: bcc-walk-1.md
 [bcc-walk-2]: bcc-walk-2.md
-[rnx]: ../assets/guides/men-of-the-royal-navy.pdf
-[rn]: men-of-the-royal-navy.md
