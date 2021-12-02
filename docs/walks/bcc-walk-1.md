@@ -1,13 +1,10 @@
 ---
 hide:
   - navigation
-search:
-  exclude: true
+
 ---
 
 # Toowong Cemetery Tour One 
-
-## Conditions of entry
 
 Part of the appeal and character of the old Toowong Cemetery is its hills and valleys, dotted with shady trees. To ensure you enjoy your visit we encourage visitors to wear comfortable shoes, use sun protection, carry water and above all, enjoy this pleasant and informative walk through a chapter of Brisbane’s history.
 
@@ -43,7 +40,7 @@ Before starting, you may like to download the [Toowong Cemetery map](http://www.
 
     Begin the heritage trail at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
     
-    ![](../assets/404.png){ width="10%" } 
+    ![](../assets/federation-pavilion.jpg){ width="10%" } 
 
 
 <!-- insert photo -->

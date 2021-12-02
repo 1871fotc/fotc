@@ -12,10 +12,15 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 Choose a walk from the list below.
 
-???+ example "Walk formats" 
+???+ example "Self-guided walk improvements" 
 
-    - :fontawesome-solid-mobile-alt: Walks in bold use our new mobile-friendly web format 
-    - :fontawesome-solid-book-open: Other walks are A4 pdf files, designed to be printed and folded in half to make an A5 brochure. They are in the process of being converted to the new format.
+    Some walks are are A4 pdf files, designed to be printed and folded in half to make an A5 brochure. 
+
+    We're progressively the self-guided walk format by:
+     
+    - converting them to a mobile-friendly format 
+    - adding maps, walking instructions, and photos
+    
 
 <!-- 
 
