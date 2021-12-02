@@ -16,7 +16,7 @@ See if you can locate Peter Jackson's grave using the Portion and Section number
 
 Portion numbers are shown on signs throughout the cemetery.
 
-![Portion Sign](../assets/portion-sign.jpg){ width="100%" }
+![Portion Sign](../assets/portion-sign.jpg){ width="100%" loading=lazy }
 
 *<small>Portion 10 sign post.</small>*
 
@@ -52,13 +52,13 @@ Information on the official burial records that can be updated, includes:
 
 Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a person's marker to the appropriate grave. 
 
-![](../assets/markers.jpg){ width="100%" }
+![](../assets/markers.jpg){ width="100%" loading=lazy }
 
 *<small>Grave markers found on the grass, separated from their grave.</small>*
 
 To map a marker to a grave, you need to look up old portion books. For example Portion 1, Section 1, Grave 1 maps to Marker XI 755. 
 
-![](../assets/portion-ledger.png){ width="100%" }
+![](../assets/portion-ledger.png){ width="100%" loading=lazy }
 
 *<small>Sample Portion Book page. © Brisbane City Council</small>*
 

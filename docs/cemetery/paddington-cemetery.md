@@ -17,13 +17,13 @@ From Brisbane City Council's recount of the history of the cemetery:
  
 Paddington Cemetery operated from 1844 to 1870 and was Brisbane Town's main cemetery. Like most Victorian cemeteries the grounds were divided into sections based on religious denominations:
  
-Episcopalian (Anglican)
-Wesleyan (Methodist)
-Roman Catholic
-Presbyterian
-Baptist
-Congregational
-Jewish
+- Episcopalian (Anglican)
+- Wesleyan (Methodist)
+- Roman Catholic
+- Presbyterian
+- Baptist
+- Congregational
+- Jewish
  
 There were also sections for heathens and paupers.
  

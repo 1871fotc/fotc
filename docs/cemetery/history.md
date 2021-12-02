@@ -19,7 +19,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 *<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
 
-![](../assets/Toowong-cemetery-map-photo.jpg){ width="96%" }  
+![](../assets/Toowong-cemetery-map-photo.jpg){ width="96%" loading=lazy }  
 
 *<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
 *<small>Series 46 Film BCC2 Frame 34691, 31 May 1946  — Brisbane City Council. Frederick St is the straight road on the right, running top to bottom.</small>*
@@ -33,7 +33,7 @@ Esther Roberts, mother of William Henry Roberts, was the first teacher of girls 
 
 It has since been lost to weathering. After the death of their son, the Roberts family returned to Sydney in 1834.
 
-![](../assets/children-on-bank.jpg){ width="96%" }  
+![](../assets/children-on-bank.jpg){ width="96%" loading=lazy }  
 
 *<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell  and Tank Streets. Source unknown.</small>*
 
@@ -43,7 +43,7 @@ Jane Pittard was the infant daughter of John Pittard, late Color Sergeant of the
 
 These are the oldest surviving headstones and footstones in Queensland.
 
-![](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
+![](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" loading=lazy }  
 *<small>Pioneer Children's Graves (13-10-4).</small>*
 
 <!-- 
@@ -77,7 +77,7 @@ The Postmaster in 1844 was George M. Slade.
 
 Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglected North Brisbane Burial Grounds (also known as  [Paddington Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery)) into a park and sports field. 
 
-![](../assets/paddington-cemetery-goat-1910.png){ width="96%" } 
+![](../assets/paddington-cemetery-goat-1910.png){ width="96%" loading=lazy } 
 
 *<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) - Queensland State Archives.</small>*
 
@@ -91,7 +91,7 @@ During the redevelopment of Suncorp Stadium in 2001/02 part of the former cemete
 
 --> 
 
-![](../assets/paddington-memorial.jpg){ width="96%" } 
+![](../assets/paddington-memorial.jpg){ width="96%" loading=lazy } 
 
 *<small>Paddington Memorial, Portion 17 Section 1.</small>*
 
@@ -106,7 +106,7 @@ The Paddington Memorial commemorates people originally buried in the North Brisb
 
 Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*" was a selling point. The Toowong Tram stopped near the main cemetery gates.
 
-![](../assets/chermside-park.jpg){ width="96%" }  
+![](../assets/chermside-park.jpg){ width="96%" loading=lazy }  
 
 *<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now named Couldrey St. </small>*
 
@@ -131,7 +131,7 @@ Under the guidance of Garland the Anzac Day service at Toowong Cemetery grew in 
 
 Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at Portion 1, Section 50A, Grave 9, overlooking "Soldiers' Corner".
 
-![](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
+![](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" loading=lazy }  
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
@@ -142,7 +142,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 -->
 
-![](../assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" }  
+![](../assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" loading=lazy }  
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
@@ -167,7 +167,7 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
 The [Federation Pavilion](../about/federation-pavilion.md) commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
-![](../assets/federation-pavillion.jpg){ width="96%" }  
+![](../assets/federation-pavillion.jpg){ width="96%" loading=lazy }  
 
 ## 2006 Archaeological Digs
 
@@ -175,14 +175,14 @@ In 2006, in conjunction with the University of Queensland Archaeology Department
 
 In 2011, while staff prepared a new grave, the headstone of a John Peel was discovered. Brisbane City Council had no record of John Pell and asked Friends of Toowong Cemetery for help. It was discovered that the headstone was one of 504 missing headstones from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for roadbase. This was not entirely true as many headstones have been found in archaeological digs between 2011-2016. 
 
-![](../assets/lost-and-found.jpg)
+![](../assets/lost-and-found.jpg){ width="96%" loading=lazy }  
 
 
 ## 2011 Governor Blackall's funeral re-enactment
 
 On 24 July 2011, 140 years after Governor Blackall was buried, a [re-enactment of the funeral](../about/140-commemoration.md) was performed.
 
-![](../assets/140-commemoration.png){ width="96%" }  
+![](../assets/140-commemoration.png){ width="96%" loading=lazy }  
 
 ## Today
 
