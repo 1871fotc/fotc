@@ -69,9 +69,6 @@ hide:
 
     ![](../assets/404-16x9.png){ width="15%" } 
 
-<!-- Done to here -->
-
-
 --8<-- "snippets/john-vivian-williams.md"
 
 ??? Example "Directions" 
@@ -122,7 +119,6 @@ hide:
 
 --8<-- "snippets/alexander-hastings-gruer.md"
 
-
 ??? Example "Directions" 
 
     Retrace your steps back to the starting point.
@@ -134,7 +130,6 @@ hide:
 - ancestry.com.
 - Royal Navy records UK
 - Peter Collins CGMM
-
 
 ## Acknowledgements
 

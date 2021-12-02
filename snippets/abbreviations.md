@@ -13,3 +13,5 @@
 *[CGMM]: Canon Garland Memorial Medal
 
 *[CMG]: Companion (of the Order Of) St Michael and St George
+
+*[H.M.S.]: His (or Her) Majesty's Service
