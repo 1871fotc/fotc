@@ -44,8 +44,8 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 
 If you enter main entrance through the front gates, you'll find: 
 
-- Canon Garland Place named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for **[guided heritage tours](../guided-tours.md)** and most **[self-guided walks](../walks/index.md)**.
-- the [Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) - staff can answer your enquiries and help to locate graves and ashes memorial sites.
+- Canon Garland Place named after **[Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278)**. The Flagpole here is the departure point for **[guided heritage tours](../guided-tours.md)** and most **[self-guided walks](../walks/index.md)**.
+- the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)** - staff can answer your enquiries and help to locate graves and ashes memorial sites.
 - a **[Museum](museum.md)** operated by the Friends of Toowong Cemetery. 
 - toilets, the only ones available in the cemetery.
 
@@ -100,7 +100,7 @@ Some road names have recently been changed to the names of notable people interr
 
 !!! question "Volunteer"
 
-    Unfortunately signs are often vandalised in the cemetery. If you find a damaged or missing sign, please take a photo and [report it to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)
+    Unfortunately signs are often vandalised in the cemetery. If you find a damaged or missing sign, please take a photo and **[report damaged signs to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)**
 
 <!-- Links -->
 
