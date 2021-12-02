@@ -18,4 +18,4 @@
 
 *[AIF]: Australian Imperial Force
 
-* [Mt Coot-tha] Mt Coot-tha was the home of the Yugara Aboriginal people who came to the area to collect 'ku-ta' (honey) that was produced by the native stingless bee.
+* [Mt Coot-tha]: Mt Coot-tha was the home of the Yugara Aboriginal people who came to the area to collect 'ku-ta' (honey) that was produced by the native stingless bee.

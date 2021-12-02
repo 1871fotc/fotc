@@ -63,7 +63,6 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. Before you start, review the map.
 
-
 <!-- Map -->
 [![](../assets/toowong-cemetery-map.png){ loading=lazy }][map]
 
