@@ -107,8 +107,11 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
     Have you found the location of an Acronym? [Contact us](../about/index.md#contact-us) with a photo and the details. 
 
-![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }
-    
+![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823)
+
+<!-- PPCM Permanent President Courts Martial https://www.awm.gov.au/learn/glossary/p -->
+
+
 ## Today
 
 Some of these organisations have evolved to become financial services companies, such as: 
@@ -141,5 +144,6 @@ Harwood, J. *The Freemasons* London, Hermes House, 2006
 [UAOD]: https://en.wikipedia.org/wiki/United_Ancient_Order_of_Druids "UAOD on Wikipedia"
 [UGL]: https://uglq.org.au
 
-[1-29-8]: ../assets/sign-aof.jpg "AOF - William Wayte Headstone 1-29-8"
-[9-16-9]:  ../assets/muioof-william-thomas-birkbeck-ppcm.jpg "MUIOOF 9-16-9"
+[1-29-8]: ../assets/sign-aof.jpg "William Wayte Headstone - Ancient Order of Foresters (1-29-8)"
+[eye-of-providence]: ../assets/eye-of-providence.jpg "The Eye of Providence (9-16-9)"
+[9-16-9]: ../assets/muioof-william-thomas-birkbeck-ppcm.jpg "William Thomas Birkbeck - Manchester Unity Independent Order of Odd Fellows (9-16-9)"
