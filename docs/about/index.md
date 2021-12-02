@@ -32,7 +32,7 @@ The Friends of Toowong Cemetery have:
 - provided **[guided heritage tours](../guided-tours.md)** since 1996.
 - published: 
     - **[Self‑guided walks](../walks/index.md)** 
-    - **Resource Manual: a guide to visiting Toowong Cemetery**, which is recommended for teachers of school groups visiting the cemetery. It is available <!-- at ==[Brisbane City Council Libraries](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries)==, the [Paddington Ward Office](https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/lord-mayor-and-councillors/ward-office-locations/paddington-ward), or --> for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
+    - **Toowong Cemetery resource manual : a guide for exploring the cemetery**, which is recommended for teachers of school groups visiting the cemetery. It is available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:71596/one), or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
     <!-- Not in https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat -->
     <!-- Why not publish the resource for free? -->
     - **[Colonel Samuel Wensley Blackall : 1809-1871](https://catalogue.nla.gov.au/Record/5581999)** to celebrate the 140th anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery and the internment of the first person buried there, Governor Samuel Wensley Blackall.

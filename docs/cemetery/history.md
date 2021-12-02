@@ -188,10 +188,10 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a [re-enactment o
 
 Today, the Friends of Toowong Cemetery and the Brisbane City Council work together to maintain and improve Toowong Cemetery. Together we have delivered improvements including:
 
-- The [Federation Pavilion](../about/federation-pavilion.md)
+- The **[Federation Pavilion](../about/federation-pavilion.md)**
 - Renaming the Cemetery Roads after notable people buried nearby
-- Reusing the old Sexton's office as the [Toowong Cemetery Museum](museum.md)
-- The Paddington Memorial, and [Headstone Symbology](../headstones/symbolism.md) display
+- Reusing the old Sexton's office as the **[Toowong Cemetery Museum](museum.md)**
+- The Paddington Memorial, and **[Headstone Symbology](../headstones/symbolism.md)** display
 - The Toowong Cemetery Rememberance Walk that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend. 
 
 **Toowong Cemetery is enjoyed by those who come to visit loved ones, walk their dog, exercise, or discover the history and stories inside.**
@@ -239,11 +239,12 @@ A survey of the layout of graves, reveal differences between many of the portion
 
 -->
 
-## Learn more about the cemetery's history
+## Learn more about Toowong Cemetery's history
 
 - **[Historic photos](http://onesearch.slq.qld.gov.au/primo-explore/search?query=any,contains,Toowong%20cemetery&tab=dt&search_scope=DT&vid=SLQ&mfacet=tlevel,include,online_resources,1)** from the State Library of Queensland.
 - **[Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery)** in the Queensland Heritage Register.
 - **[Toowong Cemetery citation](https://www.ww2places.qld.gov.au/place?id=2064)** on Queensland WWII Historic Places website.
+- **[Books about Toowong Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/results?qu=Toowong+Cemetery&qf=-ITYPE%09Item+Type%091%3AARCHIVES%09City+Archives+Collection&ac=ITYPE%09Item+Type%091%3ALOC-ST-REF%09Local+Studies+Reference+%7C%7C+1%3AREFERENCE%09Reference+Collection+%7C%7C+1%3ALOCSTUDIES%09Local+Studies+%7C%7C+1%3AARCHIVES%09City+Archives+Collection+%7C%7C+1%3ANONFICTION%09Non-Fiction&ac=ITYPE%09Item+Type%091%3ALOC-ST-REF%09Local+Studies+Reference+%7C%7C+1%3AREFERENCE%09Reference+Collection+%7C%7C+1%3ALOCSTUDIES%09Local+Studies+%7C%7C+1%3AARCHIVES%09City+Archives+Collection+%7C%7C+1%3ANONFICTION%09Non-Fiction)** in Brisbane City Council Libraries
 - **[Graveyard Games – Lang Park Cemetery](https://blogs.archives.qld.gov.au/2021/11/24/graveyard-games-lang-park-cemetery/)** by the Queensland State Archives
 - Read our **[stories of the people interred at Toowong Cemetery](../bios/bio-index.md)**.
 - Watch **[Darcy Maddock, President of Friends of the Toowong Cemetery, Talk History](https://www.youtube.com/playlist?list=PLv0V6xrruq2kcliEjK1Kus3O4gFPthNKz)**
