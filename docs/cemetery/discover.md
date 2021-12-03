@@ -28,7 +28,7 @@ If you're walking, in addition to the entries above, you can enter via:
 - Frederick Street gate (opposite Sleath Street) that leads onto Steel Rudd Avenue (previously 4th Avenue).
 - the many informal entries off Birdwood Terrace.
 
-![](../assets/pedestrian-ramp.jpg){ loading=lazy }
+![](../assets/pedestrian-ramp.jpg)
 
 *<small>Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road. <b>[Bus stop 17, Mt Coot-tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/2021-11-27?dateRedirect=False)</b> is nearby.</small>*
 
@@ -49,7 +49,7 @@ If you enter main entrance through the front gates, you'll find:
 - a **[Museum](museum.md)** operated by the Friends of Toowong Cemetery. 
 - toilets, the only ones available in the cemetery.
 
-![](../assets/flag-pole.jpg){ loading=lazy }
+![](../assets/flag-pole.jpg)
 
 *<small>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</small>*
 
@@ -64,7 +64,7 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. Before you start, review the map.
 
 <!-- Map -->
-[![](../assets/toowong-cemetery-map.png){ loading=lazy }][map]
+[![](../assets/toowong-cemetery-map.png)][map]
 
 *<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: The map shows old Road names.</small>*
 
