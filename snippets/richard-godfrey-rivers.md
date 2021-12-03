@@ -1,6 +1,6 @@
 ## Richard Godfrey Rivers <small>(12‑24‑4)</small>
 
-Rivers was born probably in 1859 at Plymouth, Devon, son of Richard Rivers, landed proprietor, and his wife Bertha, nee Harris. He studied at the Slade School of Fine Art, University College, London (1877‑83) receiving the prize for landscape painting in 1883 and exhibiting at the Royal Academy of Arts in 1884. In 1889 he came to Australia. He taught at Katoomba College, NSW, and then was appointed second art master at Brisbane Technical College (1890‑1910, part‑time 1910‑15). He soon emerged as leader of Brisbane's artistic community and the first artist member of the Queensland Club in 1891.
+Rivers was born probably in 1859 at Plymouth, Devon, son of Richard Rivers, landed proprietor, and his wife Bertha, née Harris. He studied at the Slade School of Fine Art, University College, London (1877‑83) receiving the prize for landscape painting in 1883 and exhibiting at the Royal Academy of Arts in 1884. In 1889 he came to Australia. He taught at Katoomba College, NSW, and then was appointed second art master at Brisbane Technical College (1890‑1910, part‑time 1910‑15). He soon emerged as leader of Brisbane's artistic community and the first artist member of the Queensland Club in 1891.
 
 Rivers also taught at his studio, at the Brisbane High School for Girls and at Brisbane Girls' Grammar School. Rivers was president of the Queensland Art Society in 1892‑1901 and 1904‑08. Largely through his efforts the Queensland National Art Gallery ultimately opened in 1895.
 

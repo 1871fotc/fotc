@@ -65,7 +65,7 @@ James Cowlishaw was an architect, newspaper director, trustee and politician. He
 
 Cowlishaw was Chairman of Directors of The Daily Telegraph for many years. Later his brother George, who is also buried in this grave, became Director of The Daily Telegraph for an unbroken period of 20 years from 1893 until his sudden death from a seizure on 6 January 1913. 
 
-Cowlishaw’s wife, Charlotte (nee Owen) was the second burial in the grave following her death in 1914.
+Cowlishaw’s wife, Charlotte (née Owen) was the second burial in the grave following her death in 1914.
 
 <!-- insert photo -->
 
@@ -211,7 +211,7 @@ A volunteer in the third Queensland Mounted Infantry Contingent to the South Afr
 
 ## John Turner <small>(1826-1900)</small>
 
-John Sargent Turner was born in Wangaroa, New Zealand, to Reverend Nathaniel Turner (1793‑1864), a Wesleyan Missionary (whose tomb lies behind this monument), and Anne Turner (nee Sargent). In 1852 John Turner migrated to Brisbane and opened the Brisbane branch of the Union Bank. In 1871 he relinquished his management position to join the established firm of George Raff and Company. Turner retired from business when his company dissolved in 1882. He was director of several businesses including Queensland Mercantile, the Australian Mutual Providence Society, the South Australian Mutual Providence Society and the South Australian Land and Mortgage Company. On 18 April 1878 he entered the Legislative Council where he remained until his death. He is regarded as the founder of the Albert Street Uniting Church. 
+John Sargent Turner was born in Wangaroa, New Zealand, to Reverend Nathaniel Turner (1793‑1864), a Wesleyan Missionary (whose tomb lies behind this monument), and Anne Turner (née Sargent). In 1852 John Turner migrated to Brisbane and opened the Brisbane branch of the Union Bank. In 1871 he relinquished his management position to join the established firm of George Raff and Company. Turner retired from business when his company dissolved in 1882. He was director of several businesses including Queensland Mercantile, the Australian Mutual Providence Society, the South Australian Mutual Providence Society and the South Australian Land and Mortgage Company. On 18 April 1878 he entered the Legislative Council where he remained until his death. He is regarded as the founder of the Albert Street Uniting Church. 
 
 <!-- insert photo -->
 

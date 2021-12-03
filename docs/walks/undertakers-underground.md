@@ -8,16 +8,7 @@ hide:
 
 ![](../assets/John-Hislop-Undertakers-Brisbane-ca1902.jpg)
 
-*<small>John Hislop Undertakers, Brisbane, ca. 1902, held by [John Oxley Library, State Library of Queensland](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_alma21220144750002061&context=L&vid=SLQ&lang=en_US).</small>*
-
-??? Warning "To Do" 
-
-    - Check walking order
-    - Create and insert map with link to portion-section-plot explanation
-    - Add directions
-    - Add headstone photos
-    - Create Bio pages
-    - Add Bios to [Index](../bios/bio-index.md)    
+*<small>[John Hislop Undertakers, Brisbane, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220144750002061), held by John Oxley Library, State Library of Queensland</small>*
 
 --8<-- "snippets/george-barney-petrie.md"
 
@@ -28,7 +19,6 @@ hide:
 ![](../assets/john-hislop-hearse-cemetery-road.jpg)
 
 *<small>[John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892]((http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116790002061)), held by John Oxley Library, State Library of Queensland. It is believed the procession is in Sylvan Road (previosly Cemetery Road) on corner of Kate Street.</small>*
-
 
 --8<-- "snippets/alma-adlington.md"
 
@@ -50,15 +40,7 @@ hide:
 Thank you to Laurel Shanley from [K. M. Smith Funerals](https://kmsmith.com.au) for providing the story of Kate Mary Smith
 
 <div class="noprint" markdown="1">
-## Print the booklet
+## Brochure
 
 [Download the PDF of this walk](http://www.fotc.org.au/subset/undertakers_underground.pdf), print it, and fold it in half to make an A5 booklet. 
 </div>
-
-<!-- 
-## View the map
-
-- [View the FoTC map to locate the graves](http://www.fotc.org.au/toowong_map.jpg)
-- [View the BCC map to locate the graves](https://graves.brisbane.qld.gov.au/pdf/Facilities_cemeteries_Toowong.pdf)
-
--->

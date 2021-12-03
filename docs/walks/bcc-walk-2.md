@@ -76,7 +76,7 @@ Through his contact with relatives of famed Doctor Livingstone, George Henderson
 
 ## James McWhirter Junior <small>(18‑98‑3/7)</small> 1878‑==1925==
 
-James McWhirter Junior, the only son of James and Agnes McWhirter (nee Cameron), played a significant part in developing the centre of Fortitude Valley, working with his father to build a premier shopping precinct, which is now a Queensland heritage‑listed place.  
+James McWhirter Junior, the only son of James and Agnes McWhirter (née Cameron), played a significant part in developing the centre of Fortitude Valley, working with his father to build a premier shopping precinct, which is now a Queensland heritage‑listed place.  
 
 James McWhirter Junior was born in 1878 in Scotland. His father and mother immigrated to Australia that same year. He married Adelaide Mary Reid in January 1906, but she died tragically nine months later, giving birth to their son Duncan. He remarried in 1910 to Mary Millicent Atkins and had several children with her. 
 

@@ -44,18 +44,18 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Anchors Aweigh!][anchors-aweigh]** - a Maritime walk through Toowong Cemetery
 - **[The Artists][artists]**
 - [In their caring hands][nurses] - commemorate the role of nurses, doctors and health professionals
-- [Lest We Forget][lest-we-forget]
-- [Lest We Forget - Navy Walk][lest-we-forget-navy]
-<!-- - [Toowong Cemetery Rememberance Walk][rememberance-walk] - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
+- **[Lest We Forget][lest-we-forget]** - remembering the men and women who gave their lives in service to their country
+- **[Lest We Forget Naval Walk][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
+<!-- - [Toowong Cemetery Remembrance Walk][remembrance-walk] - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
 - **[Men of the Royal Navy][rn]** 
-- [The Thin Blue Line][thin-blue-line] - Queensland Colonial Policing.
-- [Undertakers Underground Heritage Trail][undertakers-underground]
+- **[The Thin Blue Line][thin-blue-line]** - Queensland Colonial Policing
+- **[Undertakers Underground Heritage Trail][undertakers-underground]**
 
 
 ## Local Identities
 
-- [Founding Fathers][founding-fathers] - Members of the first Brisbane General Cemetery Trust
-- [Notable Women][notable-women]
+- **[Founding Fathers][founding-fathers]** - Remembering the members of the first Brisbane General Cemetery Trust
+- **[Notable Women][notable-women]**
 - [Toowong Identities Heritage Trail 1][toowong-identities-a] - A Heritage Walk to Commemorate the Centenary of the Proclamation of the Town of Toowong in 1903
 - [Toowong Identities Heritage Trail 2][toowong-identities-b] - A Heritage Walk to Commemorate the Centenary of the Proclamation of the Town of Toowong in 1903
 
@@ -66,8 +66,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - [Convict Connections Trail][convicts]
 - [The Irish Trail][irish-trail] 
 - [The Jewish Trail][jewish-trail]
-- [The Lutheran Heritage Trail][lutheran-trail] - With all the company of heaven
-- [Suffer the children to come unto me][children]
+- **[The Lutheran Heritage Trail][lutheran-trail]** - With all the company of heaven
+- **[Suffer the children to come unto me][children]** - Tragic stories of lives cut short
 
 <!--
 
@@ -94,13 +94,15 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [undertakers-underground]: undertakers-underground.md 
 [nurses]: ../assets/guides/in-their-caring-hands.pdf
 [nursesx]: in-their-caring-hands.md
-[lest-we-forget]: ../assets/guides/lest-we-forget.pdf
-[lest-we-forget-navy]: ../assets/guides/lest-we-forget-navy.pdf
-[rememberance-walk]: ../assets/guides/rememberance-walk.pdf
-[thin-blue-line]: ../assets/guides/thin-blue-line.pdf
-<!-- [actors]: ../assets/guides/actors.pdf -->
-[founding-fathers]: ../assets/guides/founding-fathers.pdf
-[notable-women]: ../assets/guides/notable-women.pdf
+[lest-we-forget]: lest-we-forget.md
+[lest-we-forget-navy]: lest-we-forget-navy.md
+
+[remembrance-walk]: remembrance-walk.md
+[thin-blue-line]: thin-blue-line.md
+[founding-fathersx]: ../assets/guides/founding-fathers.pdf
+[founding-fathers]: founding-fathers.md
+[notable-womenx]: ../assets/guides/notable-women.pdf
+[notable-women]: notable-women.md
 [toowong-identities-a]: ../assets/guides/toowong-identities-a.pdf
 [toowong-identities-b]: ../assets/guides/toowong-identities-b.pdf
 
@@ -108,7 +110,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [colonial-conflicts]: ../assets/guides/colonial-conflicts.pdf
 [irish-trail]: ../assets/guides/irish-trail.pdf
 [jewish-trail]: ../assets/guides/jewish-trail.pdf
-[lutheran-trail]: ../assets/guides/lutheran-trail.pdf
-[children]: ../assets/guides/children.pdf
+[lutheran-trail]: lutheran-trail.md
+[childrenx]: ../assets/guides/children.pdf
+[children]: children.md
 [bcc-walk-1]: bcc-walk-1.md
 [bcc-walk-2]: bcc-walk-2.md

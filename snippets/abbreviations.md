@@ -14,12 +14,22 @@
 
 -->
 
-*[R.A.N]: Royal Australian Navy
+*[RAN]: Royal Australian Navy
 
 *[CGMM]: Canon Garland Memorial Medal
 
 *[CMG]: Companion (of the Order Of) St Michael and St George
 
 *[H.M.S.]: His (or Her) Majesty's Service
+*[HMS]: His (or Her) Majesty's Service
+
 
 *[AIF]: Australian Imperial Force
+
+*[MM]: Military Medal
+
+*[DCM]: Distinguished Conduct Medal
+
+*[AWOL]: Absent Without Official Leave
+
+*[RANR]: Royal Australian Naval Reserves
