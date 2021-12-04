@@ -4,19 +4,16 @@ hide:
   - navigation
 ---
 
-# Toowong Identities Heritage Trail 2
+# Toowong Identities Heritage Walk 2
 
-A Heritage Walk to Commemorate the Centenary of the Proclamation of the Town of Toowong in 1903
+**A Heritage Walk to commemorate the centenary of the Proclamation of the Town of Toowong in 1903.**
 
-Sponsored by Judy Magub, Councillor for Toowong
+On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the population numbered about 4700. The town grew rapidly, reaching 10,000 residents by 1922. Three years later the Toowong Town Council was absorbed into the Brisbane City Council.^1^ In August 2003, community celebrations were held to mark the centenary. 
 
-==work in progress==
+This heritage walk was conceived as part of commemorative activities. It features only a small number of those former Toowong residents and associates who contributed in some way to Toowong’s social history. 
 
-==insert toowong centenary logo==
+[![](../assets/toowong-identities-2-map.png){ width="40%" }](../assets/toowong-identities-2-map@2x.png)
 
-==insert map==
-
-On the 19th of August 1903, the Shire of Toowong was proclaimed a town. At the time, the population numbered about 4700. The town grew rapidly, reaching 10 000 residents by 1922. Three years later the Toowong Town Council was absorbed into the Brisbane City Council.[^1] In August 2003, community celebrations were held to mark the centenary. This heritage walk was conceived as part of commemorative activities. It features only a small number of those former Toowong residents and associates who contributed in some way to Toowong’s social history.
 
 ???+ Example "Directions" 
 
@@ -52,15 +49,15 @@ William was a stonemason who had a workshop and house in Sylvan Road. He arrived
 
 ??? Example "Directions" 
 
-    Continue along the road until you come to the Jewish Section. All of these headstones face west. Three rows in is the grave of ...
+    Continue along the road until you come to the Jewish Section. All of these headstones face west. Three rows in is the grave of...
 
 ## Sali Mendelsohn <small>(3‑6)</small>
 
-In 1890, Sali published his most enduring ballad The Drover otherwise known as Brisbane Ladies which features the line Farewell and adieu to the girls of Toowong. The ballad is about the drovers returning west to their cattle stations having sold their at market. The route taken passed through Toowong on the way to Moggill Road.[^2]
+In 1890, Sali published his most enduring ballad The Drover otherwise known as [Brisbane Ladies](https://en.wikipedia.org/wiki/Brisbane_Ladies) which features the line Farewell and adieu to the girls of Toowong. The ballad is about the drovers returning west to their cattle stations having sold their at market. The route taken passed through Toowong on the way to Moggill Road.^2^
 
 ??? Example "Directions" 
 
-    Continue along the road until you reach the shed. Turn left and proceed until you reach a fork in the road. Taking the right branch, 1st Avenue, pass eight double rows of graves on the left until you come to ...
+    Continue along the road until you reach the shed. Turn left and proceed until you reach a fork in the road. Taking the right branch, 1^st^ Avenue, pass eight double rows of graves on the left until you come to...
 
 ## Harriet and William Johnson <small>(1‑37)</small>
 
@@ -68,15 +65,22 @@ The Johnsons lived in a house called Castle Rawe, Toowong. Harriet died in 1914,
 
 ??? Example "Directions" 
 
-    Immediately behind the Johnson grave is the grey granite monument to ...
+    Immediately behind the Johnson grave is the grey granite monument to...
 
 ## William Webster <small>(1‑36)</small>
 
 A Scottish merchant, William died at his home Arley, Toowong, aged 66 in 1895. William purchased Arley, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the Quetta shipwreck in 1890.
 
+
+![](../assets/arley-toowong-ca1882.jpg){ width="70%" }
+
+*<small>[Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220551310002061) - State Library of Queensland </small>*
+
+
+
 ??? Example "Directions" 
 
-    Continue up 1st Avenue until you reach a tap on the left. This is immediately adjacent to...
+    Continue up 1^st^ Avenue until you reach a tap on the left. This is immediately adjacent to...
 
 ## Walter Horatio Wilson and Walter Frederick Wilson
 
@@ -84,23 +88,32 @@ W. H. Wilson was a member of the Queensland Legislative Council, Minister of Jus
 
 ??? Example "Directions" 
 
-    Continue around First Avenue until it intersects with Second Avenue. Turn right and head along Second Avenue. Five Sections down is the Gothic style headstone of...
+    Continue around 1^st^ Avenue until it intersects with 2^nd^ Avenue. Turn right and head along Second Avenue. Five Sections down is the Gothic style headstone of...
 
 ## Richard Langler Drew <small>(5‑43)</small>
 
-Described by contemporary J. B. Fewings as “the father of Toowong”, Richard bought large blocks of land bordering Toowong Creek in 1861. He ascertained from the local Aborigines that Toowong was a suitable name for the area and posted the first sign as such. He and his wife Anne were founding members of the Anglican Church. In 1866, he donated part of his land in Curlew Street to build the first St Thomas Anglican Church.
+Described by contemporary J. B. Fewings as *“the father of Toowong”*, Richard bought large blocks of land bordering Toowong Creek in 1861. He ascertained from the local Aborigines that Toowong was a suitable name for the area and posted the first sign as such. He and his wife Anne were founding members of the Anglican Church. In 1866, he donated part of his land in Curlew Street to build the first St Thomas Anglican Church.
+
+![](../assets/burns-road-toowong-ca1910.jpg){ width="50%" }
+
+*<small>[View of Burns Road, Toowong, Brisbane at the intersection of High Street](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116110002061) ca 1910. The second St. Thomas' Anglican Church is in the background. It replaced an 1865 timber building on another site. - State Library of Queensland </small>*
 
 ## Hercules Smith <small>(5‑40‑9)</small>
 
 Hercules was the second principal of the Toowong State School, a position he held for 27 years from January 1882 until retirement in March 1909.
 
+![](../assets/anne-and-hercules-smith.jpg){ width="40%" }
+
+*<small>[Anne and Hercules Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218860780002061) - State Library of Queensland </small>*
+
+
 ??? Example "Directions" 
 
-    Proceed down 2nd Avenue until you come to a tap on the right. On the left, close to the road is the grave of ...
+    Proceed down 2^nd^ Avenue until you come to a tap on the right. On the left, close to the road is the grave of ...
 
 ## Robert and Maria Johnstone <small>(5‑36‑15/16)</small>
 
-Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Robert’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him.[^3] He married Maria who bore nine children. Robert’s police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at Serenata, Toowong. Robert died in January 1905, aged 63 and Maria died aged 76 in September 1923.
+Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Robert’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him.^3^ He married Maria who bore nine children. Robert’s police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at Serenata, Toowong. Robert died in January 1905, aged 63 and Maria died aged 76 in September 1923.
 
 ## Letitia Jephson <small>(5‑34‑17)</small>
 
@@ -116,18 +129,31 @@ Kaye’s Rocks at Toowong were named after Samuel. He was a government appointee
 
 ??? Example "Directions" 
 
-    Continue down 2nd Avenue until just before you reach the end of portion 5 on the left. Close to the road is the grave of...
+    Continue down 2^nd^ Avenue until just before you reach the end of portion 5 on the left. Close to the road is the grave of...
 
 ## Robert Harrison Smith <small>(5‑31‑10)</small>
 
 Robert was the Member of the Legislative Council for Bowen. When he retired, he took up property in the South Toowong area, dying at Mobolon in 1911.
 
-??? Example "Directions" 
 
-    This is the end of the Course B. If you are driving, you can turn left and exit from the Frederick Street boom gate. Walkers can turn right to proceed back to the starting point.
+## Acknowledgements
 
-## Further Reading
+Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
-[^1]: Leggett, S. and Grant, R. (eds) Toowong: A community’s history, Toowong, West Toowong Community Association Inc., 2003
-[^2]: Ochert, M. “Sali Mendelsohn” Australian Jewish Historical Society Journal
-[^3]: Maclean, H. (ed.) Extraordinary Lives of Ordinary People, Toowong, Friends of Toowong Cemetery Association Inc. 1999
+![](../assets/toowong-centenary-1903-2003.png){ width="15%" }
+
+## Sources and Further Reading
+
+1: Leggett, S. and Grant, R. (eds) Toowong: A community’s history, Toowong, West Toowong Community Association Inc., 2003
+
+2: Ochert, M. “Sali Mendelsohn” Australian Jewish Historical Society Journal
+
+3: Maclean, H. (ed.) Extraordinary Lives of Ordinary People, Toowong, Friends of Toowong Cemetery Association Inc. 1999
+
+
+<div class="noprint" markdown="1">
+## Brochure
+
+**[Download this walk](../assets/guides/toowong-identities-2.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+
+</div>

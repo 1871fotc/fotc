@@ -87,16 +87,16 @@ Some road names have recently been changed to the names of notable people interr
 | Francis Forde Avenue    | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
 | Peter Jackson Parade    | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
 | Soldiers Parade         | Boundary Road | running parallel to Frederick Street closest to the main entrance    |
-| Steele Rudd Avenue      | 4th Avenue    |                                                                      |
-| Walter Ralstone Avenue  | 7th Avenue    |                                                                      |
-| Emma Miller Avenue      | 8th Avenue    | behind Canon Garland Place                                           |
-| Charles Heaphy Drive    | 8th Avenue    | from the Shelter Shed to Emma Miller Avenue                          |
-| Pat Hill Drive          | 8th Avenue    | from the Richer Street end to the Shelter Shed                       |
-| O'Doherty Avenue        | 11th Avenue   |                                                                      |
-| Elizabeth Dale Walk     | 12th Avenue   |                                                                      |
-| Garland Avenue          | 13th Avenue   |                                                                      |
-| William Brown Avenue    | 14th Avenue   |                                                                      |
-| Federation Avenue       | 15th Avenue   |                                                                      |
+| Steele Rudd Avenue      | 4^th^ Avenue    |                                                                      |
+| Walter Ralstone Avenue  | 7^th^ Avenue    |                                                                      |
+| Emma Miller Avenue      | 8^th^ Avenue    | behind Canon Garland Place                                           |
+| Charles Heaphy Drive    | 8^th^ Avenue    | from the Shelter Shed to Emma Miller Avenue                          |
+| Pat Hill Drive          | 8^th^ Avenue    | from the Richer Street end to the Shelter Shed                       |
+| O'Doherty Avenue        | 11^th^ Avenue   |                                                                      |
+| Elizabeth Dale Walk     | 12^th^ Avenue   |                                                                      |
+| Garland Avenue          | 13^th^ Avenue   |                                                                      |
+| William Brown Avenue    | 14^th^ Avenue   |                                                                      |
+| Federation Avenue       | 15^th^ Avenue   |                                                                      |
 
 !!! question "Volunteer"
 

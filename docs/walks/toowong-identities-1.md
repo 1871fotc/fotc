@@ -48,7 +48,7 @@ Irishman William John Munce died at his Toowong home Caltura in 1892 aged 77. Ca
 
 Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen, Scotland, Charles arrived in Queensland in 1871. He was a member of the Toowong Council until 1925, elected Mayor numerous times in this period. He proposed the construction of the median strip in High Street, now locally known as ‘Patterson’s Folly’, as he envisaged a divided highway ultimately leading to Ipswich. His Bon Accord sawmill was one of the first industries in Toowong, opening on the site of the present Toowong Tower in 1881. The Patterson family lived at Kinellar, still standing on the corner of Sherwood Road and Little Maryvale Street. They were members of the Presbyterian Congregation. Charles died in January 1926.
 
-![](../assets/high-street-toowong-ca1917.jpg){ width="100%" }
+![](../assets/high-street-toowong-ca1917.jpg){ width="70%" }
 
 *<small>[High Street, Toowong, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220078440002061) - State Library of Queensland </small>*
 
@@ -102,9 +102,9 @@ James was elected to the Toowong Shire Council in 1885. He was described by cont
 
 ## Francis Drummond Grenville Stanley <small>(9‑32‑6)</small>
 
-A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand houses, including Sidney House, demolished to make way for the ABC Studios, Ardencraig, which stood on Golding St and Easton Gray (1869) the residence of Sir Arthur Palmer. He also designed St Thomas Anglican Church on High Street, Toowong.
+A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand houses, including Sidney House, demolished to make way for the ABC Studios, Ardencraig, which stood on Golding St and Easton Gray (1869) the residence of Sir Arthur Palmer. He also designed the heritage-listed [St Thomas Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600336) on High Street, Toowong.
 
-![](../assets/st-thomas-church-toowong-ca1917.jpg){ width="100%" }
+![](../assets/st-thomas-church-toowong-ca1917.jpg){ width="70%" }
 
 *<small>[St. Thomas' Church Toowong, looking from Burns Road, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220179080002061) - State Library of Queensland </small>*
 
@@ -124,7 +124,7 @@ Fewings’ memoirs Arcadian Simplicity, written in 1892, described life in Toowo
 
 The Finney family lived in Sidney House (on the site of the former ABC Studios in Toowong) from 1882, one of the grandest houses in Toowong, surrounded by gardens and an orchard. He is buried next to his business partner James Isles with whom he established Finney Isles & Co. in 1864.
 
-![](../assets/sidney-house-toowong-1890.jpg){ width="100%" }
+![](../assets/sidney-house-toowong-1890.jpg){ width="70%" }
 
 *<small>[Sidney House in Toowong, viewed from the street, March, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool127391) - State Library of Queensland </small>*
 
@@ -163,9 +163,11 @@ Richer Street, on the North West boundary of Toowong Cemetery, is named after Wi
 
 The Siemon family, which included six children, lived at Ravensfield on Coronation Drive and ran a dairy farm, grazing their cows on land near the Regatta Hotel until the 1930s. In 1904, the Charles bought [Milton House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600253) which they subsequently sold to the Presbyterian Church. Charles owned extensive warehouses, factories and businesses in Brisbane and was a Toowong Town Councillor.
 
-![](../assets/ravensfield-toowong-1911.jpg){ width="100%" }
+<!--
+![](../assets/ravensfield-toowong-1911.jpg){ width="70%" }
 
 *<small>[Ravensfield, home of the Siemon family, in River Road now Coronation Drive, Toowong, 1911](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220239800002061) - State Library of Queensland </small>*
+-->
 
 ??? Example "Directions" 
 
@@ -196,6 +198,10 @@ The last burial in this grave took place in 1962 when Robert and Jessie’s elde
 ## Sir Augustus Charles Gregory <small>(14‑22‑14)</small>
 
 The well‑known explorer Gregory became the first President of the Toowong Shire Council in 1881. With his brother, Francis, Augustus was attached to the survey department of Western Australia and later joined the Survey Department in Queensland rising to the position of Surveyor General in 1859.
+
+![](../assets/augustus-charles-gregory-lying-in-state.jpg){ width="70%" }
+
+*<small>[Sir Augustus Charles Gregory lying in state, Brisbane, 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool73174) - State Library of Queensland </small>*
 
 ??? Example "Directions" 
 
