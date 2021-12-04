@@ -69,6 +69,10 @@ It may also include historically and culturally sensitive images and moving imag
 
 Links to other websites are inserted for convenience and do not constitute endorsement of material at those sites, or any associated organisation, product or service.
 
+## Acknowledgement of Traditional Owners
+
+We acknowledge Aboriginal and Torres Strait Islander peoples and their continuing connection to land and as custodians of stories for millennia. We are inspired by this tradition in our work to discover and share the history and stories of Toowong Cemetery.
+
 ## Accessibility
 
 We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please use the links in the footer to contact us:
