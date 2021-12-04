@@ -1,5 +1,6 @@
 ---
-
+hide:
+  - navigation
 
 search:
   boost: 2  
@@ -56,7 +57,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Notable Women][notable-women]** - Women who shaped Queensland
 - **[Founding Fathers][founding-fathers]** - Remembering the members of the first Brisbane General Cemetery Trust
 - **[Toowong Identities Heritage Walk 1][toowong-identities-1]** - The first of two walks commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
-- **[Toowong Identities Heritage Walk 2][toowong-identities-2]** - The second of two walks commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
+- [Toowong Identities Heritage Walk 2][toowong-identities-2] - The second of two walks commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
 
 
 ## Birds of a feather 
@@ -103,7 +104,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [notable-womenx]: ../assets/guides/notable-women.pdf
 [notable-women]: notable-women.md
 [toowong-identities-1]: toowong-identities-1.md
-[toowong-identities-2]: toowong-identities-2.md
+[toowong-identities-2x]: toowong-identities-2.md
+[toowong-identities-2]: ../assets/guides/toowong-identities-2.pdf 
 
 [convicts]: ../assets/guides/convicts.pdf
 [colonial-conflicts]: ../assets/guides/colonial-conflicts.pdf

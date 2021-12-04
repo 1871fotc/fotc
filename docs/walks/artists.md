@@ -29,7 +29,7 @@ hide:
 
 --8<-- "snippets/le-fevre-james-cranstone.md"
 
-![image of headstone](le-fevre-james-cranstone-headstone.jpg){ width="40%" }  
+![](../assets/le-fevre-james-cranstone.jpg){ width="30%" }  
 
 <!--
 
