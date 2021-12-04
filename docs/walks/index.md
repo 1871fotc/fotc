@@ -54,10 +54,10 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 ## Local Identities
 
+- **[Notable Women][notable-women]** - Women who shaped Queensland
 - **[Founding Fathers][founding-fathers]** - Remembering the members of the first Brisbane General Cemetery Trust
-- **[Notable Women][notable-women]**
-- **[Toowong Identities Heritage Walk 1][toowong-identities-a]** - The first of two walks commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
-- **[Toowong Identities Heritage Walk 2][toowong-identities-b]** - The second of two walks commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
+- **[Toowong Identities Heritage Walk 1][toowong-identities-1]** - The first of two walks commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
+- **[Toowong Identities Heritage Walk 2][toowong-identities-2]** - The second of two walks commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
 
 
 ## Birds of a feather 
@@ -103,10 +103,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [founding-fathers]: founding-fathers.md
 [notable-womenx]: ../assets/guides/notable-women.pdf
 [notable-women]: notable-women.md
-[toowong-identities-ax]: ../assets/guides/toowong-identities-a.pdf
-[toowong-identities-a]: toowong-identities-a.md
-[toowong-identities-bx]: ../assets/guides/toowong-identities-b.pdf
-[toowong-identities-b]: toowong-identities-b.md
+[toowong-identities-1]: toowong-identities-1.md
+[toowong-identities-2]: toowong-identities-2.md
 
 [convicts]: ../assets/guides/convicts.pdf
 [colonial-conflicts]: ../assets/guides/colonial-conflicts.pdf

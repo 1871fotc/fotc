@@ -12,7 +12,7 @@ On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the 
 
 This heritage walk was conceived as part of commemorative activities. It features only a small number of those former Toowong residents and associates who contributed in some way to Toowong’s social history. 
 
-==add map==
+[![](../assets/toowong-identities-1-map.png){ width="40%" }](../assets/toowong-identities-1-map@2x.png)
 
 ???+ Example "Directions" 
 
@@ -222,6 +222,6 @@ Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 <div class="noprint" markdown="1">
 ## Brochure
 
-**[Download this walk](../assets/guides/toowong-identities-a.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/toowong-identities-1.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>

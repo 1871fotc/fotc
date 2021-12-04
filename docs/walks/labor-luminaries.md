@@ -33,7 +33,7 @@ hide:
     - Walk North towards William Brown Avenue (previously 14th Avenue).
     - At the end of the second row back from Emma Miller Avenue, you'll find Emma Miller's memorial stone.  
     
-     ![](../assets/emma-miller.jpg){ width="15%" }
+     ![](../assets/emma-miller-headstone.jpg){ width="15%" }
 
 --8<-- "snippets/emma-miller.md"
 

@@ -8,24 +8,9 @@ hide:
 
 **Queensland Colonial Policing**
 
-<!--
-![inspector-john-ahern-monument-7-51-4-by-andree-axelsen](https://ucf65217b2020ba807c5cb707379.previews.dropboxusercontent.com/p/thumb/ABV47UZ8TTLjl15vFIiB5L7OyyxY0iWdRB_QR-sd6oyDvJG7AHeO45ETnxUTQ2SFgyJ3f4IAp_ESUK4WITJMoSfvCWaWtM1_Ar2A0RdwQnBVWGSbHIT_yh762r3QeP-TLBt5vms22IdX_bstu8F6jGqy2gyobOKf7na-T2fS7ZmJ9M1Pga3kbkX8JTyTLmizZ9NBVIPGp2wZGMkbiZ01VlROIMxYhlHgeDebVx1eAtM1CGUU9QTLXdMybse2xY7YWxiGAIfz28__ZkAIC70LoUTW7bjK8hX-9o2pTp84YW7FvzSx27-NPLMYX3pob9oPiZln3Dk3qLO_TKGavGAr8aOJ6T2s_lw1aFSHvGA4Hoa9qVRuhB_TLy14dCMM5ag8yQHmhG_ecL2603eerazE9qux/p.png?fv_content=true&size_mode=5)
--->
-
-<!--
-<a href="https://ucf65217b2020ba807c5cb707379.previews.dropboxusercontent.com/p/thumb/ABV47UZ8TTLjl15vFIiB5L7OyyxY0iWdRB_QR-sd6oyDvJG7AHeO45ETnxUTQ2SFgyJ3f4IAp_ESUK4WITJMoSfvCWaWtM1_Ar2A0RdwQnBVWGSbHIT_yh762r3QeP-TLBt5vms22IdX_bstu8F6jGqy2gyobOKf7na-T2fS7ZmJ9M1Pga3kbkX8JTyTLmizZ9NBVIPGp2wZGMkbiZ01VlROIMxYhlHgeDebVx1eAtM1CGUU9QTLXdMybse2xY7YWxiGAIfz28__ZkAIC70LoUTW7bjK8hX-9o2pTp84YW7FvzSx27-NPLMYX3pob9oPiZln3Dk3qLO_TKGavGAr8aOJ6T2s_lw1aFSHvGA4Hoa9qVRuhB_TLy14dCMM5ag8yQHmhG_ecL2603eerazE9qux/p.png?fv_content=true&size_mode=5" title="click to expand">
-
-  <figure>
-    <img src="https://ucf65217b2020ba807c5cb707379.previews.dropboxusercontent.com/p/thumb/ABV47UZ8TTLjl15vFIiB5L7OyyxY0iWdRB_QR-sd6oyDvJG7AHeO45ETnxUTQ2SFgyJ3f4IAp_ESUK4WITJMoSfvCWaWtM1_Ar2A0RdwQnBVWGSbHIT_yh762r3QeP-TLBt5vms22IdX_bstu8F6jGqy2gyobOKf7na-T2fS7ZmJ9M1Pga3kbkX8JTyTLmizZ9NBVIPGp2wZGMkbiZ01VlROIMxYhlHgeDebVx1eAtM1CGUU9QTLXdMybse2xY7YWxiGAIfz28__ZkAIC70LoUTW7bjK8hX-9o2pTp84YW7FvzSx27-NPLMYX3pob9oPiZln3Dk3qLO_TKGavGAr8aOJ6T2s_lw1aFSHvGA4Hoa9qVRuhB_TLy14dCMM5ag8yQHmhG_ecL2603eerazE9qux/p.png?fv_content=true&size_mode=5" alt="Monument to Inspector John Ahern (7-51-4) by Andree Axelsen" style="height:200px">
-    <figcaption>Monument to Inspector John Ahern (7-51-4) by Andree Axelsen.</figcaption>
-  </figure>
-</a>
--->
-
 ## Christopher Francis c1840‑1915 <small>(2‑37‑31/32)</small> 
 
-Sydney‑born Francis entered public service in Queensland in 1872 after a career which included journalism. After serving in various capacities in several parts of the colony, he was appointed Police Magistrate at Cunnamulla in 1881. He afterwards went to Townsville and later to Rockhampton. Francis retired in 1910 while serving as Police Magistrate at Maryborough. He died just short of his 75th birthday at St Helen’s Hospital, South Brisbane on the 10th of November 1915 and was buried the next day.^1^
-
+Sydney‑born Francis entered public service in Queensland in 1872 after a career which included journalism. After serving in various capacities in several parts of the colony, he was appointed Police Magistrate at Cunnamulla in 1881. He afterwards went to Townsville and later to Rockhampton. Francis retired in 1910 while serving as Police Magistrate at Maryborough. He died just short of his 75^th^ birthday at St Helen’s Hospital, South Brisbane on the 10th of November 1915 and was buried the next day.^1^
 
 ## Henry Bloomfield Gough c1845‑1896 <small>(2‑44‑21)</small> 
 
@@ -39,11 +24,9 @@ Armstrong died at his home, Sorrento, South Brisbane, on 23 January 1917, aged 8
 
 Born in Tasmania in 1843, Johnstone was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Johnstone’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him. His police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at Serenata, Toowong where he died on 16 January 1905, aged 63, probably of asthma.^4^
 
-
 ## Ernest Eglinton <small>(2A‑31‑22)</small> 
 
 The death of Eglinton, ex‑police magistrate, occurred on 1 October 1921. He was born in Berkshire, England in 1848 and came to Australia in 1870 with his father, the Rev. William Eglinton, who had charge of a number of Australian parishes. Eglinton became part owner of a station, and in the early 1870s, with the intention of forming another station; he set out with his younger brother from Mitchell Downs towards Cooper's Creek with a mob of cattle, travelling over unknown country for many months. Shortly afterwards he became a police officer obtaining the rank of Sub‑inspector Second Class in January 1878, and was eventually appointed the first resident police magistrate at Boulia in 1884. He was subsequently mineral warden and police magistrate at Charters Towers, Gympie, and Brisbane. His eventful and strenuous life had told on his health, and in his later years he had suffered from asthma and bronchitis. He succeeded in preparing a number of papers concerning his experiences in the early days.^5^
-
 
 ## William Maguire 1859‑1917 <small>(5‑105‑14)</small> 
 
@@ -51,12 +34,11 @@ Irish‑born Sub‑inspector Maguire died on 25 April 1917 at his residence in F
 
 ## Thomas Hinch <small>(20‑18‑23)</small>  
 
-Born in Kiltegan, County Wicklow, Ireland, Hinch in 1855, Thomas served ten years in the Imperial Army before joining the Queensland Police on 1881. He served in various Brisbane stations reaching the rank of Sergeant in 1900. He was superannuated on the 1st of July 1903. He died aged 69, on the 11th of May 1924.
+Born in Kiltegan, County Wicklow, Ireland, Hinch in 1855, Thomas served ten years in the Imperial Army before joining the Queensland Police on 1881. He served in various Brisbane stations reaching the rank of Sergeant in 1900. He was superannuated on the 1st of July 1903. He died aged 69, on 11 May 1924.
 
 ## William Ferguson <small>(20‑21‑9/10)</small>  
 
 Ferguson was born in Athlone, County Roscommon, Ireland in 1862. He was a Constable at the Brisbane Police Depot in 1886 and rose steadily through the ranks reaching that of Inspector First‑class in November 1919, seeing service in Toowoomba, Beenleigh, Allora and various Brisbane stations. He was superannuated in February 1921 and enjoyed more than twenty years of retirement until he died of a heart attack on 22 May 1945 aged 82.
-
 
 ## John Hanly c1857‑1935 <small>(7A‑104‑27)</small>
 
@@ -65,6 +47,9 @@ Hanly was a member of the Royal Irish Constabulary for five years before joining
 ## John Ahern <small>(7‑51‑4)</small>  
 
 Ahern was born at Donickmore, County Cork, Ireland in 1840. He was a farmer prior to joining the Queensland Police Force in September 1864. Ahern was sent to Springsure in October and promoted to Senior Constable/Acting Sergeant in July 1868. He became Inspector of Slaughterhouses in the Mitchell district in February 1870 and received the substantial reward of £15 in September 1872 for *‘energetic perseverance in suppressing cattle‑stealers in the Barcoo and Walgett districts’*. Ahern was promoted to Senior Sergeant in January 1874 and Sub‑Inspector 2^nd^ class in 1877. He served at Blackall in 1880 where he became Sub‑Inspector 1^st^ class. By 1890, he had been promoted to Inspector 1^st^ class in charge of all brands throughout the colony. Ahern was a most respected and energetic policeman. John Ahern died in 1893.^7^
+
+![](../assets/john-ahern-headstone.jpg){ width="32%" }
+
 
 ## William Harold Ryan 1873‑1954 <small>(7A‑116‑44)</small>  
 
