@@ -8,25 +8,6 @@ hide:
 
 **A walk recognising people involved in the Labor movement.**
 
-<!--
-??? Warning "To Do" 
-
-    - Work out a consistent approach to showing the map and brochure
-
--->
-
-<!-- Map     
-## Map
-
-[![](../assets/toowong-cemetery-map.png)][map]
-<figcaption>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added. Note: Old Road names shown.</figcaption>
-
-[map]: ../assets/toowong-cemetery-map.png "Click to expand the map. Use Back to return to this page"
-[map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
-
-[Download a brochure of this walk](http://www.fotc.org.au/subset/laborluminaries.pdf).
- -->
- 
 ???+ Example "Directions" 
 
     - Start behind [Canon Garland Place](../cemetery/discover.md#when-you-arrive) in Emma Miller Avenue. 
@@ -47,14 +28,17 @@ hide:
     
 --8<-- "snippets/thomas-glassey.md"
 
-
 ??? Example "Directions" 
 
     - Continue to walk down 15th Avenue to and  stop at 11‑51‑3, on your left, where you'll find the 3 graves close to each other. 
     
-      ![William Henry Browne](../assets/william-henry-browne.jpg){ width="15%" } ![John Gordon Smith](../assets/404.png){ width="15%" } ![Anderson Dawson](../assets/404.png){ width="15%" } 
+      ![William Henry Browne](../assets/william-henry-browne-headstone.jpg){ width="15%" } ![John Gordon Smith](../assets/404.png){ width="15%" } ![Anderson Dawson](../assets/404.png){ width="15%" } 
 
 --8<-- "snippets/william-henry-browne.md"
+
+![](../assets/william-henry-browne.jpg){ width="40%" }  
+
+*<small>[Honourable William Henry Browne](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218188950002061) - State Library of Queensland </small>* 
 
 --8<-- "snippets/john-gordon-smith.md"
 
@@ -77,6 +61,11 @@ hide:
 
 --8<-- "snippets/william-forgan-smith.md"
 
+![](../assets/forgan-smith-building.jpg){ width="59%" }  ![](../assets/william-forgan-smith.jpg){ width="30.2%" }
+
+*<small>[Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218117600002061) - State Library of Queensland </small>* <br>
+*<small>[William Forgan Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218884950002061) ca. 1935 - State Library of Queensland </small>*
+
 --8<-- "snippets/william-neal-gillies.md"
 
 ??? Example "Directions" 
@@ -84,11 +73,20 @@ hide:
     - :fontawesome-solid-walking:{ .deep-purple } Walk down the row, across the gully, and across 8th Avenue to the Shelter Shed.
     - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk down the hill, return to your car and drive down Federation Avenue back to the Shelter Shed, then contine on Dr. Lillian Cooper Drive. Turn right into 9th Avenue, then right into Pat Hill Drive and park near the Shelter Shed. 
     - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
-    - Six graves on you'll find the Hoolan family.
 
-    ![Edward Michael Hanlon](../assets/edward-michael-hanlon.jpg){ width="15%" }  ![John ‘Plumper’ Hoolan](../assets/john-hoolan.jpg){ width="15%" } 
+    ![Edward Michael Hanlon](../assets/edward-michael-hanlon-headstone.jpg){ width="15%" }  
 
 --8<-- "snippets/edward-michael-hanlon.md"
+
+![](../assets/edward-michael-hanlon.jpg){ width="59%" }  
+
+*<small>[Edward Michael Hanlon, premier of Queensland, addressing the Legislative Assembly on the occasion of the Industrial Law Amendment Bill, 1948](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21217956320002061) - State Library of Queensland </small>* 
+
+??? Example "Directions" 
+
+    - Six graves on you'll find the Hoolan family.
+
+    ![John ‘Plumper’ Hoolan](../assets/john-hoolan.jpg){ width="15%" } 
 
 --8<-- "snippets/john-hoolan.md"
 
