@@ -41,8 +41,8 @@ theme:
 #      tip: fontawesome/regular/question-circle
   custom_dir: overrides
   features:
-  - announce.dismiss
-#  - navigation.instant
+#  - announce.dismiss
+  - navigation.instant
   - navigation.tracking
   - navigation.top
   - navigation.tabs
@@ -57,7 +57,7 @@ extra:
   social:
     - icon: fontawesome/solid/phone
       link: tel:0436604596
-      name: Call us on the phone
+      name: Call us on the phone 0436604596
     - icon: fontawesome/solid/envelope
       link: mailto:inquiries@fotc.org.au
       name: Send us an email      
