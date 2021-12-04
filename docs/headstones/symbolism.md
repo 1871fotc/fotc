@@ -46,7 +46,7 @@ A harp or lyre symbolises hope, joy and music. It was the symbol of St. Cecila, 
 
 A ship's anchor was commonly used to commemorate the life of a sailor or someone with a maritime career. 
 
-![](../assets/anchor.jpg){ loading=lazy } 
+![](../assets/anchor.jpg) 
 <!-- add caption and plot id -->
 
 ## Obelisk
