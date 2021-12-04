@@ -8,7 +8,6 @@ hide:
 
 **The Lest We Forget Naval Walk was created to mark the centenary of the Royal Australian Navy, 1911—2011.**
 
-
 Those represented on this walk are only a small number of the [men and women who gave their lives in service to this country](https://www.cwgc.org/find-records/find-war-dead/search-results/?CemeteryExact=true&Cemetery=BRISBANE%20GENERAL%20(TOOWONG)%20CEMETERY&Size=100&Page=1) who are either buried or memorialised at Toowong Cemetery.
 
 <!-- imange and caption 
@@ -19,9 +18,15 @@ Royal Australian Navy Official Badge Design of 1949
 
 Welshman, William John Harrhy, a sailor on HMS Dauntless, in Brisbane for a Goodwill Visit, was drowned in the Brisbane River in the early hours of Good Friday, 1924. Members of the ship’s crew were in Brisbane to participate in the unveiling of the War Memorial at Toowong Cemetery on ANZAC Day 1924. His body was found the following Monday downstream. It is believed that he tripped over an obstacle on the ship’s deck in the early hours of the morning. Harrhy, aged 36, had been in the navy for over fifteen years and had a splendid war records. The funeral left the ship for the cemetery and many wreaths were laid including one shaped like an anchor and another, a model of the ship. The officers and crew arranged a dance in aid of Harrhy’s family aboard the Dauntless.
 
+![](../assets/docked-naval-ships-1924.jpg)
+
+*<small>[Royal Navy ships HMS Danae, HMS Dauntless, HMS Dragon and HMS Delhi docked at South Brisbane wharves, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220252580002061) - State Library of Queensland </small>*
+
 ## Maurice Headford <small>(10‑72‑35)</small>
 
-Headford was born in Port Melbourne, Victoria on 23 February 1898. He entered the RAN as a Boy Class II on the 5 November 1912 training aboard the Tingira. He was transferred to the newly completed Australia when he was promoted to Boy Class I a year later. In August 1916, he was promoted to Ordinary Seaman, then to Able Bodied Seaman in January 1918. While aboard the Australia Headford saw service in Rabaul and the North Sea. The Australia missed the battle of Jutland as she had collided with the New Zealand. After the end of World War I, Headford transferred briefly to the Sydney before ending his naval career aboard the depot ship the Penguin in January 1920, having served his term of seven years. He died of pulmonary tuberculosis at the Rosemount Hospital, Windsor on 18 June 1936. He was the son of Louis and Teresa Headford (née Mottershead).
+Headford was born in Port Melbourne, Victoria on 23 February 1898. He entered the RAN as a Boy Class II on the 5 November 1912 training aboard the Tingira. He was transferred to the newly completed Australia when he was promoted to Boy Class I a year later. In August 1916, he was promoted to Ordinary Seaman, then to Able Bodied Seaman in January 1918. While aboard the Australia Headford saw service in Rabaul and the North Sea. The Australia missed the battle of Jutland as she had collided with the New Zealand. 
+
+After the end of World War I, Headford transferred briefly to the Sydney before ending his naval career aboard the depot ship the Penguin in January 1920, having served his term of seven years. He died of pulmonary tuberculosis at the Rosemount Hospital, Windsor on 18 June 1936. He was the son of Louis and Teresa Headford (née Mottershead).
 
 ## Stoker II class Arthur Kilminster Beaven <small>(10‑52‑9)</small>
 

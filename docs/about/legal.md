@@ -38,11 +38,13 @@ To contribute content, you can:
 
 - [Share content via email][email]
 - [Share content][new-issue] by adding an issue on GitHub (login required)
-- [Join the conversation][forum] in the discussion forum on GitHub (login required)
+- [Discuss your contribution][forum] in the discussion forum on GitHub (login required)
+
+Contributions must be made under an open licence, preferably a [Creative Commons Attribution 4.0 licence][CC-BY]. You may waive your right to be attributed, if you would prefer your name not to be published. 
 
 ## Contributors
 
-Thanks to everyone who has contributed content to the site to help us <br> **share the history and stories of Toowong Cemetery** :heart:
+Thanks to everyone who has contributed content to the site to help us **share the history and stories of Toowong Cemetery** :heart:
 
 <!-- links --> 
 
