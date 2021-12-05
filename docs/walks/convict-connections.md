@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Convict Connections Trail
+# Convict Connections
 
 
 ## Convict settlement children
@@ -34,6 +34,10 @@ The family arrived aboard the Falcon on 9 July 1842. Noticing the need of a ferr
 
 A widower at 47, in Brisbane in 1856 he married Sarah Ann Fairfax; they had three sons and two daughters. Because of his work for separation and contributions to the press under the pseudonym of Old Tom, he was appointed with Walter Hill, director of the Botanic Gardens, to arrange the Queensland exhibit at the London Exhibition in 1862. In this task they were successful and received a public testimonial in 1864. When the first town clerk of Brisbane retired, Dowse was elected in January 1862. He retired from office in 1869 but continued in business until he died aged 75 at his home, Hillside, Milton, on 9 November 1885.
 
+![](../assets/thomas-dowse.jpg){ width="40%" }
+
+*<small>[Thomas Dowse](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218687340002061) Brisbane Town Clerk 1862-1868 — State Library of Queensland.</small>*
+
 ## Agnes Susan Maclean <small>(5‑107‑19)</small>
 
 Agnes Susan Maclean was christened Susannah Agnes Kable, the grand‑daughter of First Fleet Convicts Henry Kable and Susannah Holmes and Second Fleet Marine William Charlton and Convict Mary Gittos. Born in Windsor, NSW; Susannah was the eldest of 6 children. Susannah's father William Nathaniel Kable died when she was 11. 
@@ -58,13 +62,19 @@ Kevin O’Doherty was born in Dublin, son of solicitor William Dougherty and Ann
 
 They then migrated to Victoria in 1860 and to Brisbane where he set up practice in the Forbes Building at Ipswich in 1862. By 1866, he was the leading medical practitioner in George Street, Brisbane, and personal physician to Bishop Quinn. He was also the first President of the Queensland Medical Board. He was an MLA in 1867 and MLC 1877 - 1885 and also returned to Ireland as the Nationalist Member for Meath 1885 - 1888. As a founding member of the Queensland Hibernian Society and the Queensland Irish Association, O’Doherty was well respected and presided over the St. Patrick’s Day Committee in the 1860s. The Queensland Irish Association raised this monument over his grave.
 
-## James Davis AKA Duramboi <small>(7‑5‑15)</small>
+## James Davis (Duramboi) <small>(7‑5‑15)</small>
 
 James Davis was born in Broomielaw, Scotland, and at 14 was apprenticed to his father as a blacksmith at Old Wynd, Glasgow. Convicted two years later for stealing 2s. 6d. from a church box in Surrey, he was sentenced to be transported for seven years, and in August 1825 arrived in New South Wales in the Norfolk. His next appearance in court was at Patrick's Plains, where in 1828 he was charged with robbery and sentenced to three years at Moreton Bay as a doubly convicted felon. He arrived there on 18 February 1829 and absconded six weeks later. The escapees soon met a party of Aboriginals whose chief, Pamby‑Pamby, claimed Davis as his dead son returned to life as a white man. As Duramboi, Davis took easily to tribal life. An honoured guest, he was allowed to move freely from one tribe to another, his travels taking him hundreds of miles from Brisbane. He had learnt the languages and customs of many tribes before he was found at Wide Bay in 1842 by Andrew Petrie and with difficulty assured that he could return safely to Brisbane as the convict settlement had ended.
 
 He had to relearn the English language and accustom himself again to work and clothes. He was employed at first by Dr Stephen Simpson, the land commissioner in Moreton Bay; later he set up as a blacksmith at Kangaroo Point. In 1864 he opened a crockery shop in George Street, Brisbane, where he made money, although literate enough only to sign his name. He had married Annie Shea on 3 November 1846. After her death in 1882, he married on 28 July 1883 Irish‑born widow, Bridget Hayes. He died on 7 May 1889.
 
 His rehabilitation into acquisitive society included reform; from his accumulated estate the Brisbane General Hospital received £750 in 1889 and another £1100 in 1911. He guided settlers to good land in the Wide Bay area, and some public benefit came from his thirteen years with the Aboriginals. He was occasionally employed as a court interpreter, and in 1866 petitioned the governor to raise his salary to the £20 paid to Chinese and German interpreters, but his request was refused.
+
+![](../assets/james-davis-duramboi.jpg){ width="40%" }  
+
+*<small>[James Davis poses in front of his crockery store, George Street, Brisbane, ca. 1872](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218687340002061) — State Library of Queensland.</small>*
+
+
 
 ## Sources
 
@@ -77,6 +87,6 @@ His rehabilitation into acquisitive society included reform; from his accumulate
 <div class="noprint" markdown="1">
 ## Brochure
 
-**[Download this walk](../assets/guides/convict-connections.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/convicts.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>

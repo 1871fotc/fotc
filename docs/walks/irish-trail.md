@@ -147,7 +147,6 @@ By his death in 1919, he had nineteen ships, although he had retired in 1915 sta
 
 ![](../assets/adonis-ship.jpg){ width="70%" }  
 
-
 *<small>The [Adonis (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21250468940002061) was built in 1883 and was owned by Dath Henderson, Brisbane, who also owned a sawmill on the Noosa River at Tewantin. The Adonis was later sold to John Burke in Brisbane, Queensland. — State Library of Queensland.</small>*
  
 ## John McDermott 1841‑1908 <small>(7‑56‑3)</small>  

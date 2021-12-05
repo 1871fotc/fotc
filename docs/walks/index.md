@@ -70,7 +70,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 - **[Children][children]** - tragic stories of lives cut short
 - **[Colonial Conflicts][colonial-conflicts]**
-- **[Convict Connections][convicts]**
+- **[Convicts][convicts]** - connections to our convict past
 - **[The Irish Trail][irish-trail]**
 - [The Jewish Trail][jewish-trail]
 - **[The Lutheran Heritage Trail][lutheran-trail]** 

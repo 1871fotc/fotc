@@ -41,7 +41,7 @@ theme:
 #      tip: fontawesome/regular/question-circle
   custom_dir: overrides
   features:
-#  - announce.dismiss
+  - announce.dismiss
   - navigation.instant
   - navigation.tracking
   - navigation.top
@@ -174,7 +174,7 @@ nav:
     - Toowong Identities 2: walks/toowong-identities-2.md 
     - Children: walks/children.md 
     - Colonial Conflicts: walks/colonial-conflicts.md     
-#    - Convict Connections: walks/convict-connections.md 
+    - Convicts: walks/convict-connections.md 
     - The Irish: walks/irish-trail.md 
 #    - The Jewish Trail: walks/jewish-trail.md    
     - The Lutheran: walks/lutheran-trail.md    
