@@ -5,9 +5,13 @@ title: History
 
 #  Toowong Cemetery History
 
-The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried in approximately 46,000 graves.
+## Traditional Owners
+
+Prior to 1875, the flat area where the entrance of Toowoong Cemetery now stands was an **[Aboriginal Corroboree Ground](https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/)**.
 
 ## 1875 Toowong Cemetery opened
+
+The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried in approximately 46,000 graves.
 
 <div class="video-wrapper">
 <iframe src="https://www.youtube.com/embed/jJ3oK4nwNbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -77,7 +81,7 @@ The Postmaster in 1844 was George M. Slade.
 
 Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglected North Brisbane Burial Grounds (also known as  [Paddington Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery)) into a park and sports field. 
 
-![](../assets/paddington-cemetery-goat-1910.png){ width="96%" } 
+![](../assets/paddington-cemetery-goat-1910.png){ width="70%" } 
 
 *<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) - Queensland State Archives.</small>*
 
@@ -91,7 +95,7 @@ During the redevelopment of Suncorp Stadium in 2001/02 part of the former cemete
 
 --> 
 
-![](../assets/paddington-memorial.jpg){ width="96%" } 
+![](../assets/paddington-memorial.jpg){ width="70%" } 
 
 *<small>Paddington Memorial, Portion 17 Section 1.</small>*
 
