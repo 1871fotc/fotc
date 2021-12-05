@@ -50,10 +50,6 @@ These are the oldest surviving headstones and footstones in Queensland.
 ![](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
 *<small>Pioneer Children's Graves (13-10-4).</small>*
 
-<!-- 
-https://nundahnews.com.au/did-you-know-that-nundah-cemetery-is-queenslands-oldest-surviving-cemetery/ 
-oldest headstone dates to March 1855
--->
 
 <!--
 Brisbane, 1844 (after a drawing by Carl Friedrich Gerler)

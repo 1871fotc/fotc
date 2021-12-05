@@ -173,7 +173,7 @@ nav:
     - Toowong Identities 1: walks/toowong-identities-1.md 
     - Toowong Identities 2: walks/toowong-identities-2.md 
     - Children: walks/children.md 
-#    - Colonial Conflicts: walks/colonial-conflicts.md     
+    - Colonial Conflicts: walks/colonial-conflicts.md     
 #    - Convict Connections: walks/convict-connections.md 
     - The Irish: walks/irish-trail.md 
 #    - The Jewish Trail: walks/jewish-trail.md    
@@ -186,6 +186,7 @@ nav:
     - Signs: headstones/signs.md  
     - Archaeological Digs: headstones/archaeological-digs.md
     - Celebrity Headstones: headstones/celebrities.md
+#    - History Mystery: headstones/mystery.md
   - Biographies: 
     - Biography Index: bios/bio-index.md
     - Research Resources: bios/research.md

@@ -51,7 +51,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 ## Professions
 
 - **[The Artists][artists]**
-- [Health Professionals][nurses] - commemorating Nurses, Doctors and Health professionals
+- [Health Professionals][nurses] - commemorating Nurses, Doctors and other health professionals
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
 - **[Police][thin-blue-line]** remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** :octicons-pencil-24:
@@ -69,8 +69,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 ## Birds of a feather 
 
 - **[Children][children]** - tragic stories of lives cut short
-- [Colonial Conflicts Trail][colonial-conflicts] 
-- [Convict Connections Trail][convicts]
+- **[Colonial Conflicts][colonial-conflicts]**
+- [Convict Connections][convicts]
 - **[The Irish Trail][irish-trail]**
 - [The Jewish Trail][jewish-trail]
 - **[The Lutheran Heritage Trail][lutheran-trail]** 
@@ -117,7 +117,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [toowong-identities-2]: toowong-identities-2.md
 
 [convicts]: ../assets/guides/convicts.pdf
-[colonial-conflicts]: ../assets/guides/colonial-conflicts.pdf
+[colonial-conflicts]: colonial-conflicts.md
 [irish-trailx]: ../assets/guides/irish-trail.pdf
 [irish-trail]: irish-trail.md
 [jewish-trail]: ../assets/guides/jewish-trail.pdf
