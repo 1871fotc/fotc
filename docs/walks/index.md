@@ -35,47 +35,45 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 ## Politics
 
-- **[The Federation Trail][federation-trail]** - a walk to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery
-- **[Governors Past][governors-past]** - visit some of Queensland's earliest Governors
+- **[The Federation Trail][federation-trail]** - commemorating four Queensland delegates to the 1891 National Australasian Convention
+- **[Governors][governors-past]** - visit some of Queensland's earliest Governors
 - **[Brisbane Mayors][brisbane-mayors]** - learn about 14 Brisbane Mayors from 1859 to 1931
-- **[Labor Luminaries][labor-luminaries]** - a walk recognising people involved in the Labor movement 
+- **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
 
 ## Military 
 
 - **[Lest We Forget][lest-we-forget]** - remembering the men and women who gave their lives in service to their country
-- **[Lest We Forget Naval Walk][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
+- **[Lest We Forget - Naval][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
 - **[Men of the Royal Navy][rn]** 
 - **[Scots in the Australian Imperial Force in World War One][scots-ww1]** :octicons-pencil-24:
 <!-- - **[Toowong Cemetery Remembrance Walk][remembrance-walk]** - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
 
 ## Professions
 
-- **[All the world’s a stage][actors]** - Actors and performers buried in Toowong Cemetery
-- **[Anchors Aweigh!][anchors-aweigh]** - a Maritime walk through Toowong Cemetery
 - **[The Artists][artists]**
-- [In their caring hands][nurses] - commemorate the role of nurses, doctors and health professionals
+- [Health Professionals][nurses] - commemorating Nurses, Doctors and Health professionals
+- **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
+- **[Police][thin-blue-line]** remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** :octicons-pencil-24:
-- **[Famous Sporting Personalities][sporting-personalities]** :octicons-pencil-24:
-- **[The Thin Blue Line][thin-blue-line]** - Queensland Colonial Policing
-- **[Undertakers Underground Heritage Trail][undertakers-underground]**
-
+- **[Sporting Personalities][sporting-personalities]** :octicons-pencil-24:
+- **[Undertakers][undertakers-underground]**
 
 ## Local Identities
 
+- **[Founding Fathers][founding-fathers]** - members of the first Brisbane General Cemetery Trust
 - **[Notable Women][notable-women]** - Women who shaped Queensland
-- **[Founding Fathers][founding-fathers]** - Remembering the members of the first Brisbane General Cemetery Trust
-- **[Toowong Identities Heritage Walk 1][toowong-identities-1]** - A walk commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
-- **[Toowong Identities Heritage Walk 2][toowong-identities-2]** - The second walk commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
+- **[Toowong Identities 1][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
+- **[Toowong Identities 2][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
 
 
 ## Birds of a feather 
 
+- **[Children][children]** - tragic stories of lives cut short
 - [Colonial Conflicts Trail][colonial-conflicts] 
 - [Convict Connections Trail][convicts]
 - **[The Irish Trail][irish-trail]**
 - [The Jewish Trail][jewish-trail]
-- **[The Lutheran Heritage Trail][lutheran-trail]** - With all the company of heaven
-- **[Suffer the children to come unto me][children]** - Tragic stories of lives cut short
+- **[The Lutheran Heritage Trail][lutheran-trail]** 
 
 <!--
 
