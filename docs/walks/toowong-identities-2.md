@@ -12,12 +12,14 @@ On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the 
 
 This heritage walk was conceived as part of commemorative activities. It features only a small number of those former Toowong residents and associates who contributed in some way to Toowong’s social history. 
 
+<!--
 [![](../assets/toowong-identities-2-map.png){ width="40%" }](../assets/toowong-identities-2-map@2x.png)
+-->
 
-
-???+ Example "Directions" 
+???+ Example "Directions"
 
     From the flag pole head to the rear of the ‘Temple of Peace’, near the front gate. Behind the temple is the Temple is the grave of...
+
 
 ## Edmund Curd <small>(4‑37‑14)</small>
 
