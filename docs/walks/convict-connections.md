@@ -7,43 +7,50 @@ hide:
 # Convict Connections Trail
 
 
-??? Warning "To Do" 
-
-    - Check walking order
-    - Create and insert map with link to portion-section-plot explanation
-    - Add directions
-    - Add headstone photos
-    - Convert Bios to Snippets
-    - Create Bio pages
-    - Add Bios to [Index](../bios/bio-index.md)
-    - Decide if link is needed to [Notes](http://www.fotc.org.au/subset/convicts.pdf)
-
 ## Convict settlement children
 
 
 ### Peter McCauley <small>(13-10-4)</small>
 
-Peter McCauley was born in Sydney on the 17th of April 1826, the son of Private Peter McCauley, a member of the 17th Regiment. His mother, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On the 5th of January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The family returned to Sydney in 1832.
+Peter McCauley was born in Sydney on the 17^th^ of April 1826, the son of Private Peter McCauley, a member of the 17^th^ Regiment. His mother, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On the 5^th^ of January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The family returned to Sydney in 1832.
 
 ### William Henry Roberts <small>(13‑10‑4)</small>
 
-William Roberts was the son of Charles Roberts, a store keeper with the Commissariat Department, and Esther Dale, the first teacher of girls in the Moreton Bay settlement. On 11th of June 1829 he was christened by the Reverend John Vincent, who resided at the Moreton Bay Settlement from late March to December 1829. This baptism was the third of only six Vincent conducted during his short tenure. The entry indicated that William Henry Roberts had been born on the 15th of September 1828. The inscription on the top of the chest tomb memorial originally intimated that he had died of illness on 15th of November 1831 aged just three years and two months. The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14; Suffer the little children, and forbid them not, to come unto me: for of such belongeth the Kingdom of God. It has since been lost to weathering. After the death of their son, the Roberts family returned to Sydney in 1834. 
+William Roberts was the son of Charles Roberts, a store keeper with the Commissariat Department, and Esther Dale, the first teacher of girls in the Moreton Bay settlement. On 11^th^ of June 1829 he was christened by the Reverend John Vincent, who resided at the Moreton Bay Settlement from late March to December 1829. This baptism was the third of only six Vincent conducted during his short tenure. The entry indicated that William Henry Roberts had been born on the 15^th^ of September 1828. The inscription on the top of the chest tomb memorial originally intimated that he had died of illness on 15^th^ of November 1831 aged just three years and two months. The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14
+
+>Suffer the little children, and forbid them not, to come unto me: for of such belongeth the Kingdom of God. 
+
+It has since been lost to weathering. After the death of their son, the Roberts family returned to Sydney in 1834. 
 
 ### Jane Pittard <small>(13‑10‑4)</small>
 
-Jane Pittard was the daughter of the late Colour Sergeant John Pittard and his wife Mary. Jane was born in Sydney on the 10th of January 1832. John died in Tasmania in 1831 a little more than four months before Jane’s birth. Shortly after Margaret Pittard was remarried to David Collins of the 17th Regiment and they moved, with Margaret’s two daughters, to Moreton Bay. Jane died just five months later no cause of death is known.
+Jane Pittard was the daughter of the late Colour Sergeant John Pittard and his wife Mary. Jane was born in Sydney on the 10^th^ of January 1832. John died in Tasmania in 1831 a little more than four months before Jane’s birth. Shortly after Margaret Pittard was remarried to David Collins of the 17^th^ Regiment and they moved, with Margaret’s two daughters, to Moreton Bay. Jane died just five months later no cause of death is known.
 
 ## Thomas Dowse <small>(13‑58‑22)</small>
 
-Thomas Dowse was born at Hackney, London. Aged 15, he was accused of theft by his mother, tried at Middlesex on 16 September 1824, convicted and sentenced to life imprisonment. He was transported to New South Wales in the Florentia which arrived in January 1828. At St John's, Parramatta, in 19 November 1832 he married Ann Kelly. Only three of their seven children survived infancy. In 1836, Dowse was granted a ticket‑of‑leave and a conditional pardon in 1839. When the Moreton Bay District was opened for free settlement he decided to go there to see what opportunity awaited a man who was in good health and not afraid of hard work. The family arrived aboard the Falcon on 9 July 1842. Noticing the need of a ferry across the river, he bought a skiff which by 1843 had earned three times its value. By 1846 he was established as an auctioneer and commission agent, and also had the agency for the Sydney Morning Herald. At his premises in Queen Street he sold almost anything from shirts, frock coats, cutlery, looking‑glasses and books to livestock. His auction mart also became a centre for discussion of social reform, for perhaps no one then had a greater horror of the degrading convict system or worked harder to end it. A widower at 47, in Brisbane in 1856 he married Sarah Ann Fairfax; they had three sons and two daughters. Because of his work for separation and contributions to the press under the pseudonym of Old Tom, he was appointed with Walter Hill, director of the Botanic Gardens, to arrange the Queensland exhibit at the London Exhibition in 1862. In this task they were successful and received a public testimonial in 1864. When the first town clerk of Brisbane retired, Dowse was elected in January 1862. He retired from office in 1869 but continued in business until he died aged 75 at his home, Hillside, Milton, on 9 November 1885.
+Thomas Dowse was born at Hackney, London. Aged 15, he was accused of theft by his mother, tried at Middlesex on 16 September 1824, convicted and sentenced to life imprisonment. He was transported to New South Wales in the Florentia which arrived in January 1828. At St John's, Parramatta, in 19 November 1832 he married Ann Kelly. Only three of their seven children survived infancy. In 1836, Dowse was granted a ticket‑of‑leave and a conditional pardon in 1839. When the Moreton Bay District was opened for free settlement he decided to go there to see what opportunity awaited a man who was in good health and not afraid of hard work. 
+
+The family arrived aboard the Falcon on 9 July 1842. Noticing the need of a ferry across the river, he bought a skiff which by 1843 had earned three times its value. By 1846 he was established as an auctioneer and commission agent, and also had the agency for the Sydney Morning Herald. At his premises in Queen Street he sold almost anything from shirts, frock coats, cutlery, looking‑glasses and books to livestock. His auction mart also became a centre for discussion of social reform, for perhaps no one then had a greater horror of the degrading convict system or worked harder to end it. 
+
+A widower at 47, in Brisbane in 1856 he married Sarah Ann Fairfax; they had three sons and two daughters. Because of his work for separation and contributions to the press under the pseudonym of Old Tom, he was appointed with Walter Hill, director of the Botanic Gardens, to arrange the Queensland exhibit at the London Exhibition in 1862. In this task they were successful and received a public testimonial in 1864. When the first town clerk of Brisbane retired, Dowse was elected in January 1862. He retired from office in 1869 but continued in business until he died aged 75 at his home, Hillside, Milton, on 9 November 1885.
 
 ## Agnes Susan Maclean <small>(5‑107‑19)</small>
 
-Agnes Susan Maclean (pictured) was christened Susannah Agnes Kable, the grand‑daughter of First Fleet Convicts Henry Kable and Susannah Holmes and Second Fleet Marine William Charlton and Convict Mary Gittos. Born in Windsor, NSW; Susannah was the eldest of 6 children. Susannah's father William Nathaniel Kable died when she was 11. When Susannah was 19, she married John Shand Maclean, the son of an Equity Court Clerk from Jamaica at St Mary's Cathedral in Sydney. The first of Susannah's 10 children was born in 1847. Susannah followed her husband around his various interests. John attempted farming and for a time taught at a gentlemen's academy in the Richmond area of New South Wales. By 1856, the ever growing family had settled in the Burnett region. Susannah's final four children were born on various cattle properties in the region. Tragedy struck in November 1862 when John fell off a horse and died on Gyranda Station near Cracow. Susannah buried her husband between the homestead and the river the assistance of her brother and brother‑in‑law. Susannah was left with 10 children under the age of 15 and a cattle property to manage. She suffered another setback in the 1870s when a fire tore through Gyranda, destroying all her photographs and heirlooms. Susannah brought up her large family with the assistance of her brother and sister‑in‑law on a nearby property. Agnes Susannah, as she was now known, claimed the right to vote in 1905, in her 80th year. She is then registered on the electoral roll living with her youngest daughter Elvina and her school‑master husband Charles Marshall at the Nerang State Schoolhouse. Agnes died of nephritis at the Brisbane General Hospital on the 20th of January 1911. She was buried next to her sister‑in‑law Mary Ann Kable.
+Agnes Susan Maclean was christened Susannah Agnes Kable, the grand‑daughter of First Fleet Convicts Henry Kable and Susannah Holmes and Second Fleet Marine William Charlton and Convict Mary Gittos. Born in Windsor, NSW; Susannah was the eldest of 6 children. Susannah's father William Nathaniel Kable died when she was 11. 
+
+When Susannah was 19, she married John Shand Maclean, the son of an Equity Court Clerk from Jamaica at St Mary's Cathedral in Sydney. The first of Susannah's 10 children was born in 1847. Susannah followed her husband around his various interests. John attempted farming and for a time taught at a gentlemen's academy in the Richmond area of New South Wales. By 1856, the ever growing family had settled in the Burnett region. Susannah's final four children were born on various cattle properties in the region. 
+
+Tragedy struck in November 1862 when John fell off a horse and died on Gyranda Station near Cracow. Susannah buried her husband between the homestead and the river the assistance of her brother and brother‑in‑law. Susannah was left with 10 children under the age of 15 and a cattle property to manage. She suffered another setback in the 1870s when a fire tore through Gyranda, destroying all her photographs and heirlooms. Susannah brought up her large family with the assistance of her brother and sister‑in‑law on a nearby property. 
+
+Agnes Susannah, as she was now known, claimed the right to vote in 1905, in her 80^th^ year. She is then registered on the electoral roll living with her youngest daughter Elvina and her school‑master husband Charles Marshall at the Nerang State Schoolhouse. Agnes died of nephritis at the Brisbane General Hospital on the 20^th^ of January 1911. She was buried next to her sister‑in‑law Mary Ann Kable.
 
 ## Edward Mott <small>(7‑44‑22)</small>
 
-Edward Mott was born c.1807. He was convicted on the 18th of January 1828 at Gloucester City Assizes for stealing a gun and was sentenced seven years transportation. He arrived in New South Wales on 8 September 1828 aboard the Countess of Harcourt. Edward was sent to Moreton Bay in June 1832 and his ticket‑of‑leave was issued on 9th February 1844. Before 1859 he owned a large dairy on the land bounded by what is now George and Adelaide Streets. His cows watered at a big waterhole where City Hall now stands. After selling up, he moved to the sparsely settled Enoggera District. Late one August evening 1875, Edward was driving back from the city when he was dragged from his dray and his throat was slashed. He was left for dead and bore the scars for the rest of his life. No motive for the crime was ever discovered. Edward lived in Grovely for forty‑five years and after he died on the 28th of August 1900, he was buried at St Matthew's Anglican churchyard in Grovely, but was moved to Toowong Cemetery in 1939. At the time of his death he was described as being in very comfortable circumstances.
+Edward Mott was born c.1807. He was convicted on the 18^th^ of January 1828 at Gloucester City Assizes for stealing a gun and was sentenced seven years transportation. He arrived in New South Wales on 8 September 1828 aboard the Countess of Harcourt. Edward was sent to Moreton Bay in June 1832 and his ticket‑of‑leave was issued on 9^th^ February 1844. 
+
+Before 1859 he owned a large dairy on the land bounded by what is now George and Adelaide Streets. His cows watered at a big waterhole where City Hall now stands. After selling up, he moved to the sparsely settled Enoggera District. Late one August evening 1875, Edward was driving back from the city when he was dragged from his dray and his throat was slashed. He was left for dead and bore the scars for the rest of his life. No motive for the crime was ever discovered. 
+
+Edward lived in Grovely for forty‑five years and after he died on the 28^th^ of August 1900, he was buried at St Matthew's Anglican churchyard in Grovely, but was moved to Toowong Cemetery in 1939. At the time of his death he was described as being in very comfortable circumstances.
 
 ## Kevin Izod O’Doherty <small>(7‑58‑27)</small>
 
@@ -65,3 +72,11 @@ His rehabilitation into acquisitive society included reform; from his accumulate
 - Laurie, A. ’Davis, James (1808 ‑ 1889)', Australian Dictionary of Biography, Volume 1, Melbourne University Press, 1966, pp 294-295.
 - Patrick, Ross and Heather Exiles Undaunted. St. Lucia : University of Queensland Press, 1989 [Kevin and Mary O’Doherty]
 - ‘Death of Old Colonist’ [E. Mott] The Queenslander, 8 September 1900, pp.542-543.
+
+
+<div class="noprint" markdown="1">
+## Brochure
+
+**[Download this walk](../assets/guides/convict-connections.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+
+</div>

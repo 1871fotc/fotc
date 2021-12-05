@@ -70,7 +70,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 - **[Children][children]** - tragic stories of lives cut short
 - **[Colonial Conflicts][colonial-conflicts]**
-- [Convict Connections][convicts]
+- **[Convict Connections][convicts]**
 - **[The Irish Trail][irish-trail]**
 - [The Jewish Trail][jewish-trail]
 - **[The Lutheran Heritage Trail][lutheran-trail]** 
@@ -116,13 +116,11 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [toowong-identities-1]: toowong-identities-1.md
 [toowong-identities-2]: toowong-identities-2.md
 
-[convicts]: ../assets/guides/convicts.pdf
+[convicts]: convict-connections.md
 [colonial-conflicts]: colonial-conflicts.md
-[irish-trailx]: ../assets/guides/irish-trail.pdf
 [irish-trail]: irish-trail.md
 [jewish-trail]: ../assets/guides/jewish-trail.pdf
 [lutheran-trail]: lutheran-trail.md
-[childrenx]: ../assets/guides/children.pdf
 [children]: children.md
 [bcc-walk-1]: bcc-walk-1.md
 [bcc-walk-2]: bcc-walk-2.md

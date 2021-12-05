@@ -52,13 +52,13 @@ Information on the official burial records that can be updated, includes:
 
 Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a person's marker to the appropriate grave. 
 
-![](../assets/markers.jpg){ width="100%" loading=lazy }
+![](../assets/markers.jpg){ width="100%" }
 
 *<small>Grave markers found on the grass, separated from their grave.</small>*
 
 To map a marker to a grave, you need to look up old portion books. For example Portion 1, Section 1, Grave 1 maps to Marker XI 755. 
 
-![](../assets/portion-ledger.png){ width="100%" loading=lazy }
+![](../assets/portion-ledger.png){ width="100%" }
 
 *<small>Sample Portion Book page. © Brisbane City Council</small>*
 
@@ -71,3 +71,7 @@ You can **[ask the Toowong Cemetery Office for assistance finding graves](https:
   - mark the side of the road with the section number relating to your search to help you to find it easily when you visit.
   - outline an unmarked grave using a surface spray if the grave is unmarked. The spray does no harm and two mowings later it will disappear. 
   - take digital photographs of a grave and email it to you.
+
+![](../assets/unmarked-graves.jpg){ width="100%" }
+
+*<small>Unmarked graves can be clearly seen after rain.</small>*
