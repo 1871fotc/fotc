@@ -33,15 +33,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 - **Archibald Watson**, the second Lord Mayor of the City of Brisbane, 1931
 
 <!--
-??? Warning "To Do" 
-
-    - Check walking order
-    - Create and insert map with link to portion-section-plot explanation
-    - Add directions
-    - Add headstone photos
-    - Create Bio pages
-    - Add Bios to [Index](../bios/bio-index.md)
--->
 
 ???+ Example "Directions" 
 
@@ -50,8 +41,12 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![](../assets/john-petrie.jpg){ width="100" }
 
+-->
+
 
 --8<-- "snippets/john-petrie.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -59,17 +54,24 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![poke](../assets/george-edmondstone.jpg){ width="100" }
 
+-->
+
 
 --8<-- "snippets/george-edmondstone.md"
 
+<!--
 ??? Example "Directions" 
 
     - walking directions
               
     ![](../assets/thomas-proe.jpg){ width="100" }
 
+-->
+
 
 --8<-- "snippets/thomas-proe.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -77,8 +79,12 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![missing picture](../assets/john-daniel-heal.jpg){ width="100" }
 
+-->
+
 
 --8<-- "snippets/john-daniel-heal.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -86,8 +92,12 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![missing picture](../assets/john-sinclair.jpg){ width="100" }
 
+-->
+
 
 --8<-- "snippets/john-sinclair.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -95,8 +105,12 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![missing picture](../assets/alfred-john-raymond.jpg){ width="100" }
 
+-->
+
 
 --8<-- "snippets/alfred-john-raymond.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -104,8 +118,12 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![](../assets/james-swan.jpg){ width="100" }
 
+-->
+
 
 --8<-- "snippets/james-swan.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -114,7 +132,12 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![](../assets/richard-symes-warry.jpg){ width="100" }
 
 
+-->
+
+
 --8<-- "snippets/richard-symes-warry.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -123,7 +146,11 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![](../assets/richard-southall.jpg){ width="100" }
 
 
+-->
+
 --8<-- "snippets/richard-southall.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -132,7 +159,12 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![missing picture](../assets/john-hardgrave.jpg){ width="100" }
 
 
+-->
+
+
 --8<-- "snippets/john-hardgrave.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -140,8 +172,12 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![missing picture](../assets/joshua-jeays.jpg){ width="100" }
 
+-->
+
 
 --8<-- "snippets/joshua-jeays.md"
+
+<!--
 
 ??? Example "Directions" 
 
@@ -149,17 +185,27 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![](../assets/william-pettigrew.jpg){ width="100" }
 
+-->
+
 
 --8<-- "snippets/william-pettigrew.md"
+
+
+<!--
 
 ??? Example "Directions" 
 
     - needs picture
               
     ![](../assets/archibald-watson.jpg){ width="100" }
+    
+-->
 
 
 --8<-- "snippets/archibald-watson.md"
+
+
+<!--
 
 ??? Example "Directions" 
 
@@ -173,12 +219,19 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
       - Walk into Portion 7a about 4 sections, and you'll find...
 
     ![](../assets/william-macnaughton-galloway-headstone.jpg){ width="100" }
+    
+-->
 
 --8<-- "snippets/william-macnaughton-galloway.md"
+
+
+<!--
 
 ??? Example "Directions" 
 
     - Retrace your steps back to the starting point
+
+-->
 
 ## Further Reading
 

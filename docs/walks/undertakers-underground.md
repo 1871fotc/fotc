@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Undertakers Underground Heritage Trail
+# Undertakers Underground Heritage Walk
 
 ![](../assets/John-Hislop-Undertakers-Brisbane-ca1902.jpg)
 

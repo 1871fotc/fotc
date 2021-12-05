@@ -18,7 +18,7 @@ hide:
 <!--
 ???+ Example "Directions" 
 
-    Start at ... and follow these walking directions to arrive at the grave of...
+    Start at …and follow these walking directions to arrive at the grave of...
     
     ![](../assets/404-16x9.png){ width="15%" } 
 -->

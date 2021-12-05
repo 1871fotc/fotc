@@ -62,7 +62,7 @@ This is an example of the bronze plaques erected by the War Graves Commission ov
 
 ??? Example "Directions" 
 
-    The grave next to this one is the grave of... 
+    The grave next to this one is the grave of…
     
     ![](../assets/isaac-hillel-hillman.jpg){ width="20%" }
 
@@ -146,7 +146,7 @@ Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. H
 
 ??? Example "Directions" 
 
-    Now walk around to the start of the third path. Looking LEFT the 23rd headstone from the start is that of... 
+    Now walk around to the start of the third path. Looking LEFT the 23rd headstone from the start is that of…
     
     ![](../assets/myer-kangan.jpg){ width="20%" }
 
@@ -262,7 +262,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
 
 ??? Example "Directions" 
 
-    The third grave after the SHEMOTH grave and in the rear row is that of... 
+    The third grave after the SHEMOTH grave and in the rear row is that of…
     
     ![](../assets/e-s-meyers.jpg){ width="20%" }
 

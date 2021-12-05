@@ -45,7 +45,7 @@ A common indicator of a life has been cut off short is...
 
 ### Paving
 
-According to the Masonic tradition... 
+According to the Masonic tradition…
 
 ### Crown
 
