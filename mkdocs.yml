@@ -41,15 +41,15 @@ theme:
 #      tip: fontawesome/regular/question-circle
   custom_dir: overrides
   features:
-  - announce.dismiss
-  - navigation.instant
-  - navigation.tracking
-  - navigation.top
-  - navigation.tabs
-  - navigation.tabs.sticky
-#  - navigation.indexes
-  - search.highlight
-  - search.suggest
+#    - announce.dismiss
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+#    - navigation.indexes
+    - search.highlight
+    - search.suggest
 
 # Customization
 extra:
