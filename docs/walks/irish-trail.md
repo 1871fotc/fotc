@@ -25,6 +25,10 @@ Born in Tyrone, the son of Joseph and Ann (1803‑1883), Darragh arrived in Sydn
 
 Darragh’s brothers were also businessmen in Brisbane. James (1831‑1905) was a publican of the Logan Hotel Main St, Kangaroo Point and the Sportsman’s Arms in Queen St while Hugh (1839—1916) was also a butcher.
 
+![](../assets/sportsmans-arms-hotel.jpg){ width="70%" }  
+
+*<small>[Sportsman's Arms Hotel, Brisbane, ca. 1874](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21257614520002061) — State Library of Queensland.</small>*
+
 ??? Example "Directions" 
 
     Just past the three Darragh graves in the row behind is…
@@ -35,13 +39,29 @@ Born at Clonmel, Tipperary the son of Edward Power and Mary Ann Grene, Power was
 
 He arrived in Queensland 1869 at the request of his old friends Perkins and Gooley to manage Browns Brewery (Perkins & Co.) and married Perkins’s sister Mary Therese and settled in Brisbane 1873. William was a Member of the Legislative Council from 1883 until his death. He died at Nundah 14 August 1903 and was buried the next day at Toowong by Rev Fr. Byrne.
 
+
+![](../assets/city-brewery.jpg){ width="70%" }  
+
+*<small>[City Brewery, owned by Perkins & Co., Brisbane, 1872-1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220040770002061) — State Library of Queensland.</small>*
+
+![](../assets/castlemaine-perkins-brewery.jpg){ width="70%" }  
+
+*<small>[View of the Castlemaine Perkins Brewery in Milton, ca. 1929](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338590002061). The brewery, located in Milton Road, was established in 1878 by Fitzgerald, Quinlan and Co. and called the Castlemaine Brewery. The brewery merged with Perkins and Company in 1928. — State Library of Queensland.</small>*
+
+
 ??? Example "Directions" 
 
     Next is the grave of the Mooney family…
 
 ## James Thomas Mooney 1855‑1877  <small>(7‑45‑10)</small> 
 
-Mooney was born in New York, the son of Joseph and Rosa Mooney, natives of Co. Cavan. They arrived in Sydney 1857 on the FitzJames. Mooney was a volunteer fireman who was fatally burned by an exploding cask of spirits during a fire at Hughes’ grocery store in Queen St. His mother was publican of the Royal Exchange Hotel in Albert Street from where his funeral procession left. His monument was financed by public subscription. His father’s sister was Mary, wife of James Mayne, hide merchant in Tyrone and brother of Patrick Mayne
+Mooney was born in New York, the son of Joseph and Rosa Mooney, natives of Co. Cavan. They arrived in Sydney 1857 on the FitzJames. Mooney was a volunteer fireman who was fatally burned by an exploding cask of spirits during a fire at Hughes’ grocery store in Queen St. His mother was publican of the Royal Exchange Hotel in Albert Street from where his funeral procession left. His monument was financed by public subscription. His father’s sister was Mary, wife of James Mayne, hide merchant in Tyrone and brother of Patrick Mayne.
+
+
+![](../assets/royal-exchange-hotel-albert-st.jpg){ width="40%" }  
+
+*<small>[Royal Exchange Hotel and Perry House on Elizabeth Street looking north, ca. 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271909090002061) — State Library of Queensland.</small>*
+
 
 ## Patrick Mayne 1825‑1865  <small>(7‑49‑9)</small> 
 
