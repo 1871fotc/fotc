@@ -12,11 +12,11 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 !!! example "Format improvements" 
 
-    We're progressively improving the self-guided walk format by converting them to a mobile-friendly format, adding maps, walking instructions, and photos. Mobile-friendly walks are shown in **bold**.
+    We're improving the self-guided walk format by converting them to a mobile-friendly format, adding maps, walking instructions, and photos. Mobile-friendly walks are shown in **bold**.
 
     Walks marked with an :octicons-pencil-24: are work in progress. 
     
-    Non-converted walks are A4 pdf files, designed to be printed and folded in half to make an A5 brochure. 
+    All walks include an A4 pdf file, designed to be printed and folded in half to make an A5 brochure. 
 
 <!-- 
 
@@ -42,18 +42,23 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 ## Military 
 
+- **[Colonial Conflicts][colonial-conflicts]**
 - **[Lest We Forget][lest-we-forget]** - remembering the men and women who gave their lives in service to their country
 - **[Lest We Forget - Naval][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
 - **[Men of the Royal Navy][rn]** 
 - **[Scots in the Australian Imperial Force in World War One][scots-ww1]** :octicons-pencil-24:
+- **[1919 Soldiers][1919-soldiers]**  :octicons-pencil-24:
+
 <!-- - **[Toowong Cemetery Remembrance Walk][remembrance-walk]** - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
 
 ## Professions
 
-- **[The Artists][artists]**
-- [Health Professionals][nurses] - commemorating Nurses, Doctors and other health professionals
+- **[Artists][artists]**
+- [Health Professionals][nurses] - commemorating Nurses, Doctors and other health professionals :octicons-pencil-24:
+- [Judiciary][judiciary] - early Judges buried in Toowong Cemetery :octicons-pencil-24:
+- **[Mariners][mariners]** - Anchors Aweigh!
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
-- **[Police][thin-blue-line]** remembering Queensland Colonial Police
+- **[Police][thin-blue-line]** - remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** :octicons-pencil-24:
 - **[Sporting Personalities][sporting-personalities]** :octicons-pencil-24:
 - **[Undertakers][undertakers-underground]**
@@ -69,20 +74,33 @@ The Friends of Toowong Cemetery have researched and published a large collection
 ## Birds of a feather 
 
 - **[Children][children]** - tragic stories of lives cut short
-- **[Colonial Conflicts][colonial-conflicts]**
 - **[Convicts][convicts]** - connections to our convict past
-- **[The Irish Trail][irish-trail]**
-- [The Jewish Trail][jewish-trail]
-- **[The Lutheran Heritage Trail][lutheran-trail]** 
+- **[The Irish][irish-trail]**
+- [The Jewish][jewish-trail]  :octicons-pencil-24:
+- **[The Lutheran][lutheran-trail]** 
 
-<!--
 
-## Brisbane City Council walks
+## Other walks :octicons-pencil-24:
 
-- [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery.
-- [Brisbane City Council Trail 2][bcc-walk-2]
+- [20/20 Vision](../assets/guides/2020-vision.pdf) <!-- [20/20 Vision][2020-vision] -->
+- Brisbane City Council Trail 1 <!-- [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. -->
+- Brisbane City Council Trail 2 <!-- [Brisbane City Council Trail 2][bcc-walk-2] -->
+- [Brisbane Open House](../assets/guides/boh.pdf) <!-- [Brisbane Open House][brisbane-open-house] -->
+- Conflict and Compassion
+- [Erected by their Family, Friends and Colleagues](../assets/guides/erected-by-friends.pdf)
+- [Propectors](../assets/guides/prospectors.pdf) - 'ey you!
+- [One Adult, One Vote](../assets/guides/sufferage.pdf) - Queenslands' own Suffrage story
+- [One Day: Christmas](../assets/guides/one-day-christmas.pdf)
+- One Day: New Years' Day
+- [Mothers](../assets/guides/mothers.pdf)
+- [Portion 5 - part 1](../assets/guides/portion5-part1.pdf) - A ramble through Portion 5 - part 1
+- [Portion 5 - part 2](../assets/guides/portion5-part2.pdf) - A ramble through Portion 5 - part 2
+- [Portions 6 and 24](../assets/guides/portion6-and-24.pdf) - A walk through Portions 6 and 24
+- [Portions 15 and 16](../assets/guides/portion15-and-16.pdf) - A wander through Portions 15 and 16
+- Rich man, Poor man <!-- [Rich man, Poor man](../assets/guides/rich-man-poor-man.pdf) -->
+- [Steam](../assets/guides/steam.pdf)
+- [Taken before their time](../assets/guides/taken-before-their-time.pdf)
 
--->
 
 <!-- links to pages or pdfs -->
 
@@ -91,24 +109,25 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [brisbane-mayors]: brisbane-mayors.md
 [labor-luminaries]: labor-luminaries.md
 
-[actors]: all-the-worlds-a-stage.md 
-[anchors-aweigh]: anchors-aweigh.md
-[artists]: artists.md
-
+[lest-we-forget]: lest-we-forget.md
+[lest-we-forget-navy]: lest-we-forget-navy.md
 [rn]: men-of-the-royal-navy.md
+[remembrance-walk]: remembrance-walk.md
+[scots-ww1]: scots-in-the-aif-ww1.md
+[1919-soldiers]: 1919-soldiers.md
+[colonial-conflicts]: colonial-conflicts.md
 
+[actors]: all-the-worlds-a-stage.md 
+[artists]: artists.md
+[mariners]: anchors-aweigh.md
+[judiciary]: ../assets/guides/early-judiciary.pdf
+[printers]: printers.md
+[thin-blue-line]: thin-blue-line.md
+[sporting-personalities]: sporting-personalities.md
 [undertakers-underground]: undertakers-underground.md 
 [nurses]: ../assets/guides/in-their-caring-hands.pdf
 [nursesx]: in-their-caring-hands.md
 
-[lest-we-forget]: lest-we-forget.md
-[lest-we-forget-navy]: lest-we-forget-navy.md
-[remembrance-walk]: remembrance-walk.md
-[scots-ww1]: scots-in-the-aif-ww1.md
-
-[printers]: printers.md
-[thin-blue-line]: thin-blue-line.md
-[sporting-personalities]: sporting-personalities.md
 [founding-fathersx]: ../assets/guides/founding-fathers.pdf
 [founding-fathers]: founding-fathers.md
 [notable-womenx]: ../assets/guides/notable-women.pdf
@@ -117,10 +136,10 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [toowong-identities-2]: toowong-identities-2.md
 
 [convicts]: convict-connections.md
-[colonial-conflicts]: colonial-conflicts.md
 [irish-trail]: irish-trail.md
 [jewish-trail]: ../assets/guides/jewish-trail.pdf
 [lutheran-trail]: lutheran-trail.md
 [children]: children.md
+
 [bcc-walk-1]: bcc-walk-1.md
 [bcc-walk-2]: bcc-walk-2.md

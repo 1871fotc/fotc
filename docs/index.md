@@ -43,7 +43,7 @@ On this site you'll find information about:
 [image5]: assets/museum.jpg
 [image6]: assets/federation-pavillion.jpg
 
-[image7]: assets/peter-jackson.jpg "Peter Jackson's Headstone"
+[image7]: assets/peter-jackson-headstone.jpg "Peter Jackson's Headstone"
 [image8]: assets/cherub.jpg "Cherub Headstone"
 [image9]: assets/harry-potter-16x9.jpg "Spoiler Alert"
 [image10]: assets/clasped-hands.jpg "We Part To Meet Again"

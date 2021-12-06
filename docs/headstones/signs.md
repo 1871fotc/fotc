@@ -22,14 +22,14 @@ Most organisations had rules, ranks and rites and developed a symbolic language 
 
 Most cemetery visitors are familiar with the compass and square, the working tools of the Masonic orders, but these have variations which inform the knowledgable passer-by the rank held by the deceased in the organisation, such as the number of dots on the square. The "G" in the centre may be interpreted as "God" by speculative Masons, and as "Geometry" by operative Masons. 
 
-![](../assets/freemason-sign.jpg){ width="50%" loading=lazy }  
+![](../assets/freemason-sign.jpg){ width="50%" }  
 
 
 ## Odd Fellows
 
 The Odd Fellows were so named because they were originally drawn together from an odd variety of trades with insufficient numbers to form their own trade guilds. Their three-link chain stands for Friendship, Love and Truth. A variation is a monogram consisting of the letters F, C and B for friendship, charity and benevolence. Charity is also represented by a hand holding a heart and is most often associated with the Manchester Unity Independent Order of Odd Fellows (MUIOOF).
 
-![](../assets/wooden-hand-heart-in-hand.jpg){ width="47%" loading=lazy }  ![](../assets/odd-fellows.jpg){ width="49%" loading=lazy }  
+![](../assets/wooden-hand-heart-in-hand.jpg){ width="47%" }  ![](../assets/odd-fellows.jpg){ width="49%" }  
 
 *<small>[Wooden Hand - Heart in Hand](https://collections.museumsvictoria.com.au/items/251958), Museums Victoria </small>* <br>
 *<small>[Manchester Unity Independent Order of Odd Fellows, ca. 1910](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1413410), State Library of Queensland</small>*
@@ -107,7 +107,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
     Have you found the location of an Acronym? [Contact us](../about/index.md#contact-us) with a photo and the details. 
 
-![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" loading=lazy }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" loading=lazy } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" loading=lazy }](https://trove.nla.gov.au/newspaper/article/186543823)
+![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823)
 
 <!-- PPCM Permanent President Courts Martial https://www.awm.gov.au/learn/glossary/p -->
 
@@ -118,12 +118,12 @@ Some of these organisations have evolved to become financial services companies,
 
 - The Independent Order of Odd Fellows became [IOOF](https://www.ioof.com.au/about-us/about-ioof), who in late 2021 decided to rebrand as Insignia Finance. 
 - The Ancient Order of Foresters evolved into [Foresters Financial](https://forestersfinancial.com.au/about-us/our-history/).
-- In 1993, the Australian Natives Association merged with Manchester Unity Independent Order of Oddfellows to become [Australian Unity](https://www.australianunity.com.au/about-us/our-story).
+- In 1993, the Australian Natives Association merged with Manchester Unity Independent Order of Odd Fellows to become [Australian Unity](https://www.australianunity.com.au/about-us/our-story).
 
 You can find signs of Friendly Societies in the local area such as: 
 
 - [Foresters Hall](https://apps.des.qld.gov.au/heritage-register/detail/?id=601662) 16 Latrobe Terrace, Paddington.
-- [Baroona Hall](https://www.qld.gov.au/recreation/arts/heritage/experience/music-trail/baroona-hall) in Caxton St, Milton, built for the United Brothers Lodge of the Order of Oddfellows.
+- [Baroona Hall](https://www.qld.gov.au/recreation/arts/heritage/experience/music-trail/baroona-hall) in Caxton St, Milton, built for the United Brothers Lodge of the Order of Odd Fellows.
 - [Royal Antediluvian Order of Buffaloes Lodge Hall](https://heritage.brisbane.qld.gov.au/heritage-places/1827) in Woolloongabba.
 
 ## Further Reading

@@ -16,22 +16,7 @@ Land set aside in 1865 as a cemetery reserve was affirmed as Brisbane General Ce
 
 Victorian’s love of ancient symbolism is reflected in the designs of their monuments. Throughout Toowong Cemetery you will notice symbols of hope and immortality, such as ivy; clasped hands suggesting farewell or reunion; and urns and obelisks inspired by a revived interest in Egyptian, Greek and Roman symbolism. Monuments also reflect prevailing architectural styles and building materials. Just as the Victorian attention to detail and ornamentation has given way to function and simplicity in architecture, modern headstones have become more subdued, losing much of the extravagance and elegance of 19th Century monuments.  
 
-More information on the [symbolism used in Victorian era cemeteries](../headstones/symbolism.md) like Toowong Cemetery can be found at the Cemetery Office, at the display at Portion Two, or 
-<!-- add links -->
-
-
-??? Warning "To Do" 
-
-    - Check walking order
-    - Create and insert map with link to portion-section-plot explanation
-    - Add headstone photos
-    - Convert Bios to Snippets
-    - Create Bio pages
-    - Add Bios to [Index](../bios/bio-index.md)
-
-## Start the walk
-
-==insert map and directions==
+More information on the [symbolism used in Victorian era cemeteries](../headstones/symbolism.md) like Toowong Cemetery can be found at the Cemetery Office, at the display at Portion Two
 
 Before starting, you may like to download the [Toowong Cemetery map](http://www.fotc.org.au/toowong_map.jpg). 
 <!-- Seek permission to annotate the map showing the walk -->
@@ -58,9 +43,11 @@ Thallon died at the Mater Hospital in Brisbane on 24 March 1911 from a cerebral 
     Continue along Federation Avenue to graves of George Phillips and James Cowlishaw on either side of the road.
 
 ## George Phillips <small>(1843-1921)</small>
+
 George Phillips died on 3 June 1921 at the age of 77 after being known as one of the pioneers who opened up North Queensland, the possibilities of the Gulf country, and who laid out the town of Normanton. A surveyor and civil engineer, he also made many valuable contributions to The Daily Telegraph on the physical aspects, climatology, natural and artificial products of the country, and the life and manners of its people. For many years he was a leading member and fellow of the Royal Geographical Society, and contributed several valuable papers. During his funeral service at the City Tabernacle, Reverend Richer, a good friend of George Phillips, spoke of the man and his great service to Queensland. 
  
 ## James Cowlishaw <small>(1834-1913)</small>
+
 James Cowlishaw was an architect, newspaper director, trustee and politician. He was born in Sydney in 1834 and came to Brisbane in 1861 to practise as an architect. He designed a few private homes including Hanworth House at East Brisbane and Oakwal at Windsor, both of which still exist, but he was mostly concerned with commercial buildings and designed some of the finest buildings of the period, including Brisbane Grammar School. He acquired a large interest in the Queensland Trustees Limited, and was a founder of the Brisbane Gas Company in 1864. He was also one of the founding trustees of the Toowong Cemetery.
 
 Cowlishaw was Chairman of Directors of The Daily Telegraph for many years. Later his brother George, who is also buried in this grave, became Director of The Daily Telegraph for an unbroken period of 20 years from 1893 until his sudden death from a seizure on 6 January 1913. 

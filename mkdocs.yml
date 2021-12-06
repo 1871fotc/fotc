@@ -155,6 +155,7 @@ nav:
     - Governors: walks/governors-past.md 
     - Brisbane Mayors: walks/brisbane-mayors.md
     - Labor Luminaries: walks/labor-luminaries.md
+    - Colonial Conflicts: walks/colonial-conflicts.md         
     - Lest We Forget: walks/lest-we-forget.md
     - Lest We Forget - Naval: walks/lest-we-forget-navy.md 
 #    - Toowong Cemetery Remembrance Walk: walks/rememberance-walk.md 
@@ -162,6 +163,7 @@ nav:
     - Scots in the AIF: walks/scots-in-the-aif-ww1.md
     - Artists: walks/artists.md 
 #    - Health Professionals: walks/in-their-caring-hands.md
+#    - Judiciary: walks/early-judiciary.md
     - Mariners: walks/anchors-aweigh.md
     - Performers: walks/all-the-worlds-a-stage.md 
     - Police: walks/thin-blue-line.md 
@@ -173,7 +175,6 @@ nav:
     - Toowong Identities 1: walks/toowong-identities-1.md 
     - Toowong Identities 2: walks/toowong-identities-2.md 
     - Children: walks/children.md 
-    - Colonial Conflicts: walks/colonial-conflicts.md     
     - Convicts: walks/convict-connections.md 
     - The Irish: walks/irish-trail.md 
 #    - The Jewish Trail: walks/jewish-trail.md    
@@ -185,14 +186,14 @@ nav:
 #    - Shapes: headstones/shapes.md  
     - Signs: headstones/signs.md  
     - Archaeological Digs: headstones/archaeological-digs.md
-    - Celebrity Headstones: headstones/celebrities.md
+#    - Celebrity Headstones: headstones/celebrities.md
 #    - History Mystery: headstones/mystery.md
   - Biographies: 
     - Biography Index: bios/bio-index.md
     - Research Resources: bios/research.md
   - News: 
-    - 2021 News: news/2021.md
-    - 2022 News: news/2022.md    
+    - 2022 News: news/2022.md
+    - 2021 News: news/2021.md  
   - About Us: 
     - About Friends of Toowong Cemetery: about/index.md
     - Federation Pavilion: about/federation-pavilion.md

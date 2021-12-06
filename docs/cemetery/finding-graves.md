@@ -16,7 +16,7 @@ See if you can locate Peter Jackson's grave using the Portion and Section number
 
 Portion numbers are shown on signs throughout the cemetery.
 
-![Portion Sign](../assets/portion-sign.jpg){ width="100%" loading=lazy }
+![Portion Sign](../assets/portion-sign.jpg){ width="100%" }
 
 *<small>Portion 10 sign post.</small>*
 

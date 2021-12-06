@@ -26,7 +26,7 @@ Wear a hat, enclosed shoes, and bring a water bottle.
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
-![][image11]{ width="32%" loading=lazy } ![][image9]{ width="32%" loading=lazy } ![][image8]{ width="32%" loading=lazy }   
+![][image11]{ width="32%" } ![][image9]{ width="32%" } ![][image8]{ width="32%" }   
  
 
 [image4]: assets/140-commemoration-sml.png

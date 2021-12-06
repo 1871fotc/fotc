@@ -38,6 +38,6 @@ hide:
 <div class="noprint" markdown="1">
 ## Brochure
 
-**[Download this walk](../assets/guides/scots-in-the-aif-ww1.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/scots-in-the-aif.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
