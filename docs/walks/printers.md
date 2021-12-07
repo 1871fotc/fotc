@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Print Media Identities of Early Brisbane
+# Print Media Identities of Early Brisbane :octicons-pencil-24:
 
 **… our liberty depends on freedom of the press, and tht cannot be limited without being lost.** — Thomas Jefferson 1787
 

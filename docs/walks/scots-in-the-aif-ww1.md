@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Scots in the Australian Imperial Force in World War One
+# Scots in the Australian Imperial Force in World War One :octicons-pencil-24:
 
 <!--
 ## Private John Jack <small>()</small>

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# 1919 Soldiers
+# 1919 Soldiers :octicons-pencil-24:
 
 ## Private Frank Goodwin <small>(10‑43‑26)</small>
 

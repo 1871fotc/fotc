@@ -49,7 +49,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 - **[Artists][artists]**
 - [Health Professionals][nurses] - commemorating Nurses, Doctors and other health professionals :octicons-pencil-24:
-- [Judiciary][judiciary] - early Judges buried in Toowong Cemetery :octicons-pencil-24:
+- **[Judiciary][judiciary]** - early Judges buried in Toowong Cemetery :octicons-pencil-24:
 - **[Mariners][mariners]** - Anchors Aweigh!
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
 - **[Police][thin-blue-line]** - remembering Queensland Colonial Police
@@ -114,7 +114,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [actors]: all-the-worlds-a-stage.md 
 [artists]: artists.md
 [mariners]: anchors-aweigh.md
-[judiciary]: ../assets/guides/early-judiciary.pdf
+[judiciary]: judiciary.md
 [printers]: printers.md
 [thin-blue-line]: thin-blue-line.md
 [sporting-personalities]: sporting-personalities.md

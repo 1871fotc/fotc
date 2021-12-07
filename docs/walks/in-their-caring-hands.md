@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# In their caring hands 
+# In their caring hands :octicons-pencil-24:
 
 **A heritage trail to commemorate the role of nurses, doctors and health professionals**
 

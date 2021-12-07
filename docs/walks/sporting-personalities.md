@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Famous Sporting Personalities
+# Famous Sporting Personalities :octicons-pencil-24:
 
 ## Peter Morgan 1916–1953 <small>(1‑88‑4)</small>
 

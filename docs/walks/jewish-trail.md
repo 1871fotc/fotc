@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Jewish Heritage Trail
+# The Jewish Heritage Trail :octicons-pencil-24:
 
 
 ![](../assets/brisbane-synagogue-1906.jpg){ width="70%" }
