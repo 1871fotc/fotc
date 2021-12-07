@@ -13,7 +13,13 @@ Born at Donadea near Hodgetown Co. Kildare, Devoy was the daughter of James and 
 
 Anne married Patrick Devoy and with the union came the “curse of the Devoys”. This had been placed on a Devoy of Huguenot stock who turned in a Catholic priest to Cromwell’s men. As he was taken away, the priest blessed all the Devoy women and cursed the men so that no male Devoy would live to see his son in manhood. 
 
-The Devoys arrived in Queensland in 1864 on the Landsborough after selling their land in Ireland to the Ursuline nuns. They brought a young family with them; John (later managing director of XXXX), Marguerite and Annie. In the tradition of the curse Pat was killed the same year by a landslide while selecting land near Toowoomba.
+The Devoys arrived in Queensland in 1864 on the Landsborough after selling their land in Ireland to the Ursuline nuns. They brought a young family with them; John (later Managing Director of Castlemaine Perkins), Marguerite and Annie. In the tradition of the curse Pat was killed the same year by a landslide while selecting land near Toowoomba.
+
+
+![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
+
+*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
+
 
 ??? Example "Directions" 
 
@@ -67,7 +73,9 @@ Mooney was born in New York, the son of Joseph and Rosa Mooney, natives of Co. C
 
 The large white monument to this family and the story of how Mayne gained his wealth is the subject of a book by Rosamond Siemon, [The Mayne Inheritance](https://www.uqp.com.au/books/the-mayne-inheritance), and an update in a [postscript](https://espace.library.uq.edu.au/data/UQ_190885/DU272_M39S52_1999.pdf?Expires=1638703326&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=Oqr1I5VjP0AOKHIQHusptEPaECJOMKyGfPTeeHbJQq2dcEWhNiEbC7rKLSMsWc9iezLc2PjvjKPhJFZ9dyAVl0RO5emq018DBoZqRnp~A1c0nGE4~pjhmpuGWGWWXVfNB3aG8OEfkXrXGXP90j20OQ9fkLX7RYJMuPuLXdgM9fZT~j4wvU69y0gX093smxmTpK5r-k8TCIedkpMHR4ys7a9hIZHH7zOwYVcdXzNbGHvFGG23Zzhaen0QATrqBAET7jeIRGs597w35BKQPhNyvLaE7tkem7dPoHJF8UlYAG2cx~sp3fpsSzHJmvbjqxMU229fWsSOHJHx-62ZLm1JVQ__). Mayne was born at Cookstown, Tyrone, the son of Isaac Mayne and Rose Mullin. He arrived in Brisbane in 1849 after marrying in Sydney, Mary McIntosh from Ennis, Co. Clare. 
 
-Mayne gained his wealth by the reputed murder of a cedar cutter and established his butcher business in Queen St where the present Brisbane Arcade is. He was an Alderman of the Brisbane City Council 1853 to 1865, the year he died of a heart attack. His rumoured death‑bed confession extracted a promise from his children that they would not continue the family line. The family’s finances eventually benefited many public institutions especially The University of Queensland.
+Mayne gained his wealth by the reputed murder of a cedar cutter and established his butcher business in Queen St where the present Brisbane Arcade stands. He was an Alderman of the Brisbane City Council 1853 to 1865, the year he died of a heart attack. His rumoured death‑bed confession extracted a promise from his children that they would not continue the family line. The family’s finances eventually benefited many public institutions especially The University of Queensland.
+
+![](../assets/mayne-monument.jpg){ width="40%" }  
 
 ??? Example "Directions" 
 
@@ -195,6 +203,11 @@ He was an MLA in 1867 and MLC 1877—1885 and also returned to Ireland as the Na
 
 *<small>[Doctor Kevin Izod O'Doherty (1823-1905)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218936000002061) — State Library of Queensland.</small>*
 
+
+![](../assets/st-patricks-day-1903.jpg){ width="40%" }  
+
+*<small>[St. Patrick's Day procession, Queen Street, Brisbane, 1903](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249906440002061) — State Library of Queensland.</small>*
+
 ??? Example "Directions" 
 
     Again detour down this row to the left passing, on the right, Maloney, McKay and Toomey to see on the left past a tree the remains of the grave of…
@@ -242,13 +255,25 @@ Born in Ennistymon in County Clare the first born of a very large family. He, hi
 
 The family left Ireland for London and boarded the RMS Dacca heading for Queensland. The trip took a little longer than expected. The ship left London 29^th^ April 1890 and the trip was interrupted at 6.30AM on the 16^th^May when she hit the Daedulus Reef in the Red Sea. All passengers were able to climb down onto the rocks of the reef where they all stood in waist deep water until some were moved to the rocks surrounding the lighthouse. According to the London Illustrated News May 20^th^, The passengers lost everything except the wet clothes they were standing in when the ship sank four hours later. No lives were lost. 
 
-Michael and the rest of the family settled in Warwick and he practiced tailoring in partnership with his father in Fitzroy Street. He married Catherine Stokes in Warwick 1 June 1891. She was born in Moycarkey in Tipperary. He died in Brisbane on 26 December 1917 and was buried the next day. They had four children two of whom died very young. His son Francis Patrick Devitt (Sonny) joined the Australian Army and died 5 Aug 1915 six months before his 21^st^ birthday and is buried in France.
+Michael and the rest of the family settled in Warwick and he practiced tailoring in partnership with his father in Fitzroy Street. He married Catherine Stokes in Warwick 1 June 1891. She was born in Moycarkey in Tipperary. He died in Brisbane on 26 December 1917 and was buried the next day. They had four children two of whom died very young. His son Francis Patrick Devitt (Sonny) joined the Australian Army and died 5 Aug 1915 six months before his 21^st^ birthday and is buried in France. Devitt St beside Warwick racecourse is named for the Devitt family.
+
+
+![](../assets/devitt-family-warwick-1906.jpg){ width="70%" }  
+
+*<small>[Devitt family home in Warwick, Queensland, 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218531370002061), Ann Ruth Devitt with son Matthew Francis and James Devitt with son Kevin. Young James John Devitt is seated on the edge of the verandah. — State Library of Queensland.</small>*
+
 
 Michael Joseph Devitt 1892—1932 buried in the same grave was his son born 11 June 1892 and he was a horse trainer and show rider. He also joined up but a pleading emotional letter from his mother to the Army echelon begging them to discharge him and stating her need of his support saw him discharged after 8 weeks. He came down to the Brisbane National show to ride in the men’s event and met a young lady Zora Brenda Pitt who was the ladies champion rider that year. They married in 1917 in Brisbane and raised their family of a boy and a girl at various railway stations as he became the manager of railway refreshment rooms. Babinda, Roma St, Helidon and mainly Bundaberg When royalty visited Bundaberg the only place big enough to host the function was the refreshment rooms. He was well respected. He took ill in 1932 and was brought down to Brisbane and sadly died at the very young age of 39 on 24 March 1932 leaving Zorah to bring up two young children. She took up millinery and many were the fashionable ladies at the Brisbane races wearing her creations.
 
 Their son Francis Pitt Devitt served in WWII and was one of the brave Aussies who found themselves up against Japanese Imperial Marines in Bougainville. All specially chosen for being 6 feet plus tall and not a pair of glasses among them. He survived but was always troubled by what he had to do and is buried in Mt Gravatt in the military section. Their daughter Brenda Pitt Devitt, a top horsewoman, artist and photographer married a jockey who became Qld’s premier jockey 9 times and over 1800 wins and they travelled the world but mainly UK and France where he rode a further 850 winners and was privileged to ride for the Queen.
 
-John Devitt of Olympic fame and William Devitt who was John Wren’s right hand man in Queensland are both descended from Thomas and Bridget. Devitt St beside Warwick racecourse is named for the Devitt family.
+John Devitt of Olympic fame and William Devitt who was John Wren’s right hand man in Queensland are both descended from Thomas and Bridget. 
+
+![](../assets/john-devitt-1960-Olympics.jpg){ width="40%" }  
+
+
+*<small>[John Devitt at the 1960 Olympics](https://en.wikipedia.org/wiki/John_Devitt) — [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)</small>*
+
 
 
 ## Acknowledgements

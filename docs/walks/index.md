@@ -10,9 +10,9 @@ search:
 
 The Friends of Toowong Cemetery have researched and published a large collection of themed self-guided walks. Choose a walk from the list below.
 
-!!! example "Format improvements" 
+???+ example "Format improvements" 
 
-    We're improving the self-guided walk format by converting them to a mobile-friendly format, adding maps, walking instructions, and photos. Mobile-friendly walks are shown in **bold**.
+    We're improving the self-guided walks  by converting them to a mobile-friendly format, adding maps, walking instructions, and photos. Mobile-friendly walks are shown in **bold**.
 
     Walks marked with an :octicons-pencil-24: are work in progress. 
     
@@ -23,12 +23,6 @@ The Friends of Toowong Cemetery have researched and published a large collection
 ![](../assets/self-guided-walk-brochures.jpg){ width="50%" } 
 
 *<small>Self-guided walk brochures are available in the [Museum](../cemetery/museum.md)</small>*
-
-??? Warning "To Do" 
-
-    - Determine the best way to group these walks
-    - Refine names and descriptions
-    - Convert and test all walks 
 
 -->
 
@@ -75,7 +69,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 - **[Children][children]** - tragic stories of lives cut short
 - **[Convicts][convicts]** - connections to our convict past
-- **[The Irish][irish-trail]**
+- **[The Irish][irish-trail]** - a historic Pub crawl around Brisbane
 - [The Jewish][jewish-trail]  :octicons-pencil-24:
 - **[The Lutheran][lutheran-trail]** 
 
