@@ -70,7 +70,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Children][children]** - tragic stories of lives cut short
 - **[Convicts][convicts]** - connections to our convict past
 - **[The Irish][irish-trail]** - a historic Pub crawl around Brisbane
-- [The Jewish][jewish-trail]  :octicons-pencil-24:
+- **[The Jewish][jewish-trail]**  :octicons-pencil-24:
 - **[The Lutheran][lutheran-trail]** 
 
 
@@ -122,16 +122,14 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [nurses]: ../assets/guides/in-their-caring-hands.pdf
 [nursesx]: in-their-caring-hands.md
 
-[founding-fathersx]: ../assets/guides/founding-fathers.pdf
 [founding-fathers]: founding-fathers.md
-[notable-womenx]: ../assets/guides/notable-women.pdf
 [notable-women]: notable-women.md
 [toowong-identities-1]: toowong-identities-1.md
 [toowong-identities-2]: toowong-identities-2.md
 
 [convicts]: convict-connections.md
 [irish-trail]: irish-trail.md
-[jewish-trail]: ../assets/guides/jewish-trail.pdf
+[jewish-trail]: jewish-trail.md
 [lutheran-trail]: lutheran-trail.md
 [children]: children.md
 

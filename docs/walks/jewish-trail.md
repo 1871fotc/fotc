@@ -7,7 +7,7 @@ hide:
 # The Jewish Heritage Trail
 
 
-![](../assets/brisbane-synagogue-1906.jpg){ width="100%" }
+![](../assets/brisbane-synagogue-1906.jpg){ width="70%" }
 
 *<small>The Brisbane Synagogue, ca 1906, consecrated in 1886</small>*
  
@@ -88,7 +88,7 @@ The good man was the Minister of the Brisbane Hebrew Congregation, serving here 
 
     Walk two graves along and you have reached the graves of...
     
-    ![upload photo](../assets/lawrence-lawrence-loewe.jpg){ width="20%" }
+    ![](../assets/lawrence-lawrence-loewe.jpg){ width="20%" }
 
 ## Lawrence, Lawrence and Loewe 
 
@@ -369,3 +369,10 @@ Photography by: Joyce Simpson Sexton's Office Toowong Cemetery
 -->
 
 Edited by: Hilda Maclean Friends of Toowong Cemetery
+
+<div class="noprint" markdown="1">
+## Brochure
+
+**[Download this walk](../assets/guides/jewish-trail.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+
+</div>
