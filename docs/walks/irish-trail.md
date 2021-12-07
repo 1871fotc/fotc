@@ -204,7 +204,7 @@ He was an MLA in 1867 and MLC 1877—1885 and also returned to Ireland as the Na
 *<small>[Doctor Kevin Izod O'Doherty (1823-1905)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218936000002061) — State Library of Queensland.</small>*
 
 
-![](../assets/st-patricks-day-1903.jpg){ width="40%" }  
+![](../assets/st-patricks-day-1903.jpg){ width="70%" }  
 
 *<small>[St. Patrick's Day procession, Queen Street, Brisbane, 1903](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249906440002061) — State Library of Queensland.</small>*
 

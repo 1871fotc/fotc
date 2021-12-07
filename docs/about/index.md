@@ -16,12 +16,12 @@ search:
 
 The Friends of Toowong Cemetery:
 
-- **research the history of Toowong Cemetery**, its [headstone designs](../headstones/symbolism.md), and the [biographies](../bios/bio-index.md) of the people interred there. 
-- **share our discoveries** with the community through our publications, [guided heritage tours](../guided-tours.md), [self-guided walks](../walks/index.md), our [educational museum](../cemetery/museum.md), and contributions to other local history resources.
-- **contribute stories** of individuals interred at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to publications and biographical databases.
+- **research the history of Toowong Cemetery**, its [headstones](../headstones/symbolism.md), and the [biographies](../bios/bio-index.md) of the people interred there. 
+- **share our discoveries** with the community through our publications, [guided tours](../guided-tours.md), [self‑guided walks](../walks/index.md), our [museum](../cemetery/museum.md).
+- **contribute stories** of people interred at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications and biographical databases.
 - **clean and conserve headstones**.
-- **search for buried headstones** in [archaeological digs](archaeological-digs.md) in the cemetery grounds. 
-- **consult with the Brisbane City Council** on future plans, new initiatives, and the restoration of graves.
+- **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
+- **consult with the Brisbane City Council** on future plans and the restoration of graves.
 - **locate marked and unmarked graves**.
 
 ## What we've done
@@ -29,27 +29,29 @@ The Friends of Toowong Cemetery:
 The Friends of Toowong Cemetery have:
 
 - **established [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. 
-- **celebrated the [140th Anniversary Commemoration of the cemetery](140-commemoration.md)**. We received an Award from the  National Trust of Queensland.
+- **celebrated the [140th Anniversary Commemoration of the cemetery](140-commemoration.md)**. We received an Award from the  National Trust of Queensland for our work.
 - provided **biographies for information signs** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby to make it easier to find your way around the cemetery.
-- provided numerous **[guided heritage tours](../guided-tours.md)**.
+- shared the history and stories of Toowong Cemetery through monthly **[guided tours](../guided-tours.md)**.
 - published: 
-    - **[Self‑guided walks](../walks/index.md)** 
-    - **Toowong Cemetery resource manual : a guide for exploring the cemetery**, which is recommended for teachers of school groups visiting the cemetery. It is available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:71596/one), or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
+    - **Toowong Cemetery resource manual : a guide for exploring the cemetery**. Recommended for teachers of school groups visiting the cemetery. Available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:71596/one) or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
     <!-- Why not publish the resource for free? -->
     - **[Colonel Samuel Wensley Blackall : 1809-1871](../assets/guides/samual-blackall.pdf)** to celebrate the 140th anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery and the internment of the first person buried there, Governor Samuel Wensley Blackall.
     - **Extraordinary Stories of Ordinary People**, a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. 
     - **140th Anniversary Commemoration of the Toowong Cemetery** - DVD
+    - **[Self‑guided walks](../walks/index.md)** 
+
 
 ![](../assets/federation-pavillion.jpg)
+*<small>Federation Pavilion</small>* 
 
 ## What we're working on
 
 Currently we are: 
 
 - creating a database of people who have served their nation in military uniform and now rest in Toowong Cemetery. These men and women will be recognised on an [honour board](https://youtu.be/mVfixEzUpwk) at the cemetery's main entrance.
-- updating our website to include [even more content](https://github.com/Stephen-Gates/fotc/projects/1?fullscreen=true).
-- updating the directions and maps for our [self‑guided walks](../walks/index.md). 
+- photographing every headstone in the cemetery.
+- updating our website to include [even more content](https://github.com/Stephen-Gates/fotc/projects/1?fullscreen=true), including updating the directions and maps for our [self‑guided walks](../walks/index.md). 
 - encouraging the broader community to volunteer through simple one-off interactions. On this site you'll find these opportunities shown in green Volunteer Opportunity boxes like the one below. 
 
 !!! question "Volunteer opportunity"
