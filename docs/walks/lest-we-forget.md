@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Lest We Forget
+# Lest We Forget — Self-Guided Walk 
 
 **Their name liveth evermore** 
 

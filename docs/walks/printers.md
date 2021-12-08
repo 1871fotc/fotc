@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Print Media Identities of Early Brisbane :octicons-pencil-24:
+# Print Media Identities of Early Brisbane — Self-Guided Walk 
 
 **… our liberty depends on freedom of the press, and that cannot be limited without being lost.** — Thomas Jefferson 1787
 

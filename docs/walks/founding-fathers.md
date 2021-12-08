@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Founding Fathers Trail
+# Founding Fathers — Self-Guided Walk  
 
 **Members of the first Brisbane General Cemetery Trust.**
 

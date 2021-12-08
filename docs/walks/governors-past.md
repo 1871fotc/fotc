@@ -4,8 +4,9 @@ hide:
   - navigation
 ---
 
-# Governors Past Trail
+# Governors — Self-Guided Walk 
 
+**Past Governors of Queensland**
 <!--
 
 ??? Warning "To Do" 

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Famous Sporting Personalities :octicons-pencil-24:
+# Famous Sporting Personalities — Self-Guided Walk 
 
 
 !!! question "Volunteer opportunity"

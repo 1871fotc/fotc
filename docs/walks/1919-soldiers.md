@@ -4,9 +4,7 @@ hide:
   - navigation
 ---
 
-# 1919 Soldiers :octicons-pencil-24:
-
-
+# 1919 Soldiers — Self-Guided Walk
 
 !!! question "Volunteer opportunity"
 

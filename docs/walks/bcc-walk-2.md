@@ -1,8 +1,6 @@
 ---
 hide:
   - navigation
-search:
-  exclude: true
   
 ---
 

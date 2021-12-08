@@ -4,8 +4,9 @@ hide:
   - navigation
 ---
 
-# Early Judiciary in Toowong Cemetery :octicons-pencil-24:
+# Judiciary — Self-Guided Walk 
 
+**Early Judiciary buried in Toowong Cemetery**
 
 !!! question "Volunteer opportunity"
 

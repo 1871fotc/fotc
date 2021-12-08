@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Scots in the Australian Imperial Force in World War One :octicons-pencil-24:
+# Scots in the Australian Imperial Force — Self-Guided Walk 
 
 
 !!! question "Volunteer opportunity"

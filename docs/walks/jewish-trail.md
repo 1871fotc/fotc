@@ -4,8 +4,7 @@ hide:
   - navigation
 ---
 
-# The Jewish Heritage Trail :octicons-pencil-24:
-
+# The Jewish — Self-Guided Walk 
 
 ![](../assets/brisbane-synagogue-1906.jpg){ width="70%" }
 

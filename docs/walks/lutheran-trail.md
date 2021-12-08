@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Lutheran Heritage Trail 
+# The Lutheran — Self-Guided Walk 
 
 **With all the company of heaven**
 

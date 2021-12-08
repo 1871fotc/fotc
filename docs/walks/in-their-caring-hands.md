@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# In their caring hands :octicons-pencil-24:
+# In their caring hands — Self-Guided Walk 
 
 **A heritage trail to commemorate the role of nurses, doctors and health professionals**
 

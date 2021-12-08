@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Thin Blue Line 
+# The Thin Blue Line — Self-Guided Walk 
 
 **Queensland Colonial Policing**
 

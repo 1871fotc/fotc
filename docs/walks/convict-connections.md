@@ -4,8 +4,9 @@ hide:
   - navigation
 ---
 
-# Convict Connections
+# The Convicts — Self-Guided Walk 
 
+**Connections to our Convict past**
 
 ## Convict settlement children
 

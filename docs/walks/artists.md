@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Artists 
+# The Artists — Self-Guided Walk
 
 <!--
 

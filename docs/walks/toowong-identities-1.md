@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Toowong Identities Heritage Walk 1 
+# Toowong Identities — Self-Guided Walk One 
 
 **A Heritage Walk to commemorate the centenary of the Proclamation of the Town of Toowong in 1903.**
 

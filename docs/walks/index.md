@@ -38,7 +38,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 - **[Colonial Conflicts][colonial-conflicts]**
 - **[Lest We Forget][lest-we-forget]** - remembering the men and women who gave their lives in service to their country
-- **[Lest We Forget - Naval][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
+- **[Lest We Forget: Naval][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
 - **[Men of the Royal Navy][rn]** 
 - **[Scots in the Australian Imperial Force in World War One][scots-ww1]** :octicons-pencil-24:
 - **[1919 Soldiers][1919-soldiers]**  :octicons-pencil-24:
@@ -48,14 +48,14 @@ The Friends of Toowong Cemetery have researched and published a large collection
 ## Professions
 
 - **[Artists][artists]**
-- [Health Professionals][nurses] - commemorating Nurses, Doctors and other health professionals :octicons-pencil-24:
-- **[Judiciary][judiciary]** - early Judges buried in Toowong Cemetery :octicons-pencil-24:
+- [Health Professionals][nurses] - commemorating Nurses, Doctors and other health professionals 
+- **[Judiciary][judiciary]** - Early Judiciary buried in Toowong Cemetery :octicons-pencil-24:
 - **[Mariners][mariners]** - Anchors Aweigh!
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
 - **[Police][thin-blue-line]** - remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** :octicons-pencil-24:
 - **[Sporting Personalities][sporting-personalities]** :octicons-pencil-24:
-- **[Undertakers][undertakers-underground]**
+- **[Undertakers][undertakers]**
 
 ## Local Identities
 
@@ -67,8 +67,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 ## Birds of a feather 
 
-- **[Children][children]** - tragic stories of lives cut short
-- **[Convicts][convicts]** - connections to our convict past
+- **[The Children][children]** - tragic stories of lives cut short
+- **[The Convicts][convicts]** - connections to our convict past
 - **[The Irish][irish-trail]** - a historic Pub crawl around Brisbane
 - **[The Jewish][jewish-trail]**  :octicons-pencil-24:
 - **[The Lutheran][lutheran-trail]** 
@@ -76,7 +76,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 ## Other walks :octicons-pencil-24:
 
-- [20/20 Vision](../assets/guides/2020-vision.pdf) <!-- [20/20 Vision][2020-vision] -->
+- **[20/20 Vision](2020-vision.md)** :octicons-pencil-24: 
 - Brisbane City Council Trail 1 <!-- [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. -->
 - Brisbane City Council Trail 2 <!-- [Brisbane City Council Trail 2][bcc-walk-2] -->
 - [Brisbane Open House](../assets/guides/boh.pdf) <!-- [Brisbane Open House][brisbane-open-house] -->
@@ -84,7 +84,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - [Erected by their Family, Friends and Colleagues](../assets/guides/erected-by-friends.pdf)
 - [Propectors](../assets/guides/prospectors.pdf) - 'ey you!
 - [One Adult, One Vote](../assets/guides/sufferage.pdf) - Queenslands' own Suffrage story
-- [One Day: Christmas](../assets/guides/one-day-christmas.pdf)
+- **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
 - One Day: New Years' Day
 - [Mothers](../assets/guides/mothers.pdf)
 - [Portion 5 - part 1](../assets/guides/portion5-part1.pdf) - A ramble through Portion 5 - part 1
@@ -118,7 +118,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [printers]: printers.md
 [thin-blue-line]: thin-blue-line.md
 [sporting-personalities]: sporting-personalities.md
-[undertakers-underground]: undertakers-underground.md 
+[undertakers]: undertakers.md 
 [nurses]: ../assets/guides/in-their-caring-hands.pdf
 [nursesx]: in-their-caring-hands.md
 

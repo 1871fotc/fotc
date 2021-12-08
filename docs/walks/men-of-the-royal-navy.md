@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Men of the Royal Navy
+# Men of the Royal Navy — Self-Guided Walk 
 
 <!--
 ??? Warning "To Do" 

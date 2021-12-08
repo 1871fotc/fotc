@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Brisbane Mayors Trail
+# Brisbane Mayors — Self-Guided Walk 
 
 ![](../assets/william-macnaughton-galloway.jpg){ width="33%" }
 

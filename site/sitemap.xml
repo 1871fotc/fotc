@@ -221,6 +221,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stephen-gates.github.io/fotc/walks/2020-vision/</loc>
+         <lastmod>2021-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stephen-gates.github.io/fotc/walks/all-the-worlds-a-stage/</loc>
          <lastmod>2021-12-08</lastmod>
          <changefreq>daily</changefreq>
@@ -252,6 +257,11 @@
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/walks/children/</loc>
+         <lastmod>2021-12-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stephen-gates.github.io/fotc/walks/christmas/</loc>
          <lastmod>2021-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -371,7 +381,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stephen-gates.github.io/fotc/walks/undertakers-underground/</loc>
+         <loc>https://stephen-gates.github.io/fotc/walks/undertakers/</loc>
          <lastmod>2021-12-08</lastmod>
          <changefreq>daily</changefreq>
     </url>

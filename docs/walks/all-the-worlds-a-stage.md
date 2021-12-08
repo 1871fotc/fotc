@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# All the world’s a stage 
+# All the world’s a stage — Self-Guided Walk
 
 **Actors and performers buried in Toowong Cemetery**
 
