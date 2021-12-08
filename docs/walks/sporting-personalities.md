@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Famous Sporting Personalities — Self-Guided Walk 
+# Famous Sporting Personalities  
 
 
 !!! question "Volunteer opportunity"

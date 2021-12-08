@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Undertakers — Self-Guided Walk 
+# Undertakers  
 
 ![](../assets/John-Hislop-Undertakers-Brisbane-ca1902.jpg)
 

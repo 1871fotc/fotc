@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Lutheran — Self-Guided Walk 
+# The Lutheran  
 
 **With all the company of heaven**
 

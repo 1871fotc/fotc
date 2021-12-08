@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Convicts — Self-Guided Walk 
+# The Convicts  
 
 **Connections to our Convict past**
 

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Brisbane Mayors — Self-Guided Walk 
+# Brisbane Mayors  
 
 ![](../assets/william-macnaughton-galloway.jpg){ width="33%" }
 

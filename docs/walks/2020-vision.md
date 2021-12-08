@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# 2020 Vision — Self-Guided Walk
+# 2020 Vision 
 
 !!! question "Volunteer opportunity"
 

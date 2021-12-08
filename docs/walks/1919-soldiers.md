@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# 1919 Soldiers — Self-Guided Walk
+# 1919 Soldiers 
 
 !!! question "Volunteer opportunity"
 

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Jewish — Self-Guided Walk 
+# The Jewish  
 
 ![](../assets/brisbane-synagogue-1906.jpg){ width="70%" }
 

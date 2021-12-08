@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
  
-# Labor Luminaries — Self-Guided Walk 
+# Labor Luminaries  
 
 **A walk recognising people involved in the Labor movement.**
 

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Judiciary — Self-Guided Walk 
+# Judiciary  
 
 **Early Judiciary buried in Toowong Cemetery**
 

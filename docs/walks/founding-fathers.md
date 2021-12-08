@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Founding Fathers — Self-Guided Walk  
+# Founding Fathers   
 
 **Members of the first Brisbane General Cemetery Trust.**
 

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Governors — Self-Guided Walk 
+# Governors  
 
 **Past Governors of Queensland**
 <!--

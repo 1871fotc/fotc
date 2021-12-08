@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Lest We Forget: Naval — Self-Guided Walk 
+# Lest We Forget: Naval  
 
 **This walk was created to mark the centenary of the Royal Australian Navy, 1911—2011.**
 

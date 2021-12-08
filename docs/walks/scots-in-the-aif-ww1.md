@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Scots in the Australian Imperial Force — Self-Guided Walk 
+# Scots in the Australian Imperial Force  
 
 
 !!! question "Volunteer opportunity"

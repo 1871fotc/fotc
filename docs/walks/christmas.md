@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Christmas — Self-Guided Walk  
+# Christmas   
 
 
 !!! question "Volunteer opportunity"

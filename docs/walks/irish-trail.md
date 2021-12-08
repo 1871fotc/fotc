@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# The Irish — Self-Guided Walk 
+# The Irish  
 
 
 ## Anne Devoy 1817‑1908  <small>(7‑7‑34)</small>

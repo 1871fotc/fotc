@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Notable Women — Self-Guided Walk 
+# Notable Women  
 
 **Women who shaped Queensland**
 

@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Anchors Aweigh! — Self-Guided Walk
+# Anchors Aweigh! 
 
 **A Maritime Walk through Toowong Cemetery.**
 

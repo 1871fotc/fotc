@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Colonial Conflicts — Self-Guided Walk  
+# Colonial Conflicts   
 
 **A Remembrance Day Service and Guided Walk conducted at Toowong Cemetery on the 4th November 2012.**
 

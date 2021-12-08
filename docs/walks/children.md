@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-#  The Children — Self-Guided Walk 
+#  The Children  
 
 **Suffer the children to come unto me**
 
