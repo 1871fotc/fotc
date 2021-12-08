@@ -6,6 +6,14 @@ hide:
 
 # Famous Sporting Personalities :octicons-pencil-24:
 
+
+!!! question "Volunteer opportunity"
+
+    How embarrassing! We can't find all the electronic files for our walks. We're slowly re-keying the words from the Brochure pdf files. You can help by typing some and sending them to us. 
+    
+    Why have we published an incomplete page like this? So the people can be discovered in the search and their stories read in the Brochure.
+
+
 ## Peter Morgan 1916–1953 <small>(1‑88‑4)</small>
 
 ==to do==

@@ -6,6 +6,15 @@ hide:
 
 # 1919 Soldiers :octicons-pencil-24:
 
+
+
+!!! question "Volunteer opportunity"
+
+    How embarrassing! We can't find all the electronic files for our walks. We're slowly re-keying the words from the Brochure pdf files. You can help by typing some and sending them to us. 
+    
+    Why have we published an incomplete page like this? So the people can be discovered in the search and their stories read in the Brochure.
+
+
 ## Private Frank Goodwin <small>(10‑43‑26)</small>
 
 ==to do==

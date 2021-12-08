@@ -5,7 +5,14 @@ hide:
 
 # Print Media Identities of Early Brisbane :octicons-pencil-24:
 
-**… our liberty depends on freedom of the press, and tht cannot be limited without being lost.** — Thomas Jefferson 1787
+**… our liberty depends on freedom of the press, and that cannot be limited without being lost.** — Thomas Jefferson 1787
+
+
+!!! question "Volunteer opportunity"
+
+    How embarrassing! We can't find all the electronic files for our walks. We're slowly re-keying the words from the Brochure pdf files. You can help by typing some and sending them to us. 
+    
+    Why have we published an incomplete page like this? So the people can be discovered in the search and their stories read in the Brochure.
 
 
 ## Samuel Gill Mee <small>(4‑12‑30)</small>
