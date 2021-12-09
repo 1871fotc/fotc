@@ -4,11 +4,27 @@
 
 ## Our Research 
 
-In 1999, the Friend of Toowong Cemetery published *Extraordinary Stories of Ordinary People* containing stories about people interred at Toowong Cemetery contributed by their descendants. This publication is being expanded and reissued. 
+In 1999, the Friend of Toowong Cemetery published *Extraordinary Stories of Ordinary People* containing stories about people interred at Toowong Cemetery contributed by their descendants. It can be found in the Local History Reference section at the Toowong Library. 
+
+![](../assets/extraordinary-stories.jpg){ width="32%" }
+
+We plan to expand and re-issue this publication.
 
 !!! question "Volunteer opportunity"
 
     If you would like your family's story to be considered for adding to the next edition, please fill in the [Biographical Details Form](http://www.fotc.org.au/subset/Toowong_Cemetery_Biographical_Details.doc).
+
+## Toowong Cemetery Monumental Inscriptions
+
+In 1988, as a Bicentennial project, the [Queensland Family History Society](https://www.qfhs.org.au) published five volumes of Toowong Cemetery Monumental Inscriptions. They can be found in the Local History Reference section at the Toowong Library. 
+
+![](../assets/toowong-cemetery-monumental-inscriptions.jpg){ width="62%" } ![](../assets/toowong-cemetery-monumental-inscriptions-2.jpg){ width="31.4%" }
+
+<!--
+!!! question "Volunteer opportunity"
+
+    We'd like to explore digitising this historic record and creating a linked database to other historic resources. Do you know an efficient way to scan and OCR large books? 
+--> 
 
 ## Trove
 
