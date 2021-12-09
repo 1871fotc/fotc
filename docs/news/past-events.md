@@ -1,28 +1,25 @@
----
-search:
-  boost: 2  
----
-
-# 2021 News
+# Past Events
 
 ---
 
 ## Guided Tour <small>5 Dec 2021</small>
 
-Our next heritage walking tour is called **One Day: New Year’s Day** and will be guided by **Meryll**. The tour is from **10:30 to 12:00 on Sunday 5 December 2021**. 
+Our December heritage walking tour is called **One Day: New Year’s Day** and will be guided by **Meryll**. The tour is from **10:30 to 12:00 on Sunday 5 December 2021**. 
 
+<!--
 :fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20211205.ics)**
-
+-->
 
 There is **no need to book**, just **meet under the flagpole, in Canon Garland Place at the Toowong Cemetery**. There is plenty of parking available inside the cemetery.
+
+Wear a hat, enclosed shoes, and bring a water bottle.
+
+Guided tours are free but a small donation is appreciated to help us continue **[our work](../about/index.md)**. 
+
 
 ![](../assets/flag-pole.jpg){ width="97%" } 
 
 *<small>The Flagpole in Canon Garland Place</small>*
-
-**Wear a hat, enclosed shoes, and bring a water bottle.**
-
-**Guided tours are free but a small donation is appreciated to help us continue [our work](../about/index.md)**. 
 
 --- 
 

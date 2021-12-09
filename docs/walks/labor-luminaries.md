@@ -32,7 +32,7 @@ hide:
 
     - Continue to walk down 15th Avenue to and  stop at 11‑51‑3, on your left, where you'll find the 3 graves close to each other. 
     
-      ![William Henry Browne](../assets/william-henry-browne-headstone.jpg){ width="15%" } ![John Gordon Smith](../assets/404.png){ width="15%" } ![Anderson Dawson](../assets/404.png){ width="15%" } 
+      ![William Henry Browne](../assets/william-henry-browne-headstone.jpg){ width="15%" } ![John Gordon Smith](../assets/john-gordon-smith-headstone.jpg){ width="20%" } ![Anderson Dawson](../assets/andersen-dawson-headstone.jpg){ width="20%" } 
 
 --8<-- "snippets/william-henry-browne.md"
 
@@ -57,7 +57,7 @@ hide:
     - Continue past the Shelter Shed, walking North West along Dr. Lillian Cooper Drive (Boundary Road), on your left, stop at the Forgan-Smith grave, 8‑25‑20/21.
     - On the opposite side of the road you'll find the Gillies grave, 18‑106‑20.
     
-    ![William Forgan Smith](../assets/404.png){ width="15%" }  ![William Neal Gillies](../assets/william-gillies.jpg){ width="15%" } 
+    ![William Forgan Smith](../assets/william-forgan-smith-headstone.jpg){ width="20%" }  ![William Neal Gillies](../assets/william-gillies.jpg){ width="15%" } 
 
 --8<-- "snippets/william-forgan-smith.md"
 

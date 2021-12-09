@@ -81,19 +81,19 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - Brisbane City Council Trail 2 <!-- [Brisbane City Council Trail 2][bcc-walk-2] -->
 - [Brisbane Open House](../assets/guides/boh.pdf) <!-- [Brisbane Open House][brisbane-open-house] -->
 - Conflict and Compassion
-- [Erected by their Family, Friends and Colleagues](../assets/guides/erected-by-friends.pdf)
-- [Propectors](../assets/guides/prospectors.pdf) - 'ey you!
+- **[Erected by their Family, Friends and Colleagues](erected-by-friends.md)** :octicons-pencil-24:
 - [One Adult, One Vote](../assets/guides/sufferage.pdf) - Queenslands' own Suffrage story
 - **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
 - One Day: New Years' Day
-- [Mothers](../assets/guides/mothers.pdf)
+- **[Mothers](mothers.md)** :octicons-pencil-24:
 - [Portion 5 - part 1](../assets/guides/portion5-part1.pdf) - A ramble through Portion 5 - part 1
 - [Portion 5 - part 2](../assets/guides/portion5-part2.pdf) - A ramble through Portion 5 - part 2
 - [Portions 6 and 24](../assets/guides/portion6-and-24.pdf) - A walk through Portions 6 and 24
 - [Portions 15 and 16](../assets/guides/portion15-and-16.pdf) - A wander through Portions 15 and 16
 - Rich man, Poor man <!-- [Rich man, Poor man](../assets/guides/rich-man-poor-man.pdf) -->
-- [Steam](../assets/guides/steam.pdf)
-- [Taken before their time](../assets/guides/taken-before-their-time.pdf)
+- **[Propectors](prospectors.md)** :octicons-pencil-24:
+- **[Steam](steam.md)** :octicons-pencil-24: 
+- **[Taken before their time](taken-before-their-time.md)** :octicons-pencil-24:
 
 
 <!-- links to pages or pdfs -->

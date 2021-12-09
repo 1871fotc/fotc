@@ -191,7 +191,7 @@ Today, the Friends of Toowong Cemetery and the Brisbane City Council work togeth
 - The **[Federation Pavilion](../about/federation-pavilion.md)**
 - Renaming the Cemetery Roads after notable people buried nearby
 - Reusing the old Sexton's office as the **[Toowong Cemetery Museum](museum.md)**
-- The Paddington Memorial, and **[Headstone Symbology](../headstones/symbolism.md)** display
+- The Paddington Memorial, and **[Headstone Symbology](../headstones/)** display
 - The Toowong Cemetery Rememberance Walk that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend. 
 
 **Toowong Cemetery is enjoyed by those who come to visit loved ones, walk their dog, exercise, or discover the history and stories inside.**
