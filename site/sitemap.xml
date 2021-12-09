@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stephen-gates.github.io/fotc/bios/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stephen-gates.github.io/fotc/bios/albert-edward-victor-whitford/</loc>
          <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
@@ -52,11 +57,6 @@
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/bios/arthur-rutledge/</loc>
-         <lastmod>2021-12-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stephen-gates.github.io/fotc/bios/bio-index/</loc>
          <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -272,6 +272,11 @@
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/walks/colonial-conflicts/</loc>
+         <lastmod>2021-12-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stephen-gates.github.io/fotc/walks/conflict-and-compassion/</loc>
          <lastmod>2021-12-09</lastmod>
          <changefreq>daily</changefreq>
     </url>

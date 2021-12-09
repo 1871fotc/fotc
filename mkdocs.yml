@@ -161,9 +161,10 @@ nav:
 #    - Toowong Cemetery Remembrance Walk: walks/rememberance-walk.md 
     - Men of the Royal Navy: walks/men-of-the-royal-navy.md
     - Scots in the AIF: walks/scots-in-the-aif-ww1.md
+    - 1919 Soldiers: walks/1919-soldiers.md
     - Artists: walks/artists.md 
 #    - Health Professionals: walks/in-their-caring-hands.md
-#    - Judiciary: walks/early-judiciary.md
+    - Judiciary: walks/early-judiciary.md
     - Mariners: walks/anchors-aweigh.md
     - Performers: walks/all-the-worlds-a-stage.md 
     - Police: walks/thin-blue-line.md 
@@ -177,8 +178,14 @@ nav:
     - Children: walks/children.md 
     - Convicts: walks/convict-connections.md 
     - The Irish: walks/irish-trail.md 
-#    - The Jewish Trail: walks/jewish-trail.md    
-    - The Lutheran: walks/lutheran-trail.md    
+    - The Jewish Trail: walks/jewish-trail.md    
+    - 20/20 Vision: walks/2020-vision.md
+    - Erected by Friends and Family: walks/erected-by-friends.md    
+    - Christmas: walks/christmas.md    
+    - Mothers: walks/mothers.md    
+    - Propectors: walks/propectors.md    
+    - Steam: walks/steam.md    
+    - Taken before their time: walks/taken-before-their-time.md    
 #    - BCC Toowong Cemetery Tour 1: walks/bcc-walk-1.md 
 #    - BCC Toowong Cemetery Tour 2: walks/bcc-walk-2.md 
   - Headstones: 
@@ -189,7 +196,7 @@ nav:
 #    - Celebrity Headstones: headstones/celebrities.md
 #    - History Mystery: headstones/mystery.md
   - Biographies: 
-    - Biography Index: bios/bio-index.md
+    - Biography Index: bios/index.md
     - Research Resources: bios/research.md
   - Events: 
 #  - News and Events:

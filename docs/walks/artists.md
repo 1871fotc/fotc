@@ -8,16 +8,6 @@ hide:
 
 <!--
 
-??? Warning "To Do" 
-
-    - This is not really a trail given the separation of the site and the small number of artist. Drop directions and only include a map? 
-    - Check walking order
-    - Create and insert map with link to portion-section-plot explanation
-    - Add directions
-    - Add headstone photos
-    - Create Bio pages
-    - Add Bios to [Index](../bios/bio-index.md)
-
 ???+ Example "Directions" 
 
     - walking directions

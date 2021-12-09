@@ -14,26 +14,35 @@ hide:
     Why have we published an incomplete page like this? So the people can be discovered in the search and their stories read in the Brochure.
 
 
-## Peter Morgan 1916–1953 <small>(1‑88‑4)</small>
+## Peter Morgan <small>(1‑88‑4)</small>
+
+1916–1953
 
 ==to do==
 
-## Amos Roy Goddard 1910–1933 <small>(7‑77‑26)</small>
+## Amos Roy Goddard <small>(7‑77‑26)</small>
+
+1910–1933 
 
 ==to do==
 
-## William Cowley Goulbourne Stone  1870–1892 <small>(7‑77‑11)</small>
+## William Cowley Goulbourne Stone <small>(7‑77‑11)</small>
+
+1870–1892 
 
 ==to do==
 
-## Frank Thorne 1883–1931 <small>(21‑20‑16)</small>
+## Frank Thorne <small>(21‑20‑16)</small>
+
+1883–1931 
 
 ==to do==
 
-## Peter Jackson 1861–1901 <small>(5‑28‑1)</small>
+## Peter Jackson <small>(5‑28‑1)</small>
+
+1861–1901 
 
 ==to do==
-
 
 ![](../assets/peter-jackson.jpg){ width="40%" }
 
@@ -43,12 +52,16 @@ hide:
 
 
 
-## John (Jack) Dowridge 1848–1922 <small>(5‑28‑14)</small>
+## John (Jack) Dowridge <small>(5‑28‑14)</small>
+
+1848–1922
 
 ==to do==
 
-## Brickwood Colley 1849–1896 <small>(2‑51‑2)</small>
+## Brickwood Colley <small>(2‑51‑2)</small>
 
+ 1849–1896
+ 
 ==to do==
 
 

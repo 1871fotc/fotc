@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Erected by their Family, Friends and Colleagues
+# Erected by Friends and Family
 
 !!! question "Volunteer opportunity"
 

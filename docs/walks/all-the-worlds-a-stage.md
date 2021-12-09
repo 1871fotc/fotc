@@ -7,31 +7,12 @@ hide:
 
 **Actors and performers buried in Toowong Cemetery**
 
-<!-- IMAGE AND caption
-Samuel Keenan, Member of the Original Georgia Minstrels
--->
-
 <!--
-
-??? Warning "To Do" 
-
-    - Add cover image
-    - Check walking order
-    - Create and insert map with link to portion-section-plot explanation
-    - Add directions
-    - Add headstone photos
-    - Create Bio pages
-    - Add Bios to [Index](../bios/bio-index.md)
-    
--->
-
-<!-- 
-
 ???+ Example "Directions" 
 
     - walking directions
     
-    ![image of headstone](?.jpg) 
+    ![](?.jpg) 
     
 -->
 

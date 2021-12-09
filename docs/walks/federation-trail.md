@@ -6,14 +6,6 @@ hide:
 
 # The Federation Trail 
 
-<!--
-??? Warning "To Do" 
-
-    - Create Bio pages
-    - Add Bios to [Index](../bios/bio-index.md)
-    - Decide if link is needed to [Notes](http://www.fotc.org.au/subset/Federation_Trail.pdf)
--->
-
 The Federation Trail was produced by the Friends of Toowong Cemetery as a Centenary of Federation project to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
 
 The National Australasian Convention was held in Sydney from the 2nd of March to the 9th of April 1891. The convention was attended by seven delegates from each of the six colonies and three delegates from New Zealand. The Queensland delegates were John Donaldson, Sir Samuel Griffith, John Macrossan, Thomas Macdonald- Paterson, Thomas McIlwraith, Arthur Rutledge and Andrew Thynne. Significant outcomes from this convention included agreement of the name Commonwealth of Australia and more importantly, the production of a draft constitution. Sir Samuel Griffith was Chairman of the committee responsible for writing the draft constitution.

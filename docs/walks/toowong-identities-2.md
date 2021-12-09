@@ -37,7 +37,7 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
 
     Return to the road and walk along it until you reach a tap on the right hand side. Nearby are...
 
-## Mary Elizabeth Weedon and Annie Griffiths <small>(4‑3)</small>
+## Mary Elizabeth Weedon <!-- (4‑3‑20)--> and Annie Griffiths <small>(4‑3-2)</small>
 
 Mary Weedon was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She and her friend, Annie Griffiths, shared a house called Garton in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
 
@@ -53,7 +53,7 @@ William was a stonemason who had a workshop and house in Sylvan Road. He arrived
 
     Continue along the road until you come to the Jewish Section. All of these headstones face west. Three rows in is the grave of...
 
-## Sali Mendelsohn <small>(3‑6)</small>
+## Sali Mendelsohn <small>(3‑6‑7)</small>
 
 In 1890, Sali published his most enduring ballad The Drover otherwise known as [Brisbane Ladies](https://en.wikipedia.org/wiki/Brisbane_Ladies) which features the line Farewell and adieu to the girls of Toowong. The ballad is about the drovers returning west to their cattle stations having sold their at market. The route taken passed through Toowong on the way to Moggill Road.^2^
 
@@ -70,29 +70,29 @@ The Johnsons lived in a house called Castle Rawe, Toowong. Harriet died in 1914,
     Immediately behind the Johnson grave is the grey granite monument to...
 
 ## William Webster <small>(1‑36)</small>
+<!-- perhaps 1-37-6? -->
 
 A Scottish merchant, William died at his home Arley, Toowong, aged 66 in 1895. William purchased Arley, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the Quetta shipwreck in 1890.
-
 
 ![](../assets/arley-toowong-ca1882.jpg){ width="70%" }
 
 *<small>[Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220551310002061) - State Library of Queensland </small>*
 
-
-
 ??? Example "Directions" 
 
     Continue up 1^st^ Avenue until you reach a tap on the left. This is immediately adjacent to...
 
-## Walter Horatio Wilson and Walter Frederick Wilson
+## Walter Horatio Wilson (1‑84‑22) and Walter Frederick Wilson (1‑85‑8)
 
-W. H. Wilson was a member of the Queensland Legislative Council, Minister of Justice, Secretary of Public Instruction, and Postmaster‑General in a varied political career. He was a founding member of the Anglican Church in Toowong in 1866 and found time to be elected to the Toowong Shire Council in 1884. He was also a Companion of the Order of St Michael and St George. He died at his Toowong home, Sherwood Grove, in February 1902, aged 62. Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 1886. A member of the Lands Court, Walter F. Wilson died at his home, Dovercourt, which still stands, aged 48 in 1911.
+W. H. Wilson was a member of the Queensland Legislative Council, Minister of Justice, Secretary of Public Instruction, and Postmaster‑General in a varied political career. He was a founding member of the Anglican Church in Toowong in 1866 and found time to be elected to the Toowong Shire Council in 1884. He was also a Companion of the Order of St Michael and St George. He died at his Toowong home, Sherwood Grove, in February 1902, aged 62. 
+
+Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 1886. A member of the Lands Court, Walter F. Wilson died at his home, [Dovercourt](https://heritage.brisbane.qld.gov.au/heritage-places/1709), which still stands, aged 48 in 1911.
 
 ??? Example "Directions" 
 
     Continue around 1^st^ Avenue until it intersects with 2^nd^ Avenue. Turn right and head along Second Avenue. Five Sections down is the Gothic style headstone of...
 
-## Richard Langler Drew <small>(5‑43)</small>
+## Richard Langler Drew <small>(5‑43-22)</small>
 
 Described by contemporary J. B. Fewings as *“the father of Toowong”*, Richard bought large blocks of land bordering Toowong Creek in 1861. He ascertained from the local Aborigines that Toowong was a suitable name for the area and posted the first sign as such. He and his wife Anne were founding members of the Anglican Church. In 1866, he donated part of his land in Curlew Street to build the first St Thomas Anglican Church.
 

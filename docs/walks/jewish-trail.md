@@ -23,7 +23,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
     ![](../assets/sam-burmister.jpg){ width="20%" }
 
 
-## Sam Burmister <small>3‑25‑5</small>
+## Sam Burmister <small>(3‑25‑5)</small>
 
 He was a world‑class heavy‑weight wrestler. As a youth he trained to be a singer in a Synagogue in Rumania and had a rich baritone voice. He became a professional wrestler and won the World Jewish Wrestling Championship belt on several occasions.
 
@@ -34,7 +34,7 @@ He was a world‑class heavy‑weight wrestler. As a youth he trained to be a si
     ![](../assets/morris-moskowitch.jpg){ width="20%" }
 
 
-## Morris Moskowitch 
+## Morris Moskowitch <!-- (3‑ss‑gg)-->
 
 Morris built, renovated or moved many homes in South Brisbane, in the first half of this century. He built a small synagogue as an annex to his home in Greenslopes, where he and a group of friends used to pray.
 
@@ -44,7 +44,7 @@ Morris built, renovated or moved many homes in South Brisbane, in the first half
 
     ![](../assets/guinsberg-family.jpg){ width="20%" }
 
-##The Guinsberg Family	<small>3‑13A‑14/16</small>
+##The Guinsberg Family	<small>(3‑13A‑14/16)</small>
 
 This type of massive monument is unusual for its size and is rarely utilised nowadays.
 
@@ -55,7 +55,7 @@ This type of massive monument is unusual for its size and is rarely utilised now
     ![](../assets/w-j-friedlander.jpg){ width="20%" }
  
 
-## W. J. Friedlander (AIF) <small>3‑9A‑17</small>
+## W. J. Friedlander (AIF) <small>(3‑9A‑17)</small>
 
 This is an example of the bronze plaques erected by the War Graves Commission over the graves of ex‑servicemen.
 
@@ -66,7 +66,7 @@ This is an example of the bronze plaques erected by the War Graves Commission ov
     ![](../assets/isaac-hillel-hillman.jpg){ width="20%" }
 
 
-## Isaac Hillel Hillman <small>3‑9A‑16</small>
+## Isaac Hillel Hillman <small>(3‑9A‑16)</small>
 
 As a young man he came to Brisbane from his home in Latvia. He worked as a plumber until he could pay for his fiancée to join him. They married here and spent the rest of their lives in Townsville. He was a very pious man and made arrangements for his body to be buried in this Jewish Cemetery. He died aged 96.
 
@@ -77,7 +77,7 @@ As a young man he came to Brisbane from his home in Latvia. He worked as a plumb
     ![](../assets/jonas-myer-myers.jpg){ width="20%" }
 
 
-## Rev. Jonas Myer Myers 
+## Rev. Jonas Myer Myers <small>(3‑4‑17)</small>
  
 The good man was the Minister of the Brisbane Hebrew Congregation, serving here for 45 years and in Toowoomba and Adelaide for several years. He was, more than anyone else, responsible for the building of the Brisbane Synagogue in Margaret Street. It was started in 1885 and finished in 1886 and remains in full use. The Sepher Torah scroll, at the top of his monument, indicates that he was regarded as a particularly good person. It carries the words,
 
@@ -89,7 +89,7 @@ The good man was the Minister of the Brisbane Hebrew Congregation, serving here 
     
     ![](../assets/lawrence-lawrence-loewe.jpg){ width="20%" }
 
-## Lawrence, Lawrence and Loewe 
+## Lawrence, Lawrence and Loewe <!-- (3‑ss‑gg)-->
 
 These are the three monuments which were transferred here from Lang Park. They are in sandstone, which is not used much nowadays for monuments.
 
@@ -104,7 +104,7 @@ There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Simi
     ![](../assets/alan-taylor.jpg){ width="20%" }
 
 
-## Alan Taylor <small>3‑13‑1A</small>
+## Alan Taylor <small>(3‑13‑1A)</small>
 
 He was climbing the face of Mt Tibrogargan with two other University climbers. They were ascending without safety ropes. He fell to his death and the Jewish Community was deeply shocked at the loss of this fine young man.
 
@@ -115,7 +115,7 @@ He was climbing the face of Mt Tibrogargan with two other University climbers. T
     ![](../assets/trooper-lipstine.jpg){ width="20%" }
 
 
-## Trooper Lipstine <small>	3‑13‑9/10</small>
+## Trooper Lipstine <small>(3‑13‑9/10)</small>
 
 This is a bronze plaque supplied by the War Graves Commission. Others are upright white marble headstones.
 
@@ -126,7 +126,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
     ![](../assets/phyliss-mary-peixetto.jpg){ width="20%" }
 
     
-## Phyliss Mary Peixetto  
+## Phyliss Mary Peixetto   <!-- (3‑ss‑gg)-->
 
 (The "x" in Peixetto is pronounced "z".) 
 
@@ -139,7 +139,7 @@ She was a descendant of a man by that name, who led the entire Jewish Community 
     ![](../assets/henry-montague-bloom.jpg){ width="20%" }
 
 
-## Monty Bloom <small>3‑24‑3</small>
+## Monty Bloom <small>(3‑24‑3)</small>
 
 Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. He was also a skilled entertainer and organised concert parties in both First and Second World Wars to entertain the troops. He was decorated for his good services. He continued entertaining the wounded long after the Second World War.
 
@@ -150,7 +150,7 @@ Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. H
     ![](../assets/myer-kangan.jpg){ width="20%" }
 
 
-## Myer Kangan AO, MBE <small>3‑18‑1A</small>
+## Myer Kangan AO, MBE <small>(3‑18‑1A)</small>
 
 He was decorated with the Order of Australia and made a member of the Order of the British Empire in recognition of his distinguished services to the Crown and to Industry. His headstone also has the symbol, already referred to, of a Cohen i.e. a descendant of the High Priest of the Temple in Biblical days.
   
@@ -160,7 +160,7 @@ He was decorated with the Order of Australia and made a member of the Order of t
     
     ![](../assets/louis-paul-fingereth.jpg){ width="20%" }
     
-## Louis Paul Fingereth, M.B.E. <small>3‑18‑14</small>
+## Louis Paul Fingereth, M.B.E. <small>(3‑18‑14)</small>
 
 On this headstone can be seen an example of the configuration of the hands of a Cohen (a male descendant of the family of Aaron, Moses' brother. Aaron was the first high priest, who already functioned during the Exodus). With his hands held in this manner, and his head covered by his prayer shawl, he is entitled to bless the Congregation.
 
@@ -174,7 +174,7 @@ Note that not all the Cohanim (the plural) are named "Cohen". The Levites (male 
     ![](../assets/lipman-abrahams.jpg){ width="20%" }
 
 
-## Lipman Abrahams <small>3‑12‑9</small>
+## Lipman Abrahams <small>(3‑12‑9)</small>
 
 This is a beautiful carved sandstone monument. The symbol of the book would suggest that the person was well versed in the Hebrew religion. Today such a monument would cost over $100 000. There are few stonemasons about, who could do the work.
 
@@ -185,7 +185,7 @@ This is a beautiful carved sandstone monument. The symbol of the book would sugg
     ![](../assets/percy-benjamin.jpg){ width="20%" }
 
 
-## Percy Benjamin <small>3‑12‑7/8</small>
+## Percy Benjamin <small>(3‑12‑7/8)</small>
 
 Percy Benjamin was a son of Sir Benjamin Benjamin and Lady Fanny Benjamin. Sir Benjamin owned a Melbourne Savings bank. About the turn of the century there was an unexplained 'rush on the banks', when people drew out their money in a great panic for no reason. Sir Benjamin put all his own funds into his bank in an effort to reassure the people, but it was to no avail. He lost everything and was bankrupted. Percy's monument was provided by his Brisbane employers, S. Hoffnung & Co.
  
@@ -196,7 +196,7 @@ Percy Benjamin was a son of Sir Benjamin Benjamin and Lady Fanny Benjamin. Sir B
     ![](../assets/behr-raphael-lewin.jpg){ width="20%" }
 
 
-## Behr Raphael Lewin <small>3‑8‑10/11</small>
+## Behr Raphael Lewin <small>(3‑8‑10/11)</small>
 
 About 1875 he carried a "Sepher Torah" (i.e. a Scroll of the Old Testament) on horse‑back up the mountain range ‑ the Toll Bar Road ‑ to Toowoomba in order to install Jewish Religious services there. The Toowoomba Synagogue was actually consecrated some years before the Brisbane Synagogue, though the Brisbane Hebrew Congregation was formed in 1865. Mr Levin was an official of both Congregations.
 
@@ -207,7 +207,7 @@ About 1875 he carried a "Sepher Torah" (i.e. a Scroll of the Old Testament) on h
     ![](../assets/cornelia-harris.jpg){ width="20%" }
 
 
-## Cornelia Harris 
+## Cornelia Harris  <!-- (3‑ss‑gg)-->
 
 On this monument is a passage from Proverbs XXXI. It is a fine tribute to a goodly wife.
 
@@ -218,7 +218,7 @@ On this monument is a passage from Proverbs XXXI. It is a fine tribute to a good
     ![](../assets/caroline-benjamin.jpg){ width="20%" }
 
 
-## Caroline Benjamin
+## Caroline Benjamin <!-- (3‑ss‑gg)-->
 
 The headstone and massive monument would weigh over one tonne. If sculpted today, it would cost an enormous amount.
 
@@ -229,9 +229,9 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
     ![](../assets/van-millingen.jpg){ width="20%" }
 
 
-## Van Millingen 
+## Van Millingen  <!-- (3‑ss‑gg)-->
 
-It would be a pity if this fine Grey‑Gum has to be destroyed before it does further damage. It may have been planted on this grave by someone who meant well but did not realise what damage it could ultimately do. Otherwise, it may have grown from a wind‑blown seed or a seed dropped by a bird. Perhaps the tree will be left to grow after all?
+==It would be a pity if this fine Grey‑Gum has to be destroyed before it does further damage. It may have been planted on this grave by someone who meant well but did not realise what damage it could ultimately do. Otherwise, it may have grown from a wind‑blown seed or a seed dropped by a bird. Perhaps the tree will be left to grow after all?==
 
 ??? Example "Directions" 
 
@@ -240,7 +240,7 @@ It would be a pity if this fine Grey‑Gum has to be destroyed before it does fu
     ![](../assets/arthur-hyam.jpg){ width="20%" }
 
 
-## Arthur Hyam 
+## Arthur Hyam  <!-- (3‑ss‑gg)-->
 
 You will see some columns with the top broken off. This is a well‑known symbol over the grave of a person who died at a young age. Later, you will see a monument on which is engraved a palm tree. An arm, wielding an axe has lopped off the tree top. This has the same significance.
 
@@ -251,7 +251,7 @@ You will see some columns with the top broken off. This is a well‑known symbol
     ![](../assets/l-m-boock.jpg){ width="20%" }
 
 
-## L. M. Boock <small>3‑22‑4</small>
+## L. M. Boock <small>(3‑22‑4)</small>
 
 This is an example of the marble monuments erected by the Commonwealth War Graves Commission, over the graves of ex‑servicemen. Others are in bronze.
 
@@ -265,7 +265,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
     
     ![](../assets/e-s-meyers.jpg){ width="20%" }
 
-## E. S. Meyers <small>3‑22‑22</small>
+## E. S. Meyers <small>(3‑22‑22)</small>
 
 Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First World War, being a Regimental Medical Officer. A surgeon, anatomist and teacher; co‑founder of the Medical Faculty of the University of Queensland and was Dean of the faculty 1942‑1954.
 
@@ -278,7 +278,7 @@ Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First 
     ![](../assets/e-m-margulies.jpg){ width="20%" }
 
 
-## Dr E. M. Margulies <small>3‑21‑8</small>
+## Dr E. M. Margulies <small>(3‑21‑8)</small>
 
 Eric Mark Margulies was the only doctor in the western Queensland country town of Cunnamulla. A major fire destroyed the hotel and the good doctor distinguished himself in the rescue, as well as in the treatment of the survivors, some of whom were very badly injured. Later he was the Government Medical Officer on the Gold Coast.
 
@@ -289,7 +289,7 @@ Eric Mark Margulies was the only doctor in the western Queensland country town o
     ![](../assets/gerson-family.jpg){ width="20%" }
 
 
-## The Gerson Family <small>==3‑16‑3/4==</small>
+## The Gerson Family <small>(3‑16‑3/4)</small>
 
 These three identical monuments are an example of the work of vandals. It can be seen that they were broken off at the base with blows from behind. By mounting them on a sloping concrete pad, the broken pieces were brought together. Further vandalism is made less likely.
 
@@ -300,9 +300,9 @@ These three identical monuments are an example of the work of vandals. It can be
     ![](../assets/roy-mark-levy.jpg){ width="20%" }
 
     
-## Roy Mark Levy <small>3‑10‑14A</small>
+## Roy Mark Levy <small>(3‑10‑14A)</small>
 
-He was a well‑known cricketer representing Queensland in the Sheffield Shield series over many years.
+He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/16/16333/16333.html) representing Queensland in the Sheffield Shield series over many years.
 
 ??? Example "Directions" 
 
@@ -311,7 +311,7 @@ He was a well‑known cricketer representing Queensland in the Sheffield Shield 
     ![](../assets/sali-mendelsohn.jpg){ width="20%" }
 
 
-##"Sali" Mendelsohn <small>3‑6‑7</small>
+##"Sali" Mendelsohn <small>(3‑6‑7)</small>
 
 "Sali" was his nickname. His correct name was Bezalel Saul Mendelsohn. He died in 1897 and his sons had his name inscribed as 
 
@@ -328,7 +328,7 @@ Sali was Queensland's greatest bush balladeer and wrote many songs about the dro
     ![](../assets/samuel-joseph-levy.jpg){ width="20%" }
 
 
-## Samuel Joseph Levy <small>3‑8‑20/21</small>
+## Samuel Joseph Levy <small>(3‑8‑20/21)</small>
 
 When a person dies at a relatively young age, it is sometimes symbolised by a "broken column" i.e. the life has been "broken off." On this monument there is a similar symbolism. An arm with an axe in the hand is seen reaching down from the clouds, and it has chopped the trunk of a palm‑tree which is seen falling.
 
@@ -341,7 +341,7 @@ When a person dies at a relatively young age, it is sometimes symbolised by a "b
     ![](../assets/joseph-hearsch.jpg){ width="20%" }
 
     
-## Joseph Hearsch <small>3‑1A‑1/2</small>
+## Joseph Hearsch <small>(3‑1A‑1/2)</small>
 
 Here you will see some of the pebbles or stones which are placed on monuments by those who visit the graves of the departed. They carry a three‑fold message:
 

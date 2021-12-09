@@ -80,8 +80,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - Brisbane City Council Trail 1 <!-- [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. -->
 - Brisbane City Council Trail 2 <!-- [Brisbane City Council Trail 2][bcc-walk-2] -->
 - [Brisbane Open House](../assets/guides/boh.pdf) <!-- [Brisbane Open House][brisbane-open-house] -->
-- Conflict and Compassion
-- **[Erected by their Family, Friends and Colleagues](erected-by-friends.md)** :octicons-pencil-24:
+- **[Conflict and Compassion](conflict-and-compassion.md)** :octicons-pencil-24: 
+- **[Erected by Friends and Family](erected-by-friends.md)** :octicons-pencil-24:
 - [One Adult, One Vote](../assets/guides/sufferage.pdf) - Queenslands' own Suffrage story
 - **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
 - One Day: New Years' Day

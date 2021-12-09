@@ -4,16 +4,7 @@ hide:
   - navigation
 ---
 
-# Men of the Royal Navy  
-
-<!--
-??? Warning "To Do" 
-
-    - Create snippets
-    - Create Bio pages
-    - Add Bios to [Index](../bios/bio-index.md)
-    - Decide if link is needed to Notes
--->
+# Men of the Royal Navy
 
 <!--
 ???+ Example "Directions" 
