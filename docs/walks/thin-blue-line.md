@@ -58,7 +58,6 @@ Ahern was born at Donickmore, County Cork, Ireland in 1840. He was a farmer prio
 
 ![](../assets/john-ahern-headstone.jpg){ width="32%" }
 
-
 ## William Harold Ryan <small>(7A‑116‑44)</small>  
 
 1873‑1954
