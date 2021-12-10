@@ -10,7 +10,7 @@ tr:nth-child(even) {
 th {
   background-color: #7e56c2;
   color: white;
-  text-align: left;
+  text-align: left; 
 }
 
 /* YouTube embed */

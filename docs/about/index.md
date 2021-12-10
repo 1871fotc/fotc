@@ -3,14 +3,13 @@ search:
   boost: 2  
 ---
 
-# About Friends of Toowong Cemetery  
+# About Us 
 
 ![](../assets/fotc-banner-1280x320.png)
 
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
-<!-- photo of members -->
 
 ## What we do 
 
@@ -113,6 +112,7 @@ Our Bank details:
 - Account Number: **67-601-3012**
 
 Please include your Surname as a reference if paying a membership subscription by direct deposit. 
+
 
 <!--
 ## Your consent 
