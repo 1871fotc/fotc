@@ -48,7 +48,7 @@ hide:
 
     - Continue to walk down 15th Avenue. Three rows before the Shelter Shed, on your left, stop at 11‑76‑12/13. 
 
-    ![David Bowman](../assets/404.png){ width="15%" }  
+    ![David Bowman](../assets/david-bowman-headstone.jpg){ width="15%" }  
 
 --8<-- "snippets/david-bowman.md"
 
