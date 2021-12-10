@@ -153,6 +153,9 @@ In April 1974 the Cemetery was full with all plots sold. The Brisbane City Counc
 
 Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. Intervention in 1979 saw an end to the organised vandalism.  The Cemetery reopened in 1998 with approximately 450 plots for sale. 
 
+--8<-- "snippets/dilapidated-graves.md"
+
+
 <!-- 
 
 ==Photo of a Council letter?==
