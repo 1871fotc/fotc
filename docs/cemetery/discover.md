@@ -5,7 +5,7 @@ search:
 
 #  Discover Toowong Cemetery
 
-![Toowong Cemetery Main Entrance][main-entrance]
+![][main-entrance]
 
 *<small>Toowong Cemetery Main Entrance off Frederick Street</small>*
 
@@ -79,24 +79,24 @@ Inside the cemetery you can get around by driving, walking, riding a bike or sco
 
 Some road names have recently been changed to the names of notable people interred nearby. Not all maps and signs in the Cemetery have been updated to reflect these changes: 
 
-| New Road Name           | Old Road Name | Notes                                                                |
-| :----------             | :--------     | :---------                                                           |
-| Walter Hill Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
-| Dr Lillian Cooper Drive | Boundary Road | running parallel to Richer Street                                    |
-| Pride of Erin Drive     | Boundary Road | running parallel to Birdwood Terrace                                 |
-| Francis Forde Avenue    | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
-| Peter Jackson Parade    | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
-| Soldiers Parade         | Boundary Road | running parallel to Frederick Street closest to the main entrance    |
-| Steele Rudd Avenue      | 4^th^ Avenue    |                                                                      |
-| Walter Ralstone Avenue  | 7^th^ Avenue    |                                                                      |
-| Emma Miller Avenue      | 8^th^ Avenue    | behind Canon Garland Place                                           |
-| Charles Heaphy Drive    | 8^th^ Avenue    | from the Shelter Shed to Emma Miller Avenue                          |
-| Pat Hill Drive          | 8^th^ Avenue    | from the Richer Street end to the Shelter Shed                       |
-| O'Doherty Avenue        | 11^th^ Avenue   |                                                                      |
-| Elizabeth Dale Walk     | 12^th^ Avenue   |                                                                      |
-| Garland Avenue          | 13^th^ Avenue   |                                                                      |
-| William Brown Avenue    | 14^th^ Avenue   |                                                                      |
-| Federation Avenue       | 15^th^ Avenue   |                                                                      |
+| New Road Name                              | Old Road Name | Notes                                                                |
+| :----------                                | :--------     | :---------                                                           |
+| **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
+| **[Dr Lillian Cooper][Cooper]** Drive      | Boundary Road | running parallel to Richer Street                                    |
+| Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
+| Francis Forde Avenue                       | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
+| Peter Jackson Parade                       | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
+| Soldiers Parade                            | Boundary Road | running parallel to Frederick Street closest to the main entrance    |
+| Steele Rudd Avenue                         | 4^th^ Avenue  |                                                                      |
+| Walter Ralstone Avenue                     | 7^th^ Avenue  |                                                                      |
+| **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
+| **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
+| **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
+| O'Doherty Avenue                           | 11^th^ Avenue |                                                                      |
+| Elizabeth Dale Walk                        | 12^th^ Avenue |                                                                      |
+| **[Garland][Garland]** Avenue              | 13^th^ Avenue |                                                                      |
+| **[William Browne][Browne]** Avenue        | 14^th^ Avenue |                                                                      |
+| Federation Avenue                          | 15^th^ Avenue |                                                                      |
 
 !!! question "Volunteer"
 
@@ -105,6 +105,18 @@ Some road names have recently been changed to the names of notable people interr
 <!-- Links -->
 
 [main-entrance]: ../assets/main-entrance.jpg "Toowong Cemetery Main Entrance"
+[Walter Hill]: ../bios/walter-hill.md "Read Walter's Biography"
+[Cooper]: ../bios/lilian-cooper.md "Read Lilian's Biography"
+[Forde]: ../bios/francis-forde.md "Read Francis' Biography"
+[Jackson]: ../bios/peter-jackson.md "Read Peter's Biography"
+[Rudd]: ../bios/steel-rudd.md "Read Steel Rudd's (Arthur Hoey Davis) Biography"
+[Ralstone]: ../bios/walter-ralstone.md "Read Walter's Biography"
+[Miller]: ../bios/emma-miller.md "Read Emma's Biography"
+[Heaphy]: ../bios/charles-heaphy.md "Read Charles' Biography"
+[Pat Hill]: ../bios/pat-hill.md "Read Pat's Biography"
+[Dale]: ../bios/elizabeth-dale.md "Read Elizabeth's Biography"
+[Garland]: ../bios/david-john-garland.md "Read David Garland's Biography"
+[Browne]: ../bios/william-henry-browne.md "Read William's Biography"
 
 <!-- include site-wide abbreviations -->
 

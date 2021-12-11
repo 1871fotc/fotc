@@ -48,11 +48,7 @@ On 4 March 1942, the auxiliary minesweeper HMAS Tambar was fired on by the Exami
 
 There was a mix up in the identification code signal of the ship and the battery was ordered to fire across the bow of the unidentified vessel. The 6‑inch shell struck the ship’s forecastle killing Able Seaman Archibald Bartsch, a member of the anchor party, instantly. The shell skidded across the deck into the Captain’s cabin killing Steward Eric Harrison. It then passed through the radio room critically injuring Warrant Officer Henry Theeman. Both of his legs were severed and his succumbed to his injuries soon after. Other crew received injuries to various degrees. London‑born Theeman was aged 47. Bartsch, son of 3^rd^ Light horseman William Henry Bartsch, was an employee if the Australasian United Paint Company of Port Augusta, South Australia prior to his enlistment in the navy. He was aged 20. Western Australian‑born Harrison was the son of William Ross and Rebecca Harrison. He was aged 33 from Melbourne.
 
-## Major Charles Heaphy, VC <small>(1‑5‑34)</small>
-
-Heaphy, born c1822 in London, was an artist and surveyor who explored New Zealand in the 1840s. He landed in New Zealand in 1839 as a draughtsman for the New Zealand Company. He settled in Auckland in 1848 and later joined the local militia, the Auckland Rifle Volunteers. He was awarded the Victoria Cross for rescuing a wounded soldier under fire in the Maori Wars on 11 February 1864 at the Mangapiko River. Heaphy himself was hit in three places by musket balls while assisting the wounded man, with whom he had stayed all day. He was the first soldier of an irregular unit to be awarded the Victoria Cross. 
-
-After his army career, he had a lengthy career as a civil servant, chiefly concerned with surveying and became a Member of Parliament. He retired from public life in 1881 and sailed with his wife to Brisbane. He died in Ann Street, Brisbane on 3 August 1881 of tuberculosis.
+--8<-- "snippets/charles-heaphy.md"
 
 ## Further Reading
 

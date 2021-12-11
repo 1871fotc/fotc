@@ -177,12 +177,9 @@ The Siemon family, which included six children, lived at Ravensfield on Coronati
 
 Archibald was the Chairman of the Toowong Fire Brigade, which had built a [fire station in Jephson Street in 1919](https://heritage.brisbane.qld.gov.au/heritage-places/1703). He was the last Mayor of Toowong in 1925 and went on to serve as an Alderman on the Brisbane City Council between 1926 and 1931. He was Deputy Mayor from 1926 to 1931 and was Lord Mayor from February to May 1931.
 
-
 ![](../assets/royal-exchange-hotel-toowong-1908.jpg){ width="70%" }  
 
 *<small>[Early view of the Royal Exchange Hotel, Toowong, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220193590002061). The hotel and former fire station were situated in High Street, Toowong. The Jephson St Fire Station replaced the High Street Fire Station and was closed on 2 February 1981. — State Library of Queensland. </small>*
-
-
 
 ??? Example "Directions" 
 

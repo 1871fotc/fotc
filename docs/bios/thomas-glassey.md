@@ -6,9 +6,8 @@ hide:
 
 # Thomas Glassey
 
-Lived: **1863 — 21 June 1921**
-
+**1863 — 21 June 1921**
 
 --8<-- "snippets/thomas-glassey.md"
 
-![](../assets/thomas-glassey.jpg)
+![](../assets/thomas-glassey.jpg){ width="32%" }

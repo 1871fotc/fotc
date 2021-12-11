@@ -26,8 +26,6 @@ The Citizens’ Band provided music as the public laid wreaths at the Stone. So 
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
-
-
 ## ‘A’ Battery Memorial
 
 Prior to Federation each of the Australian colonies maintained its own defence force. These forces were largely comprised of part‑time volunteers and a small number of permanent officers and men. This memorial is to the men of Queensland’s permanent force ‘A’ Battery, Queensland Artillery. All of those named on the memorial died while serving in the Battery, but only one, Driver Sydney Walker, died while on active service. Walker was serving on the 1^st^ Queensland Contingent to the South African War when he died of enteric fever at Bloemfontein. This monument was established in April 1886. A number of soldiers named on the memorial are buried nearby.
@@ -45,16 +43,8 @@ Unveiled in May 1902, this is the first known monument to the South African War 
 
 Lyon was a member of the 2^nd^ Battalion, Natal Contingent and saw action at the Battle of Isandhlwana, Rorke's Drift, Gingalore, the relief of Ekouso and was awarded South African Medal. On 22 January 1879, the 1^st^ Battalion, 24th Regiment of Foot was attacked by Zulus and decimated, with some 858 members killed. A few soldiers were able to escape to the mission station at Rorke’s Drift. The Battle of Rorke’s Drift was depicted in the [1964 movie Zulu](https://en.wikipedia.org/wiki/Zulu_(1964_film)). Eight officers and 135 men successfully defended the station. Eleven Victoria Crosses were later issued, the most in any British battle. Lyon died on 21 April 1934 aged 81.
 
-## Major Charles Heaphy, VC <small>(1‑5‑34)</small>
 
-Heaphy, born c1822 in London, was an artist and surveyor who explored New Zealand in the 1840s. He landed in New Zealand in 1839 as a draughtsman for the New Zealand Company. He settled in Auckland in 1848 and later joined the local militia, the Auckland Rifle Volunteers. He was awarded the Victoria Cross for rescuing a wounded soldier under fire in the Māori Wars on 11 February 1864 at the Mangapiko River. Heaphy himself was hit in three places by musket balls while assisting the wounded man, with whom he had stayed all day. He was the first soldier of an irregular unit to be awarded the Victoria Cross. 
-
-After his army career, he had a lengthy career as a civil servant, chiefly concerned with surveying and became a Member of Parliament. He retired from public life in 1881 and sailed with his wife to Brisbane. He died in Ann Street, Brisbane on 3 August 1881 of tuberculosis.
-
-![](../assets/charles-heaphy.jpg){ width="40%" }  
-
-*<small>Charles Heaphy. Ref: 1/2-003062-F. Alexander Turnbull Library, Wellington, New Zealand. [/records/22544487](https://natlib.govt.nz/records/22544487)</small>*
-
+--8<-- "snippets/charles-heaphy.md"
 
 ## John Jennings Imrie, MD <small>(1‑85‑9)</small>
 

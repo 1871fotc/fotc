@@ -6,6 +6,6 @@ hide:
 
 # Anderson Dawson
 
-Lived: **16 July 1863 — 20 July 1910**
+**16 July 1863 — 20 July 1910**
 
 --8<-- "snippets/anderson-dawson.md"

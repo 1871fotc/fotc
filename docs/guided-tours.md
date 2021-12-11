@@ -38,7 +38,7 @@ We offer private guided heritage tours tailored to your needs. [Contact us](../a
 [image8]: assets/cherub.jpg "Cherub Headstone"
 [image9]: assets/harry-potter-16x9.jpg "Spoiler Alert"
 [image10]: assets/clasped-hands.jpg "We Part To Meet Again"
-[image11]: assets/pat-hill.jpg "Pat Hill's Headstone"
+[image11]: assets/pat-hill-headstone.jpg "Pat Hill's Headstone"
 
 <!--
 ## Other Tours

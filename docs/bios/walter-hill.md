@@ -6,7 +6,7 @@ hide:
 
 # Walter Hill
 
-Lived: **31 December 1819 — 4 February 1904**
+**31 December 1819 — 4 February 1904**
 
 --8<-- "snippets/walter-hill.md"
 

@@ -6,7 +6,7 @@ hide:
 
 # Albert Edward Victor Whitford
 
-Lived: **1877 — 29 January 1924**
+**1877 — 29 January 1924**
 
 
 --8<-- "snippets/albert-edward-victor-whitford.md"

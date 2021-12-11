@@ -6,7 +6,7 @@ hide:
 
 # Ann Hill
 
-Lived: **25 April 1850 — 1 November 1871**
+**25 April 1850 — 1 November 1871**
 
 --8<-- "snippets/ann-hill.md"
 

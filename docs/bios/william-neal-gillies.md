@@ -6,7 +6,7 @@ hide:
 
 # William Neal Gillies
 
-Lived: **28 October 1868 — 9 February 1928**
+**28 October 1868 — 9 February 1928**
 
 --8<-- "snippets/william-neal-gillies.md"
 

@@ -6,8 +6,8 @@ hide:
 
 # Emma Miller
 
-Lived: **June 1839 — 1917**
+**26 June 1839 — 22 January 1917**
 
 --8<-- "snippets/emma-miller.md"
 
-![](../assets/emma-miller.jpg)
+![](../assets/emma-miller.jpg){ width="32%" }

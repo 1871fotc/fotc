@@ -6,7 +6,7 @@ hide:
 
 # Dr Lilian Voilet Cooper
 
-Lived: **11 August 1861 — 18 August 1947**
+**11 August 1861 — 18 August 1947**
 
 --8<-- "snippets/lilian-cooper.md"
 

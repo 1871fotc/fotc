@@ -50,7 +50,6 @@ These are the oldest surviving headstones and footstones in Queensland.
 ![](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
 *<small>Pioneer Children's Graves (13-10-4).</small>*
 
-
 <!--
 Brisbane, 1844 (after a drawing by Carl Friedrich Gerler)
 
@@ -79,7 +78,7 @@ Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglecte
 
 ![](../assets/paddington-cemetery-goat-1910.png){ width="70%" } 
 
-*<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) - Queensland State Archives.</small>*
+*<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) — Queensland State Archives.</small>*
 
 In 1911 the Queensland Government passed the *[Paddington Cemetery Act](http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/)* allowing them to move the bodies to another location.
 
@@ -133,7 +132,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 ![](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
 
-*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
 <!--
 ![](../assets/stone-of-remembrance.jpg){ width="96%" }  
@@ -146,6 +145,13 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
+## 1962 Trams Terminated
+
+[Trams in Brisbane](https://en.wikipedia.org/wiki/Trams_in_Brisbane) changed over time. In 1962 the [Paddington Tram Depot was destroyed by fire](https://trove.nla.gov.au/newspaper/article/104296116) and 65 trams were lost. The Rainworth and Toowong tram services were withdrawn and replaced with buses.
+
+--8<-- "snippets/toowong-cemetery-tram.md"
+
+The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au/heritage-register/detail/?id=601198) can still be found at 150 Enoggera Terrace, Paddington. Trammies Corner Park can be visited at	74 Prince Street, Paddington.
 
 ## 1970's "Beautification Scheme"
 
@@ -155,16 +161,23 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
 --8<-- "snippets/dilapidated-graves.md"
 
+<!-- ==Photo of a Council letter?== -->
 
-<!-- 
+In 1978 construction started on the Toowong Roundabout. 
 
-==Photo of a Council letter?==
+--8<-- "snippets/toowong-roundabout-construction-1978.md"
+
+## 1988 Mission Impossible
+
+In 1988 the first season of [Mission Impossible](https://en.wikipedia.org/wiki/Mission:_Impossible_(1988_TV_series)) was filmed in Queensland. Some scenes where filmed in Toowong Cemetery.
+
+--8<-- "snippets/mission-impossible.md"
 
 ## 1996 Friends of Toowong Cemetery formed 
 
-==Darcy to provide the FOTC origin story. Cr. Judy Magub first President. Judy was the councillor for the Toowong ward since it was formed in 1994 and she retired in 2007.==
+Cr. Judy Magub was the first President of the Friends of Toowong Cemetery. Judy was the councillor for the Toowong ward since it was formed in 1994 until she retired in 2007.
 
--->
+Learn more about [Friends of Toowong Cemetery](../about/index.md) - what we do, what we've done, and how to join in. 
 
 ## 2001 Federation Pavilion
 
@@ -192,12 +205,12 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a [re-enactment o
 Today, the Friends of Toowong Cemetery and the Brisbane City Council work together to maintain and improve Toowong Cemetery. Together we have delivered improvements including:
 
 - The **[Federation Pavilion](../about/federation-pavilion.md)**
-- Renaming the Cemetery Roads after notable people buried nearby
+- **[Renaming the Cemetery Roads](../discover/#road-name-changes)** after notable people buried nearby
 - Reusing the old Sexton's office as the **[Toowong Cemetery Museum](museum.md)**
 - The Paddington Memorial, and **[Headstone Symbology](../headstones/)** display
-- The Toowong Cemetery Rememberance Walk that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend. 
+- The Toowong Cemetery Remembrance Walk that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend. 
 
-**Toowong Cemetery is enjoyed by those who come to visit loved ones, walk their dog, exercise, or discover the history and stories inside.**
+**Toowong Cemetery is enjoyed by those who come to visit loved ones, walk their dog, exercise, or discover the history and the stories inside.**
 
 <!-- 
 

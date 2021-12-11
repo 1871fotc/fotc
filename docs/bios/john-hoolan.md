@@ -6,7 +6,7 @@ hide:
 
 # John Hoolan
 
-Lived: **1842 — 15 June 1911**
+**1842 — 15 June 1911**
 
 --8<-- "snippets/john-hoolan.md"
 
