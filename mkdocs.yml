@@ -71,9 +71,9 @@ extra:
 #    - icon: fontawesome/brands/creative-commons
 #      link: https://creativecommons.org/licenses/by/4.0/
 #      name: CC-BY 4.0 licence
-#  analytics: 
-#    provider: google
-#    property: G-FT5X64207N
+  analytics: 
+    provider: google
+    property: G-FT5X64207N
 #    feedback:
 #      title: Was this page helpful?
 #      ratings:
