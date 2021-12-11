@@ -8,7 +8,7 @@ An unofficial port of the Friend of Toowong Cemetery site - `www.fotc.org.au`. V
 - [Pages](https://github.com/Stephen-Gates/fotc/tree/main/docs) are written in Markdown
 - Snippets are used to modularise content
 - Images are stored in [/assets](https://github.com/Stephen-Gates/fotc/tree/main/docs/assets)
-- Calendar Invites are stored in [/assets/Calendar](https://github.com/Stephen-Gates/fotc/tree/main/docs/assets/calendar) and are made with https://ical.marudot.com
+- Calendar Invites are stored in [/assets/Calendar](https://github.com/Stephen-Gates/fotc/tree/main/docs/assets/calendar) and are made with https://ical.marudot.com. Use https://icalendar.org/rrule-tool.html to create first/last day of the week rules. 
 - The Site is configured using [mkdoc.yml](https://github.com/Stephen-Gates/fotc/blob/main/mkdocs.yml)
 - Some customisations are made:
     - [stylesheet extras](https://github.com/Stephen-Gates/fotc/tree/main/docs/stylesheets) 

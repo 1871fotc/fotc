@@ -203,7 +203,7 @@ nav:
 #    - News: news/index.md
     - Upcoming Events: news/index.md
 #    - Past News: news/past-news.md 
-    - Past Events: news/past-events.md
+#    - Past Events: news/past-events.md
   - About Us: 
     - About Friends of Toowong Cemetery: about/index.md
     - Federation Pavilion: about/federation-pavilion.md

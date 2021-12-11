@@ -14,6 +14,10 @@ The Friends of Toowong Cemetery offer guided heritage tours on the **[first Sund
  
 Volunteer guides lead you on a different heritage walk each month. The **[Toowong Cemetery Museum](cemetery/museum.md)** will be open before and after the walk and has an extensive display of photographs and artefacts.
 
+:fontawesome-regular-calendar-plus: **[Add all 2022 guided tours to your Calendar](../assets/calendar/tours-2022.ics)** ==Our September walk clashes with Fathers day so we'll probably move it==
+
+Add a specific tour to your calendar from the [Events](../news/) page
+
 There's **no need to book**, just **meet under the flagpole, in Canon Garland Place at the Toowong Cemetery**. There is plenty of parking available inside the cemetery.
 
 **Guided  tours are free** but a small donation is appreciated to help us continue **[our work](about/index.md)**. 
