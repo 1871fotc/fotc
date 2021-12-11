@@ -24,7 +24,7 @@
 | ----------:          | :--------                                 | :--------- | :--------- | :--------- | 
 | David John           | **[Garland](david-john-garland.md)**      | 1864‑10‑4  | 1939‑10‑11 | 1‑5a‑9    | 
 | Arthur               | **[Rutledge](arthur-rutledge.md)**        | 1843‑08‑29 | 1917‑02‑08 | 13‑49‑15   | 
-| Samuel Walker        | **[Griffith](samuel-walker-griffith.md)** | 1843‑08‑29 | 1917‑02‑08 | 13‑49‑15   | 
+| Samuel Walker        | **[Griffith](samuel-walker-griffith.md)** | 1845‑06‑21 | 1920‑08‑09 | 12‑11‑6/7   | 
 | John                 | **[Donaldson](john-donaldson.md)**        | 1841‑06‑15 | 1896‑07‑25 | 12‑47‑13   | 
 | Thomas  | **[Macdonald‑Paterson](thomas-macdonald‑paterson.md)** | 1844‑05‑09 | 1906‑03‑21 | 12‑53-10   |  
 | Emma                 | **[Miller](emma-miller.md)**              | 1839‑06‑dd | 1917‑mm‑dd | 13‑6‑5/6   | <!-- Labor -->
