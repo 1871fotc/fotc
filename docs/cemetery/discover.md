@@ -102,6 +102,27 @@ Some road names have recently been changed to the names of notable people interr
 
     Unfortunately signs are often vandalised in the cemetery. If you find a damaged or missing sign, please take a photo and **[report damaged signs to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)**
 
+
+## Attractions nearby
+
+- [Mt Coot-tha Botanic Gardens](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha) - walking distance
+- [Sir Thomas Brisbane Planetarium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/sir-thomas-brisbane-planetarium) - walking distance
+- [Anzac Park](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/parks-by-suburb/toowong-parks) a long walk via the Mt Coot-tha Botanic Gardens, then across [Canon Garland Overpass](https://garlandmemorial.com/2019/10/09/canon-garland-overpass/) into Anzac Park
+- [Mt Coot-tha Lookout](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-attractions/mt-coot-tha-lookout) - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot-tha Botanic Gardens
+- [Mt Coot-tha Reserve](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-reserve) - drive to picnic areas, bush walks, or mountain bike riding. J. C. Slaughter Falls and Simpson Falls are our favourites
+- [Mt Coot-tha Events](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-precinct-events) - there's always something happening around Mt Coot-tha
+
+## Need Coffee?
+
+Here are some of our favourites:
+
+- [Botanic Gardens Cafe](https://www.botanicgardenscafe.net) - walking distance
+- [The Summit Cafe](http://www.summitbrisbane.com.au)  - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot-tha Botanic Gardens to the Mt Coot-tha Lookout
+- [Sweetshop Specialty Coffee](https://sweetshopspecialtycoffee.com.au) - 1A Stuartholme Road, Bardon
+- [Bardon Thyme](https://www.facebook.com/bardonthyme) - 5 Morgan Terrace, Bardon
+- [Good Folk Cafe](https://goodfolkcafe.com.au) - 58 Rainworth Road, Bardon
+- [Via Retro](https://viaretrocafe.com.au) - look for the cute retro caravan at J.C Slaughter Falls on weekends
+
 <!-- Links -->
 
 [main-entrance]: ../assets/main-entrance.jpg "Toowong Cemetery Main Entrance"

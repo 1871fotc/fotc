@@ -71,6 +71,10 @@ Today [Fish Lane](https://explorefishlane.com.au) is a vibrant Arts Precinct.
 
 ==to do==
 
+The steamship *Gothenberg* contracted for the Adelaide to Port Darwin run in 1874, was regarded as fast and dependable. On 17 February 1875 the ship left Port Darwin carrying approximately 100 passengers and 34 crew. As the ship sailed down the North Queensland coast, cyclonic weather conditions were encountered. During the evening of 24 February, the *Gothenberg*  struck the southern edge of Detached Reef
+
+
+
 ## Benjamin Harris Babbidge <small>(1‑44‑9)</small>
 
 ==to do==
