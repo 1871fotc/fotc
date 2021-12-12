@@ -81,6 +81,14 @@ We try a make this website accessible to everyone. If anything on this site is i
 - :fontawesome-solid-phone: via phone
 - :material-heart-broken: using a feedback form
 
+## Your consent 
+
+When you visited this site for the first time, we asked for your consent to use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you find this site helpful. With your consent you're helping us to make this site better. 
+
+You can change your cookie settings at any time. 
+
+[Change cookie settings](#__consent){ .md-button }
+
 
 
 <!-- links --> 

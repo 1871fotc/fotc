@@ -92,11 +92,11 @@ extra:
 # See https://support.google.com/a/users/answer/9308781?hl=en; add {} to URL answer; copy link; replace =%7B%7D with ={}; done            
 # https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590=%7B%7D
 #
-#  consent:
-#    title: Cookie consent
-#    description: >-
-#      <p>We use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you think this site is helpful.</p>
-#      <p>With your consent, you're helping us to make this site better.</p>
+  consent:
+    title: Cookie consent
+    description: >-
+      <p>We use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you think this site is helpful.</p>
+      <p>With your consent, you're helping us to make this site better.</p>
   
 extra_css:
   - stylesheets/extra.css

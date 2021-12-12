@@ -112,14 +112,3 @@ Our Bank details:
 - Account Number: **67-601-3012**
 
 Please include your Surname as a reference if paying a membership subscription by direct deposit. 
-
-
-<!--
-## Your consent 
-
-When you visited this site for the first time, we asked for your consent to use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you find this site helpful. With your consent you're helping us to make this site better. 
-
-You can change your cookie settings at any time. 
-
-[Change cookie settings](#__consent){ .md-button }
--->

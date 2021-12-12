@@ -74,7 +74,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[The Lutheran][lutheran-trail]** 
 
 
-## Other walks :octicons-pencil-24:
+## Other walks
 
 - **[20/20 Vision](2020-vision.md)** :octicons-pencil-24: 
 - Brisbane City Council Trail 1 <!-- [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. -->
@@ -92,7 +92,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - [Portions 15 and 16](../assets/guides/portion15-and-16.pdf) - A wander through Portions 15 and 16
 - Rich man, Poor man <!-- [Rich man, Poor man](../assets/guides/rich-man-poor-man.pdf) -->
 - **[Propectors](prospectors.md)** :octicons-pencil-24:
-- **[Steam](steam.md)** :octicons-pencil-24: 
+- **[Steam](steam.md)** 
 - **[Taken before their time](taken-before-their-time.md)** :octicons-pencil-24:
 
 
