@@ -22,12 +22,10 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 *<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
-
 ![](../assets/Toowong-cemetery-map-photo.jpg){ width="96%" }  
 
 *<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
 *<small>Series 46 Film BCC2 Frame 34691, 31 May 1946  — Brisbane City Council. Frederick St is the straight road on the right, running top to bottom.</small>*
-
 
 ## 1881 Queensland's oldest surviving headstones
 
@@ -69,7 +67,6 @@ Map legend :
  
 The Postmaster in 1844 was George M. Slade.
 
-
 -->
 
 ## 1911 Paddington Cemetery Act
@@ -100,7 +97,6 @@ The Paddington Memorial commemorates people originally buried in the North Brisb
 
 >Lang Park evolved into an iconic inner-city sports ground, with a major redevelopment of the stadium from 2001 to 2003. This resulted in the necessary excavation of sections of the former burial grounds that would be disturbed by construction. A methodical archaeological investigation was undertaken, and the fragmentary remains of 394 unidentified individuals were exhumed from the Episopalian (Anglican), Roman Catholic, and Presbyterian cemeteries. The remains were interred in this memorial in July 2003.
 
-
 ## 1921 New Neighbours
 
 Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*" was a selling point. The Toowong Tram stopped near the main cemetery gates.
@@ -112,7 +108,6 @@ Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary 
 ![](../assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" }  
 
 *<small>[Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — [State Library of Queensland](https://www.slq.qld.gov.au). </small>*
-
 
 ## 1924 Remembering the Anzacs
 
@@ -151,7 +146,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 --8<-- "snippets/toowong-cemetery-tram.md"
 
-The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au/heritage-register/detail/?id=601198) can still be found at 150 Enoggera Terrace, Paddington. Trammies Corner Park can be visited at	74 Prince Street, Paddington.
+The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au/heritage-register/detail/?id=601198) can still be found at 150 Enoggera Terrace, Paddington. [Trammies Corner Park](https://brismania.com/day-93-paddington-bare/) can be visited at	74 Prince Street, Paddington.
 
 ## 1970's "Beautification Scheme"
 
@@ -192,7 +187,6 @@ In 2006, in conjunction with the University of Queensland Archaeology Department
 In 2011, while staff prepared a new grave, the headstone of a John Peel was discovered. Brisbane City Council had no record of John Pell and asked Friends of Toowong Cemetery for help. It was discovered that the headstone was one of 504 missing headstones from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for roadbase. This was not entirely true as many headstones have been found in archaeological digs between 2011-2016. 
 
 ![](../assets/lost-and-found.jpg){ width="96%" }  
-
 
 ## 2011 Governor Blackall's funeral re-enactment
 

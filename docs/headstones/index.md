@@ -27,20 +27,20 @@ The cross comes in a variety of shapes. The Celtic cross (with its arms enclosed
 
 Columns are indicative of heaven and their height implies the social status of the person buried. A broken column represents the break between life on earth and in heaven, and also a life cut short. Columns were also used to represent the loss of the head of family.
 
-![](../assets/column.jpg)
+![](../assets/column.jpg){ width="40%" }
 
 ## Crown
 
 A crown was often used to represent the "sovereignty of the Lord".
 
-![](../assets/crown.jpg) 
+![](../assets/crown.jpg){ width="70%" }
 <!-- add caption and plot id -->
 
 ## Harp or Lyre
 
 A harp or lyre symbolises hope, joy and music. It was the symbol of St. Cecila, the Patron Saint of Musicians, and is often associated with worship in heaven. This can be seen on the grave of Joseph Phillips (10-8-12).
 
-![](../assets/lyre.jpg) 
+![](../assets/lyre.jpg){ width="70%" }
 
 ## Ship's Anchor
 
@@ -53,7 +53,7 @@ A ship's anchor was commonly used to commemorate the life of a sailor or someone
 
 An obelisk is defined as a thin, four-sided tapering monument ending in a pyramid at the top. The height of the obelisk also indicates the importance of the deceased. 
 
-![](../assets/obelisk.jpg) 
+![](../assets/obelisk.jpg){ width="40%" }
 <!-- add caption and plot id -->
 
 ## Clasped hands
@@ -78,21 +78,21 @@ Plants can represent a person's birthplace (such as thistles from Scotland) and 
 
 Urns are a Greek symbol of mourning and represent the process of death, where the body becomes dust while the spirit rests with God. When the urn is draped it becomes a symbol of the house mourning.
 
-![](../assets/draped-urn.jpg) 
+![](../assets/draped-urn.jpg){ width="40%" }
 <!-- add caption and plot id -->
 
 ## Animals
 
 Animals symbolise the character of the deceased. Lambs were often used as a symbol of innocence and found on the graves of children, while lions were used as a symbol of courage. Visit the grave of heavyweight boxing champion Peter Jackson (5-28-1) which is adorned with a lion.
 
-![](../assets/lion.jpg) 
+![](../assets/lion.jpg){ width="70%" }
 <!-- add caption and plot id -->
 
 ## IHS Emblem
 
 The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and represents the first Greek word for Jesus or Christ. 
 
-![](../assets/ihs.jpg) 
+![](../assets/ihs.jpg){ width="70%" }
 <!-- add caption and plot id -->
 
 ## Books
