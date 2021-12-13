@@ -126,6 +126,12 @@ Here are some of our favourites:
 - [Good Folk Cafe](https://goodfolkcafe.com.au) - 58 Rainworth Road, Bardon
 - [Via Retro](https://viaretrocafe.com.au) - look for the cute retro caravan at J.C Slaughter Falls on weekends
 
+
+![](../assets/duke-and-duchess-of-york-mt-coot-tha.jpg)
+
+*<small>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland </small>*
+
+
 <!-- Links -->
 
 [main-entrance]: ../assets/main-entrance.jpg "Toowong Cemetery Main Entrance"

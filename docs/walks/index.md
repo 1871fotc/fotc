@@ -91,7 +91,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - [Portion 5 - part 2](../assets/guides/portion5-part2.pdf) - A ramble through Portion 5 - part 2
 - [Portions 6 and 24](../assets/guides/portion6-and-24.pdf) - A walk through Portions 6 and 24
 - [Portions 15 and 16](../assets/guides/portion15-and-16.pdf) - A wander through Portions 15 and 16
-- Rich man, Poor man <!-- [Rich man, Poor man](../assets/guides/rich-man-poor-man.pdf) -->
+- [Rich man, Poor man](../assets/guides/rich-man-poor-man.pdf) 
 - **[Propectors](prospectors.md)** :octicons-pencil-24:
 - **[Steam](steam.md)** 
 - **[Taken before their time](taken-before-their-time.md)** :octicons-pencil-24:
