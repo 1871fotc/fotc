@@ -92,7 +92,7 @@ Some road names have recently been changed to the names of notable people interr
 | **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
 | **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
-| O'Doherty Avenue                           | 11^th^ Avenue |                                                                      |
+| **[O'Doherty][O'Doherty]** Avenue          | 11^th^ Avenue |                                                                      |
 | Elizabeth Dale Walk                        | 12^th^ Avenue |                                                                      |
 | **[Garland][Garland]** Avenue              | 13^th^ Avenue |                                                                      |
 | **[William Browne][Browne]** Avenue        | 14^th^ Avenue |                                                                      |
@@ -147,6 +147,7 @@ Here are some of our favourites:
 [Dale]: ../bios/elizabeth-dale.md "Read Elizabeth's Biography"
 [Garland]: ../bios/david-john-garland.md "Read David Garland's Biography"
 [Browne]: ../bios/william-henry-browne.md "Read William's Biography"
+[O'Doherty]: ../bios/kevin-izod-odoherty.md
 
 <!-- include site-wide abbreviations -->
 

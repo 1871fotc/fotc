@@ -43,6 +43,7 @@
 | Lilian Violet        | **[Cooper](lilian-cooper.md)**            | 1861‑08‑11 | 1947‑08‑18 | 8‑69‑13/14 | <!-- ? -->
 | Walter               | **[Hill](walter-hill.md)**                | 1819‑12‑21 | 1904‑02‑04 | 6‑21‑9     | <!-- ? -->
 | Peter                | **[Jackson](peter-jackson.md)**           | 1861-07-03 | 1901-07-13 | 5‑28‑1     | 
+| Kevin Izod           | **[O’Doherty](kevin-izod-odoherty.md)**   | 1823-mm-dd | 1905-mm-dd | 7‑58‑27    | 
 
 <!--
 
