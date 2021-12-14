@@ -38,19 +38,8 @@ hide:
 
 ==to do==
 
-## Peter Jackson <small>(5‑28‑1)</small>
 
-1861–1901 
-
-==to do==
-
-![](../assets/peter-jackson.jpg){ width="40%" }
-
-*<small>[Boxer Peter Jackson who came to live in Queensland from the West Indies, ca. 1880s](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool116252) - State Library of Queensland </small>*
-
-
-
-
+--8<-- "snippets/peter-jackson.md"
 
 ## John (Jack) Dowridge <small>(5‑28‑14)</small>
 

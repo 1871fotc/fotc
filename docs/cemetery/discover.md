@@ -85,7 +85,7 @@ Some road names have recently been changed to the names of notable people interr
 | **[Dr Lillian Cooper][Cooper]** Drive      | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
 | Francis Forde Avenue                       | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
-| Peter Jackson Parade                       | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
+| **[Peter Jackson][Jackson]** Parade            | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
 | Soldiers Parade                            | Boundary Road | running parallel to Frederick Street closest to the main entrance    |
 | Steele Rudd Avenue                         | 4^th^ Avenue  |                                                                      |
 | Walter Ralstone Avenue                     | 7^th^ Avenue  |                                                                      |
@@ -100,7 +100,7 @@ Some road names have recently been changed to the names of notable people interr
 
 !!! question "Volunteer"
 
-    Unfortunately signs are often vandalised in the cemetery. If you find a damaged or missing sign, please take a photo and **[report damaged signs to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)**
+    Unfortunately signs are often vandalised in the cemetery. If you find a damaged sign, please take a photo and **[report damaged signs to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)**
 
 
 ## Attractions nearby

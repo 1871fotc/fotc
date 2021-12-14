@@ -42,6 +42,7 @@
 | Albert Edward Victor | **[Whitford](albert-edward-victor-whitford.md)** | 1877‑mm‑dd | 1924‑01‑29 | 15‑6‑40   | 
 | Lilian Violet        | **[Cooper](lilian-cooper.md)**            | 1861‑08‑11 | 1947‑08‑18 | 8‑69‑13/14 | <!-- ? -->
 | Walter               | **[Hill](walter-hill.md)**                | 1819‑12‑21 | 1904‑02‑04 | 6‑21‑9     | <!-- ? -->
+| Peter                | **[Jackson](peter-jackson.md)**           | 1861-07-03 | 1901-07-13 | 5‑28‑1     | 
 
 <!--
 
