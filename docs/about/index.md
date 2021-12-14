@@ -32,13 +32,7 @@ The Friends of Toowong Cemetery have:
 - provided **biographies for information signs** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby to make it easier to find your way around the cemetery.
 - shared the history and stories of Toowong Cemetery through monthly **[guided tours](../guided-tours.md)**.
-- published: 
-    - **Toowong Cemetery resource manual : a guide for exploring the cemetery**. Recommended for teachers of school groups visiting the cemetery. Available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:71596/one) or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
-    <!-- Why not publish the resource for free? -->
-    - **[Colonel Samuel Wensley Blackall : 1809-1871](../assets/guides/samual-blackall.pdf)** to celebrate the 140th anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery and the internment of the first person buried there, Governor Samuel Wensley Blackall.
-    - **Extraordinary Stories of Ordinary People**, a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. 
-    - **140th Anniversary Commemoration of the Toowong Cemetery** - DVD
-    - **[Self‑guided walks](../walks/index.md)** 
+- **[published books, a DVD](publications.md)** and **[self‑guided walks](../walks/index.md)** 
 
 
 ![](../assets/federation-pavillion.jpg)
