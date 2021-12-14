@@ -31,7 +31,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 Esther Roberts, mother of William Henry Roberts, was the first teacher of girls in the Moreton Bay settlement. His father, Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. William was born on 15 September 1828 and died of illness on 15 November 1831. The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14:
 
->Suffer the little children, and forbid them not, to come unto me: for of such belongeth the Kingdom of God. 
+>[Suffer the little children, and forbid them not, to come unto me](../walks/children.md): for of such belongeth the Kingdom of God. 
 
 It has since been lost to weathering. After the death of their son, the Roberts family returned to Sydney in 1834.
 

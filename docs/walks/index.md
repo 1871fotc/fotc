@@ -69,7 +69,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 ## Birds of a feather 
 
-- **[The Children][children]** - tragic stories of lives cut short
+- **[The Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[The Convicts][convicts]** - connections to our convict past
 - **[The Irish][irish-trail]** - a historic Pub crawl around Brisbane
 - **[The Jewish][jewish-trail]**  :octicons-pencil-24:
