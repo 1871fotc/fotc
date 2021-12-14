@@ -119,7 +119,7 @@ Some road names have recently been changed to the names of notable people interr
 
 Here are some of our favourites:
 
-- [Botanic Gardens Cafe](https://www.botanicgardenscafe.net) - walking distance
+- [Botanic Gardens Cafe](https://www.botanicgardenscafe.net) - 15 minute walk from Canon Garland Place
 - [The Summit Cafe](http://www.summitbrisbane.com.au)  - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot-tha Botanic Gardens to the Mt Coot-tha Lookout
 - [Sweetshop Specialty Coffee](https://sweetshopspecialtycoffee.com.au) - 1A Stuartholme Road, Bardon
 - [Bardon Thyme](https://www.facebook.com/bardonthyme) - 5 Morgan Terrace, Bardon
@@ -127,9 +127,9 @@ Here are some of our favourites:
 - [Via Retro](https://viaretrocafe.com.au) - look for the cute retro caravan at J.C Slaughter Falls on weekends
 
 
-![](../assets/duke-and-duchess-of-york-mt-coot-tha.jpg)
+![](../assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg)
 
-*<small>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland </small>*
+*<small>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland. Colour adjusted. </small>*
 
 
 <!-- Links -->

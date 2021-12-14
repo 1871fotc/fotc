@@ -33,6 +33,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Governors][governors-past]** - visit some of Queensland's earliest Governors
 - **[Brisbane Mayors][brisbane-mayors]** - learn about 14 Brisbane Mayors from 1859 to 1931
 - **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
+- [One Adult, One Vote](../assets/guides/sufferage.pdf) - Queenslands' own Suffrage story
+
 
 ## Military 
 
@@ -83,7 +85,6 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - Brisbane City Council Trail 2 <!-- [Brisbane City Council Trail 2][bcc-walk-2] -->
 - [Brisbane Open House](../assets/guides/boh.pdf) <!-- [Brisbane Open House][brisbane-open-house] -->
 - **[Erected by Friends and Family](erected-by-friends.md)** :octicons-pencil-24:
-- [One Adult, One Vote](../assets/guides/sufferage.pdf) - Queenslands' own Suffrage story
 - **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
 - One Day: New Years' Day
 - **[Mothers](mothers.md)** :octicons-pencil-24:
