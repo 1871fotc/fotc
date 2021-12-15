@@ -25,8 +25,8 @@ The Friends of Toowong Cemetery:
 
 The Friends of Toowong Cemetery have:
 
-- **established [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. 
-- **celebrated the [140th Anniversary Commemoration of the cemetery](140-commemoration.md)**. We received an Award from the  National Trust of Queensland for our work.
+- **established the [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. 
+- **commemorated the [140th Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the  National Trust of Queensland for our work.
 - provided **biographies for information signs** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby to make it easier to find your way around the cemetery.
 - shared the history and stories of Toowong Cemetery through monthly **[guided tours](../guided-tours.md)**.
@@ -41,10 +41,10 @@ The Friends of Toowong Cemetery have:
 
 Currently we are: 
 
-- creating a database of people who have served their nation in military uniform and now rest in Toowong Cemetery. These men and women will be recognised on an [honour board](https://youtu.be/mVfixEzUpwk) at the cemetery's main entrance.
-- photographing every headstone in the cemetery.
-- updating our website to include [even more content](https://github.com/Stephen-Gates/fotc/projects/1?fullscreen=true), including updating the directions and maps for our [self‑guided walks](../walks/index.md). 
-- encouraging the broader community to volunteer through simple one-off interactions. On this site you'll find these opportunities shown in green Volunteer Opportunity boxes like the one below. 
+- planning to erect an **[honour board](https://youtu.be/mVfixEzUpwk)** at the cemetery's main entrance to commemorate people who have served their nation in military uniform and now rest in Toowong Cemetery.
+- **photographing every headstone** in the cemetery.
+- **updating our website** to include [even more content](https://github.com/Stephen-Gates/fotc/projects/1?fullscreen=true), including updating the directions and maps for our [self‑guided walks](../walks/index.md). 
+- **encouraging the community to volunteer** through simple one-off tasks shown on this site like the one below. 
 
 !!! question "Volunteer opportunity"
 

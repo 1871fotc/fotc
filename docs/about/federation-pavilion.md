@@ -2,7 +2,7 @@
 
 ![](../assets/federation-pavillion.jpg)
 
-The [Federation Pavilion](https://monumentaustralia.org.au/themes/government/federal/display/92703-the-federation-pavilion-) commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
+The [Federation Pavilion](https://monumentaustralia.org.au/themes/government/federal/display/92703-the-federation-pavilion-) commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
 ![](../assets/federation-pavillion-wall.jpg)
 

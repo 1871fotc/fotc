@@ -38,7 +38,6 @@ theme:
       question: fontawesome/solid/hand-holding-heart
       example: fontawesome/regular/compass
       warning: fontawesome/regular/check-circle
-#      tip: fontawesome/regular/question-circle
   custom_dir: overrides
   features:
 #    - announce.dismiss
@@ -194,7 +193,6 @@ nav:
     - Signs: headstones/signs.md  
     - Archaeological Digs: headstones/archaeological-digs.md
     - Celebrity Headstones: headstones/celebrities.md
-#    - History Mystery: headstones/mystery.md
   - Biographies: 
     - Biography Index: bios/index.md
     - Research Resources: bios/research.md
