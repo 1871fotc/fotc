@@ -56,20 +56,21 @@ extra:
   social:
     - icon: fontawesome/solid/phone
       link: tel:0439998053
-      name: Call us on the phone 0439998053
+      name: Call us on 0439998053
     - icon: fontawesome/solid/envelope
       link: mailto:inquiries@fotc.org.au
-      name: Send us an email      
+      name: Email us
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/1871fotc/
-      name: We're also on facebook
+      name: Facebook @1871fotc
+# Add twitter when Social Cards are working https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/?h=soci
+#    - icon: fontawesome/brands/twitter
+#      link: https://twitter.com/1871fotc
+#      name: Twitter @1871fotc
 #    - icon: fontawesome/solid/thumbs-down
     - icon: material/heart-broken
       link: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
       name: Provide feedback
-#    - icon: fontawesome/brands/creative-commons
-#      link: https://creativecommons.org/licenses/by/4.0/
-#      name: CC-BY 4.0 licence
   analytics: 
     provider: google
     property: G-FT5X64207N
