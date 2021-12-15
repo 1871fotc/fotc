@@ -2,6 +2,7 @@
 
 # Research Resources
 
+<!--
 ## Our Research 
 
 In 1999, the Friend of Toowong Cemetery published *Extraordinary Stories of Ordinary People* containing stories about people interred at Toowong Cemetery contributed by their descendants. It can be found in the Local History Reference section at the Toowong Library. 
@@ -13,6 +14,8 @@ We plan to expand and re-issue this publication.
 !!! question "Volunteer opportunity"
 
     If you would like your family's story to be considered for adding to the next edition, please fill in the [Biographical Details Form](http://www.fotc.org.au/subset/Toowong_Cemetery_Biographical_Details.doc).
+    
+-->
 
 ## Toowong Cemetery Monumental Inscriptions
 
@@ -56,4 +59,4 @@ The [Under the Lino](http://www.underthelino.com.au) community have a [catalogue
 
 ## Other Resources
 
-- [Research Guide to cemetery records at Queensland State Archives](https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/3b2f93a8-3229-4739-bae5-a130fb199cf9/research-guide-to-cemetery-records.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Expires=3600&X-Amz-Date=20211127T202835Z&X-Amz-SignedHeaders=host&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0yIkcwRQIgOhIbNhbo%2Fv3dBdP%2F0HsKID2bhkpZJkcyBZKgFTVvCDsCIQDOtWnj1hqVEb977EarSOn8K67Mouv3ADfH6aefwwtVmyqNBAiu%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAMaDDI2NTMyNjI5ODYwMiIMIJ8zBvnzLOsHqgpoKuEDfOeSodcu863emteZG0aA6fDrvNo%2BlyR4MXaJqugmqn8W3nrD11nQL6PD6WX3RBql3Y2%2BxKxjrX8ROekiht1lnkf9R8NJndmFE3UZi7M9n72U2W0Gy%2B4GR644Ae97PmUdUbSwiPy7VwLn2tiH2VqJaVa8LC7EcX7NrOXutRJ3Qyr3EMAwWc3E%2FrMTFvWkGRsWtpzb%2BJyoIFqnGdADhhuWzZCXRI0XbotDhlR196yhzB6ItpY7RFh%2FpI3Dq6F5r8WIETaYJ0FJZT2OxX4e3qIwUMJ%2BVBbPR8XT8RZwzT3TA0OpELFxVg174AIRZwuC%2FKf5dyP9QzFuXl9aPxqaA4YEtf04lnCrozPUvPRjNnVBfBgdxB7Lqm2Sbs%2BUXtsc%2FJufGS0yBwDVSmLKOIolYqA3MtQLr1IkCsmiosLvHqCcvOfM6h%2FA48kGOBpMBSFRDmc46tIrOCkwpuKxeuTLM%2FKrkfv2BM4E3Dy3cWQ2486%2ByK0nXiM7PJMAU2m5RmfrdHRmbIploN5bYuILUU9u6MmuOhuPmD3O0zD%2BxtX8B0yDdD%2BcF%2BbdXgv%2F3ghpvhYoGB%2Fw0%2FPQ9C7z4s%2FFBm3ovKjZSJAf9rTzWyRg7DFdwFxq87qVE4m472%2Ft2TY0tuX89evtwjCYqYqNBjqlAUO9xX7FZh01rsH7sBQ%2FfH4kBzB1SLHB6cKCl2EMpalQfqp0pOXjrMUwEvMVAwPOYAvYJf%2FckKFXI0RUcQHyUyedUhDj2tI4SLcKAyt13YxlrjJVSg6nopKOh%2BKX12CE9WpxbR6q1aZSkO0faQZ93ZE%2FuBoaSVzgR1hOKVn1QV1kIMMYVbt65hBtQVwiL9AGfGa9L1ATfq%2BJQkYKQczuuOJ3Qz7CNw%3D%3D&X-Amz-Credential=ASIAT3RVOAXVNAOX6UVV%2F20211127%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Signature=6e3b52caf7a86ff5d0694d84508f11d3ea18b9bba8748865807222b99db51a78)
+- [Research Guide to cemetery records at Queensland State Archives](https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/3b2f93a8-3229-4739-bae5-a130fb199cf9/research-guide-to-cemetery-records.pdf)
