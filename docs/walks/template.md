@@ -2,6 +2,8 @@
 date: dd/mm/yyyy
 hide:
   - navigation
+search:
+  exclude: true
 ---
 
 # Walk Name 

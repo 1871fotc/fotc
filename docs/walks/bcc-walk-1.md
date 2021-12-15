@@ -1,7 +1,8 @@
 ---
 hide:
   - navigation
-
+search:
+  exclude: true
 ---
 
 # Toowong Cemetery Tour One 

@@ -2,6 +2,8 @@
 date: 25 August 200
 hide:
   - navigation
+search:
+  exclude: true
 ---
 
 # In their caring hands  

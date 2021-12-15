@@ -2,7 +2,7 @@
 hide:
   toc
 search:
-  boost: 1
+  exclude: true
 ---
 
 #  History Mystery 

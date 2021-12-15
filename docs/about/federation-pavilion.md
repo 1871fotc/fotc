@@ -44,8 +44,6 @@ The [Federation Pavilion](https://monumentaustralia.org.au/themes/government/fed
 > <br>
 > Grave No. 12-11-6/7 
 
-
-
 ## John Donaldson 
 
 ![](../assets/federation-pavilion-stone-3.jpg)
@@ -54,13 +52,11 @@ The [Federation Pavilion](https://monumentaustralia.org.au/themes/government/fed
 > <br>
 > Grave No. 12-47-13 
 
-
 ## Thomas MacDonald-Paterson 
 
 > Thomas Macdonald‑Paterson (1844-1906) arrived from Scotland in 1861. He was a Butcher, Solicitor, Investor, Mayor of Rockhampton, MLA 1878-1885 and 1896-1901, MLC from 1885 to 1896 and the first Federal Member of Brisbane of the Australian House of Representatives from 1901 to 1903. He was a supporter of the Separation for North Queensland. <br>
 > <br>
 > Grave No. 12‑53-10 
-
 
 ## Arthur Rutledge
 
@@ -78,7 +74,7 @@ The [Federation Pavilion](https://monumentaustralia.org.au/themes/government/fed
 > <br>
 > Hon. Arch Bevis MP, Federal Minister for Brisbane <br>
 > and <br>
-> Judy McGub, Councillor for Toowong <br>
+> Judy Magub, Councillor for Toowong <br>
 > <br>
 > With thanks also to the Brisbane City Council for assistance and the Queensland Community Assistance Program of Centenary of Federation for a grant to restore the four graves <br>
 

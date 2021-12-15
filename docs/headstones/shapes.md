@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 1
+  exclude: true
 ---
 
 #  Headstone Shapes

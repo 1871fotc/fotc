@@ -7,9 +7,7 @@ search:
 
 ![](../assets/fotc-banner-1280x320.png)
 
-
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
-
 
 ## What we do 
 
@@ -36,6 +34,7 @@ The Friends of Toowong Cemetery have:
 
 
 ![](../assets/federation-pavillion.jpg)
+
 *<small>Federation Pavilion</small>* 
 
 ## What we're working on
