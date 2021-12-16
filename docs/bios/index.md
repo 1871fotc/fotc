@@ -11,12 +11,8 @@
     
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
         - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
-    - The Last Name links to the Biography and, if available, includes:
+    - The Last Name links to the person's Biography which may include information beyond what is shown in the self-guided walk.
 
-        - the text from the self-guided walk 
-        - a photo of the headstone
-        - additional photos and stories
-        - links to references 
 
 ### Index
 
@@ -78,7 +74,7 @@
 | firstname            | **[lastname](missing.md)**                 | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
 -->
 
-The Friends of Toowong Cemetery Biography Index is provided under a [CC BY][CC-BY] licence. Learn [how to attribute our work](../about/legal/#attribution). This data can be downloaded as a:
+The **Friends of Toowong Cemetery Biography Index** is provided under a [Creative Commons Attribution][CC-BY] licence. Learn [how to attribute our work](../about/legal/#attribution). This data can be downloaded as a:
 
 - <a href="../assets/data/biography-index.csv" download>Comma Separated Value file (.csv)</a>
 - Fictionless Data [Tabular Data Package (.zip)](../assets/data/biography-index.zip)

@@ -11,9 +11,11 @@ search:
 ## Free Guided Tours
 -->
 
-Friends of Toowong Cemetery volunteer guides lead you on 10 different heritage walks each year. 
+Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year. 
 
 ![][image11]{ width="32%" } ![][image9]{ width="32%" } ![][image8]{ width="32%" }
+
+Every walk is different and this drives our research and the creation of more [Biographies](bios/index.md).
 
 The **[Toowong Cemetery Museum](cemetery/museum.md)** will be open before and after the walk and has an extensive display of photographs and artefacts.
 
