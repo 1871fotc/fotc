@@ -197,10 +197,10 @@ nav:
   - Biographies: 
     - Biography Index: bios/index.md
     - Research Resources: bios/research.md
-  - Events: 
+#  - Events: 
 #  - News and Events:
 #    - News: news/index.md
-    - Upcoming Events: news/index.md
+#    - Upcoming Events: news/index.md
 #    - Past News: news/past-news.md 
 #    - Past Events: news/past-events.md
   - About Us: 

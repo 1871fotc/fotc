@@ -1,6 +1,6 @@
 ---
 hide:
-  - navigation
+  - navigation  
 ---
 
 # Scots in the Australian Imperial Force  

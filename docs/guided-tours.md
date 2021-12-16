@@ -11,13 +11,11 @@ search:
 ## Free Guided Tours
 -->
 
-The Friends of Toowong Cemetery offer guided heritage tours on the **[first Sunday of every month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=1______&holm=1&df=1)** from **10.30am to 12 noon** - except January and February due to the heat :sweat:. 
- 
-Volunteer guides lead you on a different heritage walk each month. The **[Toowong Cemetery Museum](cemetery/museum.md)** will be open before and after the walk and has an extensive display of photographs and artefacts.
+Friends of Toowong Cemetery volunteer guides lead you on 10 different heritage walks each year. 
 
-:fontawesome-regular-calendar-plus: **[Add all 2022 guided tours to your Calendar](../assets/calendar/tours-2022.ics)** ==Our September walk clashes with Fathers day so we'll probably move it==
+![][image11]{ width="32%" } ![][image9]{ width="32%" } ![][image8]{ width="32%" }
 
-Add a specific tour to your calendar from the [Events](../news/) page
+The **[Toowong Cemetery Museum](cemetery/museum.md)** will be open before and after the walk and has an extensive display of photographs and artefacts.
 
 There's **no need to book**, just **meet under the flagpole, in Canon Garland Place at the Toowong Cemetery**. There is plenty of parking available inside the cemetery.
 
@@ -29,24 +27,86 @@ Wear a hat, enclosed shoes, and bring a water bottle.
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
+
+## 6 March 2022
+
+Our first heritage walking tour for 2022 will be guided by **Lyn** and **Darcy**. The tour is from **10:30 to 12:00 on Sunday 6 March 2022**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220306.ics)**
+
+## 3 April 2022
+
+Our April heritage walking tour is from **10:30 to 12:00 on Sunday 3 April 2022**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220403.ics)**
+
+## 1 May 2022
+
+Our May heritage walking tour is from **10:30 to 12:00 on Sunday 1 May 2022**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220501.ics)**
+
+## 5 June 2022
+
+Our June heritage walking tour is from **10:30 to 12:00 on Sunday 5 June 2022**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220605.ics)**
+
+## 3 July 2022
+
+Our July heritage walking tour is from **10:30 to 12:00 on Sunday 3 July 2022**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220703.ics)**
+
+## 7 August 2022
+
+Our August heritage walking tour is from **10:30 to 12:00 on Sunday 7 August 2022**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220807.ics)**
+
+## 11 September 2022
+
+Our September heritage walking tour is from **10:30 to 12:00 on Sunday 11 September 2022**. 
+
+Our walks are usually on the first Sunday of the month but that's Father's Day. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220911.ics)**
+
+## 2 October 2022
+
+Our October heritage walking tour is from **10:30 to 12:00 on Sunday 2 October 2022**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20221002.ics)**
+
+## 6 November 2022
+
+Our November  heritage walking tour is from **10:30 to 12:00 on Sunday 6 November 2022**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20221106.ics)**
+
+## 4 December 2022
+
+Our last heritage walking tour for 2022 is from **10:30 to 12:00 on Sunday 4 December 2022**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20221204.ics)**
+
+<!--
+
+## 5 March 2023
+
+Our first heritage walking tour for 2023 will be guided by **Lyn** and **Darcy**. The tour is from **10:30 to 12:00 on Sunday 5 March 2023**. 
+
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20230305.ics)**
+
+-->
+
 <!--
 
 ## Private Guided Tours
 
 We offer private guided heritage tours tailored to your needs. [Contact us](../about/#contact-us) to discuss your requirements. Price on Application. 
 
-![][image11]{ width="32%" } ![][image9]{ width="32%" } ![][image8]{ width="32%" }   
-
--->
-
-[image4]: assets/140-commemoration-sml.png
-[image5]: assets/museum.jpg
-[image6]: assets/federation-pavillion.jpg
-[image7]: assets/peter-jackson.jpg "Peter Jackson's Headstone"
-[image8]: assets/cherub.jpg "Cherub Headstone"
-[image9]: assets/harry-potter-16x9.jpg "Spoiler Alert"
-[image10]: assets/clasped-hands.jpg "We Part To Meet Again"
-[image11]: assets/pat-hill-headstone.jpg "Pat Hill's Headstone"
+--> 
 
 <!--
 ## Other Tours
@@ -57,3 +117,12 @@ Other volunteer groups and commercial operators run tours in the cemetery under 
 
 - **[Toowong Cemetery Ghost Tours](https://ghosttoursaustralia.com.au/brisbane-ghost-tours/toowong-cemetery-original/)** is a commercial tour run in the cemetery at night. 
 -->
+
+[image4]: assets/140-commemoration-sml.png
+[image5]: assets/museum.jpg
+[image6]: assets/federation-pavillion.jpg
+[image7]: assets/peter-jackson.jpg "Peter Jackson's Headstone"
+[image8]: assets/cherub.jpg "Cherub Headstone"
+[image9]: assets/harry-potter-16x9.jpg "Spoiler Alert"
+[image10]: assets/clasped-hands.jpg "We Part To Meet Again"
+[image11]: assets/pat-hill-headstone.jpg "Pat Hill's Headstone"
