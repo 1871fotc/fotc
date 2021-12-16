@@ -78,6 +78,11 @@
 | firstname            | **[lastname](missing.md)**                 | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
 -->
 
-<!-- Download the Biography Index as a Comma Separated Value (.csv) file provided under a [CC BY][CC-BY] licence -->
+The Friends of Toowong Cemetery Biography Index is provided under a [CC BY][CC-BY] licence and can be downloaded as a:
+
+- <a href="../assets/data/biography-index.csv" download>Comma Separated Value file (.csv)</a>
+- Fictionless Data [Tabular Data Package file (.zip)](../assets/data/biography-index.zip)
+
+We recommend [Data Curator](https://www.qcif.edu.au/news/data-curator-now-in-app-stores/) for working with Tabluar Data Packages but there are [many other tools](https://frictionlessdata.io/software/).  
 
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/

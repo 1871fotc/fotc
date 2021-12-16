@@ -82,7 +82,7 @@ Visualisations we are considering include:
 
 ## Data Publishing tools
 
-We use [Data Curator](https://www.qcif.edu.au/news/data-curator-now-in-app-stores/) to package the data into a Tabular Data Package on GitHub. 
+We use [Data Curator](https://www.qcif.edu.au/news/data-curator-now-in-app-stores/) to package the data into a Tabular Data Package. 
 
 We are exploring tools to convert CSV data (the master) into Markdown tables for inclusion in this website:
 
