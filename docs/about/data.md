@@ -84,11 +84,14 @@ Visualisations we are considering include:
 
 We use [Data Curator](https://www.qcif.edu.au/news/data-curator-now-in-app-stores/) to package the data into a Tabular Data Package on GitHub. 
 
-We are exploring using [OpenRefine](https://openrefine.org) to convert CSV data (the master) into Markdown tables for inclusion in this website. 
+We are exploring tools to convert CSV data (the master) into Markdown tables for inclusion in this website:
+
+- [OpenRefine](https://openrefine.org)  
+- An [Atom package](https://github.com/takezoe/atom-csv-markdown) 
 
 We have not decided on a Linked Data toolset yet.
 
-We are considering [Vega-Lite](https://vega.github.io/vega-lite/) to specify our own visualisations. These may be represented as static images on the website as the data does not change often. 
+We are considering [Vega-Lite](https://vega.github.io/vega-lite/) to specify our own visualisations. These may be represented as static images on the website as the data does not change often but we are also exploring [tools for embedding vega-lite visualizations](https://vega.github.io/vega-lite/ecosystem.html#tools-for-embedding-vega-lite-visualizations)
 
 ## Data Consumers
 

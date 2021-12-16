@@ -71,7 +71,6 @@ Map legend :
 31. Taylor Shappart, 32. Montifeur (a financier), 33. W. Pickering, 34. Sergeant Jones, 35. Soldiers' Barracks, 36. Officer de Winton, 37. Commission Stores, 38. Queen's Wharf, 39. Captain Wickham's office, 40. Commissioner T. Kent, 41. Commissioner's Garden, 42. Captain Coley, 43. Government Gardens, 44. Father Hanley (the only priest), 45. Saw Pits, 46. Queen Street, 47. The Boat House and Boatman's House, 48. The First Tombstone (two graves). (Description supplied with photograph.)
  
 The Postmaster in 1844 was George M. Slade.
-
 -->
 
 ## 1911 Paddington Cemetery Act

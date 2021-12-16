@@ -20,7 +20,7 @@ Despite many arguments against federation, the Federal Referendum on the 2nd of 
 
 ???+ Example "Directions" 
 
-    - Start behind [Canon Garland Place](../cemetery/discover.md#when-you-arrive) in Emma Miller Avenue.  
+    - Start behind [Canon Garland Place](../cemetery/visit.md#when-you-arrive) in Emma Miller Avenue.  
     - Enter the portion on the path between the graves of Pethebridge and Thurlow. 
     
     ![](../assets/federation-trail-start.jpg){ width="15%" } 

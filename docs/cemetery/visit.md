@@ -3,7 +3,7 @@ search:
   boost: 2  
 ---
 
-#  Discover Toowong Cemetery
+#  Visit Toowong Cemetery
 
 ![][main-entrance]
 
