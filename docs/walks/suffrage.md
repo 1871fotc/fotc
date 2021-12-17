@@ -11,7 +11,6 @@ icon: octicons/pencil-24
 
 **Queensland's own suffrage story** 
 
-
 !!! question "Volunteer opportunity"
 
     How embarrassing! We can't find all the electronic files for our walks. We're slowly re-keying the words from the Brochure pdf files. You can help by typing some and sending them to us. 
@@ -27,9 +26,7 @@ icon: octicons/pencil-24
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Leontine Mary Jane Cooper <small>(2A‑29‑11)</small>
-
-==to do==
+--8<-- "snippets/leontine-cooper.md"
 
 <!--
 ??? Example "Directions" 
@@ -41,7 +38,9 @@ icon: octicons/pencil-24
 
 ## Justin Fox Greenlaw Foxton <small>(1‑114‑7/8)</small>
 
-==to do==
+Justin Fox Greenlaw Foxton, was born on 24 September 1849 in Melbourne, son of Captain John Greenlaw Foxton and his wife Isabel ELizabeth, née Potts. In 1864 he moved to Queensland where he was articled to James Malbon Thompson in Ipswich and admitted to the Bar in 1871. Foxton held the Legislative Assembly seat of Carnarvon from 1883 until 1904 when he refused to support the Morgan coalition. As Home Secretary under the Philp government, Foxton introduced the Adult Suffrage Bill in 1901. Foxton died of cerebro-vascular disease at South Brisbane on 23 June 1916.
+
+
 
 ## Emma Millar <small>(13‑6‑5/6)</small>
 
