@@ -2,7 +2,8 @@
 hide:
   - navigation
 search:
-  exclude: true  
+  exclude: true
+icon: octicons/pencil-24
 ---
 
 # Toowong Cemetery Remembrance Walk

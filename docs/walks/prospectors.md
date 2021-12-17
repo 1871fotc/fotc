@@ -2,6 +2,7 @@
 date: 7/5/2017
 hide:
   - navigation
+icon: octicons/pencil-24
 ---
 
 # Prospectors

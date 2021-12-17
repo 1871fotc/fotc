@@ -11,4 +11,6 @@ hide:
 
 --8<-- "snippets/david-bowman.md"
 
+<!--
 ![](../assets/david-bowman.jpg){ width="32%" }
+-->

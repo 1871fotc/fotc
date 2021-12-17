@@ -2,6 +2,7 @@
 date: dd/mm/yyyy
 hide:
   - navigation
+icon: octicons/pencil-24  
 ---
 
 # 2020 Vision 

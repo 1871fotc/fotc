@@ -2,6 +2,7 @@
 date: 3/5/2015
 hide:
   - navigation
+icon: octicons/pencil-24
 ---
 
 # Conflict and Compassion 

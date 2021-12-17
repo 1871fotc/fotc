@@ -2,6 +2,7 @@
 date: 1/6/2014
 hide:
   - navigation
+icon: octicons/pencil-24
 ---
 
 # Erected by Friends and Family

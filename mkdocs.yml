@@ -151,10 +151,12 @@ nav:
   - Guided Tours: guided-tours.md
   - Self-Guided Walks:
     - Self-Guided Walks: walks/index.md
+# Politics    
     - The Federation Trail: walks/federation-trail.md
     - Governors: walks/governors-past.md 
     - Brisbane Mayors: walks/brisbane-mayors.md
     - Labor Luminaries: walks/labor-luminaries.md
+# Military
     - Colonial Conflicts: walks/colonial-conflicts.md         
     - Lest We Forget: walks/lest-we-forget.md
     - Lest We Forget - Naval: walks/lest-we-forget-navy.md 
@@ -162,32 +164,43 @@ nav:
     - Men of the Royal Navy: walks/men-of-the-royal-navy.md
     - Scots in the AIF: walks/scots-in-the-aif-ww1.md
     - 1919 Soldiers: walks/1919-soldiers.md
+    - Conflict and Compassion: walks/conflict-and-compassion.md
+# Professions    
     - Artists: walks/artists.md 
 #    - Health Professionals: walks/in-their-caring-hands.md
-    - Judiciary: walks/early-judiciary.md
+    - Judiciary: walks/judiciary.md
     - Mariners: walks/anchors-aweigh.md
     - Performers: walks/all-the-worlds-a-stage.md 
     - Police: walks/thin-blue-line.md 
     - Print Media Identities: walks/printers.md
     - Sporting Personalities: walks/sporting-personalities.md
-    - Undertakers: walks/undertakers-underground.md
+    - Undertakers: walks/undertakers.md
+# Local Identities    
     - Founding Fathers: walks/founding-fathers.md     
     - Notable Women: walks/notable-women.md    
     - Toowong Identities 1: walks/toowong-identities-1.md 
     - Toowong Identities 2: walks/toowong-identities-2.md 
+# Birds of a feather    
     - Children: walks/children.md 
     - Convicts: walks/convict-connections.md 
     - The Irish: walks/irish-trail.md 
-    - The Jewish Trail: walks/jewish-trail.md    
+    - The Jewish: walks/jewish-trail.md    
+    - The Lutheran: walks/lutheran-trail.md
+# Other walks     
     - 20/20 Vision: walks/2020-vision.md
-    - Erected by Friends and Family: walks/erected-by-friends.md    
-    - Christmas: walks/christmas.md    
-    - Mothers: walks/mothers.md    
-    - Propectors: walks/propectors.md    
-    - Steam: walks/steam.md    
-    - Taken before their time: walks/taken-before-their-time.md    
 #    - BCC Toowong Cemetery Tour 1: walks/bcc-walk-1.md 
 #    - BCC Toowong Cemetery Tour 2: walks/bcc-walk-2.md 
+#    - Brisbane Open House: walks/boh.md 
+    - Erected by Friends and Family: walks/erected-by-friends.md    
+    - Christmas: walks/christmas.md    
+#    - New Year's Day: walks/new-years.md    
+    - Mothers: walks/mothers.md    
+# portion walks
+# rich man, poor man    
+    - Prospectors: walks/prospectors.md    
+    - Steam: walks/steam.md    
+    - Taken before their time: walks/taken-before-their-time.md    
+
   - Headstones: 
     - Headstones: headstones/index.md
 #    - Shapes: headstones/shapes.md  

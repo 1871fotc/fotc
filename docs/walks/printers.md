@@ -1,6 +1,8 @@
 ---
 hide:
   - navigation
+icon: octicons/pencil-24
+  
 ---
 
 # Print Media Identities of Early Brisbane  

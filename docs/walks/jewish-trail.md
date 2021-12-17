@@ -2,6 +2,7 @@
 date: August 1998
 hide:
   - navigation
+icon: octicons/pencil-24  
 ---
 
 # The Jewish  

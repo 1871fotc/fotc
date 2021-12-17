@@ -2,6 +2,8 @@
 date: 1/8/2021
 hide:
   - navigation
+icon: octicons/pencil-24
+
 ---
 
 # Taken before their time

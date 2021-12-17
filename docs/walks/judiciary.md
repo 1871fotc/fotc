@@ -2,6 +2,7 @@
 date: 7/4/2019
 hide:
   - navigation
+icon: octicons/pencil-24
 ---
 
 # Judiciary  
@@ -13,8 +14,6 @@ hide:
     How embarrassing! We can't find all the electronic files for our walks. We're slowly re-keying the words from the Brochure pdf files. You can help by typing some and sending them to us. 
     
     Why have we published an incomplete page like this? So the people can be discovered in the search and their stories read in the Brochure.
-
-
 
 <!-- 
 ???+ Example "Directions" 
@@ -35,7 +34,6 @@ hide:
     Walking directions to next headstone... is the grave of...
     
     ![](../assets/404.png){ width="15%" }
-
 -->
 
 ## The Honourable Virgil Power <small>(7A‑103‑24)</small>
@@ -86,11 +84,9 @@ hide:
 
 ==to do==
 
-
 ## The Honourable Charles Stumm KC <small>(18‑111‑2)</small>
 
 ==to do==
-
 
 <!-- 
 ![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  

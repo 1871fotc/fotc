@@ -2,6 +2,8 @@
 date: 14 April 2012
 hide:
   - navigation
+icon: octicons/pencil-24
+  
 ---
 
 # 1919 Soldiers 

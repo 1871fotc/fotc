@@ -3,6 +3,8 @@ hide:
   - navigation
 search:
   exclude: true  
+icon: octicons/pencil-24
+
 ---
 
 

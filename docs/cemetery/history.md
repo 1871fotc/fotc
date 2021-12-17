@@ -9,6 +9,10 @@ title: History
 
 Prior to 1875, the flat area where the entrance of Toowoong Cemetery now stands was an **[Aboriginal Corroboree Ground](https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/)**.
 
+## 1871 Governor Blackall buried
+
+**[Colonel Samuel Wensley Blackall](../bios/samuel-wensley-blackall.md)**, the second Governor of Queensland, was the first person buried in Toowong Cemetery on 3 January 1871.
+
 ## 1875 Toowong Cemetery opened
 
 The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried in approximately 46,000 graves.
@@ -36,7 +40,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 Esther Roberts, mother of William Henry Roberts, was the first teacher of girls in the Moreton Bay settlement. His father, Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. William was born on 15 September 1828 and died of illness on 15 November 1831. The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14:
 
->[Suffer the little children, and forbid them not, to come unto me](../walks/children.md): for of such belongeth the Kingdom of God. 
+>***Suffer the little children, and forbid them not, to come unto me: for of such belongeth the Kingdom of God.***
 
 It has since been lost to weathering. After the death of their son, the Roberts family returned to Sydney in 1834.
 
@@ -97,9 +101,9 @@ During the redevelopment of Suncorp Stadium in 2001/02 part of the former cemete
 
 The Paddington Memorial commemorates people originally buried in the North Brisbane Burial Grounds, now interred at Toowong Cemetery. The Paddington Memorial plaque reads:
 
->The North Brisbane Burial Grounds at Paddington were opened by 1844 and became the final resting place for thousands of Brisbane's inhabitants over the ensuing decades. Following the opening of the Brisbane General Cemetery of Toowong in 1875, the seven sectarian cemeteries were gradually abandoned. By the end of the 19^th^ century, the site had fallen into a state of disrepair. A decision was made in 1911 to have the Paddington Cemetery converted to public parklands. The memorials were subsequently removed and the opportunity was provided to relatives to relocate the remains and or memorials to other cemeteries including Toowong. Only a few hundred bodies were removed leaving several thousand on the site that became known as Lang Park.
+>***The North Brisbane Burial Grounds at Paddington were opened by 1844 and became the final resting place for thousands of Brisbane's inhabitants over the ensuing decades. Following the opening of the Brisbane General Cemetery of Toowong in 1875, the seven sectarian cemeteries were gradually abandoned. By the end of the 19^th^ century, the site had fallen into a state of disrepair. A decision was made in 1911 to have the Paddington Cemetery converted to public parklands. The memorials were subsequently removed and the opportunity was provided to relatives to relocate the remains and or memorials to other cemeteries including Toowong. Only a few hundred bodies were removed leaving several thousand on the site that became known as Lang Park.***
 
->Lang Park evolved into an iconic inner-city sports ground, with a major redevelopment of the stadium from 2001 to 2003. This resulted in the necessary excavation of sections of the former burial grounds that would be disturbed by construction. A methodical archaeological investigation was undertaken, and the fragmentary remains of 394 unidentified individuals were exhumed from the Episopalian (Anglican), Roman Catholic, and Presbyterian cemeteries. The remains were interred in this memorial in July 2003.
+>***Lang Park evolved into an iconic inner-city sports ground, with a major redevelopment of the stadium from 2001 to 2003. This resulted in the necessary excavation of sections of the former burial grounds that would be disturbed by construction. A methodical archaeological investigation was undertaken, and the fragmentary remains of 394 unidentified individuals were exhumed from the Episopalian (Anglican), Roman Catholic, and Presbyterian cemeteries. The remains were interred in this memorial in July 2003.***
 
 ## 1921 New Neighbours
 

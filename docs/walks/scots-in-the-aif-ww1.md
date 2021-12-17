@@ -1,6 +1,8 @@
 ---
 hide:
-  - navigation  
+  - navigation
+icon: octicons/pencil-24
+
 ---
 
 # Scots in the Australian Imperial Force  
