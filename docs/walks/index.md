@@ -16,7 +16,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
     Walks marked with an :octicons-pencil-24: are work in progress. 
     
-    All walks include an A4 pdf file, designed to be printed and folded in half to make an A5 brochure. 
+    All walks include a link to a brochure you can print.
 
 <!-- 
 
@@ -33,7 +33,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Governors][governors-past]** - visit some of Queensland's earliest Governors
 - **[Brisbane Mayors][brisbane-mayors]** - learn about 14 Brisbane Mayors from 1859 to 1931
 - **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
-- [One Adult, One Vote](../assets/guides/sufferage.pdf) - Queenslands' own Suffrage story
+- **[One Adult, One Vote][suffrage]** - Queensland's own suffrage story :octicons-pencil-24:
 
 
 ## Military 
@@ -83,7 +83,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[20/20 Vision](2020-vision.md)** :octicons-pencil-24: 
 - Brisbane City Council Trail 1 <!-- [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. -->
 - Brisbane City Council Trail 2 <!-- [Brisbane City Council Trail 2][bcc-walk-2] -->
-- [Brisbane Open House](../assets/guides/boh.pdf) <!-- [Brisbane Open House][brisbane-open-house] -->
+- **[Brisbane Open House][brisbane-open-house]** :octicons-pencil-24:
 - **[Erected by Friends and Family](erected-by-friends.md)** :octicons-pencil-24:
 - **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
 - One Day: New Years' Day
@@ -104,6 +104,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [governors-past]: governors-past.md
 [brisbane-mayors]: brisbane-mayors.md
 [labor-luminaries]: labor-luminaries.md
+[suffrage]: suffrage.md
 
 [lest-we-forget]: lest-we-forget.md
 [lest-we-forget-navy]: lest-we-forget-navy.md
@@ -134,6 +135,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [jewish-trail]: jewish-trail.md
 [lutheran-trail]: lutheran-trail.md
 [children]: children.md
+[brisbane-open-house]: brisbane-open-house.md
 
 [bcc-walk-1]: bcc-walk-1.md
 [bcc-walk-2]: bcc-walk-2.md

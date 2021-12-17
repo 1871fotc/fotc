@@ -77,8 +77,8 @@ We acknowledge Aboriginal and Torres Strait Islander peoples and their continuin
 
 We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please use the links in the footer to contact us:
 
-- :fontawesome-solid-envelope: via email
 - :fontawesome-solid-phone: via phone
+- :fontawesome-solid-envelope: via email
 - :material-heart-broken: using a feedback form
 
 ## Your consent 

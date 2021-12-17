@@ -7,9 +7,9 @@ search:
 icon: octicons/pencil-24  
 ---
 
-# Walk Name 
+# One Adult, One Vote
 
-**Tagline** 
+**Queensland's own suffrage story** 
 
 
 !!! question "Volunteer opportunity"
@@ -19,8 +19,6 @@ icon: octicons/pencil-24
     Why have we published an incomplete page like this? So the people can be discovered in the search and their stories read in the Brochure.
 
 <!--
-Introduction
-
 ???+ Example "Directions" 
 
     Starting point
@@ -29,7 +27,7 @@ Introduction
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Name (yyyy‑yyyy) <small>(p‑s‑g)</small>
+## Leontine Mary Jane Cooper <small>(2A‑29‑11)</small>
 
 ==to do==
 
@@ -41,17 +39,46 @@ Introduction
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Name (yyyy‑yyyy) <small>(p‑s‑g)</small>
+## Justin Fox Greenlaw Foxton <small>(1‑114‑7/8)</small>
 
 ==to do==
 
+## Emma Millar <small>(13‑6‑5/6)</small>
 
+==to do==
+
+## ELizabeth Edwards <small>(14‑23‑14)</small>
+
+==to do==
+
+## Sir Robert Philp <small>(14‑23‑10)</small>
+
+==to do==
+
+## Sir Horace Tozer <small>(12‑11‑8)</small>
+
+==to do==
+
+## Sir Charles Lilley <small>(12‑15‑7)</small>
+
+==to do==
+
+## Boyd Dunlop Morehead <small>(12‑49‑6)</small>
+
+==to do==
+
+## David Hay Dalrymple <small>(12‑53‑2)</small>
+
+==to do==
+
+## Sir Arthur Morgan <small>(12‑15‑12)</small>
+
+==to do==
 
 <!--
 ![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
 
 *<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
-
 -->
 
 ## Acknowledgements
@@ -59,6 +86,8 @@ Introduction
 Compiled and presented by Lyn Maddock
 
 ## Sources
+
+==to do==
 
 - [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
 - [Grave Location Search](http://graves.brisbane.qld.gov.au) - Brisbane City Council
@@ -71,6 +100,6 @@ Compiled and presented by Lyn Maddock
 
 ## Brochure
 
-**[Download this walk](../assets/guides/printers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/sufferage.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>

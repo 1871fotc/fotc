@@ -291,6 +291,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://stephen-gates.github.io/fotc/walks/brisbane-open-house/</loc>
+         <lastmod>2021-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://stephen-gates.github.io/fotc/walks/children/</loc>
          <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
@@ -417,6 +422,11 @@
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/walks/steam/</loc>
+         <lastmod>2021-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://stephen-gates.github.io/fotc/walks/suffrage/</loc>
          <lastmod>2021-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>

@@ -7,10 +7,9 @@ search:
 icon: octicons/pencil-24  
 ---
 
-# Walk Name 
+# Building Brisbane 
 
-**Tagline** 
-
+**Brisbane Open House walk** 
 
 !!! question "Volunteer opportunity"
 
@@ -29,9 +28,14 @@ Introduction
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Name (yyyy‑yyyy) <small>(p‑s‑g)</small>
+## Andrew Petrie <small>(13‑5‑5)</small>
 
 ==to do==
+
+### Notable surviving Brisbane works
+
+- Toogoolawah / [Bulimba House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600179), [34 Kenbury St, Bulimba](https://goo.gl/maps/XsSWGHc6x71DLyPc6)
+- Adelaide House ([The Deanery](https://apps.des.qld.gov.au/heritage-register/detail/?id=600078)), 417 Adelaide Street, Brisbane
 
 <!--
 ??? Example "Directions" 
@@ -41,7 +45,37 @@ Introduction
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Name (yyyy‑yyyy) <small>(p‑s‑g)</small>
+## William McCallum Park <small>(13‑19‑15/16)</small>
+
+==to do==
+
+
+## William Macfarlane <small>(14‑7‑20/21)</small>
+
+==to do==
+
+## Henry Holmes <small>(1‑7‑15/16/17)</small>
+
+==to do==
+
+## Thomas Dempster <small>(18‑17‑22/23)</small>
+
+==to do==
+
+## Arthur Midson <small>(11‑71‑1)</small>
+
+==to do==
+
+## George John Ely <small>(13‑89‑1)</small>
+
+==to do==
+
+## Joshua Jeays <small>(13‑62‑13/14)</small>
+
+==to do==
+
+
+## Ebenezer Chapman <small>(13‑34‑11)</small>
 
 ==to do==
 
@@ -60,6 +94,8 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
+==to do==
+
 - [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
 - [Grave Location Search](http://graves.brisbane.qld.gov.au) - Brisbane City Council
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
@@ -71,6 +107,6 @@ Compiled and presented by Lyn Maddock
 
 ## Brochure
 
-**[Download this walk](../assets/guides/printers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/boh.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
