@@ -186,7 +186,7 @@ Learn more about [Friends of Toowong Cemetery](../about/index.md) - what we do, 
 
 The [Federation Pavilion](../about/federation-pavilion.md) commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
-![](../assets/federation-pavillion.jpg){ width="96%" }  
+![](../assets/federation-pavilion.jpg){ width="96%" }  
 
 ## 2006 Archaeological Digs
 

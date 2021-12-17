@@ -41,7 +41,7 @@ On this site you'll find information about:
 
 [image4]: assets/140-commemoration-sml.png
 [image5]: assets/museum.jpg
-[image6]: assets/federation-pavillion.jpg
+[image6]: assets/federation-pavilion.jpg
 
 
 [image7]: assets/peter-jackson-headstone.jpg "Peter Jackson's Headstone"

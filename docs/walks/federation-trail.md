@@ -38,7 +38,7 @@ Despite many arguments against federation, the Federal Referendum on the 2nd of 
 
 ## The Federation Pavilion
 
-![](../assets/federation-pavillion.jpg)
+![](../assets/federation-pavilion.jpg)
 
 The Commonwealth of Australia was inaugurated under a pavilion erected for the occasion in Sydney’s Centennial Park. [Our pavilion](../about/federation-pavilion.md), designed by Brisbane architect Ian Sinnamon, honours the Queensland delegates to the 1891 National Australasian Convention who are interred nearby. It was funded by the Federation Community Projects Program and construction was arranged by the Brisbane City Council Cemeteries Division.
 

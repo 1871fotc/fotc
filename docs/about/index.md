@@ -33,7 +33,7 @@ The Friends of Toowong Cemetery have:
 - **[published books, a DVD](publications.md)** and **[self‑guided walks](../walks/index.md)** 
 
 
-![](../assets/federation-pavillion.jpg)
+![](../assets/federation-pavilion.jpg)
 
 *<small>Federation Pavilion</small>* 
 

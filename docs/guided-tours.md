@@ -122,7 +122,7 @@ Other volunteer groups and commercial operators run tours in the cemetery under 
 
 [image4]: assets/140-commemoration-sml.png
 [image5]: assets/museum.jpg
-[image6]: assets/federation-pavillion.jpg
+[image6]: assets/federation-pavilion.jpg
 [image7]: assets/peter-jackson.jpg "Peter Jackson's Headstone"
 [image8]: assets/cherub.jpg "Cherub Headstone"
 [image9]: assets/harry-potter-16x9.jpg "Spoiler Alert"
