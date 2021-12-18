@@ -1,10 +1,3 @@
----
-hide:
-  - navigation
-search:
-  exclude: true  
----
-
 #  Data
 
 **[We publish our data with an open licence](legal.md) to help others discover and share the history and stories of Toowong Cemetery.**

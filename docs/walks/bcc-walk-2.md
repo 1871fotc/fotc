@@ -243,7 +243,7 @@ W. Ross Johnston, '[Urquhart, Frederic Charles (1858–1935)](http://adb.anu.edu
 
     Coming back to the road and heading all the way to the top of the hill, on the very corner of the intersection with Pat Hill Drive is the grave displaying a boxing ring, the grave of Patrick Francis Hill.
     
-    ![image of headstone](pat-hill-headstone.jpg)
+    ![image of headstone](../assets/pat-hill-headstone.jpg)
 
 --8<-- "snippets/pat-hill.md"
 
