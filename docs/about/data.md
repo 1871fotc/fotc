@@ -26,9 +26,8 @@ For Comma Separated Value files, a schema is provided in the Tabular Data Packag
 For Linked Data we are considering using the [Graves Ontology Specification - 1.0](https://rdf.muninn-project.org/ontologies/graves.html). Data about graves could be linked to data about:
 
 - People - [FOAF Vocabulary Specification](http://xmlns.com/foaf/spec/)
-    - [Organisation](https://epimorphics.com/public/vocabulary/org.html) 
-        - Civilian Organizations Organisation
-        - Military Ontology
+    - [Organisation](https://www.w3.org/TR/vocab-org/) 
+        - [Military Ontology](http://rdf.muninn-project.org/ontologies/military.html)
 - [Biography](https://vocab.org/bio/)
 - News - [rNews](http://dev.iptc.org/rNews) but [perhaps another standard is more appropriate](http://dev.iptc.org/rNews-and-other-standards)
 - [Geographic locations](https://www.w3.org/2003/01/geo/)
