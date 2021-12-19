@@ -14,6 +14,8 @@ See if you can locate Peter Jackson's grave using the Portion and Section number
 <!-- Map links -->
 [map]: ../assets/toowong-cemetery-map-alt.jpg "Click to expand the map. Use Back to return to this page"
 
+There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Each Section can contain up to 40 graves and the graves are often in two rows within the section. 
+
 Portion numbers are shown on signs throughout the cemetery.
 
 ![Portion Sign](../assets/portion-sign.jpg){ width="100%" }
