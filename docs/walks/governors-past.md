@@ -20,7 +20,7 @@ Administrator:
   - 12 November 1874 to 23 January 1875 
   - 14 March 1877 to 10 April 1877
 
-O’Connell was born on 13 January 1812 in Sydney, son of Maurice Charles Philip O'Connell and his wife Mary, daughter of Governor William Bligh. He left for Ceylon with his parents in 1814 and in 1819 was sent to Europe for schooling. In 1828 he joined the 73rd Regiment at Gibraltar but in 1835 raised and led a regiment of Irish volunteers in the Spanish Carlist wars, rising to general of brigade in the British Auxiliary Legion. Before embarking for Spain he married Eliza Emily le Geyt on Jersey. On disbandment, O'Connell returned to England and in June 1838 purchased a captaincy in the 28th Regiment. That year his father was appointed to command the troops in New South Wales. After the regiment sailed to India in 1842 he stayed in New South Wales and sold his commission in 1844. He represented Port Phillip from August 1845 to June 1848 and then became Commissioner of Crown Lands for the Burnett District. Early in 1854 O'Connell became government Resident at the new Port Curtis settlement where he acquired several squatting properties. In 1859 O'Connell was given command of the volunteers. He was also nominated to the Legislative Council and acted as Minister without portfolio in the first Herbert ministry. When Sir Charles Nicholson resigned in August 1860 O'Connell became President of the Council. He held the post until 1879 and acted ex officio as deputy to the governor four times. O'Connell was knighted in 1868. He died of cancer at Parliament House on 23 March 1879.
+O’Connell was born on 13 January 1812 in Sydney, son of Maurice Charles Philip O'Connell and his wife Mary, daughter of Governor William Bligh. He left for Ceylon with his parents in 1814 and in 1819 was sent to Europe for schooling. In 1828 he joined the 73^rd^ Regiment at Gibraltar but in 1835 raised and led a regiment of Irish volunteers in the Spanish Carlist wars, rising to general of brigade in the British Auxiliary Legion. Before embarking for Spain he married Eliza Emily le Geyt on Jersey. On disbandment, O'Connell returned to England and in June 1838 purchased a captaincy in the 28th Regiment. That year his father was appointed to command the troops in New South Wales. After the regiment sailed to India in 1842 he stayed in New South Wales and sold his commission in 1844. He represented Port Phillip from August 1845 to June 1848 and then became Commissioner of Crown Lands for the Burnett District. Early in 1854 O'Connell became government Resident at the new Port Curtis settlement where he acquired several squatting properties. In 1859 O'Connell was given command of the volunteers. He was also nominated to the Legislative Council and acted as Minister without portfolio in the first Herbert ministry. When Sir Charles Nicholson resigned in August 1860 O'Connell became President of the Council. He held the post until 1879 and acted ex officio as deputy to the governor four times. O'Connell was knighted in 1868. He died of cancer at Parliament House on 23 March 1879.
 
 
 ![](../assets/maurice-charles-oconnell.jpg){ width="40%" }
@@ -61,10 +61,10 @@ On 6 March 1873 Musgrave became Governor of South Australia suffering a personal
 
 Administrator:
 
-  - 2 May 1883 to 6 Nov 1883
+  - 2 May 1883 to 6 November 1883
   - 20 April 1886 to 13 December 1886
   - 9 October 1888 to 1 May 1889
-  - 16 Nov. 1890 to 6 May 1891 
+  - 16 November 1890 to 6 May 1891 
 
 Lieutenant Governor - 15 Nov. 1895 to 9 April 1896 
 
@@ -104,7 +104,7 @@ On 16 March 1917 Griffith suffered a stroke while on the bench and was temporari
 
 Lieutenant Governor:
 
-  - 27 May 1909 to 2 Dec 1909
+  - 27 May 1909 to 2 December 1909
   - 16 July 1914 to 15 March 1915
 
 Morgan was born on 19 September 1856 near Warwick, son of James Morgan and his wife Kate, née Barton. Morgan’s schooling was curtailed when his father bought the Warwick Argus in June 1868. By 18 he was manager and he became editor and proprietor of the Argus a few months before his father died in 1878. On 26 July 1880 Morgan married Alice Clinton at Warwick. 

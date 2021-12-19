@@ -10,7 +10,7 @@ Recommended for teachers of school groups visiting the cemetery. Available at [B
 
 [Colonel Samuel Wensley Blackall: 1809-1871](../assets/guides/samuel-blackall.pdf) celebrates the 140th anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery, and the internment of the first person buried there, Governor Samuel Wensley Blackall.
 
-## 140th Anniversary Commemoration of the Toowong Cemetery - DVD
+## 140^th^ Anniversary Commemoration of the Toowong Cemetery - DVD
 
 To mark the anniversary of Toowong Cemetery's first year of operation, there was a Heritage Day on Sunday, 24 July 2011 featuring a re-enactment of the burial of Governor Blackall.
 

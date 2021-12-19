@@ -49,7 +49,7 @@ Edward Hobbs was killed by falling tree at Redcliffe on 4 January 1875 aged 13 y
 
 Five children were lost by James Gow and his wife Christina Philp between 1864 and 1882. None had reached the age of five. The family lived in Harcourt Street in Fortitude Valley. 
 
-- John Philip Gow was born on 1 Jan 1864 and died on 14 November 1864. 
+- John Philip Gow was born on 1 January 1864 and died on 14 November 1864. 
 - Margaret Kirk died in August 1865 three weeks after her birth. 
 - Mary was born 14 June 1867 and died one week short of her first birthday. 
 - James was born 23 March 1878 and died on the 19th of May the same year. 

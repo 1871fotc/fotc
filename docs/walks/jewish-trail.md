@@ -146,7 +146,7 @@ Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. H
 
 ??? Example "Directions" 
 
-    Now walk around to the start of the third path. Looking LEFT the 23rd headstone from the start is that of…
+    Now walk around to the start of the third path. Looking LEFT the 23^rd^ headstone from the start is that of…
     
     ![](../assets/myer-kangan.jpg){ width="20%" }
 
@@ -225,7 +225,7 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
 
 ??? Example "Directions" 
 
-    Now go to the end of this 3rd path and round to the start of the 4th path and look to the right and to the 4th grave of...
+    Now go to the end of this 3^rd^ path and round to the start of the 4th path and look to the right and to the 4^th^ grave of...
     
     ![](../assets/van-millingen.jpg){ width="20%" }
 

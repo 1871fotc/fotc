@@ -12,7 +12,7 @@ This trail represents a small number Lutherans who participated in the sacrament
 
 ## Christian Thomas Wagner <small>(4‑32‑1)</small>
 
-Christian Wagner was born in Germany in 1830 and died on 28 Feb 1903. He was buried two days later with Lutheran rites. Also here is his wife Elizabeth who died on 27 June 1912 aged 82 and their daughter Bertha Barbara who died on 11 March 1930 aged 62. Christian served on the church committee of St Andreas (St Andrews) congregation, Wickham Terrace.
+Christian Wagner was born in Germany in 1830 and died on 28 February 1903. He was buried two days later with Lutheran rites. Also here is his wife Elizabeth who died on 27 June 1912 aged 82 and their daughter Bertha Barbara who died on 11 March 1930 aged 62. Christian served on the church committee of St Andreas (St Andrews) congregation, Wickham Terrace.
 
 ## Johannes Lather <small>(4‑13‑33)</small>
 
@@ -20,7 +20,7 @@ The Lather family of New Farm was also members of the St. Andreas congregation f
 
 ## Johannes Christian Brünnich <small>(4‑10‑32)</small>
 
-Johannes Brünnich was born on 11 Sep 1861 in Görz, Austria‑Hungary (now Gorizia, Italy), the son of a Lutheran minister and mathematician. He studied chemistry in Switzerland, worked in Bohemia, Russia and Georgia. He migrated to Queensland in 1885. Rev. Schirmeister officiated at his marriage to Catherine (Kate) Terry on 22 April 1886, the daughter of a Brisbane watchmaker. 
+Johannes Brünnich was born on 11 September 1861 in Görz, Austria‑Hungary (now Gorizia, Italy), the son of a Lutheran minister and mathematician. He studied chemistry in Switzerland, worked in Bohemia, Russia and Georgia. He migrated to Queensland in 1885. Rev. Schirmeister officiated at his marriage to Catherine (Kate) Terry on 22 April 1886, the daughter of a Brisbane watchmaker. 
 
 After managing a sugar‑refinery and maltings at Bulimba and working in Darwin, he joined the Colonial Sugar Refining Co. in 1897 as a chemist. He became the government agricultural chemist in the new Queensland Department of Agriculture and was lecturer in chemistry at the agricultural college at Gatton. He wrote more than 60 papers on applied chemistry, soils, plant and animal nutrition. 
 

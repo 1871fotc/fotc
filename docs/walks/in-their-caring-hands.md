@@ -106,7 +106,7 @@ Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in Geo
 
 ## Gertrude Daly <small>(7A‑171‑1)</small>
 
-Miss Daly worked mainly as a ‘Children’s Nurse’ at the Hospital for Sick Children (HSC), Herston. She was appointed as a registered nurse at the HSC on 22 July 192. While at the Brisbane Hospital in 1926 she was appointed a sister on 28 September 1926. In October 1926 she returned to the HSC and was appointed a senior sister there on 1 Jul 1928. 
+Miss Daly worked mainly as a ‘Children’s Nurse’ at the Hospital for Sick Children (HSC), Herston. She was appointed as a registered nurse at the HSC on 22 July 192. While at the Brisbane Hospital in 1926 she was appointed a sister on 28 September 1926. In October 1926 she returned to the HSC and was appointed a senior sister there on 1 July 1928. 
 
 In the 1930s Gertrude was in charge of the outpatient’s department at the HSC. In 1938 she was granted leave to undertake a four‑month course in child welfare training. She then became Matron of the Metropolitan Hospital for Infectious Diseases from the late 1940s to the early 1950s. On 1 January 1952 she was appointed Matron of the Brisbane Children’s Hospital. After a long illness she died while still in service on 30 October 1961.
 
@@ -128,7 +128,7 @@ Dying aged 104 on 14 May 1998, Sister Taylor had seen service at the 5^th^ Austr
 
 ## Lillian Violet Cooper and Mary Josephine Bedford <small>(8‑69‑13/14)</small>
 
-Dr Lillian Cooper was the first woman to practise medicine in Queensland. She studied medicine at the London School of Medicine for Women and obtained an MD from Durham. While studying there, Lillian met and shared lodgings with Mary Bedford who was to become her lifelong companion. Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in George Street. She was a great advocate of sterilization and the use of protective clothing during surgery. Lillian died on 19 Aug 1947 aged 86. Mary Bedford died in 1955. Mt Olivet Hospital stands on the site of their Main St home at Kangaroo Point.
+Dr Lillian Cooper was the first woman to practise medicine in Queensland. She studied medicine at the London School of Medicine for Women and obtained an MD from Durham. While studying there, Lillian met and shared lodgings with Mary Bedford who was to become her lifelong companion. Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in George Street. She was a great advocate of sterilization and the use of protective clothing during surgery. Lillian died on 19 August 1947 aged 86. Mary Bedford died in 1955. Mt Olivet Hospital stands on the site of their Main St home at Kangaroo Point.
 
 ## Mary Constance Crosse <small>(1‑39‑15)</small>
 
@@ -164,7 +164,7 @@ Mary Jane Brown, born ca 1861, was working as a nurse when she was widowed in 19
 
 ## Nora Halford and Catherine Fitzgerald <small>(7A‑102‑23A)</small>
 
-Nora and Catherine were the daughters of Cornelius and Catherine Fitzgerald. They had emigrated from Ireland in the late 19th century. Nora received her Brisbane Hospital Certificate in 1894 and remained on the staff. Nora was a charge nurse from 1897 to 20 February 1899 when she left to marry Dr Arthur Halford (see above). Nora died on 9 Aug 1932 aged 63. She is buried with her sister Catherine Fitzgerald who was also trained nurse. Catherine received her Brisbane Hospital Certificate in 1896 and remained on staff as a ward nurse until 1898. Catherine was one of the first councillors of ATNA, Queensland Branch that was formed in 1904. She remained a councillor until 1918 when she became Vice‑President (1918‑1921). Catherine was Matron of the Alexandra Private Hospital, located in Wickham Terrace, from 1904, later becoming the owner. She was also a member of the ANTA Nurses’ Rest Home Committee. In her retirement Catherine lived at Craigston, Wickham Terrace, until her death. She died on 23 January 1931 aged 63.
+Nora and Catherine were the daughters of Cornelius and Catherine Fitzgerald. They had emigrated from Ireland in the late 19th century. Nora received her Brisbane Hospital Certificate in 1894 and remained on the staff. Nora was a charge nurse from 1897 to 20 February 1899 when she left to marry Dr Arthur Halford (see above). Nora died on 9 August 1932 aged 63. She is buried with her sister Catherine Fitzgerald who was also trained nurse. Catherine received her Brisbane Hospital Certificate in 1896 and remained on staff as a ward nurse until 1898. Catherine was one of the first councillors of ATNA, Queensland Branch that was formed in 1904. She remained a councillor until 1918 when she became Vice‑President (1918‑1921). Catherine was Matron of the Alexandra Private Hospital, located in Wickham Terrace, from 1904, later becoming the owner. She was also a member of the ANTA Nurses’ Rest Home Committee. In her retirement Catherine lived at Craigston, Wickham Terrace, until her death. She died on 23 January 1931 aged 63.
 
 ## Agnes Kathleen Isambert <small>(7‑59‑5/6)</small>
 

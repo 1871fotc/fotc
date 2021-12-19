@@ -56,7 +56,7 @@ Jessie Blanche Prentice, the daughter of George (Jun.) and Jessie Lacy Prentice,
 
 ## Henry Lander Pethebridge <small>(13-4-7)</small>
 
-Henry Pethebridge, the son of William Pethebridge and Maria Lander, was the Inspector of Works of the Marine Department of Queensland. Born in Torquay, Devon about 1835, he died in Brisbane on 13 Jun 1910.
+Henry Pethebridge, the son of William Pethebridge and Maria Lander, was the Inspector of Works of the Marine Department of Queensland. Born in Torquay, Devon about 1835, he died in Brisbane on 13 June 1910.
 
 <!--
 
@@ -100,7 +100,7 @@ William Smith and his ten-month old daughter died within two months of each othe
 
 ## Captain C. S. Thow <small>(13-16-10)</small>
 
-Charles Stewart Thow was the son of Alexander Thow and Elizabeth Smith. He died on the 2 Jun 1883 aged 43 and was buried on the same day.
+Charles Stewart Thow was the son of Alexander Thow and Elizabeth Smith. He died on the 2 June 1883 aged 43 and was buried on the same day.
 
 <!--
 
@@ -128,7 +128,7 @@ Three generations of David Muirs are buried in this grave. David was a shipwrigh
 
 ## Tom George Johnson <small>(14-18-4)</small>
 
-Tom, the son of John Johnson and Mary Huet, died on 2 Oct 1912. He was the first General Secretary of the Australian Institute of Marine Engineers. In August 1880, he was authorised to form a branch of the AIME in New Zealand. He was instrumental in instituting minimum qualifications, wages and working conditions for Marine Engineers. Until the year of his death, Tom was the Brisbane District Secretary of the AIME, a position he had held since 1883.
+Tom, the son of John Johnson and Mary Huet, died on 2 October 1912. He was the first General Secretary of the Australian Institute of Marine Engineers. In August 1880, he was authorised to form a branch of the AIME in New Zealand. He was instrumental in instituting minimum qualifications, wages and working conditions for Marine Engineers. Until the year of his death, Tom was the Brisbane District Secretary of the AIME, a position he had held since 1883.
 
 <!--
 
@@ -162,7 +162,7 @@ William’s son and namesake was said to be the first Queensland-born sailor to 
 
 On the 4th of March 1942, the auxiliary minesweeper HMAS Tambar was fired on by the Examination Battery at Fort Cowan Cowan on Moreton Island. The military covered up the incident so as not to affect morale. The Tambar’s crew was dispersed throughout the RAN immediately after the men’s joint funeral two days later. The ship was temporarily paid off and the Captain given another command. The service was conducted by the Rev. H. H. Trigge of the Methodist Church and the Church of England’s Rev. F. R. C. Birch. Cannon and Cripps arranged the funeral.
 
-There was a mix up in the identification code signal of the ship and the battery was ordered to fire across the bow of the unidentified vessel. The 6-inch shell struck the ship’s forecastle killing Able Seaman Archibald Bartsch, a member of the anchor party, instantly. The shell skidded across the deck into the Captain’s cabin killing Steward Eric Harrison. It then passed through the radio room critically injuring Warrant Officer Henry Theeman. Both of his legs were severed and his succumbed to his injuries soon after. Other crew received injuries to various degrees. London-born Theeman was aged 47. Bartsch, son of 3rd Light horseman William Henry Bartsch, was an employee if the Australasian United Paint Company of Port Augusta, South Australia prior to his enlistment in the navy. He was aged 20. Western Australian-born Harrison was the son of William Ross and Rebecca Harrison. He was aged 33 from Melbourne.
+There was a mix up in the identification code signal of the ship and the battery was ordered to fire across the bow of the unidentified vessel. The 6-inch shell struck the ship’s forecastle killing Able Seaman Archibald Bartsch, a member of the anchor party, instantly. The shell skidded across the deck into the Captain’s cabin killing Steward Eric Harrison. It then passed through the radio room critically injuring Warrant Officer Henry Theeman. Both of his legs were severed and his succumbed to his injuries soon after. Other crew received injuries to various degrees. London-born Theeman was aged 47. Bartsch, son of 3^rd^ Light horseman William Henry Bartsch, was an employee if the Australasian United Paint Company of Port Augusta, South Australia prior to his enlistment in the navy. He was aged 20. Western Australian-born Harrison was the son of William Ross and Rebecca Harrison. He was aged 33 from Melbourne.
 
 <!--
 

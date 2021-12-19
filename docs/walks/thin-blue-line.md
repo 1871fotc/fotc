@@ -102,7 +102,7 @@ Police career information supplied by the [Queensland Police Museum](https://www
 
 2: Warwick Argus 1 February 1896 p.2
 
-3: Morning Bulletin (Rockhampton) 29 Jan 1917 p.3
+3: Morning Bulletin (Rockhampton) 29 January 1917 p.3
 
 4: Brisbane Courier 17 January 1905 p.4
 

@@ -10,7 +10,7 @@ search:
 
 ## Meeting <small>23 Feb 2022</small>
 
-The Friends of Toowong Cemetery will meet for the first time in 2022 on **Wednesday 23 Feb at 6pm**. 
+The Friends of Toowong Cemetery will meet for the first time in 2022 on **Wednesday 23 February at 6pm**. 
 
 :fontawesome-regular-calendar-plus: **[Add all 2022 meetings to your Calendar](../assets/calendar/meetings-2022.ics)**
 

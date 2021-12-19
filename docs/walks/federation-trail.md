@@ -8,13 +8,13 @@ hide:
 
 The Federation Trail was produced by the Friends of Toowong Cemetery as a Centenary of Federation project to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
 
-The National Australasian Convention was held in Sydney from the 2nd of March to the 9th of April 1891. The convention was attended by seven delegates from each of the six colonies and three delegates from New Zealand. The Queensland delegates were John Donaldson, Sir Samuel Griffith, John Macrossan, Thomas Macdonald- Paterson, Thomas McIlwraith, Arthur Rutledge and Andrew Thynne. Significant outcomes from this convention included agreement of the name Commonwealth of Australia and more importantly, the production of a draft constitution. Sir Samuel Griffith was Chairman of the committee responsible for writing the draft constitution.
+The National Australasian Convention was held in Sydney from the 2^nd^ of March to the 9^th^ of April 1891. The convention was attended by seven delegates from each of the six colonies and three delegates from New Zealand. The Queensland delegates were John Donaldson, Sir Samuel Griffith, John Macrossan, Thomas Macdonald- Paterson, Thomas McIlwraith, Arthur Rutledge and Andrew Thynne. Significant outcomes from this convention included agreement of the name Commonwealth of Australia and more importantly, the production of a draft constitution. Sir Samuel Griffith was Chairman of the committee responsible for writing the draft constitution.
 
 This convention marked Queensland’s greatest role in the path towards Federation as Queensland was not represented at later conventions. For Queenslanders, the Depression, droughts, floods, industrial upheavals such as the Shearers Strikes and financial collapses were higher priorities.
 
 Other Queensland issues in the federation debate included Queensland’s use of indentured Melanesian labour that was in contrast the federation movement’s White Australia policy and the possible division of Queensland into two or three separate colonies. 
 
-Despite many arguments against federation, the Federal Referendum on the 2nd of September 1899 narrowly voted in favour of Queensland's joining the new nation.  Interestingly, the south-east corner of the colony was against Federation.
+Despite many arguments against federation, the Federal Referendum on the 2^nd^ of September 1899 narrowly voted in favour of Queensland's joining the new nation.  Interestingly, the south-east corner of the colony was against Federation.
 
 ![](../assets/federation-trail-map.png){ width="50%" } 
 
