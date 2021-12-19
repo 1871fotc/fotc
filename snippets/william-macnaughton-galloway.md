@@ -13,3 +13,5 @@ He was an Alderman in the Brisbane Municipal Council from 1884 to 1891, serving 
 - Street Lighting Committee 1891
 
 He married Anne Hunter in Sydney in 1885 before moving to Aberleigh, Kelvin Grove where they lived until settling into his newly completed hotel.
+
+![](../assets/william-macnaughton-galloway.jpg){ width="33%" }

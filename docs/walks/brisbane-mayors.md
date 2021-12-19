@@ -6,8 +6,6 @@ hide:
 
 # Brisbane Mayors  
 
-![](../assets/william-macnaughton-galloway.jpg){ width="33%" }
-
 On this trail you'll visit many of the early Mayors of the **Town of Brisbane**: 
 
 - **John Petrie**, the first mayor of the Town of Brisbane 1859—1862
@@ -42,7 +40,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![](../assets/john-petrie.jpg){ width="100" }
 
 -->
-
 
 --8<-- "snippets/john-petrie.md"
 
