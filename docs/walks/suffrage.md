@@ -2,18 +2,11 @@
 date: 3/4/2016
 hide:
   - navigation
-icon: octicons/pencil-24  
 ---
 
 # One Adult, One Vote
 
 **Queensland's own suffrage story** 
-
-!!! question "Volunteer opportunity"
-
-    How embarrassing! We can't find all the electronic files for our walks. We're slowly re-keying the words from the Brochure pdf files. You can help by typing some and sending them to us. 
-    
-    Why have we published an incomplete page like this? So the people can be discovered in the search and their stories read in the Brochure.
 
 <!--
 ???+ Example "Directions" 
@@ -40,9 +33,14 @@ Justin Fox Greenlaw Foxton, was born on 24 September 1849 in Melbourne, son of C
 
 Foxton held the Legislative Assembly seat of Carnarvon from 1883 until 1904 when he refused to support the Morgan coalition. As Home Secretary under the Philp government, Foxton introduced the Adult Suffrage Bill in 1901. Foxton died of cerebro-vascular disease at South Brisbane on 23 June 1916.
 
-## Emma Millar <small>(13‑6‑5/6)</small>
+## Emma Miller <small>(13‑6‑5/6)</small>
 
-==to do==
+Emma was born in June 1839 in Chesterfield, Derbyshire. Her parents were Daniel Holmes a Chartist, and Martha (née Hollingworth). Emma arrived in Brisbane in 1879. She led the campaign for women's suffrage in Queensland as well as being at the forefront of the struggle for better working conditions for women workers. She was a foundation member of the Australian Labor Party. She campaigned tirelessly for freedom from conscription. Emma was president of the Women's Equal Franchise Association for the whole period of its existence, from 1894 to 1905 when white women in Queensland won the right to vote in state elections. Emma Miller died of cancer on 22 January 1917, two days after making her last speech to the Toowoomba Anti‑conscription League.
+
+
+![](../assets/emma-miller-portrait.jpg){ width="40%" }  
+
+*<small>[Portrait of Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218036320002061) — State Library of Queensland.</small>*
 
 ## Elizabeth Edwards <small>(14‑23‑14)</small>
 
@@ -57,6 +55,11 @@ Sir Robert Philp was born on 28 December 1851 at Glasgow, Scotland, son of John 
 Philp entered politics on 5 January 1876 by winning the seat of Musgrave, but transferred to the seat of Townsville on 12 May 1888 and held it until his defeat in 1915. On 7 December 1899, Philp became a reluctant Premier following the defeat of Anderson Dawson's short-lived Labor ministry. In 1901 the Philp Government presented an Adult Suffrage Bill, later shelved, that not only discriminated against women, it also discriminated against many males. 
 
 Sir Robert died after an operation on 17 June 1922 in Holyrood Private Hospital, Brisbane, and was buried in Toowong Cemetery two days later. 
+
+
+![](../assets/sir-robert-philp.jpg){ width="40%" }  
+
+*<small>[Sir Robert Philp](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool194435), 1901 — State Library of Queensland.</small>*
 
 ## Sir Horace Tozer <small>(12‑11‑8)</small>
 
@@ -106,9 +109,17 @@ On July 1887 he was first elected to the Legislative Assembly for Warwick. He re
 
 Morgan died at his residence at Upper Paddington, on 20 December 1916 after a long illness; he was buried in Toowong Cemetery following a state funeral and service at St John's Anglican Cathedral.
 
-![](../assets/sir-arthur-and-lady-morgan.jpg){ width="70%" }
+![](../assets/sir-arthur-morgan.jpg){ width="40.8%" }  ![](../assets/modern-romeo.jpg){ width="36%" }  
 
-*<small>[Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256749450002061) - State Library of Queensland </small>*
+
+*<small>[Sir Arthur Morgan](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219359220002061) 1903 — State Library of Queensland.</small>* <br>
+*<small>[Modern Romeo : suffragette movement in Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool190519)  On 5 January 1905, two years after the formation of the Queensland Women's Electoral League, the Electoral Franchise Bill was introduced into the Legislative Assembly to give the women of Queensland the right to vote. The Elections Acts Amendment Bill, provide the necessary machinery, was introduced at the same time. Despite some misgivings about abolishing the plural vote, and difficulty with postal voting, these issues were overcome and the legislation giving the women of Queensland the right to vote was finally passed. It was assented to by the Lieutenant‑Governor on 26 January 1905 — State Library of Queensland.</small>*
+
+
+![](../assets/women-voting-1907.jpg){ width="70%" }  
+
+*<small>[Women inside the gate of the city polling station, voting for the first time in a Queensland state election, May 1907](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool72579) — State Library of Queensland.</small>*
+
 
 ## Acknowledgements
 
@@ -116,13 +127,14 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-==to do==
-
 - [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
-- [Grave Location Search](http://graves.brisbane.qld.gov.au) - Brisbane City Council
-- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
-- [Search the Records](https://www.qld.gov.au/recreation/arts/heritage/archives/search-the-records) - The State of Queensland (Queensland State Archives)
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
+- [Queensland Premiers](https://www.qld.gov.au/about/about-queensland/history/premiers) - The State of Queensland
+- [Leading lights Leontine Cooper](https://womenssuffragepetitions.wordpress.com/2014/03/31/leading-lights-leontine-cooper/) - Women's Suffrage Petitions – Queensland
+- Young, P, 2002: Emma Miller and the Campaign for Women's Suffrage in Queensland, 1984-1905. Memoirs of the Queensland Cultural Series 2(2): 223-230, Brisbane. ISSN 1440-4788
+- [Sir Charles Lilley QC](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/clilley) - Supreme Court Library Queensland
+
+<!-- https://hecate.communications-arts.uq.edu.au/files/4639/Centenary%20of%20Women%27s%20Suffrage%20in%20Queensland.pdf -->
 
 <div class="noprint" markdown="1">
 

@@ -33,7 +33,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Governors][governors-past]** - visit some of Queensland's earliest Governors
 - **[Brisbane Mayors][brisbane-mayors]** - learn about 14 Brisbane Mayors from 1859 to 1931
 - **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
-- **[One Adult, One Vote][suffrage]** - Queensland's own suffrage story :octicons-pencil-24:
+- **[One Adult, One Vote][suffrage]** - Queensland's own suffrage story 
 
 
 ## Military 

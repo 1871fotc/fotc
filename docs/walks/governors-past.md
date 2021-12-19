@@ -114,11 +114,9 @@ Morgan entered local politics in 1885 when elected to the Warwick Municipal Coun
 In 1907 the Governor Lord Chelmsford reluctantly appointed Morgan lieutenant‑governor, by‑passing Sir Pope Cooper. Morgan deputised in 1907 and 1908 during Chelmsford's absences and, in 1909 and 1914, was Lieutenant‑governor on the retirement of Governors Chelmsford and Sir William MacGregor. He was still President of the Legislative Council when he died on 20 December 1916 after a long illness. He was buried here after a state funeral at St John's Cathedral.
 
 
+![](../assets/sir-arthur-and-lady-morgan.jpg){ width="70%" }
 
-![](../assets/sir-arthur-morgan.jpg){ width="40%" }  
-
-*<small>[Sir Arthur Morgan](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219359220002061) 1903 — State Library of Queensland.</small>*
-
+*<small>[Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256749450002061) - State Library of Queensland </small>*
 
 
 ## Sir Pope Alexander Cooper <small>(13‑37‑1)</small>
