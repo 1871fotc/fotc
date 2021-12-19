@@ -53,7 +53,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 -->
 
-
 --8<-- "snippets/george-edmondstone.md"
 
 <!--
@@ -64,7 +63,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![](../assets/thomas-proe.jpg){ width="100" }
 
 -->
-
 
 --8<-- "snippets/thomas-proe.md"
 
@@ -77,7 +75,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![missing picture](../assets/john-daniel-heal.jpg){ width="100" }
 
 -->
-
 
 --8<-- "snippets/john-daniel-heal.md"
 
@@ -104,7 +101,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 -->
 
-
 --8<-- "snippets/alfred-john-raymond.md"
 
 <!--
@@ -116,7 +112,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     ![](../assets/james-swan.jpg){ width="100" }
 
 -->
-
 
 --8<-- "snippets/james-swan.md"
 
@@ -142,7 +137,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![](../assets/richard-southall.jpg){ width="100" }
 
-
 -->
 
 --8<-- "snippets/richard-southall.md"
@@ -155,9 +149,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
               
     ![missing picture](../assets/john-hardgrave.jpg){ width="100" }
 
-
 -->
-
 
 --8<-- "snippets/john-hardgrave.md"
 
@@ -171,7 +163,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 -->
 
-
 --8<-- "snippets/joshua-jeays.md"
 
 <!--
@@ -180,13 +171,11 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![](../assets/william-pettigrew.jpg){ width="100" }
+    ![](../assets/william-pettigrew-headstone.jpg){ width="100" }
 
 -->
 
-
 --8<-- "snippets/william-pettigrew.md"
-
 
 <!--
 
@@ -198,9 +187,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     
 -->
 
-
 --8<-- "snippets/archibald-watson.md"
-
 
 <!--
 
@@ -221,9 +208,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 --8<-- "snippets/william-macnaughton-galloway.md"
 
-
 <!--
-
 ??? Example "Directions" 
 
     - Retrace your steps back to the starting point
@@ -235,10 +220,8 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 - [Brisbane's Lord Mayors](https://www.brisbane.qld.gov.au/about-council/council-information-and-rates/council-history/brisbanes-lord-mayors)
 - [List of mayors and lord mayors of Brisbane](https://en.wikipedia.org/wiki/List_of_mayors_and_lord_mayors_of_Brisbane)
 
-
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/brisbane-mayors.pdf)** - designed to be printed and folded in half to make an A5 brochure.
-
 </div>

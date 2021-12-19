@@ -7,17 +7,9 @@ search:
 
 You will find many different types of headstones in Toowong Cemetery. Examples of each style are shown below. 
 
-
-??? Warning "To Do" 
-
-    - Collect photos
-    - Remove drawing images
-    
-
 ## Upright Slabs / Stelae
 
 ![](../assets/slabs-1.png){ width="49%" } ![](../assets/slabs-2.png){ width="49%" }
-
 
 !!! question "Volunteer opportunity"
 

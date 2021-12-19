@@ -68,7 +68,6 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Toowong Identities 1][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
 - **[Toowong Identities 2][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
 
-
 ## Birds of a feather 
 
 - **[The Children][children]** - Suffer the little children, and forbid them not, to come unto me
@@ -77,18 +76,14 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[The Jewish][jewish-trail]**  :octicons-pencil-24:
 - **[The Lutheran][lutheran-trail]** 
 
-
 ## Themed walks
 
 - **[20/20 Vision](2020-vision.md)** :octicons-pencil-24: 
-<!--
-- Brisbane City Council Trail 1 [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. 
-- Brisbane City Council Trail 2  [Brisbane City Council Trail 2][bcc-walk-2] -->
+<!-- - Brisbane City Council Trail 1 [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. - Brisbane City Council Trail 2  [Brisbane City Council Trail 2][bcc-walk-2] -->
 - **[Brisbane Open House][brisbane-open-house]** :octicons-pencil-24:
 - **[Erected by Friends and Family](erected-by-friends.md)** :octicons-pencil-24:
 - **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
-<!--
-- One Day: New Years' Day -->
+<!-- - One Day: New Years' Day -->
 - **[Mothers](mothers.md)** :octicons-pencil-24:
 - **[Rich man, Poor man](rich-man-poor-man.md)**  :octicons-pencil-24:
 - **[Propectors](prospectors.md)** :octicons-pencil-24:
@@ -102,10 +97,6 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Portions 6 and 24](portion6-and-24.md)** - A walk through Portions 6 and 24 :octicons-pencil-24:
 - **[Portions 15 and 16](portion15-and-16.md)** - A wander through Portions 15 and 16 :octicons-pencil-24:
 
-
-
-
-
 <!-- links to pages or pdfs -->
 
 [federation-trail]: federation-trail.md
@@ -113,7 +104,6 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [brisbane-mayors]: brisbane-mayors.md
 [labor-luminaries]: labor-luminaries.md
 [suffrage]: suffrage.md
-
 [lest-we-forget]: lest-we-forget.md
 [lest-we-forget-navy]: lest-we-forget-navy.md
 [rn]: men-of-the-royal-navy.md
