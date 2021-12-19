@@ -48,13 +48,11 @@ Elizabeth Munro Edwards (née Gibson) was born in Scotland on 11 May 1840 and ca
 
 ## Sir Robert Philp <small>(14‑23‑10)</small>
 
-==to do==
-
-
+Sir Robert Philp was born on 28 December 1851 at Glasgow, Scotland, son of John Philp, lime kiln operator, and his wife Mary Ann (née Wylie). The family settled in Brisbane in 1862. After leaving school, young Robert joined the business of Sir James Burns at the northern goldfields port of Townsville in 1874, becoming a partner in the business in 1876. The Burns Philp partership flourished. Philp entered politics on 5 January 1876 by winning the seat of Musgrave, but transferred to the seat of Townsville on 12 May 1888 and held it until his defeat in 1915. On 7 December 1899, Philp became a reluctant Premier following the defeat of Anderson Dawson's short-lived Labor ministry. In 1901 the Philp Government presented an Adult Suffrage Bill, later shelved, that not only discriminated against women, it also discriminated against many males. Sir Robert died after an operation on 17 June 1922 in Holyrood Private Hospital, Brisbane, and was buried in Toowong Cemetery two days later. 
 
 ## Sir Horace Tozer <small>(12‑11‑8)</small>
 
-==to do==
+Sir Horace Tozer was born on 23 April 1844 at Port Macquarie, New South Wales, son of Horatio Thomas Norris Tozer, chemist, and his wife Charlotte Winifred Amelia (née Croft). He was articled to James Malbon Thompson in Brisbane in 1862 and admitted as a solicitor of the Supreme Court of Queensland on 7 December 1867. He was an alderman in the first Gympie Municipal Council and in 1888 was elected to the Legislative Assembly as the member for Wide Bay and held that seat until 1898. Tozer was totally against universal adult suffrage, not only opposing the women's vote but also manhood suffrage. He [died](https://trove.nla.gov.au/newspaper/article/187224133) on 20 August 1916 at his South Brisbane home and was buried in Toowong Cemetery where a private funeral was conducted at his request. 
 
 ## Sir Charles Lilley <small>(12‑15‑7)</small>
 

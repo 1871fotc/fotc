@@ -88,15 +88,14 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
 - One Day: New Years' Day
 - **[Mothers](mothers.md)** :octicons-pencil-24:
-- [Portion 5 - part 1](../assets/guides/portion5-part1.pdf) - A ramble through Portion 5 - part 1
-- [Portion 5 - part 2](../assets/guides/portion5-part2.pdf) - A ramble through Portion 5 - part 2
-- [Portions 6 and 24](../assets/guides/portion6-and-24.pdf) - A walk through Portions 6 and 24
-- [Portions 15 and 16](../assets/guides/portion15-and-16.pdf) - A wander through Portions 15 and 16
+- **[Portion 5 - part 1](portion5-part1.md)** - A ramble through Portion 5 - part 1 :octicons-pencil-24:
+- **[Portion 5 - part 2](portion5-part2.md)** - A ramble through Portion 5 - part 2 :octicons-pencil-24:
+- **[Portions 6 and 24](portion6-and-24.md)** - A walk through Portions 6 and 24 :octicons-pencil-24:
+- **[Portions 15 and 16](portion15-and-16.md)** - A wander through Portions 15 and 16 :octicons-pencil-24:
 - [Rich man, Poor man](../assets/guides/rich-man-poor-man.pdf) 
 - **[Propectors](prospectors.md)** :octicons-pencil-24:
 - **[Steam](steam.md)** 
 - **[Taken before their time](taken-before-their-time.md)** :octicons-pencil-24:
-
 
 <!-- links to pages or pdfs -->
 

@@ -134,6 +134,7 @@ extra_javascript:
 plugins:
   - search
 #  - social
+#      cards_font: Raleway
 #      cards_directory: assets/images/social
 #      cards_color:
 #        fill: "#7e56c2" 
@@ -197,11 +198,14 @@ nav:
 #    - New Year's Day: walks/new-years.md    
     - Mothers: walks/mothers.md    
 # portion walks
+    - A Ramble through Portion 5 - part 1: walks/portion5-part1.md
+    - A Ramble through Portion 5 - part 2: walks/portion5-part2.md
+    - A Walk through Portion 6 and 24: walks/portion6-and-24.md
+    - A Wander through Portion 15 and 16: walks/portion15-and-16.md
 # rich man, poor man    
     - Prospectors: walks/prospectors.md    
     - Steam: walks/steam.md    
     - Taken before their time: walks/taken-before-their-time.md    
-
   - Headstones: 
     - Headstones: headstones/index.md
 #    - Shapes: headstones/shapes.md  
