@@ -78,24 +78,33 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[The Lutheran][lutheran-trail]** 
 
 
-## Other walks
+## Themed walks
 
 - **[20/20 Vision](2020-vision.md)** :octicons-pencil-24: 
-- Brisbane City Council Trail 1 <!-- [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. -->
-- Brisbane City Council Trail 2 <!-- [Brisbane City Council Trail 2][bcc-walk-2] -->
+<!--
+- Brisbane City Council Trail 1 [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. 
+- Brisbane City Council Trail 2  [Brisbane City Council Trail 2][bcc-walk-2] -->
 - **[Brisbane Open House][brisbane-open-house]** :octicons-pencil-24:
 - **[Erected by Friends and Family](erected-by-friends.md)** :octicons-pencil-24:
 - **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
-- One Day: New Years' Day
+<!--
+- One Day: New Years' Day -->
 - **[Mothers](mothers.md)** :octicons-pencil-24:
-- **[Portion 5 - part 1](portion5-part1.md)** - A ramble through Portion 5 - part 1 :octicons-pencil-24:
-- **[Portion 5 - part 2](portion5-part2.md)** - A ramble through Portion 5 - part 2 :octicons-pencil-24:
-- **[Portions 6 and 24](portion6-and-24.md)** - A walk through Portions 6 and 24 :octicons-pencil-24:
-- **[Portions 15 and 16](portion15-and-16.md)** - A wander through Portions 15 and 16 :octicons-pencil-24:
 - **[Rich man, Poor man](rich-man-poor-man.md)**  :octicons-pencil-24:
 - **[Propectors](prospectors.md)** :octicons-pencil-24:
 - **[Steam](steam.md)** 
 - **[Taken before their time](taken-before-their-time.md)** :octicons-pencil-24:
+
+## Portion walks 
+
+- **[Portion 5 - part 1](portion5-part1.md)** - A ramble through Portion 5 - part 1 :octicons-pencil-24:
+- **[Portion 5 - part 2](portion5-part2.md)** - A ramble through Portion 5 - part 2 :octicons-pencil-24:
+- **[Portions 6 and 24](portion6-and-24.md)** - A walk through Portions 6 and 24 :octicons-pencil-24:
+- **[Portions 15 and 16](portion15-and-16.md)** - A wander through Portions 15 and 16 :octicons-pencil-24:
+
+
+
+
 
 <!-- links to pages or pdfs -->
 

@@ -31,11 +31,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stephen-gates.github.io/fotc/about/ideas/</loc>
-         <lastmod>2021-12-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://stephen-gates.github.io/fotc/about/legal/</loc>
          <lastmod>2021-12-19</lastmod>
          <changefreq>daily</changefreq>
@@ -211,11 +206,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stephen-gates.github.io/fotc/cemetery/paddington-cemetery/</loc>
-         <lastmod>2021-12-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://stephen-gates.github.io/fotc/cemetery/visit/</loc>
          <lastmod>2021-12-19</lastmod>
          <changefreq>daily</changefreq>
@@ -236,27 +226,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://stephen-gates.github.io/fotc/headstones/shapes/</loc>
-         <lastmod>2021-12-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://stephen-gates.github.io/fotc/headstones/signs/</loc>
-         <lastmod>2021-12-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stephen-gates.github.io/fotc/news/</loc>
-         <lastmod>2021-12-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stephen-gates.github.io/fotc/news/news/</loc>
-         <lastmod>2021-12-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stephen-gates.github.io/fotc/news/past-events/</loc>
          <lastmod>2021-12-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -287,16 +257,6 @@
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/walks/artists/</loc>
-         <lastmod>2021-12-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stephen-gates.github.io/fotc/walks/bcc-walk-1/</loc>
-         <lastmod>2021-12-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stephen-gates.github.io/fotc/walks/bcc-walk-2/</loc>
          <lastmod>2021-12-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -437,11 +397,6 @@
     </url>
     <url>
          <loc>https://stephen-gates.github.io/fotc/walks/prospectors/</loc>
-         <lastmod>2021-12-19</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://stephen-gates.github.io/fotc/walks/remembrance-walk/</loc>
          <lastmod>2021-12-19</lastmod>
          <changefreq>daily</changefreq>
     </url>

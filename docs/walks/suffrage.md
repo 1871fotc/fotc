@@ -36,7 +36,9 @@ icon: octicons/pencil-24
 
 ## Justin Fox Greenlaw Foxton <small>(1‑114‑7/8)</small>
 
-Justin Fox Greenlaw Foxton, was born on 24 September 1849 in Melbourne, son of Captain John Greenlaw Foxton and his wife Isabel Elizabeth, née Potts. In 1864 he moved to Queensland where he was articled to James Malbon Thompson in Ipswich and admitted to the Bar in 1871. Foxton held the Legislative Assembly seat of Carnarvon from 1883 until 1904 when he refused to support the Morgan coalition. As Home Secretary under the Philp government, Foxton introduced the Adult Suffrage Bill in 1901. Foxton died of cerebro-vascular disease at South Brisbane on 23 June 1916.
+Justin Fox Greenlaw Foxton, was born on 24 September 1849 in Melbourne, son of Captain John Greenlaw Foxton and his wife Isabel Elizabeth, née Potts. In 1864 he moved to Queensland where he was articled to James Malbon Thompson in Ipswich and admitted to the Bar in 1871. 
+
+Foxton held the Legislative Assembly seat of Carnarvon from 1883 until 1904 when he refused to support the Morgan coalition. As Home Secretary under the Philp government, Foxton introduced the Adult Suffrage Bill in 1901. Foxton died of cerebro-vascular disease at South Brisbane on 23 June 1916.
 
 ## Emma Millar <small>(13‑6‑5/6)</small>
 
@@ -44,19 +46,40 @@ Justin Fox Greenlaw Foxton, was born on 24 September 1849 in Melbourne, son of C
 
 ## Elizabeth Edwards <small>(14‑23‑14)</small>
 
-Elizabeth Munro Edwards (née Gibson) was born in Scotland on 11 May 1840 and came to Australia with her parents, Thomas Gibson and Christina Thompson in 1864. Three years later she married Richard Edwards who subsequently became the member for Oxley division in Federal Parliament. Elizabeth was the first president of The Queensland Women's Suffrage League which was formed at a meeting at her home on 4 February 1889. Elizabeth [died](https://trove.nla.gov.au/newspaper/article/19994589) early on Saturday 7 November 1914 and the funeral took place the same afternoon. 
+Elizabeth Munro Edwards (née Gibson) was born in Scotland on 11 May 1840 and came to Australia with her parents, Thomas Gibson and Christina Thompson in 1864. Three years later she married Richard Edwards who subsequently became the member for Oxley division in Federal Parliament. 
+
+Elizabeth was the first president of The Queensland Women's Suffrage League which was formed at a meeting at her home on 4 February 1889. Elizabeth [died](https://trove.nla.gov.au/newspaper/article/19994589) early on Saturday 7 November 1914 and the funeral took place the same afternoon. 
 
 ## Sir Robert Philp <small>(14‑23‑10)</small>
 
-Sir Robert Philp was born on 28 December 1851 at Glasgow, Scotland, son of John Philp, lime kiln operator, and his wife Mary Ann (née Wylie). The family settled in Brisbane in 1862. After leaving school, young Robert joined the business of Sir James Burns at the northern goldfields port of Townsville in 1874, becoming a partner in the business in 1876. The Burns Philp partership flourished. Philp entered politics on 5 January 1876 by winning the seat of Musgrave, but transferred to the seat of Townsville on 12 May 1888 and held it until his defeat in 1915. On 7 December 1899, Philp became a reluctant Premier following the defeat of Anderson Dawson's short-lived Labor ministry. In 1901 the Philp Government presented an Adult Suffrage Bill, later shelved, that not only discriminated against women, it also discriminated against many males. Sir Robert died after an operation on 17 June 1922 in Holyrood Private Hospital, Brisbane, and was buried in Toowong Cemetery two days later. 
+Sir Robert Philp was born on 28 December 1851 at Glasgow, Scotland, son of John Philp, lime kiln operator, and his wife Mary Ann (née Wylie). The family settled in Brisbane in 1862. After leaving school, young Robert joined the business of Sir James Burns at the northern goldfields port of Townsville in 1874, becoming a partner in the business in 1876. The Burns Philp partership flourished. 
+
+Philp entered politics on 5 January 1876 by winning the seat of Musgrave, but transferred to the seat of Townsville on 12 May 1888 and held it until his defeat in 1915. On 7 December 1899, Philp became a reluctant Premier following the defeat of Anderson Dawson's short-lived Labor ministry. In 1901 the Philp Government presented an Adult Suffrage Bill, later shelved, that not only discriminated against women, it also discriminated against many males. 
+
+Sir Robert died after an operation on 17 June 1922 in Holyrood Private Hospital, Brisbane, and was buried in Toowong Cemetery two days later. 
 
 ## Sir Horace Tozer <small>(12‑11‑8)</small>
 
-Sir Horace Tozer was born on 23 April 1844 at Port Macquarie, New South Wales, son of Horatio Thomas Norris Tozer, chemist, and his wife Charlotte Winifred Amelia (née Croft). He was articled to James Malbon Thompson in Brisbane in 1862 and admitted as a solicitor of the Supreme Court of Queensland on 7 December 1867. He was an alderman in the first Gympie Municipal Council and in 1888 was elected to the Legislative Assembly as the member for Wide Bay and held that seat until 1898. Tozer was totally against universal adult suffrage, not only opposing the women's vote but also manhood suffrage. He [died](https://trove.nla.gov.au/newspaper/article/187224133) on 20 August 1916 at his South Brisbane home and was buried in Toowong Cemetery where a private funeral was conducted at his request. 
+Sir Horace Tozer was born on 23 April 1844 at Port Macquarie, New South Wales, son of Horatio Thomas Norris Tozer, chemist, and his wife Charlotte Winifred Amelia (née Croft). He was articled to James Malbon Thompson in Brisbane in 1862 and admitted as a solicitor of the Supreme Court of Queensland on 7 December 1867. 
+
+He was an alderman in the first Gympie Municipal Council and in 1888 was elected to the Legislative Assembly as the member for Wide Bay and held that seat until 1898. Tozer was totally against universal adult suffrage, not only opposing the women's vote but also manhood suffrage. 
+
+He [died](https://trove.nla.gov.au/newspaper/article/187224133) on 20 August 1916 at his South Brisbane home and was buried in Toowong Cemetery where a private funeral was conducted at his request. 
+
+![](../assets/sir-horace-tozer.jpg){ width="40%" }  
+
+*<small>[Politician Sir Horace Tozer, Brisbane, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218036320002061) — State Library of Queensland.</small>*
 
 ## Sir Charles Lilley <small>(12‑15‑7)</small>
 
-==to do==
+Sir Charles Lilley, politician and judge was born on 27 August 1827 at Newcastle upon Tyn, son of Thomas Lilley and his wife Jane (née Shipley). He arrived in Sydney on 6 July 1856 and moved immediately to Brisbane where he was articled to Robert Little. Lilley became the first solicitor to be admitted to practice by the Supreme Court at Moreton Bay. 
+
+In May 1860 he was elected to Queensland's first Legislative Assembly. From 25 November 1868 to 3 May 1870 he was Premier of Queensland. During a debate on electoral reform in Queensland Parliament in 1870, he put forward the idea of women's suffrage, the first to do so. His government fell the same year but he remained a staunch supporter of women's franchise until his death on 20 August 1897. 
+
+![](../assets/sir-charles-lilley-1858.jpg){ width="49%" }  ![](../assets/sarah-jane-jeays.jpg){ width="46.35%" } 
+
+*<small>[Sir Charles Lilley](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197120002061) on his wedding day. He married Sarah Jane Jeays in 1858. — State Library of Queensland.</small>* <br>
+*<small>[Sarah Jane Jeays](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218235890002061) — State Library of Queensland.</small>*
 
 ## Boyd Dunlop Morehead <small>(12‑49‑6)</small>
 
@@ -77,7 +100,15 @@ David Hay Dalrymple was born on 14 December 1840 at Newbury, Berkshire, England,
 
 ## Sir Arthur Morgan <small>(12‑15‑12)</small>
 
-==to do==
+Sir Arthur Morgan was born on 19 September 1856 at Rosenthal station, Warwick, Queensland, son of James Morgan and his wife Kate (née Barton), both Irish born. Arthur Morgan entered politics in 1885 when elected to the Warwick Municipal Council, serving as mayor in 1886-90 and 1898. 
+
+On July 1887 he was first elected to the Legislative Assembly for Warwick. He regained Warwick on 2 October 1898. In 1903 he became Premier under the Morgan-Browne coalition ministry. Morgan made good on a promise that he would introduce an electoral reform Bill to give women the vote and abolish plural voting. This was introduced to the Legislative Assembly in September 1904 but it was not until 25 January 1905 that the Election Act Amendment Act received Royal Assent. 
+
+Morgan died at his residence at Upper Paddington, on 20 December 1916 after a long illness; he was buried in Toowong Cemetery following a state funeral and service at St John's Anglican Cathedral.
+
+![](../assets/sir-arthur-and-lady-morgan.jpg){ width="70%" }
+
+*<small>[Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256749450002061) - State Library of Queensland </small>*
 
 ## Acknowledgements
 
@@ -92,7 +123,6 @@ Compiled and presented by Lyn Maddock
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Search the Records](https://www.qld.gov.au/recreation/arts/heritage/archives/search-the-records) - The State of Queensland (Queensland State Archives)
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
-
 
 <div class="noprint" markdown="1">
 

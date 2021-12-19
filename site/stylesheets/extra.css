@@ -45,15 +45,3 @@ th {
   color: var(--md-primary-bg-color);
   text-decoration: underline;
 }
-
-
-
-/* show logo in mobile format 
-
-@media screen and (max-width: 76.1875em) {
-  .md-nav__button.md-logo {
-    order: -1;
-    display: block;
-  }
-}
-*/

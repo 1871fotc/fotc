@@ -18,6 +18,7 @@ theme:
 #  icon:
 #    repo: fontawesome/brands/github-alt
   font:
+#    text: Poppins
     text: Raleway
     code: Roboto Mono 
   palette:
