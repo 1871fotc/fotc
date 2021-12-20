@@ -38,7 +38,7 @@ theme:
     admonition:
       question: fontawesome/solid/hand-holding-heart
       example: fontawesome/regular/compass
-      warning: fontawesome/regular/check-circle
+      warning: fontawesome/solid/exclamation-triangle
   custom_dir: overrides
   features:
 #    - announce.dismiss
@@ -170,7 +170,7 @@ nav:
     - Conflict and Compassion: walks/conflict-and-compassion.md
 # Professions    
     - Artists: walks/artists.md 
-#    - Health Professionals: walks/in-their-caring-hands.md
+    - Health Professionals: walks/in-their-caring-hands.md
     - Judiciary: walks/judiciary.md
     - Mariners: walks/anchors-aweigh.md
     - Performers: walks/all-the-worlds-a-stage.md 

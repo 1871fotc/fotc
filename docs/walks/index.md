@@ -12,7 +12,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 ???+ example "Format improvements" 
 
-    We're improving the self-guided walks  by converting them to a mobile-friendly format, adding maps, walking instructions, and photos. Mobile-friendly walks are shown in **bold**.
+    We're improving the self-guided walks by converting them to a mobile-friendly format, adding maps, walking instructions, and photos. 
 
     Walks marked with an :octicons-pencil-24: are work in progress. 
     
@@ -52,7 +52,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 ## Professions
 
 - **[Artists][artists]**
-- [Health Professionals][nurses] - commemorating Nurses, Doctors and other health professionals 
+- **[Health Professionals][nurses]** - commemorating Nurses, Doctors and other health professionals 
 - **[Judiciary][judiciary]** - Early Judiciary buried in Toowong Cemetery :octicons-pencil-24:
 - **[Mariners][mariners]** - Anchors Aweigh!
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
@@ -120,8 +120,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 [thin-blue-line]: thin-blue-line.md
 [sporting-personalities]: sporting-personalities.md
 [undertakers]: undertakers.md 
-[nurses]: ../assets/guides/in-their-caring-hands.pdf
-[nursesx]: in-their-caring-hands.md
+[nursesx]: ../assets/guides/in-their-caring-hands.pdf
+[nurses]: in-their-caring-hands.md
 
 [founding-fathers]: founding-fathers.md
 [notable-women]: notable-women.md

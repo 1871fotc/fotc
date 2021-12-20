@@ -23,12 +23,12 @@ We plan to experiment with publishing data as Linked Open Data and provide it:
 
 For Comma Separated Value files, a schema is provided in the Tabular Data Package.
 
-For Linked Data we are considering using the [Graves Ontology Specification - 1.0](https://rdf.muninn-project.org/ontologies/graves.html). Data about graves could be linked to data about:
+For Linked Data we are considering using the [Graves Ontology Specification - 1.0](https://rdf.muninn-project.org/ontologies/graves.html) ([GitHub](https://github.com/muninn/graves)). Data about graves could be linked to data about:
 
 - People - [FOAF Vocabulary Specification](http://xmlns.com/foaf/spec/)
     - [Organisation](https://www.w3.org/TR/vocab-org/) 
-        - [Military Ontology](http://rdf.muninn-project.org/ontologies/military.html)
-- [Biography](https://vocab.org/bio/)
+        - [Military Ontology](http://rdf.muninn-project.org/ontologies/military.html) ([Github](https://github.com/muninn/military))
+- [Biography](https://vocab.org/bio/) ([GitHub](https://github.com/iand/vocab-bio))
 - News - [rNews](http://dev.iptc.org/rNews) but [perhaps another standard is more appropriate](http://dev.iptc.org/rNews-and-other-standards)
 - [Geographic locations](https://www.w3.org/2003/01/geo/)
 - [Geographic names](http://www.geonames.org/ontology/documentation.html)
@@ -69,7 +69,7 @@ and data from:
 
 ## Data Publishing 
 
-We strive to follow the W3C [Data on the Web Best Practices](https://www.w3.org/TR/2017/REC-dwbp-20170131/).
+We strive to follow the W3C [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/).
 
 We use [Data Curator](https://www.qcif.edu.au/news/data-curator-now-in-app-stores/) to package our data into a Tabular Data Package. 
 
@@ -78,7 +78,13 @@ We are exploring tools to convert CSV data (the master) into Markdown tables for
 - [OpenRefine](https://openrefine.org)  
 - An [Atom package](https://github.com/takezoe/atom-csv-markdown) 
 
-We have not decided on a Linked Data publishing toolset yet.
+We have not decided on a Linked Data publishing toolset yet, but am aware of: 
+
+- [Swirrl](https://www.swirrl.com)
+- [Ontotext](https://www.ontotext.com)
+- [OntoRefine](https://graphdb.ontotext.com/documentation/free/loading-data-using-ontorefine.html)
+
+When we work things out, we'll look to follow the W3C [Best Practices for Publishing Linked Data](https://www.w3.org/TR/ld-bp/)
 
 ## Data Visualisation
 
