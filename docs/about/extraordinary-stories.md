@@ -29,7 +29,7 @@ In June 1866 a site of 203 acres at the base of One Tree Hill (now Mt Coot-tha) 
 
 Queensland's second Governor, Colonel Samuel Blackall, was ill and this prompted him to choose a plot the highest in the cemetery - for his grave. He died in January 1871 and was the first to be buried in the new cemetery. His impressive memorial continues to dominate the hill.
 
-Trustees were appointed to administer the cemetery in October 1871. The inhabitants of Brisbane were reluctant to use the new cemetery because of the lack of public transport and resultant higher funeral costs. In 1875 the railway was extended through to Toowong and the cemetery was officially opened on the 5th of July 1875.
+Trustees were appointed to administer the cemetery in October 1871. The inhabitants of Brisbane were reluctant to use the new cemetery because of the lack of public transport and resultant higher funeral costs. In 1875 the railway was extended through to Toowong and the cemetery was officially opened on the 5^th^ of July 1875.
 
 Although Governor Blackall was the first person buried in Toowong Cemetery, several memorials predate his grave. In 1881 the bodies of three children who died in the early 1830s (their fathers were guards in the convict settlement) were exhumed from a North Quay site and, with the original headstones, transferred to Toowong Cemetery. Around 1911 a small number of remains and memorials from the Paddington Cemetery were also removed to Toowong Cemetery.
 
@@ -143,7 +143,7 @@ Marjorie Leader Pickett was born at Fairview Guesthouse in Sandgate on the 17^th
 
 Emily Sophia ran boarding houses in her later years. The first was the Strathmore on North Quay. Then, in 1915, she took over and refurbished the Fairview at Sandgate.
 
-Emily Sophia died on the 19th of December 1923 at Kent Road, Wooloowin. Henry Tom was admitted to Dunwich Asylum in early November 1925 and died there on the 21^st^ of May 1927, his body being taken by launch to Cleveland. He is buried at Toowong with his brother Frank.
+Emily Sophia died on the 19^th^ of December 1923 at Kent Road, Wooloowin. Henry Tom was admitted to Dunwich Asylum in early November 1925 and died there on the 21^st^ of May 1927, his body being taken by launch to Cleveland. He is buried at Toowong with his brother Frank.
 
 Redael the name of the family home in Kent Road Wooloowin, is 'Leader' (Emily's maiden name) spelt backwards.
 
@@ -352,11 +352,11 @@ circa 1858 - 22 February 1930
 
 1899 - 28 September 1979
 
-Mary  was a school teacher before and after four her marriage to Samuel Kennedy. Together they had four children, three daughters and a son they named Andrew. Mary was widowed when Andrew was only eight months old. She was living and working at the Drumbie School near Armagh, Ireland. The family emigrated to Brisbane in 1865 and moved into a property in Isaac Street, Spring Hill. Mary died aged 65 on the 5th of August 1885.
+Mary  was a school teacher before and after four her marriage to Samuel Kennedy. Together they had four children, three daughters and a son they named Andrew. Mary was widowed when Andrew was only eight months old. She was living and working at the Drumbie School near Armagh, Ireland. The family emigrated to Brisbane in 1865 and moved into a property in Isaac Street, Spring Hill. Mary died aged 65 on the 5^th^ of August 1885.
 
-Andrew also became a teacher, starting as a pupil-teacher in 1870 and retiring as the Acting Under Secretary of the Department of Public Instruction in 1922. He married Anna Katherine Gripp in 1880 and the couple had ten children. The family lived at *Kingsholm* at New Farm where Andrew died on the 22nd of February 1930 aged 72.
+Andrew also became a teacher, starting as a pupil-teacher in 1870 and retiring as the Acting Under Secretary of the Department of Public Instruction in 1922. He married Anna Katherine Gripp in 1880 and the couple had ten children. The family lived at *Kingsholm* at New Farm where Andrew died on the 22^nd^ of February 1930 aged 72.
 
-Teaching was in the Kennedy family blood. Andrew and Anna's youngest child, Doris Vivian, was born at *Kingsholm* in 1899. Doris graduated from the University of Queensland with a Bachelor of Arts in 1920. She taught at Brisbane Girls Grammar School for 42 years. Doris died on the 28th of September 1979 aged 80.
+Teaching was in the Kennedy family blood. Andrew and Anna's youngest child, Doris Vivian, was born at *Kingsholm* in 1899. Doris graduated from the University of Queensland with a Bachelor of Arts in 1920. She taught at Brisbane Girls Grammar School for 42 years. Doris died on the 28^th^ of September 1979 aged 80.
 
 ### Acknowledgement
 
@@ -400,7 +400,29 @@ This story was contributed by Patrica Ramsay.
 
 1842 - 27 January 1925
 
-==to do== 
+Anders Peter Petersen-Neilsen and his wife, Emma Christina, were both born in 1842 in Tjorn, about 45 kilometres north of Goteborg in Sweden. They both came from farming families and are believed to have married in Goteborg on the 7^th^ of January 1870. A son, Carl, was born to them in Sweden later that year. 
+
+The 1870s were a time of acute distress in Sweden as the result of overpopulation and poor farm production and during that period almost one million people emigrated. Most went to the USA but quite a number came to Australia.
+
+In October 1872, Anders, Emma and toddler Carl departed from Sweden and sailed for Queensland in the ship *Lammershagen*.
+
+The *Lammershagen* was a German immigrant ship which sailed from Hamburg with a migrant complement of 112 married adults, 116 single males, 76 single females and 67 children. The passengers were principally Swedish, Danish, Norwegian and German farming people, most of whom were assisted migrants whose fares were either subsidised or fully paid for by the Queensland Colonial Government. 
+
+The voyage to Australia was a long and bitter experience. In line with the practice of the times, each passenger was allowed a ration of very basic food daily and it was a requirement that each bring several changes of clothing as laundering was permitted only at ports of call during the trip. Thirteen passengers died and 17 children were born during the voyage. Young Carl was one of those who died. He was buried at sea.
+
+On arrival in Australian waters, an outbreak of typhoid occurred among the passengers and crew, which resulted in the ship being placed in quarantine at Peel Island, Moreton Bay on the 9^th^ of January, 1873. It was during the quarantine period that a second child, Anna Caroline, was born on the 21^st^ of January 1873. The ship was finally allowed to berth in the Port of Brisbane on the 12^th^ of February 1873 and the migrant passengers were placed in a hostel at Kangaroo Point, where the family stayed for several weeks.
+
+Anders first worked for wages on a farm at Bald Hills and then went to a farm owned by a Mr Robinson on the South Pine River. It was on this farm that the Aboriginals helped them strip bark from trees to roof their house and cow bails. Quite often the Aboriginals came to the house for tobacco and flour. Later Anders leased a small farm in an area bounded by Albany Creek Road,wherehe ran the first cattle he owned. In 1889 he leased a further 37 acres situated on the South Pine River at Cash's Crossing.
+
+In those times, about once per month the family harnessed the sulky or their wagon and drove into the city of Brisbane with dressed pigs and calves for sale to an Adelaide Street butcher and produce which was sold at the markets which then stood in Roma Street.
+
+Anders purchased a farm at Samford in October 1893. The area consisted of approximately 120 hectares. He borrowed about a third of the purchase price. By now, eleven children had been born to the family of whom nine survived infancy. The family initially lived in a slab hut but in 1900 a new house was built, financed by the sale of some of the land.
+
+While the farm was only 24 kilometres from Brisbane, trips to town by sulky or wagon were somewhat of an expedition, entailing a 3am start and a return late at night. Occasionally an overnight stay at a city boarding house was necessary.
+
+Anders and Emma were pillars of the local Methodist church, subscribing to have a new church built about 100 metres from their home. The church was known as the Cedar Creek Methodist Church. The parson would drive his sulky there from Enoggera. The parson would stay the weekend with the Petersen-Neilsens while he conducted services in the church and visited the local parishioners. After Anders and Emma retired to Brisbane, the farm passed into the hands of their son. The weekend visits of the parson to the farm did not thrill the younger members of the family to the same extent and eventually Frederick gave rather generously to have the church removed to Samford township.
+
+When Anders sold the farm to Frederick on the 4^th^ of May 1915, he and Emma were 72. They moved to Paddington, next door to their daughter Emily. Emma died at the age of 82 years on the 27^th^ of January 1925 and Anders died on the 10^th^ of May 1928 aged 85.
 
 ### Acknowledgement
 
@@ -442,8 +464,8 @@ The funeral took place at Toowong Cemetery, and the respect in which John was he
 
 This story was contributed by Pamela Webster.
 
-
 --- 
+
 
 ## William James Affleck <small>(8‑49‑14)</small>
 
@@ -458,7 +480,7 @@ In 1867 George Affleck married Alice Moffat Skeldon, who was born in Edinburgh i
 
 On the 13^th^ of July 1893 William James Affleck married Maud Voller Lade. They had three children, two daughters and a son.
 
-From his humble beginning with The National Mutual in Queensland William James Affleck worked his way to the top after administrative postings in Bowenand Townsville, and then back in Brisbane. He became manager for Queensland in 1919, retaining this position with distinction until his death while on sick leave in 1932 at the age of 64. Other Afflecks had died at an even earlier age suffering from heart disease, the cause of William James Affleck's death.
+From his humble beginning with The National Mutual in Queensland William James Affleck worked his way to the top after administrative postings in Bowen and Townsville, and then back in Brisbane. He became manager for Queensland in 1919, retaining this position with distinction until his death while on sick leave in 1932 at the age of 64. Other Afflecks had died at an even earlier age suffering from heart disease, the cause of William James Affleck's death.
 
 Throughout his life Affleck had retained his links with the land by interesting himself in community affairs and being actively involved with the Royal National Agricultural and Industrial Society, the RNA, when he returned to Brisbane in 1902, from his Townsville posting. He loved horses and in his early working life he rode long distances while on insurance business. In Townsville he had been active in the local agricultural show as well as horse shows.
 
@@ -477,14 +499,37 @@ This story was contributed by Shirley Lahey.
 
 2 June 1874 - September 1965 
 
-==to do== 
+Maud Voller Lade was born on the 2^nd^ of June 1874 in Brisbane, the third of the eight children of Joseph John Lade and Mary nee Bridges, both English-born. Joseph's parents, Thomas Lade and his wife Harriet left the farms that he had managed in Kent and sailed with their three children to Moreton Bay in 1851. Their passage to Sydney on the sailing ship *Windsor* cost $120 in today's money. The Lades settled at Upper Kedron Brook on land Thomas bought for $124 in the suburb now known as Enoggera. They called their new farm and homestead *Surrenden* after the property they had lived on in Kent.
+
+The hard-working Lades prospered as farmers and fruitgrowers and Thomas Lade won prizes in the first Moreton Bay Horticultural Society's show in 1853. He, with the assistance of his son Joseph, were to distinguish themselves by becoming Queensland's first commercial wine producers and in 1862 Thomas Lade won a medal and certificate of honourable mention at the London International Exhibition. The Lades were considered to be the best authorities on wine culture in the colony.
+
+The Lades were devout Baptists. They had been closely involved with their church in Kent and in Brisbane they were foundation members of the Wharf Street Baptist Church.
+
+When Joseph married in 1869 he and his wife Mary moved further out on Sanford Road to a farm they called *Glen Retreat*. Joseph Lade late in life wrote that his family had bought this land in 1851 when *Surrenden* was purchased but there is evidence to support this date of purchase. Here Joseph planted fruit trees and grapevines while Mary managed a boot and shoe shop on the corner of George and Queen Streets. Mary appears to have been the one with the business head while Joseph was somewhat of a dreamer. As well as managing the city shop Mary bought houses, did them up and sold them.
+
+In the year or two before Joseph and Mary Lade's third child was born in 1874, Joseph wanted to increase the number of his citrus trees so he purchased and then planted seeds of oranges and mandarins. One of the latter seedlings had a distinct foliage and went on to produce a high quality fruit that became known as the Beauty of Glen Retreat mandarin, later shortened to Glen Retreat mandarin. However, its commercial success did not come until Lade had sold the Glen Retreat farm to a Mr W. H. Parker around the turn of the century. Parker actively marketed the fruit and by 1927 this mandarin had world-wide distribution.
+
+Little is known of Maud's childhood but she did attend the Normal School in Brisbane. She had a lively intelligence and was quick witted and humorous. Six weeks after her nineteenth birthday Maud married William James Affleck on the 13th of July 1893. Some of the manchester in her trousseau she bought at reduced prices as it was flood damaged. This was an aftermath of the great flood that had occurred earlier that year.
+
+William and Maud had three children, two daughters Alice Vera and Marjory, and a son Kenneth George, and four grandchildren. The marriage was a happy one.
+
+William died in 1932. He had been manager for Queensland of the National Mutual Life Association of Australia, but these were the days before life insurance offices paid generous pensions to the widows of staff officers. Maud endured some financial difficulties during her 33 years of widowhood.
+
+She lived in the large house called Ayethorne at Vulture Street, West End from the time the family returned to Brisbane from Townsville in 1902 until her death more than 60 years later. In her widowhood she let the downstairs area as a self-contained flat, and upstairs took in two paying guests to supplement her income.
+
+Maud professed to know little of her forebears, though the Lades had lived in Kent for many centuries. Some of the family had lived at Eyethorne, Kent, the name of the West End house apparently being a mis-spelling of the Kentish village. Like her husband, Maud lived her whole life in Queensland always retaining her love of the countryside and interest in rural matters.
+
+Maud and William are buried side by side in Toowong Cemetery.
+
 
 ### Acknowledgement
 
 This story was contributed by Shirley Lahey.
 
+The contributor, grand-daughter Shirley Lahey, wishes to acknowledge her debt to John Moran, whose book *In the Grip of the Grape* gives details of the Lade family's wine growing.
 
 --- 
+
 
 ## John Wood Rendall <small>(1‑51‑2)</small>
 
@@ -498,7 +543,47 @@ This story was contributed by Shirley Lahey.
 
 circa 1800 - June 1883
 
-==to do== 
+John Wood Rendall was born in Upper Inkster, Orkney Islands, Scotland, to Peter Rendall and Jane Wood, who were small farmers.
+
+In 1846 he for the Portuguese colony of Azores, where he was employed as tutor of languages, to the Governor's children. There he met Letitia Amelia Hewitt, a ward of the Governor. Letitia Amelia's mother and the Governor's wife were friends and Amelia (as she was later known) had been sent for health reasons from her home in Worcester, England, arriving the same year as John. She was born in 1829 to Joseph Hewitt and Mary Harris.
+
+John Rendall and Amelia Hewitt were married by the Chaplain of the British Protestant Church, City of Ponta Delgarda, Island of St. Michael, on the 13^th^ of June 1819.
+
+One year later, also in Ponto Delgarda, Amelia's mother married for the second time to a Portuguese, Emmanuel Inez Rodrigues. When she was widowed again, Mary emigrated to join her daughter, who by this time was in Brisbane. Mary arrived on the 7^th^ of January 1877. She had been there only seven years when she died in 1883. As well as Amelia, she had a surviving son, Joseph, and a deceased girl from each of her marriages.
+
+Meanwhile, back in the Azores, John and Amelia had two sons, Joseph Hewitt, born on the 24^th^ of April 1859 and Henry Hewitt, born on the 15^th^ of September 1851. (All their children were given the name 'Hewitt'.)
+
+Eight years after their arrival in the Azores, they returned to England, to embark on the *Calphumia* which sailed for Australia, on the 5^th^ May 1853. Amelia was pregnant with their third child, Mary Jane Hewitt, who was born on board the ship in Melbourne Harbour on the 19^th^ of August 1853. They continued on to Sydney, where John's first teaching post was Campsie, now Trevellyn, in the Hunter Valley. He opened the school there in October. He was well regarded; an Inspector recorded that "*his teaching was very superior.*" Their fourth child, John Hewitt, was born at nearby Paterson on the 11^th^ of September 1855.
+
+John was transferred to Drayton, near Toowoomba, in August 1856. They were at Drayton for three years until Queensland separated from New South Wales in 1859. Ellen Hewitt was born there on the 20^th^ of October 1858. A son, Nugent, had been born and died the year before.
+
+The high standard of John's teaching was recognised at this school also. Before he left, a public testimonial described him as "*as one of the most able teachers in Queensland.*"
+
+Following Separation John was appointed the first headmaster of the newly built Normal School, making him the first Headmaster of the first State School in the new state of Queensland. It opened on the 2^nd^ of April 1860 and John remained there till his death on 27^th^ of November 1873, aged 45 years of age.
+
+Amelia was left with ten children, five more being born at Moorland Villa, on the site of what is now the Wesley Hospital. They were Letitia Amelia Hewitt, October 1860, Frank Hewitt, August 1862, Anne Hewitt, July 1864, Florence Hewitt, January 1866 and Charles Hewitt, December 1868. 
+
+Throughout his career John attracted official praise for his teaching, discipline and approachability, and he made an indelible mark on Queensland's educational history. The pupil-teacher training system was inaugurated under his direction.
+
+In March 1872 "*after 14 years unremitting mental labour which severely taxed his constitution,*" he became Acting Inspector of the Northern Districts examining all the primary schools north of Brisbane as far as Cardwell.
+
+He returned to the Normal School in September of that year and shortly afterwards was presented with a beautiful timepiece, as a testimony to his worth and ability. The inscription on a silver plate attached to the front of the clock reads: "*Presented to John Rendall, Esq. By the teachers and pupils of the Normal School, Brisbane 1873*". It is now in the possession of John's great-grandson.
+
+John took leave of absence and after an illness of two weeks, the last five days of which he was in severe pain, he died at his home Moorland Villa on the 27^th^ of November, 1873. The school was closed for the rest of the week as a mark of respect and teachers and pupils alike "*were cast into gloom*".
+
+A monument to his memory was erected over his grave by pupils and friends connected with the public schools in Brisbane.
+
+He was buried in the Presbyterian Cemetery at Paddington, Brisbane. After it was closed it fell into disrepair. In 1911 an Act of Parliament enabled the resumption of such cemeteries and allowed them to be redesignated for public use. Relatives had twelve months to arrange for re-interment. John was re-interred in Toowong Cemetery on the 16^th^ of May 1913.
+
+A plaque enclosed in three stones from the old Normal School is incorporated in the wall of Anzac Square Building, Edward Street, Brisbane, commemorating the school and John Rendall's association with it.
+
+John and Amelia were caring persons, sympathetic to the needs of those worse off than themselves. During the financial crash of 1866 when government funds were cut off, they fed many people who came to them for help with milk from their cow and a bowl of potatoes on their front lawn, although being almost as impoverished themselves.
+
+John, with another teacher, Randall MacDonnell, intervened with the Government on behalf of such starving people to get them some relief. He was also a guiding force in the effort to establish a Teachers Union. John was very tolerant in regard to religion.
+
+Following John's death, Amelia and her family supported themselves by operating a series of boarding houses, one of which, *Cadarga*, was in Milton. Following this she had premises in Gregory Terrace, *Holyrood* later owned by the Country Women's Association.
+
+Amelia lived to the ripe old age of 93, spry to the last, and living to see the birth of the first of her great-grandchildren.
 
 ### Acknowledgement
 
@@ -511,7 +596,8 @@ This story was contributed by Ruth Inglis.
 
 1837 - 10 May 1920
 
-==to do== 
+Alfred Roberts was born in 1837 in Putney, London,
+England and he arrived in Queensland about 1860. In 1872 he began a horse-drawn omnibus line which operated between Eagle Street in the city and the present site of the Taringa shopping centre. The business was lost when the stables burned down about 1893, and Roberts returned to farming at Moggill. He died on the 10th of May 1920.
 
 --- 
 
@@ -536,7 +622,10 @@ This story was contributed by Margaret Klaassen.
 
 1843 - January 1905
 
-==to do== 
+Robert Arthur Johnstone was born at Richmond, Van Diemen's Land in 1843. He was a grandson of George Johnston. He was educated in Scotland, then returned to work with stock in Queensland in 1865. In 1868 he became manager of the first sugar plantation at Bellenden Plains, north of Cardwell. He was appointed sub-inspector of native police for Cardwell in 1871 and his patrols took him into unexplored areas, investigating reports of shipwrecks, murders and massacres. His response to Aboriginal hostilities was sometimes considered extreme. In 1873 he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River was named after him, as were a freshwater crocodile and a species of freshwater turtle. In 1876 he named the Barron River. His exploration led to the establishment of Cairns and Innisfail.
+
+In 1881 he became the first police magistrate at Winton. He also served at Bundaberg, Howard, Maryborough and
+Beenleigh before moving to Toowong, where he died in 1905. He had nine children, of whom three sons and four daughters survived him.
 
 ### Acknowledgement
 
@@ -561,7 +650,7 @@ After Richard died Elizabeth married his younger brother William, who was also a
 
 Such marriages were not uncommon during the Victorian period. With little social welfare available and employment opportunities for women few, many remarried, often to men connected with their late husband.
 
-Elizabeth died on the 6th of May 1901, aged 72 years. Elizabeth's second husband, William, and their children
+Elizabeth died on the 6^th^ of May 1901, aged 72 years. Elizabeth's second husband, William, and their children
 Caroline, Albert and Louise are buried in the family grave at Toowong Cemetery.
 
 ### Acknowledgement
@@ -575,7 +664,13 @@ This story was contributed by Keith Bowerman.
 
 10 September 1834 - 8 March 1912
 
-==to do== 
+John Melville was born at Boreham Wood, Hertfordshire, England on the 10^th^ of September 1834. In 1848 he came with his parents under the sponsorship of Dr John Dunmore Lang, to Queensland. They left England in the ship Fortitude on the 4th of September arriving in Moreton Bay during January 1849. In 1851 when the gold rush started in Victoria, John went to try his luck but returned to Brisbane at Christmas 1854 to visit his family. He then met Sir (then Mr) A. C. Gregory and was asked to join his Great Northern exploration party for the purpose of exploring the Victoria and Albert Rivers, an invitation which he accepted.
+
+The party consisted of 18 members, including Augustus C. Gregory as Commander, his brother, H.C. Gregory as Assistant Commander and Ferdinand von Muller, who was a botanist.
+
+They left Brisbane on the 12^th^ of August 1855 in two vessels, The Monarch and the Tom Tough, and the experiences related by John were always a source of pleasure to his friends who were privileged to hear them. He was the last surviving member of this expedition. After returning from the expedition John was engaged in survey work until 1871, when he acted as chainman to Mr George Phillips, who had been engaged to survey part of the present cemetery at Toowong. In 1873 John was appointed overseer of the cemetery by the Trustees, the position he held for 38 years. During which time he endeared himself to all by his kindness and courtesy. He passed away at the age of 77 years and was survived by his widow, two sons and three daughters.
+
+His grand-daughter, Mrs Joyce Glassop, remembers the house where John Melville and his family lived. It was later demolished when the Toowong Bus Depot was built.
 
 ### Acknowledgement
 
@@ -600,7 +695,7 @@ circa 1912 - 11 January 1926
 
 circa 1913 - 1 July 1936
 
-The Chapman family tragedy unfolded over the number of years. The first death in the family was that of David Chapman, who died on the 20th of October 1923, aged 17. Less than two years later, on the 12th of February 1925, his brother, Percival, died aged 15. Almost a year later, yet another brother, Eric, died on the 11th of January 1926 aged 14. No more children died for ten years, until their sister, Margaret, died on the 1st of July 1936 aged 23.
+The Chapman family tragedy unfolded over the number of years. The first death in the family was that of David Chapman, who died on the 20th of October 1923, aged 17. Less than two years later, on the 12th of February 1925, his brother, Percival, died aged 15. Almost a year later, yet another brother, Eric, died on the 11th of January 1926 aged 14. No more children died for ten years, until their sister, Margaret, died on the 1^st^ of July 1936 aged 23.
 
 What could have caused this tragic string of deaths? According to a family member, they all died of lead poisoning. After the rain, the children would lick the water off the railings because it tasted sweet. In those days, paint containing lead was widely used. The family was oblivious to the danger for years.
 
@@ -619,7 +714,17 @@ This story was contributed by Ron Gibson.
 
 15 July 1856 - 10 October 1936 
 
-==to do== 
+Robert Wightman was born on the 3^rd^ of February 1853 at Tradeston, Scotland. He was an architect and a member of the Plantation U. F. Church for forty years and held all of the offices of the congregation during that time.
+
+Robert married Jeanie Greenlees Dunsmore on the 12th June of 1883. Her father was Henry Dunsmore and her mother was Agnes Carruth. Jeanie was born on the 15^th^ of July 1856 in Glasgow, Scotland.
+
+Robert entered the Town Council of Govan, Scotland in 1893 as a representative of the sixth ward, and continued as such for sixteen years. Shortly after his election he was promoted convener of the Watching and Lighting Committee, and in this capacity initiated the movement which resulted in the Council deciding to manufacture electricity for the use of the burgh. His wife, Jeanie, was said to have turned on the first electric light in Govan.
+
+Robert also served terms representing the Govan Council on the Combination Hospital Board for two terms, while he filled the Magistrates chair for three years very successfully.
+
+Robert and Jeanie with two of their sons, Henry and Robert, and their daughter Jeanie migrated to Australia on the *S.S. Omrah* in 1911. Their eldest son Thomas was already a resident here. The family resided at Ascog Terrace, Toowong. Robert became a member of the committee for the management of Toowong Presbyterian Church. Robert Anderson Wightman died on Christmas Day 1921 at his home at Toowong.
+
+Jeanie Greenlees Wightman died on the 10^th^ of October 1936 at the age of 80 years. She was knocked down by a truck one Saturday morning while shopping in Toowong. She was buried in the same grave as her husband.
 
 ### Acknowledgement
 
@@ -632,14 +737,16 @@ This story was contributed by Dorothy Collyer.
 
 June 1839 - January 1917
 
-==to do== 
+Emma Miller is greatly honoured in Brisbane. The parkland located between the Roma Street Station and Albert Street Uniting Church carries the name *Emma Miller Place* and is noted for public oratory. There is a statue of her in King George Square, a white marble bust in the Trades Hall in Peel Street, South Brisbane, and a memorial headstone in Toowong Cemetery.
+
+A feature of some of these marks of honour is the inscription: "*The world is my country, to do good is my religion*". This was the motto of Emma Miller. She was a women whose tremendous moral courage enabled her to endure the contempt and ridicule of the privileged in her lifelong drive to counter poverty and oppression wherever she encountered it.
 
 ### Acknowledgement
 
 This story was contributed by Noni Malone.
 
-
 --- 
+
 
 ## William Ernest Schleusener <small>(18‑192‑2)</small>
 
