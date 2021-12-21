@@ -46,17 +46,19 @@ Where practical, we link to authoritative data sources, rather than duplicate da
 Data we would like to link to includes: 
 
 - Geographic Locations (latitude, longitude, WGS84 datum)
-    - Owned by Brisbane City Council 
+    - Owned by Brisbane City Council (at least in part)
         - Cemetery boundary (polygon)
         - Portion boundaries (polygon)
         - Section boundaries (polygon)
-        - Graves (point)
+        - Graves (point) - capture graves listed in walks as a minimum
         - Cemetery Road encasements (polygon)
+        - Surrounding Road encasements (polygon)
         - Cemetery Building outlines (polygon)
-        - Features of Interest (polygon or point)
-        - Information Signs (point)
-        - Waterways (polygon)
+        - Features of Interest (polygon or point) - Symbology display, honour board
+        - Information Signs (point) - grave-side, walks, general information
+        - Waterways (polygon) - label Langsville Creek. Consider showing old dam.
         - Bridges and Culverts (polygon)
+        - Contours (polygon) - these will help create a mobility map
     - Not currently captured    
         - Trees (especially weed trees and those destroying graves) (point)
         
