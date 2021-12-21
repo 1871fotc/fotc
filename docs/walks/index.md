@@ -42,10 +42,9 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Lest We Forget][lest-we-forget]** - remembering the men and women who gave their lives in service to their country
 - **[Lest We Forget: Naval][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
 - **[Men of the Royal Navy][rn]** 
-- **[Scots in the Australian Imperial Force in World War One][scots-ww1]** :octicons-pencil-24:
+- **[Scots in the Australian Imperial Force in World War One][scots-ww1]** 
 - **[1919 Soldiers][1919-soldiers]**  
 - **[Conflict and Compassion](conflict-and-compassion.md)** 
-
 
 <!-- - **[Toowong Cemetery Remembrance Walk][remembrance-walk]** - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
 
@@ -79,16 +78,17 @@ The Friends of Toowong Cemetery have researched and published a large collection
 ## Themed walks
 
 - **[20/20 Vision](2020-vision.md)**  
-<!-- - Brisbane City Council Trail 1 [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. - Brisbane City Council Trail 2  [Brisbane City Council Trail 2][bcc-walk-2] -->
-- **[Brisbane Open House][brisbane-open-house]** :octicons-pencil-24:
+- **[Building Brisbane][brisbane-open-house]** - a walk recalling the builders of early Brisbane
 - **[Erected by Friends and Family](erected-by-friends.md)** :octicons-pencil-24:
 - **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
-<!-- - One Day: New Years' Day -->
 - **[Mothers](mothers.md)** :octicons-pencil-24:
 - **[Rich man, Poor man](rich-man-poor-man.md)**  :octicons-pencil-24:
 - **[Propectors](prospectors.md)** :octicons-pencil-24:
 - **[Steam](steam.md)** 
 - **[Taken before their time](taken-before-their-time.md)** :octicons-pencil-24:
+<!-- - Brisbane City Council Trail 1 [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. - Brisbane City Council Trail 2  [Brisbane City Council Trail 2][bcc-walk-2] -->
+<!-- - One Day: New Years' Day -->
+
 
 ## Portion walks 
 

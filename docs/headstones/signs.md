@@ -111,6 +111,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
 <!-- PPCM Permanent President Courts Martial https://www.awm.gov.au/learn/glossary/p -->
 
+<!-- Thomas Dempster 18‑17‑22/23 United Operative Stonemasons Society of Queensland (UOSMS) -->
 
 ## Today
 
