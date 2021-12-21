@@ -80,8 +80,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[20/20 Vision](2020-vision.md)**  
 - **[Building Brisbane][brisbane-open-house]** - a walk recalling the builders of early Brisbane
 - **[Erected by Friends and Family](erected-by-friends.md)** :octicons-pencil-24:
-- **[One Day: Christmas](christmas.md)** :octicons-pencil-24:
-- **[Mothers](mothers.md)** :octicons-pencil-24:
+- **[Christmas](christmas.md)** 
+- **[Mothers](mothers.md)** 
 - **[Rich man, Poor man](rich-man-poor-man.md)**  :octicons-pencil-24:
 - **[Propectors](prospectors.md)** :octicons-pencil-24:
 - **[Steam](steam.md)** 
