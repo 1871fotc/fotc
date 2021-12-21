@@ -44,7 +44,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Men of the Royal Navy][rn]** 
 - **[Scots in the Australian Imperial Force in World War One][scots-ww1]** :octicons-pencil-24:
 - **[1919 Soldiers][1919-soldiers]**  
-- **[Conflict and Compassion](conflict-and-compassion.md)** :octicons-pencil-24: 
+- **[Conflict and Compassion](conflict-and-compassion.md)** 
 
 
 <!-- - **[Toowong Cemetery Remembrance Walk][remembrance-walk]** - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
@@ -53,12 +53,12 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 - **[Artists][artists]**
 - **[Health Professionals][nurses]** - commemorating Nurses, Doctors and other health professionals 
-- **[Judiciary][judiciary]** - Early Judiciary buried in Toowong Cemetery :octicons-pencil-24:
+- **[Judiciary][judiciary]** - Early Judiciary buried in Toowong Cemetery 
 - **[Mariners][mariners]** - Anchors Aweigh!
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
 - **[Police][thin-blue-line]** - remembering Queensland Colonial Police
-- **[Print Media Identities of Early Brisbane][printers]** :octicons-pencil-24:
-- **[Sporting Personalities][sporting-personalities]** :octicons-pencil-24:
+- **[Print Media Identities of Early Brisbane][printers]** 
+- **[Sporting Personalities][sporting-personalities]** 
 - **[Undertakers][undertakers]**
 
 ## Local Identities

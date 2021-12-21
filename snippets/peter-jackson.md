@@ -10,6 +10,6 @@ Career 1882-1899. 103 Bouts. 42 Wins, 8 Draws, 50 No Decisions.
 
 Peter's headstone is one of a handful that have the deceased's face chiselled on it. It is unusual in that it is the biggest of this kind in the Cemetery. The headstone is an Altar Tomb style, with a Lion overseeing the grave (the only Lion in the cemetery).
 
-![](../assets/peter-jackson.jpg){ width="40%" }
+![](../assets/peter-jackson.jpg){ width="26%" }  ![](../assets/peter-jackson-headstone.jpg){ width="66.3%" }
 
 *<small>[Boxer Peter Jackson who came to live in Queensland from the West Indies, ca. 1880s](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool116252) - State Library of Queensland </small>*
