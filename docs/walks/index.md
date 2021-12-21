@@ -43,7 +43,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Lest We Forget: Naval][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
 - **[Men of the Royal Navy][rn]** 
 - **[Scots in the Australian Imperial Force in World War One][scots-ww1]** :octicons-pencil-24:
-- **[1919 Soldiers][1919-soldiers]**  :octicons-pencil-24:
+- **[1919 Soldiers][1919-soldiers]**  
 - **[Conflict and Compassion](conflict-and-compassion.md)** :octicons-pencil-24: 
 
 
