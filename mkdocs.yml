@@ -27,20 +27,20 @@ theme:
     - scheme: default
       primary: deep-purple
       accent: purple
-      toggle:
+#      toggle:
 #        icon: fontawesome/solid/sun
-        icon: octicons/sun-16
+#        icon: octicons/sun-16
 #        icon: material/cross-celtic
-        name: Switch to dark mode
+#        name: Switch to dark mode
 #    - media: "(prefers-color-scheme: dark)"
-    - scheme: slate
-      primary: purple
-      accent: purple
-      toggle:
+#    - scheme: slate
+#      primary: purple
+#      accent: purple
+#      toggle:
 #        icon: fontawesome/solid/moon
 #        icon: octicons/moon-16
-        icon: material/ghost
-        name: Switch to light mode
+#        icon: material/ghost
+#        name: Switch to light mode
   icon:
     admonition:
       question: fontawesome/solid/hand-holding-heart
