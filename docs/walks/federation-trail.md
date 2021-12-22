@@ -18,7 +18,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 ![](../assets/federation-trail-map.png){ width="50%" } 
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     - Start behind [Canon Garland Place](../cemetery/visit.md#when-you-arrive) in Emma Miller Avenue.  
     - Enter the portion on the path between the graves of Pethebridge and Thurlow. 
@@ -32,7 +32,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 --8<-- "snippets/arthur-rutledge.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue up the hill until you reach the Uhl family monument. Turn right and follow the path until you reach a wide path sloping from the top. Turn left and walk directly towards the Blackall Monument. Here you will find the Federation Pavilion (Map Number 2.)
 
@@ -42,7 +42,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 The Commonwealth of Australia was inaugurated under a pavilion erected for the occasion in Sydney’s Centennial Park. [Our pavilion](../about/federation-pavilion.md), designed by Brisbane architect Ian Sinnamon, honours the Queensland delegates to the 1891 National Australasian Convention who are interred nearby. It was funded by the Federation Community Projects Program and construction was arranged by the Brisbane City Council Cemeteries Division.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     The pavilion is adjacent to the grave of Sir Samuel Griffith. (Map Number 3.)
     
@@ -50,7 +50,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 --8<-- "snippets/samuel-walker-griffith.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Proceed along Federation Avenue to Map Number 4. The next two graves are on the right.
     
@@ -58,7 +58,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 --8<-- "snippets/john-donaldson.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Proceed along Federation Avenue to Map Number 5. The next grave is on the right.
     
@@ -66,7 +66,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 --8<-- "snippets/thomas-macdonald‑paterson.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Retrace your steps along Federation Avenue then return down the hill to the starting point.
 

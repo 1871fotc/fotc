@@ -15,7 +15,7 @@ hide:
 -->
 
 <!--
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Starting point
     Walking directions to first headstone... is the grave of...
@@ -30,7 +30,7 @@ Valentine Edward Spendelove, the eldest son of Benjamin Spendelove and Ann (née
 They had six children, including three born in Queensland. The extended family arrived in Brisbane on 8 April 1885, aboard the *Merkara*. Valentine, a resident of Deighton Street, Dutton Park, died just after 10pm on 1 June 1904 at his work, the Eureka Sanitary Works, Boggo Road, South Brisbane.
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions to next headstone... is the grave of...
     

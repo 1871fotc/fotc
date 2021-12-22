@@ -7,7 +7,7 @@ hide:
 # Conflict and Compassion 
 
 <!--
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Starting point
     Walking directions to first headstone... is the grave of...
@@ -22,7 +22,7 @@ hide:
 Born in Newcastle 1892, enlisted Gin Gin Queensland at 23 year of age. Records say he was a labourer. Next of Kin was his Mother, Sarah Elizebeth Gyler née Holden.
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions to next headstone... is the grave of...
     

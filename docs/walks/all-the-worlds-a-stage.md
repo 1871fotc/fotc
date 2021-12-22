@@ -8,7 +8,7 @@ hide:
 **Actors and performers buried in Toowong Cemetery**
 
 <!--
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     - walking directions
     
@@ -25,7 +25,7 @@ hide:
 
 <!-- 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -37,7 +37,7 @@ hide:
 
 <!-- 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -54,7 +54,7 @@ hide:
 
 <!-- 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -72,7 +72,7 @@ hide:
 
 <!-- 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -84,7 +84,7 @@ hide:
 
 <!-- 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -96,7 +96,7 @@ hide:
 
 <!-- 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -109,7 +109,7 @@ hide:
 
 <!-- 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     

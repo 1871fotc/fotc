@@ -18,7 +18,7 @@ The allegorical figure, Hope, is often shown holding an anchor. Anchors may be s
 
 <!--
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     - walking directions
     
@@ -32,7 +32,7 @@ William John Harrhy, aged 31, a sailor on HMS Dauntless, drowned in the Brisbane
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -46,7 +46,7 @@ Jessie Blanche Prentice, the daughter of George (Jun.) and Jessie Lacy Prentice,
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -60,7 +60,7 @@ Henry Pethebridge, the son of William Pethebridge and Maria Lander, was the Insp
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -74,7 +74,7 @@ George was for many years the Superintendent Engineer to the Australasian Steam 
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -90,7 +90,7 @@ William Smith and his ten-month old daughter died within two months of each othe
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -104,7 +104,7 @@ Charles Stewart Thow was the son of Alexander Thow and Elizabeth Smith. He died 
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -118,7 +118,7 @@ Three generations of David Muirs are buried in this grave. David was a shipwrigh
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -132,7 +132,7 @@ Tom, the son of John Johnson and Mary Huet, died on 2 October 1912. He was the f
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -150,7 +150,7 @@ William’s son and namesake was said to be the first Queensland-born sailor to 
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -166,7 +166,7 @@ There was a mix up in the identification code signal of the ship and the battery
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -190,7 +190,7 @@ He held a Masters Licence and worked on bay and river ships commanding the Fanny
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     

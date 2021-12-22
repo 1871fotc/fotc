@@ -32,7 +32,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     - Start behind Canon Garland Place in Emma Miller Avenue. 
     - walking directions
@@ -45,7 +45,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions 
               
@@ -56,7 +56,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 --8<-- "snippets/george-edmondstone.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -68,7 +68,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -80,7 +80,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -93,7 +93,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -105,7 +105,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -117,7 +117,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -131,7 +131,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -143,7 +143,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -155,7 +155,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -167,7 +167,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
               
@@ -179,7 +179,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - needs picture
               
@@ -191,7 +191,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     At this point you can either: 
     
@@ -209,7 +209,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 --8<-- "snippets/william-macnaughton-galloway.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     - Retrace your steps back to the starting point
 

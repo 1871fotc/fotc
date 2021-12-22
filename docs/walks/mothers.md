@@ -15,7 +15,7 @@ hide:
 -->
 
 <!--
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Starting point
     Walking directions to first headstone... is the grave of...
@@ -33,7 +33,7 @@ The couple had four sons and three daughters. The Moffat's seven children were F
 Elizabeth died at her residence, *Crandart*, Maryvale Street, Toowong on Friday 3 December 1920.
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions to next headstone... is the grave of...
     

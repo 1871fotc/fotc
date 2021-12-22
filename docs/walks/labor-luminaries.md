@@ -8,7 +8,7 @@ hide:
 
 **A walk recognising people involved in the Labor movement.**
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     - Start behind [Canon Garland Place](../cemetery/visit.md#when-you-arrive) in Emma Miller Avenue. 
     - Walk North towards William Brown Avenue (previously 14th Avenue).
@@ -18,7 +18,7 @@ hide:
 
 --8<-- "snippets/emma-miller.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - :fontawesome-solid-walking:{ .deep-purple } Walk up the steep grass path that leads directly to the Governor Blackall Memorial, the largest monument at the top of the hill
     - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk, drive or walk up Walter Hill Drive. When you come to the Shelter Shed at the top of the hill, take a sharp right turn into Federation Avenue and park on the edge of the road at the turning circle at the end.
@@ -28,7 +28,7 @@ hide:
     
 --8<-- "snippets/thomas-glassey.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - Continue to walk down 15th Avenue to and  stop at 11‑51‑3, on your left, where you'll find the 3 graves close to each other. 
     
@@ -44,7 +44,7 @@ hide:
 
 --8<-- "snippets/anderson-dawson.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - Continue to walk down 15th Avenue. Three rows before the Shelter Shed, on your left, stop at 11‑76‑12/13. 
 
@@ -52,7 +52,7 @@ hide:
 
 --8<-- "snippets/david-bowman.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - Continue past the Shelter Shed, walking North West along Dr. Lillian Cooper Drive (Boundary Road), on your left, stop at the Forgan-Smith grave, 8‑25‑20/21.
     - On the opposite side of the road you'll find the Gillies grave, 18‑106‑20.
@@ -68,7 +68,7 @@ hide:
 
 --8<-- "snippets/william-neal-gillies.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - :fontawesome-solid-walking:{ .deep-purple } Walk down the row, across the gully, and across 8th Avenue to the Shelter Shed.
     - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk down the hill, return to your car and drive down Federation Avenue back to the Shelter Shed, then contine on Dr. Lillian Cooper Drive. Turn right into 9th Avenue, then right into Pat Hill Drive and park near the Shelter Shed. 
@@ -82,7 +82,7 @@ hide:
 
 *<small>[Edward Michael Hanlon, premier of Queensland, addressing the Legislative Assembly on the occasion of the Industrial Law Amendment Bill, 1948](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21217956320002061) - State Library of Queensland </small>* 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - Six graves on you'll find the Hoolan family.
 
@@ -90,7 +90,7 @@ hide:
 
 --8<-- "snippets/john-hoolan.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - Walk back to the Shelter Shed, turn left into Charles Heaphey Drive (previously 8th Avenue). 
     - Before you get to Elizabeth Dale Walk, on your right, and almost to the end of the row, near the gully, you'll find Albert Whitford.
@@ -99,7 +99,7 @@ hide:
 
 --8<-- "snippets/albert-edward-victor-whitford.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - Continue along Charles Heaphey Drive and return to your starting point. 
 

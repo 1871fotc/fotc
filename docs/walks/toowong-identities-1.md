@@ -14,7 +14,7 @@ This heritage walk was conceived as part of commemorative activities. It feature
 
 [![](../assets/toowong-identities-1-map.png){ width="40%" }](../assets/toowong-identities-1-map@2x.png)
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Commencing at the flagpole, walk behind the Amenities Block and cross Emma Miller Avenue. Head the path which separates Portions 9 and 13. In the second row to the right, behind the large white Petrie Family grave is the grey granite obelisk of...
 
@@ -24,7 +24,7 @@ The first member of his family born in Australia in 1854, Andrew Lang Petrie rel
 
 --8<-- "snippets/john-petrie-and-sons-advertisement.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Immediately behind the is the family grave of...
 
@@ -32,7 +32,7 @@ The first member of his family born in Australia in 1854, Andrew Lang Petrie rel
 
 George and family migrated from Croyde, Devon in 1880 and made their residence at Jonesville, Norwood St, Toowong. Formerly, George had been a sea captain, but supported his family by being a grave digger at Toowong Cemetery. He and his family were active members of the Brethren Church.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Proceed one section further up and to the left a few graves in is the ornate white marble monument of the...
 
@@ -40,7 +40,7 @@ George and family migrated from Croyde, Devon in 1880 and made their residence a
 
 Irishman William John Munce died at his Toowong home Caltura in 1892 aged 77. Caltura, believed to be located at 82 Jephson Street, was named after the Ceylonese birthplace of his wife, Elizabeth who died at Sandgate in 1901. One of their daughters, Ada Kate, never married and died at Cultura in 1944 aged 78.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Diagonally across the path on the right is the grave of ...
 
@@ -52,7 +52,7 @@ Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen,
 
 *<small>[High Street, Toowong, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220078440002061) - State Library of Queensland </small>*
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue straight up the path passing eight rows of graves until you come to, on the left, the obelisk marking the grave of ...
 
@@ -60,7 +60,7 @@ Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen,
 
 Robert came to the Colony of Queensland aboard the Fortitude in January 1849. He bought land in 1852 and built Lang Farm which stretched from the hilly part of Indooroopilly Road towards Jack Cook Park and down to the River. He cleared the pine trees and vines growing along Toowong Creek, growing oranges, cabbages, grapes, mulberries and olives. Land Farm was bought by Richard Gailey, who built his mansion Glen Olive on the riverbank. Robert was appointed to the first Toowong Shire Council in 1880. He died on 16 April 1893 aged 88.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continuing left along the same row you will come to ...
 
@@ -68,7 +68,7 @@ Robert came to the Colony of Queensland aboard the Fortitude in January 1849. He
 
 Henry landed in Brisbane aboard the Waterloo on 7 January 1850. He farmed maize, lucerne and fruit on land stretching west from the Regatta Hotel. Henry was appointed to the first Toowong Shire Council in 1880. He died on 18 February 1903 aged 82.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Directly ahead of the Payne grave is ...
 
@@ -80,7 +80,7 @@ After returning from the expedition Melville was engaged in survey work until 18
 
 The Melvilles lived in a house, later demolished, on part of the cemetery reserve where the bus depot is now. John died aged 77 on 8 March 1912.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Return to the main path. Look across to the right towards the centre of portion 13.
 
@@ -88,7 +88,7 @@ The Melvilles lived in a house, later demolished, on part of the cemetery reserv
 
 Henry was a musician and violin maker who established a music business in George Street in the City around 1866. The family lived in a residence above the shop. Nine children were born to Henry and Hannah there. Some time later, the family moved to Glen Road. Henry was elected to the Toowong Shire Council in February 1881. One of their sons, Alfred, carried on the business as H. Sleath and Son. Henry was buried on 22 March 1918. Sleath Street, near the Cemetery, off Frederick Street, was named after Henry.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Also in the centre of portion 13 is ...
 
@@ -96,7 +96,7 @@ Henry was a musician and violin maker who established a music business in George
 
 James was elected to the Toowong Shire Council in 1885. He was described by contemporary J. B. Fewings as *“an intelligent and shrewd man of business”*. A street which runs off Milton Road is named after him. He died on 17 January 1904 aged 51.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continuing up the path until you come to the small sandstone obelisk of ...
 
@@ -108,7 +108,7 @@ A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand ho
 
 *<small>[St. Thomas' Church Toowong, looking from Burns Road, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220179080002061) - State Library of Queensland </small>*
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continuing up the hill until the path splits, turn left and a few graves down is the grave of...
 
@@ -116,7 +116,7 @@ A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand ho
 
 Fewings’ memoirs Arcadian Simplicity, written in 1892, described life in Toowong from the 1860s. He lived at Karslake, on Sherwood Road, near Dovercourt. He was headmaster of the Petrie Terrace School for nearly 30 years before moving to the headship of the Fortitude Valley School, which he held until his retirement in 1903.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Cross straight across the path and head in two sections until you reach the sarcophagus‑style monument to...
 
@@ -137,7 +137,7 @@ assets/sidney-house-toowong.pdf
 
 -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Head straight up the hill until you reach cross‑mounted headstone of...
 
@@ -145,7 +145,7 @@ assets/sidney-house-toowong.pdf
 
 Arthur arrived from Ireland in 1838 aged 19, spending his early years on properties in New England before moving to Queensland in 1861. Entering the Legislative Assembly in 1866, achieving Ministerial Positions in Lands, Works, Public Instruction becoming Colonial Secretary and Premier from 1870—1874. From 1881—1898 he was President of the Legislative Council. Palmer was a proprietor of the Brisbane Courier and a Trustee of the Queensland Museum. The Palmer family lived at Easton Gray on Stanley Terrace.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Pass the Blackall Monument until you reach, on the left, the wreath‑mounted obelisk of...
 
@@ -155,7 +155,7 @@ William, a member of the Jireh Baptist Church, Fortitude Valley, was the first m
 
 Richer Street, on the North West boundary of Toowong Cemetery, is named after William Richer.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Cross the road and head down the slope until you come across the broken column marking the grave of ...
 
@@ -169,7 +169,7 @@ The Siemon family, which included six children, lived at Ravensfield on Coronati
 *<small>[Ravensfield, home of the Siemon family, in River Road now Coronation Drive, Toowong, 1911](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220239800002061) - State Library of Queensland </small>*
 -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Head one section back towards the Blackall Monument and one section down the slope. The Watson Family headstone has been laid down. 
 
@@ -181,7 +181,7 @@ Archibald was the Chairman of the Toowong Fire Brigade, which had built a [fire 
 
 *<small>[Early view of the Royal Exchange Hotel, Toowong, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220193590002061). The hotel and former fire station were situated in High Street, Toowong. The Jephson St Fire Station replaced the High Street Fire Station and was closed on 2 February 1981. — State Library of Queensland. </small>*
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Head to the lower end of the section and follow the row of trees towards Frederick Street. Turn right into the row which contains the large, white, ornate monument of...
 
@@ -195,7 +195,7 @@ In 1922, when Robert Philp – by then Sir Robert – died, he was buried beside
 
 The last burial in this grave took place in 1962 when Robert and Jessie’s eldest daughter Isabella Mary (known as May) died. She was 83 and had never married, though she had been engaged to Campbell Cowley from another Toowong family. From the age of 11, when her mother died, May looked after her younger brothers and sisters and later their children and grandchildren. She had a great interest in education, and was a benefactor to institutions like the University as well as providing books and cultural experiences for her extended family. Country nieces stayed with “Aunty May” to attend high school in Brisbane. She lived at Mallow until her death, and left the home and remaining grounds to BBC.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue up the same row until you see on the right the sarcophagus of...
 
@@ -207,7 +207,7 @@ The well‑known explorer Gregory became the first President of the Toowong Shir
 
 *<small>[Sir Augustus Charles Gregory lying in state, Brisbane, 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool73174) - State Library of Queensland </small>*
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Return to the main path which separates Portions 13 and 14 and head down the hill to the bottom. As you curve around to the right, in the front row of potion 13 is the grave of...
 

@@ -12,7 +12,7 @@ hide:
 
 <!--
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Starting point
     Walking directions to first headstone... is the grave of...
@@ -33,7 +33,7 @@ Joseph enlisted in Mackay on 10 December 1940 and was assigned to the 15 Garriso
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions to next headstone... is the grave of...
     

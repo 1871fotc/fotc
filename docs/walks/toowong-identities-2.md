@@ -16,7 +16,7 @@ This heritage walk was conceived as part of commemorative activities. It feature
 [![](../assets/toowong-identities-2-map.png){ width="40%" }](../assets/toowong-identities-2-map@2x.png)
 -->
 
-???+ Example "Directions"
+???+ directions "Directions"
 
     From the flag pole head to the rear of the ‘Temple of Peace’, near the front gate. Behind the temple is the Temple is the grave of...
 
@@ -25,7 +25,7 @@ This heritage walk was conceived as part of commemorative activities. It feature
 
 Edmund was the first principal of the Toowong State School which opened in January 1880. He died in December 1922 aged 78.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walk to the Caskey monument and turn left. You should come across the polished red granite grave of the McGregor‑Lowndes family...
 
@@ -33,7 +33,7 @@ Edmund was the first principal of the Toowong State School which opened in Janua
 
 Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home, Craig‑Royston, Toowong on 21 July 1951. His wife, Jean, was also a JP and a prominent citizen, honoured as a Member of the British Empire. Jean died in June 1976, aged 89.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Return to the road and walk along it until you reach a tap on the right hand side. Nearby are...
 
@@ -41,7 +41,7 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
 
 Mary Weedon was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She and her friend, Annie Griffiths, shared a house called Garton in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Immediately to the right is the grave of...
 
@@ -49,7 +49,7 @@ Mary Weedon was the first head nurse of the Brisbane Hospital, holding the posit
 
 William was a stonemason who had a workshop and house in Sylvan Road. He arrived from Oxford in 1882. He made many headstones at Toowong Cemetery including the Caskey Monument and continued working until his death in 1928.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue along the road until you come to the Jewish Section. All of these headstones face west. Three rows in is the grave of...
 
@@ -57,7 +57,7 @@ William was a stonemason who had a workshop and house in Sylvan Road. He arrived
 
 In 1890, Sali published his most enduring ballad The Drover otherwise known as [Brisbane Ladies](https://en.wikipedia.org/wiki/Brisbane_Ladies) which features the line Farewell and adieu to the girls of Toowong. The ballad is about the drovers returning west to their cattle stations having sold their at market. The route taken passed through Toowong on the way to Moggill Road.^2^
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue along the road until you reach the shed. Turn left and proceed until you reach a fork in the road. Taking the right branch, 1^st^ Avenue, pass eight double rows of graves on the left until you come to...
 
@@ -65,7 +65,7 @@ In 1890, Sali published his most enduring ballad The Drover otherwise known as [
 
 The Johnsons lived in a house called Castle Rawe, Toowong. Harriet died in 1914, aged 63. Her husband, William, outlived her by twenty‑five years, dying aged 79.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Immediately behind the Johnson grave is the grey granite monument to...
 
@@ -78,7 +78,7 @@ A Scottish merchant, William died at his home Arley, Toowong, aged 66 in 1895. W
 
 *<small>[Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220551310002061) - State Library of Queensland </small>*
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue up 1^st^ Avenue until you reach a tap on the left. This is immediately adjacent to...
 
@@ -88,7 +88,7 @@ W. H. Wilson was a member of the Queensland Legislative Council, Minister of Jus
 
 Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 1886. A member of the Lands Court, Walter F. Wilson died at his home, [Dovercourt](https://heritage.brisbane.qld.gov.au/heritage-places/1709), which still stands, aged 48 in 1911.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue around 1^st^ Avenue until it intersects with 2^nd^ Avenue. Turn right and head along Second Avenue. Five Sections down is the Gothic style headstone of...
 
@@ -109,7 +109,7 @@ Hercules was the second principal of the Toowong State School, a position he hel
 *<small>[Anne and Hercules Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218860780002061) - State Library of Queensland </small>*
 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Proceed down 2^nd^ Avenue until you come to a tap on the right. On the left, close to the road is the grave of ...
 
@@ -121,7 +121,7 @@ Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queen
 
 Letitia was widowed and had lost two young sons while still in her early forties. She became a businesswoman managing boarding houses in the city and at Kangaroo Point. The Longreach Private Boarding House which she leased in 1879 was a highly sucessfully operation. Letitia bought Cabury on Kensington Terrace which she renamed Mallow after her birthplace in Ireland. In 1899 she sold Mallow to Sir Robert Philp. When Letitia died in 1908, she left a substantial estate including shares in banks and breweries. Church Street was renamed Jephson Street after her.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Close to the tap on the right side of the Avenue is the grave of Samuel Kaye. There is no headstone.
 
@@ -129,7 +129,7 @@ Letitia was widowed and had lost two young sons while still in her early forties
 
 Kaye’s Rocks at Toowong were named after Samuel. He was a government appointee to the Toowong Shire Council in 1880. A member of the Toowong Philharmonic Orchestra, Samuel operated a museum for musical instruments, importing pianos, organs and harmoniums. He taught music for many years from his home on the north side of the rocks which now bear his name.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue down 2^nd^ Avenue until just before you reach the end of portion 5 on the left. Close to the road is the grave of...
 

@@ -9,7 +9,7 @@ Edited by Hilda MacLean
 *<small>Toowong Cemetery Gates — Jeff Turner.</small>*
 
 
-!!! Example "A web version of the book" 
+!!! directions "A web version of the book" 
 
     This is web version of *Extraordinary Stories of Ordinary People*, ISBN 0-646-37317-X, available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:120843/one).
     

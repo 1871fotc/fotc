@@ -2,7 +2,7 @@
 
 **Read the stories of the people interred at Toowong Cemetery**. The index below lists some of the people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
 
-??? example "How to use the Index" 
+??? directions "How to use the Index" 
 
     - Click a column name to sort the table.
     - "Also Known As" names are shown in (brackets).

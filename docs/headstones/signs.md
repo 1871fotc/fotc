@@ -64,7 +64,7 @@ Plants both living and carved are replete with symbolism...
 
 These acronyms can be found on headstones in Toowong Cemetery.
 
-??? example "Usage Tips" 
+??? directions "Usage Tips" 
 
     - Click a column name to sort the table.
     - An example of where the acronym can be found is shown in the Plot-Section-Grave column

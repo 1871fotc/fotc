@@ -33,7 +33,7 @@ Before starting, you may like to download the [Toowong Cemetery map](http://www.
 
 <!-- insert photo -->
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Begin the heritage trail at the pavilion and walk up ==Dr Lillian Cooper Drive==. Among the graves – immediately to the left of the road and under the tree foliage – is the grave of Lachlan Chisholm Wilson.
 
@@ -52,7 +52,7 @@ Wilson died at his New Farm home on 7 April 1947, survived by his wife, son and 
 
 A. J. Hill, '[Wilson, Lachlan Chisholm (1871‑1947)](http://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131, published first in hardcopy 1990
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Return to the road, moving along two rows, and close to the edge of the road is the grave of George Henderson.
 
@@ -61,7 +61,7 @@ A. J. Hill, '[Wilson, Lachlan Chisholm (1871‑1947)](http://adb.anu.edu.au/biog
 
 Through his contact with relatives of famed Doctor Livingstone, George Henderson developed an interest in Africa. After meeting with the Rebel Chief Cetewayo Zulu, he managed to influence railway construction there. Returning to the United Kingdom, then moving to Queensland, Henderson became heavily involved in Brisbane’s development. Initially he worked to develop and construct storm water drainage in South Brisbane and Kangaroo Point, was responsible for ploughing and paving with wooden blocks both George and Queen streets, and contributed to the construction of railway lines between Cleveland, Charleville, Cloncurry, Chillagoe, parts of the north coastline and Eagle Farm Meatworks.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Moving further along the road and off to the right is the black granite monument of the McWhirter family.
 
@@ -77,7 +77,7 @@ McWhirters was also one of the first department stores fitted with sprinkler sys
 
 James McWhirter Junior died in Sydney in September ==1919== of pneumonia. Such was McWhirter’s popularity and standing in Brisbane’s social elite that his funeral was held in Brisbane on 19 September 1919 at the Ann Street Presbyterian Church, with many would‑be attendees unable to be admitted into the church due to lack of space. He was survived by his father, James McWhirter Senior, his widow and children.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Immediately to the other side of the road is the monument of Charles Foggitt.
 
@@ -89,7 +89,7 @@ Foggitt possessed exceptional business intelligence. In 1904 Foggitt left J. C. 
 
 Foggitt lived with his family at Tarrangower, Chatsworth Road, Greenslopes. He died on 13 July 1926 after a short illness and was survived by his wife Sarah, three sons and a daughter. 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Almost immediately in line with this grave, but three rows further along, is the grave of George Harrap.
 
@@ -101,7 +101,7 @@ Harrap married Elizabeth Brown in Lincolnshire, England in 1867 and had seven ch
 
 Harrap died in January 1934 at the age of 91 at his daughter’s residence in Ascog Terrace, Toowong. He was well known for his love of sports and was described in his obituary as a “man of striking physique” who “retained his physique and stamina until a few months before his death”.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Moving back across the road and approximately four graves in, is the headstone of William Neil Gillies.
 
@@ -119,7 +119,7 @@ For those travelling between Cairns and Atherton, you may find yourself travelli
 
 D. J. Murphy, '[Gillies, William Neil (1868‑1928)](http://adb.anu.edu.au/biography/gillies-william-neil-6388/text10917)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/gillies-william-neil-6388/text10917, published first in hardcopy 1983
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Heading back to the road and moving further along approximately four rows, turn left down the path to see the white and blue painted monuments of William Forgan Smith.
 
@@ -134,7 +134,7 @@ After his time as Premier he took over the chairmanship of the Central Sugar Can
  
 B. J. Costar, '[Smith, William Forgan (Bill) (1887‑1953)](http://adb.anu.edu.au/biography/smith-william-forgan-bill-8489/text14933)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/smith-william-forgan-bill-8489/text14933, published first in hardcopy 1988
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Returning to the road, move immediately across to the right and locate the row beginning with the grave of Economidis. Moving along this row see an older grave commemorating Sir Manuel Hornibrook and his son. Look carefully, from the side this monument reads MACDIARMID.
 
@@ -149,7 +149,7 @@ Personally, Manuel Hornibrook was known for his spirit, courage and determinatio
 
 Raymond L. Whitmore, '[Hornibrook, Sir Manuel Richard (1893‑1970)](http://adb.anu.edu.au/biography/hornibrook-sir-manuel-richard-10547/text18729)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/hornibrook-sir-manuel-richard-10547/text18729, published first in hardcopy 1996.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Returning to the road and moving ahead approximately 20 meters, immediately to the left of the road are the graves of Alois Wilhelm Leitner and Robert William Black.
 
@@ -174,7 +174,7 @@ After his retirement 1920, Black sought to share his wealth, contributing throug
 
 Margery Brier‑Mills, '[Black, William Robert (1859‑1930)](http://adb.anu.edu.au/biography/black-william-robert-5254/text8853)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/black-william-robert-5254/text8853, published first in hardcopy 1979
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Enter the Orthodox section of the cemetery, signified by the many Orthodox crosses. Almost at the end of this section, turn left down the row and walk down the hill under the trees to find the white headstone of Ataman Tolstoff.
 
@@ -188,7 +188,7 @@ As a result of the work of immigrants like those led by General Tolstoff, it is 
 
 Kravchenko, M., 2010. ‘[History of the Russian Community in Queensland and in Brisbane](http://www.qrcc.com.au/history-of-the-russian-community-e)’, Queensland Russian Community Centre. http://www.qrcc.com.au/history-of-the-russian-community-e
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Coming back to the road and across to the opposite side, at the edge of the road is white walled monument of Christy Freeleagus.
 
@@ -207,7 +207,7 @@ When Freeleagus died of a heart attack on 16 May 1957, he had successfully found
 
 Alex Freeleagus, '[Freeleagus, Christy Kosmas (1889‑1957)](http://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747, published first in hardcopy 1981
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Immediately back across the road stands a monument consisting of a large cross draped in a number of strands of beads. These are regularly placed there by those who come to remember Dr Lilian Cooper.
     
@@ -215,7 +215,7 @@ Alex Freeleagus, '[Freeleagus, Christy Kosmas (1889‑1957)](http://adb.anu.edu.
 
 --8<-- "snippets/lilian-cooper.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continuing further along the road, almost to the Richer Street entrance, immediately off the right is the white vaulted monument of Anthony Fatseas.
 
@@ -225,7 +225,7 @@ The grave of husband and wife, Anthony and Catherine Fatseas is highlighted duri
 
 Anthony Fatseas was born in Smyrna in Turkey in 1909. He finished elementary school in Turkey and moved to Athens, Greece with his parents and studied at the French School there. He completed his compulsory military service translating French and became an accountant, later moving to Egypt.  He arrived in Australia in 1947 and worked for a year on the editorial staff of an ethnic newspaper and then worked in cafes and as a clerk. Finally, he became a partner in a delicatessen business. 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     From here continue along ==Dr Lillian Cooper Drive== past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
 
@@ -239,7 +239,7 @@ After this time, Urquhart moved and was appointed administrator of the Northern 
 
 W. Ross Johnston, '[Urquhart, Frederic Charles (1858–1935)](http://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637, published first in hardcopy 1990
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Coming back to the road and heading all the way to the top of the hill, on the very corner of the intersection with Pat Hill Drive is the grave displaying a boxing ring, the grave of Patrick Francis Hill.
     
@@ -247,7 +247,7 @@ W. Ross Johnston, '[Urquhart, Frederic Charles (1858–1935)](http://adb.anu.edu
 
 --8<-- "snippets/pat-hill.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     From here, retrace your steps and return to the pavilion, or walk straight down the hill along ==Pat Hill Drive==, through the centre of the cemetery, joining ==Charles Heaphy Drive== and down to the main office and ==Canon Garland Place==, including the small cemetery museum.
 

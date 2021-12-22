@@ -17,7 +17,7 @@ Jewish deceased are buried with their heads toward the East. This has a religiou
 
 Examples of vandalism will be seen in this cemetery. This is a world‑wide malady and difficult to prevent, as the damage is usually done late at night. It usually occurs during school vacations, indicating that the pupils, with no homework to do, are seeking cheap "thrills". On the occasions on which it occurs, the Chevra Kadisha promptly restores the damaged monuments. Some only need to be stood up and secured; others are broken when they fall. If they are thin marble slabs, they break easily and it is better to mount them on a sloping cement plinth so they cannot be toppled again. If the headstone is badly broken, it must be replaced. It is not feasible to insure grave monuments against vandalism.
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Starting from the ==TOP LEFT HAND== corner of the small Jewish portion, walk down the first row, looking left. About the 16th headstone from the start is the grave of...
     
@@ -28,7 +28,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
 He was a world‑class heavy‑weight wrestler. As a youth he trained to be a singer in a Synagogue in Rumania and had a rich baritone voice. He became a professional wrestler and won the World Jewish Wrestling Championship belt on several occasions.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Moving along another 14 headstones you will come across the grave of...
     
@@ -39,7 +39,7 @@ He was a world‑class heavy‑weight wrestler. As a youth he trained to be a si
 
 Morris built, renovated or moved many homes in South Brisbane, in the first half of this century. He built a small synagogue as an annex to his home in Greenslopes, where he and a group of friends used to pray.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking up another 6 headstones and still looking left you will come to the grave of...
 
@@ -49,7 +49,7 @@ Morris built, renovated or moved many homes in South Brisbane, in the first half
 
 This type of massive monument is unusual for its size and is rarely utilised nowadays.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Another 13 headstones along this same path is the grave of...
     
@@ -60,7 +60,7 @@ This type of massive monument is unusual for its size and is rarely utilised now
 
 This is an example of the bronze plaques erected by the War Graves Commission over the graves of ex‑servicemen.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     The grave next to this one is the grave of…
     
@@ -71,7 +71,7 @@ This is an example of the bronze plaques erected by the War Graves Commission ov
 
 As a young man he came to Brisbane from his home in Latvia. He worked as a plumber until he could pay for his fiancée to join him. They married here and spent the rest of their lives in Townsville. He was a very pious man and made arrangements for his body to be buried in this Jewish Cemetery. He died aged 96.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking to the end of this path walk around to the start of second path. Looking right, go to the seventh headstone, and you will see the large headstone of...
     
@@ -84,7 +84,7 @@ The good man was the Minister of the Brisbane Hebrew Congregation, serving here 
 
 > In everlasting memory
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walk two graves along and you have reached the graves of...
     
@@ -98,7 +98,7 @@ Loewe's headstone has a carved pitcher or urn, from which water is being poured.
 
 There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Similarly, there are variants to the name of 'Cohen' and it will be seen that some who are identified as priests (see later notes) have other names such as Kangan, Konn, Kahn etc.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Moving along the same path and another 12 headstones ahead is the grave of...
     
@@ -109,7 +109,7 @@ There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Simi
 
 He was climbing the face of Mt Tibrogargan with two other University climbers. They were ascending without safety ropes. He fell to his death and the Jewish Community was deeply shocked at the loss of this fine young man.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Proceed along the path for another 11 headstones and you will come to the grave of...
     
@@ -120,7 +120,7 @@ He was climbing the face of Mt Tibrogargan with two other University climbers. T
 
 This is a bronze plaque supplied by the War Graves Commission. Others are upright white marble headstones.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Another 8 headstones along this path is the grave of...
     
@@ -133,7 +133,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
 
 She was a descendant of a man by that name, who led the entire Jewish Community of America. There is a well‑known painting in the Library of the US Congress, showing him with a Jewish delegation which was congratulating George Washington on his victory over the colonial power and assuring him of their loyalty.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking along another 8 headstones we come upon the grave of...
     
@@ -144,7 +144,7 @@ She was a descendant of a man by that name, who led the entire Jewish Community 
 
 Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. He was also a skilled entertainer and organised concert parties in both First and Second World Wars to entertain the troops. He was decorated for his good services. He continued entertaining the wounded long after the Second World War.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Now walk around to the start of the third path. Looking LEFT the 23^rd^ headstone from the start is that of…
     
@@ -155,7 +155,7 @@ Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. H
 
 He was decorated with the Order of Australia and made a member of the Order of the British Empire in recognition of his distinguished services to the Crown and to Industry. His headstone also has the symbol, already referred to, of a Cohen i.e. a descendant of the High Priest of the Temple in Biblical days.
   
-??? Example "Directions" 
+??? directions "Directions" 
 
     Behind Kangan's headstone is that of...
     
@@ -168,7 +168,7 @@ On this headstone can be seen an example of the configuration of the hands of a 
 Note that not all the Cohanim (the plural) are named "Cohen". The Levites (male descendants of the tribe of Levi) who aided the Cohanim in the Temple Service, still, to this day "lave" the hands of the Cohanim with water, before they bless the Congregation during Services. On the monuments of Levites can be seen an urn or pitcher from which water is being poured. Cohanim obey certain restrictions but also have some ritual privileges.
 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Moving also this path 6 more headstones, we come to the grave of...
     
@@ -179,7 +179,7 @@ Note that not all the Cohanim (the plural) are named "Cohen". The Levites (male 
 
 This is a beautiful carved sandstone monument. The symbol of the book would suggest that the person was well versed in the Hebrew religion. Today such a monument would cost over $100 000. There are few stonemasons about, who could do the work.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Next to this beautiful monument is the grave of...
     
@@ -190,7 +190,7 @@ This is a beautiful carved sandstone monument. The symbol of the book would sugg
 
 Percy Benjamin was a son of Sir Benjamin Benjamin and Lady Fanny Benjamin. Sir Benjamin owned a Melbourne Savings bank. About the turn of the century there was an unexplained 'rush on the banks', when people drew out their money in a great panic for no reason. Sir Benjamin put all his own funds into his bank in an effort to reassure the people, but it was to no avail. He lost everything and was bankrupted. Percy's monument was provided by his Brisbane employers, S. Hoffnung & Co.
  
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walk along a couple of more headstones and you will see the striking sculpted red granite monument of **Flegeltaub**. Moving along another 4 headstones and still looking right you will see the headstone of...
     
@@ -201,7 +201,7 @@ Percy Benjamin was a son of Sir Benjamin Benjamin and Lady Fanny Benjamin. Sir B
 
 About 1875 he carried a "Sepher Torah" (i.e. a Scroll of the Old Testament) on horse‑back up the mountain range ‑ the Toll Bar Road ‑ to Toowoomba in order to install Jewish Religious services there. The Toowoomba Synagogue was actually consecrated some years before the Brisbane Synagogue, though the Brisbane Hebrew Congregation was formed in 1865. Mr Levin was an official of both Congregations.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     A further 3 headstones along, we have the headstone of...
     
@@ -212,7 +212,7 @@ About 1875 he carried a "Sepher Torah" (i.e. a Scroll of the Old Testament) on h
 
 On this monument is a passage from Proverbs XXXI. It is a fine tribute to a goodly wife.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Several of the next graves on both sides of the path form the centre of the oldest part of this Jewish Cemetery. Most of these monuments were cut in sandstone, quarried near Helidon. Another 3 headstones along is the headstone of...
     
@@ -223,7 +223,7 @@ On this monument is a passage from Proverbs XXXI. It is a fine tribute to a good
 
 The headstone and massive monument would weigh over one tonne. If sculpted today, it would cost an enormous amount.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Now go to the end of this 3^rd^ path and round to the start of the 4th path and look to the right and to the 4^th^ grave of...
     
@@ -234,7 +234,7 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
 
 ==It would be a pity if this fine Grey‑Gum has to be destroyed before it does further damage. It may have been planted on this grave by someone who meant well but did not realise what damage it could ultimately do. Otherwise, it may have grown from a wind‑blown seed or a seed dropped by a bird. Perhaps the tree will be left to grow after all?==
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking along the same path another 3 headstones you will come to the grave of...
     
@@ -245,7 +245,7 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
 
 You will see some columns with the top broken off. This is a well‑known symbol over the grave of a person who died at a young age. Later, you will see a monument on which is engraved a palm tree. An arm, wielding an axe has lopped off the tree top. This has the same significance.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     As you walk along this path a few headstones up you will notice some more of the old sandstone monuments. Further along you will come upon the white marble monument of...
     
@@ -260,7 +260,7 @@ Several monuments along you will see one with only one Hebrew word on it, "SHEMO
 
 In compliance with the Commandment "Thou shalt not take the name of the Lord thy God in vain", the Jewish people are careful to avoid disrespect to any prayer book or other object carrying the Holy Name. Therefore, prayer books, etc. which, due to age or accident, are no longer usable are not trashed or burnt, but are placed in small coffins and buried in the consecrated ground of a Jewish Cemetery. Here is the headstone of one such grave bearing the word "SHEMOTH" (name) i.e. "THE HOLY NAME".
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     The third grave after the SHEMOTH grave and in the rear row is that of…
     
@@ -270,7 +270,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
 
 Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First World War, being a Regimental Medical Officer. A surgeon, anatomist and teacher; co‑founder of the Medical Faculty of the University of Queensland and was Dean of the faculty 1942‑1954.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Now walk round to the start of the fifth path. The first small monument is over another "SHEMOTH" burial. Hundreds of articles (mainly worn out books) are buried in each "SHEMOTH" grave.
 
@@ -283,7 +283,7 @@ Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First 
 
 Eric Mark Margulies was the only doctor in the western Queensland country town of Cunnamulla. A major fire destroyed the hotel and the good doctor distinguished himself in the rescue, as well as in the treatment of the survivors, some of whom were very badly injured. Later he was the Government Medical Officer on the Gold Coast.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Moving along another 10 monuments you will come to the headstones of...
     
@@ -294,7 +294,7 @@ Eric Mark Margulies was the only doctor in the western Queensland country town o
 
 These three identical monuments are an example of the work of vandals. It can be seen that they were broken off at the base with blows from behind. By mounting them on a sloping concrete pad, the broken pieces were brought together. Further vandalism is made less likely.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking along another 12 monuments is the grave of...
     
@@ -305,7 +305,7 @@ These three identical monuments are an example of the work of vandals. It can be
 
 He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/16/16333/16333.html) representing Queensland in the Sheffield Shield series over many years.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walk along the path past 6 monuments, and you will be standing at the grave of...
     
@@ -322,7 +322,7 @@ Sali's wife was a woman of strong opinions and she preferred his nickname to his
 
 Sali was Queensland's greatest bush balladeer and wrote many songs about the droving days, some of which are "Salt Junk" and the "New Chum's First Tour" but his most enduring ballad is "The Girls of Toowong" also variously known as "Augathella Station", "Overlanders" or "The Drover". It tells of parties of drovers who would set out from the cattle fattening yards which used to stretch from the foot of Mt Coot‑tha (close to where you are standing) to the Brisbane river. They would proceed in stages to the North West, where they would collect a vast herd of beef cattle and bring them here for spelling and fattening. Another name by which this ballad was known is "Brisbane Ladies". One version of the song suggested that these ladies camped in the drovers' rough huts in which they stayed between their trips to the cattle country, and provided "home comforts", including cooking, to the travel‑weary stockmen.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Moving along the path for another 10 monuments, you will come to the grave of...
     
@@ -333,7 +333,7 @@ Sali was Queensland's greatest bush balladeer and wrote many songs about the dro
 
 When a person dies at a relatively young age, it is sometimes symbolised by a "broken column" i.e. the life has been "broken off." On this monument there is a similar symbolism. An arm with an axe in the hand is seen reaching down from the clouds, and it has chopped the trunk of a palm‑tree which is seen falling.
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking along a couple of graves, we come across some more handsome sandstone monuments bearing the surname of **Phillips**.
 

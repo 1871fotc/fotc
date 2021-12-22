@@ -16,7 +16,7 @@ hide:
 
 <!-- 
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Starting point
     Walking directions to first headstone... is the grave of...
@@ -43,7 +43,7 @@ William drowned in Breakfast Creek on 1 February 1879.
 
 <!-- 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     
     Walking directions to next headstone... is the grave of...

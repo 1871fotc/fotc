@@ -16,7 +16,7 @@ icon: octicons/pencil-24
 <!--
 Introduction
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Starting point
     Walking directions to first headstone... is the grave of...
@@ -29,7 +29,7 @@ Introduction
 ==to do==
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions to next headstone... is the grave of...
     

@@ -24,7 +24,7 @@ More information on the [symbolism used in Victorian era cemeteries](../headston
 Before starting, you may like to download the [Toowong Cemetery map](http://www.fotc.org.au/toowong_map.jpg). 
 <!-- Seek permission to annotate the map showing the walk -->
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Begin the heritage trail at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
     
@@ -41,7 +41,7 @@ Thallon died at the Mater Hospital in Brisbane on 24 March 1911 from a cerebral 
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue along Federation Avenue to graves of George Phillips and James Cowlishaw on either side of the road.
 
@@ -59,7 +59,7 @@ Cowlishaw’s wife, Charlotte (née Owen) was the second burial in the grave fol
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Proceed to the end of the avenue and to the left find the Federation Pavilion. In the area to the left of the pavilion are Sir Charles Lilley and Sir Samuel Walker Griffith.
     
@@ -78,7 +78,7 @@ This modest grave contradicts the vital contribution this man made to Queensland
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Turning around, see the largest monument in the cemetery belonging to Governor Blackall.
 
@@ -88,7 +88,7 @@ Samuel Wensley Blackall was the second Governor of Queensland, serving between 1
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Leaving the crest of Mount Blackall, take time to appreciate one of the best views of Brisbane. Walk down the hill to see Sir Arthur Palmer.
 
@@ -98,7 +98,7 @@ Arthur Hunter Palmer was the seventh Premier of Queensland, serving from 1870-18
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     See information about Sir Maurice O’Connell and the Bell family.
 
@@ -116,7 +116,7 @@ Joshua Thomas Bell (1863‑1911), a barrister and politician, was the eldest son
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Take a sharp left across the top of the hill and head down the path to the left to see Sir Anthony Musgrave.
 
@@ -126,7 +126,7 @@ Governor Musgrave was born and educated in the West Indies where he established 
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Across the path lies a series of tombs beginning with a large family grave. Notice on the far left a plaque commemorating Dorothy Hawthorn, MBE.
 
@@ -136,7 +136,7 @@ Dorothy Hawthorn’s many achievements and contributions to the community are we
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Moving down the hill along the path to the left and the next row are Finney and Isles.
 
@@ -146,7 +146,7 @@ The graves of Thomas Finney and James Isles who together established Finney Isle
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue along the road and to the right to find a low‑set grave to the left, of Kenneth Hutchinson.
 
@@ -155,7 +155,7 @@ Hutchinson joined Queensland’s volunteer defence force in 1870. In 1890 he was
 
 <!-- insert photo --> 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walk two rows down the hill past the pine tree. On the left stand the Raff family monuments capped with shrouded urns which refer to the urns used in ancient Greece to hold cremated ashes.
 
@@ -167,7 +167,7 @@ Alexander Raff (1820‑1914) was a pastoralist on the Darling Downs and a compan
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     At this point in the walk, continue the tour down the hill and complete Tour A, or take a small detour to complete Tour B.  
  
@@ -185,7 +185,7 @@ After the closure of the Daily News at the beginning of 1879, he found employmen
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Turning right at Feilberg’s grave, walk down the hill to the left between the graves of Skyring and Pettigrew, two original trustees of this cemetery and walk along the row to the low‑lying grave of Trooper John Cobb.
 
@@ -195,7 +195,7 @@ A volunteer in the third Queensland Mounted Infantry Contingent to the South Afr
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Proceed along the path to the Murray‑Prior family vault, turn left at Heussler’s headstone, then immediately right after the Dorsett’s grave, continue back along the row to the pathway and at the end of this row is the tall obelisk of John Turner.
 
@@ -205,7 +205,7 @@ John Sargent Turner was born in Wangaroa, New Zealand, to Reverend Nathaniel Tur
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walk further down the hill and to the left to see the graves of James Wassell and R.R. Smellie.
 
@@ -221,7 +221,7 @@ Robert Russell Smellie was a pioneer of the engineering and iron foundry trade a
 
 <!-- insert photo -->
  
-??? Example "Directions" 
+??? directions "Directions" 
 
     Returning to the main pathway, walk down the hill and on the left come to the Bancroft family.
 
@@ -231,7 +231,7 @@ The Bancroft’s are among Queensland’s most notable medical families. After e
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Turn left here and walk the length of the row to the memorial of David Seymour.
 
@@ -241,7 +241,7 @@ David Thomson Seymour was born at Ballymore Castle, County Galway, Ireland, and 
 
 <!‑- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Turning around, walk down to the next row to the right along the length of the row and find the Celtic Cross, which marks the grave of George Rilatt.
 
@@ -251,7 +251,7 @@ George Rilatt was the dedicated janitor of Brisbane Grammar School for 51 years 
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Continue a short distance further, turn left and walk down the hill one row at Pilot Officer Munro Robin Ryder’s memorial, distinctive for the white marble angel on a crucifix. Turn right and stroll the length of the row back to the main path to the red granite headstone of Charles Patterson.
 
@@ -261,7 +261,7 @@ Charles Patterson emigrated from his birthplace in Aberdeenshire, Scotland, and 
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Cross the path and just up to the right on the corner lies the Prentice family.
 
@@ -271,7 +271,7 @@ This memorial is for two of the 133 passengers who drowned in the Quetta disaste
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Back on the main path, continue down the hill four rows and to the left at the end of the row, find the head and foot stones of the three Pioneer children.
 
@@ -285,7 +285,7 @@ Esther Roberts, mother of **William Henry Roberts** who is buried here, was the 
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     At the roadway turn left and continue along ==Emma Miller Avenue== and note on the right the graves of the Petrie family. 
 
@@ -298,7 +298,7 @@ John Petrie (1822‑1892), Andrew’s eldest son, was Brisbane’s first Mayor f
 Also a stonemason, John Petrie’s best remembered work is the conversion of the windmill on Wickham Terrace to a signal station in 1861. John’s son, Andrew Lang Petrie (1854‑1928), a monumental mason and contractor, entered the Legislative Assembly on 29 April 1893 and remained a member until 7 May 1926. 
 
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Cross the road and walk toward the entrance to the cemetery. Look to the right opposite the brick tool shed to find the urn topped column commemorating Ann and Walter Hill.
 
@@ -306,7 +306,7 @@ Also a stonemason, John Petrie’s best remembered work is the conversion of the
 
 --8<-- "snippets/walter-hill.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Cross the road again to pass the Soldiers Memorial.
 
@@ -316,7 +316,7 @@ The Cross of Sacrifice and Stone of Remembrance were unveiled on Anzac Day, 1924
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     End the tour with a wander in the shaded garden area, or visit the museum and read the story of **Canon David Garland**, after who this place in the cemetery was named.
 
@@ -330,7 +330,7 @@ Beneath a rough cross directly behind Edward McGregor lies Able Seaman W.J. Harr
 
 <!-- insert photos -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Turning right, see the Caskey Memorial.
 
@@ -340,7 +340,7 @@ Unveiled in May 1902, this is the [first known monument to the South African War
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Adjacent to this is a tall obelisk for the ‘A’ Battery Memorial, a shape which originates from the architecture of ancient Egypt.
 
@@ -350,7 +350,7 @@ Prior to Federation, each of the Australian colonies maintained its own defence 
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking parallel with the fence and turning right at Ludlow’s grave end the tour at the leadlight windowed Temple of Peace which lies beneath shady trees at the entrance to the cemetery.
 
@@ -360,7 +360,7 @@ This [state‑heritage‑listed monument](https://apps.des.qld.gov.au/heritage-r
 
 <!-- insert photo -->
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     This completes the tour of the southern corner portion of Toowong Cemetery. If you have enjoyed the trail, be sure to visit again to walk the many other areas of the cemetery. 
 

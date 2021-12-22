@@ -7,7 +7,7 @@ hide:
 # Men of the Royal Navy
 
 <!--
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Start at …and follow these walking directions to arrive at the grave of...
     
@@ -17,7 +17,7 @@ hide:
 --8<-- "snippets/joseph-watters.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -27,7 +27,7 @@ hide:
 --8<-- "snippets/watkin-llewellyn-whitaker.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -37,7 +37,7 @@ hide:
 --8<-- "snippets/james-kirk.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -47,7 +47,7 @@ hide:
 --8<-- "snippets/thomas-lodge-murray-prior.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -57,7 +57,7 @@ hide:
 --8<-- "snippets/john-stephen-ferriter.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -67,7 +67,7 @@ hide:
 --8<-- "snippets/william-leworthy-goode-drew.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -78,7 +78,7 @@ hide:
 
 --8<-- "snippets/john-vivian-williams.md"
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -88,7 +88,7 @@ hide:
 --8<-- "snippets/john-forrest-haymen.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -98,7 +98,7 @@ hide:
 --8<-- "snippets/william-henry-browne.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -108,7 +108,7 @@ hide:
 --8<-- "snippets/ian-chesborough-rose-macdonald.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -120,7 +120,7 @@ hide:
 ![](../assets/arthur-lowe.jpg){ width="32%" }
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -130,7 +130,7 @@ hide:
 --8<-- "snippets/john-cornish-pentecost.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions...
 
@@ -140,7 +140,7 @@ hide:
 --8<-- "snippets/alexander-hastings-gruer.md"
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Retrace your steps back to the starting point.
 -->

@@ -1,5 +1,6 @@
 ---
-
+hide:
+  - navigation
 
 search:
   boost: 2  
@@ -9,7 +10,7 @@ search:
 
 The Friends of Toowong Cemetery have researched and published a large collection of themed self-guided walks. Choose a walk from the list below.
 
-???+ example "Format improvements" 
+???+ directions "Format improvements" 
 
     We're improving the self-guided walks by converting them to a mobile-friendly format, adding maps, walking instructions, and photos. 
 

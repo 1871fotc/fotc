@@ -8,7 +8,7 @@ hide:
 
 <!--
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     - walking directions
     
@@ -23,7 +23,7 @@ hide:
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -35,7 +35,7 @@ hide:
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -47,7 +47,7 @@ hide:
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions
     
@@ -59,7 +59,7 @@ hide:
 
 <!--
 
-??? Example "Directions" 
+??? directions "Directions" 
 
     - walking directions back to the start
 

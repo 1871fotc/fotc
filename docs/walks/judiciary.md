@@ -9,7 +9,7 @@ hide:
 **Early Judiciary buried in Toowong Cemetery**
 
 <!-- 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Starting point
     Walking directions to first headstone... is the grave of...
@@ -22,7 +22,7 @@ hide:
 Born in Penrith NSW on 2/6/1839 to George Paul and Sarah Dalton. George Paul Jnr was called to the Bar in London at the age of 22. He  later established a successful private practice in Brisbane before taking up the position of Crown Prosecutor of the Western District Court in 1866. In 1871 he was appointed first acting judge of the District Courts before being elevated permanently to the Metropolitan District Court in 1871, a position which he held until his death on 10/12/1909.
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions to next headstone... is the grave of...
     

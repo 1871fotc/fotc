@@ -10,7 +10,7 @@ hide:
 <!--
 Introduction
 
-???+ Example "Directions" 
+???+ directions "Directions" 
 
     Starting point
     Walking directions to first headstone... is the grave of...
@@ -28,7 +28,7 @@ Andrew Petrie was born in Fife, Scotland, on 25 June 1798 to Walter Petrie and M
 - [Adelaide House (The Deanery)](https://apps.des.qld.gov.au/heritage-register/detail/?id=600078), 417 Adelaide Street, Brisbane
 
 <!--
-??? Example "Directions" 
+??? directions "Directions" 
 
     Walking directions to next headstone... is the grave of...
     
