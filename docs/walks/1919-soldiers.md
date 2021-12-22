@@ -2,8 +2,6 @@
 date: 3 November 2019
 hide:
   - navigation
-icon: octicons/pencil-24
-  
 ---
 
 # 1919 Soldiers 

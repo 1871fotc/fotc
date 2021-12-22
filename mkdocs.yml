@@ -13,7 +13,8 @@ copyright: © 1996 — 2021 Friends of Toowong Cemetery Association Incorporated
 theme:
   language: en
   name: material
-  logo: assets/fotc-logo.png
+#  logo: assets/fotc-logo.png
+  logo: assets/alternative-logo.png
   favicon: assets/favicon.ico
 #  icon:
 #    repo: fontawesome/brands/github-alt
@@ -22,18 +23,22 @@ theme:
     text: Raleway
     code: Roboto Mono 
   palette:
-  - scheme: default
-    primary: deep-purple
-    accent: purple
-#    toggle:
-#      icon: octicons/sun-16
-#      name: Switch to light mode
-#  - scheme: slate
-#    primary: purple
-#    accent: purple
-#    toggle:
-#      icon: octicons/moon-16
-#      name: Switch to dark mode
+#    - media: "(prefers-color-scheme: light)"
+    - scheme: default
+      primary: deep-purple
+      accent: purple
+      toggle:
+        icon: octicons/sun-16
+#        icon: material/cross-celtic
+        name: Switch to dark mode
+#    - media: "(prefers-color-scheme: dark)"
+    - scheme: slate
+      primary: purple
+      accent: purple
+      toggle:
+        icon: octicons/moon-16
+#        icon: material/ghost
+        name: Switch to light mode
   icon:
     admonition:
       question: fontawesome/solid/hand-holding-heart
@@ -158,7 +163,7 @@ nav:
     - Governors: walks/governors-past.md 
     - Brisbane Mayors: walks/brisbane-mayors.md
     - Labor Luminaries: walks/labor-luminaries.md
-    - Suffrage: walks/suffrage.md
+    - One Adult, One Vote: walks/suffrage.md
 # Military
     - Colonial Conflicts: walks/colonial-conflicts.md         
     - Lest We Forget: walks/lest-we-forget.md
@@ -193,20 +198,20 @@ nav:
     - 20/20 Vision: walks/2020-vision.md
 #    - BCC Toowong Cemetery Tour 1: walks/bcc-walk-1.md 
 #    - BCC Toowong Cemetery Tour 2: walks/bcc-walk-2.md 
-    - Brisbane Open House: walks/brisbane-open-house.md 
+    - Building Brisbane: walks/brisbane-open-house.md 
     - Erected by Friends and Family: walks/erected-by-friends.md    
     - Christmas: walks/christmas.md    
 #    - New Year's Day: walks/new-years.md    
-    - Mothers: walks/mothers.md    
-# portion walks
-    - A Ramble through Portion 5 - part 1: walks/portion5-part1.md
-    - A Ramble through Portion 5 - part 2: walks/portion5-part2.md
-    - A Walk through Portion 6 and 24: walks/portion6-and-24.md
-    - A Wander through Portion 15 and 16: walks/portion15-and-16.md
+    - Mothers: walks/mothers.md  
     - Rich man, Poor man: walks/rich-man-poor-man.md
     - Prospectors: walks/prospectors.md    
     - Steam: walks/steam.md    
     - Taken before their time: walks/taken-before-their-time.md    
+# portion walks
+    - Portion 5 - part 1: walks/portion5-part1.md
+    - Portion 5 - part 2: walks/portion5-part2.md
+    - Portion 6 and 24: walks/portion6-and-24.md
+    - Portion 15 and 16: walks/portion15-and-16.md
   - Headstones: 
     - Headstones: headstones/index.md
 #    - Shapes: headstones/shapes.md  
