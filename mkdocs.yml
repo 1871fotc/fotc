@@ -28,6 +28,7 @@ theme:
       primary: deep-purple
       accent: purple
       toggle:
+#        icon: fontawesome/solid/sun
         icon: octicons/sun-16
 #        icon: material/cross-celtic
         name: Switch to dark mode
@@ -36,8 +37,9 @@ theme:
       primary: purple
       accent: purple
       toggle:
-        icon: octicons/moon-16
-#        icon: material/ghost
+#        icon: fontawesome/solid/moon
+#        icon: octicons/moon-16
+        icon: material/ghost
         name: Switch to light mode
   icon:
     admonition:
