@@ -16,7 +16,6 @@ hide:
 
 -->
 
-
 --8<-- "snippets/le-fevre-james-cranstone.md"
 
 ![](../assets/le-fevre-james-cranstone.jpg){ width="30%" }  

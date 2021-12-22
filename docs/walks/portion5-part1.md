@@ -26,8 +26,8 @@ Introduction
 
 ## Jonas and Mary Malouf <small>(5‑26‑2/3)</small>
 
-==to do==
-
+Jonas Malouf and his wife, Mary (née Hadad) were both born in the town of Zahlah in what is now Lebanon but was still part of Palestine at the time. Jonas was born in December they fled 1849 and Mary in 1869. In 1889 together with their sons and Jonans's two brothers they fled their native country to escape the political troubles of the time. They came to Queensland where they founded a successful drapery and general store at Ipswich. They later settled at Gatton where they continued to carry business. 
+ 
 <!--
 ??? directions "Directions" 
 
@@ -38,23 +38,21 @@ Introduction
 
 ## Alfred Wall and Alfred George Curtis Wall <small>(5‑27‑16)</small>
 
-==to do==
+Alfred Wall was born in England before migrating to Queensland in the ship *Young Australia* in 1866. He  spent head several years as   head teacher at Bowen State School and in 1899 became head teacher at Milton State School until his retirement in 1917.
 
+His son, Alfred George Curtis Wall served in WWI in the Australian Flying Corps  No 2 Squadron where he was designated 1^st^ Air  Mechanic.
 
 ## John Theophillus Symons Bird <small>(5‑30‑9A)</small>
 
-==to do==
-
+John Theophilus Symons Bird was born in Torquay, Devonshire on 10 May 1842 and arrived in Rockhampton in 1863. He took an active part in the production of the *Rockhampton Bulletin*, having filled the position of printer, journalist, drama critic, overseer, mining editor and sporting editor. In February 1867 John Bird and his friend Arthur Hosking discovered gold in the granite and slate deposits in the Ridgelands area outside Rockhampton. John Bird died on 7 May 1932.
 
 ## Angus McDonald, Robert Alexander McDonald and Stanley Angus McDonald <small>(5‑30‑1/2)</small>
 
-==to do==
-
+Angus McDonald who was born in Ayr, Scotland, came to Queensland with his parents at the age of 10. He lived in Ipswich and Harrisville before retiring to Brisbane. His son, Robert Alexander McDonald was the chief Clerk of Prisons in the Queensland Prison Department. He disappeared in August 1913 and his body was not found for three months. Another son, Stanley died on *RMS Celtic* in 1918.
 
 ## John Lamacraft Richards <small>(5‑24‑13/14)</small>
 
-==to do==
-
+John Lamacraft Richards was a native of Devon in England. He arrived in Brisbane on the ship *Golden City* on 6 January 1865. He was a member of the City Volunteer Fire Brigade from 1876 to 1882 and of the Brisbane Fire Brigade from 1882 to 1889. He was a foundation member of the Progressive Lodge (Oddfellows) and also of the Brisbane Past Grand's Lodge.
 
 ## Elizabeth Powell <small>(5‑24‑2)</small>
 

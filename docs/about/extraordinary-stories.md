@@ -17,7 +17,6 @@ Edited by Hilda MacLean
     
     Some missing grave locations have been added.
     
-    Why have we published an incomplete page like this? So the people in the book can be discovered using this website's search and their stories read by borrowing the book from the Library until we're finished here. 
 
 ## Foreword
 
