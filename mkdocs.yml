@@ -13,8 +13,8 @@ copyright: © 1996 — 2021 Friends of Toowong Cemetery Association Incorporated
 theme:
   language: en
   name: material
-#  logo: assets/fotc-logo.png
-  logo: assets/alternative-logo.png
+  logo: assets/fotc-logo.png
+#  logo: assets/alternative-logo.png
   favicon: assets/favicon.ico
 #  icon:
 #    repo: fontawesome/brands/github-alt

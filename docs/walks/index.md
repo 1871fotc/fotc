@@ -84,7 +84,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Erected by Friends and Family](erected-by-friends.md)** 
 - **[Christmas](christmas.md)** 
 - **[Mothers](mothers.md)** 
-- **[Rich man, Poor man](rich-man-poor-man.md)**  :octicons-pencil-24:
+- **[Rich man, Poor man](rich-man-poor-man.md)** 
 - **[Propectors](prospectors.md)** 
 - **[Steam](steam.md)** 
 - **[Taken before their time](taken-before-their-time.md)** 
