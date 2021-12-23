@@ -81,11 +81,11 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 - **[20/20 Vision](2020-vision.md)**  
 - **[Building Brisbane][brisbane-open-house]** - a walk recalling the builders of early Brisbane
-- **[Erected by Friends and Family](erected-by-friends.md)** :octicons-pencil-24:
+- **[Erected by Friends and Family](erected-by-friends.md)** 
 - **[Christmas](christmas.md)** 
 - **[Mothers](mothers.md)** 
 - **[Rich man, Poor man](rich-man-poor-man.md)**  :octicons-pencil-24:
-- **[Propectors](prospectors.md)** :octicons-pencil-24:
+- **[Propectors](prospectors.md)** 
 - **[Steam](steam.md)** 
 - **[Taken before their time](taken-before-their-time.md)** 
 <!-- - Brisbane City Council Trail 1 [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery. - Brisbane City Council Trail 2  [Brisbane City Council Trail 2][bcc-walk-2] -->
