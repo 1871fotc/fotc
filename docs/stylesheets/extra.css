@@ -13,6 +13,13 @@ th {
   text-align: left; 
 }
 
+/* compress table layout */
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    padding: 6px 10px;
+}
+
 /* YouTube embed */
 .video-wrapper {
   position: relative;

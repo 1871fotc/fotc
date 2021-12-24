@@ -80,7 +80,7 @@ We are exploring tools to convert CSV data (the master) into Markdown tables for
 - [OpenRefine](https://openrefine.org)  
 - An [Atom package](https://github.com/takezoe/atom-csv-markdown) 
 
-We have not decided on a Linked Data publishing toolset yet, but am aware of: 
+We have not decided on a Linked Data publishing toolset yet, but are aware of: 
 
 - [Swirrl](https://www.swirrl.com)
 - [Ontotext](https://www.ontotext.com)
@@ -107,4 +107,9 @@ Dynamic visualisations we are considering include:
 
 Our end goal for publishing and linking our data is to enable others to discover and share new stories about Toowong Cemetery.
 
-We may encourage this by participating in hack-a-thons (such as [GovHack](https://govhack.org)), experiments with other organisations.
+We may encourage this by participating in hack-a-thons (such as [GovHack](https://govhack.org)), experiments with other organisations. 
+
+We're inspired by the works of others, including:
+
+- [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939). Our initial inspiration for exploring linked data.
+- [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl). What would Toowong Cemetery sound like? 

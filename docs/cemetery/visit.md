@@ -42,7 +42,7 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 
 ## When you arrive
 
-If you enter main entrance through the front gates, you'll find: 
+If you enter the main entrance, you'll find: 
 
 - Canon Garland Place named after **[Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278)**. The Flagpole here is the departure point for **[guided heritage tours](../guided-tours.md)** and most **[self-guided walks](../walks/index.md)**.
 - the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)** - staff can answer your enquiries and help to locate graves and ashes memorial sites.
@@ -76,7 +76,7 @@ Inside the cemetery you can get around by driving, walking, riding a bike or sco
 
 ## Road name changes
 
-Some road names have recently been changed to the names of notable people interred nearby. Not all maps and signs in the Cemetery have been updated to reflect these changes: 
+Some road names have recently been changed to the names of notable people buried nearby. Not all maps and signs in the Cemetery have been updated to reflect these changes: 
 
 | New Road Name                              | Old Road Name | Notes                                                                |
 | :----------                                | :--------     | :---------                                                           |
@@ -84,7 +84,7 @@ Some road names have recently been changed to the names of notable people interr
 | **[Dr Lillian Cooper][Cooper]** Drive      | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
 | Francis Forde Avenue                       | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
-| **[Peter Jackson][Jackson]** Parade            | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
+| **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
 | Soldiers Parade                            | Boundary Road | running parallel to Frederick Street closest to the main entrance    |
 | Steele Rudd Avenue                         | 4^th^ Avenue  |                                                                      |
 | Walter Ralstone Avenue                     | 7^th^ Avenue  |                                                                      |
@@ -92,7 +92,7 @@ Some road names have recently been changed to the names of notable people interr
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
 | **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
 | **[O'Doherty][O'Doherty]** Avenue          | 11^th^ Avenue |                                                                      |
-| Elizabeth Dale Walk            | 12^th^ Avenue |                                                                      |
+| Elizabeth Dale Walk                        | 12^th^ Avenue |                                                                      |
 | **[Garland][Garland]** Avenue              | 13^th^ Avenue |                                                                      |
 | **[William Browne][Browne]** Avenue        | 14^th^ Avenue |                                                                      |
 | Federation Avenue                          | 15^th^ Avenue |                                                                      |
@@ -128,7 +128,7 @@ Here are some of our favourites:
 
 ![](../assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ width="98%" }
 
-*<small>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland. Colour adjusted. </small>*
+*<small>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother</small>*
 
 
 <!-- Links -->
