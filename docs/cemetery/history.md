@@ -7,7 +7,7 @@ title: History
 
 ## Traditional Owners
 
-Prior to 1875, the flat area where the entrance of Toowoong Cemetery now stands was an [Aboriginal Corroboree Ground](https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/). Toowong is a corruption of *Tu-wong*,[^1] purportedly the aboriginal name for the river bend near the Indooropilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
+Prior to 1875, the flat area where the entrance of Toowoong Cemetery now stands was an [Aboriginal Corroboree Ground](https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/). **[Toowong is a corruption of Tu-wong][tu-wong]**, purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
 
 ## 1871 Governor Blackall buried
 
@@ -292,4 +292,4 @@ The Portion History section is derived from [Toowong Cemetery](https://apps.des.
 
 *[Heussler Terrace]: Johann (John) Christian Heussler (1820–1907) was a Member of Queensland's Upper House (1866-1907)
 
-[^1]: From Aboriginal people of Toowong by Arthur Beau Palmer, in [Toowong: A community's history](http://www.toowong.org.au/books_for_sale.htm) by [West Toowong Community Association Inc.](http://www.toowong.org.au)
+[tu-wong]: http://www.toowong.org.au/books_for_sale.htm "From Aboriginal people of Toowong by Arthur Beau Palmer, in Toowong: A community's history by West Toowong Community Association Inc."
