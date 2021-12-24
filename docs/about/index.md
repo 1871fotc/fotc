@@ -1,4 +1,5 @@
 ---
+title: About Us
 search:
   boost: 2  
 ---
