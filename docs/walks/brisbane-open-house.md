@@ -27,6 +27,15 @@ Andrew Petrie was born in Fife, Scotland, on 25 June 1798 to Walter Petrie and M
 - [Toogoolawah / Bulimba House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600179), 34 Kenbury St, Bulimba
 - [Adelaide House (The Deanery)](https://apps.des.qld.gov.au/heritage-register/detail/?id=600078), 417 Adelaide Street, Brisbane
 
+![](../assets/bulimba-house.jpg){ width="70%" }  
+
+*<small>[Bulimba House in Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218956340002061) — State Library of Queensland.</small>*
+
+![](../assets/adelaide-house.jpg){ width="70%" }  
+
+*<small>[Adelaide House or The Deanery, Ann Street, Brisbane, ca. 1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220456580002061) — State Library of Queensland.</small>*
+
+
 <!--
 ??? directions "Directions" 
 
@@ -47,6 +56,15 @@ William's wife, Marion Kirkwood (née Hamilton) died in 1877. Isabel Ker Scott m
 - [Spring Hill Baths](https://apps.des.qld.gov.au/heritage-register/detail/?id=600313), 14 Torrington St. 1886
 
 
+![](../assets/colonial-mutual-chambers.jpg){ width="40%" }  
+
+*<small>[File:62 Queen Street (2008).jpg](https://commons.wikimedia.org/wiki/File:62_Queen_Street_(2008).jpg) — Heritage branch staff, State of Queensland, via Wikimedia Commons.</small>*
+
+![](../assets/spring-hill-baths.jpg){ width="70%" }  
+
+*<small>[Spring Hill Baths, ca. 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338600002061) State Library of Queensland.</small>*
+
+
 ## William Macfarlane <small>(14‑7‑20/21)</small>
 
 William Macfarlane, a son of John Macfarlane and Mary (née Hudson)was born on 30 May 1832 in Bonhill, Dunbartonshire, Scotland. Mary Munn married William in Bonhill on 8 June 1857. After Mary's death in 1864, Agnes Park married William in Brisbane on 2 June 1865. William died at his Adelaide Street residence on the 10 June 1886, aged 54 years.
@@ -55,6 +73,21 @@ William Macfarlane, a son of John Macfarlane and Mary (née Hudson)was born on 3
 
 - [Former Museum / State Library](https://apps.des.qld.gov.au/heritage-register/detail/?id=600177), William St. 1877-1879
 - [Rothwells](https://apps.des.qld.gov.au/heritage-register/detail/?id=600094) and [Rowes](https://apps.des.qld.gov.au/heritage-register/detail/?id=600095) Buildings, Edward St. 1885
+
+![](../assets/state-library-former.jpg){ width="70%" }  
+
+*<small>[State Library (former)](https://apps.des.qld.gov.au/heritage-register/detail/?id=600177#) — The State of Queensland 2021.</small>*
+
+
+![](../assets/rothwells-building.jpg){ width="70%" }  
+
+*<small>[Rothwells Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600094) — The State of Queensland 2021.</small>*
+
+<!--
+![](../assets/rowes-building.jpg){ width="40%" }  
+
+*<small>[Rowes Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600095#) — The State of Queensland 2021.</small>*
+-->
 
 ## Henry Holmes <small>(1‑7‑15/16/17)</small>
 
@@ -83,6 +116,11 @@ Arthur Midson was born in London in the last quarter of 1852 to James Midson and
 - [Executive Building / Land Administration Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600123), 142 George St. 1901-1905
 
 
+![](../assets/executive-building.jpg){ width="70%" }  
+
+*<small>[Executive Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600123#) — The State of Queensland 2021.</small>*
+
+
 ## George John Ely <small>(13‑89‑1)</small>
 
 George John Ely was a son of Thomas Ely & Maria (née Walker). G J arrived in Brisbane with his wife Christina (née Reid) and eldest son George Edward aboard the *Queen of the South* on 8 December 1865. G J, a resident at 7 Fortescue Street, Spring Hill, died on 15 August 1877. G J's funeral notice described him as late of Edinburgh & Nottingham.
@@ -90,6 +128,11 @@ George John Ely was a son of Thomas Ely & Maria (née Walker). G J arrived in Br
 ### Notable surviving Brisbane works
 
 - [All Saints Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600168), Wickham Terrace (with Mr Polworth). 1869
+
+
+![](../assets/all-saints-anglican-church-2009.jpg){ width="70%" }  
+
+*<small>[All Saints Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600168#) — The State of Queensland 2021.</small>*
 
 
 ## Joshua Jeays <small>(13‑62‑13/14)</small>
@@ -102,6 +145,10 @@ Joshua Jeays was born in Bardon, Leicester in 1812. Sarah Edwyn married Joshua i
 - [Bardon House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600053), 41 The Drive, Bardon. 1863-1864
 
 
+![](../assets/old-government-house.jpg)
+
+*<small>[Old Government House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600118) — The State of Queensland 2021.</small>*
+
 ## Ebenezer Chapman <small>(13‑34‑11)</small>
 
 Born in Sandon, Hertfordshire on 12 July 1843, Ebenezer Chapman's parents were Thomas Field Chapman and Hephzibah (née Kent). Ebenezer arrived in Moreton Bay with his family aboard the *Blenheim* on 12 October 1857. Sarah Griffin married Ebenezer in Brisbane on 6 December 1871. Ebenezer died at his daughter's residence, Primrose Street, Sherwood on 11 July 1929, aged 85 years and 364 days.
@@ -112,12 +159,10 @@ Born in Sandon, Hertfordshire on 12 July 1843, Ebenezer Chapman's parents were T
 - [Toombul Shire Hall](https://apps.des.qld.gov.au/heritage-register/detail/?id=600272), 1141 Sandgate Rd, Nundah. 1891
 
 
-<!--
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
+![](../assets/toombul-shire-hall-former.jpg){ width="70%" } 
 
-*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
+*<small>[Toombul Shire Hall (former)](https://apps.des.qld.gov.au/heritage-register/detail/?id=600272) — The State of Queensland 2021.</small>*
 
--->
 
 ## Acknowledgements
 
