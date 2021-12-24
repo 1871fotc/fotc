@@ -12,14 +12,6 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 <!-- Should these walks be elaborated on or some "incomplete" ones moved to the Guided Tours section? -->
 
-???+ directions "Format improvements" 
-
-    We're improving the self-guided walks by converting them to a mobile-friendly format, adding maps, walking instructions, and photos. 
-
-    Walks marked with an :octicons-pencil-24: are work in progress. 
-    
-    All walks include a link to a brochure you can print.
-
 <!-- 
 
 ![](../assets/self-guided-walk-brochures.jpg){ width="50%" } 
@@ -74,7 +66,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[The Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[The Convicts][convicts]** - connections to our convict past
 - **[The Irish][irish-trail]** - a historic Pub crawl around Brisbane
-- **[The Jewish][jewish-trail]**  :octicons-pencil-24:
+- **[The Jewish][jewish-trail]**  
 - **[The Lutheran][lutheran-trail]** 
 
 ## Themed walks
