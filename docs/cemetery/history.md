@@ -7,7 +7,7 @@ title: History
 
 ## Traditional Owners
 
-Prior to 1875, the flat area where the entrance of Toowoong Cemetery now stands was an [Aboriginal Corroboree Ground](https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/). **[Toowong is a corruption of Tu-wong][tu-wong]**, purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
+Prior to 1875, the flat area where the entrance of Toowoong Cemetery now stands was an [Aboriginal Corroboree Ground](https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/). **[Toowong is a corruption of *Tu-wong*][tu-wong]**, purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
 
 ## 1871 Governor Blackall buried
 
