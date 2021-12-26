@@ -31,7 +31,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
 ???+ directions "Directions" 
 
-    Starting from the ==TOP LEFT HAND== corner of the small Jewish portion, walk down the first row, looking left. About the 16th headstone from the start is the grave of...
+    Starting in Portion 3 from the Peter Jackson Parade end and closest to Frederick street, walk down the first row, looking left. About the 16th headstone from the start is the grave of...
     
     ![](../assets/sam-burmister.jpg){ width="20%" }
 
