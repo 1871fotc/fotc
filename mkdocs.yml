@@ -14,32 +14,21 @@ theme:
   language: en
   name: material
   logo: assets/fotc-logo.png
-#  logo: assets/alternative-logo.png
   favicon: assets/favicon.ico
-#  icon:
-#    repo: fontawesome/brands/github-alt
   font:
-#    text: Poppins
     text: Raleway
     code: Roboto Mono 
   palette:
-#    - media: "(prefers-color-scheme: light)"
     - scheme: default
       primary: deep-purple
       accent: purple
       toggle:
-        icon: fontawesome/solid/sun
         icon: octicons/sun-16
-#        icon: material/cross-celtic
         name: Switch to dark mode
-#    - media: "(prefers-color-scheme: dark)"
     - scheme: slate
       primary: purple
       accent: purple
       toggle:
-#        icon: fontawesome/solid/moon
-#        icon: octicons/moon-16
-#        icon: material/ghost
         icon: custom/ghost
         name: Switch to light mode
   icon:
