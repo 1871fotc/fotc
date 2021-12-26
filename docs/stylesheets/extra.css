@@ -83,10 +83,12 @@ th {
           mask-image: var(--md-admonition-icon--directions); 
 }
 
-/*
+
 [data-md-color-scheme="ghost"] {
-  --md-primary-fg-color:        #000000;
-  --md-primary-fg-color--light: #ff0000;
-  --md-primary-fg-color--dark:  #00ff00;
+  --md-primary-fg-color: #000000;
+  --md-default-fg-color--light: #fff;
+  --md-default-fg-color--dark: #000;
+  --md-typeset-a-color: #ab47bd;
+  --md-typeset-color: #fff;
+  --md-default-bg-color: hsla(232,15%,21%,1);
 }
-*/
