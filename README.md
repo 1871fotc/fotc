@@ -38,7 +38,7 @@ Run locally `$ mkdocs serve` to preview your site before publishing
 
 Build `$ mkdocs build` creates html files in \site
 
-Deploy occurs when their is a commit to the main branch which triggers a [workflow](https://github.com/Stephen-Gates/fotc/blob/main/.github/workflows/ci.yml)
+Deploy occurs when there is a commit to the main branch which triggers a [workflow](https://github.com/Stephen-Gates/fotc/blob/main/.github/workflows/ci.yml)
 
 Keep things up-to-date:
 
