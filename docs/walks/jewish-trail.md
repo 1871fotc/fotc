@@ -24,7 +24,7 @@ icon: octicons/pencil-24
  
 This is a Jewish Cemetery. Our population in Queensland is quite small, so its cemeteries number only ten and some have rarely been used. In Brisbane there is one at Toowong dating back from the 1870's and the other is at Mt Gravatt, which opened in 1966. Originally there was a small area in the old Lang Park (Paddington) Cemetery, but that was closed and the 3 known Jewish burials, and their monuments, were brought to Toowong in 1913. 
 
-Jewish deceased are buried with their heads toward the East. This has a religious significance. Only one person is buried in each grave. Before the coffin is covered with earth, a small amount of soil of the Holy City of Jerusalem is sprinkled over it. Burial is conducted by a world‑wide, ancient organisation called the "Chevra Kadisha" (The Sacred Society). It has a variety of duties, all of a compassionate nature, e.g. care of orphans and widows, comfort of the dying, charity etc.
+Jewish deceased are buried with their heads toward the East. This has a religious significance. Only one person is buried in each grave. Before the coffin is covered with earth, a small amount of soil of the Holy City of Jerusalem is sprinkled over it. Burial is conducted by a world‑wide, ancient organisation called the "Chevra Kadisha" (The Sacred Society). It has a variety of duties, all of a compassionate nature, e.g. care of orphans and widows, comfort of the dying, charity, etc.
 
 Examples of vandalism will be seen in this cemetery. This is a world‑wide malady and difficult to prevent, as the damage is usually done late at night. It usually occurs during school vacations, indicating that the pupils, with no homework to do, are seeking cheap "thrills". On the occasions on which it occurs, the Chevra Kadisha promptly restores the damaged monuments. Some only need to be stood up and secured; others are broken when they fall. If they are thin marble slabs, they break easily and it is better to mount them on a sloping cement plinth so they cannot be toppled again. If the headstone is badly broken, it must be replaced. It is not feasible to insure grave monuments against vandalism.
 
@@ -276,7 +276,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
 
     The third grave after the SHEMOTH grave and in the rear row is that of…
     
-    ![](../assets/e-s-meyers.jpg){ width="20%" }
+    ![](../assets/errol-meyers.jpg){ width="20%" }
 
 ## E. S. Meyers <small>(3‑22‑22)</small>
 
@@ -288,7 +288,7 @@ Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First 
 
     Walking along to the fifth monument and at the rear of it is the grave of...
     
-    ![](../assets/e-m-margulies.jpg){ width="20%" }
+    ![](../assets/eric-margulies.jpg){ width="20%" }
 
 
 ## Dr E. M. Margulies <small>(3‑21‑8)</small>
@@ -338,7 +338,7 @@ Sali was Queensland's greatest bush balladeer and wrote many songs about the dro
 
     Moving along the path for another 10 monuments, you will come to the grave of...
     
-    ![](../assets/samuel-joseph-levy.jpg){ width="20%" }
+    ![](../assets/samuel-joseph-levy-headstone.jpg){ width="20%" }
 
 
 ## Samuel Joseph Levy <small>(3‑8‑20/21)</small>
@@ -349,9 +349,11 @@ When a person dies at a relatively young age, it is sometimes symbolised by a "b
 
     Walking along a couple of graves, we come across some more handsome sandstone monuments bearing the surname of **Phillips**.
 
+    ![](../assets/phillips-headstones.jpg){ width="20%" }
+
     Go to the end of the path and onto the road. The first monument is that of...
     
-    ![](../assets/joseph-hearsch.jpg){ width="20%" }
+    ![](../assets/joseph-hearsch-headstone.jpg){ width="20%" }
 
     
 ## Joseph Hearsch <small>(3‑1A‑1/2)</small>

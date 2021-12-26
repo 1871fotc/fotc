@@ -103,23 +103,27 @@ Books often symbolise the Bible and the faith of its reader. An open book has al
 <!-- photos --> 
 <!-- add caption and plot id -->
 
+<!--
+## Other symbols
+
+![](../assets/d-g-bloomfield-headstone.jpg){ width="40%" } 
+
+![](../assets/d-g-bloomfield-headstone.jpg){ width="40%" } 
+
+-->
+<!-- 
+### Seven pointed star before federation
+
+https://en.wikipedia.org/wiki/Heptagram
+-->
+
+
 ## Lost and Found
 
 In Steele Rudd Avenue you'll find a collection of broken headstones. [Where did they come from?](archaeological-digs.md) Why are they here? What is planned? 
 
 ![](../assets/lost-and-found.jpg) 
 <!-- add caption and plot id -->
-
-<!-- 
-
-## Other signs
-
-### Seven pointed star before federation
-
-https://en.wikipedia.org/wiki/Heptagram
-
-
--->
 
 ## Source
 
@@ -131,7 +135,7 @@ The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conse
 
 ### Copyright
 
-Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes, Lost and Found section, photos and links added.
+Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes, Other Symbols, and Lost and Found sections, photos and links added.
 
 <!-- Links -->
 

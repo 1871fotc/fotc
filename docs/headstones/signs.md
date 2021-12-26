@@ -106,7 +106,11 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
     Have you found the location of an Acronym? [Contact us](../about/index.md#contact-us) with a photo and the details. 
 
-![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823)
+![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
+<!--
+<br>
+![Richard Bowen Headstone 20-20-35/36][20-20-35/36]{ width="32%" } 
+-->
 
 <!-- PPCM Permanent President Courts Martial https://www.awm.gov.au/learn/glossary/p -->
 
@@ -147,3 +151,4 @@ Harwood, J. *The Freemasons* London, Hermes House, 2006
 [1-29-8]: ../assets/sign-aof.jpg "William Wayte Headstone - Ancient Order of Foresters (1-29-8)"
 [eye-of-providence]: ../assets/eye-of-providence.jpg "The Eye of Providence (9-16-9)"
 [9-16-9]: ../assets/muioof-william-thomas-birkbeck-ppcm.jpg "William Thomas Birkbeck - Manchester Unity Independent Order of Odd Fellows (9-16-9)"
+[20-20-35/36]: ../assets/richard-silas-bowen-muioof.jpg "Richard Silas Bowen - Past Grand Master of the Manchester Unity Independent Order of Odd Fellows. Note the two men's hands shaking."
