@@ -44,6 +44,9 @@ In 1912 Thorn came to Brisbane. He took part in many contests at the Brisbane St
 
 Thorn's career was remarkable by the fact that, although only a featherweight, besides fighting In his own class, he fought the leading light-weights and welters, earning the title of "The Grand Old Man of the Ring". Thorn had conducted a physical culture and boxing academy in Brisbane for some years, teaching personally.
 
+![](../assets/frank-thorn-headstone.jpg){ width="40%" }
+
+
 --8<-- "snippets/peter-jackson.md"
 
 ## John (Jack) Dowridge <small>(5‑28‑14)</small>
@@ -57,6 +60,9 @@ In 1872 Dowridge came to Australia. He secured premises in Queen Street, known a
 When Peter Jackson died a public subscription was the means of providing the stone which was placed at the head of the grave, but it was [Jack Dowridge who provided for the purchase](https://trove.nla.gov.au/newspaper/article/71056665) of the land at Toowong cemetery and to pay the funeral expenses.
 
 <!-- Suicide https://trove.nla.gov.au/newspaper/article/54702384?searchTerm=%22Frank%20Thorne%22 -->
+
+
+![](../assets/john-dowridge-headstone.jpg){ width="40%" }
 
 ## Brickwood Colley <small>(2‑51‑2)</small>
 

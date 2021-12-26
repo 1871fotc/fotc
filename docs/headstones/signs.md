@@ -11,10 +11,18 @@ Freed from the restrictions of parish churchyards, municipal cemeteries provided
 
 Friendly societies were mutual aid organisations designed to help predominately working-class people insure themselves against destitution caused by death and illness. Many operated funeral clubs which for a few pence a month protected the contributors from the perceived disgrace of a pauper's grave.
 
-![](../assets/ancient-order-of-forester.jpg){ width="45%" }  ![](../assets/australian-natives- associations.jpg){ width="49%" }  
+![](../assets/ancient-order-of-forester.jpg){ width="44.7%" }  ![](../assets/australian-natives- associations.jpg){ width="49%" }  
 
 *<small>[Members of the Ancient Order of Forester, Court Brunswick, Brisbane, 1922](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_alma21218746750002061&context=L&vid=SLQ&lang=en_US&search_scope=DT&adaptor=Local%20Search%20Engine&tab=dt&query=any,contains,Ancient%20Order%20of%20Foresters&offset=0), State Library of Queensland</small>* <br>
 *<small>[Australian Natives' Association's allegorial display, Brisbane, 1901](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_digitool125779&context=L&vid=SLQ&lang=en_US&search_scope=DT&adaptor=Local%20Search%20Engine&tab=dt&query=any,contains,Australian%20Natives%20Association&offset=0), State Library of Queensland</small>*
+
+
+![](../assets/st-patricks-day-1903.jpg){ width="45.8%" }  ![](../assets/independent-order-of-rechabites.jpg){ width="48%" }   
+
+*<small>[St. Patrick's Day procession, Queen Street, Brisbane, 1903](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249906440002061) — State Library of Queensland. Note 'HACBS' (Hibernian Australia Catholic Benefit Society) shown on the banner.</small>* <br>
+*<small>[Independent Order of Rechabites, Brisbane, ca. 1933](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220362320002061) — State Library of Queensland. </small>*
+
+
 
 Most organisations had rules, ranks and rites and developed a symbolic language which identified its members either by acronym or sign. Members were expected to turn out at funerals of the brethren or close relatives.
 
@@ -28,10 +36,10 @@ Most cemetery visitors are familiar with the compass and square, the working too
 
 The Odd Fellows were so named because they were originally drawn together from an odd variety of trades with insufficient numbers to form their own trade guilds. Their three-link chain stands for Friendship, Love and Truth. A variation is a monogram consisting of the letters F, C and B for friendship, charity and benevolence. Charity is also represented by a hand holding a heart and is most often associated with the Manchester Unity Independent Order of Odd Fellows (MUIOOF).
 
-![](../assets/wooden-hand-heart-in-hand.jpg){ width="47%" }  ![](../assets/odd-fellows.jpg){ width="49%" }  
+![](../assets/wooden-hand-heart-in-hand.jpg){ width="47.2%" }  ![](../assets/odd-fellows.jpg){ width="49%" }  
 
-*<small>[Wooden Hand - Heart in Hand](https://collections.museumsvictoria.com.au/items/251958), Museums Victoria </small>* <br>
-*<small>[Manchester Unity Independent Order of Odd Fellows, ca. 1910](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1413410), State Library of Queensland</small>*
+*<small>[Wooden Hand - Heart in Hand](https://collections.museumsvictoria.com.au/items/251958) —  Museums Victoria </small>* <br>
+*<small>[Manchester Unity Independent Order of Odd Fellows, ca. 1910](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1413410) — State Library of Queensland</small>*
 
 <!-- 
 ## Design elements
@@ -104,7 +112,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
 !!! question "Volunteer opportunity"
 
-    Have you found the location of an Acronym? [Contact us](../about/index.md#contact-us) with a photo and the details. 
+    Have you found the location of a Friendly Society Sign? [Contact us](../about/index.md#contact-us) with a photo and the details. 
 
 ![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
 <!--
