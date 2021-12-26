@@ -5,7 +5,7 @@ hide:
 
 # Colonial Conflicts   
 
-**A Remembrance Day Service and Guided Walk conducted at Toowong Cemetery on the 4th November 2012.**
+**A Remembrance Day Service and Guided Walk conducted at Toowong Cemetery on the 4^th^ November 2012.**
 
     
 [Portion 10](http://www.fotc.org.au/toowong_map.jpg) contains numerous Commonwealth War Graves and received military burials between 1917 and 1942 until they were re-directed to [Lutwyche Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/lutwyche-cemetery). Flowers were cultivated and sold at the Cemetery from Portion 10 until the 1930s. In 1934 the area set apart for soldiers’ graves within Portion 10 was extended to incorporate the flower gardens and the wooden pavilion was demolished. As the military graves were interspersed amongst civilian burials, this portion lacks the familiar formality of a [Commonwealth War Cemetery](https://www.cwgc.org).
@@ -28,20 +28,20 @@ The Citizens’ Band provided music as the public laid wreaths at the Stone. So 
 
 ## ‘A’ Battery Memorial
 
-Prior to Federation each of the Australian colonies maintained its own defence force. These forces were largely comprised of part‑time volunteers and a small number of permanent officers and men. This memorial is to the men of Queensland’s permanent force ‘A’ Battery, Queensland Artillery. All of those named on the memorial died while serving in the Battery, but only one, Driver Sydney Walker, died while on active service. Walker was serving on the 1^st^ Queensland Contingent to the South African War when he died of enteric fever at Bloemfontein. This monument was established in April 1886. A number of soldiers named on the memorial are buried nearby.
+Prior to Federation each of the Australian colonies maintained its own defence force. These forces were largely comprised of part‑time volunteers and a small number of permanent officers and men. This memorial is to the men of Queensland’s permanent force ‘A’ Battery, Queensland Artillery. All of those named on the memorial died while serving in the Battery, but only one, Driver Sydney Walker, died while on active service. Walker was serving on the 1^st^ Queensland Contingent to the South African War when he died of enteric fever at Bloemfontein. This [monument](https://placesofpride.awm.gov.au/memorials/240931) was established in April 1886. A number of soldiers named on the memorial are buried nearby.
 
 ## Caskey Memorial
 
-Unveiled in May 1902, this is the first known monument to the South African War to be erected in Queensland. Lieutenant John Caskey of the Fifth Queensland Imperial Bushmen was killed in action on 27 September 1901 at the Mokari Drift on the Caledon River. The obelisk, made of white Helidon sandstone and draped by a shroud, features emblems of Caskey’s teaching career at Leichhardt Street School, Brisbane and Spring Creek and his sporting interests. A rare memorial to the Anglo‑Boer conflict, this monument is a significant reminder of emerging nationalism and contemporary attitudes to war. Other monuments to him can be found at Clifton RSL and the Allora State School.
+Unveiled in May 1902, this is the first known [monument](https://placesofpride.awm.gov.au/memorials/118226) to the South African War to be erected in Queensland. Lieutenant John Caskey of the Fifth Queensland Imperial Bushmen was killed in action on 27 September 1901 at the Mokari Drift on the Caledon River. The obelisk, made of white Helidon sandstone and draped by a shroud, features emblems of Caskey’s teaching career at Leichhardt Street School, Brisbane and Spring Creek and his sporting interests. A rare memorial to the Anglo‑Boer conflict, this monument is a significant reminder of emerging nationalism and contemporary attitudes to war. Other monuments to him can be found at Clifton RSL and the [Allora State School](https://placesofpride.awm.gov.au/memorials/116791).
 
 ![](../assets/lachlan-caskey.jpg){ width="40%" }  
 
-*<small>[Lieutenant Lachlan J. Caskey of the 5th Queensland Contingent](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool105672) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+*<small>[Lieutenant Lachlan J. Caskey of the 5^th^ Queensland Contingent](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool105672) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
 
 ## John Wyndon Lyon <small>(10‑65‑30)</small>
 
-Lyon was a member of the 2^nd^ Battalion, Natal Contingent and saw action at the Battle of Isandhlwana, Rorke's Drift, Gingalore, the relief of Ekouso and was awarded South African Medal. On 22 January 1879, the 1^st^ Battalion, 24th Regiment of Foot was attacked by Zulus and decimated, with some 858 members killed. A few soldiers were able to escape to the mission station at Rorke’s Drift. The Battle of Rorke’s Drift was depicted in the [1964 movie Zulu](https://en.wikipedia.org/wiki/Zulu_(1964_film)). Eight officers and 135 men successfully defended the station. Eleven Victoria Crosses were later issued, the most in any British battle. Lyon died on 21 April 1934 aged 81.
+Lyon was a member of the 2^nd^ Battalion, Natal Contingent and saw action at the Battle of Isandhlwana, Rorke's Drift, Gingalore, the relief of Ekouso and was awarded South African Medal. On 22 January 1879, the 1^st^ Battalion, 24th Regiment of Foot was attacked by Zulus and decimated, with some 858 members killed. A few soldiers were able to escape to the mission station at Rorke’s Drift. The Battle of Rorke’s Drift was depicted in the [1964 movie Zulu](https://en.wikipedia.org/wiki/Zulu_(1964_film)). Eight officers and 135 men successfully defended the station. Eleven Victoria Crosses were later issued, the most in any British battle. Lyon [died](https://trove.nla.gov.au/newspaper/article/1193194) on 21 April 1934 aged 81.
 
 
 --8<-- "snippets/charles-heaphy.md"
@@ -55,13 +55,13 @@ He then emigrated to New Zealand was just at that time proclaimed a British colo
 
 ## Lieutenant John Higson <small>(2A‑31‑16)</small>
 
-Higson went to the Boer War with the 4th Contingent. Prior to embarkation, he had been a school teacher at South Brisbane. While on service, Higson was shot through the head. After regaining consciousness, he was helped off the battlefield and eventually returned to Queensland little worse for wear. After recuperating, he returned to South Africa, intending to return to the conflict just as the contingent was ordered back. He returned to teaching and was active in musical and masonic activities. 
+[Higson](https://www.awm.gov.au/collection/R1446575) went to the Boer War with the 4^th^ Contingent. Prior to embarkation, he had been a school teacher at South Brisbane. While on service, Higson was shot through the head. After regaining consciousness, he was helped off the battlefield and eventually returned to Queensland little worse for wear. After recuperating, he returned to South Africa, intending to return to the conflict just as the contingent was ordered back. He returned to teaching and was active in musical and masonic activities. 
 
 His death on the 13 November 1902 aged 38 was unexpected. He was afforded a military funeral. The coffin, covered by the Union Jack, left his residence at Taringa on a gun carriage. At the corner of Jephson Street and Sylvan Road, a military cortege consisting of soldiers, sailors, band and firing party from the South Brisbane State School joined in the procession to the cemetery.
 
 ## Robert Orton <small>(5‑66‑4)</small>
 
-Orton served with the 9th Lancers for twelve years including service in the second Afghanistan War from 1878 to 1880. He resigned from the army in 1885 and worked briefly for Queensland railways before making his application to be a police constable in October that year. He was stationed at South Brisbane in October 1899 when he wrote a letter seeking permission to join A Company, 1^st^ Queensland Mounted Infantry. Some of the officers he had served under in Afghanistan were at the Boer War and he was keen to join them. He was granted six months leave without pay. So he was one of ‘the first of the first’ Queenslanders to go to the Boer War. 
+Orton served with the 9^th^ Lancers for twelve years including service in the second Afghanistan War from 1878 to 1880. He resigned from the army in 1885 and worked briefly for Queensland railways before making his application to be a police constable in October that year. He was stationed at South Brisbane in October 1899 when he wrote a letter seeking permission to join A Company, 1^st^ Queensland Mounted Infantry. Some of the officers he had served under in Afghanistan were at the Boer War and he was keen to join them. He was granted six months leave without pay. So he was one of ‘the first of the first’ Queenslanders to go to the Boer War. 
 
 When Orton returned to Brisbane after his Boer War service on the 19 November 1900, the police band was there to meet him at Central Station. He had been repatriated home as he was injured when a horse fell on him. He rejoined the police force however it was not easy for him and in January 1901 he is seeking 19 pounds from the force to top up an allowance he should have received to make up the difference between his soldiers pay and his police pay. He pointed out that he was the only married police officer to join the Boer War campaign. Orton died in August 1929 aged 69.
 
@@ -69,7 +69,7 @@ When Orton returned to Brisbane after his Boer War service on the 19 November 19
 
 Vowles, born ca. 1846 in Ipswich, claimed to be the first Queensland‑born soldier to serve overseas for the Empire. As a seventeen year old, he participated in the Invasion of Waikato which was a campaign during the middle stages of the New Zealand Wars, fought in the North Island from July 1863 to April 1864. The conflict was between the military forces of the Colonial Government and a federation of rebel Māori tribes known as the Kingitanga Movement. 
 
-On his return he joined the Public Instruction Department in 1869, and spent six years as head master of the Allenstown School (in Rockhampton), six years at North Ipswich and nearly 29 years at Petrie Terrace Brisbane. He retired in 1917. He attained the highest possible rank in the teaching profession, being in class 1, division 1. He was the author of a small book of poems. 
+On his return he joined the Public Instruction Department in 1869, and spent six years as head master of the Allenstown School (in Rockhampton), six years at North Ipswich and nearly 29 years at Petrie Terrace Brisbane. He retired in 1917. He attained the highest possible rank in the teaching profession, being in class 1, division 1. He was the author of [a small book of poems](https://www.oldqldpoetry.com/chubb-and-vowles-two-ipswich-originals), [Sunbeams in Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21120418090002061). 
 
 In 1921, Vowles was elected the president of the Imperial Navy and Army Veterans' Association of Queensland. He died on the 28 November 1928 aged 82.
 
