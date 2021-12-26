@@ -25,7 +25,8 @@ theme:
       toggle:
         icon: octicons/sun-16
         name: Switch to dark mode
-    - scheme: ghost
+#    - scheme: ghost
+    - scheme: slate
       primary: purple
       accent: purple
       toggle:

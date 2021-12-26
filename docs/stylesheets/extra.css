@@ -85,10 +85,16 @@ th {
 
 
 [data-md-color-scheme="ghost"] {
+/*  --md-primary-fg-color: #000000; 
   --md-primary-fg-color: #000000;
+  --md-primary-fg-color--light: #ffee57;
+  --md-primary-fg-color--dark: #fbc02d; */
+  
   --md-default-fg-color--light: #fff;
   --md-default-fg-color--dark: #000;
-  --md-typeset-a-color: #ab47bd;
-  --md-typeset-color: #fff;
+  --md-typeset-a-color--light: #ffec3d;;
+  --md-typeset-a-color--dark: #ffec3d;;
+  --md-typeset-color--light: #fff;
+  --md-typeset-color--dark: #fff;
   --md-default-bg-color: hsla(232,15%,21%,1);
 }
