@@ -1,4 +1,4 @@
-## Kate Mary Smith (1-7-14)
+## Kate Mary Smith <small>(1‑7‑14)</small>
 
 Kate Mary Smith, giving her name to the KM Smith Funerals, was a true pioneer in an era when women pursued domestic duties or worked in service or in factories. Born in Ireland in 1847 as Catherine Mary Farrell, she immigrated to Australia with her brother in the 1860s. Kate Farrell is believed to have worked for the Jardine family on Cape York. Certainly she was at Somerset on 27 January 1868 when she married Marine John Smith at the Registrar’s Office. Their marriage certificate shows John was 29, and a piano forte maker like his father; Kate was 21 and described herself as a servant. 
 

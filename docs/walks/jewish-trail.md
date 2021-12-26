@@ -2,7 +2,6 @@
 date: August 1998
 hide:
   - navigation
-icon: octicons/pencil-24  
 ---
 
 # The Jewish  
@@ -16,8 +15,7 @@ icon: octicons/pencil-24
 
     There's still a little more to do on this page. 
     
-    - Fix the highlighted text
-    - Add photos of some headstones
+    - Add a photo of the Cornelia Harris headstone
     
     This shouldn't stop you from enjoying this walk 
     
@@ -26,7 +24,7 @@ This is a Jewish Cemetery. Our population in Queensland is quite small, so its c
 
 Jewish deceased are buried with their heads toward the East. This has a religious significance. Only one person is buried in each grave. Before the coffin is covered with earth, a small amount of soil of the Holy City of Jerusalem is sprinkled over it. Burial is conducted by a world‑wide, ancient organisation called the "Chevra Kadisha" (The Sacred Society). It has a variety of duties, all of a compassionate nature, e.g. care of orphans and widows, comfort of the dying, charity, etc.
 
-Examples of vandalism will be seen in this cemetery. This is a world‑wide malady and difficult to prevent, as the damage is usually done late at night. It usually occurs during school vacations, indicating that the pupils, with no homework to do, are seeking cheap "thrills". On the occasions on which it occurs, the Chevra Kadisha promptly restores the damaged monuments. Some only need to be stood up and secured; others are broken when they fall. If they are thin marble slabs, they break easily and it is better to mount them on a sloping cement plinth so they cannot be toppled again. If the headstone is badly broken, it must be replaced. It is not feasible to insure grave monuments against vandalism.
+Examples of vandalism will be seen in this cemetery. This is a world‑wide malady and difficult to prevent, as the damage is usually done late at night. <!--It usually occurs during school vacations, indicating that the pupils, with no homework to do, are seeking cheap "thrills". --> On the occasions on which it occurs, the Chevra Kadisha promptly restores the damaged monuments. Some only need to be stood up and secured; others are broken when they fall. If they are thin marble slabs, they break easily and it is better to mount them on a sloping cement plinth so they cannot be toppled again. If the headstone is badly broken, it must be replaced. It is not feasible to insure grave monuments against vandalism.
 
 
 ???+ directions "Directions" 
@@ -189,7 +187,7 @@ Note that not all the Cohanim (the plural) are named "Cohen". The Levites (male 
 
 ## Lipman Abrahams <small>(3‑12‑9)</small>
 
-This is a beautiful carved sandstone monument. The symbol of the book would suggest that the person was well versed in the Hebrew religion. Today such a monument would cost over $100 000. There are few stonemasons about, who could do the work.
+This is a beautiful carved sandstone monument. The symbol of the book would suggest that the person was well versed in the Hebrew religion. <!-- Today such a monument would cost over $100 000. There are few stonemasons about, who could do the work. -->
 
 ??? directions "Directions" 
 
@@ -235,20 +233,28 @@ On this monument is a passage from Proverbs XXXI. It is a fine tribute to a good
 
 The headstone and massive monument would weigh over one tonne. If sculpted today, it would cost an enormous amount.
 
+<!--
 ??? directions "Directions" 
 
-    Now go to the end of this 3^rd^ path and round to the start of the 4th path and look to the right and to the 4^th^ grave of...
+    Now go to the end of this 3^rd^ path and round to the start of the 4^th^ path and look to the right and to the 4^th^ grave of...
     
     ![](../assets/van-millingen.jpg){ width="20%" }
 
 
-## Van Millingen  <!-- (3‑ss‑gg)-->
+## Van Millingen  
 
 ==It would be a pity if this fine Grey‑Gum has to be destroyed before it does further damage. It may have been planted on this grave by someone who meant well but did not realise what damage it could ultimately do. Otherwise, it may have grown from a wind‑blown seed or a seed dropped by a bird. Perhaps the tree will be left to grow after all?==
 
 ??? directions "Directions" 
 
     Walking along the same path another 3 headstones you will come to the grave of...
+    
+    ![](../assets/arthur-hyam.jpg){ width="20%" }
+-->    
+
+??? directions "Directions" 
+
+    Now go to the end of this 3^rd^ path and round to the start of the 4^th^ path and look to the right and to the 7^th^ grave of...
     
     ![](../assets/arthur-hyam.jpg){ width="20%" }
 
