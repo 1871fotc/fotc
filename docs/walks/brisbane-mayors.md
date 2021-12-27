@@ -31,7 +31,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 - **Archibald Watson**, the second Lord Mayor of the City of Brisbane, 1931
 
 <!--
-
 ???+ directions "Directions" 
 
     - Start behind Canon Garland Place in Emma Miller Avenue. 
@@ -44,7 +43,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 --8<-- "snippets/john-petrie.md"
 
 <!--
-
 ??? directions "Directions" 
 
     - walking directions 
@@ -66,6 +64,10 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 --8<-- "snippets/thomas-proe.md"
 
+![](../assets/thomas-proe-1901.jpg){ width="48%" } ![](../assets/thomas-proe-1905.jpg){ width="39.7%" }
+
+*<small>[Mayor Thomas Proe](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Mayor+Thomas+Proe&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) 1901 and 1905 — Brisbane City Council.</small>*
+
 <!--
 
 ??? directions "Directions" 
@@ -77,6 +79,11 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 -->
 
 --8<-- "snippets/john-daniel-heal.md"
+
+![](../assets/john-daniel-heal.jpg){ width="30.3%" } ![](../assets/prince-consort-hotel.jpg){ width="56%" } 
+
+*<small>[Mayor John Daniel Heal](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Mayor+John+Daniel+Heal&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>* <br>
+*<small>[Prince Consort Hotel, Brisbane, 1936](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218131470002061) — State Library of Queensland.</small>*  
 
 <!--
 
@@ -116,18 +123,19 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 --8<-- "snippets/james-swan.md"
 
 <!--
-
 ??? directions "Directions" 
 
     - walking directions
               
-    ![](../assets/richard-symes-warry.jpg){ width="100" }
-
+    ![](../assets/richard-symes-warry-headstone.jpg){ width="100" }
 
 -->
 
-
 --8<-- "snippets/richard-symes-warry.md"
+
+![](../assets/richard-symes-warry.jpg){ width="40%" } 
+
+*<small>[Richard Symes Warry](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Richard+Warry&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*
 
 <!--
 
@@ -135,14 +143,13 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![](../assets/richard-southall.jpg){ width="100" }
+    ![](../assets/richard-southall-headstone.jpg){ width="100" }
 
 -->
 
 --8<-- "snippets/richard-southall.md"
 
 <!--
-
 ??? directions "Directions" 
 
     - walking directions
@@ -154,19 +161,17 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 --8<-- "snippets/john-hardgrave.md"
 
 <!--
-
 ??? directions "Directions" 
 
     - walking directions
               
-    ![missing picture](../assets/joshua-jeays.jpg){ width="100" }
+    ![missing picture](../assets/joshua-jeays-headstone.jpg){ width="100" }
 
 -->
 
 --8<-- "snippets/joshua-jeays.md"
 
 <!--
-
 ??? directions "Directions" 
 
     - walking directions
@@ -178,7 +183,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 --8<-- "snippets/william-pettigrew.md"
 
 <!--
-
 ??? directions "Directions" 
 
     - needs picture
@@ -209,6 +213,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 --8<-- "snippets/william-macnaughton-galloway.md"
 
 <!--
+
 ??? directions "Directions" 
 
     - Retrace your steps back to the starting point

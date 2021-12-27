@@ -6,9 +6,16 @@ search:
 
 # About Us 
 
-![](../assets/fotc-banner-1280x320.png)
-
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
+
+<br>
+
+<!--
+![](../assets/fotc-banner-1280x320.png)
+--> 
+
+![](../assets/fotc-banner-transparent-1280x320.png)
+
 
 ## What we do 
 
