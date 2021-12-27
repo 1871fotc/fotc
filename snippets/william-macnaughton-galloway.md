@@ -1,7 +1,7 @@
 
 ## William MacNaughton Galloway <small>(7A‑41‑18)</small>
 
-Former Mayor of Brisbane, William Galloway commenced building the Breakfast Creek Hotel in 1889. His initials appear on the front façade. It opened its doors in May 1890 and was an immediate success. Galloway remained with the hotel until his death on the 12th of January 1895, after a fall from a second floor window of the hotel (the coroner found that he was drunk at the time of his death). He was born in the city of Perth, Scotland on the 16th of May 1840. 
+Former Mayor of Brisbane, William Galloway commenced building the Breakfast Creek Hotel in 1889. His initials appear on the front façade. It opened its doors in May 1890 and was an immediate success. Galloway remained with the hotel until his death on the 12^th^ of January 1895, after a fall from a second floor window of the hotel (the coroner found that he was drunk at the time of his death). He was born in the city of Perth, Scotland on the 16^th^ of May 1840. 
 
 He was an Alderman in the Brisbane Municipal Council from 1884 to 1891, serving one term as Mayor in 1889. He served on a number of committees, namely the:
 

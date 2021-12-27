@@ -100,11 +100,9 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 -->
 
-
 --8<-- "snippets/john-sinclair.md"
 
 <!--
-
 ??? directions "Directions" 
 
     - walking directions
@@ -121,13 +119,14 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![](../assets/james-swan.jpg){ width="100" }
+    ![](../assets/james-swan-headstone.jpg){ width="100" }
 
 -->
 
 --8<-- "snippets/james-swan.md"
 
 <!--
+
 ??? directions "Directions" 
 
     - walking directions
