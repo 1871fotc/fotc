@@ -6,6 +6,9 @@ hide:
 
 # Brisbane Mayors  
 
+On this trail you'll visit many of the early Mayors of the Town of Brisbane. The City of Brisbane replaced the Town of Brisbane in 1903, which was then replaced by the new City of Brisbane, established in 1925.
+
+<!--
 On this trail you'll visit many of the early Mayors of the **Town of Brisbane**: 
 
 - **John Petrie**, the first mayor of the Town of Brisbane 1859—1862
@@ -29,6 +32,8 @@ The **City of Brisbane** replaced the Town of Brisbane in 1903. Mayors you'll vi
 The **new City of Brisbane**, established in 1925, replaced the former City of Brisbane. You'll visit the Lord Mayor: 
 
 - **Archibald Watson**, the second Lord Mayor of the City of Brisbane, 1931
+
+--> 
 
 <!--
 ???+ directions "Directions" 
