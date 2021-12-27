@@ -103,6 +103,8 @@ The Paddington Memorial commemorates people originally buried in the North Brisb
 
 >***The North Brisbane Burial Grounds at Paddington were opened by 1844 and became the final resting place for thousands of Brisbane's inhabitants over the ensuing decades. Following the opening of the Brisbane General Cemetery of Toowong in 1875, the seven sectarian cemeteries were gradually abandoned. By the end of the 19^th^ century, the site had fallen into a state of disrepair. A decision was made in 1911 to have the Paddington Cemetery converted to public parklands. The memorials were subsequently removed and the opportunity was provided to relatives to relocate the remains and or memorials to other cemeteries including Toowong. Only a few hundred bodies were removed leaving several thousand on the site that became known as Lang Park.***
 
+<br>
+
 >***Lang Park evolved into an iconic inner-city sports ground, with a major redevelopment of the stadium from 2001 to 2003. This resulted in the necessary excavation of sections of the former burial grounds that would be disturbed by construction. A methodical archaeological investigation was undertaken, and the fragmentary remains of 394 unidentified individuals were exhumed from the Episopalian (Anglican), Roman Catholic, and Presbyterian cemeteries. The remains were interred in this memorial in July 2003.***
 
 ## 1921 New Neighbours
@@ -196,6 +198,10 @@ In 2011, while staff prepared a new grave, the headstone of a John Peel was disc
 
 ![](../assets/lost-and-found.jpg){ width="96%" }  
 
+## 2009 Vandalism law changes
+
+In 2009, over 80 gravestones were damaged at Toowong Cemetery. Following a police investigation, four people were charged with wilful damage however at the defendants’ committal hearing in April 2010, the charges were dismissed due to a "loop-hole" in the law. [Friends of Toowong Cemetery successfully partitioned for changes to be made to the law](../assets/documents/2010-vandalism.pdf).
+
 ## 2011 Governor Blackall's funeral re-enactment
 
 On 24 July 2011, 140 years after Governor Blackall was buried, a [re-enactment of the funeral](../about/140-commemoration.md) was performed.
@@ -212,7 +218,7 @@ Today, the Friends of Toowong Cemetery and the Brisbane City Council work togeth
 - The Paddington Memorial, and **[Headstone Symbology](../headstones/)** display
 - The **[Toowong Cemetery Remembrance Walk](https://vimeo.com/540501732)** that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend
 
-**Toowong Cemetery is enjoyed by those who come to visit loved ones, walk their dog, exercise, or discover the history and stories inside.**
+**Toowong Cemetery is enjoyed by those who come to remember loved ones, walk their dog, exercise, or discover the history and stories inside.**
 
 <!-- 
 
