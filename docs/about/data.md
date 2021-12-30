@@ -7,10 +7,10 @@
 Data on this site is published:
 
 - on pages as HTML tables
-- as a Comma Separated Value (.CSV) file 
-- as a [Tabular Data Package](https://specs.frictionlessdata.io/tabular-data-package/) following the [Frictionless Data](https://frictionlessdata.io) specification. This is a .ZIP file that includes: 
+- as a Comma Separated Value (.csv) file 
+- as a [Tabular Data Package](https://specs.frictionlessdata.io/tabular-data-package/) following the [Frictionless Data](https://frictionlessdata.io) specification. This is a .zip file that includes: 
 
-    - a Comma Separated Value (CSV) file representation of the table displayed on the pages
+    - a Comma Separated Value file representation of the table displayed on the pages
     - a JSON [Table Schema](https://specs.frictionlessdata.io/table-schema/) file describing the structure of the data 
     - a [Markdown](https://commonmark.org/help/) Provenance file
 
@@ -85,6 +85,8 @@ We have not decided on a Linked Data publishing toolset yet, but are aware of:
 - [Swirrl](https://www.swirrl.com)
 - [Ontotext](https://www.ontotext.com)
 - [OntoRefine](https://graphdb.ontotext.com/documentation/free/loading-data-using-ontorefine.html)
+- Wikidata 
+- [dBpedia](https://www.dbpedia.org) which runs on [Virtuoso](https://virtuoso.openlinksw.com)
 
 When we work things out, we'll look to follow the W3C [Best Practices for Publishing Linked Data](https://www.w3.org/TR/ld-bp/)
 
@@ -107,9 +109,12 @@ Dynamic visualisations we are considering include:
 
 Our end goal for publishing and linking our data is to enable others to discover and share new stories about Toowong Cemetery.
 
-We may encourage this by participating in hack-a-thons (such as [GovHack](https://govhack.org)), experiments with other organisations. 
+We encourage you to use our data but please follow the terms of the licence and provide [attribution](legal.md). 
+
+We may encourage reuse of our data by participating in hack-a-thons (such as [GovHack](https://govhack.org)), and experiments with other organisations. 
 
 We're inspired by the works of others, including:
 
 - [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939). Our initial inspiration for exploring linked data.
-- [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl). What would Toowong Cemetery sound like? 
+- [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
+- Auckland Museum 

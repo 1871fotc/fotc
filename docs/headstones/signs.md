@@ -19,7 +19,7 @@ Friendly societies were mutual aid organisations designed to help predominately 
 
 ![](../assets/st-patricks-day-1903.jpg){ width="45.8%" }  ![](../assets/independent-order-of-rechabites.jpg){ width="48%" }   
 
-*<small>[St. Patrick's Day procession, Queen Street, Brisbane, 1903](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249906440002061) — State Library of Queensland. Note 'HACBS' (Hibernian Australia Catholic Benefit Society) shown on the banner.</small>* <br>
+*<small>[St. Patrick's Day procession, Queen Street, Brisbane, 1903](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249906440002061) — State Library of Queensland. Note the 'HACBS' (Hibernian Australia Catholic Benefit Society) shown on the banner.</small>* <br>
 *<small>[Independent Order of Rechabites, Brisbane, ca. 1933](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220362320002061) — State Library of Queensland. </small>*
 
 
@@ -94,12 +94,12 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | INF     | Irish National Foresters                                     | Friendly Society | pp-ss-gg           |
 | IOGT    | [Independent Order of Good Templars][IOGT]                   | Temperance       | pp-ss-gg           |
 | IOOF    | Independent Order of Odd Fellows                             | Friendly Society | pp-ss-gg           |
-| IOR     | Independent Order of Rechabites                              | Temperance       | pp-ss-gg           |
+| IOR     | [Independent Order of Rechabites][IOOR]                      | Temperance       | pp-ss-gg           |
 | LOI     | [Loyal Orange Institute][LOI]                                |                  | pp-ss-gg           |
 | MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society | 9-16-9           |
 | NIOOF   | National Independent Order of Odd Fellows                    | Friendly Society | pp-ss-gg           |
 | ODT     | Order of the Daughters of Temperance                         | Temperance       | pp-ss-gg           |
-| OES     | Order of the Eastern Star                                    | Friendly Society | pp-ss-gg           |
+| OES     | [Order of the Eastern Star][OES]                             | Friendly Society | pp-ss-gg           |
 | OST     | Order of the Sons of Temperance                              | Temperance       | pp-ss-gg           |
 | PAFS    | Protestant Alliance Friendly Society                         | Friendly Society | pp-ss-gg           |
 | RA      | [Royal Arch][RA]                                             | Friendly Society | pp-ss-gg           |
@@ -108,6 +108,9 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | SC      | Scottish Constitution                                        | Freemasonry      | pp-ss-gg           |
 | UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society | pp-ss-gg           |
 | UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry      | pp-ss-gg           |
+
+
+[Pugh's Queensland almanac, directory and law calendar](https://nla.gov.au/nla.obj-2935152949/view?sectionId=nla.obj-2943918410&partId=nla.obj-2935176853#page/n179/mode/1up) lists Masonic Lodges, Friendly Societies, and Temperance Societies in Queensland in 1881. 
 
 
 !!! question "Volunteer opportunity"
@@ -149,8 +152,10 @@ Harwood, J. *The Freemasons* London, Hermes House, 2006
 [AHCG]: https://trove.nla.gov.au/newspaper/article/261238209?searchTerm=Australasian%20Holy%20Catholic%20Guild "AHCG on Trove"
 [ANA]: https://www.nma.gov.au/defining-moments/resources/australian-natives-association
 [IOGT]: https://movendi.ngo/about-movendi/the-movendi-way/who-we-are/the-history/
+[IOOR]: https://www.australianrechabites.org.au/states/qld-rechabites/
 [LOI]: https://www.facebook.com/pages/category/Religious-Organization/Loyal-Orange-Institution-of-Queensland-895315537148498/ "Loyal Orange Institute Queensland on Facebook"
 [MUIOOF]: https://www.facebook.com/groups/535759726633938/?ref=share
+[OES]: https://www.oesaustralia.org.au/index.php/state/qld/
 [RA]: https://www.royalarch.org.au
 [RBP]: http://royalblack.org/mission-statement/our-history/
 [UAOD]: https://en.wikipedia.org/wiki/United_Ancient_Order_of_Druids "UAOD on Wikipedia"

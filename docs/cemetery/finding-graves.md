@@ -71,7 +71,7 @@ You can **[ask the Toowong Cemetery Office for assistance finding graves](https:
 **Friends of Toowong Cemetery can also assist finding graves. [Contact us](../about/index.md#contact-us)** to ask us to:
 
   - mark the side of the road with the section number relating to your search to help you to find it easily when you visit.
-  - outline an unmarked grave using a surface spray if the grave is unmarked. The spray does no harm and two mowings later it will disappear. 
+  - outline an unmarked grave using a surface spray. The spray does no harm and two mowings later it will disappear. 
   - take digital photographs of a grave and email it to you.
 
 ![](../assets/unmarked-graves.jpg){ width="100%" }

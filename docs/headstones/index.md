@@ -1,15 +1,16 @@
 ---
-search:
-  boost: 2  
+ 
 ---
 
-#  Headstone Symbolism
+# Headstone Symbols 
+
+## Toowong Cemetery Symbolism
 
 The Toowong Cemetery is a Brisbane icon and was once the city's main cemetery. Toowong Cemetery officially opened in July 1875, however burials took place from 1871 (most notably Queensland's second governor, Colonel Samual Blackall in 1871).
 
 Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll see the traditions and symbols from her reign throughout the cemetery.
 
-In [Portion 2](../cemetery/finding-graves.md) of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones from the old [Paddington cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) which closed in 1914. 
+In [Portion 2](../cemetery/finding-graves.md) of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones from the old [Paddington cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) which closed in 1914.
 
 ![](../assets/symbolism-display.jpg)
 
@@ -131,11 +132,11 @@ Gillon, E. (1972). [Victorian Cemetery Art][Victorian Cemetery Art]. New York: D
 
 ## Further Reading
 
-The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conservation](https://www.nationaltrust.org.au/services/cemetery-conservation/) has further information on headstone and monument conservation, terminology and symbology. 
+The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conservation](https://www.nationaltrust.org.au/services/cemetery-conservation/) has further information on headstone and monument conservation, terminology, symbology, and shapes. 
 
 ### Copyright
 
-Toowong Cemetery Symbolism © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes, Other Symbols, and Lost and Found sections, photos and links added.
+*Toowong Cemetery Symbolism*, © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes applied. The *Other Symbols*, and *Lost and Found* sections, photos and links have beed added.
 
 <!-- Links -->
 

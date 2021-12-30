@@ -5,7 +5,23 @@ search:
 
 #  Headstone Shapes
 
-You will find many different types of headstones in Toowong Cemetery. Examples of each style are shown below. 
+You will find many different headstones shapes in Toowong Cemetery. Examples of some of the most common shapes are shown below. 
+
+## Temporary catalogue of shapes to help collect photos
+
+![](../assets/slabs-1.png)
+
+![](../assets/slabs-2.png)
+
+![](../assets/crosses.png)
+
+![](../assets/pillars.png)
+
+![](../assets/horizontal-slabs-and-desks.png)
+
+![](../assets/miscellaneous-and-surrounds.png)
+
+![](../assets/embelishment.png)
 
 ## Upright Slabs / Stelae
 
@@ -16,35 +32,35 @@ You will find many different types of headstones in Toowong Cemetery. Examples o
     Contribute a photo of a headstone shape and tell us where you found it. 
     
     
-![Rectangular](../assets/rectangular.png){ width="32%" } ![Cambered](../assets/cambered.png){ width="32%" } ![Semicircular](../assets/semicircular.png){ width="32%" }
+![Rectangular](../assets/rectangular.jpg){ width="32%" } ![Cambered](../assets/cambered.jpg){ width="32%" } ![Semicircular](../assets/semicircular.jpg){ width="32%" }
 
 *<small>Rectangular, Cambered, Semicircular</small>*
 
-![Semicircular with shoulders](../assets/semicircular-with-shoulders.png){ width="32%" } ![Semicircular with acroteria](../assets/semicircular-with-acroteria.png){ width="32%" } ![Semicircular with cut away shoulders](../assets/semicircular-with-cut-away-shoulders.png){ width="32%" }
+![Semicircular with shoulders](../assets/semicircular-with-shoulders.jpg){ width="32%" } ![Semicircular with acroteria](../assets/semicircular-with-acroteria.jpg){ width="32%" } ![Semicircular with cut away shoulders](../assets/semicircular-with-cut-away-shoulders.jpg){ width="32%" }
 
 *<small>Semicircular with shoulders, Semicircular with acroteria, Semicircular with cut away shoulders</small>*
 
-![Gothic](../assets/gothic.png){ width="32%" } ![Gothic with shoulders](../assets/gothic-with-shoulders.png){ width="32%" } ![Gothic with acroteria](../assets/gothic-with-acroteria.png){ width="32%" }
+![Gothic](../assets/gothic.jpg){ width="32%" } ![Gothic with shoulders](../assets/gothic-with-shoulders-2.jpg){ width="32%" } ![Gothic with acroteria](../assets/gothic-with-acroteria.jpg){ width="32%" }
 
 *<small>Gothic, Gothic with shoulders, Gothic with acroteria </small>*
 
-![Ogee](../assets/ogee.png){ width="32%" } ![Anthropomorphic](../assets/anthropomorphic.png){ width="32%" } ![Anthropomorphic with peaked shoulders](../assets/anthropomorphic-with-peaked-shoulders.png){ width="32%" }
+![Ogee](../assets/ogee.jpg){ width="32%" } ![Anthropomorphic](../assets/anthropomorphic.jpg){ width="32%" } ![Anthropomorphic with peaked shoulders](../assets/anthropomorphic-with-peaked-shoulders.jpg){ width="32%" }
 
 *<small>Ogee, Anthropomorphic, Anthropomorphic with peaked shoulders</small>*
 
-![Gabled](../assets/gabled.png){ width="32%" } ![Pedimented](../assets/pedimented.png){ width="32%" } ![Gabled with shoulders](../assets/gabled-with-shoulders.png){ width="32%" }
+![Gabled](../assets/gabled.jpg){ width="32%" } ![Pedimented](../assets/pedimented.jpg){ width="32%" } ![Gabled with shoulders](../assets/gabled-with-shoulders.jpg){ width="32%" }
 
 *<small>Gabled, Pedimented, Gabled with shoulders</small>*
 
-![Gabled with peaked shoulders](../assets/gabled-with-peaked-shoulders.png){ width="32%" } ![Stepped shoulders](../assets/stepped-shoulders.png){ width="32%" } ![Cruciform](../assets/cruciform.png){ width="32%" }
+![Gabled with peaked shoulders](../assets/gabled-with-peaked-shoulders.jpg){ width="32%" } ![Stepped shoulders](../assets/stepped-shoulders.jpg){ width="32%" } ![Cruciform](../assets/cruciform.jpg){ width="32%" }
 
 *<small>Gabled with peaked shoulders, Stepped shoulders, Cruciform</small>*
 
-![Cross surmount with shoulders](../assets/cross-surmount-with-shoulders.png){ width="32%" } ![Circular surmount with shoulders](../assets/circular-surmount-with-shoulders.png){ width="32%" } ![Diamond](../assets/diamond.png){ width="32%" }
+![Cross surmount with shoulders](../assets/cross-surmount-with-shoulders.jpg){ width="32%" } ![Circular surmount with shoulders](../assets/circular-surmount-with-shoulders.jpg){ width="32%" } ![Diamond](../assets/diamond.jpg){ width="32%" }
 
 *<small>Cross surmount with shoulders, Circular surmount with shoulders, Diamond</small>*
 
-![Double](../assets/double.png){ width="32%" } ![Stylised double](../assets/stylised-double.png){ width="32%" } ![Heart](../assets/heart.png){ width="32%" }
+![Double](../assets/double.jpg){ width="32%" } ![Stylised double](../assets/stylised-double.jpg){ width="32%" } ![Heart](../assets/heart.jpg){ width="32%" }
 
 *<small>Double, Stylised double, Heart</small>*
 
@@ -80,15 +96,15 @@ You will find many different types of headstones in Toowong Cemetery. Examples o
 ![](../assets/crosses.png){ width="49%" }
 
 
-![Circular Latin](../assets/circular-latin.png){ width="32%" } ![Rustic Latin](../assets/rustic-latin.png){ width="32%" } ![Roman with 3 steps](../assets/roman-3-steps.png){ width="32%" }
+![Circular Latin](../assets/circular-latin.jpg){ width="32%" } ![Rustic Latin](../assets/rustic-latin.jpg){ width="32%" } ![Roman with 3 steps](../assets/roman-3-steps.jpg){ width="32%" }
 
 *<small>Circular Latin, Rustic Latin, Roman/Latin (with 3 steps - Calvary)</small>*
 
-![Celtic](../assets/celtic.png){ width="32%" } ![Saxon](../assets/saxon.png){ width="32%" } ![Cornish](../assets/cornish.png){ width="32%" }
+![Celtic](../assets/celtic.jpg){ width="32%" } ![Saxon](../assets/saxon.jpg){ width="32%" } ![Cornish](../assets/cornish.jpg){ width="32%" }
 
 *<small>Celtic, Saxon, Cornish</small>*
 
-![Eastern/Russian Orthodox](../assets/orthodox.png){ width="32%" } ![Lorrain](../assets/lorrain.png){ width="32%" } 
+![Eastern/Russian Orthodox](../assets/orthodox.jpg){ width="32%" } ![Lorrain](../assets/lorrain.jpg){ width="32%" } 
 
 *<small>Eastern/Russian Orthodox, Lorrain</small>*
 
@@ -108,12 +124,12 @@ You will find many different types of headstones in Toowong Cemetery. Examples o
 ![](../assets/pillars.png){ width="49%" } 
 
 
-![Pedestal (Champhered base)](../assets/pedestal.png){ width="32%" } ![Lorrain](../assets/lorrain.png){ width="32%" } ![Column](../assets/column.png){ width="32%" }
+![Pedestal (Champhered base)](../assets/pedestal.jpg){ width="32%" } ![Lorrain](../assets/lorrain.jpg){ width="32%" } ![Column](../assets/column.jpg){ width="32%" }
 
 *<small>Pedestal (Champhered base), Obelisk (Stepped base), Column</small>*
 
 
-![Broken Column](../assets/broken-column.png){ width="32%" } 
+![Broken Column](../assets/broken-column.jpg){ width="32%" } 
 
 *<small>Broken Column</small>*
 
@@ -126,11 +142,11 @@ You will find many different types of headstones in Toowong Cemetery. Examples o
 
 ## Sculptures
 
-![Urn](../assets/urn.png){ width="32%" } ![Draped Urn](../assets/draped-urn-1x1.jpg){ width="32%" } ![Angel](../assets/column.png){ width="32%" }
+![Urn](../assets/urn.jpg){ width="32%" } ![Draped Urn](../assets/draped-urn-2.jpg){ width="32%" } ![Angel](../assets/angel.jpg){ width="32%" }
 
 *<small>Urn, Draped Urn, Angel</small>*
 
-![Angel and Cross](../assets/angel-and-cross.png){ width="32%" } 
+![Angel and Cross](../assets/angel-and-cross.jpg){ width="32%" } 
 
 *<small>Composite - Angel and Cross</small>*
 
@@ -145,11 +161,11 @@ You will find many different types of headstones in Toowong Cemetery. Examples o
 
 ![](../assets/horizontal-slabs-and-desks.png){ width="49%" }
 
-![Table](../assets/table.png){ width="32%" } ![Altar](../assets/altar.jpg){ width="32%" } ![Sarcophagus](../assets/sarcophagus.png){ width="32%" }
+![Table](../assets/table.jpg){ width="32%" } ![Altar](../assets/altar.jpg){ width="32%" } ![Sarcophagus](../assets/sarcophagus.jpg){ width="32%" }
 
 *<small>Table, Altar, Sarcophagus</small>*
 
-![Coffin](../assets/coffin.png){ width="32%" } ![Slab and desk](../assets/slab-and-desk.jpg){ width="32%" } 
+![Coffin](../assets/coffin.jpg){ width="32%" } ![Slab and desk](../assets/slab-and-desk.jpg){ width="32%" } 
 
 *<small>Coffin, Slab and desk</small>*
 
@@ -163,7 +179,7 @@ You will find many different types of headstones in Toowong Cemetery. Examples o
 
 ## Desk Decoration
 
-![Tablet](../assets/tablet.png){ width="32%" } ![Book](../assets/book.jpg){ width="32%" } ![Scroll](../assets/scroll.png){ width="32%" }
+![Tablet](../assets/tablet.jpg){ width="32%" } ![Book](../assets/book.jpg){ width="32%" } ![Scroll](../assets/scroll.jpg){ width="32%" }
 
 *<small>Tablet, Book, Scroll</small>*
 
