@@ -3,7 +3,7 @@ hide:
   - navigation
 
 search:
-  boost: 2  
+  boost: 1  
 ---
 
 # Guided Tours
@@ -11,6 +11,14 @@ search:
 ## Free Guided Tours
 -->
 
+!!! warning "COVID-19 Restrictions" 
+
+    - Due to COVID-19 our guided tours are **limited to 15 guests** to enable social distancing to be maintained. 
+    - Guests will be required to use the **[Check In Qld](https://www.covid19.qld.gov.au/check-in-qld)** App to check in.
+    - Unfortunately we don't have a booking system, so guests will be invited to join us on a "first come, first served" basis. 
+    - We apologise in advance if you come to the cemetery but are unable to join the tour due to it being over-subscribed. There are many **[self-guided walks](../walks/)** you can do as an alternative.
+    
+    
 Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year. 
 
 ![][image11]{ width="32%" } ![][image9]{ width="32%" } ![][image8]{ width="32%" }
@@ -66,13 +74,11 @@ Our August heritage walking tour is from **10:30 to 12:00 on Sunday 7 August 20
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220807.ics)**
 
-## 11 September 2022
+## 4 September 2022
 
-Our September heritage walking tour is from **10:30 to 12:00 on Sunday 11 September 2022**. 
+Our September heritage walking tour is from **10:30 to 12:00 on Sunday 4 September 2022**.  
 
-Our walks are usually on the first Sunday of the month but that's Father's Day. 
-
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220911.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220904.ics)**
 
 ## 2 October 2022
 
