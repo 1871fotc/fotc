@@ -117,4 +117,4 @@ We're inspired by the works of others, including:
 
 - [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939). Our initial inspiration for exploring linked data.
 - [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
-- Auckland Museum 
+- [Auckland Museum](https://www.aucklandmuseum.com/discover/collections-online/our-data) 
