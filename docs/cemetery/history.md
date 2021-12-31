@@ -31,10 +31,15 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 *<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
-![](../assets/Toowong-cemetery-map-photo.jpg){ width="96%" }  
+[![][map-photo]{ width="96%" }][aerial-photo]  
+
+[map-photo]: ../assets/Toowong-cemetery-map-photo.jpg "Click to view full aerial photo (1.9MB)"
+[aerial-photo]: ../assets/BCC000234691.JPG
+
+
 
 *<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
-*<small>Series 46 Film BCC2 Frame 34691, 31 May 1946  — Brisbane City Council. Frederick St is the straight road on the right, running top to bottom.</small>*
+*<small>Series 46 Film BCC2 Frame 34691, 31 May 1946  — Brisbane City Council, via [QImagery](https://qimagery.information.qld.gov.au). Frederick St is the straight road on the right, running top to bottom.</small>*
 
 ## 1881 Queensland's oldest surviving headstones
 
@@ -110,6 +115,8 @@ The Paddington Memorial commemorates people originally buried in the North Brisb
 ## 1921 New Neighbours
 
 Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*" was a selling point. The Toowong Tram stopped near the main cemetery gates.
+
+(Scroll back to the 1946 aerial photo to see how few allotments were built on 25 years later.)
 
 ![](../assets/chermside-park.jpg){ width="96%" }  
 
