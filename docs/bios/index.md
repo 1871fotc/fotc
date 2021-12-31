@@ -88,6 +88,10 @@ This licence requires you to [attribute our work](../about/legal/#attribution), 
 
 or, if necessary, the attribution may be shortened to:
 
+>[Friends of Toowong Cemetery][index.md] - [CC BY 4.0][CC-BY]
+
+or 
+
 >[Friends of Toowong Cemetery](index.md) [:fontawesome-brands-creative-commons::fontawesome-brands-creative-commons-by:][CC-BY]
 
 ### Data Download
