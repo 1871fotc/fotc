@@ -162,7 +162,7 @@ The [heritage-listed Paddington Tramways Substation](https://apps.des.qld.gov.au
 
 In April 1974 the Cemetery was full with all plots sold. The Brisbane City Council Health Dept was ordered by the then Mayor to start a project to remove hundreds of family owned headstones and grave surrounds in Toowong, Lutwyche, South Brisbane, Balmoral, and God's Acre Pioneer cemetery. Headstones (most of them just needing weeding) were removed from these cemeteries with the aim to make open parklands.
 
-Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. Intervention in 1979 saw an end to the organised vandalism.  The Cemetery reopened in 1998 with approximately 450 plots for sale. 
+Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemetery, headstones were demolished and buried in the canal. The [Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) suggests, "approximately 1,000 memorials were removed from Toowong". Intervention in 1979 saw an end to the organised vandalism. The Cemetery reopened in 1998 with approximately 450 plots for sale. 
 
 --8<-- "snippets/dilapidated-graves.md"
 
@@ -178,7 +178,7 @@ In 1988 the first season of [Mission Impossible](https://en.wikipedia.org/wiki/M
 
 --8<-- "snippets/mission-impossible.md"
 
-## 1996 Friends of Toowong Cemetery formed 
+## 1992 Friends of Toowong Cemetery formed 
 
 Cr. Judy Magub was the first President of the Friends of Toowong Cemetery. Judy was the councillor for the Toowong ward since it was formed in 1994 until she retired in 2007.
 
