@@ -43,24 +43,25 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 ## 1881 Queensland's oldest surviving headstones
 
+Three children originally interred in the North Quay Cemetery, were re‑interred at Toowong Cemetery in October 1881. These are the oldest surviving headstones and footstones in Queensland.
+
+![](../assets/children-on-bank.jpg){ width="96%" }  
+
+*<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell  and Tank Streets. Source unknown.</small>*
+
 Esther Roberts, mother of William Henry Roberts, was the first teacher of girls in the Moreton Bay settlement. His father, Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. William was born on 15 September 1828 and died of illness on 15 November 1831. The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14:
 
 >***Suffer the little children, and forbid them not, to come unto me: for of such belongeth the Kingdom of God.***
 
 It has since been lost to weathering. After the death of their son, the Roberts family returned to Sydney in 1834.
 
-![](../assets/children-on-bank.jpg){ width="96%" }  
-
-*<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell  and Tank Streets. Source unknown.</small>*
 
 Peter McCauley was born in Sydney on 17 April 1826, the son of Private Peter McCauley, a member of the 17^th^ Regiment. His monther, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On 5 January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The  family returned to Sydney in 1832.
 
 Jane Pittard was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Vann Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
 
-These are the oldest surviving headstones and footstones in Queensland.
-
 ![](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
-*<small>Pioneer Children's Graves (13-10-4).</small>*
+*<small>Pioneer Children's Graves (13-10-4). These are the oldest surviving headstones and footstones in Queensland. </small>*
 
 <!--
 Brisbane, 1844 (after a drawing by Carl Friedrich Gerler)

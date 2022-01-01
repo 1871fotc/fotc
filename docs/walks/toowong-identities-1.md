@@ -155,6 +155,8 @@ William, a member of the Jireh Baptist Church, Fortitude Valley, was the first m
 
 Richer Street, on the North West boundary of Toowong Cemetery, is named after William Richer.
 
+<!-- get permission to insert https://www.bhsq.org/barq/churches100years/images/1881-Toowong.html -->
+
 ??? directions "Directions" 
 
     Cross the road and head down the slope until you come across the broken column marking the grave of ...

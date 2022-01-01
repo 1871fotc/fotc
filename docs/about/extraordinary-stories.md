@@ -510,6 +510,8 @@ The hard-working Lades prospered as farmers and fruitgrowers and Thomas Lade won
 
 The Lades were devout Baptists. They had been closely involved with their church in Kent and in Brisbane they were foundation members of the Wharf Street Baptist Church.
 
+<!-- get permission to insert https://www.bhsq.org/barq/churches100years/images/1859-Wharf-St.html -->
+
 When Joseph married in 1869 he and his wife Mary moved further out on Sanford Road to a farm they called *Glen Retreat*. Joseph Lade late in life wrote that his family had bought this land in 1851 when *Surrenden* was purchased but there is evidence to support this date of purchase. Here Joseph planted fruit trees and grapevines while Mary managed a boot and shoe shop on the corner of George and Queen Streets. Mary appears to have been the one with the business head while Joseph was somewhat of a dreamer. As well as managing the city shop Mary bought houses, did them up and sold them.
 
 In the year or two before Joseph and Mary Lade's third child was born in 1874, Joseph wanted to increase the number of his citrus trees so he purchased and then planted seeds of oranges and mandarins. One of the latter seedlings had a distinct foliage and went on to produce a high quality fruit that became known as the Beauty of Glen Retreat mandarin, later shortened to Glen Retreat mandarin. However, its commercial success did not come until Lade had sold the Glen Retreat farm to a Mr W. H. Parker around the turn of the century. Parker actively marketed the fruit and by 1927 this mandarin had world-wide distribution.
