@@ -10,34 +10,36 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 
 <!-- Start with an array of headstone pictures with links. Could extend to include pictures of Celebrities -->
 
-[![6-12-28][6-12-28]{ width="32%" }][Harry Potter] [![28-43-3][2]{ width="32%" }][James Kirk]  [![13-59-8][3]{ width="32%" }][James Bond]
+[![6-12-28][6-12-28]{ width="24%" }][Harry Potter] [![28-43-3][2]{ width="24%" }][James Kirk]  [![13-59-8][3]{ width="24%" }][James Bond]
 
 **Harry Potter** (6‑12‑28), **James Kirk** (28‑43‑3), **James Bond** (13‑59‑8)
 
-[![20-34-13][4]{ width="32%" }][Ella Fitzgerald] [![1-84-12][5]{ width="32%" }][John Lennon] [![16-4-37][6]{ width="32%" }][George Harrison]  
+ [![1-84-12][5]{ width="24%" }][John Lennon] [![16-4-37][6]{ width="24%" }][George Harrison]  [![16-4-37][6]{ width="24%" }][Susan Boyle]  
 
-**Ella Fitzgerald** (20‑34‑13), **John Lennon** (1‑84‑12), **George Harrison** (16‑4‑37)
+**John Lennon** (1‑84‑12), **George Harrison** (16‑4‑37), **Susan Boyle** (26-25-21)
 
-<!--
-[![1-121-36][7]{ width="32%" }][Julius Caesar] 
---> 
 
-[![1-142-32][7]{ width="32%" }][John Kennedy] [![27-1-11][8]{ width="32%" }][Richard Nixon] [![7A-134-8/9][9]{ width="32%" }][James Carter]  
+[![1-121-36][7]{ width="24%" }][Julius Caesar]  [![1-142-32][8]{ width="24%" }][John Kennedy] [![27-1-11][9]{ width="24%" }][Richard Nixon] 
 
-**Julius Caesar** (1‑121‑36), **Richard Nixon** (27‑1‑11), **James 'Jimmy' Carter** (7A‑134‑8/9)
+**Julius Caesar** (1‑121‑36), **John Kennedy** (1-142-32), **Richard Nixon** (27‑1‑11)
 
-[![23-11-4/5][10]{ width="32%" }][Richard Harris] [![2-39-19][11]{ width="32%" }][James Stewart] [![28-54-25][12]{ width="32%" }][Richard Powell]  
+[![23-11-4/5][10]{ width="24%" }][Richard Harris] [![2-39-19][11]{ width="24%" }][James Stewart] [![28-54-25][12]{ width="24%" }][Richard Powell]  [![26-25-6][13]{ width="24%" }][Michael Cain]
 
-**Richard Harris** (23‑11‑4/5), **James Stewart** (2‑39‑19), **Richard Powell** (28‑54‑25)
+**Richard Harris** (23‑11‑4/5), **James Stewart** (2‑39‑19), **Richard Powell** (28‑54‑25), **Michael Cain** (26‑25‑6), 
 
-[![26-25-6][13]{ width="32%" }][Michael Cain] [![7A-113-12/13][14]{ width="32%" }][Ronald Corbett] [![18-130-28][15]{ width="32%" }][Sid James]  
+[![7A-113-12/13][14]{ width="24%" }][Ronald Corbett] 
 
-**Michael Cain** (26‑25‑6), **Ronald 'Ronnie' Corbett** (7A‑113‑12/13), **Sidney 'Sid' James** (18‑130‑28)
+**Ronald 'Ronnie' Corbett** (7A‑113‑12/13)
 
+## Headstones we couldn't find
+
+- James 'Jimmy' Carter (7A‑134‑8/9)
+- Sidney 'Sid' James (18‑130‑28)
+- Ella Fitzgerald (20‑34‑13),
 
 !!! question "Volunteer opportunity"
 
-    Have you found another Celebrity Headstone? [Contact us](../about/index.md#contact-us) with the details, and we'll publish it here.
+    Have you found a Celebrity Headstone? [Contact us](../about/index.md#contact-us) with the details, and we'll publish it here.
 
 <!-- links -->
 
@@ -49,29 +51,22 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 [3]: ../assets/celebrity-headstone.jpg "James Bond headstone 28-43-3"
 
 
-[Ella Fitzgerald]: https://en.wikipedia.org/wiki/Ella_Fitzgerald
-[4]: ../assets/celebrity-headstone.jpg "Ellanor 'Ella' Fitzgerald headstone 20-34-13"
+
 [John Lennon]: https://en.wikipedia.org/wiki/John_Lennon
 [5]: ../assets/celebrity-headstone.jpg "John Lennon headstone 1-84-12"
 [George Harrison]: https://en.wikipedia.org/wiki/George_Harrison
 [6]: ../assets/celebrity-headstone.jpg "George Harrison headstone 16-4-37 (also 18-95-6)"
+[Susan Boyle]: https://en.wikipedia.org/wiki/Susan_Boyle
+[7]: ../assets/susan-boyle.jpg "Susan Boyle headstone 26-25-21"
 
-<!--
 [Julius Caesar]: https://en.wikipedia.org/wiki/Julius_Caesar  
 [7]: ../assets/celebrity-headstone.jpg "Julius Caesar headstone 1-121-36 (misspelt as Ceaser but will get that fixed)"
--->
 
 [John Kennedy]: https://en.wikipedia.org/wiki/John_F._Kennedy
-[7]: ../assets/john-kennedy-headstone.jpg "John Kennedy headstone 1-142-32"
+[8]: ../assets/john-kennedy-headstone.jpg "John Kennedy headstone 1-142-32"
 
 [Richard Nixon]: https://en.wikipedia.org/wiki/Richard_Nixon
-[8]: ../assets/celebrity-headstone.jpg "Richard Nixon headstone 27-1-11"
-
-[James Carter]: https://en.wikipedia.org/wiki/Jimmy_Carter 
-[9]: ../assets/celebrity-headstone.jpg "James 'Jimmy' Carter headstone 7A-134-8/9 (and three others)"
-
-
-
+[9]: ../assets/celebrity-headstone.jpg "Richard Nixon headstone 27-1-11"
 
 [Richard Harris]: https://en.wikipedia.org/wiki/Richard_Harris
 [10]: ../assets/celebrity-headstone.jpg "Richard Harris headstone 23-11-4/5"
@@ -89,12 +84,19 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 [Ronald Corbett]: https://en.wikipedia.org/wiki/Ronnie_Corbett 
 [14]: ../assets/celebrity-headstone.jpg "Ronald 'Ronnie' Corbett headstone 7A-113-12/13"
 
-[Sid James]: https://en.wikipedia.org/wiki/Sid_James   
-[15]: ../assets/celebrity-headstone.jpg "Sidney 'Sid' James headstone 18-130-28"
+
 
 
 
 <!-- [Alice Fay]: -->
+
+
+[James Carter]: https://en.wikipedia.org/wiki/Jimmy_Carter 
+[101]: ../assets/celebrity-headstone.jpg "James 'Jimmy' Carter headstone 7A-134-8/9 (and three others)"
+[Ella Fitzgerald]: https://en.wikipedia.org/wiki/Ella_Fitzgerald
+[102]: ../assets/celebrity-headstone.jpg "Ellanor 'Ella' Fitzgerald headstone 20-34-13"
+[Sid James]: https://en.wikipedia.org/wiki/Sid_James   
+[103]: ../assets/celebrity-headstone.jpg "Sidney 'Sid' James headstone 18-130-28"
 
 [Betty Hutton]: https://en.wikipedia.org/wiki/Betty_Hutton
 [Ann Miller]: https://en.wikipedia.org/wiki/Ann_Miller
@@ -108,6 +110,6 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 
 [Edward Kelly]: https://en.wikipedia.org/wiki/Ned_Kelly "Ned Kelly"
 
-[Susan Boyle]: https://en.wikipedia.org/wiki/Susan_Boyle
+
 
 [Robert Burns]: https://en.wikipedia.org/wiki/Robert_Burns
