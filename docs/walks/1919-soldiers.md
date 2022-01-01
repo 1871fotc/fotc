@@ -6,6 +6,8 @@ hide:
 
 # 1919 Soldiers 
 
+<!-- why this title? -->
+
 ## Private Frank Goodwin <small>(10‑43‑26)</small>
 
 SERN: 5832 25^th^ BATT. AIF
@@ -17,7 +19,7 @@ Born to Abraham Goodwin and Elizabeth Smith in Fremantle W.A. on 21/6/1885. He e
 SERN: 7437 42^nd^ BATT. AIF
 
 Born to Joseph Middleton and Sarah Jane Read in Ipswich 11/5/1894. He served in 11^th^ Inft. Citizen Forces and in Instructional Staff as a Staff Sergeant Major and 
-Sergeant in the AIF. He was a bootmaker by trade. He enlisted 1/3/191 at just under  23 of years age. 
+Sergeant in the AIF. He was a bootmaker by trade. He enlisted 1/3/1917 at just under 23 of years age. 
 
 ## Private John Crilly <small>(10‑41‑20)</small>
 
