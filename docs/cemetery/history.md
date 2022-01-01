@@ -43,7 +43,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 ## 1881 Queensland's oldest surviving headstones
 
-Three children originally interred in the North Quay Cemetery, were re‑interred at Toowong Cemetery in October 1881. These are the oldest surviving headstones and footstones in Queensland.
+Three children originally interred in the North Quay Cemetery, were re‑interred at Toowong Cemetery in October 1881. 
 
 ![](../assets/children-on-bank.jpg){ width="96%" }  
 
@@ -58,10 +58,12 @@ It has since been lost to weathering. After the death of their son, the Roberts 
 
 Peter McCauley was born in Sydney on 17 April 1826, the son of Private Peter McCauley, a member of the 17^th^ Regiment. His monther, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On 5 January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The  family returned to Sydney in 1832.
 
+
 Jane Pittard was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Vann Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
 
+These children's tombstones are the oldest surviving tombstones in Queensland.
 ![](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
-*<small>Pioneer Children's Graves (13-10-4). These are the oldest surviving headstones and footstones in Queensland. </small>*
+*<small>Pioneer Children's Graves (13-10-4). </small>*
 
 <!--
 Brisbane, 1844 (after a drawing by Carl Friedrich Gerler)
