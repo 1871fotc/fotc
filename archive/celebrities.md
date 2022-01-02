@@ -14,28 +14,32 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 
 **Harry Potter** (6‑12‑28), **James Kirk** (28‑43‑3), **James Bond** (13‑59‑8)
 
- [![1-84-12][5]{ width="24%" }][John Lennon] [![16-4-37][6]{ width="24%" }][George Harrison]  [![16-4-37][7]{ width="24%" }][Susan Boyle]  
+  [![16-4-37][7]{ width="24%" }][Susan Boyle]  
 
-**John Lennon** (1‑84‑12), **George Harrison** (16‑4‑37), **Susan Boyle** (26-25-21)
+ **Susan Boyle** (26-25-21)
 
 
-[![1-121-36][27]{ width="24%" }][Julius Caesar]  [![1-142-32][8]{ width="24%" }][John Kennedy] [![27-1-11][9]{ width="24%" }][Richard Nixon] 
+[![1-142-32][8]{ width="24%" }][John Kennedy] [![27-1-11][9]{ width="24%" }][Richard Nixon]  [![28-54-25][12]{ width="24%" }][Richard Powell] 
 
-**Julius Caesar** (1‑121‑36), **John Kennedy** (1-142-32), **Richard Nixon** (27‑1‑11)
+**John Kennedy** (1-142-32), **Richard Nixon** (27‑1‑11), **Richard Powell** (28‑54‑25)
 
-[![23-11-4/5][10]{ width="24%" }][Richard Harris] [![2-39-19][11]{ width="24%" }][James Stewart] [![28-54-25][12]{ width="24%" }][Richard Powell]  [![26-25-6][13]{ width="24%" }][Michael Cain]
+[![23-11-4/5][10]{ width="24%" }][Richard Harris] [![26-25-6][13]{ width="24%" }][Michael Cain]
 
-**Richard Harris** (23‑11‑4/5), **James Stewart** (2‑39‑19), **Richard Powell** (28‑54‑25), **Michael Cain** (26‑25‑6), 
+**Richard Harris** (23‑11‑4/5), **Michael Cain** (26‑25‑6), 
 
-[![7A-113-12/13][14]{ width="24%" }][Ronald Corbett] 
+ 
 
-**Ronald 'Ronnie' Corbett** (7A‑113‑12/13)
 
 ## Headstones we couldn't find
 
+- [John Lennon][John Lennon] (1‑84‑12), 
+- [George Harrison][George Harrison] (16‑4‑37)
 - [James 'Jimmy' Carter][James Carter] (7A‑134‑8/9)
 - [Sidney 'Sid' James][Sid James] (18‑130‑28)
-- [Ella Fitzgerald][Ella Fitzgerald] (20‑34‑13),
+- [Ella Fitzgerald][Ella Fitzgerald] (20‑34‑13) 
+- [Julius Caesar][Julius Caesar] (1‑121‑36)
+- [Ronald 'Ronnie' Corbett][Ronald Corbett] (7A‑113‑12/13)
+- [James Stewart][James Stewart] (2‑39‑19)
 
 !!! question "Volunteer opportunity"
 
@@ -66,7 +70,7 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 [8]: ../assets/john-kennedy-headstone.jpg "John Kennedy headstone 1-142-32"
 
 [Richard Nixon]: https://en.wikipedia.org/wiki/Richard_Nixon
-[9]: ../assets/celebrity-headstone.jpg "Richard Nixon headstone 27-1-11"
+[9]: ../assets/richard-nixon-headstone.jpg "Richard Nixon headstone 27-1-11"
 
 [Richard Harris]: https://en.wikipedia.org/wiki/Richard_Harris
 [10]: ../assets/celebrity-headstone.jpg "Richard Harris headstone 23-11-4/5"
@@ -75,7 +79,7 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 [11]: ../assets/celebrity-headstone.jpg "James Stewart headstone 2-39-19 (and many others)"
 
 [Richard Powell]: https://en.wikipedia.org/wiki/Dick_Powell 
-[12]: ../assets/celebrity-headstone.jpg "Richard 'Dick' Powell headstone 28-54-25"
+[12]: ../assets/richard-powell-headstone.jpg "Richard Powell headstone 28-54-25"
 
 
 [Michael Cain]: https://en.wikipedia.org/wiki/Michael_Caine
