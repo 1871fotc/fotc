@@ -110,18 +110,21 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry      | pp-ss-gg           |
 
 
-[Pugh's Queensland almanac, directory and law calendar](https://nla.gov.au/nla.obj-2935152949/view?sectionId=nla.obj-2943918410&partId=nla.obj-2935176853#page/n179/mode/1up) lists Masonic Lodges, Friendly Societies, and Temperance Societies in Queensland in 1881. 
-
 
 !!! question "Volunteer opportunity"
 
     Have you found the location of a Friendly Society Sign? [Contact us](../about/index.md#contact-us) with a photo and the details. 
 
 ![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
-<!--
-<br>
-![Richard Bowen Headstone 20-20-35/36][20-20-35/36]{ width="32%" } 
--->
+
+Unlike the [Clasped Hands symbol](headstones/#clasped-hands) showing a male and female holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two males shaking hands.
+
+ ![](../assets/clasped-hands.jpg){ width="48%" }  ![Richard Silas Bowden Headstone 20-20-35/36][20-20-35/36]{ width="48%" }  
+
+*<small>The image on the right is from the headstone of Richard Silas Bowden - Past Grand Master of the Manchester Unity Independent Order of Oddfellows (20-20-35/36) </small>*
+
+
+[20-20-35/36]: ../assets/oddfellow-handshake.jpg "Richard Silas Bowden Headstone - Past Grand Master of the Manchester Unity Independent Order of Oddfellows (20-20-35/36)"
 
 <!-- PPCM Permanent President Courts Martial https://www.awm.gov.au/learn/glossary/p -->
 
@@ -143,7 +146,9 @@ You can find signs of Friendly Societies in the local area such as:
 
 ## Further Reading
 
-Harwood, J. *The Freemasons* London, Hermes House, 2006
+- Harwood, J. *The Freemasons* London, Hermes House, 2006
+- [Pugh's Queensland almanac, directory and law calendar](https://nla.gov.au/nla.obj-2935152949/view?sectionId=nla.obj-2943918410&partId=nla.obj-2935176853#page/n179/mode/1up) lists Masonic Lodges, Friendly Societies, and Temperance Societies in Queensland in 1881. 
+
 
 [^1]: An extension of the Loyal Orange Institute
 
@@ -164,4 +169,7 @@ Harwood, J. *The Freemasons* London, Hermes House, 2006
 [1-29-8]: ../assets/sign-aof.jpg "William Wayte Headstone - Ancient Order of Foresters (1-29-8)"
 [eye-of-providence]: ../assets/eye-of-providence.jpg "The Eye of Providence (9-16-9)"
 [9-16-9]: ../assets/muioof-william-thomas-birkbeck-ppcm.jpg "William Thomas Birkbeck - Manchester Unity Independent Order of Odd Fellows (9-16-9)"
+
+<!--
 [20-20-35/36]: ../assets/richard-silas-bowen-muioof.jpg "Richard Silas Bowen - Past Grand Master of the Manchester Unity Independent Order of Odd Fellows. Note the two men's hands shaking."
+-->
