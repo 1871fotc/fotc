@@ -100,10 +100,10 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | IOOF    | Independent Order of Odd Fellows                             | Friendly Society | pp-ss-gg           |
 | IOR     | [Independent Order of Rechabites][IOOR]                      | Temperance       | pp-ss-gg           |
 | LOI     | [Loyal Orange Institute][LOI]                                |                  | pp-ss-gg           |
-| MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society | 9-16-9           |
+| MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society | 9-16-9             |
 | NIOOF   | National Independent Order of Odd Fellows                    | Friendly Society | pp-ss-gg           |
 | ODT     | Order of the Daughters of Temperance                         | Temperance       | pp-ss-gg           |
-| OES     | [Order of the Eastern Star][OES]                             | Friendly Society | pp-ss-gg           |
+| OES     | [Order of the Eastern Star][OES]                             | Friendly Society | 1-147-26           |
 | OST     | Order of the Sons of Temperance                              | Temperance       | pp-ss-gg           |
 | PAFS    | Protestant Alliance Friendly Society                         | Friendly Society | pp-ss-gg           |
 | RA      | [Royal Arch][RA]                                             | Friendly Society | pp-ss-gg           |
@@ -117,7 +117,7 @@ These acronyms can be found on headstones in Toowong Cemetery.
 
 !!! question "Volunteer - share a headstone photo"
 
-    Have you found the location of a Friendly Society Sign? [Contact us](../about/index.md#contact-us) with a photo and the details. 
+    Have you found the location of a Friendly Society Sign? [Contact us](../about/index.md#contact-us) with the details. 
 
 ![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
 
@@ -125,14 +125,18 @@ Unlike the [Clasped Hands symbol](headstones/#clasped-hands) showing a man and w
 
  ![](../assets/clasped-hands.jpg){ width="48%" }  ![Richard Silas Bowden Headstone 20-20-35/36][20-20-35/36]{ width="48%" }  
 
-*<small>The image on the right is from the headstone of Richard Silas Bowden - Past Grand Master of the Manchester Unity Independent Order of Oddfellows (20-20-35/36) </small>*
+*<small>The image on the right is from the headstone of Richard Silas Bowden - Past Grand Master of the Manchester Unity Independent Order of Oddfellows (20‑20‑35/36) </small>*
 
 
-[20-20-35/36]: ../assets/oddfellow-handshake.jpg "Richard Silas Bowden Headstone - Past Grand Master of the Manchester Unity Independent Order of Oddfellows (20-20-35/36)"
+[20-20-35/36]: ../assets/oddfellow-handshake.jpg "Richard Silas Bowden Headstone - Past Grand Master of the Manchester Unity Independent Order of Oddfellows (20‑20‑35/36)"
 
 <!-- PPCM Permanent President Courts Martial https://www.awm.gov.au/learn/glossary/p -->
 
 <!-- Thomas Dempster 18‑17‑22/23 United Operative Stonemasons Society of Queensland (UOSMS) -->
+
+![](../assets/john-campbell-headstone-oes.jpg){ width="48%" }   
+
+*<small>John Campbell's headstone shows the Order of the Eastern Star sign within the Freemason's compass and square (1‑147‑26) </small>*
 
 ## Today
 
