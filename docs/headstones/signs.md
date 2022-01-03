@@ -33,7 +33,7 @@ Most cemetery visitors are familiar with the compass and square, the working too
 ![](../assets/freemason-sign.jpg){ width="48%" }  ![](../assets/freemason-sign-with-g.jpg){ width="48%" } 
 ![](../assets/andrew-norman-davidson-headstone.jpg){ width="97%" }  
 
-*<small>Note the V.W. rank after Andrew Norman Davidson's name. As note the inscription - "Brothers we shall meet again"</small>*
+*<small>Note the V.W. rank after Andrew Norman Davidson's name and the inscription - "Brothers we shall meet again"</small>*
 
 ## Odd Fellows
 
