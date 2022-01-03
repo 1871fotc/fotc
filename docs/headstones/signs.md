@@ -22,8 +22,6 @@ Friendly societies were mutual aid organisations designed to help predominately 
 *<small>[St. Patrick's Day procession, Queen Street, Brisbane, 1903](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249906440002061) — State Library of Queensland. Note the 'HACBS' (Hibernian Australia Catholic Benefit Society) shown on the banner.</small>* <br>
 *<small>[Independent Order of Rechabites, Brisbane, ca. 1933](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220362320002061) — State Library of Queensland. </small>*
 
-
-
 Most organisations had rules, ranks and rites and developed a symbolic language which identified its members either by acronym or sign. Members were expected to turn out at funerals of the brethren or close relatives.
 
 ## Masonic Orders
@@ -72,9 +70,9 @@ Plants both living and carved are replete with symbolism...
 
 --> 
 
-## Acronyms
+## Signs in Toowong Cemetery
 
-These acronyms can be found on headstones in Toowong Cemetery.
+These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 
 ??? directions "Usage Tips" 
 
@@ -85,33 +83,33 @@ These acronyms can be found on headstones in Toowong Cemetery.
         - Where a Grave number is unknown, a placeholder value of "gg" is used. Learn more about [finding graves at Toowong Cemetery](../cemetery/finding-graves.md).
 
 
-| Acronym | Meaning                                                      | Organisation     | Portion-Section-Grave |
-|     --: | :--                                                          | :--              | :--                |
-| AHCG    | [Australasian Holy Catholic Guild][AHCG]                     | Friendly Society | pp-ss-gg           |
-| AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society | pp-ss-gg           |
-| ANA     | [Australian Natives Association][ANA]                        | Friendly Society | pp-ss-gg           |
-| AOF     | Ancient Order of Foresters                                   | Friendly Society | 1-29-8             |
-| EC      | English Constitution                                         | Freemasonry      | pp-ss-gg           |
-| GUOOF   | Grand United Order of Odd Fellows                            | Friendly Society | pp-ss-gg           |
-| HACBS   | Hibernian Australia Catholic Benefit Society                 | Friendly Society | pp-ss-gg           |
-| IC      | Irish Constitution                                           | Freemasonry      | pp-ss-gg           |
-| INF     | Irish National Foresters                                     | Friendly Society | pp-ss-gg           |
-| IOGT    | [Independent Order of Good Templars][IOGT]                   | Temperance       | pp-ss-gg           |
-| IOOF    | Independent Order of Odd Fellows                             | Friendly Society | pp-ss-gg           |
-| IOR     | [Independent Order of Rechabites][IOOR]                      | Temperance       | pp-ss-gg           |
-| LOI     | [Loyal Orange Institute][LOI]                                |                  | pp-ss-gg           |
-| MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society | 9-16-9             |
-| NIOOF   | National Independent Order of Odd Fellows                    | Friendly Society | pp-ss-gg           |
-| ODT     | Order of the Daughters of Temperance                         | Temperance       | pp-ss-gg           |
-| OES     | [Order of the Eastern Star][OES]                             | Friendly Society | 1-147-26           |
-| OST     | Order of the Sons of Temperance                              | Temperance       | pp-ss-gg           |
-| PAFS    | Protestant Alliance Friendly Society                         | Friendly Society | pp-ss-gg           |
-| RA      | [Royal Arch][RA]                                             | Friendly Society | pp-ss-gg           |
-| RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society | pp-ss-gg           |
-| RBP     | [Royal Black Preceptory][RBP] [^1]                           |                  | pp-ss-gg           |
-| SC      | Scottish Constitution                                        | Freemasonry      | 25-46-17           |
-| UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society | pp-ss-gg           |
-| UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry      | 25-46-17           |
+| Acronym | Name                                                         | Organisation Type | Portion-Section-Grave |
+|     --: | :--                                                          | :--               | :--                |
+| AHCG    | [Australasian Holy Catholic Guild][AHCG]                     | Friendly Society  | pp-ss-gg           |
+| AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society  | pp-ss-gg           |
+| ANA     | [Australian Natives Association][ANA]                        | Friendly Society  | pp-ss-gg           |
+| AOF     | Ancient Order of Foresters                                   | Friendly Society  | 1-29-8             |
+| EC      | English Constitution                                         | Freemasonry       | pp-ss-gg           |
+| GUOOF   | Grand United Order of Odd Fellows                            | Friendly Society  | pp-ss-gg           |
+| HACBS   | Hibernian Australia Catholic Benefit Society                 | Friendly Society  | pp-ss-gg           |
+| IC      | Irish Constitution                                           | Freemasonry       | pp-ss-gg           |
+| INF     | Irish National Foresters                                     | Friendly Society  | pp-ss-gg           |
+| IOGT    | [Independent Order of Good Templars][IOGT]                   | Temperance        | pp-ss-gg           |
+| IOOF    | Independent Order of Odd Fellows                             | Friendly Society  | pp-ss-gg           |
+| IOR     | [Independent Order of Rechabites][IOOR]                      | Temperance        | pp-ss-gg           |
+| LOI     | [Loyal Orange Institute][LOI]                                |                   | pp-ss-gg           |
+| MUIOOF  | [Manchester Unity Independent Order of Odd Fellows][MUIOOF]  | Friendly Society  | 9-16-9             |
+| NIOOF   | National Independent Order of Odd Fellows                    | Friendly Society  | pp-ss-gg           |
+| ODT     | Order of the Daughters of Temperance                         | Temperance        | pp-ss-gg           |
+| OES     | [Order of the Eastern Star][OES]                             | Friendly Society  | 1-147-26           |
+| OST     | Order of the Sons of Temperance                              | Temperance        | pp-ss-gg           |
+| PAFS    | Protestant Alliance Friendly Society                         | Friendly Society  | pp-ss-gg           |
+| RA      | [Royal Arch][RA]                                             | Friendly Society  | pp-ss-gg           |
+| RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society  | pp-ss-gg           |
+| RBP     | [Royal Black Preceptory][RBP] [^1]                           |                   | pp-ss-gg           |
+| SC      | Scottish Constitution                                        | Freemasonry       | 25-46-17           |
+| UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society  | pp-ss-gg           |
+| UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry       | 25-46-17           |
 
 
 
@@ -136,7 +134,7 @@ Unlike the [Clasped Hands symbol](headstones/#clasped-hands) showing a man and w
 
 ![](../assets/john-campbell-headstone-oes.jpg){ width="48%" }   
 
-*<small>John Campbell's headstone shows the Order of the Eastern Star sign within the Freemason's compass and square (1‑147‑26) </small>*
+*<small>John Campbell's headstone shows the Order of the Eastern Star sign within the Freemason's compass and square. The Order of the Eastern Star is a Masonic appendant body open to both men and women. (1‑147‑26) </small>*
 
 ## Today
 
