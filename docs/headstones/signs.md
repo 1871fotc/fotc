@@ -119,7 +119,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 
 ![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
 
-Unlike the [Clasped Hands symbol](headstones/#clasped-hands) showing a man and women holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two men shaking hands.
+Unlike the [Clasped Hands symbol](index.md#clasped-hands) showing a man and women holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two men shaking hands.
 
  ![](../assets/clasped-hands.jpg){ width="48%" }  ![Richard Silas Bowden Headstone 20-20-35/36][20-20-35/36]{ width="48%" }  
 
