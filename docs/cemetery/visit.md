@@ -83,11 +83,11 @@ Some road names have recently been changed to the names of notable people buried
 | **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
 | **[Dr Lillian Cooper][Cooper]** Drive      | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
-| Francis Forde Avenue                       | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
+| **[Francis Forde][Forde]** Avenue              | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
 | **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
 | Soldiers Parade                            | Boundary Road | running parallel to Frederick Street closest to the main entrance    |
-| Steele Rudd Avenue                         | 4^th^ Avenue  |                                                                      |
-| Walter Ralstone Avenue                     | 7^th^ Avenue  |                                                                      |
+| **[Steele Rudd][Rudd]** Avenue                 | 4^th^ Avenue  |                                                                      |
+| **[Walter Ralstone][Ralstone]** Avenue         | 7^th^ Avenue  |                                                                      |
 | **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
 | **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
@@ -136,10 +136,13 @@ Here are some of our favourites:
 [main-entrance]: ../assets/main-entrance.jpg "Toowong Cemetery Main Entrance"
 [Walter Hill]: ../bios/walter-hill.md "Read Walter's Biography"
 [Cooper]: ../bios/lilian-cooper.md "Read Lilian's Biography"
-[Forde]: ../bios/francis-forde.md "Read Francis' Biography"
+<!-- [Forde]: ../bios/francis-forde.md "Read Francis' Biography" -->
+[Forde]: https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504 "Read Francis' Biography"
 [Jackson]: ../bios/peter-jackson.md "Read Peter's Biography"
-[Rudd]: ../bios/arthur-hoey-davis.md "Read Steel Rudd's (Arthur Hoey Davis) Biography"
-[Ralstone]: ../bios/walter-ralstone.md "Read Walter's Biography"
+<!-- [Rudd]: ../bios/arthur-hoey-davis.md "Read Steel Rudd's (Arthur Hoey Davis) Biography" -->
+[Rudd]: https://adb.anu.edu.au/biography/davis-arthur-hoey-5911 "Read Arthur Hoey Davis' (Steel Rudd) Biography"
+<!-- [Ralstone]: ../bios/walter-ralstone.md "Read Walter's Biography" -->
+[Ralstone]: https://adb.anu.edu.au/biography/ralston-walter-vardon-834 "Read Walter's Biography"
 [Miller]: ../bios/emma-miller.md "Read Emma's Biography"
 [Heaphy]: ../bios/charles-heaphy.md "Read Charles' Biography"
 [Pat Hill]: ../bios/pat-hill.md "Read Pat's Biography"
