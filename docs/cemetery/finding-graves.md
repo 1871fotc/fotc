@@ -54,9 +54,16 @@ Information on the official burial records that can be updated, includes:
 
 Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a person's marker to the appropriate grave. 
 
+
+![](../assets/many-markers.jpg){ width="100%" }
+
+*<small>Grave markers embedded into a grave surround.</small>*
+
 ![](../assets/markers.jpg){ width="100%" }
 
 *<small>Grave markers found on the grass, separated from their grave.</small>*
+
+
 
 To map a marker to a grave, you need to look up old portion books. For example Portion 1, Section 1, Grave 1 maps to Marker XI 755. 
 
