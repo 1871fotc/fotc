@@ -238,7 +238,6 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
 ??? directions "Directions" 
 
     Now go to the end of this 3^rd^ path and round to the start of the 4^th^ path and look to the right and to the 4^th^ grave of...
-    
     ![](../assets/van-millingen.jpg){ width="20%" }
 
 
@@ -249,9 +248,8 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
 ??? directions "Directions" 
 
     Walking along the same path another 3 headstones you will come to the grave of...
-    
     ![](../assets/arthur-hyam.jpg){ width="20%" }
--->    
+-->
 
 ??? directions "Directions" 
 
