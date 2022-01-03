@@ -39,7 +39,7 @@ theme:
       warning: fontawesome/solid/exclamation-triangle
   custom_dir: overrides
   features:
-#    - announce.dismiss
+ #   - announce.dismiss
     - navigation.instant
     - navigation.tracking
     - navigation.top
@@ -217,7 +217,7 @@ nav:
   - Headstones: 
     - Headstones: headstones/index.md
     - Signs: headstones/signs.md 
-    - Shapes: headstones/shapes.md  
+#    - Shapes: headstones/shapes.md  
     - Archaeological Digs: headstones/archaeological-digs.md
 #    - Celebrity Headstones: headstones/celebrities.md
   - Biographies: 

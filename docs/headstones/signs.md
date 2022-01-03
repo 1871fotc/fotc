@@ -34,6 +34,7 @@ Most cemetery visitors are familiar with the compass and square, the working too
 ![](../assets/andrew-norman-davidson-headstone.jpg){ width="97%" }  
 
 *<small>Note the V.W. rank after Andrew Norman Davidson's name and the inscription - "Brothers we shall meet again"</small>*
+<!-- V.W. = Very Worshipful Brother -->
 
 ## Odd Fellows
 
