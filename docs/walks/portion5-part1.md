@@ -73,7 +73,7 @@ Robert Arthur Johnstone was born at Richmond in 1843 in what was then called Van
 
 ## Susan Boyce, Ellen Victoria Board, Ann Ellen Boyce, Stuart Leslie Board <small>(5‑38‑9)</small>
 
-There are no actual burials in this plot. These headstones were originally on graves in the North Brisbane Burial Ground and were later moved to this site. 
+There are no actual burials in this grave. These headstones were originally on graves in the North Brisbane Burial Ground and were later moved to this site. 
 
 Susan Boyce was the wife of Brisbane's first Town Clerk, William Martin Boyce. Their daughter, Ellen Victoria Board died in Melbourne and was memorialised on her mother's headstone.
 

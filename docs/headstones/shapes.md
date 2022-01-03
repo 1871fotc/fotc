@@ -27,7 +27,7 @@ You will find many different headstones shapes in Toowong Cemetery. Examples of 
 
 ![](../assets/slabs-1.png){ width="49%" } ![](../assets/slabs-2.png){ width="49%" }
 
-!!! question "Volunteer opportunity"
+!!! question "Volunteer - share a headstone photo "
 
     Contribute a photo of a headstone shape and tell us where you found it. 
     

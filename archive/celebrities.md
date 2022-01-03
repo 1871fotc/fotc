@@ -41,7 +41,7 @@ Many people interred in Toowong Cemetery share their name with celebrities or th
 - [Ronald 'Ronnie' Corbett][Ronald Corbett] (7A‑113‑12/13)
 - [James Stewart][James Stewart] (2‑39‑19)
 
-!!! question "Volunteer opportunity"
+!!! question "Volunteer - share a celebrity headstone you've found"
 
     Have you found a Celebrity Headstone? [Contact us](../about/index.md#contact-us) with the details, and we'll publish them here.
 

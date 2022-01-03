@@ -2,7 +2,7 @@
 
 ## Copyright
 
-Material on this site is copyright © 1996 — 2021 Friends of Toowong Cemetery Association Incorporated, unless otherwise noted. 
+Material on this site is copyright © 1992 — 2022 Friends of Toowong Cemetery Association Incorporated, unless otherwise noted. 
 
 ## Licence 
 

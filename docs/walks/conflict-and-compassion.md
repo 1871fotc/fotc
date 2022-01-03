@@ -37,7 +37,7 @@ James was born on 9 September 1888 nearby at Redhill to James and Emily Ann (né
 
 ![](../assets/hmat-seang-choon-a49.jpg){ width="70%" }  
 
-*<small>[Troopship SEANG CHOON (A49) shortly after leaving Pinkenba Wharf. ](https://www.awm.gov.au/collection/H02243) Brisbane, Queensland. C. 1915. This ship was later torpedoed and sunk off the Irish coast, near Fastnet, on 1917-07-10. — Australian War Memorial - Public Domain</small>*
+*<small>[Troopship SEANG CHOON (A49) shortly after leaving Pinkenba Wharf. ](https://www.awm.gov.au/collection/H02243) Brisbane, Queensland. ca. 1915. This ship was later torpedoed and sunk off the Irish coast, near Fastnet, on 1917-07-10. — Australian War Memorial - Public Domain</small>*
 
 ## Corporal Henry Townsend Wilkins <small>(2A‑22‑11)</small>
 

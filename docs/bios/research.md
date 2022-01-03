@@ -11,7 +11,7 @@ In 1999, the Friend of Toowong Cemetery published *Extraordinary Stories of Ordi
 
 We plan to expand and re-issue this publication.
 
-!!! question "Volunteer opportunity"
+!!! question "Volunteer - share a family story"
 
     If you would like your family's story to be considered for adding to the next edition, please fill in the [Biographical Details Form](http://www.fotc.org.au/subset/Toowong_Cemetery_Biographical_Details.doc).
     
@@ -24,7 +24,7 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 ![](../assets/toowong-cemetery-monumental-inscriptions.jpg){ width="62%" } ![](../assets/toowong-cemetery-monumental-inscriptions-2.jpg){ width="31.4%" }
 
 <!--
-!!! question "Volunteer opportunity"
+!!! question "Volunteer - help us digitise content"
 
     We'd like to explore digitising this historic record and creating a linked database to other historic resources. Do you know an efficient way to scan and OCR large books? 
 --> 

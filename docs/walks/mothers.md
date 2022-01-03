@@ -52,7 +52,7 @@ Honorah, of Morgan Street, Fortitude Valley, died on 13 April 1926.
 
 Born in Niederheimbach, Germany on 23 February 1861, Ottilia Lucia Alexandrina Drenk was a daughter of Mathias Drenk and Maria (née Schrenk). Johann Ufer married Ottilia. The family of seven arrived in Brisbane from London on 21 February 1888 aboard the *Bulimba*.
 
-Four children born in Queensland made a total of nine Ufer children in Queensland - Maria Anne (c.1881-1921), Ottilia Sybilla (c.1882-1971), Matthias (Matthew) (c. 1883-1911), Margaretta (c.1886-1889), Bulimba Elizabeth (1887-1889), Andrew Alonis (1890-1915), Charlotte Johanna Louisa (1892-1941), Gustav Andrew (1896-1947) and Henry Jacob (1898-1960). 
+Four children born in Queensland made a total of nine Ufer children in Queensland - Maria Anne (c.1881-1921), Ottilia Sybilla (ca. 1882-1971), Matthias (Matthew) (ca. 1883-1911), Margaretta (ca. 1886-1889), Bulimba Elizabeth (1887-1889), Andrew Alonis (1890-1915), Charlotte Johanna Louisa (1892-1941), Gustav Andrew (1896-1947) and Henry Jacob (1898-1960). 
 
 Ottilia, a resident of Ripple Creek, near Ingham, was a farmer. Ottilia died in Brisbane on 13 January 1935 from heart failure.
 
@@ -64,7 +64,7 @@ The family resided at *Green Hill*, Alderley. Mary and Kitty died on 13 March 19
 
 ## Sarah Woulfe <small>(7A‑74‑15/16)</small>
 
-Sarah Mahoney, born in Ballybunion, Kerry, Ireland, c. 1863, was a daughter of Michael Mahoney and Mary (née Wallace). Sarah trained as seamstress. Patrick Joseph Woulfe married Sarah on 13 January 1878. The family of four sailed from Glasgow To Brisbane between 27 June and 23 August 1884, aboard the *Mount Lebanon*. 
+Sarah Mahoney, born in Ballybunion, Kerry, Ireland, ca. 1863, was a daughter of Michael Mahoney and Mary (née Wallace). Sarah trained as seamstress. Patrick Joseph Woulfe married Sarah on 13 January 1878. The family of four sailed from Glasgow To Brisbane between 27 June and 23 August 1884, aboard the *Mount Lebanon*. 
 
 Six children were born in Queensland. Their five daughters and three sons were Honora (1879-1957), Michael Joseph (1882-1886), Mary Ellen (1885-1975), Patrick (1888-1948), Elizabeth (1890-1968), James (1893-1923), Sarah Teresa (1895-1974) and Mabel Jane Josephine (1898-1949). 
 
@@ -78,7 +78,7 @@ Carl Heinrich Stritzke and Fredericke Caroline Lane (née Bergemann) were the pa
 
 Elizabeth Nelson was born in Gilford, County Down, Ireland to James Nelson and Elizabeth (née Priestly). James Phillips married Elizabeth in Gilford on 23 September 1859. The family of three sailed on 23 September 1863, arriving in Brisbane on 27 January 1864 aboard the *Light of the Age*. They settled on land on the banks of Oxley Creek before moving to Fig Tree Pocket. 
 
-The Phillips' eleven children were Ellen (c1863-1957), Annie (-1919), Mary (1865-1928), William (1866-1950), Elizabeth (1868-1963), James Robert (1870-1954), John George (1871-1947), Sarah Jane (1873-1966), Emily (1875-1937), Jessie Morrison (1876-1964) and Margaret Evangeline (1878-1966).
+The Phillips' eleven children were Ellen (ca. 1863-1957), Annie (-1919), Mary (1865-1928), William (1866-1950), Elizabeth (1868-1963), James Robert (1870-1954), John George (1871-1947), Sarah Jane (1873-1966), Emily (1875-1937), Jessie Morrison (1876-1964) and Margaret Evangeline (1878-1966).
 
 Elizabeth died at her residence, Fig Tree Pocket on 25 February 1931 
 
@@ -100,11 +100,11 @@ Helen died on 7 October 1907 in South Brisbane.
 
 ## Eliza Finney <small>(13‑81‑6/13)</small>
 
-Eliza Cornwall was born to Thomas Cornwall and Mary (née Thomas) in County Galway, Ireland c. 1805. Thomas Finney, farmer, married Eliza in Tuam, County Galway in 1823. Eliza's newspaper obituaries stated she was mother to "no fewer than 21 children", while others  indicated she was the "mother of 23 children". 
+Eliza Cornwall was born to Thomas Cornwall and Mary (née Thomas) in County Galway, Ireland ca. 1805. Thomas Finney, farmer, married Eliza in Tuam, County Galway in 1823. Eliza's newspaper obituaries stated she was mother to "no fewer than 21 children", while others  indicated she was the "mother of 23 children". 
 
-Some of the couple's children include. Mary Jane (1823-1841), Rachel (1829-1880), Frances Martha (1930-1882), Lewis William (c.1832-1910), Robert Cornwall (1835-?), Thomas (1837-1903), Susan (c. 1840-1923), Elizabeth Emma (1841-1912), Alfred Richard (1844-1901), Mary (c. 1850-1924), Jane Margaret (c. 1851-1927) and Helen Henrietta (c. 1853-1908). 
+Some of the couple's children include. Mary Jane (1823-1841), Rachel (1829-1880), Frances Martha (1930-1882), Lewis William (ca. 1832-1910), Robert Cornwall (1835-?), Thomas (1837-1903), Susan (c. 1840-1923), Elizabeth Emma (1841-1912), Alfred Richard (1844-1901), Mary (ca. 1850-1924), Jane Margaret (ca. 1851-1927) and Helen Henrietta (ca. 1853-1908). 
 
-Thomas died c. 1852. Eliza and three daughters sailed to Brisbane aboard the *Royal Dane*, arriving on 16 January 1873. 
+Thomas died ca. 1852. Eliza and three daughters sailed to Brisbane aboard the *Royal Dane*, arriving on 16 January 1873. 
 
 Eliza died in the arms of one of her daughter's on the afternoon of Friday 22 July 1898.
 

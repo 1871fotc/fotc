@@ -54,7 +54,7 @@ Currently we are:
 - **updating our website** to include [even more content](https://github.com/Stephen-Gates/fotc/projects/1?fullscreen=true), including updating the directions and maps for our [self‑guided walks](../walks/index.md). 
 - **encouraging the community to volunteer** through simple one-off tasks shown on this site like the one below. 
 
-!!! question "Volunteer opportunity"
+!!! question "Volunteer - help us update cemetery maps"
 
     To update our maps we need:
     

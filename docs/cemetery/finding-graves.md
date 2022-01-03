@@ -22,7 +22,7 @@ Portion numbers are shown on signs throughout the cemetery.
 
 *<small>Portion 10 sign post.</small>*
 
-!!! question "Volunteer opportunity"
+!!! question "Volunteer - report a damaged sign"
 
     Unfortunately Portion signs are often vandalised in the cemetery. **[Report damaged signs to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)** by sharing a photo of the damage.
 
@@ -46,7 +46,7 @@ Information on the official burial records that can be updated, includes:
 - cause of death
 - photograph of headstone or grave
 
-!!! question "Volunteer opportunity"
+!!! question "Volunteer - contribute a photo to the Graves database"
 
     Consider contributing a photograph of a headstone to improve the Council database to help others discover the history and stories of Toowong Cemetery.
 

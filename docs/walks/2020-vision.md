@@ -54,7 +54,7 @@ William drowned in Breakfast Creek on 1 February 1879.
 
 ## John and Mary Ann Ogle  <small>(1‑113‑3/4)</small>
 
-John, a son of John Ogle and Isabella (née Swan), was born in Northumberland, England c. 1824. Mary Ann Scott, a daughter of Robert Scott and Mary (née Frater), was born c. 1823.
+John, a son of John Ogle and Isabella (née Swan), was born in Northumberland, England ca. 1824. Mary Ann Scott, a daughter of Robert Scott and Mary (née Frater), was born ca. 1823.
 
 Mary Ann and John, with their three daughters, arrived in Brisbane aboard the *Montmorency* on 16 October 1860.
 
@@ -99,7 +99,7 @@ George Philip Stuart married Constance in Brisbane on 31 July 1918. Constance St
 
 ## Charles Joseph Gall <small>(14‑15‑11/12/13)</small>
 
-Born in Hampstead c. 1835, Charles Joseph Gall was a son of Thomas Gall. Elizabeth Long married Charles in Sydney in 1862. Their son, born in Sydney on 15 December 1862 died the same day. The couple had three daughters; Eva, Gertrude & Elizabeth (Lilly).
+Born in Hampstead ca. 1835, Charles Joseph Gall was a son of Thomas Gall. Elizabeth Long married Charles in Sydney in 1862. Their son, born in Sydney on 15 December 1862 died the same day. The couple had three daughters; Eva, Gertrude & Elizabeth (Lilly).
 
 The partnership of Gall & Inglis, with William Inglis, was dissolved by mutual consent on 25 January 1875. Charles was declared insolvent in 1878. Dess & Gall, drapers and general outfitters, run in partnership with Edward Dess, was dissolved by mutual consent on 5 May 1882.
 

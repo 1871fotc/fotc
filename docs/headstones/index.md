@@ -35,7 +35,7 @@ Columns are indicative of heaven and their height implies the social status of t
 A crown was often used to represent the "sovereignty of the Lord".
 
 ![](../assets/crown.jpg){ width="70%" }
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 
 ## Harp or Lyre
 
@@ -48,21 +48,21 @@ A harp or lyre symbolises hope, joy and music. It was the symbol of St. Cecila, 
 A ship's anchor was commonly used to commemorate the life of a sailor or someone with a maritime career. 
 
 ![](../assets/anchor.jpg) 
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 
 ## Obelisk
 
 An obelisk is defined as a thin, four-sided tapering monument ending in a pyramid at the top. The height of the obelisk also indicates the importance of the deceased. 
 
 ![](../assets/obelisk.jpg){ width="40%" }
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 
 ## Clasped hands
 
 Clasped hands symbolise the belief Victorians held that they would be reunited with their loved ones after death. If you look carefully at the cuffs of those shaking hands, you can often see that they are male and female. This can be seen are the grave of Herman Wuiski and his wife Emily (1-50A-10).
 
 ![](../assets/clasped-hands.jpg) 
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 <!-- get photo of of Herman Wuiski and his wife Emily (1-50A-10) -->
 
 ## Plants
@@ -72,7 +72,7 @@ Plants can represent a person's birthplace (such as thistles from Scotland) and 
 ![](../assets/plant.jpg){ width="30%" }  ![](../assets/cross-with-vine.jpg){ width="30%" }  ![](../assets/bud.jpg){ width="30%" } 
 ![](../assets/thistle.jpg){ width="30%" } ![](../assets/rose.jpg){ width="30%" } ![](../assets/wood-headstone-with-plants.jpg){ width="30%" }
 
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 <!-- Get photo of Michael McCormack and his wife Elizabeth (1-20-9) -->
 
 ## Urns
@@ -80,21 +80,21 @@ Plants can represent a person's birthplace (such as thistles from Scotland) and 
 Urns are a Greek symbol of mourning and represent the process of death, where the body becomes dust while the spirit rests with God. When the urn is draped it becomes a symbol of the house mourning.
 
 ![](../assets/draped-urn.jpg){ width="40%" }
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 
 ## Animals
 
 Animals symbolise the character of the deceased. Lambs were often used as a symbol of innocence and found on the graves of children, while lions were used as a symbol of courage. Visit the grave of heavyweight boxing champion Peter Jackson (5-28-1) which is adorned with a lion.
 
 ![](../assets/lion.jpg){ width="70%" }
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 
 ## IHS Emblem
 
 The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and represents the first Greek word for Jesus or Christ. 
 
 ![](../assets/ihs.jpg){ width="70%" }
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 
 ## Books
 
@@ -102,7 +102,7 @@ Books often symbolise the Bible and the faith of its reader. An open book has al
 
 ![](../assets/book.jpg) 
 <!-- photos --> 
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 
 <!--
 ## Other symbols
@@ -124,7 +124,7 @@ https://en.wikipedia.org/wiki/Heptagram
 In Steele Rudd Avenue you'll find a collection of broken headstones. [Where did they come from?](archaeological-digs.md) Why are they here? What is planned? 
 
 ![](../assets/lost-and-found.jpg) 
-<!-- add caption and plot id -->
+<!-- add caption and grave id -->
 
 ## Source
 

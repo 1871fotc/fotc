@@ -12,7 +12,7 @@ icon: octicons/pencil-24
 **Tagline** 
 
 
-!!! question "Volunteer opportunity"
+!!! question "Volunteer"
 
     How embarrassing! We can't find all the electronic files for our walks. We're slowly re-keying the words from the Brochure pdf files. You can help by typing some and sending them to us. 
     

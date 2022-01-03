@@ -28,9 +28,12 @@ Most organisations had rules, ranks and rites and developed a symbolic language 
 
 ## Masonic Orders
 
-Most cemetery visitors are familiar with the compass and square, the working tools of the Masonic orders, but these have variations which inform the knowledgable passer-by the rank held by the deceased in the organisation, such as the number of dots on the square. The "G" in the centre may be interpreted as "God" by speculative Masons, and as "Geometry" by operative Masons. 
+Most cemetery visitors are familiar with the compass and square, the working tools of the Masonic orders. The "G" in the centre may be interpreted as "God" by speculative Masons, and as "Geometry" by operative Masons. Variations in the design (for example, the number of dots on the square), or the inscription may inform the knowledgable passer-by of the rank held by the deceased in the organisation. 
 
-![](../assets/freemason-sign.jpg){ width="48%" }  ![g](../assets/freemason-sign-with-g.jpg){ width="48%" }  
+![](../assets/freemason-sign.jpg){ width="48%" }  ![](../assets/freemason-sign-with-g.jpg){ width="48%" } 
+![](../assets/andrew-norman-davidson-headstone.jpg){ width="97%" }  
+
+*<small>Note the V.W. rank after Andrew Norman Davidson's name. As note the inscription - "Brothers we shall meet again"</small>*
 
 ## Odd Fellows
 
@@ -75,13 +78,13 @@ These acronyms can be found on headstones in Toowong Cemetery.
 ??? directions "Usage Tips" 
 
     - Click a column name to sort the table.
-    - An example of where the acronym can be found is shown in the Plot-Section-Grave column
-        - Where a Plot number is unknown, a placeholder value of "pp" is used
+    - An example of where the acronym can be found is shown in the Portion-Section-Grave column
+        - Where a Portion number is unknown, a placeholder value of "pp" is used
         - Where a Section number is unknown, a placeholder value of "ss" is used
         - Where a Grave number is unknown, a placeholder value of "gg" is used. Learn more about [finding graves at Toowong Cemetery](../cemetery/finding-graves.md).
 
 
-| Acronym | Meaning                                                      | Organisation     | Plot-Section-Grave |
+| Acronym | Meaning                                                      | Organisation     | Portion-Section-Grave |
 |     --: | :--                                                          | :--              | :--                |
 | AHCG    | [Australasian Holy Catholic Guild][AHCG]                     | Friendly Society | pp-ss-gg           |
 | AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society | pp-ss-gg           |
@@ -105,19 +108,19 @@ These acronyms can be found on headstones in Toowong Cemetery.
 | RA      | [Royal Arch][RA]                                             | Friendly Society | pp-ss-gg           |
 | RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society | pp-ss-gg           |
 | RBP     | [Royal Black Preceptory][RBP] [^1]                           |                  | pp-ss-gg           |
-| SC      | Scottish Constitution                                        | Freemasonry      | pp-ss-gg           |
+| SC      | Scottish Constitution                                        | Freemasonry      | 25-46-17           |
 | UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society | pp-ss-gg           |
-| UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry      | pp-ss-gg           |
+| UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry      | 25-46-17           |
 
 
 
-!!! question "Volunteer opportunity"
+!!! question "Volunteer - share a headstone photo"
 
     Have you found the location of a Friendly Society Sign? [Contact us](../about/index.md#contact-us) with a photo and the details. 
 
 ![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
 
-Unlike the [Clasped Hands symbol](headstones/#clasped-hands) showing a male and female holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two males shaking hands.
+Unlike the [Clasped Hands symbol](headstones/#clasped-hands) showing a man and women holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two men shaking hands.
 
  ![](../assets/clasped-hands.jpg){ width="48%" }  ![Richard Silas Bowden Headstone 20-20-35/36][20-20-35/36]{ width="48%" }  
 

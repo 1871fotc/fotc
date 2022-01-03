@@ -23,6 +23,6 @@ The event was filmed and a DVD has been produced featuring footage of the re-ena
 We are gradually creating [a web version of Extraordinary Stories of Ordinary People](extraordinary-stories.md).
 
 
-!!! question "Volunteer opportunity"
+!!! question "Volunteer - share a family story"
 
     If you would like your family's story to be considered for inclusion in the next edition of *Extraordinary Stories of Ordinary People*, please complete the [Biographical Details Form](http://www.fotc.org.au/subset/Toowong_Cemetery_Biographical_Details.pdf).
