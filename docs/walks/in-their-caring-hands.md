@@ -176,12 +176,22 @@ Lilian Ramsay was a staff nurse with the Australian Army Nursing Service having 
 !!! Warning "Nurses buried in Portion 22" 
 
     Portion 22 is a very steep section of Toowong Cemetery and great care is required to visit these graves. These graves are not included on the walk.
+    
+    Friends of Toowong Cemetery have searched for these four headstones but have not been able to locate them. 
+    
 
 ## Mary Hogan <small>(22‑16‑18)</small>
 
 Mary Hogan (née Wells) was born in 1923 in Euroa, Victoria and completed her education at Star of the Sea Convent, Melbourne before training as a nurse at Wangaratta Base Hospital. Mary next completed her midwifery training before marrying John Hogan in Brisbane in 1949 and having four children. She worked in various Brisbane hospitals including St. Helen's and Mt. Olivet, and then trained as a Maternal and Child Welfare Sister. 
 
 As the result of an accident, Mary was widowed in 1962. She then worked full time as a clinic sister in the Inala, Darra, and Wacol areas while raising her 4 children alone. Her final working position as a nursing sister was at Canossa Hospital, where Mary herself died from multiple myeloma in May 2002, aged 78. After 40 years as a widow, Mary Hogan was buried in Toowong Cemetery alongside her beloved husband John in the grave she purchased in 1962. She was a mother, grandmother, nurse and friend to many.
+
+<!--  
+
+The wrong mary hogan!  There must be 2. This one is in 7A-146-13 
+
+-->
+
 
 ## Patricia Marion Hull <small>(22‑17‑25)</small>
 
@@ -202,6 +212,17 @@ Helen (known as Lena) Luton was with the Australian Army Nursing Service attache
 ## Agnes Helen (Nell) Storie <small>(30‑36‑31)</small>
 
 A former Bardon resident, Nell worked with the St Lukes Nursing Service. She was born in Mullumbimby, NSW in 1905 to William and Agnes Bassett. She married Victor Storie in Brisbane on 16 December 1930 and had three children. Nell died on 8 October 1990.
+
+![](../assets/agnes-helen-storie-headstone.jpg){ width="70%" }  
+
+>In loving memory of <br>
+>Agnes Helen (Nell) Storie <br>
+>Born 1. 1. 1905 Mullumbimby N.S.W. <br>
+>Died 8. 10. 1990 Brisbane Qld. <br>
+>A Great Lady : A Great Mother <br>
+>She closed her eyes and stood in <br>
+>peace before a smiling God
+
 
 ## Further Reading  
 
