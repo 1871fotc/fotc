@@ -214,9 +214,10 @@ About 1875 he carried a "Sepher Torah" (i.e. a Scroll of the Old Testament) on h
 ??? directions "Directions" 
 
     A further 3 headstones along, we have the headstone of...
-    
+    <!--
+    Can't find this headstone 
     ![](../assets/cornelia-harris.jpg){ width="20%" }
-
+    -->
 
 ## Cornelia Harris  <!-- (3‑ss‑gg)-->
 
