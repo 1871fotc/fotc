@@ -22,7 +22,7 @@ search:
 The Friends of Toowong Cemetery:
 
 - **research the history of Toowong Cemetery**, its [headstones](../headstones/), and the [biographies](../bios/) of the people interred there. 
-- **share our discoveries** with the community through our publications, [guided tours](../guided-tours.md), [self‑guided walks](../walks/index.md), our [museum](../cemetery/museum.md).
+- **share our discoveries** with the community through our [guided tours](../guided-tours.md), [self‑guided walks](../walks/index.md),  [museum](../cemetery/museum.md), [publications](publications.md), and [data](data.md).
 - **contribute stories** of people interred at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications and biographical databases.
 - **clean and conserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
@@ -58,7 +58,7 @@ Currently we are:
 
     To update our maps we need:
     
-    - access and a licence to the location data for the cemetery (boundaries, internal and surrounding roads, portions, sections and graves, building outlines, monuments, waterways, taps). Ideally this would be released as Open Data.
+    - access and a licence to the location data for the cemetery (cemetery boundary, internal and surrounding roads, portions, sections and graves, building outlines, monuments, waterways). Ideally this would be released as Open Data.
     - access and a licence to the [grave data](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). Ideally this would be released as Open Data.
     - someone skilled in making maps. **Can you help?** 
 
@@ -71,11 +71,11 @@ With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 
 We've got some [other ideas](ideas.md)
 -->
 
-## Join us 
+## Join in
 
-The Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha)** on the **[last Wednesday of the month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=___1___&cwf=______&holm=1&df=1)** (except December and January) from 6pm to 7pm.
+Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha)** on the **[last Wednesday of the month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=___1___&cwf=______&holm=1&df=1)** (except December and January) from 6pm to 7pm.
 
-:fontawesome-regular-calendar-plus: **[Add all 2022 meetings to your Calendar](../assets/calendar/meetings-2022.ics)**
+:fontawesome-regular-calendar-plus: **[Add the 2022 meetings to your Calendar](../assets/calendar/meetings-2022.ics)**
 
 ![](../assets/auditorium.jpg)
 

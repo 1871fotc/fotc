@@ -2,6 +2,15 @@
 
 **[We publish our data with an open licence](legal.md) to help others discover and share the history and stories of Toowong Cemetery.**
 
+Currently we have published our **[Biography Index](../bios/index.md)**.
+
+
+We are inspired by the works of others, including:
+
+- [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939) by the State Library of Queensland - Our initial inspiration for exploring linked data.
+- [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
+- [Auckland Museum](https://www.aucklandmuseum.com/discover/collections-online/our-data) 
+
 ## Data Formats 
 
 Data on this site is published:
@@ -14,16 +23,27 @@ Data on this site is published:
     - a JSON [Table Schema](https://specs.frictionlessdata.io/table-schema/) file describing the structure of the data 
     - a [Markdown](https://commonmark.org/help/) Provenance file
 
-We plan to experiment with publishing data as Linked Open Data and provide it:
+We plan to experiment with publishing data as Linked Open Data. 
+
+<!-- and provide it:
 
 - as an RDF or JSON-LD data dump 
-- via a [GraphQL](https://graphql.org) API
+- via a [GraphQL](https://graphql.org) API 
+
+-->
 
 ## Data Schema
 
-For Comma Separated Value files, a schema is provided in the Tabular Data Package.
+For Comma Separated Value files, a schema is provided in a Tabular Data Package.
 
-For Linked Data we are considering using the [Graves Ontology Specification - 1.0](https://rdf.muninn-project.org/ontologies/graves.html) ([GitHub](https://github.com/muninn/graves)). Data about graves could be linked to data about:
+For Linked Data we are considering using:
+
+- [Graves Ontology Specification - 1.0](https://rdf.muninn-project.org/ontologies/graves.html) ([GitHub](https://github.com/muninn/graves)). 
+- [Biography](https://vocab.org/bio/) ([GitHub](https://github.com/iand/vocab-bio))
+
+
+<!-- 
+Data about graves could be linked to data about:
 
 - People - [FOAF Vocabulary Specification](http://xmlns.com/foaf/spec/)
     - [Organisation](https://www.w3.org/TR/vocab-org/) 
@@ -33,41 +53,45 @@ For Linked Data we are considering using the [Graves Ontology Specification - 1.
 - [Geographic locations](https://www.w3.org/2003/01/geo/)
 - [Geographic names](http://www.geonames.org/ontology/documentation.html)
 
+-->
+
 ## Data Owners
 
-Data objects Friends of Toowong Cemetery create include: 
+Data objects Friends of Toowong Cemetery create or capture includes: 
 
 - Biographies
 - Headstones (images, inscriptions, status)
 - Walks (a route from grave to grave, linked to people, headstones, and biographies)
 
-Where practical, we link to authoritative data sources, rather than duplicate data. We will encourage other data owners to publish their data as linked open data, or share it with an open licence. 
+Where practical, we link to authoritative data sources, rather than duplicate data. We will encourage other data owners to publish their data as linked data, and share it with an open licence. 
 
-Data we would like to link to includes: 
+Data we would like to reuse or link to includes: 
 
 - Geographic Locations (latitude, longitude, WGS84 datum)
-    - Owned by Brisbane City Council (at least in part)
+    - Owned by Brisbane City Council 
         - Cemetery boundary (polygon)
         - Portion boundaries (polygon)
         - Section boundaries (polygon)
-        - Graves (point) - capture graves listed in walks as a minimum
+        - Graves (point) - capture graves listed in self-guided walks as a minimum
         - Cemetery Road encasements (polygon)
         - Surrounding Road encasements (polygon)
         - Cemetery Building outlines (polygon)
-        - Features of Interest (polygon or point) - Symbology display, honour board
-        - Information Signs (point) - grave-side, walks, general information
-        - Waterways (polygon) - label Langsville Creek. Consider showing old dam.
-        - Bridges and Culverts (polygon)
+        - Waterways (polygon) - Langsville Creek. 
+        - Bridges, Culverts and open Drains (polygon)
         - Contours (polygon) - these will help create a mobility map
-    - Not currently captured    
-        - Trees (especially weed trees and those destroying graves) (point)
-        
+    - Other location data            
+        - Features of Interest (polygon or point) - Symbology display, honour board, Governor Blackall Monument
+        - Information Signs (point) - grave-side, walks, general information
+        - Trees (point) - especially weed trees and those destroying graves
+        - Historic Dam (polygon) - if location is known
+
 and data from: 
         
 - State Library Queensland
 - State Archives
 - Trove
-- and more
+- dbpedia
+- and more...
 
 ## Data Publishing 
 
@@ -80,13 +104,14 @@ We are exploring tools to convert CSV data (the master) into Markdown tables for
 - [OpenRefine](https://openrefine.org)  
 - An [Atom package](https://github.com/takezoe/atom-csv-markdown) 
 
+
 We have not decided on a Linked Data publishing toolset yet, but are aware of: 
 
 - [Swirrl](https://www.swirrl.com)
 - [Ontotext](https://www.ontotext.com)
 - [OntoRefine](https://graphdb.ontotext.com/documentation/free/loading-data-using-ontorefine.html)
-- Wikidata 
 - [dBpedia](https://www.dbpedia.org) which runs on [Virtuoso](https://virtuoso.openlinksw.com)
+- [CSV for the Web tools](https://www.w3.org/TR/tabular-data-primer/)
 
 When we work things out, we'll look to follow the W3C [Best Practices for Publishing Linked Data](https://www.w3.org/TR/ld-bp/)
 
@@ -96,7 +121,7 @@ Static Visualisations we are considering include:
 
 - [Maps of walks](https://vega.github.io/vega-lite/examples/geo_line.html)
 - [Grave locations](https://vega.github.io/vega-lite/examples/geo_layer.html)
-- [A individual's, family's or group of related people's timeline](https://bl.ocks.org/jakevdp/1643ebb6853e76c32e47a969f415f3ea)
+- [Timelines for an individual, family, or group of related people](https://bl.ocks.org/jakevdp/1643ebb6853e76c32e47a969f415f3ea)
 
 We are considering [Vega-Lite](https://vega.github.io/vega-lite/) to specify our own visualisations. These may be represented as static images on the website as the data does not change often but we are also exploring [tools for embedding vega-lite visualizations](https://vega.github.io/vega-lite/ecosystem.html#tools-for-embedding-vega-lite-visualizations).
 
@@ -107,14 +132,10 @@ Dynamic visualisations we are considering include:
 
 ## Data Consumers
 
-Our end goal for publishing and linking our data is to enable others to discover and share new stories about Toowong Cemetery.
+Our end goal for publishing and linking our data is to enable Friends of Toowong Cemetery and others to discover and share new stories and historical insights about Toowong Cemetery.
 
 We encourage you to use our data but please follow the terms of the licence and provide [attribution](legal.md). 
 
+<!-- 
 We may encourage reuse of our data by participating in hack-a-thons (such as [GovHack](https://govhack.org)), and experiments with other organisations. 
-
-We're inspired by the works of others, including:
-
-- [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939). Our initial inspiration for exploring linked data.
-- [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
-- [Auckland Museum](https://www.aucklandmuseum.com/discover/collections-online/our-data) 
+-->

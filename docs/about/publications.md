@@ -1,10 +1,6 @@
 # Publications
 
 Friends of Toowong Cemetery have published the following resources:
-
-## Toowong Cemetery resource manual: a guide for exploring the cemetery
-
-Recommended for teachers of school groups visiting the cemetery. Available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:71596/one) or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
     
 ## Colonel Samuel Wensley Blackall: 1809-1871
 
@@ -20,9 +16,12 @@ The event was filmed and a DVD has been produced featuring footage of the re-ena
 
 *Extraordinary Stories of Ordinary People*, published in 1999, is a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. It is available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:120843/one). 
 
-We are gradually creating [a web version of Extraordinary Stories of Ordinary People](extraordinary-stories.md).
-
+We have almost finished creating [a web version of Extraordinary Stories of Ordinary People](extraordinary-stories.md).
 
 !!! question "Volunteer - share a family story"
 
     If you would like your family's story to be considered for inclusion in the next edition of *Extraordinary Stories of Ordinary People*, please complete the [Biographical Details Form](http://www.fotc.org.au/subset/Toowong_Cemetery_Biographical_Details.pdf).
+
+## Toowong Cemetery resource manual: a guide for exploring the cemetery
+
+Recommended for teachers of school groups visiting the cemetery. Available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:71596/one) or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.

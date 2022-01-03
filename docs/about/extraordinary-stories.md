@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Extraordinary Stories of Ordinary People
 
 **Some stories about people interred at Toowong Cemetery**
