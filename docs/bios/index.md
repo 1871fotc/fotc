@@ -88,7 +88,7 @@ This licence requires you to [attribute our work](../about/legal/#attribution), 
 
 or, if necessary, the attribution may be shortened to:
 
->[Friends of Toowong Cemetery][index.md] - [CC BY 4.0][CC-BY]
+>[Friends of Toowong Cemetery](index.md) - [CC BY 4.0][CC-BY]
 
 or 
 
