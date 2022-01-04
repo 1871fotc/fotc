@@ -29,7 +29,7 @@ Data on this site is published as:
     - a JSON [Table Schema](https://specs.frictionlessdata.io/table-schema/) file describing the structure of the data 
     - a [Markdown](https://commonmark.org/help/) file describing the provenance of the data
 
-The data is available from links on this site and via [GitHub](https://github.com/Stephen-Gates/fotc/tree/main/docs/assets/data) :fontawesome-brands-github:
+The data is available from links on this site and via [GitHub :fontawesome-brands-github:](https://github.com/Stephen-Gates/fotc/tree/main/docs/assets/data) 
 
 We plan to experiment publishing our data as Linked Open Data. 
 
@@ -46,8 +46,8 @@ For Comma Separated Value files, a schema is provided in a Tabular Data Package.
 
 For Linked Data we are considering using:
 
-- [Graves Ontology Specification - 1.0](https://rdf.muninn-project.org/ontologies/graves.html) ([GitHub](https://github.com/muninn/graves)), which includes Cemeteries / Archaeology dig sites, Graves, Tombstones, and Human Remains
-- [Bio](https://vocab.org/bio/) ([GitHub](https://github.com/iand/vocab-bio)) - A vocabulary for biographical information about people and related events, organisations and other people
+- [Graves Ontology Specification](https://rdf.muninn-project.org/ontologies/graves.html) which includes Cemeteries / Archaeology dig sites, Graves, Tombstones, and Human Remains [:fontawesome-brands-github:](https://github.com/muninn/graves)
+- [Bio](https://vocab.org/bio/), a vocabulary for biographical information about people and related events, organisations and other people [:fontawesome-brands-github:](https://github.com/iand/vocab-bio)
 
 
 <!-- 
@@ -75,7 +75,7 @@ Data we would like to reuse or link to includes:
     - Section boundaries (polygon, id)
     - Graves (point, id) 
     - [Human Remains](https://graves.brisbane.qld.gov.au) - who is buried in which grave and associated dates
-    - Cemetery Road casements (polygon) - [centerlines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available
+    - Cemetery Road casements (polygon) - [centrelines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available
     - Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road.
     - Toowong Cemetery Main, Richer Street, and Frederick Street gates
     - Surrounding Road casements (polygon) - including roads running off the surrounding to aid orientation 
