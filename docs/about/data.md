@@ -29,7 +29,7 @@ Data on this site is published as:
     - a JSON [Table Schema](https://specs.frictionlessdata.io/table-schema/) file describing the structure of the data 
     - a [Markdown](https://commonmark.org/help/) file describing the provenance of the data
 
-The data is available from links on this site and via [GitHub](https://github.com/Stephen-Gates/fotc/tree/main/docs/assets/data). 
+The data is available from links on this site and via [GitHub](https://github.com/Stephen-Gates/fotc/tree/main/docs/assets/data) :fontawesome-brands-github:
 
 We plan to experiment publishing our data as Linked Open Data. 
 
@@ -102,7 +102,7 @@ and data from:
 - Trove - document articles
 - dbpedia - entries
 
-Geographic locations should be described as latitude, longitude coordinates in the WGS84 datum to aid integration and presentation on the web.
+Geographic locations should be described as latitude, longitude coordinates in the [WGS84 datum](https://www.spatial.nsw.gov.au/__data/assets/pdf_file/0008/224396/WGS84_and_Australias_misaligned_web-maps_Information_Sheet.pdf) to aid integration and presentation on the web. Alternatively all data should be supplied in a common Datum, ideally [GDA2020](https://www.icsm.gov.au/gda2020), or  the dated GDA94.
 
 
 ## Data Publishing 
