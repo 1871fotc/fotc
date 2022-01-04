@@ -5,7 +5,7 @@
 Currently we have published our **[Biography Index](../bios/index.md)**.
 
 
-We are inspired by the works of others, including:
+We are inspired by the works of others who share and create with open data, including:
 
 - [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939) by the State Library of Queensland - Our initial inspiration for exploring linked data.
 - [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
@@ -55,7 +55,7 @@ Data about graves could be linked to data about:
 
 -->
 
-## Data Owners
+## Other Data
 
 Data objects Friends of Toowong Cemetery create or capture includes: 
 
@@ -69,17 +69,17 @@ Data we would like to reuse or link to includes:
 
 - Geographic Locations (latitude, longitude, WGS84 datum)
     - Owned by Brisbane City Council 
-        - Cemetery boundary (polygon)
+        - [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) (polygon)
         - Portion boundaries (polygon)
         - Section boundaries (polygon)
-        - Graves (point) - capture graves listed in self-guided walks as a minimum
-        - Cemetery Road encasements (polygon)
+        - Cemetery Road encasements (polygon) - [centerlines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available
         - Surrounding Road encasements (polygon)
         - Cemetery Building outlines (polygon)
-        - Waterways (polygon) - Langsville Creek. 
+        - [Waterways](https://www.spatial-data.brisbane.qld.gov.au/datasets/e0839d26d85a429c8f64669ba69cfae7_0/explore?location=-27.475527%2C152.983328%2C17.22) (polygon) - Langsville Creek. [Flood risk](https://www.data.brisbane.qld.gov.au/data/dataset/flood_awareness_overland_flow)
         - Bridges, Culverts and open Drains (polygon)
-        - Contours (polygon) - these will help create a mobility map
-    - Other location data            
+        - [Contours](https://www.data.brisbane.qld.gov.au/data/dataset/contours-2002) (lines) - these will help create a mobility map
+    - Other location data       
+        - Graves (point) - capture graves listed in self-guided walks as a minimum 
         - Features of Interest (polygon or point) - Symbology display, honour board, Governor Blackall Monument
         - Information Signs (point) - grave-side, walks, general information
         - Trees (point) - especially weed trees and those destroying graves
