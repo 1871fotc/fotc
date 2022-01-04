@@ -80,7 +80,7 @@
 
 ### Licence and Attribution
 
-The **Biography Index** by **Friends of Toowong Cemetery** is provided under a **[Creative Commons Attribution][CC-BY]** licence. 
+The **Biography Index** by **Friends of Toowong Cemetery Association Incorporated** is provided under a **[Creative Commons Attribution][CC-BY]** licence. 
 
 This licence requires you to [attribute our work](../about/legal/#attribution), for example: 
 
