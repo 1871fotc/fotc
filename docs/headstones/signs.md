@@ -153,7 +153,7 @@ You can find signs of Friendly Societies in the local area such as:
 ## Further Reading
 
 - Harwood, J. *The Freemasons* London, Hermes House, 2006
-- [Pugh's Queensland almanac, directory and law calendar](https://nla.gov.au/nla.obj-2935152949/view?sectionId=nla.obj-2943918410&partId=nla.obj-2935176853#page/n179/mode/1up) lists Masonic Lodges, Friendly Societies, and Temperance Societies in Queensland in 1881. 
+- *[Pugh's Queensland almanac, directory and law calendar](https://nla.gov.au/nla.obj-2935152949/view?sectionId=nla.obj-2943918410&partId=nla.obj-2935176853#page/n179/mode/1up)* lists Masonic Lodges, Friendly Societies, and Temperance Societies in Queensland in 1881. 
 
 
 [^1]: An extension of the Loyal Orange Institute
