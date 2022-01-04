@@ -100,9 +100,9 @@ Some road names have recently been changed to the names of notable people buried
 <!-- works but csv doesn't go to downloads
 <small>Download the Toowong Cemetery Road Name data as a [Comma Separated Value](../assets/data/toowong-cemetery-road-names.csv) (.csv) file or [Tabular Data Package](../assets/data/toowong-cemetery-road-names.zip) (.zip)</small>
 --> 
-<!-- wrong url - downloads as html -->
+<!-- wrong url - downloads as html 
 *<small>Download the Toowong Cemetery Road Name data as a <a href="../assets/data/toowong-cemetery-road-names.csv" download>Comma Separated Value</a> (.csv) file or [Tabular Data Package](../assets/data/toowong-cemetery-road-names.zip) (.zip)</small>*
-
+-->
 
 !!! question "Volunteer - report a damaged sign"
 
