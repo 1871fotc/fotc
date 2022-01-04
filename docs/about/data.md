@@ -75,10 +75,10 @@ Data we would like to reuse or link to includes:
     - Section boundaries (polygon, id)
     - Graves (point, id) 
     - [Human Remains](https://graves.brisbane.qld.gov.au) - who is buried in which grave and associated dates
-    - Cemetery Road encasements (polygon) - [centerlines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available
+    - Cemetery Road casements (polygon) - [centerlines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available
     - Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road.
     - Toowong Cemetery Main, Richer Street, and Frederick Street gates
-    - Surrounding Road encasements (polygon)
+    - Surrounding Road casements (polygon) - including roads running off the surrounding to aid orientation 
     - Cemetery Building outlines (polygon) - Amentities, Workshop, Office, Museum and Shelter Sheds 
     - [Waterways](https://www.spatial-data.brisbane.qld.gov.au/datasets/e0839d26d85a429c8f64669ba69cfae7_0/explore?location=-27.475527%2C152.983328%2C17.22) (polygon) - Langsville Creek. [Flood risk](https://www.data.brisbane.qld.gov.au/data/dataset/flood_awareness_overland_flow)
     - Governor Blackall and Soldiers Memorial Monument outlines
