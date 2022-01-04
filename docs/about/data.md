@@ -14,12 +14,6 @@ Currently we have published the **[Biography Index](../bios/index.md#data)**.
 - [Toowong Cemetery Road Name](../cemetery/visit.md#road-name-changes)
 -->
 
-We are inspired by the works of others who share and create with open data, including:
-
-- [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939) by the State Library of Queensland. This was our initial inspiration for exploring linked data.
-- [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
-- [Auckland Museum](https://www.aucklandmuseum.com/discover/collections-online/our-data) who publish the collection data in many different ways
-
 ## Data Formats 
 
 Data on this site is published as:
@@ -82,7 +76,7 @@ Data we would like to reuse or link to includes:
     - Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road.
     - Toowong Cemetery Main, Richer Street, and Frederick Street gates
     - Surrounding Road casements (polygon) - including roads running off the surrounding to aid orientation 
-    - Cemetery Building outlines (polygon) - Amentities, Workshop, Office, Museum and Shelter Sheds 
+    - Cemetery Building outlines (polygon) - Amenities, Workshop, Office, Museum and Shelter Sheds 
     - [Waterways](https://www.spatial-data.brisbane.qld.gov.au/datasets/e0839d26d85a429c8f64669ba69cfae7_0/explore?location=-27.475527%2C152.983328%2C17.22) (polygon) - Langsville Creek. [Flood risk](https://www.data.brisbane.qld.gov.au/data/dataset/flood_awareness_overland_flow)
     - Governor Blackall and Soldiers Memorial Monument outlines
     - [Contours](https://www.data.brisbane.qld.gov.au/data/dataset/contours-2002) (lines) - these will help create a mobility map
@@ -148,6 +142,14 @@ Dynamic visualisations we are considering include:
 ## Data Consumers
 
 Our end goal for publishing and linking our data is to enable Friends of Toowong Cemetery and others to discover and share new stories and historical insights about Toowong Cemetery.
+
+
+We are inspired by the works of others who share and create with open data, including:
+
+- [Visualising linked data from 'A biographical record of Queensland women', 1939](https://www.slq.qld.gov.au/blog/visualising-linked-data-biographical-record-queensland-women-1939) by the State Library of Queensland. This was our initial inspiration for exploring linked data.
+- [Loud Numbers](https://anchor.fm/loudnumbers/episodes/The-End-of-the-Road-e131bnl) and [Sonic Pi](https://sonic-pi.net). What could Toowong Cemetery sound like?
+- [Auckland Museum](https://www.aucklandmuseum.com/discover/collections-online/our-data) who publish the collection data in many different ways
+
 
 We encourage you to use our data but please follow the terms of the licence and provide [attribution](legal.md). 
 
