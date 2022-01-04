@@ -83,11 +83,11 @@ Some road names have recently been changed to the names of notable people buried
 | **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
 | **[Dr Lillian Cooper][Cooper]** Drive      | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
-| **[Francis Forde][Forde]** Avenue              | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
+| **[Francis Forde][Forde]** Avenue          | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
 | **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
 | Soldiers Parade                            | Boundary Road | running parallel to Frederick Street closest to the main entrance    |
-| **[Steele Rudd][Rudd]** Avenue                 | 4^th^ Avenue  |                                                                      |
-| **[Walter Ralstone][Ralstone]** Avenue         | 7^th^ Avenue  |                                                                      |
+| **[Steele Rudd][Rudd]** Avenue             | 4^th^ Avenue  |                                                                      |
+| **[Walter Ralstone][Ralstone]** Avenue     | 7^th^ Avenue  |                                                                      |
 | **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
 | **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
@@ -96,6 +96,13 @@ Some road names have recently been changed to the names of notable people buried
 | **[Garland][Garland]** Avenue              | 13^th^ Avenue |                                                                      |
 | **[William Browne][Browne]** Avenue        | 14^th^ Avenue |                                                                      |
 | Federation Avenue                          | 15^th^ Avenue |                                                                      |
+
+<!-- works but csv doesn't go to downloads
+<small>Download the Toowong Cemetery Road Name data as a [Comma Separated Value](../assets/data/toowong-cemetery-road-names.csv) (.csv) file or [Tabular Data Package](../assets/data/toowong-cemetery-road-names.zip) (.zip)</small>
+--> 
+<!-- wrong url - downloads as html -->
+*<small>Download the Toowong Cemetery Road Name data as a <a href="../assets/data/toowong-cemetery-road-names.csv" download>Comma Separated Value</a> (.csv) file or [Tabular Data Package](../assets/data/toowong-cemetery-road-names.zip) (.zip)</small>*
+
 
 !!! question "Volunteer - report a damaged sign"
 
