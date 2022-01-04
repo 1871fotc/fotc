@@ -35,15 +35,15 @@ or
 
 An example attribution for work derived from the Toowong Cemetery History page is:
 
->This work, "*Your works title here*", is a derivative of "[Toowong Cemetery History][history]" by [Friends of Toowong Cemetery Association Incorporated][site] licensed under [CC BY 4.0][CC-BY]. 
+>This work, "*Your work's title here*", is a derivative of "[Toowong Cemetery History][history]" by [Friends of Toowong Cemetery Association Incorporated][site] licensed under [CC BY 4.0][CC-BY]. 
 
 ## Contribute
 
 To contribute content, you can:
 
 - [Share content via email][email]
-- [Share content][new-issue] by adding an issue on GitHub (login required)
-- [Discuss or share your contribution][forum] in the discussion forum on GitHub (login required)
+- [Share content in a GitHub issue][new-issue] (login required)
+- [Discuss or share your contribution in the GitHub discussion forum][forum] (login required)
 
 Contributions must be made under an open licence, preferably the [Creative Commons Attribution 4.0 licence][CC-BY] so you:
 
@@ -63,11 +63,13 @@ If you feel we have not attributed your work correctly, or used it inappropriate
 
 While we make every reasonable effort to ensure the accuracy of information, some of the content on this site may contain inaccuracies or errors.
 
-Members of Aboriginal and Torres Strait Islander communities are advised that this site may contain names, images and moving images of deceased people.
-
-It may also include historically and culturally sensitive images and moving images, sound recordings, words, terms or descriptions; such material does not reflect our viewpoint but rather the social attitudes and circumstances of the period or place in which it was created.
-
 Links to other websites are inserted for convenience and do not constitute endorsement of material at those sites, or any associated organisation, product or service.
+
+## Cultural warning
+
+Members of Aboriginal and Torres Strait Islander communities are advised that this site may contain names, images, sound recordings and moving images of deceased people.
+
+This site may also include historically and culturally sensitive images and moving images, sound recordings, words, terms or descriptions; such material does not reflect our viewpoint but rather the social attitudes and circumstances of the period or place in which it was created.
 
 ## Acknowledgement of Traditional Owners
 
@@ -75,15 +77,15 @@ We acknowledge Aboriginal and Torres Strait Islander peoples and their continuin
 
 ## Accessibility
 
-We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please use the links in the footer to contact us:
+We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please use the links in the footer anywhere on the site to contact us:
 
-- :fontawesome-solid-phone: via phone
-- :fontawesome-solid-envelope: via email
-- :material-heart-broken: using a feedback form
+- :fontawesome-solid-phone: **[via phone][phone]**
+- :fontawesome-solid-envelope: **[via email][email]**
+- :material-heart-broken: **[using a feedback form][form]**
 
 ## Your consent 
 
-When you visited this site for the first time, we asked for your consent to use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you find this site helpful. With your consent you're helping us to make this site better. 
+When you visited this site for the first time, we asked for your consent to use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you find this site helpful. With your consent, you're helping us to make this site better. 
 
 You can change your cookie settings at any time. 
 
@@ -100,4 +102,6 @@ You can change your cookie settings at any time.
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
 [new-issue]: https://github.com/Stephen-Gates/fotc/issues/new/choose
 [forum]: https://github.com/Stephen-Gates/fotc/discussions
-[email]: mailto://mailto:inquiries@fotc.org.au
+[email]: mailto:inquiries@fotc.org.au
+[phone]: tel:0439998053
+[form]: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
