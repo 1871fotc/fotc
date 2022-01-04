@@ -99,7 +99,7 @@ or
 The Biography Index data can be downloaded as a:
 
 - **<a href="../assets/data/biography-index.csv" download>Comma Separated Value file</a>** (.csv)
-- **[Tabular Data Package](../assets/data/biography-index.zip)**  (.zip), following the [Frictionless Data](https://frictionlessdata.io/) standards
+- **[Tabular Data Package](../assets/data/biography-index.zip)** (.zip), following the [Frictionless Data](https://frictionlessdata.io/) standards
 
 
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/

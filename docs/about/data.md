@@ -8,8 +8,11 @@ Data Friends of Toowong Cemetery create or capture includes:
 - Headstones (images, inscriptions, status)
 - Walks (a route from grave to grave, linked to people, headstones, and biographies)
 
-Currently we have only published our **[Biography Index](../bios/index.md)**.
-
+Currently we have published the **[Biography Index](../bios/index.md#data)**.
+<!--
+- [Biography Index](../bios/index.md)
+- [Toowong Cemetery Road Name](../cemetery/visit.md#road-name-changes)
+-->
 
 We are inspired by the works of others who share and create with open data, including:
 
