@@ -1,5 +1,13 @@
 {% extends "base.html" %}
 
+<!--  indexing policies for search engines -->
+
+{% block extrahead %}
+  <meta property="robots" content="noindex, nofollow" />
+{% endblock %}
+
+<!--   announcement bar text at the top of the page  -->
+
 {% block announce %}
   <!-- Add announcement here, including arbitrary HTML -->
 
@@ -7,13 +15,12 @@
 ✨ Celebrating 30 years of being Friends of Toowong Cemetery ✨
 --> 
 
-
   This site is under construction. Please view the Official Friends of Toowong Cemetery site: <a href="http://www.fotc.org.au">http://www.fotc.org.au</a> 
 
-  
 <!-- 
   <b>Cultural warning</b>: This website contains names, images and voices of deceased people.
 -->
 
-
 {% endblock %}
+
+{% extends "base.html" %}
