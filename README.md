@@ -23,7 +23,7 @@ To contribute you can:
 
 - [Join the conversation](https://github.com/Stephen-Gates/fotc/discussions) in the discussion forum
 - [Share content](https://github.com/Stephen-Gates/fotc/issues/new/choose) under an open license or contribute it to the public domain
-- [Report an error](https://github.com/Stephen-Gates/fotc/issues), after checking that it's not [already reported][issues]
+- [Report an error](https://github.com/Stephen-Gates/fotc/issues/new/choose), after checking that it's not [already reported](https://github.com/Stephen-Gates/fotc/issues)
 - [Make a suggestion](https://github.com/Stephen-Gates/fotc/issues/new/choose)
 
 
