@@ -68,9 +68,9 @@ extra:
 #      link: https://twitter.com/1871fotc
 #      name: Twitter @1871fotc
 #    - icon: fontawesome/solid/thumbs-down
-    - icon: fontawesome/brands/github
-      link: https://github.com/Stephen-Gates/fotc
-      name: Code, data and more on GitHub
+#    - icon: fontawesome/brands/github
+#      link: https://github.com/Stephen-Gates/fotc
+#      name: Code, data and more on GitHub
     - icon: material/heart-broken
       link: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
       name: Provide feedback
@@ -239,6 +239,6 @@ nav:
     - Publications: about/publications.md
 #    - Extraordinary Stories of Ordinary People: about/extraordinary-stories.md
     - Data: about/data.md
-#    - Terminology: about/terms.md
+    - Terminology: about/terms.md
     - Legal: about/legal.md
 #    - Ideas: about/ideas.md
