@@ -62,3 +62,5 @@ The [Under the Lino](http://www.underthelino.com.au) community have a [catalogue
 - [Research Guide to cemetery records at Queensland State Archives](https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/3b2f93a8-3229-4739-bae5-a130fb199cf9/research-guide-to-cemetery-records.pdf)
 - Hong Kong to Toowong - Chinese burials in the Brisbane General Cemetery. Leonie Gane, 2008.
 - [Baptist Church Archives Queensland](https://www.bhsq.org/barq/)
+- [Online History and Genealogy](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/?rm=ONLINE+RESOURC0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&dt=list#History) resources available at Brisbane City Council Libraries
+- [Family History](https://www.slq.qld.gov.au/research-collections/family-history) resources from the State Library of Queensland
