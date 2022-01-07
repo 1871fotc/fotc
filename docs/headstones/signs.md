@@ -31,7 +31,26 @@ Most cemetery visitors are familiar with the compass and square, the working too
 ![](../assets/freemason-sign.jpg){ width="48%" }  ![](../assets/freemason-sign-with-g.jpg){ width="48%" } 
 ![](../assets/andrew-norman-davidson-headstone.jpg){ width="97%" }  
 
-*<small>Note the "V.W."" after Andrew Norman Davidson's name may indicate he held the rank of Very Worshipful Brother. The inscription ends with - "Brothers we shall meet again"</small>*
+>Her beloved Husband 
+>and our loving Father <br/>
+>Andrew Norman 
+>Davidson V.W. <br/>
+>Free Accepted Masons <br/>
+>Scottish Constitution <br/>
+>U.G.L.Q. <br/>
+>Born Longreach. Q <br/>
+>2^nd^ March 1898・ Died 12^th^ July 1979  <br/>
+>Brothers we shall meet again 
+
+The "V.W." after Andrew Norman Davidson's name may indicate he held the rank of Very Worshipful Brother. The rank is usually indicated as a "VW Bro." prefix before the person's name. Freemason ranks ascend through a hierarchy: 
+
+1. Brother (Bro.) 
+2. Worshipful Brother (Wor. Bro.) 
+3. Very Worshipful Brother (VW Bro.)
+4. Right Worshipful Brother (RW Bro.) 
+5. Most Worshipful Brother (MW Bro.)
+
+"U.G.L.Q." stands for the "United Grand Lodge Queensland" which was formed through the amalgamation of several governing Masonic bodies in Queensland in 1921. Different Grand Lodges practiced slightly different versions of the Masonic rituals. When U.G.L.Q. formed, they did so with the proviso that Lodges could continue practicing their ritual's if they wished, or change to a recently revised U.G.L.Q. ritual. Most of the Scottish Lodges retained their original rituals, giving rise to the idea of "Scottish Constitution" lodges.[^1]
 
 ## Odd Fellows
 
@@ -105,7 +124,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | PAFS    | Protestant Alliance Friendly Society                         | Friendly Society  | pp-ss-gg           |
 | RA      | [Royal Arch][RA]                                             | Friendly Society  | pp-ss-gg           |
 | RAOB    | Royal Antediluvian Order of Buffaloes                        | Friendly Society  | pp-ss-gg           |
-| RBP     | [Royal Black Preceptory][RBP] [^1]                           |                   | pp-ss-gg           |
+| RBP     | [Royal Black Preceptory][RBP] [^2]                           |                   | pp-ss-gg           |
 | SC      | Scottish Constitution                                        | Freemasonry       | 25-46-17           |
 | UAOD    | [United Ancient Order of Druids][UAOD]                       | Friendly Society  | pp-ss-gg           |
 | UGL     | [United Grand Lodge of Ancient, Free and Accepted][UGL]      | Freemasonry       | 25-46-17           |
@@ -155,7 +174,9 @@ You can find signs of Friendly Societies in the local area such as:
 - *[Pugh's Queensland almanac, directory and law calendar](https://nla.gov.au/nla.obj-2935152949/view?sectionId=nla.obj-2943918410&partId=nla.obj-2935176853#page/n179/mode/1up)* lists Masonic Lodges, Friendly Societies, and Temperance Societies in Queensland in 1881. 
 
 
-[^1]: An extension of the Loyal Orange Institute
+[^1]: Thanks to VW Bro. Brodie Taylor, Grand Librarian, Freemasons Queensland, for his contribution.
+[^2]: An extension of the Loyal Orange Institute.
+
 
 <!-- links -->
 
