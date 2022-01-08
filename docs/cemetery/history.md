@@ -208,7 +208,7 @@ In 1988 the first season of [Mission Impossible](https://en.wikipedia.org/wiki/M
 
 Cr. Judy Magub was the first President of the Friends of Toowong Cemetery. Judy was the councillor for the Toowong ward since it was formed in 1994 until she retired in 2007.
 
-Learn more about [Friends of Toowong Cemetery](../about/index.md) - what we do, what we've done, and how to join in. 
+Learn more about **[Friends of Toowong Cemetery](../about/index.md)** - what we do, what we've done, and how to join in. 
 
 ## 2001 Federation Pavilion
 
