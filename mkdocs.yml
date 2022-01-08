@@ -71,26 +71,25 @@ extra:
 #    - icon: fontawesome/brands/github
 #      link: https://github.com/Stephen-Gates/fotc
 #      name: Code, data and more on GitHub
-    - icon: material/heart-broken
-      link: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
-      name: Provide feedback
+#    - icon: material/heart-broken
+#      link: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
+#      name: Provide feedback
   analytics: 
     provider: google
     property: G-FT5X64207N
-#    feedback:
-#      title: Was this page helpful?
-#      ratings:
-#        - icon: material/emoticon-happy-outline
-#          name: This page was helpful
-#          data: 1
-#          note: >-
-#            Thanks for your feedback!
-#        - icon: material/emoticon-sad-outline
-#          name: This page could be improved
-#          data: 0
-#          note: >-
-#            Thanks! Help us improve this page by
-#            completing our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>feedback form</a>.
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Help us improve by completing our <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>feedback form</a></b>.
 #
 # See https://support.google.com/a/users/answer/9308781?hl=en; add {} to URL answer; copy link; replace =%7B%7D with ={}; done            
 # https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590=%7B%7D

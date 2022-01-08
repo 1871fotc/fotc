@@ -1,6 +1,5 @@
 ---
 title: History
-
 ---
 
 #  Toowong Cemetery History
