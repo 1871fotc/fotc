@@ -6,15 +6,28 @@ title: History
 
 ## Traditional Owners
 
-Prior to 1875, the flat area where the entrance of Toowoong Cemetery now stands was an [Aboriginal Corroboree Ground](https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/). **[Toowong is a corruption of *Tu-wong*][tu-wong]**, purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
+Prior to ca.1875, the flat area where the entrance of Toowoong Cemetery now stands was an [Aboriginal Corroboree Ground][Corroboree]. "Toowong" is a corruption of "[Tu-wong][tu-wong]", purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
+
+[Corroboree]: https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/ "From 'Aboriginal Campsites of Greater Brisbane' by Ray Kerkhove, 2015"
+
+[tu-wong]: http://www.toowong.org.au/books_for_sale.htm "From 'Aboriginal people of Toowong' by Arthur Beau Palmer, in 'Toowong: A community's history' by West Toowong Community Association Inc."
 
 ## 1871 Governor Blackall buried
 
-**[Colonel Samuel Wensley Blackall](../bios/samuel-wensley-blackall.md)**, the second Governor of Queensland, was the first person buried in Toowong Cemetery on 3 January 1871.
+The land for the cemetery was first reserved in 1866. The reserve of 250 acres 1 rood, and an extension of 53 acres were [gazetted][gazette-93], and [Cemetery Trustees appointed][gazette-94] on 7 October 1870.
+
+[gazette-93]: ../assets/documents/Queensland_Gov_Gazette_8_October_1870_v11_93.pdf "Read the Queensland Government Gazetter No. 93"
+[gazette-94]: ../assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94 "Read the Queensland Government Gazetter No. 94"
+
+
+**[Colonel Samuel Wensley Blackall][Blackall]**, the second Governor of Queensland, was the first person buried in Toowong Cemetery on 3 January 1871. 
+
+[Blackall]: ../bios/samuel-wensley-blackall.md "Read Colonel Samuel Wensley Blackall's Biography"
+
 
 ## 1875 Toowong Cemetery opened
 
-The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened in July 1875 and over 119,000 people are buried in approximately 46,000 graves.
+The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the largest cemetery in Queensland at 44 Hectares and is an important record of the history of Brisbane and Queensland. It was officially opened on 5 July 1875 and over 119,000 people are buried in approximately 46,000 graves.
 
 <div class="video-wrapper">
 <!--
@@ -40,7 +53,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 *<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
 *<small>Series 46 Film BCC2 Frame 34691, 31 May 1946  — Brisbane City Council, via [QImagery](https://qimagery.information.qld.gov.au). Frederick St is the straight road on the right, running top to bottom.</small>*
 
-## 1881 Queensland's oldest surviving headstones
+## 1881 Queensland's oldest surviving tombstones
 
 Three children originally interred in the North Quay Cemetery, were re‑interred at Toowong Cemetery in October 1881. 
 
@@ -48,17 +61,17 @@ Three children originally interred in the North Quay Cemetery, were re‑interre
 
 *<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell  and Tank Streets. Source unknown.</small>*
 
-Esther Roberts, mother of William Henry Roberts, was the first teacher of girls in the Moreton Bay settlement. His father, Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. William was born on 15 September 1828 and died of illness on 15 November 1831. The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14:
+Esther Roberts, mother of **William Henry Roberts**, was the first teacher of girls in the Moreton Bay settlement. His father, Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. William was born on 15 September 1828 and died of illness on 15 November 1831. The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14:
 
 >***Suffer the little children, and forbid them not, to come unto me: for of such belongeth the Kingdom of God.***
 
 It has since been lost to weathering. After the death of their son, the Roberts family returned to Sydney in 1834.
 
 
-Peter McCauley was born in Sydney on 17 April 1826, the son of Private Peter McCauley, a member of the 17^th^ Regiment. His monther, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On 5 January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The  family returned to Sydney in 1832.
+**Peter McCauley** was born in Sydney on 17 April 1826, the son of Private Peter McCauley, a member of the 17^th^ Regiment. His monther, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On 5 January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The  family returned to Sydney in 1832.
 
 
-Jane Pittard was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Vann Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
+**Jane Pittard** was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Vann Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
 
 These children's tombstones are the oldest surviving tombstones in Queensland.
 ![](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
@@ -86,13 +99,17 @@ The Postmaster in 1844 was George M. Slade.
 
 ## 1911 Paddington Cemetery Act
 
-Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglected North Brisbane Burial Grounds (also known as  [Paddington Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery)) into a park and sports field. 
+Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglected North Brisbane Burial Grounds (also known as [Paddington Cemetery][Paddington Cemetery]) into a park and sports field. 
+
+[Paddington Cemetery]: https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery "Read more about Paddington Cemetery"
 
 ![](../assets/paddington-cemetery-goat-1910.png){ width="70%" } 
 
 *<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) — Queensland State Archives.</small>*
 
-In 1911 the Queensland Government passed the *[Paddington Cemetery Act](http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/)* allowing them to move the bodies to another location.
+In 1911 the Queensland Government passed the *[Paddington Cemetery Act][Paddington Cemetery Act]* allowing them to move the bodies to another location.
+
+[Paddington Cemetery Act]: http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/ "Read the 1911 Paddington Cemetery Act"
 
 <!--
 
@@ -161,7 +178,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 ## 1962 Trams Terminated
 
-[Trams in Brisbane](https://en.wikipedia.org/wiki/Trams_in_Brisbane) changed over time. In 1962 the [Paddington Tram Depot was destroyed by fire](https://trove.nla.gov.au/newspaper/article/104296116) and 65 trams were lost. The Rainworth and Toowong tram services were withdrawn and replaced with buses.
+[Trams in Brisbane](https://en.wikipedia.org/wiki/Trams_in_Brisbane) changed over time. In 1962 the [Paddington Tram Depot was destroyed by fire](https://trove.nla.gov.au/newspaper/article/104296116) and 65 trams were lost. The Rainworth and Toowong [tram services were withdrawn](https://youtu.be/yD8thm6MECU) and replaced with buses.
 
 --8<-- "snippets/toowong-cemetery-tram.md"
 
@@ -195,13 +212,17 @@ Learn more about [Friends of Toowong Cemetery](../about/index.md) - what we do, 
 
 ## 2001 Federation Pavilion
 
-The [Federation Pavilion](../about/federation-pavilion.md) commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
+The **[Federation Pavilion][Federation Pavilion]** commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
 ![](../assets/federation-pavilion.jpg){ width="96%" }  
 
+[Federation Pavilion]: ../about/federation-pavilion.md "Read about Federation Pavilion, created by the Friends of Toowong Cemetery"
+
 ## 2006 Archaeological Digs
 
-In 2006, in conjunction with the University of Queensland Archaeology Department, Friends of Toowong Cemetery started [searching for demolished headstones](../headstones/archaeological-digs.md) buried in the cemetery grounds.
+In 2006, in conjunction with the University of Queensland Archaeology Department, Friends of Toowong Cemetery started **[searching for demolished headstones][digs]** buried in the cemetery grounds.
+
+[digs]: ../headstones/archaeological-digs.md "Read about our archaeological digs"
 
 In 2011, while staff prepared a new grave, the headstone of a John Peel was discovered. Brisbane City Council had no record of John Pell and asked Friends of Toowong Cemetery for help. It was discovered that the headstone was one of 504 missing headstones from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for roadbase. This was not entirely true as many headstones have been found in archaeological digs between 2011-2016. 
 
@@ -209,11 +230,15 @@ In 2011, while staff prepared a new grave, the headstone of a John Peel was disc
 
 ## 2009 Vandalism law changes
 
-In 2009, over 80 gravestones were damaged at Toowong Cemetery. Following a police investigation, four people were charged with wilful damage however at the defendants’ committal hearing in April 2010, the charges were dismissed due to a "loop-hole" in the law. [Friends of Toowong Cemetery successfully partitioned for changes to be made to the law](../assets/documents/2010-vandalism.pdf).
+In 2009, over 80 gravestones were damaged at Toowong Cemetery. Following a police investigation, four people were charged with wilful damage however at the defendants’ committal hearing in April 2010, the charges were dismissed due to a "loop-hole" in the law. **[Friends of Toowong Cemetery successfully partitioned for changes to be made to the law][Vandalism of Cemeteries]**.
+
+[Vandalism of Cemeteries]: ../assets/documents/2010-vandalism.pdf "Read the 'Vandalism of Cemeteries: Criminal Code and Other Legislation Amendment Bill 2010 (Qld)''"
 
 ## 2011 Governor Blackall's funeral re-enactment
 
-On 24 July 2011, 140 years after Governor Blackall was buried, a [re-enactment of the funeral](../about/140-commemoration.md) was performed.
+On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment of the funeral][re-enactment]** was performed.
+
+[re-enactment]: ../about/140-commemoration.md "Read about our awarding winning event."
 
 ![](../assets/140-commemoration.png){ width="96%" }  
 
@@ -227,7 +252,7 @@ Today, the Friends of Toowong Cemetery and the Brisbane City Council work togeth
 - The Paddington Memorial, and **[Headstone Symbology](../headstones/)** display
 - The **[Toowong Cemetery Remembrance Walk](https://vimeo.com/540501732)** that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend
 
-**Toowong Cemetery is enjoyed by those who come to remember loved ones, walk their dog, exercise, or discover the history and stories inside.**
+**Toowong Cemetery is enjoyed by those who come to remember loved ones, exercise, walk their dog, or discover the history and stories inside.**
 
 <!-- 
 
@@ -306,5 +331,3 @@ The Portion History section is derived from [Toowong Cemetery](https://apps.des.
 *[Birdwood Terrace]: Field Marshal William Riddell Birdwood commanded the Australian Corps for much of the First World War. 
 
 *[Heussler Terrace]: Johann (John) Christian Heussler (1820–1907) was a Member of Queensland's Upper House (1866-1907)
-
-[tu-wong]: http://www.toowong.org.au/books_for_sale.htm "From Aboriginal people of Toowong by Arthur Beau Palmer, in Toowong: A community's history by West Toowong Community Association Inc."
