@@ -40,6 +40,7 @@ theme:
   custom_dir: overrides
   features:
 #    - announce.dismiss
+# instant and announce seem to conflict with was this page helpful. Pick one. Works on Material for Mkdocs - look there. 
 #    - navigation.instant
     - navigation.tracking
     - navigation.top
@@ -67,7 +68,6 @@ extra:
 #    - icon: fontawesome/brands/twitter
 #      link: https://twitter.com/1871fotc
 #      name: Twitter @1871fotc
-#    - icon: fontawesome/solid/thumbs-down
 #    - icon: fontawesome/brands/github
 #      link: https://github.com/Stephen-Gates/fotc
 #      name: Code, data and more on GitHub
@@ -84,12 +84,12 @@ extra:
           name: This page was helpful
           data: 1
           note: >-
-            Thanks for your feedback!
+            Thanks for your feedback! Feel free to <br><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>tell us what we got right</a></b>.
         - icon: material/emoticon-sad-outline
           name: This page could be improved
           data: 0
           note: >-
-            Help us improve by completing our <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>feedback form</a></b>.
+            Thanks for your feedback! <br><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>tell us how we can improve</a></b>.
 #
 # See https://support.google.com/a/users/answer/9308781?hl=en; add {} to URL answer; copy link; replace =%7B%7D with ={}; done            
 # https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590=%7B%7D
@@ -98,7 +98,7 @@ extra:
     title: Cookie consent
     description: >-
       <p>We use cookies to recognise your repeated visits, determine if you find what you're searching for, and measure if you think this site is helpful.</p>
-      <p>With your consent, you're helping us to make this site better.</p>
+      <p>With your consent, you're helping us make this site better.</p>
   
 extra_css:
   - stylesheets/extra.css
@@ -120,6 +120,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+# custom icon - ghost in dark mode      
       options:
         custom_icons:
           - overrides/.icons
@@ -151,7 +152,6 @@ plugins:
 #        text: "#FFFFFF"
 
 # Page tree - only 2 levels allowed
-# order walks better
 nav:
   - Home: index.md
   - Toowong Cemetery: 
@@ -232,6 +232,6 @@ nav:
     - Publications: about/publications.md
 #    - Extraordinary Stories of Ordinary People: about/extraordinary-stories.md
     - Data: about/data.md
-#    - Terminology: about/terms.md
+#    - Grave Terminology: about/grave-terms.md
     - Legal: about/legal.md
 #    - Ideas: about/ideas.md
