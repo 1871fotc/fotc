@@ -26,7 +26,7 @@ Data on this site is published as:
     - a JSON [Table Schema](https://specs.frictionlessdata.io/table-schema/) file describing the structure of the data 
     - a [Markdown](https://commonmark.org/help/) file describing the provenance of the data
 
-The data is available from links on this site and via [GitHub :fontawesome-brands-github:](https://github.com/Stephen-Gates/fotc/tree/main/docs/assets/data) 
+The data is available from links on this site and via [GitHub :fontawesome-brands-github:](https://github.com/1871fotc/fotc/tree/main/docs/assets/data) 
 
 We plan to experiment publishing our data as Linked Open Data. 
 

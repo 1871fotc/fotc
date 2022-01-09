@@ -1,12 +1,12 @@
 # Project information
 site_name: Friends of Toowong Cemetery
-site_url: https://stephen-gates.github.io/fotc/
+site_url: https://1871fotc.github.io/fotc/
 site_author: Friends of Toowong Cemetery Association Incorporated
 site_description: >-
   Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
 copyright: © 1992 — 2022 Friends of Toowong Cemetery Association Incorporated. 
-# repo_url: https://github.com/Stephen-Gates/fotc
-# repo_name: Stephen-Gates/fotc
+# repo_url: https://github.com/1871fotc/fotc
+# repo_name: 1871fotc/fotc
 # edit_uri: ""
 
 # Configuration
@@ -64,13 +64,14 @@ extra:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/1871fotc/
       name: Facebook @1871fotc
+    - icon: fontawesome/brands/github
+      link: https://github.com/1871fotc
+      name: Code, data and more on GitHub
 # Add twitter when Social Cards are working https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/?h=soci
 #    - icon: fontawesome/brands/twitter
 #      link: https://twitter.com/1871fotc
 #      name: Twitter @1871fotc
-#    - icon: fontawesome/brands/github
-#      link: https://github.com/1871fotc
-#      name: Code, data and more on GitHub
+# Used for feedback to avoid clash with announce
 #    - icon: material/heart-broken
 #      link: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
 #      name: Provide feedback

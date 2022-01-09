@@ -95,13 +95,13 @@ You can change your cookie settings at any time.
 
 <!-- links --> 
 
-[github-contributors]: https://github.com/Stephen-Gates/fotc/graphs/contributors
+[github-contributors]: https://github.com/1871fotc/fotc/graphs/contributors
 [contributors]: index.md
 [history]: ../cemetery/history.md
 [site]: ../index.md
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
-[new-issue]: https://github.com/Stephen-Gates/fotc/issues/new/choose
-[forum]: https://github.com/Stephen-Gates/fotc/discussions
+[new-issue]: https://github.com/1871fotc/fotc/issues/new/choose
+[forum]: https://github.com/1871fotc/fotc/discussions
 [email]: mailto:inquiries@fotc.org.au
 [phone]: tel:0439998053
 [form]: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
