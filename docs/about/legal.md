@@ -77,11 +77,7 @@ We acknowledge Aboriginal and Torres Strait Islander peoples and their continuin
 
 ## Accessibility
 
-We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please use the links in the footer anywhere on the site to contact us:
-
-- :fontawesome-solid-phone: **[via phone][phone]**
-- :fontawesome-solid-envelope: **[via email][email]**
-- :material-heart-broken: **[using a feedback form][form]**
+We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please use the links in the footer anywhere on the site to contact us [via phone][phone], [email][email], or [using a feedback form][form].
 
 ## Your consent 
 
@@ -90,8 +86,6 @@ When you visited this site for the first time, we asked for your consent to use 
 You can change your cookie settings at any time. 
 
 [Change cookie settings](#__consent){ .md-button }
-
-
 
 <!-- links --> 
 
