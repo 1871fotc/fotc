@@ -175,10 +175,7 @@ Lilian Ramsay was a staff nurse with the Australian Army Nursing Service having 
 
 !!! Warning "Nurses buried in Portion 22" 
 
-    Portion 22 is a very steep section of Toowong Cemetery and great care is required to visit these graves. These graves are not included on the walk.
-    
-    Friends of Toowong Cemetery have searched for these four headstones but have not been able to locate them. 
-    
+    Portion 22 is steep in parts. These graves are best approached from Francis Forde Avenue, which runs parallel to Birdwood Terrace. These graves are not included on the walk.    
 
 ## Mary Hogan <small>(22‑16‑18)</small>
 
@@ -186,24 +183,25 @@ Mary Hogan (née Wells) was born in 1923 in Euroa, Victoria and completed her ed
 
 As the result of an accident, Mary was widowed in 1962. She then worked full time as a clinic sister in the Inala, Darra, and Wacol areas while raising her 4 children alone. Her final working position as a nursing sister was at Canossa Hospital, where Mary herself died from multiple myeloma in May 2002, aged 78. After 40 years as a widow, Mary Hogan was buried in Toowong Cemetery alongside her beloved husband John in the grave she purchased in 1962. She was a mother, grandmother, nurse and friend to many.
 
-<!--  
-
-The wrong mary hogan!  There must be 2. This one is in 7A-146-13 
-
--->
-
+![](../assets/mary-hogan-headstone.jpg){ width="70%" }  
 
 ## Patricia Marion Hull <small>(22‑17‑25)</small>
 
 Patricia Hull’s qualifications were recognised by the Nurses and Masseurs Registration Board of Queensland. She died aged 37 in 1964, leaving behind a husband and three children.
 
+![](../assets/patricia-marion-hull-headstone.jpg){ width="70%" }  
+
 ## Annie McGarrigal <small>(22‑22‑23)</small>
 
 Annie McGarrigal was better known as Matron Cox. She trained at the Brisbane Children’s Hospital in 1922 and was on the ANTA Register in 1923. Annie died on 11 October 1964 aged 82.
 
-## Helen Veronica Luton <small>(22‑30‑11)</small>
+![](../assets/annie-mcgarrigal-headstone.jpg){ width="70%" }  
 
-Helen (known as Lena) Luton was with the Australian Army Nursing Service attached to the 1^st^ Australian Infantry Force. She died on 14 June 1977 aged 83.
+## Helena Veronica Luton <small>(22‑30‑11)</small>
+
+Helena (known as Lena) Luton was with the Australian Army Nursing Service attached to the 1^st^ Australian Infantry Force. She died on 14 June 1977 aged 83.
+
+![](../assets/helen-veronica-luton-headstone.jpg){ width="40%" }  
 
 !!! Warning "Portion 30" 
 
