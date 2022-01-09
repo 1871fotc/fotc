@@ -92,7 +92,7 @@ Some road names have recently been changed to the names of notable people buried
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
 | **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
 | **[O'Doherty][O'Doherty]** Avenue          | 11^th^ Avenue |                                                                      |
-| Elizabeth Dale Walk                        | 12^th^ Avenue |                                                                      |
+| **[Elizabeth Dale][Dale]** Walk            | 12^th^ Avenue |                                                                      |
 | **[Garland][Garland]** Avenue              | 13^th^ Avenue |                                                                      |
 | **[William Browne][Browne]** Avenue        | 14^th^ Avenue |                                                                      |
 | Federation Avenue                          | 15^th^ Avenue |                                                                      |
