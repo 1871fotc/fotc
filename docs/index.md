@@ -1,6 +1,6 @@
 ---
 title: Friends of Toowong Cemetery
-description: Friends of Toowong Cemetery discover and share the history and stories of Toowong Cemetery
+description: Discover and share the history and stories of Toowong Cemetery
 
 hide:
   - navigation
