@@ -110,7 +110,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | EC      | English Constitution                                         | Freemasonry       | pp-ss-gg           |
 | GUOOF   | Grand United Order of Odd Fellows                            | Friendly Society  | pp-ss-gg           |
 | HACBS   | Hibernian Australia Catholic Benefit Society                 | Friendly Society  | pp-ss-gg           |
-| IC      | Irish Constitution                                           | Freemasonry       | pp-ss-gg           |
+| IC      | Irish Constitution                                           | Freemasonry       | 13-83-9/10         |
 | INF     | Irish National Foresters                                     | Friendly Society  | pp-ss-gg           |
 | IOGT    | [Independent Order of Good Templars][IOGT]                   | Temperance        | pp-ss-gg           |
 | IOOF    | Independent Order of Odd Fellows                             | Friendly Society  | pp-ss-gg           |
