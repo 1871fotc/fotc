@@ -146,11 +146,11 @@ extra_javascript:
 plugins:
   - search
   - social
-      cards_font: Raleway
-      cards_directory: assets/images/social
-      cards_color:
-        fill: "#7e56c2"
-        text: "#FFFFFF"
+#      cards_font: Raleway
+#      cards_directory: assets/images/social
+#      cards_color:
+#        fill: "#7e56c2"
+#        text: "#FFFFFF"
 
 # Page tree - only 2 levels allowed
 nav:
