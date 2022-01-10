@@ -145,12 +145,12 @@ extra_javascript:
 # Plugins
 plugins:
   - search
-#  - social
-#      cards_font: Raleway
-#      cards_directory: assets/images/social
-#      cards_color:
-#        fill: "#7e56c2" 
-#        text: "#FFFFFF"
+  - social
+      cards_font: Raleway
+      cards_directory: assets/images/social
+      cards_color:
+        fill: "#7e56c2"
+        text: "#FFFFFF"
 
 # Page tree - only 2 levels allowed
 nav:
@@ -233,6 +233,7 @@ nav:
     - Publications: about/publications.md
 #    - Extraordinary Stories of Ordinary People: about/extraordinary-stories.md
     - Data: about/data.md
-#    - Grave Terminology: about/grave-terms.md
+    - Grave Terminology: about/grave-terms.md
+#    - Biography Terminology: about/bio-terms.md    
     - Legal: about/legal.md
 #    - Ideas: about/ideas.md
