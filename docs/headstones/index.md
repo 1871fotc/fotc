@@ -1,3 +1,7 @@
+--- 
+description: Discover the hidden meaning behind headstones in Toowong Cemetery
+---
+
 # Headstone Symbols 
 
 ## Toowong Cemetery Symbolism

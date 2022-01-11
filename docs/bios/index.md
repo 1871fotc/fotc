@@ -1,3 +1,7 @@
+---
+description: Biographies of people interred at Toowong Cemetery 
+---
+
 # Biography Index
 
 **Read the stories of the people interred at Toowong Cemetery**. The index below lists some of the people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 

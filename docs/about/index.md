@@ -1,5 +1,7 @@
 ---
 title: About Us
+description: What we do, have planned, and how you can join in 
+
 search:
   boost: 2  
 ---

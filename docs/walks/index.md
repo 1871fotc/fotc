@@ -1,4 +1,5 @@
 ---
+description: Choose from over 40 themed self-guided cemetery walks 
 hide:
   - navigation
 

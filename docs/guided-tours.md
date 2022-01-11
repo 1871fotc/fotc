@@ -1,4 +1,5 @@
 ---
+description: Volunteers guide you on a different heritage tour each month
 hide:
   - navigation
 

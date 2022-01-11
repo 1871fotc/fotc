@@ -1,4 +1,5 @@
 ---
+description: Visit Toowong Cemetery and discover its history and stories
 search:
   boost: 2  
 ---
