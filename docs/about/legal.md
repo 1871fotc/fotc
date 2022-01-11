@@ -1,3 +1,8 @@
+---
+title: Legal
+description: Copyright, Licence, Acknowledgements, Consent and Accessibility
+---
+
 # Legal
 
 ## Copyright

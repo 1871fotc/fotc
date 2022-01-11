@@ -1,7 +1,11 @@
 ---
+title: Extraordinary Stories of Ordinary People
+description: 40 stories about people buried at Toowong Cemetery 
+
 hide:
   - navigation
 ---
+
 # Extraordinary Stories of Ordinary People
 
 **Some stories about people interred at Toowong Cemetery**

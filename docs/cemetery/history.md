@@ -1,5 +1,5 @@
 ---
-title: History
+title: Toowong Cemetery History
 description: Discover the history of Toowong Cemetery
 ---
 

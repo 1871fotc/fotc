@@ -1,4 +1,9 @@
-# Publications
+---
+title: Our Publications
+description: Books and DVDs we've published 
+---
+
+# Our Publications
 
 Friends of Toowong Cemetery have published the following resources:
     

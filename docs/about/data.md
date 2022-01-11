@@ -1,3 +1,8 @@
+---
+title: Data
+description: Download data about Toowong Cemetery 
+---
+
 #  Data
 
 **[We publish our data with an open licence](legal.md) to help others discover and share the history and stories of Toowong Cemetery.**

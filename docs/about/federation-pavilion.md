@@ -1,3 +1,8 @@
+---
+title: Federation Pavilion
+description: Commemorating Queensland's contribution to Australian's federation
+---
+
 # Federation Pavilion
 
 ![](../assets/federation-pavilion.jpg)
