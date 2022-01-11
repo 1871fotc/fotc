@@ -77,7 +77,7 @@ extra:
 #      name: Provide feedback
   analytics: 
     provider: google
-    property: G-FT5X64207N
+    property: G-XDRM6G59W8
     feedback:
       title: Was this page helpful?
       ratings:
@@ -145,7 +145,7 @@ extra_javascript:
 # Plugins
 plugins:
   - search
-  - social
+#  - social
 #      cards_font: Raleway
 #      cards_directory: assets/images/social
 #      cards_color:
