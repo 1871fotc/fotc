@@ -144,7 +144,7 @@ extra_javascript:
 # Plugins
 plugins:
   - search
-#  - social
+  - social
 #      cards_font: Raleway
 #      cards_directory: assets/images/social
 #      cards_color:
