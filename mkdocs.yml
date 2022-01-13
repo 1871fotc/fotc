@@ -85,7 +85,10 @@ extra:
           name: This page was helpful
           data: 1
           note: >-
-            Thanks for your feedback!<br><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>What did we get right?</a></b>
+            Thanks for your feedback!
+# Add feedback form for positive feedback
+#          note: >-
+#            Thanks for your feedback!<br><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590={}" target=_blank>What did we get right?</a></b>
         - icon: material/emoticon-sad-outline
           name: This page could be improved
           data: 0
