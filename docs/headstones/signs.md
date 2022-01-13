@@ -5,7 +5,7 @@ search:
 
 #  Headstone Signs
 
-Freed from the restrictions of parish churchyards, municipal cemeteries provided an outlet for expression of individualism which reached its zenith in the mid to late Victorian Era. The headstone reflected the deceased's cultural identity by its inscription, material, shape, symbol, or sign. These headstones are a reminder of how varied Brisbane society was from the late 1870s to the outbreak of World War One.
+Freed from the restrictions of parish churchyards, municipal cemeteries provided an outlet for expression of individualism which reached its zenith in the mid to late Victorian Era. The headstone reflected the deceased's cultural identity by its inscription, material, shape, [symbol](index.md), or sign. These headstones are a reminder of how varied Brisbane society was from the late 1870s to the outbreak of World War One. Many signs on headstones represent the Friendly Society, Masonic Order or Trade Guild a person was part of. 
 
 ## Friendly Societies
 
@@ -150,9 +150,11 @@ Unlike the [Clasped Hands symbol](index.md#clasped-hands) showing a man and wome
 
 <!-- Thomas Dempster 18‑17‑22/23 United Operative Stonemasons Society of Queensland (UOSMS) -->
 
-![](../assets/john-campbell-headstone-oes.jpg){ width="48%" }   
+![](../assets/john-campbell-headstone-oes.jpg){ width="28.7%" }  ![](../assets/maurice-oconnell-headstone.jpg){ width="68%" } 
 
 *<small>John Campbell's headstone shows the Order of the Eastern Star sign within the Freemason's compass and square. The Order of the Eastern Star is a Masonic appendant body open to both men and women. (1‑147‑26) </small>*
+
+*<small>Maurice O'Connell's memorial in the shows he played an important role in the Queensland Freemasons and followed the Irish Constitution. (13-83-9/10) </small>*
 
 ## Today
 
