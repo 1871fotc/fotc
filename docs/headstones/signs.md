@@ -150,7 +150,7 @@ Unlike the [Clasped Hands symbol](index.md#clasped-hands) showing a man and wome
 
 <!-- Thomas Dempster 18‑17‑22/23 United Operative Stonemasons Society of Queensland (UOSMS) -->
 
-![](../assets/john-campbell-headstone-oes.jpg){ width="28.7%" }  ![](../assets/maurice-oconnell-headstone.jpg){ width="68%" } 
+![](../assets/john-campbell-headstone-oes.jpg){ width="48%" }  ![](../assets/maurice-oconnell-headstone.jpg){ width="48%" } 
 
 *<small>John Campbell's headstone shows the Order of the Eastern Star sign within the Freemason's compass and square. The Order of the Eastern Star is a Masonic appendant body open to both men and women. (1‑147‑26) </small>*
 
