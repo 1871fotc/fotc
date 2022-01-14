@@ -93,7 +93,7 @@ Data we would like to reuse or link to includes:
     - Features of Interest (polygon or point) - Symbology display, honour board
     - Information Signs (point) - grave-side, walks, general information
     - Trees (point) - especially weed trees and those destroying graves
-    - Historic Dam (polygon) - if location is known
+    - Historic Dam (polygon) - if exact [location](http://www.oncewasacreek.org/2014/08/up-hill-and-down-dale-where-did-elizabeth-drown/) is known
     - [Local Bus stops](https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-seq) 
 
 
