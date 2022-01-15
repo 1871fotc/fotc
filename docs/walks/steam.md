@@ -111,7 +111,7 @@ Compiled and presented by Lyn Maddock
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - *A History of Fish Lane, part 3: The Fish Steam Laundry* — State Library of Queensland 
 - *James Trackson's tracks: Queensland's first motorist* — State Library of Queensland
-- [William Pettigrew 1825 - 1906: Sawmiller, surveyor, shipowner and citizen : an immigrant's life in colonial Queensland](William-Pettigrew-1825-1906.pdf) -  Elaine Rosemary Brown. Via [UQ eSpace](https://espace.library.uq.edu.au/view/UQ:189814)
+- [William Pettigrew 1825 - 1906: Sawmiller, surveyor, shipowner and citizen : an immigrant's life in colonial Queensland](../assets/documents/William-Pettigrew-1825-1906.pdf) -  Elaine Rosemary Brown. Via [UQ eSpace](https://espace.library.uq.edu.au/view/UQ:189814)
 - Javis Finger, *A Calvalcade of Queensland's Criminals*, 2012
 - [The Splendid Clipper 'Sobraon'](https://sydneylivingmuseums.com.au/stories/splendid-clipper-sobraon) - Sydney Living Museums 
 - Col Dunn, *The History of Electricity in Queensland*, 1985
