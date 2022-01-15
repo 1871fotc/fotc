@@ -22,6 +22,10 @@ Introduction
 
 Daniel Bloomfield (1858-1915) was, for many years, a well known bandmaster and popular cornet soloist in Brisbane.  His in career in music began at the age of ten as a drummer in the Royal Marines in England. He settled in Brisbane in 1883 and soon became deeply involved in the local music scene as a performer and conducting various local bands, including the Naval Brigade Band, for many years. 
 
+![](../assets/david-bloomfield.jpg){ width="40%" }  
+
+*<small>[D. G. Bloomfield](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218822040002061) — State Library of Queensland.</small>*
+
 <!--
 ??? directions "Directions" 
 
@@ -48,15 +52,21 @@ Brisbane-born Adolph Feez (1858-1944) was a surveyor for a number of years befor
 
 ## John Henry Flower <small>(5‑69‑2)</small>
 
-John Henry Flower (1852- 1918) was a senior partner in the long established law firm of Flower & Hart. He was born in Port Fairy, Victoria but educated in England where he studied law. In 1886 he married Dora Kirk in Victoria. Their hilltop home at Windsor is now heritage-listed.
+John Henry Flower (1852- 1918) was a senior partner in the long established law firm of Flower & Hart. He was born in Port Fairy, Victoria but educated in England where he studied law. In 1886 he married Dora Kirk in Victoria. Their hilltop home at Windsor is now [heritage-listed](https://apps.des.qld.gov.au/heritage-register/detail/?id=600351).
 
 ## John Arthur Macartney <small>(5‑62‑16)</small>
 
-John Arthur Macartney (1834-1917) was the eldest son of the Very Rev Hussey Burgh Macartney, the First Dean of Melbourne and his wife Jane (née Hardman). He studied law but resigned after 18 months to take up his first station property in Victoria. Over time he owned 25 stations and other properties in Qld and NT. He died at his home, Ormiston House near Cleveland.
+John Arthur Macartney (1834-1917) was the eldest son of the Very Rev Hussey Burgh Macartney, the First Dean of Melbourne and his wife Jane (née Hardman). He studied law but resigned after 18 months to take up his first station property in Victoria. Over time he owned 25 stations and other properties in Qld and NT. He died at his home, [Ormiston House](https://ormistonhouse.org.au/the-house/) near Cleveland.
+
+![](../assets/ormiston-house.jpg){ width="70%" }  
+
+*<small>[Captain Louis Hope's residence, Ormiston House, Cleveland district, ca.1871](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249909850002061) — State Library of Queensland.</small>*
 
 ## Edward Vincent Pollock <small>(5‑62‑12)</small>
 
 Irish-born Edward Vincent Pollock (1851-1911) was attached to the Admiralty branch of the British Civil Service. Later he and his wife Elizabeth migrated to Queensland arriving in Mackay in 1884. In 1889 he became Staff Paymaster-in-Charge and Secretary to Senior Naval Officer, Queensland Naval Defence Force and Fleet Paymaster and Secretary to the Naval Commandant of the Commonwealth Naval Force on 2 February 1904.
+
+![](../assets/anchor.jpg) 
 
 ## Richard William Curtis <small>(5‑61‑22)</small>
 
@@ -71,9 +81,7 @@ Richard Langler Drew (1823-1869) served with the Royal Navy before migrating fro
 William Atwell (1843-1913) began work as an excavator in railway construction in England and came to Queensland to work for the contractor constructing the railway line over the Main Range to Toowoomba. He joined the Queensland Railways Department in 1867 and eventually rose to the position of Chief Inspector of Railways.
 
 <!--
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
 
-*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
 
 -->
 
@@ -86,12 +94,12 @@ Compiled and presented by Darcy and Lyn Maddock
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - BDM Queensland Index Search', The State of Queensland (Department of Justice and Attorney-General), 2015
-- http://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/hhhenchman 
+- [The Honourable Hereward Henchman](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/hhhenchman) - Supreme Court Library Queensland
 - Who's Who in Australia, 1921-1950 
--  http://archival-classic.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=886767 
-- http://www.brisbanehistory.com/brisbane_lawyers.html 
+-  http://archival-classic.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=886767 *(broken)*
+- [Brisbane Lawyers – Splendid Men of the Old School](http://www.brisbanehistory.com/brisbane_lawyers.html) - www.brisbanehistory.com
 - American Civil War Round Table Queensland 
-- http://www.sampfordarundel.org.uk/sampage60.php
+- http://www.sampfordarundel.org.uk/sampage60.php *(broken)*
 
 <div class="noprint" markdown="1">
 
