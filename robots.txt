@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /archive/*
+Disallow: /source-documents/*
+Disallow: /source-images/*
+Disallow: /snippets/*
+Disallow: /assets/calendar/*
