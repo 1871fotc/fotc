@@ -119,15 +119,14 @@ Compiled and presented by Lyn Maddock
 
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
-- www.parliament.qld.gov.au/members/former/member-register
-- stmichaelsnewfarm.org.au/publications/history 
-- www.ohta.org.au/organs/organs/NewFarmAng 
-- www.allsaintsbrisbane.com/about_all_saints
+- [Former Members Register](https://www.parliament.qld.gov.au/Members/Former-Members/Former-Members-Register) - Parliament of Queensland
+- [History](stmichaelsnewfarm.org.au/publications/history) - St Michael's and All Angels
+- [St Michael & All Angels' Anglican Church Brunswick Street, New Farm](https://www.ohta.org.au/organs/organs/NewFarmAng.html) - Organ Historical Trust of Australia
+- [About](https://www.allsaintsbrisbane.com/about-1) <!-- www.allsaintsbrisbane.com/about_all_saints --> - All Saints' Anglican Church Brisbane
 - Northern Star Lismore, 4 December 1914 
-- www.ohta.org.au/confs/Qld/WickhamTerrace.html 
-- http://anglicanhistory.org/aus/wickham_kissick1937/03.html 
-- www.lighthouses.org.au/lights/QLD/Moreton%20Bay/Moreton%20Bay.htm
-
+- [All Saints' Anglican Church](www.ohta.org.au/confs/Qld/WickhamTerrace.html) - Organ Historical Trust of Australia
+- [All Saints' Church, Brisbane 1862-1937](http://anglicanhistory.org/aus/wickham_kissick1937/03.html) - Project Canterbury
+- [Moreton Bay Pile Light](https://lighthouses.org.au/qld/moreton-bay-pile-light/) <!--, www.lighthouses.org.au/lights/QLD/Moreton%20Bay/Moreton%20Bay.htm --> - Lighthouses of Australia Inc. 
 
 
 <div class="noprint" markdown="1">
