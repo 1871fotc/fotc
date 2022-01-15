@@ -18,7 +18,7 @@ hide:
 
 ![](../assets/john-hislop-hearse-cemetery-road.jpg)
 
-*<small>[John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892]((http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116790002061)), held by John Oxley Library, State Library of Queensland. It is believed the procession is in Sylvan Road (previously Cemetery Road) on corner of Kate Street.</small>*
+*<small>[John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116790002061), held by John Oxley Library, State Library of Queensland. It is believed the procession is in Sylvan Road (previously Cemetery Road) on corner of Kate Street.</small>*
 
 --8<-- "snippets/alma-adlington.md"
 
@@ -54,5 +54,5 @@ Thank you to Laurel Shanley from [K. M. Smith Funerals](https://kmsmith.com.au) 
 <div class="noprint" markdown="1">
 ## Brochure
 
-[Download the PDF of this walk](http://www.fotc.org.au/subset/undertakers.pdf), print it, and fold it in half to make an A5 booklet. 
+[Download the PDF of this walk](../assets/guides/undertakers.pdf), print it, and fold it in half to make an A5 booklet. 
 </div>

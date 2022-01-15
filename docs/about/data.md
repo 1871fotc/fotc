@@ -122,7 +122,7 @@ We are exploring tools to convert CSV data (the master) into Markdown tables for
 We have not decided on a Linked Data publishing toolset yet, but are aware of: 
 
 - [Swirrl](https://www.swirrl.com)
-- [Ontotext](https://www.ontotext.com)
+- [Ontotext GraphDB](https://www.ontotext.com/products/graphdb/)
 - [OntoRefine](https://graphdb.ontotext.com/documentation/free/loading-data-using-ontorefine.html)
 - [dBpedia](https://www.dbpedia.org) which runs on [Virtuoso](https://virtuoso.openlinksw.com)
 - [CSV for the Web tools](https://www.w3.org/TR/tabular-data-primer/)
