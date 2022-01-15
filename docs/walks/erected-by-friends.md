@@ -75,6 +75,9 @@ William Sowray was born in Staveley, in Derbyshire in England on 22 February 185
 
 On 1 December 1912 William was walking along Elizabeth Street, Paddington when he collapsed and died in the street. A monument over his grave erected by his fire brigade and railway comrades and friends was publicly unveiled by Hon. A. G. C. Hawthorn, M.L.C. on Sunday, April 12, 1914.
 
+![](../assets/william-henry-sowray-headstone.jpg)
+
+
 ## Peter Jackson <small>(5‑28‑1)</small>
 
 Peter was born on 3 July 1861 at Christiansted, St Croix in what was then the Danish West Indies. He was the son of Peter Jackson, a warehouseman and his wife, and grandson of a freed slave who had been owned by a planter with the surname of Jackson. 
@@ -82,6 +85,10 @@ Peter was born on 3 July 1861 at Christiansted, St Croix in what was then the Da
 Arriving in Sydney about 1880, he worked on the waterfront and in hotels before drifting into boxing in 1882 under the tuition of Larry Foley. In April 1888 he left for the United States and Britain, where he fought twenty-eight of the best boxers of England and America between 1888 and 1892, losing to none. He was one of the finest boxers never to fight for a world championship. Racial prejudice prevented him from being given the chance to win the world heavyweight crown. 
 
 He died of tuberculosis at Roma in Queensland on 13 July 1901. £130 was raised by public subscription for a memorial over his grave. The unveiling ceremony performed by the Hon E B Forrest, MLA for North Brisbane took place on 12 May 1903 in the presence of most of those in the athletic and sporting world of southeast Queensland.
+
+![](../assets/peter-jackson.jpg){ width="26%" }  ![](../assets/peter-jackson-headstone.jpg){ width="66.3%" }
+
+*<small>[Boxer Peter Jackson who came to live in Queensland from the West Indies, ca. 1880s](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool116252) - State Library of Queensland </small>*
 
 ## Stephen Alonzo Spragg <small>(5‑15‑26)</small>
 
@@ -91,7 +98,7 @@ He died from peritonitis following an appendectomy in Brisbane General Hospital 
 
 ## Walter Thorpe Olding <small>(5‑42‑7)</small>
 
-Walter Thorpe Olding was born in Queensland on 25 September 1888. When fire broke out in a city building on 30 April 1912 he was one of a party of sailors from the HMAS *Gayundah* who came to assist. Walter was killed by falling masonry from the burning building. He was accorded a Naval funeral. The officers and men of the *Gayundah* erected a memorial over his grave.
+Walter Thorpe Olding was born in Queensland on 25 September 1888. When fire broke out in a city building on 30 April 1912 he was one of a party of sailors from the HMAS *Gayundah* who came to assist. [Walter was killed by falling masonry](https://trove.nla.gov.au/newspaper/article/175235017) from the burning building. He was accorded a Naval funeral. The officers and men of the *Gayundah* erected a memorial over his grave.
 
 ## Edward Vincent Pollock <small>(5‑62‑12)</small>
 
@@ -99,21 +106,24 @@ Edward Pollock was born in Ireland on 12 June 1851. He was Fleet Paymaster and S
 
 The funeral was marked by the naval honours due to Fleet Paymaster Pollock's rank. A monument over his grave erected by the members of the United Services Institute was officially unveiled on Sunday 19 May 1912 in front of a large gathering of officers and men of both services as well as civilians.
 
+![](../assets/anchor.jpg){ width="40%" }
+
+
 ## Acknowledgements
 
 Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- 'BDM Queensland Index Search', The State of Queensland (Department of Justice and AttorneyGeneral), 2014
+- 'BDM Queensland Index Search', The State of Queensland (Department of Justice and Attorney General), 2014
 - Wesley Mission Brisbane C 2012 http://www.wmb.org.au
 - Smith, F.R. (circa 1983): The Church on the Square. Uniting Church Print Shop, Brisbane, pp.82-83.
 - Trove, Digitised Newspapers and More (2014) http://www.trove.nla.gov.au/
-- Your Brisbane: Past and Present http://www.yourbrisbanepastandpresent.com/2010/03/bafs-buildinggeorge-st.html
-- Brisbane City Council Grave Location Search (2014) https://www.online.brisbane.gld.gov.au/cemeteries/cemeteries_step1.jsp
-- Richard Broome, 'Jackson, Peter (1861-1901)', Australian Dictionary of Biography, National Centre of Biography, Australian National - University, http://adb.anu.edu.au/biography/jackson-peter-6814/test11791, published in hardcopy 1983, accessed online 18 April 2014.
+- Your Brisbane: Past and Present http://www.yourbrisbanepastandpresent.com/2010/03/bafs-buildinggeorge-st.html *(broken)*
+- Brisbane City Council Cemetery Search  https://graves.brisbane.qld.gov.au
+- Richard Broome, 'Jackson, Peter (1861-1901)', Australian Dictionary of Biography, National Centre of Biography, Australian National - University, https://adb.anu.edu.au/biography/jackson-peter-6814
 - Don Wilkey, "Spragg, Alonzo Stephen (Lonnie) (1879-1904)', 
-- Australian Dictionary of Biography, National Centre of Biography, - Australian National University, http://adb.anu.au/biography/spragg-alonzo-stephenlonnie -8690/text15037, published in hardcopy 1990, accessed online 13 April 2014.
+- Australian Dictionary of Biography, National Centre of Biography, - Australian National University, https://adb.anu.edu.au/biography/spragg-alonzo-stephen-lonnie-8609
 - Red Hill Paddington Community Centre (Inc) and the Paddington History Group (1999) Padd Paddo Paddington
 
 
