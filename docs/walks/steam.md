@@ -111,8 +111,7 @@ Compiled and presented by Lyn Maddock
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - *A History of Fish Lane, part 3: The Fish Steam Laundry* — State Library of Queensland 
 - *James Trackson's tracks: Queensland's first motorist* — State Library of Queensland
-- [THE 18366](https://espace.library.uq.edu.au/data/UQ_189814/THE18366a.pdf?Expires=1639309118&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=R4Vm4p-Cp6g4gsz0D-4hrMsyh-Vzbg2teWCx1pwx9Vs6ZybQeLLBPqBNt8MQuDix2Iy-xhzJSYnCyZb16yGuqM3Nn1XqVvPDotLmapA~7KR41eKbjZNwZYe8wcD5XZYLF1gGnuW4jCJ8voEtXNZCvdMG6-dwgZKEz~awMnq5QiTF7qEh-HeyY~bFpUsef8HignH838GJm~G5FGi6pAT2RcXRg~yziQDt-GWSAEaxsY951Mx~6Q7JpIRYdcDbkVDjGsvz997wmDcRduTDmvPmbUNrrcdQglHGTBHdJxknfzpqp3vMWpMR~OEPQvOoEUdUiA320Pl~qQfhBX5kqFelLw__) - William
-Pettigrew 1825 -1906 by Elaine Rosemary Brown
+- [William Pettigrew 1825 - 1906: Sawmiller, surveyor, shipowner and citizen : an immigrant's life in colonial Queensland](William-Pettigrew-1825-1906.pdf) -  Elaine Rosemary Brown. Via [UQ eSpace](https://espace.library.uq.edu.au/view/UQ:189814)
 - Javis Finger, *A Calvalcade of Queensland's Criminals*, 2012
 - [The Splendid Clipper 'Sobraon'](https://sydneylivingmuseums.com.au/stories/splendid-clipper-sobraon) - Sydney Living Museums 
 - Col Dunn, *The History of Electricity in Queensland*, 1985
