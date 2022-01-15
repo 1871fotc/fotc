@@ -18,7 +18,7 @@ Prior to ca.1875, the flat area where the entrance of Toowoong Cemetery now stan
 The land for the cemetery was first reserved in 1866. The reserve of 250 acres 1 rood, and an extension of 53 acres were [gazetted][gazette-93], and [Cemetery Trustees appointed][gazette-94] on 7 October 1870.
 
 [gazette-93]: ../assets/documents/Queensland_Gov_Gazette_8_October_1870_v11_93.pdf "Read the Queensland Government Gazetter No. 93"
-[gazette-94]: ../assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94 "Read the Queensland Government Gazetter No. 94"
+[gazette-94]: ../assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the Queensland Government Gazetter No. 94"
 
 
 **[Colonel Samuel Wensley Blackall][Blackall]**, the second Governor of Queensland, was the first person buried in Toowong Cemetery on 3 January 1871. 
@@ -248,9 +248,9 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment
 Today, the Friends of Toowong Cemetery and the Brisbane City Council work together to maintain and improve Toowong Cemetery. Together we have delivered improvements including:
 
 - The **[Federation Pavilion](../about/federation-pavilion.md)**
-- **[Renaming the Cemetery Roads](../discover/#road-name-changes)** after notable people buried nearby
+- **[Renaming the Cemetery Roads](../visit/#road-name-changes)** after notable people buried nearby
 - Reusing the old Sexton's office as the **[Toowong Cemetery Museum](museum.md)**
-- The Paddington Memorial, and **[Headstone Symbology](../headstones/)** display
+- The Paddington Memorial, and **[Headstone Symbology](../headstones/index.md)** display
 - The **[Toowong Cemetery Remembrance Walk](https://vimeo.com/540501732)** that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend
 
 **Toowong Cemetery is enjoyed by those who come to remember loved ones, exercise, walk their dog, or discover the history and stories inside.**
@@ -310,7 +310,7 @@ A survey of the layout of graves, reveal differences between many of the portion
 - Watch **[Dying Out](https://youtu.be/r8b_DA_BkNs)** shown in 1986 on the ABC's Weekend Magazine
 - Watch Hilda MacLean, our second President, discuss Toowong Cemetery on **[Between the Lines](https://vimeo.com/7935322)**
 - Watch Darcy Maddock, our current President, **[Talk History](https://www.youtube.com/playlist?list=PLv0V6xrruq2kcliEjK1Kus3O4gFPthNKz)**
-- Read our **[stories of the people interred at Toowong Cemetery](../bios/)**
+- Read our **[stories of the people interred at Toowong Cemetery](../bios/index.md)**
 
 
 <!--
