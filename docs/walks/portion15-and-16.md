@@ -33,13 +33,21 @@ Mountford was born in North Leith, Scotland on 10 February 1898.After a long car
 
 Born in Birmingham England on 9 May 1829, de Vis was a clergyman and then museum curator before immigrating to Queensland in 1870. He became curator of the Queensland Museum in 1882 and director of that institution in 1901 adding much to the extent of the collections, their classification and display.
 
+![](../assets/exhibition-hall-1897.jpg){ width="70%" }
+
+*<small>[Exhibition Hall, Brisbane, ca. 1897](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219199540002061). Originally built as an Exhibition Hall and Concert Hall, the building is located on the site of an earlier building which burned down in 1888. In the late 1890s the Exhibition Hall was converted to accommodate the Queensland Museum which transferred to the building in 1899. State Library of Queensland.</small>*
+
 ## Olive May Heathorn <small>(16‑24‑14)</small>
 
 Olive was born in Great Malvern Worcester in 1890. During World War 1 she married 2^nd^ Lieutenant George Douglas Heathorn of the Royal Flying Corp. After the war George and Olive became dairy farmers at Woolner's Arm outside of Casino in NSW. Olive died in a Brisbane hospital on 7 June 1936.
 
 ## Charles Frederick Augustus Garland <small>(15‑11‑26/27)</small>
 
-Born in Roma Qld in 1862, Charles Garland was apprenticed a printer's devil to the proprietor of the Western Star and Roma Advertiser. He later obtained a position on the composing staff of the Brisbane Courier where he served for 52 years.
+Born in Roma Qld in 1862, Charles Garland was apprenticed a [printer's devil](https://en.wikipedia.org/wiki/Printer%27s_devil) to the proprietor of the Western Star and Roma Advertiser. He later obtained a position on the composing staff of the Brisbane Courier where he served for 52 years.
+
+![](../assets/brisbane-courier-staff-1902.jpg){ width="70%" }
+
+*<small>[Staff working at the Brisbane Courier, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220275530002061) - State Library of Queensland.</small>*
 
 ## Richard Belford <small>(15‑11‑6)</small>
 
@@ -47,11 +55,15 @@ Richard Belford died on 28 April 1865 and was interred in the North Brisbane Bur
 
 ## James Edwin Ramsbotham <small>(15‑16‑17)</small>
 
-James Ramsbotham was born on 4 November 1856 in Ipswich Qld where his parents were wellknown residents. He entered the Posts & Telegraphs Service and was stationed at St Lawrence. Later he moved to Brisbane. In 1901 following Federation he was appointed to the position of telegraphist at Roma Street Railway Station.
+James Ramsbotham was born on 4 November 1856 in Ipswich Qld where his parents were well known residents. He entered the Posts & Telegraphs Service and was stationed at St Lawrence. Later he moved to Brisbane. In 1901 following Federation he was appointed to the position of telegraphist at Roma Street Railway Station.
+
+![](../assets/roma-street-railway-station-1905.jpg){ width="70%" }
+
+*<small>[Wirth Brothers' elephants drawing the circus properties from Roma Street Railway Station, 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool88516) - State Library of Queensland.</small>*
 
 ## Toppin Family <small>(15‑16‑40/41)</small>
 
-The Toppin siblings, Jack, Leo and Madonna were wellknown child entertainers during WW1 and afterward. Leo became manager of some wellknown Brisbane theatrical venues in the years leading up to WW2.
+The Toppin siblings, Jack, Leo and Madonna were well known child entertainers during WW1 and afterward. Leo became manager of some well known Brisbane theatrical venues in the years leading up to WW2.
 
 ## Francis Malachy McKeon <small>(15‑17‑7)</small>
 
@@ -59,11 +71,12 @@ Francis McKeon was a member of the Brisbane team of railway staff who competed f
 
 ## John and Ellen Forde <small>(15‑19‑27/28)</small>
 
-Irish immigrants, John and Ellen Forde were the parents of Francis Michael Forde better known as Frank Forde, the 15^th^ Prime Minister of Australia.
+Irish immigrants, John and Ellen Forde were the parents of [Francis Michael Forde](https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504) better known as Frank Forde, the 15^th^ Prime Minister of Australia.
 
 ## Hugh Glackin <small>(15‑22‑20/21)</small>
 
-Hugh Glackin was born in Newtown Cunningham in County Donegal on 8 March 1844. After coming to Queensland, he joined the police force as a constable in 1870 and famously arrested Captain Starlight in April 1887. 
+[Hugh Glackin](https://trove.nla.gov.au/newspaper/article/219446603) was born in Newtown Cunningham in County Donegal on 8 March 1844. After coming to Queensland, he joined the police force as a constable in 1870 and [famously arrested Captain Starlight](https://trove.nla.gov.au/newspaper/article/181459438) in April 1887. 
+
 
 ## Burton Family <small>(15‑22‑11/12)</small>
 
@@ -71,18 +84,12 @@ The Burton family were hoteliers, operating some of Brisbane's landmark hotels i
 
 ## Frederick Augustus Garland <small>(15‑24‑22)</small>
 
-Frederick Augustus (Gus) Garland was the second son of Charles Frederick Augustus and Sarah Jane Garland of New Farm. He was a public servant and prominent in Catholic choirs in Brisbane prior to his death at the age of 38 years.
+[Frederick Augustus (Gus) Garland](https://trove.nla.gov.au/newspaper/article/181193037) was the second son of Charles Frederick Augustus and Sarah Jane Garland of New Farm. He was a public servant and prominent in Catholic choirs in Brisbane prior to his death at the age of 38 years.
 
 ## John Galligan <small>(15‑26‑12)</small>
 
 John Galligan was born in County Cavan, Ireland in 1857. He landed in Sydney in 1873 when he was 16 and later came to Queensland where he joined the police force in 1882. He escaped death a number of times during his police career during his postings in Brisbane and Bundaberg.
 
-<!--
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
-
-*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
-
--->
 
 ## Acknowledgements
 
