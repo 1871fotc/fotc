@@ -45,7 +45,6 @@ The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.q
 [image5]: assets/museum.jpg
 [image6]: assets/federation-pavilion.jpg
 
-
 [image7]: assets/peter-jackson-headstone.jpg "Peter Jackson's Headstone"
 [image8]: assets/cherub.jpg "Cherub Headstone"
 [image9]: assets/harry-potter-16x9.jpg "Spoiler Alert"
