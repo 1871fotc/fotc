@@ -20,11 +20,8 @@ Edited by Hilda MacLean
 !!! directions "A web version of the book" 
 
     This is web version of *Extraordinary Stories of Ordinary People*, ISBN 0-646-37317-X, available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:120843/one).
-    
-    The book appears to have been misprinted with page 24 and 41 missing.
-    
+        
     Some missing grave locations have been added.
-    
 
 ## Foreword
 
@@ -263,7 +260,13 @@ Mary Cochrane married merchant Robert Jackson Craig in 1865. He and his bothers-
 
 On Boxing Day 1877, Robert was tragically murdered by the owner of the Bee Hive Hotel, William Smith, who then took his own life. Smith's hotel was opposite Robert's store. Robert had asked Bill Smith to settle his outstanding account and refused him further credit until the debt was paid. About 2 o'clock in the afternoon, Bill Smith called Robert Craig over to 'settle' his account. Afterwards gunshots were heard and Robert ran into the street clutching his chest shouting "Murder! Murder!" William Cochrane was working behind the counter of their store and ran outside when he heard the shots fired. He saw Bill Smith standing on the verandah of his hotel with the revolver still in his hand. William towards Bill who quickly turned the revolver on himself. Robert Craig died in his brother-in-law's arms. He was just 34 years old. Robert was the first burial in the Cairns Cemetery on the Esplanade.
 
-==missing page 24==
+The loss of two well-respected citizens stunned the whole community of Smithfield. Robert and Bill Smith had always been the best of friends. The town of Smithfield had been named after Bill Smith, who had hacked a track through the jungle to the Hodgkinson Goldfields in 1876.
+
+Mary was in Brisbane at the time of Robert's tragic death, expecting their sixth child. A son was born the following July, but only lived two months. Two more of their sons had also died in infancy. She did not remarry until nine years later. Although Robert's life insurance payments had lapsed, the Australian Mutual Provident Society made a gift of £400 to Mary so she was secure financially.
+
+Life was not uneventful, however. Her son Fred was only four when his father died and would have had little memory of him, but perhaps family stories of Cairns stirred his curiosity. An item in the Cairns Courier on the 13^th^ of May 1881 reports that Fred ran away, boarded the Leichhardt on route to Cairns, was apprehended by the police at Rockhampton and returned to Brisbane. This happened just before his eighth birthday.
+
+In 1886 Mary married Paul Cole Atkinson, a widower with five children. By this time Mary's three surviving children were teenagers. She had two more children, Pauline and Ruby, making a total of seven children for her to care for. However, fate was not kind to Mary. All she had been through obviously affected her health and she died just seven years later in October 1893 at the early age of 45. Ruby was just five years old. A series of housekeepers raised Mary's children until Paul Atkinson married for the third time in 1898 to Eliza Hendren. Mary is buried in the Atkinson family grave.
 
 ### Acknowledgement
 
@@ -499,7 +502,13 @@ Throughout his life Affleck had retained his links with the land by interesting 
 
 When the family returned to Brisbane in 1902 they rented a house for a short time before settling at 19 Vulture Street, West End, the land running back to Ashington Street. The roomy house stood on one block and the garden and outbuildings occupied three other blocks. Here on the back boundary there were stables where the horses and buggies were kept. The elder daughter Vera learned to ride when quite young, a Shetland pony having been bought for her. Vera rode to school, leaving her horse at the livery stables near where today's City Hall stands. Her father drove his horse and buggy to his city office, one of the clerks then taking the outfit to the same stables.
 
-==missing page 41==
+After holding various honorary positions in the RNA in Brisbane, W.J. Affleck became president of this association and was also president of the Stockbreeders' Association of Queensland, the Jersey Cattle Society of Queensland and the Ayrshire Society. Such was Affleck's interest in cattle he was also treasurer of the Hereford Society. He judged cattle and established herd books and half a dozen Herd Book Societies. A building at the Brisbane Exhibition Ground was called Affleck House in his honour.
+
+e W. J. Affleck was a tall man who held himself erect. He had a commanding presence and a soft heart with a reputation for giving hand-outs to men in need during the Great Depression. He always wore a button-hole and carried a walking stick whether in city circles or in the countryside he loved.
+
+As well as Affleck's interest in agricultural matters he was a justice of the peace, a founding Rotarian in Brisbane, and a member and office bearer of the Auchenflower Bowling Club. When Affleck died, it was noted in the newspaper obituaries that he was one of Queensland's most public spirited men.
+
+
 
 ### Acknowledgement
 
@@ -554,7 +563,7 @@ The contributor, grand-daughter Shirley Lahey, wishes to acknowledge her debt to
 
 1829 - 1922 
 
-## Mary Rodrigues <small>==(p‑s‑g)==</small>
+## Mary Rodrigues 
 
 circa 1800 - June 1883
 

@@ -9,7 +9,7 @@ Friends of Toowong Cemetery have published the following resources:
     
 ## Colonel Samuel Wensley Blackall: 1809-1871
 
-*[Colonel Samuel Wensley Blackall: 1809-1871](../assets/guides/samuel-blackall.pdf)*, published in 2011, celebrates the 140th anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery, and the internment of the first person buried there, Governor Samuel Wensley Blackall.
+***[Colonel Samuel Wensley Blackall: 1809-1871](../assets/guides/samuel-blackall.pdf)***, published in 2011, celebrates the 140th anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery, and the internment of the first person buried there, Governor Samuel Wensley Blackall.
 
 ## 140^th^ Anniversary Commemoration of the Toowong Cemetery - DVD
 
@@ -19,9 +19,7 @@ The event was filmed and a DVD has been produced featuring footage of the re-ena
 
 ## Extraordinary Stories of Ordinary People
 
-*Extraordinary Stories of Ordinary People*, published in 1999, is a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. It is available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:120843/one). 
-
-We have almost finished creating [a web version of Extraordinary Stories of Ordinary People](extraordinary-stories.md).
+***[Extraordinary Stories of Ordinary People](extraordinary-stories.md)***, published in 1999, is a compilation of stories, submitted by the public, about people buried at Toowong Cemetery. It is available in print at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:120843/one). 
 
 !!! question "Volunteer - share a family story"
 
