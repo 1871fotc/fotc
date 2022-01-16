@@ -130,9 +130,8 @@ Here are some of our favourites:
 - [The Summit Cafe](http://www.summitbrisbane.com.au)  - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot-tha Botanic Gardens to the Mt Coot-tha Lookout
 - [Sweetshop Specialty Coffee](https://sweetshopspecialtycoffee.com.au) - 1A Stuartholme Road, Bardon
 - [Bardon Thyme](https://www.facebook.com/bardonthyme) - 5 Morgan Terrace, Bardon
-- [Good Folk Cafe](https://goodfolkcafe.com.au) - 58 Rainworth Road, Bardon
-- [Via Retro](https://viaretrocafe.com.au) - look for the cute retro caravan at J.C Slaughter Falls on weekends
-
+- [Via Retro](https://viaretrocafe.com.au) - look for the cute retro caravan at J.C. Slaughter Falls on weekends
+- [Corner Store Cafe](http://www.cornerstorecafe.com) - 113 Sylvan Rd, Toowong, adjacent to the Toowong tennis courts
 
 ![](../assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ width="98%" }
 
