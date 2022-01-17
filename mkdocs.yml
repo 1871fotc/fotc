@@ -147,7 +147,12 @@ extra_javascript:
 # Plugins
 plugins:
   - search
+  - redirects:
+      redirect_maps:
+        'home/home.md': 'index.md'
+        'home/index.md': 'index.md'
   - social
+#
 #      cards_font: Raleway
 #      cards_directory: assets/images/social
 #      cards_color:
@@ -235,7 +240,7 @@ nav:
     - Publications: about/publications.md
 #    - Extraordinary Stories of Ordinary People: about/extraordinary-stories.md
     - Data: about/data.md
-#    - Grave Terminology: about/grave-terms.md
-#    - Biography Terminology: about/bio-terms.md    
+    - Grave Terminology: about/grave-terms.md
+    - Biography Terminology: about/bio-terms.md    
     - Legal: about/legal.md
 #    - Ideas: about/ideas.md
