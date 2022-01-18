@@ -145,7 +145,9 @@ We are considering [Vega-Lite](https://vega.github.io/vega-lite/) to specify our
 
 Dynamic visualisations we are considering include:
 
-- A relationship explorer, traversing links from Person to Biography events, Organisations, their Grave and Headstone. This would traverse Linked Data stored using the [Graves Ontology Specification](https://rdf.muninn-project.org/ontologies/graves.html)  [:fontawesome-brands-github:](https://github.com/muninn/graves) and [Bio vocabulary](https://vocab.org/bio/) [:fontawesome-brands-github:](https://github.com/iand/vocab-bio)
+- A biography explorer, traversing links from Person to Events, Organisations, and other People. This would traverse Linked Data stored using the [Bio vocabulary](https://vocab.org/bio/) [:fontawesome-brands-github:](https://github.com/iand/vocab-bio)
+- A cemetery explorer, traversing links from Person to their Remains, Grave and Headstone. This would traverse Linked Data stored using the [Graves Ontology Specification](https://rdf.muninn-project.org/ontologies/graves.html)  [:fontawesome-brands-github:](https://github.com/muninn/graves) 
+
 
 ## Data Consumers
 
