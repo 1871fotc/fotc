@@ -67,12 +67,8 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 !!! warning "Cemetery Road Warnings" 
 
     - **Walter Hill Drive is one way** uphill from Emma Miller Avenue to Dr. Lillian Cooper Drive 
-    - **William Browne Avenue is one way** downhill from Dr. Lillian Cooper Drive to Emma Miller Avenue
+    - **William Brown Avenue is one way** downhill from Dr. Lillian Cooper Drive to Emma Miller Avenue
     - **5^th^ Avenue is very steep** from Steele Rudd Avenue up to Francis Forde Avenue near the corner of Frederick St and Birdwood Tce.
-
-<!--
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
--->
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -111,7 +107,7 @@ Some road names have recently been changed to the names of notable people buried
 | **[O'Doherty][O'Doherty]** Avenue          | 11^th^ Avenue |                                                                      |
 | **[Elizabeth Dale][Dale]** Walk            | 12^th^ Avenue |                                                                      |
 | **[Garland][Garland]** Avenue              | 13^th^ Avenue |                                                                      |
-| **[William Browne][Browne]** Avenue        | 14^th^ Avenue |                                                                      |
+| William Brown Avenue                       | 14^th^ Avenue |                                                                      |
 | Federation Avenue                          | 15^th^ Avenue |                                                                      |
 
 <!-- works but csv doesn't go to downloads
@@ -171,7 +167,6 @@ Here are some of our favourites:
 [Pat Hill]: ../bios/pat-hill.md "Read Pat's Biography"
 [Dale]: ../bios/elizabeth-dale.md "Read Elizabeth's Biography"
 [Garland]: ../bios/david-john-garland.md "Read David Garland's Biography"
-[Browne]: ../bios/william-henry-browne.md "Read William's Biography"
 [O'Doherty]: ../bios/kevin-izod-odoherty.md
 
 <!-- include site-wide abbreviations -->
