@@ -40,9 +40,6 @@ hide:
 *<small>[Senator Thomas Glassey delivering a speech to the women electors of Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218794910002061) - State Library of Queensland.  </small>* <br> 
 *<small>[Glassey family, ca. 1926](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218562540002061) - State Library of Queensland.  </small>*
 
-
-
-
 ??? directions "Directions" 
 
     - Continue to walk down 15th Avenue to and  stop at 11‑51‑3, on your left, where you'll find the 3 graves close to each other. 
@@ -76,9 +73,6 @@ hide:
 ![](../assets/david-bowman.jpg){ width="40%" }  
 
 *<small>[David Bowman](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218753330002061) - State Library of Queensland </small>* 
-
-
-
 
 ??? directions "Directions" 
 
