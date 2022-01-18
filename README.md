@@ -1,6 +1,6 @@
 # Friends of Toowong Cemetery website
 
-An unofficial port of the Friend of Toowong Cemetery site - `www.fotc.org.au`. View it at https://1871fotc.github.io/fotc/
+An unofficial port of the Friend of Toowong Cemetery site - `https://fotc.org.au/`. View it at https://1871fotc.github.io/fotc/
 
 ## About
 
@@ -18,7 +18,6 @@ An unofficial port of the Friend of Toowong Cemetery site - `www.fotc.org.au`. V
 - The website uses Google Forms to collect Site Feedback, Membership Applications, Biography Contributions 
 - Use https://www.deadlinkchecker.com/website-dead-link-checker.asp to check for broken links
 
-
 ## Contribute
 
 To contribute you can:
@@ -28,11 +27,9 @@ To contribute you can:
 - [Report an error](https://github.com/1871fotc/fotc/issues/new/choose), after checking that it's not [already reported](https://github.com/1871fotc/fotc/issues)
 - [Make a suggestion](https://github.com/1871fotc/fotc/issues/new/choose)
 
-
 ## Contributors
 
 Thanks to everyone for their contributions on [Github](https://github.com/1871fotc/fotc/graphs/contributors) and in the [discussion forum](https://github.com/1871fotc/fotc/discussions).
-
 
 ## Development
 
