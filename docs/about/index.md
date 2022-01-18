@@ -38,7 +38,7 @@ The Friends of Toowong Cemetery have:
 - **established the [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. 
 - **commemorated the [140th Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the  National Trust of Queensland for our work.
 - provided **biographies for information signs** at significant grave sites.
-- **renamed cemetery roads** after notable people buried nearby to make it easier to find your way around the cemetery.
+- **renamed cemetery roads** after notable people buried nearby, and added the road names to Google Maps to make it easier to find your way around the cemetery.
 - shared the history and stories of Toowong Cemetery through monthly **[guided tours](../guided-tours.md)**.
 - **[published books, a DVD](publications.md)** and **[self‑guided walks](../walks/index.md)** 
 
@@ -56,12 +56,11 @@ Currently we are:
 - **updating our website** to include [even more content](https://github.com/1871fotc/fotc/projects/1?fullscreen=true), including updating the directions and maps for our [self‑guided walks](../walks/index.md). 
 - **encouraging the community to volunteer** through simple one-off tasks shown on this site like the one below. 
 
-!!! question "Volunteer - help us update cemetery maps"
+!!! question "Volunteer - help us update the cemetery maps"
 
     To update our maps we need:
     
-    - access and a licence to the location data for the cemetery (cemetery boundary, internal and surrounding roads, portions, sections and graves, building outlines, monuments, waterways). Ideally this would be released as Open Data.
-    - access and a licence to the [grave data](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). Ideally this would be released as Open Data.
+    - access and a licence to the cemetery location data and [grave data](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). 
     - someone skilled in making maps. **Can you help?** 
 
 
