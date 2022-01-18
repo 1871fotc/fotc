@@ -34,7 +34,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 - **Archibald Watson**, the second Lord Mayor of the City of Brisbane, 1931
 
 --> 
-
 <!--
 ???+ directions "Directions" 
 
