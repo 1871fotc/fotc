@@ -381,7 +381,7 @@ Should you have any questions arising from this visit, please jot them on a piec
 
 ## Acknowledgements
 
-[Text](http://www.fotc.org.au/subset/Jewish_Trail.pdf) by: Morris. S. Ochert OAM - Queensland Researcher, Australian Jewish Historical Society
+[Text](../assets/jewish-trail.pdf) by: Morris. S. Ochert OAM - Queensland Researcher, Australian Jewish Historical Society
 
 <!-- 
 Photography by: Joyce Simpson Sexton's Office Toowong Cemetery

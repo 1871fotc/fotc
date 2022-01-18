@@ -8,7 +8,7 @@ hide:
 **A Remembrance Day Service and Guided Walk conducted at Toowong Cemetery on the 4^th^ November 2012.**
 
     
-[Portion 10](http://www.fotc.org.au/toowong_map.jpg) contains numerous Commonwealth War Graves and received military burials between 1917 and 1942 until they were re-directed to [Lutwyche Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/lutwyche-cemetery). Flowers were cultivated and sold at the Cemetery from Portion 10 until the 1930s. In 1934 the area set apart for soldiers’ graves within Portion 10 was extended to incorporate the flower gardens and the wooden pavilion was demolished. As the military graves were interspersed amongst civilian burials, this portion lacks the familiar formality of a [Commonwealth War Cemetery](https://www.cwgc.org).
+[Portion 10](../assets/toowong_map.jpg) contains numerous Commonwealth War Graves and received military burials between 1917 and 1942 until they were re-directed to [Lutwyche Cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/lutwyche-cemetery). Flowers were cultivated and sold at the Cemetery from Portion 10 until the 1930s. In 1934 the area set apart for soldiers’ graves within Portion 10 was extended to incorporate the flower gardens and the wooden pavilion was demolished. As the military graves were interspersed amongst civilian burials, this portion lacks the familiar formality of a [Commonwealth War Cemetery](https://www.cwgc.org).
 
 
 ## Soldiers’ Memorial
