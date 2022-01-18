@@ -24,7 +24,7 @@ This licence allows you to distribute, remix, adapt, and build upon the material
 
 If you reuse this work, the preferred attribution is to follow the [Creative Commons - Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) format:
 
->"Page title *(link to page)*" by Friends of Toowong Cemetery Association Incorporated *(link to http://www.fotc.org.au)* is licensed under CC BY 4.0 *(link to https://creativecommons.org/licenses/by/4.0/)*
+>"Page title *(link to page)*" by Friends of Toowong Cemetery Association Incorporated *(link to https://www.fotc.org.au)* is licensed under CC BY 4.0 *(link to https://creativecommons.org/licenses/by/4.0/)*
 
 For example, the preferred attribution for the Toowong Cemetery History page, when reused on the internet is:
 

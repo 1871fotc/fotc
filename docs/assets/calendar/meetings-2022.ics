@@ -21,7 +21,7 @@ DTSTART;TZID=Australia/Brisbane:20220223T180000
 RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=-1WE;UNTIL=20221201T000000Z
 DTEND;TZID=Australia/Brisbane:20220223T190000
 SUMMARY:Friends of Toowong Cemetery Meeting
-URL:http://www.fotc.org.au/
+URL:https://www.fotc.org.au/
 DESCRIPTION:The Friends of Toowong Cemetery meet at Mt Coot-tha Botanical Gardens Auditorium on the last Wednesday of the month (except December and January) 
 LOCATION: Mt Coot-tha Botanical Gardens Auditorium
 BEGIN:VALARM

@@ -21,7 +21,7 @@ DTSTART;TZID=Australia/Brisbane:20220306T103000
 RRULE:FREQ=MONTHLY;INTERVAL=1;BYDAY=1SU;UNTIL=20221231T000000Z
 DTEND;TZID=Australia/Brisbane:20220306T120000
 SUMMARY:Friends of Toowong Cemetery - Guided Heritage Walking Tour
-URL:http://www.fotc.org.au/
+URL:https://www.fotc.org.au/
 DESCRIPTION:Each month Friends of Toowong Cemetery run a guided heritage walking tour. There is no need to book. Meet under the flagpole in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery. Wear a hat, enclosed shoes, and bring a water bottle. Guided tours are free but a small donation is appreciated to help us continue our work.
 LOCATION:Canon Garland Place within Toowong Cemetery
 BEGIN:VALARM
