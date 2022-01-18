@@ -6,9 +6,6 @@ description: Biographies of people interred at Toowong Cemetery
 
 **Read the stories of the people interred at Toowong Cemetery**. The index below lists some of the people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
 
-
-## Index
-
 ??? directions "How to use the Index" 
 
     - Click a column name to sort the table.
@@ -19,8 +16,6 @@ description: Biographies of people interred at Toowong Cemetery
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
         - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
     - The Last Name links to the person's Biography which may include information beyond what is shown in the self-guided walk.
-
-
 
 | Given Names          | Last Name                       | AKA | Born       | Died       | Location   | 
 | ----------:          | :--------                                 | :-- |:--------- | :--------- | :--------- | 
@@ -81,31 +76,14 @@ description: Biographies of people interred at Toowong Cemetery
 | firstname            | **[lastname](missing.md)**                 | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
 -->
 
+<small>
 
-## Data 
+[Biography Index](index.md) by [Friends of Toowong Cemetery Association Incorporated](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) :fontawesome-brands-creative-commons: :fontawesome-brands-creative-commons-by:
 
-### Licence and Attribution
+Download the Biography Index as a <a href="../assets/data/biography-index.csv" download>Comma Separated Value file</a> (.csv) or [Tabular Data Package](../assets/data/biography-index.zip) (.zip). 
 
-The **Biography Index** by **Friends of Toowong Cemetery Association Incorporated** is provided under a **[Creative Commons Attribution][CC-BY]** licence. 
+You must [provide attribution](../about/legal/#attribution) if you reuse this work.
 
-This licence requires you to [attribute our work](../about/legal/#attribution), for example: 
-
->"[Biography Index](index.md)" by [Friends of Toowong Cemetery Association Incorporated](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-or, if necessary, the attribution may be shortened to:
-
->[Friends of Toowong Cemetery](index.md) - [CC BY 4.0][CC-BY]
-
-or 
-
->[Friends of Toowong Cemetery](index.md) [:fontawesome-brands-creative-commons::fontawesome-brands-creative-commons-by:][CC-BY]
-
-### Data Download
-
-The Biography Index data can be downloaded as a:
-
-- **<a href="../assets/data/biography-index.csv" download>Comma Separated Value file</a>** (.csv)
-- **[Tabular Data Package](../assets/data/biography-index.zip)** (.zip), following the [Frictionless Data](https://frictionlessdata.io/) standards
-
+</small> 
 
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
