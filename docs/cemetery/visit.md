@@ -45,10 +45,10 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 
 If you enter the main entrance, you'll find: 
 
-- Canon Garland Place named after **[Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278)**. The Flagpole here is the departure point for **[guided heritage tours](../guided-tours.md)** and most **[self-guided walks](../walks/index.md)**.
-- the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)** - staff can answer your enquiries and help to locate graves and ashes memorial sites.
+- **Canon Garland Place** named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for **[guided heritage tours](../guided-tours.md)** and most **[self-guided walks](../walks/index.md)**.
+- the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**. Staff can answer your enquiries and help to locate graves and ashes memorial sites.
 - a **[Museum](museum.md)** operated by the Friends of Toowong Cemetery. 
-- toilets, the only ones available in the cemetery.
+- **Toilets**, the only ones available in the cemetery.
 
 ![](../assets/flag-pole.jpg){ width="98%" }
 
@@ -60,17 +60,25 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 - veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14th Avenue) 
 - at the end, turn right into Emma Miller Avenue (previously 8th Avenue) to arrive behind Canon Garland Place, where you can park on the side of the road. 
 
-## Map
-
-Inside the cemetery you can get around by driving, walking, riding a bike or scooter. Some roads in the cemetery are very steep. 
+## Maps
 
 ### Cemetery Road Map 
 
+!!! warning "Cemetery Road Warnings" 
+
+    - **Walter Hill Drive is one way** uphill from Emma Miller Avenue to Dr. Lillian Cooper Drive 
+    - **William Browne Avenue is one way** downhill from Dr. Lillian Cooper Drive to Emma Miller Avenue
+    - **5^th^ Avenue is very steep** from Steele Rudd Avenue up to Francis Forde Avenue near the corner of Frederick St and Birdwood Tce.
+
+<!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+-->
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ### Cemetery Portion and Section Map 
 
-This map will help you to [find graves](finding-graves.md).  The map shows the old Road names.
+This map will help you to **[find graves](finding-graves.md)**.  The map shows the old Road names.
 
 [![](../assets/toowong-cemetery-map.png){ width="98%" }][map]
 
