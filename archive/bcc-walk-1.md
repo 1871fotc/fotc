@@ -21,7 +21,7 @@ Victorian’s love of ancient symbolism is reflected in the designs of their mon
 
 More information on the [symbolism used in Victorian era cemeteries](../headstones/) like Toowong Cemetery can be found at the Cemetery Office, at the display at Portion Two
 
-Before starting, you may like to download the [Toowong Cemetery map](http://www.fotc.org.au/toowong_map.jpg). 
+Before starting, you may like to download the [Toowong Cemetery map](../assets/toowong_map.jpg). 
 <!-- Seek permission to annotate the map showing the walk -->
 
 ???+ directions "Directions" 

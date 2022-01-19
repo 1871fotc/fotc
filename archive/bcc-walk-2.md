@@ -28,7 +28,7 @@ More information on the [symbolism used in Victorian era cemeteries](../headston
 
 ## Start the walk
 
-Before starting, you may like to download the [Toowong Cemetery map](http://www.fotc.org.au/toowong_map.jpg). 
+Before starting, you may like to download the [Toowong Cemetery map](../assets/toowong_map.jpg). 
 <!-- Seek permission to annotate the map showing the walk -->
 
 <!-- insert photo -->
@@ -141,7 +141,7 @@ B. J. Costar, '[Smith, William Forgan (Bill) (1887‑1953)](http://adb.anu.edu.a
 
 ## Sir Manuel Richard Hornibrook <small>(18‑116‑18)</small> 1893‑1970
 
-Sir Manuel Richard Hornibrook is perhaps best known in Brisbane for his association with bridge building. His first bridge of note was constructed for the Department of Main Roads across the Burrum River in 1925. This is recorded as the earliest, publicly‑funded, reinforced‑concrete bridge in Queensland. In an effort to create employment and provide support for families during the depression, the Hornibrook Highway was constructed during the 1930s and included what was Australia's longest bridge at the time of its construction. The Hornibrook Group built more than 100 bridges, some of the better‑known including the William Jolly, Story and New Victoria bridges in Brisbane, the Northbridge and Iron Cove Bridge in Sydney, and the Kings Avenue and Commonwealth Avenue bridges in Canberra.  
+Sir Manuel Richard Hornibrook is perhaps best known in Brisbane for his association with bridge building. His first bridge of note was constructed for the Department of Main Roads across the Burrum River in 1925. This is recorded as the earliest, publicly‑funded, reinforced‑concrete bridge in Queensland. In an effort to create employment and provide support for families during the depression, the Hornibrook Highway was constructed during the 1930s and included what was [Australia's longest bridge](https://youtu.be/qqA41Fvj55k) at the time of its construction. The Hornibrook Group built more than 100 bridges, some of the better‑known including the William Jolly, Story and New Victoria bridges in Brisbane, the Northbridge and Iron Cove Bridge in Sydney, and the Kings Avenue and Commonwealth Avenue bridges in Canberra.  
 
 Along with bridges, Manuel Hornibrook and his brothers, constructed drainage and sewerage works around Brisbane, Longreach, Roma and other towns in western Queensland. In fact, over a period of 40 years their companies built wool stores, wheat silos, wharves, sugar‑sheds, tank farms, water mains, factories and electricity power‑stations. Of course another highlight was the successful completion in the 1960s of the superstructure of the Sydney Opera House, including the sail‑like roof.
 
@@ -211,7 +211,7 @@ Alex Freeleagus, '[Freeleagus, Christy Kosmas (1889‑1957)](http://adb.anu.edu.
 
     Immediately back across the road stands a monument consisting of a large cross draped in a number of strands of beads. These are regularly placed there by those who come to remember Dr Lilian Cooper.
     
-    ![image of headstone](../assets/lilian-cooper.jpg){ width="100" }
+    ![image of headstone](../assets/lilian-cooper.jpg){ width="30%" }
 
 --8<-- "snippets/lilian-cooper.md"
 
