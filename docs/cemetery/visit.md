@@ -107,7 +107,7 @@ Some road names have recently been changed to the names of notable people buried
 | **[O'Doherty][O'Doherty]** Avenue          | 11^th^ Avenue |                                                                      |
 | **[Elizabeth Dale][Dale]** Walk            | 12^th^ Avenue |                                                                      |
 | **[Garland][Garland]** Avenue              | 13^th^ Avenue |                                                                      |
-| William Brown Avenue                       | 14^th^ Avenue |                                                                      |
+| **[William Brown][Brown]** Avenue          | 14^th^ Avenue |                                                                      |
 | Federation Avenue                          | 15^th^ Avenue |                                                                      |
 
 <!-- works but csv doesn't go to downloads
@@ -168,6 +168,7 @@ Here are some of our favourites:
 [Dale]: ../bios/elizabeth-dale.md "Read Elizabeth's Biography"
 [Garland]: ../bios/david-john-garland.md "Read David Garland's Biography"
 [O'Doherty]: ../bios/kevin-izod-odoherty.md
+[Brown]: ../bios/william-walter-brown.md
 
 <!-- include site-wide abbreviations -->
 
