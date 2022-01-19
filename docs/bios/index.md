@@ -37,11 +37,12 @@ description: Biographies of people interred at Toowong Cemetery
 | Edward Michael       | **[Hanlon](edward-michael-hanlon.md)**    |     | 1887‑10‑01 | 1952‑01‑15 | 7A‑38‑19/21 | 
 | John                 | **[Hoolan](john-hoolan.md)**              |     | 1842‑mm‑dd | 1911‑06‑15 | 7A‑34‑2    | 
 | Albert Edward Victor | **[Whitford](albert-edward-victor-whitford.md)** | | 1877‑mm‑dd | 1924‑01‑29 | 15‑6‑40   | 
-| Lilian Violet        | **[Cooper](lilian-cooper.md)**            |     | 1861‑08‑11 | 1947‑08‑18 | 8‑69‑13/14 | <!-- ? -->
-| Walter               | **[Hill](walter-hill.md)**                |     | 1819‑12‑21 | 1904‑02‑04 | 6‑21‑9     | <!-- ? -->
+| Lilian Violet        | **[Cooper](lilian-cooper.md)**            |     | 1861‑08‑11 | 1947‑08‑18 | 8‑69‑13/14 | 
+| Walter               | **[Hill](walter-hill.md)**                |     | 1819‑12‑21 | 1904‑02‑04 | 6‑21‑9     | 
 | Peter                | **[Jackson](peter-jackson.md)**           |     | 1861-07-03 | 1901-07-13 | 5‑28‑1     | 
 | Kevin Izod           | **[O’Doherty](kevin-izod-odoherty.md)**   |     | 1823-mm-dd | 1905-mm-dd | 7‑58‑27    | 
-| Elizabeth            | **[Dale](elizabeth-dale.md)**             |     | 1865-mm-dd | 1905-01-31 | 1‑148‑29   | <!-- not in data --> 
+| Elizabeth            | **[Dale](elizabeth-dale.md)**             |     | 1865-mm-dd | 1905-01-31 | 1‑148‑29   |  
+| William Walter       | **[Brown](william-walter-brown.md)**      |     | 1911-11-02 | 2004-01-31 | 18‑25‑47B  |  
 
 <!--
 
