@@ -11,9 +11,9 @@ description: Download data about Toowong Cemetery
 
 Friends of Toowong Cemetery create or capture data, including: 
 
-- Biographies (an **[index](../bios/index.md)** and individual biographies and related events)
-- Headstones (images, inscriptions, status, location)
-- Walks (a route from grave to grave, linked to people, headstones, and biographies)
+- **Biographies** (an **[index](../bios/index.md)**, individual biographies and related events)
+- **Headstones** (images, inscriptions, status, location)
+- **Walks** (a route from grave to grave, linked to people, headstones, and biographies)
 
 The **[data is available on GitHub](https://github.com/1871fotc/fotc/tree/main/docs/assets/data)** :fontawesome-brands-github: and via links on this site.
 
@@ -67,13 +67,12 @@ Data about graves could be linked to data about:
 
 Where practical, we link to authoritative data sources, rather than duplicate data. We encourage other data owners to publish their data as easily accessible open data. Other data we would like to reuse includes: 
 
-### Brisbane City Council location data
+### Brisbane City Council data
 
+- [Graves and Human Remains](https://graves.brisbane.qld.gov.au) - who is buried in which grave and associated dates
 - [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) 
 - Portion boundaries 
 - Section boundaries 
-- Graves  
-- [Human Remains](https://graves.brisbane.qld.gov.au) - who is buried in which grave and associated dates
 - Cemetery Road casements - [centrelines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available
 - Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road.
 - Toowong Cemetery Main, Richer Street, and Frederick Street gates
@@ -102,6 +101,8 @@ Where practical, we link to authoritative data sources, rather than duplicate da
 - Queensland State Archives - catalogue metadata, documents and digital images
 - Trove - catalogue metadata and articles
 - DBpedia - entries
+
+### 
 
 <!--
 Geographic locations should be described as latitude, longitude coordinates in the [WGS84 datum](https://www.spatial.nsw.gov.au/__data/assets/pdf_file/0008/224396/WGS84_and_Australias_misaligned_web-maps_Information_Sheet.pdf) to aid integration and presentation on the web. Alternatively all data should be supplied in a common Datum, ideally [GDA2020](https://www.icsm.gov.au/gda2020), or  the dated GDA94.
