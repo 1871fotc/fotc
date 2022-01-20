@@ -3,9 +3,10 @@
 .cache
 
 # macOS internals
-
 # .DS_Store
 
 # Build files
-
 /site
+
+# Source data files used to load GraphDB
+/source-data
