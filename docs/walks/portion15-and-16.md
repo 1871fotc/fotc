@@ -7,6 +7,10 @@ hide:
 # A wander through Portions 15 and 16  
 
 <!--
+--8<-- "snippets/originally-a-guided-tour.md"
+-->
+
+<!--
 Introduction
 
 ???+ directions "Directions" 
@@ -31,7 +35,7 @@ Mountford was born in North Leith, Scotland on 10 February 1898.After a long car
 
 ## Charles Walter de Vis <small>(16‑22‑18)</small>
 
-Born in Birmingham England on 9 May 1829, de Vis was a clergyman and then museum curator before immigrating to Queensland in 1870. He became curator of the Queensland Museum in 1882 and director of that institution in 1901 adding much to the extent of the collections, their classification and display.
+Born in Birmingham England on 9 May 1829, [Charles de Vis](https://adb.anu.edu.au/biography/de-vis-charles-walter-3406) was a clergyman and then museum curator before immigrating to Queensland in 1870. He became curator of the Queensland Museum in 1882 and director of that institution in 1901 adding much to the extent of the collections, their classification and display.
 
 ![](../assets/exhibition-hall-1897.jpg){ width="70%" }
 
