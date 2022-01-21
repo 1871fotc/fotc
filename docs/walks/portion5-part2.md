@@ -84,7 +84,7 @@ Englishman Richard William Curtis (1840-1905) is one of six proven veterans of t
 
 ## Richard Langler Drew <small>(5‑43‑2)</small>
 
-Richard Langler Drew (1823-1869) served with the Royal Navy before migrating from England to Victoria with his wife Ann c 1858. In 1861 they [moved to Brisbane](https://trove.nla.gov.au/newspaper/article/50044315) where he was appointed shipping master and secretary to the Marine Board. He donated land in Curlew Street Toowong overlooking the Burns Road cutting, for the first Church of St Thomas the Apostle, and was one of its original trustees.
+[Richard Langler Drew](https://adb.anu.edu.au/biography/drew-richard-langler-13302) (1823-1869) served with the Royal Navy before migrating from England to Victoria with his wife Ann c 1858. In 1861 they [moved to Brisbane](https://trove.nla.gov.au/newspaper/article/50044315) where he was appointed shipping master and secretary to the Marine Board. He donated land in Curlew Street Toowong overlooking the Burns Road cutting, for the first Church of St Thomas the Apostle, and was one of its original trustees.
 
 ## William Atwell <small>(5‑38‑17)</small>
 
