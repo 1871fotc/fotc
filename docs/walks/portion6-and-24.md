@@ -89,19 +89,18 @@ Charles Highfield was born at Birkenhead Cheshire on 6 June 1840, the son of Sam
 
 Later in his life he became secretary of the Brisbane Merchants' Association, which position he occupied up to the time of his retirement from active business life about 1918. 
 
-On 5 November 1870 he married a music teacher, Harriott Eleanor Munce, the daughter of William John Munce and Elizabeth Eleanor Mckinney. Harriott was born in Sydney on 6 October 1853. Charles died on 10 September 1923 and Harriott on 16 December 1937.
-
+On 5 November 1870 he married a music teacher, Harriott Eleanor Munce, the daughter of William John Munce and Elizabeth Eleanor Mckinney. Harriott was born in Sydney on 6 October 1853. [Charles died on 10 September 1923](https://trove.nla.gov.au/newspaper/article/178411902) and [Harriott on 16 December 1937](https://trove.nla.gov.au/newspaper/article/184106204).
 
 ## Thomas, Fanny and Jessie McWatters <small>(6‑12‑20/21)</small>
 
 Thomas was born in Belfast and arrived in Queensland with his parents, Hugh McWatters and his wife Jane (née Hillis), and brother James, in the sailing ship *Montmorency*, in 1863 when he was six months old. He grew up in Maryborough and the small village of Dundathu. He married Fanny Graham in 1896 and moved to Brisbane where they settled in Toowong, firstly in Sherwood Road and then in Woodstock St.
 
-Thomas took a deep interest in the work and welfare of the Toowong Presbyterian Church. Fanny died in 1913. In 1916 Thomas married his second wife, Jessie Banks. Thomas died as a result of an accident on 17 December 1937.
+Thomas took a deep interest in the work and welfare of the Toowong Presbyterian Church. Fanny died in 1913. In 1916 Thomas married his second wife, Jessie Banks. [Thomas died]((https://trove.nla.gov.au/newspaper/article/184103941)) as a result of [an accident](https://trove.nla.gov.au/newspaper/article/37921425) on 17 December 1937.
 
 
 ## William John Dunstan <small>(6‑12‑15)</small>
 
-William John Dunstan was born on 13 October 1873 at Eldorado, near Beechworth, Victoria, son of Ralph Henry Dunstan, a Cornish farmer, and his Irish wife Bridget (née Morrissey). He was a shearer, trade union official, and Labor member of the Queensland Legislative Council from 1920 to 1922, when the Council was abolished. A serious street accident in 1926 permanently affected his health, and he died on 13 September 1930.
+[William John Dunstan](https://adb.anu.edu.au/biography/dunstan-william-john-6060) was born on 13 October 1873 at Eldorado, near Beechworth, Victoria, son of Ralph Henry Dunstan, a Cornish farmer, and his Irish wife Bridget (née Morrissey). He was a shearer, trade union official, and Labor member of the Queensland Legislative Council from 1920 to 1922, when the Council was abolished. A serious street accident in 1926 permanently affected his health, and he died on 13 September 1930.
 
 
 ## Rev Theodore Osborne <small>(6‑27‑17)</small>
