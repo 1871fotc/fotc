@@ -122,7 +122,7 @@ Fewings’ memoirs Arcadian Simplicity, written in 1892, described life in Toowo
 
 ## Thomas Finney <small>(13‑81‑6)</small>
 
-The Finney family lived in Sidney House (on the site of the former ABC Studios in Toowong) from 1882, one of the grandest houses in Toowong, surrounded by gardens and an orchard. He is buried next to his business partner James Isles with whom he established Finney Isles & Co. in 1864.
+[Thomas Finney](https://adb.anu.edu.au/biography/finney-thomas-3518) and his family lived in Sidney House (on the site of the former ABC Studios in Toowong) from 1882, one of the grandest houses in Toowong, surrounded by gardens and an orchard. He is buried next to his business partner James Isles with whom he established Finney Isles & Co. in 1864.
 
 ![](../assets/sidney-house-toowong-1890.jpg){ width="70%" }
 
