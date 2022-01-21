@@ -43,6 +43,14 @@ Frances Emma Irving was born in Queensland on 12 December 1883 to Maxwell Henry 
 
 On 7 January 1920 at about 10:30am, Fanny, aged 36 years, drowned at Sutton's Beach, Redcliffe. April 1873 to George Mannion and Deborah (née Hodgings). 
 
+
+![](../assets/suttons-beach-ladies.jpg){ width="25%" }  ![](../assets/suttons-beach-toddlers.jpg){ width="72.5%" }  
+
+
+*<small>[Two young ladies relaxing in the sun under parasols at Sutton's Beach, Redcliffe, 1919](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21253920730002061) — State Library of Queensland.</small>* <br>
+*<small>[Supervising toddlers on Sutton's Beach, Redcliffe, Queensland, 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272185470002061) — State Library of Queensland.</small>*
+
+
 ## Thomas John Mannion <small>(2A‑28‑28/29/30)</small>
 
 Thomas John Mannion was born in Brisbane on 25 April 1873 to George Mannion and Deborah (née Hodgings). Thomas died on Friday 21 December 1894 at Mooloolah, while tree driving.
