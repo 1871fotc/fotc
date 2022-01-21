@@ -73,9 +73,18 @@ Francis McKeon was a member of the Brisbane team of railway staff who competed f
 
 Irish immigrants, John and Ellen Forde were the parents of [Francis Michael Forde](https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504) better known as Frank Forde, the 15^th^ Prime Minister of Australia.
 
+![](../assets/frank-forde-pilots-train.jpg){ width="70%" }
+
+*<small>[Frank Forde pilots a train into Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool42043) - State Library of Queensland.</small>*
+
+
 ## Hugh Glackin <small>(15‑22‑20/21)</small>
 
 [Hugh Glackin](https://trove.nla.gov.au/newspaper/article/219446603) was born in Newtown Cunningham in County Donegal on 8 March 1844. After coming to Queensland, he joined the police force as a constable in 1870 and [famously arrested Captain Starlight](https://trove.nla.gov.au/newspaper/article/181459438) in April 1887. 
+
+![](../assets/frank-pearson-captain-starlight.jpg){ width="30%" }
+
+*<small>Frank Pearson (Captain Starlight) - State Archives of NSW</small>*
 
 
 ## Burton Family <small>(15‑22‑11/12)</small>
