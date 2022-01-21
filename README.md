@@ -1,10 +1,10 @@
 # Friends of Toowong Cemetery website
 
-An unofficial port of the Friend of Toowong Cemetery site - `https://fotc.org.au/`. View it at https://1871fotc.github.io/fotc/
+A port of the Friend of Toowong Cemetery site - `https://fotc.org.au/`. View it at https://1871fotc.github.io/fotc/
 
 ## About
 
-- This site is built using [Material for MkDocs Insiders](https://squidfunk.github.io/mkdocs-material-insiders/). 
+- This site is built using [Material for MkDocs Insiders](https://squidfunk.github.io/mkdocs-material/). 
 - [Pages](https://github.com/1871fotc/fotc/tree/main/docs) are written in Markdown
 - Snippets are used to modularise content
 - Images are stored in [/assets](https://github.com/1871fotc/fotc/tree/main/docs/assets)
