@@ -26,7 +26,7 @@ The allegorical figure, Hope, is often shown holding an anchor. Anchors may be s
 
 --> 
 
-## Able Seaman W. J. Harrhy <small>(4-16-4)</small>
+## Able Seaman W. J. Harrhy <small>(4-16‑4)</small>
 
 William John Harrhy, aged 31, a sailor on HMS Dauntless, drowned in the Brisbane River on Good Friday, 1924 when ship was on a goodwill visit. The officers organised a dance aboard the Dauntless in aid of his dependents. William was born in Cardiff, Wales and had been in the Navy for over fifteen years.
 
@@ -40,7 +40,7 @@ William John Harrhy, aged 31, a sailor on HMS Dauntless, drowned in the Brisbane
 
 --> 
 
-## Prentice Family <small>(9-41-1)</small>
+## Prentice Family <small>(9‑41‑1)</small>
 
 Jessie Blanche Prentice, the daughter of George (Jun.) and Jessie Lacy Prentice, was lost with her grandfather, George Prentice, in the wreck S.S. Quetta in Torres Strait on 28 February 1890. The steamship struck an uncharted rock and sank in three minutes claiming 134 lives, mostly women and children. Many victims were prominent Queensland citizens, bound for London, including Toowong resident, Alexander Archer, manager of the Bank of New South Wales. There were 158 survivors.
 
@@ -54,7 +54,7 @@ Jessie Blanche Prentice, the daughter of George (Jun.) and Jessie Lacy Prentice,
 
 --> 
 
-## Henry Lander Pethebridge <small>(13-4-7)</small>
+## Henry Lander Pethebridge <small>(13‑4‑7)</small>
 
 Henry Pethebridge, the son of William Pethebridge and Maria Lander, was the Inspector of Works of the Marine Department of Queensland. Born in Torquay, Devon about 1835, he died in Brisbane on 13 June 1910.
 
@@ -68,7 +68,7 @@ Henry Pethebridge, the son of William Pethebridge and Maria Lander, was the Insp
 
 --> 
 
-## George Davidson <small>(13-7-1)</small>
+## George Davidson <small>(13‑7‑1)</small>
 
 George was for many years the Superintendent Engineer to the Australasian Steam Navigation Company, Sydney. He died on 29 April 1888 aged 47. He was the son of Archibald Davidson and Janet Fyfe. His memorial is a distinctive ship’s boiler plate set in the ground.
 
@@ -82,9 +82,9 @@ George was for many years the Superintendent Engineer to the Australasian Steam 
 
 --> 
 
-## Captain William Smith <small>(13-6-21)</small>
+## Captain William Smith <small>(13‑6‑21)</small>
 
-William Smith and his ten-month old daughter died within two months of each other in 1872 and were interred at the Paddington Cemetery. Their remains and headstone were relocated to Toowong Cemetery in June 1881. Since then, another four family members have been buried in the grave.
+William Smith and his ten‑month old daughter died within two months of each other in 1872 and were interred at the Paddington Cemetery. Their remains and headstone were relocated to Toowong Cemetery in June 1881. Since then, another four family members have been buried in the grave.
 
 ![](../assets/william-smith.jpg){ width="30%" }   
 
@@ -98,7 +98,7 @@ William Smith and his ten-month old daughter died within two months of each othe
 
 --> 
 
-## Captain C. S. Thow <small>(13-16-10)</small>
+## Captain C. S. Thow <small>(13‑16‑10)</small>
 
 Charles Stewart Thow was the son of Alexander Thow and Elizabeth Smith. He died on the 2 June 1883 aged 43 and was buried on the same day.
 
@@ -112,7 +112,7 @@ Charles Stewart Thow was the son of Alexander Thow and Elizabeth Smith. He died 
 
 -->
 
-## David Muir <small>(13-16-12)</small>
+## David Muir <small>(13‑16‑12)</small>
 
 Three generations of David Muirs are buried in this grave. David was a shipwright born on Burnt Island near Edinburgh about 1824. He was the son of James Muir and Margaret Black. David married Margaret George in 1854. His son married Lucy Kornner in Brisbane in 1887. Sadly, their infant son David died in 1889.
 
@@ -126,7 +126,7 @@ Three generations of David Muirs are buried in this grave. David was a shipwrigh
 
 -->
 
-## Tom George Johnson <small>(14-18-4)</small>
+## Tom George Johnson <small>(14‑18‑4)</small>
 
 Tom, the son of John Johnson and Mary Huet, died on 2 October 1912. He was the first General Secretary of the Australian Institute of Marine Engineers. In August 1880, he was authorised to form a branch of the AIME in New Zealand. He was instrumental in instituting minimum qualifications, wages and working conditions for Marine Engineers. Until the year of his death, Tom was the Brisbane District Secretary of the AIME, a position he had held since 1883.
 
@@ -140,13 +140,13 @@ Tom, the son of John Johnson and Mary Huet, died on 2 October 1912. He was the f
 
 -->
 
-## William Collin <small>(12-56-22)</small>
+## William Collin <small>(12‑56‑22)</small>
 
-William, a master mariner, was born on 30 August 1834 at Great Wakering, Essex, the ninth of thirteen children of John Collin, a Suffolk farmer and his wife Sarah, née Viner. After only a basic education, fourteen-year-old William was working in the coastal coal trade and later on barges in the Thames. He left for Australia via Panama in 1854. Surviving a shipwreck 800 km off the Queensland coast, he eventually arrived in Sydney, via Calcutta! 
+William, a master mariner, was born on 30 August 1834 at Great Wakering, Essex, the ninth of thirteen children of John Collin, a Suffolk farmer and his wife Sarah, née Viner. After only a basic education, fourteen‑year‑old William was working in the coastal coal trade and later on barges in the Thames. He left for Australia via Panama in 1854. Surviving a shipwreck 800 km off the Queensland coast, he eventually arrived in Sydney, via Calcutta! 
 
-He married Eliza Baker of Newton on Christmas Day 1857 at Stephen’s, Camperdown. He worked on the Sydney waterfront until he could afford to purchase and refit a 25-ton vessel. He sailed this ship to Brisbane, where he settled with his family (which would eventually comprise thirteen children), and commenced a freight service to near-by coastal ports. William's other interest was the salvaging and breaking of ships. He was also engaged by the Queensland Government to lay submarine cables. 
+He married Eliza Baker of Newton on Christmas Day 1857 at Stephen’s, Camperdown. He worked on the Sydney waterfront until he could afford to purchase and refit a 25‑ton vessel. He sailed this ship to Brisbane, where he settled with his family (which would eventually comprise thirteen children), and commenced a freight service to near‑by coastal ports. William's other interest was the salvaging and breaking of ships. He was also engaged by the Queensland Government to lay submarine cables. 
 
-William’s son and namesake was said to be the first Queensland-born sailor to receive his master’s certificate.
+William’s son and namesake was said to be the first Queensland‑born sailor to receive his master’s certificate.
 
 <!--
 
@@ -158,11 +158,11 @@ William’s son and namesake was said to be the first Queensland-born sailor to 
 
 -->
 
-## Able Seaman Archibald Edward Bartsch <small>(10-44-20)</small>, Warrant Officer Henry Theeman <small>(10-41-21)</small>, Steward Eric Ross Harrison <small>(10-43-7)</small>
+## Able Seaman Archibald Edward Bartsch <small>(10‑44‑20)</small>, Warrant Officer Henry Theeman <small>(10‑41‑21)</small>, Steward Eric Ross Harrison <small>(10‑43‑7)</small>
 
 On the 4th of March 1942, the auxiliary minesweeper HMAS Tambar was fired on by the Examination Battery at Fort Cowan Cowan on Moreton Island. The military covered up the incident so as not to affect morale. The Tambar’s crew was dispersed throughout the RAN immediately after the men’s joint funeral two days later. The ship was temporarily paid off and the Captain given another command. The service was conducted by the Rev. H. H. Trigge of the Methodist Church and the Church of England’s Rev. F. R. C. Birch. Cannon and Cripps arranged the funeral.
 
-There was a mix up in the identification code signal of the ship and the battery was ordered to fire across the bow of the unidentified vessel. The 6-inch shell struck the ship’s forecastle killing Able Seaman Archibald Bartsch, a member of the anchor party, instantly. The shell skidded across the deck into the Captain’s cabin killing Steward Eric Harrison. It then passed through the radio room critically injuring Warrant Officer Henry Theeman. Both of his legs were severed and his succumbed to his injuries soon after. Other crew received injuries to various degrees. London-born Theeman was aged 47. Bartsch, son of 3^rd^ Light horseman William Henry Bartsch, was an employee if the Australasian United Paint Company of Port Augusta, South Australia prior to his enlistment in the navy. He was aged 20. Western Australian-born Harrison was the son of William Ross and Rebecca Harrison. He was aged 33 from Melbourne.
+There was a mix up in the identification code signal of the ship and the battery was ordered to fire across the bow of the unidentified vessel. The 6‑inch shell struck the ship’s forecastle killing Able Seaman Archibald Bartsch, a member of the anchor party, instantly. The shell skidded across the deck into the Captain’s cabin killing Steward Eric Harrison. It then passed through the radio room critically injuring Warrant Officer Henry Theeman. Both of his legs were severed and his succumbed to his injuries soon after. Other crew received injuries to various degrees. London‑born Theeman was aged 47. Bartsch, son of 3^rd^ Light horseman William Henry Bartsch, was an employee if the Australasian United Paint Company of Port Augusta, South Australia prior to his enlistment in the navy. He was aged 20. Western Australian‑born Harrison was the son of William Ross and Rebecca Harrison. He was aged 33 from Melbourne.
 
 <!--
 
@@ -174,7 +174,7 @@ There was a mix up in the identification code signal of the ship and the battery
 
 -->
 
-## Captain John Burke <small>(7-19-1)</small>
+## Captain John Burke <small>(7‑19‑1)</small>
 
 [John](https://adb.anu.edu.au/biography/burke-john-5429) was born at Kinsale, Cork the son of fisherman Denis Burke and his wife Ellen. He was a seaman on ships to the USA until the outbreak of the Civil War when he returned to Ireland and signed on with the crew of the *Erin Go Bragh* which arrived in Brisbane in August 1862. He deserted and worked as a pilot for the Australian Steam Navigation Company sailing the Queensland and the Telegraph. He married Alicia Swords from the *Erin Go Bragh*, and settled on the Logan River. 
 
