@@ -15,7 +15,7 @@ Born at Donadea near Hodgetown Co. Kildare, Devoy was the daughter of James and 
 
 Anne married Patrick Devoy and with the union came the “curse of the Devoys”. This had been placed on a Devoy of Huguenot stock who turned in a Catholic priest to Cromwell’s men. As he was taken away, the priest blessed all the Devoy women and cursed the men so that no male Devoy would live to see his son in manhood. 
 
-The Devoys arrived in Queensland in 1864 on the Landsborough after selling their land in Ireland to the Ursuline nuns. They brought a young family with them; John (later Managing Director of Castlemaine Perkins), Marguerite and Annie. In the tradition of the curse Pat was killed the same year by a landslide while selecting land near Toowoomba.
+The Devoys arrived in Queensland in 1864 on the *Landsborough* after selling their land in Ireland to the Ursuline nuns. They brought a young family with them; John (later Managing Director of Castlemaine Perkins), Marguerite and Annie. In the tradition of the curse Pat was killed the same year by a landslide while selecting land near Toowoomba.
 
 
 ![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
@@ -33,7 +33,7 @@ The Devoys arrived in Queensland in 1864 on the Landsborough after selling their
 
 Born in Tyrone, the son of Joseph and Ann (1803‑1883), Darragh arrived in Sydney on 29 April 1850 with his wife, Eliza Grimes They moved to Brisbane where he was a butcher at Kangaroo Point from 1853 to 1902. Darragh Street was named for the family before 1874, and when he died Darragh was ‘of Independent Means’. 
 
-Darragh’s brothers were also businessmen in Brisbane. James (1831‑1905) was a publican of the Logan Hotel Main St, Kangaroo Point and the Sportsman’s Arms in Queen St while Hugh (1839—1916) was also a butcher.
+Darragh’s brothers were also businessmen in Brisbane. James (1831‑1905) was a publican of the Logan Hotel, Main St, Kangaroo Point and the Sportsman’s Arms in Queen St while Hugh (1839—1916) was also a butcher.
 
 ![](../assets/sportsmans-arms-hotel.jpg){ width="70%" }  
 
@@ -69,8 +69,7 @@ He arrived in Queensland 1869 at the request of his old friends Perkins and Gool
 
 1855‑1877 
 
-Mooney was born in New York, the son of Joseph and Rosa Mooney, natives of Co. Cavan. They arrived in Sydney 1857 on the FitzJames. Mooney was a volunteer fireman who was fatally burned by an exploding cask of spirits during a fire at Hughes’ grocery store in Queen St. His mother was publican of the Royal Exchange Hotel in Albert Street from where his funeral procession left. His monument was financed by public subscription. His father’s sister was Mary, wife of James Mayne, hide merchant in Tyrone and brother of Patrick Mayne.
-
+Mooney was born in New York, the son of Joseph and Rosa Mooney, natives of Co. Cavan. They arrived in Sydney 1857 on the *FitzJames*. Mooney was a volunteer fireman who was fatally burned by an exploding cask of spirits during a fire at Hughes’ grocery store in Queen St. His mother was publican of the Royal Exchange Hotel in Albert Street from where his funeral procession left. His monument was financed by public subscription. His father’s sister was Mary, wife of James Mayne, hide merchant in Tyrone and brother of Patrick Mayne.
 
 ![](../assets/royal-exchange-hotel-albert-st.jpg){ width="40%" }  
 
@@ -95,7 +94,7 @@ Mayne gained his wealth by the reputed murder of a cedar cutter and established 
 
 1838‑1893 
  
-Ahern was born at Donickmore, Cork son of Denis Ahern and Honoria O’Mahoney. He was a Catholic farmer when he joined the Queensland Police Force in September 1864. He was sent to Springsure in October and promoted to Senior Constable/Acting Sergeant in July 1868. He became Inspector of Slaughterhouses in the Mitchell district in February 1870 and received the substantial reward of £15 in September 1872 for ‘energetic perseverance in suppressing cattle‑stealers in the Barcoo and Walgett districts’. 
+Ahern was born at Donickmore, Cork son of Denis Ahern and Honoria O’Mahoney. He was a Catholic farmer when he joined the Queensland Police Force in September 1864. He was sent to Springsure in October and promoted to Senior Constable/Acting Sergeant in July 1868. He became Inspector of Slaughterhouses in the Mitchell district in February 1870 and received the substantial reward of £15 in September 1872 for *"energetic perseverance in suppressing cattle‑stealers in the Barcoo and Walgett districts"*. 
 
 Ahern was promoted to Senior Sergeant in January 1874 and Sub‑Inspector 2^nd^ class in 1877. He served at Blackall in 1880 where he became Sub‑Inspector 1^st^ class. Ahern married in 1883 Mary, sister of Andrew Joseph Thynne from Clare. By 1890, he had been promoted to Inspector 1^st^ class in charge of all brands throughout the colony. Ahern was a most respected and energetic policeman.
 
@@ -110,7 +109,7 @@ Ahern was promoted to Senior Sergeant in January 1874 and Sub‑Inspector 2^nd^ 
 
 1811‑1888  
 
-Born at Drumcliff, Ennis, Co. Clare, Purcell was the son of Thomas Purcell and Mary Flannery. This well‑to‑do grazier arrived in Brisbane 19June1853 with wife and 4 children on the John Fielden. He married Bridget Scanlan (1827‑1913) and had 10 children. His son Thomas, a grazier of Rockhampton, was partner in the Rockhampton Newspaper The Daily Record with the Hon. T. J. Ryan in 1912. Purcell, a man of independent means, was buried by Hislops in March 1888 with Fr. Canali officiating.
+Born at Drumcliff, Ennis, Co. Clare, Purcell was the son of Thomas Purcell and Mary Flannery. This well‑to‑do grazier arrived in Brisbane 19 June 1853 with wife and 4 children on the John Fielden. He married Bridget Scanlan (1827‑1913) and had 10 children. His son Thomas, a grazier of Rockhampton, was partner in the Rockhampton Newspaper The Daily Record with the Hon. T. J. Ryan in 1912. Purcell, a man of independent means, was buried by Hislops in March 1888 with Fr. Canali officiating.
 
 ??? directions "Directions" 
 
@@ -164,7 +163,7 @@ He suffered from ill health and a bout of influenza caught in England in 1919 la
 
 1830‑1877  
 
-MacDonnell was born in Dublin, son of Thomas MacDonnell, an army officer, and his wife Frances Corry. He arrived in Sydney 1853 on the Telegraph. He was a teacher at National Schools in Sydney before establishing his own school at Paddington, Sydney in 1854. 
+MacDonnell was born in Dublin, son of Thomas MacDonnell, an army officer, and his wife Frances Corry. He arrived in Sydney 1853 on the *Telegraph*. He was a teacher at National Schools in Sydney before establishing his own school at Paddington, Sydney in 1854. 
 
 He moved to Queensland in 1860 and was appointed Inspector of National Schools and General Inspector of Primary Schools. He served as Secretary of the Board of Education 1870—1876 and supported the separation of religious and secular education and advocated the Irish System. Randal married Mary Sheehan in 1861 and had four sons and a daughter. He died of consumption in 1877.
 
@@ -192,9 +191,9 @@ Born in Co. Cavan, Gaffney was the publican of the Dunmore Arms on the corner of
 
 1842‑1919 
 
-Burke was born at Kinsale, Cork the son of fisherman Denis Burke and his wife Ellen. He was a seaman on ships to the USA until the outbreak of the Civil War when he returned to Ireland and signed on with the crew of the Erin Go Bragh which arrived in Brisbane in August 1862. He deserted and worked as a pilot for the Australian Steam Navigation Company sailing the Queensland and the Telegraph. 
+Burke was born at Kinsale, Cork the son of fisherman Denis Burke and his wife Ellen. He was a seaman on ships to the USA until the outbreak of the Civil War when he returned to Ireland and signed on with the crew of the *Erin Go Bragh* which arrived in Brisbane in August 1862. He deserted and worked as a pilot for the Australian Steam Navigation Company sailing the *Queensland* and the *Telegraph*. 
 
-He married Alicia Swords from the Erin Go Bragh, and settled on the Logan River. He held a Masters Licence and worked on bay and river ships commanding the Fanny on the Albert and Logan rivers. He established the John Burke Shipping Line in 1887 and bought the Louisa and traded from Ipswich to Logan and later on Moreton Bay.
+He married Alicia Swords from the *Erin Go Bragh*, and settled on the Logan River. He held a Masters Licence and worked on bay and river ships commanding the *Fanny* on the Albert and Logan rivers. He established the John Burke Shipping Line in 1887 and bought the *Louisa* and traded from Ipswich to Logan and later on Moreton Bay.
 
 By his death in 1919, he had nineteen ships, although he had retired in 1915 staying only as the Director. Captain Burke Park at Kangaroo Point is named in honour of him. His company was sold by his grandson in 1968.
 
@@ -206,7 +205,7 @@ By his death in 1919, he had nineteen ships, although he had retired in 1915 sta
 
 1841‑1908 
 
-Born in Tyrone, McDermott arrived in Brisbane in 1864 on the Earl Russell with his wife Martha. He was the publican of one of the Valley’s most successful pubs, the Empire Hotel on the corner of Brunswick and Ann Streets. Originally a two‑story wooden building in the 1870s it was rebuilt into three storys in the 1890s. McDermott died independently wealthy in 1908 and was interred by the Reverend Father John O’Leary.
+Born in Tyrone, McDermott arrived in Brisbane in 1864 on the *Earl Russell* with his wife Martha. He was the publican of one of the Valley’s most successful pubs, the Empire Hotel on the corner of Brunswick and Ann Streets. Originally a two‑story wooden building in the 1870s it was rebuilt into three storys in the 1890s. McDermott died independently wealthy in 1908 and was interred by the Reverend Father John O’Leary.
 
 ![](../assets/empire-hotel.jpg){ width="70%" }  
 
@@ -230,9 +229,9 @@ Born in Tyrone, McDermott arrived in Brisbane in 1864 on the Earl Russell with h
 
 Born at the family bakery in Patrick Street, Cork, O’Carroll was the son of a cargo ship’s Captain. He was a ‘Young Irelander’ in 1848 and joined the Fenians in 1858. He contributed to the Irish People, a Nationalist journal and became its editor. After the failure of the ‘St Patrick Plot’ of 1861, he fled Ireland with a price on his head. 
 
-The family emigrated to Brisbane in 1862 on the Chatsworth. He became editor of The Guardian and the Moreton Bay Courier from 1869 to 1883. He also established the Colonist. a newspaper which ran from 1871—1872. He left for work one Friday morning suffering bronchial symptoms which resulted in his death the following morning. 
+The family emigrated to Brisbane in 1862 on the *Chatsworth*. He became editor of *The Guardian* and the *Moreton Bay Courier* from 1869 to 1883. He also established the *Colonist*, a newspaper which ran from 1871—1872. He left for work one Friday morning suffering bronchial symptoms which resulted in his death the following morning. 
 
-A hard worker, he liked to be well away from his work at home at Three Mile Scrub between Newmarket and Ashgrove. At 2am he would mount his old grey mare at the back of the Queen Street office and quietly plod home. His son Thomas was a reporter on the Courier, and another son David Joseph was a journalist. 
+A hard worker, he liked to be well away from his work at home at Three Mile Scrub between Newmarket and Ashgrove. At 2am he would mount his old grey mare at the back of the Queen Street office and quietly plod home. His son Thomas was a reporter on *The Courier*, and another son David Joseph was a journalist. 
 
 His funeral cortege consisted of 62 vehicles with over 500 persons attending the graveside including colleagues from the Courier and Observer as well as Queensland literary staff and members of the Johnsonian Club of which he was a foundation member. The service was performed by Rev. Fr. James Benedict Breen, and his comrades erected a plaque to his memory on the back of his monument which read,
 
@@ -252,7 +251,7 @@ McDonnell was born at Ennis, Co. Clare to farmer James McDonnell and Elizabeth B
 
 McDonnell arrived in Brisbane in 1886 and married Mary Heffernan in 1890. He worked as a drapery assistant for Finney Isles & Co., and then with T. J. Geoghegan, and from 1889 to 1896 for Edwards and Lamb. In 1901 he established the firm of McDonnell and East with Hubert East from Roscommon. They were backed financially by publican Peter Murphy who alternated with them as director of the company. 
 
-In 1888 McDonnell organised the Shop Assistants Early Closing Association with his former colleague T. C. Beirne. He represented Labor for Fortitude Valley in 1896 and introduced the Early Closing Bill which was successful in 1910. He was a member of the Labor Party executive 1898—1903 and Treasurer 1901—1903. He was appointed to the Legislative Council 1907—1922 and promoted Home Rule for Ireland. In 1910 he founded and was Director of the Hibernian newspaper. He was the first Trustee of Trades Hall and original member of The University of Queensland Senate 1910.
+In 1888 McDonnell organised the Shop Assistants Early Closing Association with his former colleague T. C. Beirne. He represented Labor for Fortitude Valley in 1896 and introduced the Early Closing Bill which was successful in 1910. He was a member of the Labor Party executive 1898—1903 and Treasurer 1901—1903. He was appointed to the Legislative Council 1907—1922 and promoted Home Rule for Ireland. In 1910 he founded and was Director of the *Hibernian* newspaper. He was the first Trustee of Trades Hall and original member of The University of Queensland Senate 1910.
 
 
 ![](../assets/mcdonnell-and-east.jpg){ width="70%" }  
@@ -270,7 +269,7 @@ In 1888 McDonnell organised the Shop Assistants Early Closing Association with h
 
 Born in Ennistymon in County Clare the first born of a very large family. He, his parents Thomas and Bridget and most of his siblings migrated to Australia. Out of the 12 children one stayed in Ireland 2 died as babies, one went to Ohio in the USA and one to NSW and the remainder came to Queensland. 
 
-The family left Ireland for London and boarded the RMS Dacca heading for Queensland. The trip took a little longer than expected. The ship left London 29^th^ April 1890 and the trip was interrupted at 6.30AM on the 16^th^May when she hit the Daedulus Reef in the Red Sea. All passengers were able to climb down onto the rocks of the reef where they all stood in waist deep water until some were moved to the rocks surrounding the lighthouse. According to the London Illustrated News May 20^th^, The passengers lost everything except the wet clothes they were standing in when the ship sank four hours later. No lives were lost. 
+The family left Ireland for London and boarded the *RMS Dacca* heading for Queensland. The trip took a little longer than expected. The ship left London 29^th^ April 1890 and the trip was interrupted at 6.30AM on the 16^th^May when she hit the Daedulus Reef in the Red Sea. All passengers were able to climb down onto the rocks of the reef where they all stood in waist deep water until some were moved to the rocks surrounding the lighthouse. According to the *London Illustrated News*, May 20^th^, The passengers lost everything except the wet clothes they were standing in when the ship sank four hours later. No lives were lost. 
 
 Michael and the rest of the family settled in Warwick and he practiced tailoring in partnership with his father in Fitzroy Street. He married Catherine Stokes in Warwick 1 June 1891. She was born in Moycarkey in Tipperary. He died in Brisbane on 26 December 1917 and was buried the next day. They had four children two of whom died very young. His son Francis Patrick Devitt (Sonny) joined the Australian Army and died 5 August 1915 six months before his 21^st^ birthday and is buried in France. Devitt St beside Warwick racecourse is named for the Devitt family.
 
