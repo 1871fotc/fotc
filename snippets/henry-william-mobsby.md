@@ -7,4 +7,11 @@ By October 1899 Mobsby had produced some thirty, one‑minute films during vario
 
 Mobsby became official artist and photographer for the Department of Agriculture in 1904 and remained until his retirement in 1930. He had scant direct involvement in subsequent Queensland government film production, preferring to commission others, such as the Salvation Army’s former cameraman Sid Cook, to undertake the filmmaking. Mobsby's reputation stemmed from his scenic photography and exhibition design. A fellow of both the Royal Geographical Society and the Royal Society of Artists, London, he regularly designed and organised Queensland's exhibits for the annual shows in southern capitals and at the Royal National Exhibition in Brisbane. His photography gained international distinction, and he officially represented Queensland at numerous exhibitions. 
 
-In December 1905 Mobsby's 11‑year‑old son Arthur Timewell drowned; each year thereafter, the Mobsby memorial medal was awarded to the Indooroopilly State School student who achieved the highest percentage in the year 8 scholarship public examination. A keen Freemason, Mobsby was a member of the Lodge, Indooroopilly, No.155, United Grand Lodge of Queensland. He died on 9 April 1933 at his home in Station Road, Indooroopilly, and was buried with his son.
+In December 1905 Mobsby's 11‑year‑old son [Arthur Timewell drowned](https://trove.nla.gov.au/newspaper/article/184680167?searchTerm=Arthur%20Timewell%20Mobsby); each year thereafter, the Mobsby memorial medal was awarded to the Indooroopilly State School student who achieved the highest percentage in the year 8 scholarship public examination. A keen Freemason, Mobsby was a member of the Lodge, Indooroopilly, No.155, United Grand Lodge of Queensland. [He died on 9 April 1933](https://trove.nla.gov.au/newspaper/article/22150093) at his home in Station Road, Indooroopilly, and was buried with his son.
+
+<!--
+
+- https://www.couriermail.com.au/questnews/little-boy-honoured-112-years-after-he-drowned-in-a-brisbane-flood/news-story/ee8ea5e767831d9a9c27da8af535a7e3
+- https://www.flickr.com/photos/hwmobs/24888797078/in/photostream/
+- https://trove.nla.gov.au/newspaper/article/19703747
+-->
