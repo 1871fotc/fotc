@@ -31,7 +31,7 @@ Edmund was the first principal of the Toowong State School which opened in Janua
 
 ## Victor and Jean McGregor‑Lowndes <small>(4‑16)</small>
 
-Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home, Craig‑Royston, Toowong on 21 July 1951. His wife, Jean, was also a JP and a prominent citizen, honoured as a Member of the British Empire. Jean died in June 1976, aged 89.
+Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home, *Craig‑Royston*, Toowong on 21 July 1951. His wife, Jean, was also a JP and a prominent citizen, honoured as a Member of the British Empire. Jean died in June 1976, aged 89.
 
 ??? directions "Directions" 
 
@@ -39,7 +39,7 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
 
 ## Mary Elizabeth Weedon <!-- (4‑3‑20)--> and Annie Griffiths <small>(4‑3-2)</small>
 
-Mary Weedon was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She and her friend, Annie Griffiths, shared a house called Garton in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
+Mary Weedon was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
 
 ??? directions "Directions" 
 
@@ -55,7 +55,7 @@ William was a stonemason who had a workshop and house in Sylvan Road. He arrived
 
 ## Sali Mendelsohn <small>(3‑6‑7)</small>
 
-In 1890, Sali published his most enduring ballad The Drover otherwise known as [Brisbane Ladies](https://en.wikipedia.org/wiki/Brisbane_Ladies) which features the line Farewell and adieu to the girls of Toowong. The ballad is about the drovers returning west to their cattle stations having sold their at market. The route taken passed through Toowong on the way to Moggill Road.^2^
+In 1890, Sali published his most enduring ballad *The Drover* otherwise known as *[Brisbane Ladies](https://en.wikipedia.org/wiki/Brisbane_Ladies)* which features the line, *"Farewell and adieu to the girls of Toowong"*. The ballad is about the drovers returning west to their cattle stations having sold their at market. The route taken passed through Toowong on the way to Moggill Road.^2^
 
 ??? directions "Directions" 
 
@@ -63,7 +63,7 @@ In 1890, Sali published his most enduring ballad The Drover otherwise known as [
 
 ## Harriet and William Johnson <small>(1‑37)</small>
 
-The Johnsons lived in a house called Castle Rawe, Toowong. Harriet died in 1914, aged 63. Her husband, William, outlived her by twenty‑five years, dying aged 79.
+The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 1914, aged 63. Her husband, William, outlived her by twenty‑five years, dying aged 79.
 
 ??? directions "Directions" 
 
@@ -72,7 +72,7 @@ The Johnsons lived in a house called Castle Rawe, Toowong. Harriet died in 1914,
 ## William Webster <small>(1‑36)</small>
 <!-- perhaps 1-37-6? -->
 
-A Scottish merchant, William died at his home Arley, Toowong, aged 66 in 1895. William purchased Arley, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the Quetta shipwreck in 1890.
+A Scottish merchant, William died at his home *Arley*, Toowong, aged 66 in 1895. William purchased *Arley*, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the *Quetta* shipwreck in 1890.
 
 ![](../assets/arley-toowong-ca1882.jpg){ width="70%" }
 
@@ -86,7 +86,7 @@ A Scottish merchant, William died at his home Arley, Toowong, aged 66 in 1895. W
 
 W. H. Wilson was a member of the Queensland Legislative Council, Minister of Justice, Secretary of Public Instruction, and Postmaster‑General in a varied political career. He was a founding member of the Anglican Church in Toowong in 1866 and found time to be elected to the Toowong Shire Council in 1884. He was also a Companion of the Order of St Michael and St George. He died at his Toowong home, Sherwood Grove, in February 1902, aged 62. 
 
-Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 1886. A member of the Lands Court, Walter F. Wilson died at his home, [Dovercourt](https://heritage.brisbane.qld.gov.au/heritage-places/1709), which still stands, aged 48 in 1911.
+Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 1886. A member of the Lands Court, Walter F. Wilson died at his home, *[Dovercourt](https://heritage.brisbane.qld.gov.au/heritage-places/1709)*, which still stands, aged 48 in 1911.
 
 ??? directions "Directions" 
 
@@ -115,11 +115,11 @@ Hercules was the second principal of the Toowong State School, a position he hel
 
 ## Robert and Maria Johnstone <small>(5‑36‑15/16)</small>
 
-Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Robert’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him.^3^ He married Maria who bore nine children. Robert’s police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at Serenata, Toowong. Robert died in January 1905, aged 63 and Maria died aged 76 in September 1923.
+Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Robert’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him.^3^ He married Maria who bore nine children. Robert’s police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at *Serenata*, Toowong. Robert died in January 1905, aged 63 and Maria died aged 76 in September 1923.
 
 ## Letitia Jephson <small>(5‑34‑17)</small>
 
-Letitia was widowed and had lost two young sons while still in her early forties. She became a businesswoman managing boarding houses in the city and at Kangaroo Point. The Longreach Private Boarding House which she leased in 1879 was a highly sucessfully operation. Letitia bought Cabury on Kensington Terrace which she renamed Mallow after her birthplace in Ireland. In 1899 she sold Mallow to Sir Robert Philp. When Letitia died in 1908, she left a substantial estate including shares in banks and breweries. Church Street was renamed Jephson Street after her.
+Letitia was widowed and had lost two young sons while still in her early forties. She became a businesswoman managing boarding houses in the city and at Kangaroo Point. The Longreach Private Boarding House which she leased in 1879 was a highly sucessfully operation. Letitia bought *Cabury* on Kensington Terrace which she renamed *Mallow* after her birthplace in Ireland. In 1899 she sold Mallow to Sir Robert Philp. When Letitia died in 1908, she left a substantial estate including shares in banks and breweries. Church Street was renamed Jephson Street after her.
 
 ??? directions "Directions" 
 
@@ -127,7 +127,7 @@ Letitia was widowed and had lost two young sons while still in her early forties
 
 ## Samuel Kaye <small>(2‑42‑26)</small>
 
-Kaye’s Rocks at Toowong were named after Samuel. He was a government appointee to the Toowong Shire Council in 1880. A member of the Toowong Philharmonic Orchestra, Samuel operated a museum for musical instruments, importing pianos, organs and harmoniums. He taught music for many years from his home on the north side of the rocks which now bear his name.
+[Kaye’s Rocks](https://heritage.brisbane.qld.gov.au/heritage-places/1693) at Toowong were named after Samuel. He was a government appointee to the Toowong Shire Council in 1880. A member of the Toowong Philharmonic Orchestra, Samuel operated a museum for musical instruments, importing pianos, organs and harmoniums. He taught music for many years from his home on the north side of the rocks which now bear his name.
 
 ??? directions "Directions" 
 
@@ -135,7 +135,7 @@ Kaye’s Rocks at Toowong were named after Samuel. He was a government appointee
 
 ## Robert Harrison Smith <small>(5‑31‑10)</small>
 
-Robert was the Member of the Legislative Council for Bowen. When he retired, he took up property in the South Toowong area, dying at Mobolon in 1911.
+Robert was the Member of the Legislative Council for Bowen. When he retired, he took up property in the South Toowong area, dying at *Mobolon* in 1911.
 
 
 ## Acknowledgements
@@ -150,7 +150,7 @@ Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
 2: Ochert, M. “Sali Mendelsohn” Australian Jewish Historical Society Journal
 
-3: Maclean, H. (ed.) Extraordinary Lives of Ordinary People, Toowong, Friends of Toowong Cemetery Association Inc. 1999
+3: Maclean, H. (ed.) [Extraordinary Lives of Ordinary People](../about/extraordinary-stories.md), Toowong, Friends of Toowong Cemetery Association Inc. 1999
 
 
 <div class="noprint" markdown="1">
