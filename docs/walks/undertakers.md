@@ -44,7 +44,7 @@ hide:
 
 ## Further Reading 
 
-- Maclean, H. 2012 ‘The Undertakers’ Picnic’ in England, M. (comp.) Toowong 1863 – 2011. Toowong, Qld. Toowong History Group
+- Maclean, H. 2012 ‘The Undertakers’ Picnic’ in England, M. (comp.) [Toowong 1863 – 2011](http://www.toowong.org.au/books_for_sale.htm). Toowong, Qld. Toowong History Group
 - Nolan, C. 2009 A family undertaking: Alex Gow Funerals The history of a funeral business 1840-2009. Newstead, Qld. Alex Gow Pty Ltd.
 
 ## Acknowledgements
