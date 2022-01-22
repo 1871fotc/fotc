@@ -30,7 +30,7 @@ The first member of his family born in Australia in 1854, Andrew Lang Petrie rel
 
 ## George Harpur Jones <small>(13‑15‑7)</small>
 
-George and family migrated from Croyde, Devon in 1880 and made their residence at Jonesville, Norwood St, Toowong. Formerly, George had been a sea captain, but supported his family by being a grave digger at Toowong Cemetery. He and his family were active members of the Brethren Church.
+George and family migrated from Croyde, Devon in 1880 and made their residence at *Jonesville*, Norwood St, Toowong. Formerly, George had been a sea captain, but supported his family by being a grave digger at Toowong Cemetery. He and his family were active members of the Brethren Church.
 
 ??? directions "Directions" 
 
@@ -38,7 +38,7 @@ George and family migrated from Croyde, Devon in 1880 and made their residence a
 
 ## Munce Family <small>(9‑43‑11)</small>
 
-Irishman William John Munce died at his Toowong home Caltura in 1892 aged 77. Caltura, believed to be located at 82 Jephson Street, was named after the Ceylonese birthplace of his wife, Elizabeth who died at Sandgate in 1901. One of their daughters, Ada Kate, never married and died at Cultura in 1944 aged 78.
+Irishman William John Munce died at his Toowong home *Caltura* in 1892 aged 77. *Caltura*, believed to be located at 82 Jephson Street, was named after the Ceylonese birthplace of his wife, Elizabeth who died at Sandgate in 1901. One of their daughters, Ada Kate, never married and died at *Cultura* in 1944 aged 78.
 
 ??? directions "Directions" 
 
@@ -46,7 +46,7 @@ Irishman William John Munce died at his Toowong home Caltura in 1892 aged 77. Ca
 
 ## Charles Patterson <small>(13‑30‑10)</small>
 
-Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen, Scotland, Charles arrived in Queensland in 1871. He was a member of the Toowong Council until 1925, elected Mayor numerous times in this period. He proposed the construction of the median strip in High Street, now locally known as ‘Patterson’s Folly’, as he envisaged a divided highway ultimately leading to Ipswich. His Bon Accord sawmill was one of the first industries in Toowong, opening on the site of the present Toowong Tower in 1881. The Patterson family lived at Kinellar, still standing on the corner of Sherwood Road and Little Maryvale Street. They were members of the Presbyterian Congregation. Charles died in January 1926.
+Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen, Scotland, Charles arrived in Queensland in 1871. He was a member of the Toowong Council until 1925, elected Mayor numerous times in this period. He proposed the construction of the median strip in High Street, now locally known as ‘Patterson’s Folly’, as he envisaged a divided highway ultimately leading to Ipswich. His Bon Accord sawmill was one of the first industries in Toowong, opening on the site of the present Toowong Tower in 1881. The Patterson family lived at *Kinellar*, still standing on the corner of Sherwood Road and Little Maryvale Street. They were members of the Presbyterian Congregation. Charles died in January 1926.
 
 ![](../assets/high-street-toowong-ca1917.jpg){ width="70%" }
 
@@ -58,7 +58,12 @@ Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen,
 
 ## Robert Cribb <small>(9‑37‑6)</small>
 
-Robert came to the Colony of Queensland aboard the Fortitude in January 1849. He bought land in 1852 and built Lang Farm which stretched from the hilly part of Indooroopilly Road towards Jack Cook Park and down to the River. He cleared the pine trees and vines growing along Toowong Creek, growing oranges, cabbages, grapes, mulberries and olives. Land Farm was bought by Richard Gailey, who built his mansion Glen Olive on the riverbank. Robert was appointed to the first Toowong Shire Council in 1880. He died on 16 April 1893 aged 88.
+Robert came to the Colony of Queensland aboard the *Fortitude* in January 1849. He bought land in 1852 and built Lang Farm which stretched from the hilly part of Indooroopilly Road towards Jack Cook Park and down to the River. He cleared the pine trees and vines growing along Toowong Creek, growing oranges, cabbages, grapes, mulberries and olives. Land Farm was bought by Richard Gailey, who built his mansion *Glen Olive* on the riverbank. Robert was appointed to the first Toowong Shire Council in 1880. He died on 16 April 1893 aged 88.
+
+![](../assets/robert-cribb.jpg){ width="25.4%" }  ![](../assets/glen-olive-1893-flood.jpg){ width="68%" }
+
+*<small>[Robert Cribb](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218813510002061) State Library of Queensland </small>* <br>
+*<small>[Houses submerged in the 1893 flood waters at Toowong, Brisbane, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220473300002061) - State Library of Queensland. Richard Gailey’s Glen Olive can be seen in the distance. </small>*
 
 ??? directions "Directions" 
 
@@ -66,7 +71,7 @@ Robert came to the Colony of Queensland aboard the Fortitude in January 1849. He
 
 ## Henry Howard Payne <small>(9‑11‑15/16)</small>
 
-Henry landed in Brisbane aboard the Waterloo on 7 January 1850. He farmed maize, lucerne and fruit on land stretching west from the Regatta Hotel. Henry was appointed to the first Toowong Shire Council in 1880. He died on 18 February 1903 aged 82.
+Henry landed in Brisbane aboard the *Waterloo* on 7 January 1850. He farmed maize, lucerne and fruit on land stretching west from the Regatta Hotel. Henry was appointed to the first Toowong Shire Council in 1880. He died on 18 February 1903 aged 82.
 
 ??? directions "Directions" 
 
@@ -74,7 +79,7 @@ Henry landed in Brisbane aboard the Waterloo on 7 January 1850. He farmed maize,
 
 ## John Melville <small>(9‑10‑4)</small>
 
-John Melville, the first overseer, devoted most of his life to Toowong Cemetery. He was born in Hertfordshire in 1834 and in 1848 came to Queensland with his parents under the guidance of Dr John Dunmore Lang aboard the Fortitude. In 1851 when the gold diggings broke out in Victoria, Melville went, to try his luck but returned to Brisbane at Christmas 1854 to visit his family. He then met Augustus Gregory and was asked to join his Great Northern exploration party for the purpose of exploring the Victoria and Albert Rivers, an invitation which he accepted. 
+John Melville, the first overseer, devoted most of his life to Toowong Cemetery. He was born in Hertfordshire in 1834 and in 1848 came to Queensland with his parents under the guidance of Dr John Dunmore Lang aboard the *Fortitude*. In 1851 when the gold diggings broke out in Victoria, Melville went, to try his luck but returned to Brisbane at Christmas 1854 to visit his family. He then met Augustus Gregory and was asked to join his Great Northern exploration party for the purpose of exploring the Victoria and Albert Rivers, an invitation which he accepted. 
 
 After returning from the expedition Melville was engaged in survey work until 1871 when he acted as chainman to George Phillips, who had been engaged to survey part of the present cemetery at Toowong and in 1873 he was appointed overseer of the cemetery by the Trustees which position he held for 38 years. He was succeeded in his position by his son J. L. Melville. 
 
@@ -102,7 +107,7 @@ James was elected to the Toowong Shire Council in 1885. He was described by cont
 
 ## Francis Drummond Grenville Stanley <small>(9‑32‑6)</small>
 
-A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand houses, including Sidney House, demolished to make way for the ABC Studios, Ardencraig, which stood on Golding St and Easton Gray (1869) the residence of Sir Arthur Palmer. He also designed the heritage-listed [St Thomas Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600336) on High Street, Toowong.
+A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand houses, including *Sidney House*, demolished to make way for the ABC Studios, *Ardencraig*, which stood on Golding St and *Easton Gray* (1869) the residence of Sir Arthur Palmer. He also designed the heritage-listed [St Thomas Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600336) on High Street, Toowong.
 
 ![](../assets/st-thomas-church-toowong-ca1917.jpg){ width="70%" }
 
@@ -114,7 +119,7 @@ A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand ho
 
 ## John Fewings <small>(9‑30‑22/23)</small>
 
-Fewings’ memoirs Arcadian Simplicity, written in 1892, described life in Toowong from the 1860s. He lived at Karslake, on Sherwood Road, near Dovercourt. He was headmaster of the Petrie Terrace School for nearly 30 years before moving to the headship of the Fortitude Valley School, which he held until his retirement in 1903.
+Fewings’ memoirs *Arcadian Simplicity*, written in 1892, described life in Toowong from the 1860s. He lived at *Karslake*, on Sherwood Road, near *Dovercourt*. He was headmaster of the Petrie Terrace School for nearly 30 years before moving to the headship of the Fortitude Valley School, which he held until his retirement in 1903.
 
 ??? directions "Directions" 
 
@@ -122,7 +127,7 @@ Fewings’ memoirs Arcadian Simplicity, written in 1892, described life in Toowo
 
 ## Thomas Finney <small>(13‑81‑6)</small>
 
-[Thomas Finney](https://adb.anu.edu.au/biography/finney-thomas-3518) and his family lived in Sidney House (on the site of the former ABC Studios in Toowong) from 1882, one of the grandest houses in Toowong, surrounded by gardens and an orchard. He is buried next to his business partner James Isles with whom he established Finney Isles & Co. in 1864.
+[Thomas Finney](https://adb.anu.edu.au/biography/finney-thomas-3518) and his family lived in *Sidney House* (on the site of the former ABC Studios in Toowong) from 1882, one of the grandest houses in Toowong, surrounded by gardens and an orchard. He is buried next to his business partner James Isles with whom he established Finney Isles & Co. in 1864.
 
 ![](../assets/sidney-house-toowong-1890.jpg){ width="70%" }
 
@@ -143,7 +148,7 @@ assets/sidney-house-toowong.pdf
 
 ## Sir Arthur Palmer <small>(13‑88-7)</small>
 
-Arthur arrived from Ireland in 1838 aged 19, spending his early years on properties in New England before moving to Queensland in 1861. Entering the Legislative Assembly in 1866, achieving Ministerial Positions in Lands, Works, Public Instruction becoming Colonial Secretary and Premier from 1870—1874. From 1881—1898 he was President of the Legislative Council. Palmer was a proprietor of the Brisbane Courier and a Trustee of the Queensland Museum. The Palmer family lived at Easton Gray on Stanley Terrace.
+Arthur arrived from Ireland in 1838 aged 19, spending his early years on properties in New England before moving to Queensland in 1861. Entering the Legislative Assembly in 1866, achieving Ministerial Positions in Lands, Works, Public Instruction becoming Colonial Secretary and Premier from 1870—1874. From 1881—1898 he was President of the Legislative Council. Palmer was a proprietor of the Brisbane Courier and a Trustee of the Queensland Museum. The Palmer family lived at *Easton Gray* on Stanley Terrace.
 
 ??? directions "Directions" 
 
@@ -163,7 +168,7 @@ Richer Street, on the North West boundary of Toowong Cemetery, is named after Wi
 
 ## Charles Siemon <small>(12‑21‑5)</small>
 
-The Siemon family, which included six children, lived at Ravensfield on Coronation Drive and ran a dairy farm, grazing their cows on land near the Regatta Hotel until the 1930s. In 1904, the Charles bought [Milton House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600253) which they subsequently sold to the Presbyterian Church. Charles owned extensive warehouses, factories and businesses in Brisbane and was a Toowong Town Councillor.
+The Siemon family, which included six children, lived at *Ravensfield* on Coronation Drive and ran a dairy farm, grazing their cows on land near the Regatta Hotel until the 1930s. In 1904, the Charles bought *[Milton House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600253)* which they subsequently sold to the Presbyterian Church. Charles owned extensive warehouses, factories and businesses in Brisbane and was a Toowong Town Councillor.
 
 <!--
 ![](../assets/ravensfield-toowong-1911.jpg){ width="70%" }
@@ -193,9 +198,9 @@ Jessie Philp, née Campbell was buried here in 1890. She was a 34‑year‑old p
 
 The next two burials here were of infant grandchildren of Robert and Jessie. In 1916, Jessie Ruth Henderson (known as Ruth) died from an unknown illness at the age of two. Twelve months later, an unnamed stillborn Henderson baby was also buried here. 
 
-In 1922, when Robert Philp – by then Sir Robert – died, he was buried beside Jessie, although he had married for a second time in 1898. He had a long and distinguished parliamentary career, including twice being Premier of Queensland. He was also a well‑known businessman and co‑founder of Burns, Philp and Company. He lived at Mallow in Kensington Terrace, Toowong – now the site of the Brisbane Boys’ College boarding houses and dining room. 
+In 1922, when Robert Philp – by then Sir Robert – died, he was buried beside Jessie, although he had married for a second time in 1898. He had a long and distinguished parliamentary career, including twice being Premier of Queensland. He was also a well‑known businessman and co‑founder of Burns, Philp and Company. He lived at *Mallow* in Kensington Terrace, Toowong – now the site of the Brisbane Boys’ College boarding houses and dining room. 
 
-The last burial in this grave took place in 1962 when Robert and Jessie’s eldest daughter Isabella Mary (known as May) died. She was 83 and had never married, though she had been engaged to Campbell Cowley from another Toowong family. From the age of 11, when her mother died, May looked after her younger brothers and sisters and later their children and grandchildren. She had a great interest in education, and was a benefactor to institutions like the University as well as providing books and cultural experiences for her extended family. Country nieces stayed with “Aunty May” to attend high school in Brisbane. She lived at Mallow until her death, and left the home and remaining grounds to BBC.
+The last burial in this grave took place in 1962 when Robert and Jessie’s eldest daughter Isabella Mary (known as May) died. She was 83 and had never married, though she had been engaged to Campbell Cowley from another Toowong family. From the age of 11, when her mother died, May looked after her younger brothers and sisters and later their children and grandchildren. She had a great interest in education, and was a benefactor to institutions like the University as well as providing books and cultural experiences for her extended family. Country nieces stayed with “Aunty May” to attend high school in Brisbane. She lived at *Mallow* until her death, and left the home and remaining grounds to BBC.
 
 ??? directions "Directions" 
 
