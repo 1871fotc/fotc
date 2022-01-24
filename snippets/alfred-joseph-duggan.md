@@ -2,7 +2,7 @@
 
 Alfred Joseph Duggan was an assistant to Mr. Trouton, a chemist. The Chemist shop was on the [corner of George and Queen street](https://trove.nla.gov.au/newspaper/article/173512329?searchTerm=Trouton%20chemist), Brisbane, and was a "*[Direct Importer of PURE DRUGS and CHEMICALS](https://trove.nla.gov.au/newspaper/article/3618576?searchTerm=Trouton%20chemist)"*. 
 
-![](../assets/queen-and-george-street-ca1900.jpg){ width="70%" } 
+![](../assets/queen-and-george-street-ca1900.jpg){ width="82%" } 
 
 *<small>[Queen Street, looking north from George Street, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220189140002061) - State Library of Queensland</small>*
 
@@ -28,9 +28,12 @@ Other sources use the name, *"Alfred Joseph Duggan"*, so it is unclear why the h
 
 Alfred died [intestate](https://trove.nla.gov.au/newspaper/article/3438912?searchTerm=%22Alfred%20Duggan%22) and *"all the land, goods, chattels, credits, and effects"* of [under £35](https://trove.nla.gov.au/newspaper/article/19797033?searchTerm=%22Alfred%20Duggan%22) were given to his spinster sister, Miss Frances Lilian Duggan. Ironically, the two newspaper reports also mixed his sister's first and middle names.
 
-![](../assets/penny-farthing-race-toowong.jpg)
+![](../assets/penny-farthing-race-toowong.jpg){ width="68.1%" }  ![](../assets/g-stombuco-and-penny-farthing.jpg){ width="27.4%" } 
 
-*<small>[Bicycle racing at Toowong, Brisbane, Queensland, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220537210002061). Bicycle racing on a circular track at the Toowong Sportsground, around 1885. Photograph is taken from R. L. Drew's house, 15 Union Street, Taringa (the current site of the Brisbane Boys' College) - State Library of Queensland. Cropped. </small>*
+*<small>[Bicycle racing at Toowong, Brisbane, Queensland, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220537210002061). Bicycle racing on a circular track at the Toowong Sportsground, around 1885. Photograph is taken from R. L. Drew's house, 15 Union Street, Taringa (the current site of the Brisbane Boys' College) - State Library of Queensland. Cropped. </small>* <br>
+*<small>[Cyclist posing with a penny farthing bicycle, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218490680002061). Possibly G. Stombuco (who was a prize winner in the first Brisbane Amateur Cycling Club race) - State Library of Queensland</small>*
+
+
 
 ### Read more about bicycles in Brisbane
 
