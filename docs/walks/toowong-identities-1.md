@@ -65,6 +65,11 @@ Robert came to the Colony of Queensland aboard the *Fortitude* in January 1849. 
 *<small>[Robert Cribb](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218813510002061) State Library of Queensland </small>* <br>
 *<small>[Houses submerged in the 1893 flood waters at Toowong, Brisbane, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220473300002061) - State Library of Queensland. Richard Gailey’s Glen Olive can be seen in the distance. </small>*
 
+![](../assets/glen-olive-garden-estate.jpg){ width="45%" }
+
+*<small>[Glen Olive Garden Estate on the river bank Toowong](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21119287420002061) - State Library of Queensland. This show the site of the Glen Olive house and grounds. </small>*
+
+
 ??? directions "Directions" 
 
     Continuing left along the same row you will come to ...
