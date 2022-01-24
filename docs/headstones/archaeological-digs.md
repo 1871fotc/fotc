@@ -1,3 +1,10 @@
+---
+search:
+  boost: 1
+title: Archaeological Digs
+description: Uncovering stories from the past 
+---
+
 # Archaeological Digs
 
 Friends of Toowong Cemetery, in conjunction with the [University of Queensland Archaeology Department](https://social-science.uq.edu.au/undergraduate/archaeology), have been searching for buried headstones in the cemetery grounds since 2006.
