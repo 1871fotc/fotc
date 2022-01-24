@@ -6,17 +6,17 @@ hide:
 
 # The Irish  
 
+The original Irish tour occurred in 1988 during the Bi-Centennial Celebrations, under the auspices of the Genealogical Society of Queensland Irish Group with Chair man and Researcher David Larkin as tour guide. That tour took in 31 monuments across a number of portions of the cemetery. Some of the more important figures on Mt Blackall are included on other Friends of Toowong Cemetery walks and so this tour is confined to the Roman Catholic Portions 7, 7a and 15 with 17 memorials to visit. The walk takes approximately one hour and 30 minutes. The walk was revised and corrected early 2014 by Darcy Maddock.
 
 ## Anne Devoy <small>(7‑7‑34)</small>
 
-1817‑1908 
+1817‑[1908](https://trove.nla.gov.au/newspaper/article/19550487?searchTerm=anne%20Devoy) 
 
 Born at Donadea near Hodgetown Co. Kildare, Devoy was the daughter of James and Honor Reilly. Her mother was the daughter of the Countess de Farnton, who escaped the guillotine in the French Revolution, and fled to Ireland to take up refuge with her friend, the Earl of Kildare at Castle Kilkea. 
 
 Anne married Patrick Devoy and with the union came the “curse of the Devoys”. This had been placed on a Devoy of Huguenot stock who turned in a Catholic priest to Cromwell’s men. As he was taken away, the priest blessed all the Devoy women and cursed the men so that no male Devoy would live to see his son in manhood. 
 
-The Devoys arrived in Queensland in 1864 on the *Landsborough* after selling their land in Ireland to the Ursuline nuns. They brought a young family with them; John (later Managing Director of Castlemaine Perkins), Marguerite and Annie. In the tradition of the curse Pat was killed the same year by a landslide while selecting land near Toowoomba.
-
+The Devoys arrived in Queensland in 1864 on the *Landsborough* after selling their land in Ireland to the Ursuline nuns. They brought a young family with them; John (later Managing Director of Castlemaine Perkins), Marguerite and Annie. In the tradition of the curse [Pat was killed the same year by a landslide](https://trove.nla.gov.au/newspaper/article/123149288?searchTerm=Patrick%20Devoy) while selecting land near Toowoomba.
 
 ![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
 
@@ -31,9 +31,9 @@ The Devoys arrived in Queensland in 1864 on the *Landsborough* after selling the
 
 1828‑1902  
 
-Born in Tyrone, the son of Joseph and Ann (1803‑1883), Darragh arrived in Sydney on 29 April 1850 with his wife, Eliza Grimes They moved to Brisbane where he was a butcher at Kangaroo Point from 1853 to 1902. Darragh Street was named for the family before 1874, and when he died Darragh was ‘of Independent Means’. 
+Born in Tyrone, the son of Joseph and Ann (1803‑1883), Darragh arrived in Sydney on 29 April 1850 with his wife, Eliza Grimes They moved to Brisbane where he was a butcher at Kangaroo Point from 1853 to 1902. Darragh Street was named for the family before 1874, and when he died, Darragh was ‘of Independent Means’. 
 
-Darragh’s brothers were also businessmen in Brisbane. James (1831‑1905) was a publican of the Logan Hotel, Main St, Kangaroo Point and the Sportsman’s Arms in Queen St while Hugh (1839—1916) was also a butcher.
+Darragh’s brothers were also businessmen in Brisbane. James (1831‑1905) was a publican of the Logan Hotel, Main St, Kangaroo Point and the Sportsman’s Arms in Queen St, while Hugh (1839—1916) was also a butcher.
 
 ![](../assets/sportsmans-arms-hotel.jpg){ width="70%" }  
 
