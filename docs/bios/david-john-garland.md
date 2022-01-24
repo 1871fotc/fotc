@@ -2,6 +2,7 @@
 hide:
   - toc
   - navigation
+description: The Architect of ANZAC Day  
 ---
 
 # David John Garland 
