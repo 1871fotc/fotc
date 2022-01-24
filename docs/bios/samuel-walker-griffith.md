@@ -2,6 +2,7 @@
 hide:
   - toc
   - navigation
+description: Chief Justice, Premier, and Author of much of the Australian Constitution
 ---
 
 # Samuel Walker Griffith

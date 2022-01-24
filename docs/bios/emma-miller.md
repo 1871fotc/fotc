@@ -2,6 +2,7 @@
 hide:
   - toc
   - navigation
+description: Mother of the Australian Labor Party
 ---
 
 # Emma Miller

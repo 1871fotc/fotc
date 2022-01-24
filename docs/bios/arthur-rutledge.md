@@ -2,6 +2,7 @@
 hide:
   - toc
   - navigation
+description: Supporter of the federation of the colonies and an opponent of the Northern Separatist movement
 ---
 
 # Arthur Rutledge
