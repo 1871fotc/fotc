@@ -1,6 +1,8 @@
 ---
 search:
   boost: 1
+title: Headstone Signs
+description: Learn about signs on headstones and their connection to friendly societies, guilds and secretive orders 
 ---
 
 #  Headstone Signs
