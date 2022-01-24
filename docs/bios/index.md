@@ -43,10 +43,10 @@ description: Biographies of people interred at Toowong Cemetery
 | Kevin Izod           | **[O’Doherty](kevin-izod-odoherty.md)**   |     | 1823-mm-dd | 1905-mm-dd | 7‑58‑27    | 
 | Elizabeth            | **[Dale](elizabeth-dale.md)**             |     | 1865-mm-dd | 1905-01-31 | 1‑148‑29   |  
 | William Walter       | **[Brown](william-walter-brown.md)**      |     | 1911-11-02 | 2004-01-31 | 18‑25‑47B  |  
+| Alfred Joseph        | **[Duggan](alfred-joseph-duggan.md)**     |     | 1864‑mm‑dd | 1884-11-20 | 7‑52‑5 | 
+
 
 <!--
-
-| Samuel Wensley      | **[Blackall](samuel-wensley-blackall.md)** | 1868‑08‑14 | 1871-01-02 | Mount Blackall | 
 
 | Edward               | McGregor                                  | yyyy-mm-dd | 1939-mm-dd | 4‑16‑17/18 | <!-- Actors ->
 | Sidney               | Cook                                      | yyyy-mm-dd | 1937-03-23 | 4‑35‑14    | 
