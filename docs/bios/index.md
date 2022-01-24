@@ -28,7 +28,7 @@ description: Biographies of people interred at Toowong Cemetery
 | Thomas  | **[Macdonald‑Paterson](thomas-macdonald‑paterson.md)** |     | 1844‑05‑09 | 1906‑03‑21 | 12‑53-10   |  
 | Emma                 | **[Miller](emma-miller.md)**              |     | 1839‑06‑dd | 1917‑mm‑dd | 13‑6‑5/6   | <!-- Labor -->
 | Thomas               | **[Glassey](thomas-glassey.md)**          |     | 1844‑02‑26 | 1936‑09‑28 | 11‑22‑1    | 
-| William Henry        | **[Brown](william-henry-browne.md)**      |     | 1846‑09‑13 | 1904‑04‑12 | 11‑51‑3    | 
+| William Henry        | **[Browne](william-henry-browne.md)**      |     | 1846‑09‑13 | 1904‑04‑12 | 11‑51‑3    | 
 | John Gordon          | **[Smith](john-gordon-smith.md)**         |     | 1863‑mm‑dd | 1921‑06‑21 | 11‑53‑5/6  | 
 | Anderson             | **[Dawson](anderson-dawson.md)**          |     | 1863‑07‑16 | 1910‑07‑20 | 11‑56‑1    | 
 | David                | **[Bowman](david-bowman.md)**             |     | 1860‑08‑04 | 1916‑02‑25 | 11‑76‑12/13| 
