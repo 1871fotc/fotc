@@ -1,6 +1,6 @@
 ## Alfred Joseph Duggan <small>(7‑52‑5)</small>
 
-Alfred Joseph Duggan was an assistant to Mr. Trouton, a chemist. The Chemist shop was on the [corner of George and Queen street](https://trove.nla.gov.au/newspaper/article/173512329?searchTerm=Trouton%20chemist), Brisbane, and was a "*[Direct Importer of PURE DRUGS and CHEMICALS](https://trove.nla.gov.au/newspaper/article/3618576?searchTerm=Trouton%20chemist)"*. 
+Alfred Joseph Duggan was an assistant to Mr. Trouton, a chemist. The Chemist shop was on the [corner of George and Queen street](https://trove.nla.gov.au/newspaper/article/173512329?searchTerm=Trouton%20chemist), Brisbane, and was a "*[Direct Importer of Pure Drugs and Chemicals](https://trove.nla.gov.au/newspaper/article/3618576?searchTerm=Trouton%20chemist)"*. 
 
 ![](../assets/queen-and-george-street-ca1900.jpg){ width="82%" } 
 
@@ -30,12 +30,12 @@ Alfred died [intestate](https://trove.nla.gov.au/newspaper/article/3438912?searc
 
 ![](../assets/penny-farthing-race-toowong.jpg){ width="68.1%" }  ![](../assets/g-stombuco-and-penny-farthing.jpg){ width="27.4%" } 
 
-*<small>[Bicycle racing at Toowong, Brisbane, Queensland, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220537210002061). Bicycle racing on a circular track at the Toowong Sportsground, around 1885. Photograph is taken from R. L. Drew's house, 15 Union Street, Taringa (the current site of the Brisbane Boys' College) - State Library of Queensland. Cropped. </small>* <br>
+*<small>[Bicycle racing at Toowong, Brisbane, Queensland, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220537210002061). Bicycle racing on a circular track at the Toowong Sportsground, around 1885. Photograph is taken from R. L. Drew's house, 15 Union Street, Taringa (now the site of the Brisbane Boys' College) - State Library of Queensland. Cropped. </small>* <br>
 *<small>[Cyclist posing with a penny farthing bicycle, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218490680002061). Possibly G. Stombuco (who was a prize winner in the first Brisbane Amateur Cycling Club race) - State Library of Queensland</small>*
 
 
 
-### Read more about bicycles in Brisbane
+### Read more about bicycles in Brisbane in the 1800's
 
 - [Bicycles and Tricycles](https://trove.nla.gov.au/newspaper/article/19793260/2247447) - *The Queenslander*, 8 September 1883. The article mentions electric bicycles and argues that the *"art of cycling was essential to the national wealth."*
 - [Amateur Cycling Club](https://trove.nla.gov.au/newspaper/article/3432330?searchTerm=Amateur%20Cycling%20Club) - *The Brisbane Courier*, 23 July 1884. At the first race meeting of the Brisbane Amateur Cycling Club, *"it was proposed to have an Umbrella Race (without handles)"* but nearly every rider declined to enter.
