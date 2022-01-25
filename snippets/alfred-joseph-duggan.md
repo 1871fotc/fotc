@@ -43,4 +43,7 @@ Alfred died [intestate](https://trove.nla.gov.au/newspaper/article/3438912?searc
 
 <!--
 [Alfred Joseph Duggan](https://www.timetravelclub.com.au/2021/08/death-rides-penny-farthing.html)
+[Curious bicycle](https://trove.nla.gov.au/newspaper/article/79279173?searchTerm=safety%20bicycle)
+[Unicycle](https://trove.nla.gov.au/newspaper/article/79309219?searchTerm=safety%20bicycle)
+[Companion](https://trove.nla.gov.au/newspaper/article/79201031?searchTerm=safety%20bicycle)
 -->
