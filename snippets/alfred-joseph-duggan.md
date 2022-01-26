@@ -38,12 +38,24 @@ Alfred died [intestate](https://trove.nla.gov.au/newspaper/article/3438912?searc
 ### Read more about bicycles in Brisbane in the 1800's
 
 - [Bicycles and Tricycles](https://trove.nla.gov.au/newspaper/article/19793260/2247447) - *The Queenslander*, 8 September 1883. The article mentions electric bicycles and argues that the *"art of cycling was essential to the national wealth."*
-- [Amateur Cycling Club](https://trove.nla.gov.au/newspaper/article/3432330?searchTerm=Amateur%20Cycling%20Club) - *The Brisbane Courier*, 23 July 1884. At the first race meeting of the Brisbane Amateur Cycling Club, *"it was proposed to have an Umbrella Race (without handles)"* but nearly every rider declined to enter.
+- [Amateur Cycling Club](https://trove.nla.gov.au/newspaper/article/3432330?searchTerm=Amateur%20Cycling%20Club) - *The Brisbane Courier*, 23 July 1884. At the first race meeting of the Brisbane Amateur Cycling Club, *"it was proposed to have an Umbrella Race (without handles)"* [^1] but nearly every rider declined to enter.
 - [Brisbane Amateur Cycling Club](https://trove.nla.gov.au/newspaper/article/174680451?searchTerm=Amateur%20Cycling%20Club) - *The Telegraph*, 28 July 1884. The results of the first race meeting of the Brisbane Amateur Cycling Club at the Toowong Sports Ground where Lieutenant-Colonel Blaxland *"gave general satisfaction as starter"*.
 
+[^1]: Each rider in the umbrella race had to “ride the hundred yards, and then raise his umbrella and return with it over his head - [The rise and fall of Richmond's cycling empire](https://richmond.com/the-rise-and-fall-of-richmonds-cycling-empire/article_90558ca2-2663-56a2-8e7f-4d854e58fab7.html)
 <!--
 [Alfred Joseph Duggan](https://www.timetravelclub.com.au/2021/08/death-rides-penny-farthing.html)
 [Curious bicycle](https://trove.nla.gov.au/newspaper/article/79279173?searchTerm=safety%20bicycle)
 [Unicycle](https://trove.nla.gov.au/newspaper/article/79309219?searchTerm=safety%20bicycle)
 [Companion](https://trove.nla.gov.au/newspaper/article/79201031?searchTerm=safety%20bicycle)
+
+Some of the competitors in the first Brisbane Amateur Cycling Club race are buried in Toowong Cemetery (TBC)
+
+- Thomas Ballantine Aird (12-9-11)
+- Herbert Walter Atkinson (28-72-28)
+- Frederick William Geddes (1-147-15)
+- Arthur Cecil Palmer (13-88-3)
+- 
+
+Elite photographs
+
 -->
