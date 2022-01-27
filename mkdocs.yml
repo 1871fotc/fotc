@@ -19,19 +19,19 @@ theme:
     text: Raleway
     code: Roboto Mono 
   palette:
-    - scheme: default
-      primary: deep-purple
-      accent: purple
-      toggle:
-        icon: octicons/sun-16
-        name: Switch to dark mode
+#    scheme: default
+    primary: deep-purple
+    accent: purple
+#      toggle:
+#        icon: octicons/sun-16
+#        name: Switch to dark mode
 #    - scheme: ghost
-    - scheme: slate
-      primary: purple
-      accent: purple
-      toggle:
-        icon: custom/ghost
-        name: Switch to light mode
+#    - scheme: slate
+#      primary: purple
+#      accent: purple
+#      toggle:
+#        icon: custom/ghost
+#        name: Switch to light mode
   icon:
     admonition:
       question: fontawesome/solid/hand-holding-heart
@@ -152,7 +152,7 @@ plugins:
         'home/home.md': 'index.md'
         'home/index.md': 'index.md'
 # comment out for local builds as cannot resolve missing dependencies
-  - social
+#  - social
 # 
 #      cards_font: Raleway
 #      cards_directory: assets/images/social
