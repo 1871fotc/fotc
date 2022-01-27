@@ -2,6 +2,7 @@
 hide:
   - toc
   - navigation
+description: The smoking, swearing lesbian surgeon that went to war 
 ---
 
 # Dr Lilian Voilet Cooper
