@@ -10,3 +10,6 @@
 
 # Source data files used to load GraphDB
 /source-data
+
+# Source documents
+/source-documents
