@@ -67,7 +67,7 @@ Markers can be seen on, or embedded into, graves. They represent the location of
 
 *<small>Grave markers found on the grass, separated from their grave.</small>*
 
-To map a marker to a grave, you need to look up old portion books. For example, Portion 1, Section 1, Grave 38 in the Portion Book page below, maps to Marker ZI 735, which is annonated with the name *"Gale"*. 
+To map a marker to a grave, you need to look up old portion books. For example, Portion 1, Section 1, Grave 38 in the Portion Book page below, maps to Marker ZI 735, which is annotated with the name *"Gale"*. 
 
 Searching for *"Gale"* in the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** you find, by looking at each entry for *"Gale"*, Ruby Mary Gale, who was buried in 1-1-38 on 24 November 1924.
 
