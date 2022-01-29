@@ -35,7 +35,7 @@ Thanks to everyone for their contributions on [Github](https://github.com/1871fo
 
 Run locally `$ mkdocs serve` to preview your site before publishing
 
-Build `$ mkdocs build` creates html files in \site
+Build `$ mkdocs build` creates html files locally in \site
 
 Deploy occurs when there is a commit to the main branch which triggers a [workflow](https://github.com/1871fotc/fotc/blob/main/.github/workflows/ci.yml)
 
