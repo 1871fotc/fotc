@@ -41,7 +41,7 @@ theme:
   features:
 #    - announce.dismiss
 # instant and announce seem to conflict with was this page helpful. Pick one. Works on Material for Mkdocs - look there. 
-#    - navigation.instant
+    - navigation.instant
     - navigation.tracking
     - navigation.top
     - navigation.tabs
@@ -153,12 +153,6 @@ plugins:
         'home/index.md': 'index.md'
 # comment out for local builds as cannot resolve missing dependencies
   - social
-# 
-#      cards_font: Raleway
-#      cards_directory: assets/images/social
-#      cards_color:
-#        fill: "#7e56c2"
-#        text: "#FFFFFF"
 
 # Page tree - only 2 levels allowed
 nav:
