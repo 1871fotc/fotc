@@ -78,7 +78,7 @@ This map will help you to **[find graves](finding-graves.md)**.  The map shows t
 
 [![](../assets/toowong-cemetery-map.png){ width="98%" }][map]
 
-*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by]. Highlights added.</small>*
+*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-search-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
 
 <!-- Map links -->
 
