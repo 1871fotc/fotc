@@ -93,12 +93,12 @@ Some road names have recently been changed to the names of notable people buried
 
 | New Road Name                              | Old Road Name | Notes                                                                |
 | :----------                                | :--------     | :---------                                                           |
-| **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
+| **[Walter Hill][Walter Hill]** Drive       | Boundary Road       | running parallel to Mt Coot-tha Road                                 |
 | **[Dr Lillian Cooper][Cooper]** Drive      | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
-| **[Francis Forde][Forde]** Avenue          | Boundary Road | running parallel to Birdwood Terrace closest to Frederick Street     |
-| **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street furthest from the main entrance |
-| Soldiers Parade                            | Boundary Road | running parallel to Frederick Street closest to the main entrance    |
+| **[Francis Forde][Forde]** Avenue          | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street     |
+| **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street  <br>furthest from the main entrance |
+| Soldiers Parade                            | Boundary Road | running parallel to Frederick Street  <br>closest to the main entrance    |
 | **[Steele Rudd][Rudd]** Avenue             | 4^th^ Avenue  |                                                                      |
 | **[Walter Ralstone][Ralstone]** Avenue     | 7^th^ Avenue  |                                                                      |
 | **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
