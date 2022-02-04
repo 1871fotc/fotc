@@ -12,14 +12,13 @@ hide:
 
 SERN: 5832 25^th^ BATT. AIF
 
-Born to Abraham Goodwin and Elizabeth Smith in Fremantle W.A. on 21/6/1885. He enlisted 20/6/1916 at the age of 23 years and  11 months.  He was employed as an Engineers Machinist. Frank embarked on the A36 Boonah and arrived in Plymouth 10/1/1917. Couple of months off colour and in France April 1917. Severe case of Trench foot got him back to England and then home by December 1917.
+Born to Abraham Goodwin and Elizabeth Smith in Fremantle W.A. on 21/6/1885. He enlisted 20/6/1916 at the age of 23 years and 11 months. He was employed as an Engineers Machinist. Frank embarked on the A36 Boonah and arrived in Plymouth 10/1/1917. Couple of months off colour and in France April 1917. Severe case of Trench foot got him back to England and then home by December 1917.
 
 ## Sergeant Arthur Leslie Middleton <small>(10‑43‑12)</small>
 
 SERN: 7437 42^nd^ BATT. AIF
 
-Born to Joseph Middleton and Sarah Jane Read in Ipswich 11/5/1894. He served in 11^th^ Inft. Citizen Forces and in Instructional Staff as a Staff Sergeant Major and 
-Sergeant in the AIF. He was a bootmaker by trade. He enlisted 1/3/1917 at just under 23 of years age. 
+Born to Joseph Middleton and Sarah Jane Read in Ipswich 11/5/1894. He served in 11^th^ Inft. Citizen Forces and in Instructional Staff as a Staff Sergeant Major and Sergeant in the AIF. He was a bootmaker by trade. He enlisted 1/3/1917 at just under 23 of years age. 
 
 ## Private John Crilly <small>(10‑41‑20)</small>
 
@@ -50,7 +49,7 @@ Shropshire. He was married to Edith Mary Raynor. He is listed as a miner in his 
 
 SERN: 5818 OXLEY REGT. & 9^th^ BATT.
 
-Michael was born to Irishman Michael Dalton and Allora, born Elizabeth Jane Smyth 22/10/1894. He  served to in the Oxley  Regt. in  Brisbane  prior  to the  war.
+Michael was born to Irishman Michael Dalton and Allora, born Elizabeth Jane Smyth 22/10/1894. He served to in the Oxley Regt. in Brisbane prior to the war.
 
 ## Private Frederick Nicholas Naughton <small>(10‑39‑12)</small>
 
@@ -65,7 +64,7 @@ SERN: 872 11^th^ L.H. 14/15 Star
 Frank was born to Frank August Ruthenberg and Mary Annie Bennett in Charter's Towers 19/9/1888. His service record shows him as a labourer his sister Vera Talbot as NOK.
 
 Both parents were deceased by his time of enlistment. By his record he served only in the Middle East. Died accidently.
-  
+ 
 ## David Gordon Rattray <small>(10‑39‑16)</small>
 
 SERN: 2492 47^th^ BATT.
