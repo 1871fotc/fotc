@@ -97,13 +97,15 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 ??? directions "Usage Tips" 
 
     - Click a column name to sort the table.
-    - An example of where the acronym can be found is shown in the Portion-Section-Grave column
-        - Where a Portion number is unknown, a placeholder value of "pp" is used
-        - Where a Section number is unknown, a placeholder value of "ss" is used
-        - Where a Grave number is unknown, a placeholder value of "gg" is used. Learn more about [finding graves at Toowong Cemetery](../cemetery/finding-graves.md).
+    - An example of where the acronym can be found is shown in the Location column
+        - where a Portion number is unknown, a placeholder value of "pp" is used
+        - where a Section number is unknown, a placeholder value of "ss" is used
+        - where a Grave number is unknown, a placeholder value of "gg" is used. 
+        
+    Learn more about [finding graves at Toowong Cemetery](../cemetery/finding-graves.md).
 
 
-| Acronym | Name                                                         | Organisation Type | Portion-Section-Grave |
+| Acronym | Name                                                         | Organisation Type | Location |
 |     --: | :--                                                          | :--               | :--                |
 | AHCG    | [Australasian Holy Catholic Guild][AHCG]                     | Friendly Society  | pp-ss-gg           |
 | AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society  | pp-ss-gg           |
