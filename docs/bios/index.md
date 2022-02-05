@@ -43,7 +43,7 @@ description: Biographies of people interred at Toowong Cemetery
 | Elizabeth            | **[Dale](elizabeth-dale.md)**             | 1865-mm-dd | 1905-01-31 | 1‑148‑29   |  
 | William Walter       | **[Brown](william-walter-brown.md)**      | 1911-11-02 | 2004-01-31 | 18‑25‑47B  |  
 | Alfred Joseph        | **[Duggan](alfred-joseph-duggan.md)**     | 1864‑mm‑dd | 1884-11-20 | 7‑52‑5     | 
-| Edward               | McGregor                                  | yyyy-mm-dd | 1939-mm-dd | 4‑16‑17/18 | <!-- Actors ->
+| Edward               | McGregor                                  | yyyy-mm-dd | 1939-mm-dd | 4‑16‑17/18 | <!-- Actors -->
 | Sidney               | Cook                                      | yyyy-mm-dd | 1937-03-23 | 4‑35‑14    | 
 | Samuel               | Keenan                                    | yyyy-mm-dd | yyyy-mm-dd | 2‑48‑7     | 
 | Henry William        | Mobsby                                    | 1860-08-17 | 1933-04-09 | 5‑61‑11    | 
@@ -51,7 +51,7 @@ description: Biographies of people interred at Toowong Cemetery
 | Thomas               | Macer (Megan)                             | yyyy-mm-dd | 1926-mm-dd | 21‑14‑3    | 
 | Arthur               | Aldridge                                  | 1873-mm-dd | 1929-11-03 | 23‑31‑14   | 
 | Kyrle Edward         | McAllister (Sylvaney)                     | yyyy-mm-dd | yyyy-mm-dd | 23‑31‑15   | 
-| George Barney        | Petrie                                    | 1839-mm-dd | 1878-06-21 | 13‑5‑3     | <!-- Undertakers ->
+| George Barney        | Petrie                                    | 1839-mm-dd | 1878-06-21 | 13‑5‑3     | <!-- Undertakers -->
 | Alex                 | Gow                                       | 1861-10-19 | 1919-05-02 | 13-59‑3/4  | 
 | John                 | Hislop                                    | yyyy-mm-dd | 1918-07-15 | 11‑68‑9    | 
 | Alma                 | Adlington                                 | 1856-mm-dd | 1891-05-04 | 7‑114‑5    | 
@@ -59,15 +59,82 @@ description: Biographies of people interred at Toowong Cemetery
 | Walter               | Barrett                                   | 1833-mm-dd | 1907-12-11 | 1‑31‑7/8   | 
 | Kate Mary            | Smith                                     | 1847-mm-dd | 1932-06-dd | 1‑7‑14     | 
 | Alfred               | Cannon                                    | yyyy-mm-dd | 1915-09-11 | 4‑1‑21/22  | 
-| Joseph               | Cripps                                    | 1849-mm-dd | 1849-01-15 | 4‑28‑6     | 
-| Le Fevre James       | Cranstone                                 | 1822-mm-dd | 1893-06-22 | 2A‑15‑22   | <!-- Artists ->
+| Joseph               | Cripps                                    | 1849-mm-dd | 1918-01-15 | 4‑28‑6     | 
+| Le Fevre James       | Cranstone                                 | 1822-mm-dd | 1893-06-22 | 2A‑15‑22   | <!-- Artists -->
 | Isaac Walter         | Jenner                                    | 1837-03-18 | 1902-03-01 | 5‑43‑16    | 
 | Richard Godfrey      | Rivers                                    | 1859-mm-dd | 1925-04-02 | 12‑24‑4    | 
 | Eliza Jeanettie      | Sheldon                                   | 1885-05-24 | 1974-mm-dd | 7‑95‑13/14 | 
 | Edwin Arthur Vincent | Sheldon                                   | 1895-mm-dd | 1945-mm-dd | 7‑95‑13/14 | 
+| Frank                | Goodwin                                   | 1885-06-21 | yyyy-mm-dd | 10‑43‑26   | <!-- 1919 -->
+| Arthur Leslie        | Middleton                                 | 1894-05-11 | yyyy-mm-dd | 10‑43‑12   | 
+| John                 | Crilly                                    | 1871-11-30 | yyyy-mm-dd | 10‑41‑20   | 
+| Joseph               | Leyton                                    | 1875-mm-dd | yyyy-mm-dd | 10‑41‑18   | 
+| Arthur               | Bann                                      | 1890-05-09 | yyyy-mm-dd | 10‑40‑18   | 
+| Frank Morgan         | Jones                                     | 1872-mm-dd | yyyy-mm-dd | 10‑40‑17   | 
+| Michael              | Dalton                                    | 1894-10-22 | yyyy-mm-dd | 10‑39‑24   | 
+| Frederick Nicholas   | Naughton                                  | 1883-mm-dd | yyyy-mm-dd | 10‑39‑12   | 
+| Frank Venton         | Rutherberg                                | 1888-09-19 | yyyy-mm-dd | 10‑39‑11   | 
+| David Gordon         | Rattray                                   | yyyy-mm-dd | yyyy-mm-dd | 10‑39‑16   | 
+| Thomas               | Morell                                    | yyyy-mm-dd | yyyy-mm-dd | 10‑39‑15   | 
+| Richard              | Whitby                                    | 1881-mm-dd | yyyy-mm-dd | 10‑39‑14   | 
+| William James        | Sluce                                     | 1832-03-25 | 1879-02-01 | 2‑6‑21     | <!-- 20/20 -->
+| John                 | Ogle                                      | 1824-mm-dd | 1890-19-26 | 1‑113‑3/4  | 
+| Mary Ann             | Ogle                                      | 1823-mm-dd | 1907-08-24 | 1‑113‑3/4  | 
+| George               | Loesch                                    | 1829-05-12 | 1887-10-21 | 7‑49‑12    | 
+| Frederick            | Loesch                                    | 1882-10-10 | 1929-02-03 | 7‑49‑12    | 
+| Iris Elizabeth       | Carson                                    | 1916-09-24 | 1918-03-25 | 15‑31‑9    | 
+| James Porter         | Fry                                       | 1880-03-10 | 1948-02-07 | 8‑31‑31/32 | 
+| Constance            | Campbell                                  | 1872-12-16 | 1926-07-04 | 8‑19‑16    | 
+| William John         | Harrhy                                    | yyyy-mm-dd | 1924-mm-dd | 4-16‑4     | <!-- Anchors Aweigh  -->
+| Jessie Blanche       | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9‑41‑1     | 
+| Jessie Lacy          | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9‑41‑1     | 
+| George               | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9‑41‑1     | 
+| Henry Lander         | Pethebridge                               | 1835-mm-dd | 1910-06-13 | 13‑4‑7     | 
+| George               | Davidson                                  | yyyy-mm-dd | 1888-04-29 | 13‑7‑1     | 
+| William              | Smith                                     | yyyy-mm-dd | 1872-mm-dd | 13‑6‑21    | 
+| Charles Stewart      | Thow                                      | yyyy-mm-dd | 1883-06-02 | 13‑16‑10   | 
+| David                | Muir                                      | 1824-mm-dd | yyyy-mm-dd | 13‑16‑12   | 
+| Tom George           | Johnson                                   | yyyy-mm-dd | 1912-10-02 | 14‑18‑4    | 
+| William              | Collin                                    | 1834-08-30 | 1914-01-dd | 12‑56‑22   | 
+| Archibald Edward     | Bartsch                                   | yyyy-mm-dd | 1942-03-04 | 10‑44‑20   | 
+| Henry                | Theeman                                   | yyyy-mm-dd | 1942-03-04 | 10‑41‑21   | 
+| Steward Eric Ross    | Harrison                                  | yyyy-mm-dd | 1942-03-04 | 10‑43‑7    | 
+| John                 | Burke                                     | 1842-mm-dd | 1919-06-03 | 7‑19‑1     | 
 
 <!--
 | firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | <!- next walk ->
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | <!- next walk ->
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+
+
+
+
+
+
+
+| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+
+
+
+
 -->
 
 <small>
