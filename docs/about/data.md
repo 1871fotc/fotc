@@ -23,11 +23,50 @@ Currently we have published the **[Biography Index](../bios/index.md)**.
 - [Toowong Cemetery Road Name](../cemetery/visit.md#road-name-changes)
 -->
 
+
+## Other Data
+
+Where practical, we link to authoritative data sources, rather than duplicate data. We encourage other data owners to publish their data as easily accessible open data. Other data we would like to reuse includes: 
+
+### Brisbane City Council data
+
+- **[Graves and Human Remains](https://graves.brisbane.qld.gov.au)** - who is buried in which grave and associated dates
+- **Cemetery Location data**:
+    - [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) is available as open open data
+    - Portion and Section boundaries 
+    - Cemetery Road casements - [centrelines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available as open open data
+    - Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road.
+    - Toowong Cemetery Main, Richer Street, and Frederick Street gates
+    - Surrounding Road casements - including roads running off the surrounding road to aid orientation 
+    - Cemetery Building outlines - Amenities, Workshop, Office, Museum and Shelter Sheds 
+    - [Waterways](https://www.spatial-data.brisbane.qld.gov.au/datasets/e0839d26d85a429c8f64669ba69cfae7_0/explore?location=-27.475527%2C152.983328%2C17.22) - Langsville Creek and [Flood risk](https://www.data.brisbane.qld.gov.au/data/dataset/flood_awareness_overland_flow) are available as open open data
+    - Governor Blackall and the Soldiers Memorial monument outlines
+    - [Contour lines](https://www.data.brisbane.qld.gov.au/data/dataset/contours-2002) - are  available as open data. These will help create a mobility map
+
+<!--
+- Bridges, Culverts and open Drains (polygon)
+
+### Other location data 
+      
+- Features of Interest (polygon or point) - Symbology display, honour board
+- Information Signs (point) - grave-side, walks, general information
+- Trees (point) - especially weed trees and those destroying graves
+- Historic Dam (polygon) - if exact [location](http://www.oncewasacreek.org/2014/08/up-hill-and-down-dale-where-did-elizabeth-drown/) is known
+- [Local Bus stops](https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-seq) 
+
+### Other data providers 
+        
+- State Library of Queensland - catalogue metadata, digital images
+- Queensland State Archives - catalogue metadata, documents and digital images
+- Trove - catalogue metadata and articles
+- DBpedia - entries
+
+-->
+
 ## Data Formats 
 
 Our data is published as:
 
-- HTML tables on this site
 - Comma Separated Value (.csv) data files 
 - [Tabular Data Packages](https://specs.frictionlessdata.io/tabular-data-package/) following the [Frictionless Data](https://frictionlessdata.io) specification. This is a .zip file that includes: 
 
@@ -35,7 +74,14 @@ Our data is published as:
     - a JSON [Table Schema](https://specs.frictionlessdata.io/table-schema/) file describing the structure of the data 
     - a [Markdown](https://commonmark.org/help/) file describing the provenance of the data
 
-We plan to experiment publishing our data as [Linked Data](https://en.wikipedia.org/wiki/Linked_data) to enable semantic queries and visualisations. 
+We plan to experiment publishing our data as [Linked Data](https://en.wikipedia.org/wiki/Linked_data) to enable semantic queries and visualisations. We are considering using the following specifications: 
+
+- [Bio vocabulary](https://vocab.org/bio/) [:fontawesome-brands-github:](https://github.com/iand/vocab-bio)
+- [Graves ontology](https://rdf.muninn-project.org/ontologies/graves.html)  [:fontawesome-brands-github:](https://github.com/muninn/graves) 
+
+<!-- hide link to v1 ontology 
+[:octicons-book-16:](graves-ontology.md)
+-->
 
 <!-- and provide it:
 
@@ -63,46 +109,6 @@ Data about graves could be linked to data about:
 
 -->
 
-## Other Data
-
-Where practical, we link to authoritative data sources, rather than duplicate data. We encourage other data owners to publish their data as easily accessible open data. Other data we would like to reuse includes: 
-
-### Brisbane City Council data
-
-- [Graves and Human Remains](https://graves.brisbane.qld.gov.au) - who is buried in which grave and associated dates
-- [Cemetery boundary](https://www.spatial-data.brisbane.qld.gov.au/datasets/d9879ce7dce842ce8d5d3b50e3b702bf_0/explore?location=-27.476664%2C152.985658%2C16.53) 
-- Portion boundaries 
-- Section boundaries 
-- Cemetery Road casements - [centrelines](https://www.spatial-data.brisbane.qld.gov.au/datasets/46bbc7521e7949f68ef4b69d87e89ebc_0/explore?location=-27.475228%2C152.985532%2C15.84) are available
-- Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road.
-- Toowong Cemetery Main, Richer Street, and Frederick Street gates
-- Surrounding Road casements - including roads running off the surrounding road to aid orientation 
-- Cemetery Building outlines - Amenities, Workshop, Office, Museum and Shelter Sheds 
-- [Waterways](https://www.spatial-data.brisbane.qld.gov.au/datasets/e0839d26d85a429c8f64669ba69cfae7_0/explore?location=-27.475527%2C152.983328%2C17.22) - Langsville Creek. [Flood risk](https://www.data.brisbane.qld.gov.au/data/dataset/flood_awareness_overland_flow) is also available
-- Governor Blackall and the Soldiers Memorial monument outlines
-- [Contour lines](https://www.data.brisbane.qld.gov.au/data/dataset/contours-2002) - these will help create a mobility map
-
-<!--
-- Bridges, Culverts and open Drains (polygon)
-
-### Other location data 
-      
-- Features of Interest (polygon or point) - Symbology display, honour board
-- Information Signs (point) - grave-side, walks, general information
-- Trees (point) - especially weed trees and those destroying graves
-- Historic Dam (polygon) - if exact [location](http://www.oncewasacreek.org/2014/08/up-hill-and-down-dale-where-did-elizabeth-drown/) is known
-- [Local Bus stops](https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-seq) 
-
---> 
-
-### Other data providers 
-        
-- State Library of Queensland - catalogue metadata, digital images
-- Queensland State Archives - catalogue metadata, documents and digital images
-- Trove - catalogue metadata and articles
-- DBpedia - entries
-
-### 
 
 <!--
 Geographic locations should be described as latitude, longitude coordinates in the [WGS84 datum](https://www.spatial.nsw.gov.au/__data/assets/pdf_file/0008/224396/WGS84_and_Australias_misaligned_web-maps_Information_Sheet.pdf) to aid integration and presentation on the web. Alternatively all data should be supplied in a common Datum, ideally [GDA2020](https://www.icsm.gov.au/gda2020), or  the dated GDA94.
@@ -146,9 +152,8 @@ We are considering [Vega-Lite](https://vega.github.io/vega-lite/) to specify our
 
 Dynamic visualisations we are considering include:
 
-- A biography explorer, traversing links from Person to Events, Organisations, and other People. This would traverse Linked Data stored using the [Bio vocabulary](https://vocab.org/bio/) [:fontawesome-brands-github:](https://github.com/iand/vocab-bio)
-- A cemetery explorer, traversing links from Person to their Remains, Grave and Headstone. This would traverse Linked Data stored using the [Graves Ontology Specification](https://rdf.muninn-project.org/ontologies/graves.html)  [:fontawesome-brands-github:](https://github.com/muninn/graves) [:octicons-book-16:](graves-ontology.md)
-
+- A biography explorer, traversing links from Person to Events, Organisations, and other People. This would traverse Linked Data stored using the Bio ontology. 
+- A cemetery explorer, traversing links from Person to their Remains, Grave and Headstone. This would traverse Linked Data stored using the Graves ontology.
 
 ## Data Consumers
 
