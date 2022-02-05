@@ -8,13 +8,14 @@ description: Biographies of people interred at Toowong Cemetery
 
 ??? directions "How to use the Index" 
 
-    - Click a column name to sort the table.
+    - Sort the table by clicking a column name.
+    - Also known as names are shown in brackets and italics.
     - Dates are formatted as yyyy-mm-dd (year, month, day) to help with sorting. Where a year, month or day is unknown, a placeholder value of "yyyy", "mm", or "dd" is used.
     - Location is in the Portion-Section-Grave format.
-    
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
         - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
-    - The Last Name links to the person's Biography which may include information beyond what is shown in the self-guided walk.
+    - The Last Name links to the person's Biography which may include information beyond what is shown in the self-guided walk. 
+        - We're progressively creating individual pages for each person - some Last Names don't have links yet.
 
 | Given Names          | Last Name                                 | Born       | Died       | Location   | 
 | ----------:          | :--------                                 |:---------  | :--------- | :--------- | 
@@ -47,10 +48,10 @@ description: Biographies of people interred at Toowong Cemetery
 | Sidney               | Cook                                      | yyyy-mm-dd | 1937-03-23 | 4‑35‑14    | 
 | Samuel               | Keenan                                    | yyyy-mm-dd | yyyy-mm-dd | 2‑48‑7     | 
 | Henry William        | Mobsby                                    | 1860-08-17 | 1933-04-09 | 5‑61‑11    | 
-| Karoly (Charles)     | Pulszky                                   | 1854-11-10 | 1899-06-05 | 5‑2‑3      | 
-| Thomas               | Macer (Megan)                             | yyyy-mm-dd | 1926-mm-dd | 21‑14‑3    | 
+| Karoly (*Charles*)     | Pulszky                                   | 1854-11-10 | 1899-06-05 | 5‑2‑3      | 
+| Thomas               | Macer (*Megan*)                             | yyyy-mm-dd | 1926-mm-dd | 21‑14‑3    | 
 | Arthur               | Aldridge                                  | 1873-mm-dd | 1929-11-03 | 23‑31‑14   | 
-| Kyrle Edward         | McAllister (Sylvaney)                     | yyyy-mm-dd | yyyy-mm-dd | 23‑31‑15   | 
+| Kyrle Edward         | McAllister (*Sylvaney*)                     | yyyy-mm-dd | yyyy-mm-dd | 23‑31‑15   | 
 | George Barney        | Petrie                                    | 1839-mm-dd | 1878-06-21 | 13‑5‑3     | <!-- Undertakers -->
 | Alex                 | Gow                                       | 1861-10-19 | 1919-05-02 | 13-59‑3/4  | 
 | John                 | Hislop                                    | yyyy-mm-dd | 1918-07-15 | 11‑68‑9    | 
@@ -100,40 +101,27 @@ description: Biographies of people interred at Toowong Cemetery
 | Henry                | Theeman                                   | yyyy-mm-dd | 1942-03-04 | 10‑41‑21   | 
 | Steward Eric Ross    | Harrison                                  | yyyy-mm-dd | 1942-03-04 | 10‑43‑7    | 
 | John                 | Burke                                     | 1842-mm-dd | 1919-06-03 | 7‑19‑1     | 
+| John                 | Petrie                                    | 1822-01-15 | 1892-12-08 | 13‑5‑3     | <!-- Brisbane Mayors -->
+| George               | Edmondstone                               | 1809-05-04 | 1883-02-23 | 13‑20‑5    | 
+| Thomas               | Proe                                      | yyyy-mm-dd | 1922-12-17 | 13‑35‑9    | 
+| John Daniel          | Heal                                      | 1825-01-18 | 1908-08-18 | 13‑40‑9    | 
+| John                 | Sinclair                                  | 1827-12-08 | 1906-05-05 | 9‑40‑5     | 
+| Alfred John          | Raymond                                   | yyyy-mm-dd | yyyy-mm-dd | 9‑32‑8     | 
+| James                | Swan                                      | 1811-mm-dd | 1891-05-26 | 9‑39‑8     | 
+| Richard Symes        | Warry                                     | 1829-mm-dd | 1891-03-12 | 13‑49‑22   | 
+| Richard              | Southall                                  | yyyy-mm-dd | yyyy-mm-dd | 13‑59‑12   | 
+| John                 | Hardgrave                                 | 1826-mm-dd | 1906-11-08 | 14‑22‑2/3  | 
+| Joshua               | Jeays                                     | 1881-03-11 | yyyy-mm-dd | 13‑62‑13   | 
+| William              | Pettigrew                                 | 1825-08-26 | 1906-10-28 | 13‑66‑2    | 
+| Archibald            | Watson                                    | yyyy-mm-dd | 1941-02-25 | 12‑13‑2    | 
+| William MacNaughton  | Galloway                                  | yyyy-mm-dd | 1895-01-12 | 7A‑41‑18   | 
+
+
+
 
 <!--
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | <!- next walk ->
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | <!- next walk ->
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-
-
-
-
-
-
 
 | firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
-
-
-
 
 -->
 
