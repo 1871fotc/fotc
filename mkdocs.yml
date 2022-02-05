@@ -127,9 +127,9 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 # custom icon - ghost in dark mode      
-      options:
-        custom_icons:
-          - overrides/.icons
+#      options:
+#        custom_icons:
+#          - overrides/.icons
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
@@ -154,7 +154,7 @@ plugins:
         'home/home.md': 'index.md'
         'home/index.md': 'index.md'
 # comment out for local builds as cannot resolve missing dependencies
-#  - social
+  - social
 
 # Page tree - only 2 levels allowed
 nav:
