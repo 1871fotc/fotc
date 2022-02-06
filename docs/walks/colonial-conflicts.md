@@ -41,7 +41,7 @@ Unveiled in May 1902, this is the first known [monument](https://placesofpride.a
 
 ## John Wyndon Lyon <small>(10‑65‑30)</small>
 
-Lyon was a member of the 2^nd^ Battalion, Natal Contingent and saw action at the Battle of Isandhlwana, Rorke's Drift, Gingalore, the relief of Ekouso and was awarded South African Medal. On 22 January 1879, the 1^st^ Battalion, 24th Regiment of Foot was attacked by Zulus and decimated, with some 858 members killed. A few soldiers were able to escape to the mission station at Rorke’s Drift. The Battle of Rorke’s Drift was depicted in the [1964 movie Zulu](https://en.wikipedia.org/wiki/Zulu_(1964_film)). Eight officers and 135 men successfully defended the station. Eleven Victoria Crosses were later issued, the most in any British battle. Lyon [died](https://trove.nla.gov.au/newspaper/article/1193194) on 21 April 1934 aged 81.
+Lyon was a member of the 2^nd^ Battalion, Natal Contingent and saw action at the Battle of Isandhlwana, Rorke's Drift, Gingalore, the relief of Ekouso and was awarded South African Medal. On 22 January 1879, the 1^st^ Battalion, 24^th^ Regiment of Foot was attacked by Zulus and decimated, with some 858 members killed. A few soldiers were able to escape to the mission station at Rorke’s Drift. The Battle of Rorke’s Drift was depicted in the [1964 movie Zulu](https://en.wikipedia.org/wiki/Zulu_(1964_film)). Eight officers and 135 men successfully defended the station. Eleven Victoria Crosses were later issued, the most in any British battle. Lyon [died](https://trove.nla.gov.au/newspaper/article/1193194) on 21 April 1934 aged 81.
 
 
 --8<-- "snippets/charles-heaphy.md"
@@ -78,7 +78,6 @@ In 1921, Vowles was elected the president of the Imperial Navy and Army Veterans
 - The Remembrance Day Service was arranged by Gavin Stoneley, Metropolitan Funerals
 - The Remembrance Day Service Address was given by Judy Magub
 - Additional Research by Paul Seto
-
 
 <div class="noprint" markdown="1">
 ## Brochure
