@@ -1,11 +1,15 @@
 ---
 description: Volunteers guide you on a different heritage tour each month
-hide:
-  - navigation
-
 search:
   boost: 1  
 ---
+
+<style>
+/*  Hide Navigation sidebar contents */
+.md-nav--primary {
+  display: none
+}
+</style>
 
 # Guided Tours
 <!--
