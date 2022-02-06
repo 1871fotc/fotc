@@ -131,7 +131,21 @@ description: Biographies of people interred at Toowong Cemetery
 | Victor Cyril         | Button                                    | 1924-01-01 | 1942-12-25 | 10‑53‑14   | 
 | Joseph               | Cossart                                   | 1843-11-14 | 1911-12-25 | 13‑18‑16   | 
 | Edward Arthur        | Gordon                                    | 1893-mm-dd | 1913-01-26 | 6‑7‑18     | 
-| Joseph               | McNamara                                  | 1916-05-23 | 1941-12-25 | 10‑71‑26A   | 
+| Joseph               | McNamara                                  | 1916-05-23 | 1941-12-25 | 10‑71‑26A  | 
+| Albert Williams      | Gyler                                     | 1892-mm-dd | yyyy-mm-dd | 2‑41‑65    | <!-- Conflict and Compassion -->
+| James                | Sanford                                   | 1888-09-09 | yyyy-mm-dd | 2A‑24‑1/2  | 
+| Henry Townsend       | Wilkins                                   | 1895-mm-dd | 1917-07-31 | 2A‑22‑11   | 
+| Jack                 | Bannister                                 | 1895-mm-dd | 1964-10-06 | 2A‑25A‑18/19 | 
+| Joseph George        | Barnes                                    | 1887-mm-dd | 1915-05-02 | 2‑43‑14    | 
+| Louis Walter         | Barnes                                    | yyyy-mm-dd | 1916-08-03 | 2‑43‑14    | 
+| John James           | Bennett                                   | 1897-mm-dd | 1919-02-08 | 2‑43‑13    | 
+| Norman Lister        | Freeman                                   | 1891-mm-dd | 1916-07-24 | 2‑43‑24/25 | 
+| James Archibald Henry | Bennett                                  | 1892-10-18 | 1918-11-29 | 2‑24‑29/30 | 
+| Roy Nestor Sinclair  | Brown                                     | 1890-mm-dd | 1917-10-21 | 2A‑22‑11   | 
+| Algernon Cedric      | Francis                                   | 1896-mm-dd | 1916-11-18 | 2‑37‑31/32 | 
+| William Rich         | Saile                                     | 1893-mm-dd | yyyy-mm-dd | 2A‑22‑11   | 
+| Norman Kinamond      | Harvey                                    | yyyy-mm-dd | yyyy-mm-dd | 2‑47‑38    | 
+| John Thomas          | Moores                                    | 1891-mm-dd | 1969-06-27 | 2‑47‑16    | 
 
 
 <!--
