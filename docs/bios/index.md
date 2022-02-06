@@ -146,7 +146,17 @@ description: Biographies of people interred at Toowong Cemetery
 | William Rich         | Saile                                     | 1893-mm-dd | yyyy-mm-dd | 2A‑22‑11   | 
 | Norman Kinamond      | Harvey                                    | yyyy-mm-dd | yyyy-mm-dd | 2‑47‑38    | 
 | John Thomas          | Moores                                    | 1891-mm-dd | 1969-06-27 | 2‑47‑16    | 
-
+| William Robert       | Colledge                                  | 1842-mm-dd | 1928-08-26 | 4‑15‑9/10  | <!-- Erected by Friends and Family -->
+| George Edwards       | Rowe                                      | 1858-08-26 | 1926-10-27 | 10‑48‑4    | 
+| Mary Elizabeth  (*Sister Lily*) | Briscoe                        | 1868-mm-dd | 1935-06-26 | 10‑31‑25   | 
+| Percy Lionel         | Benjamin                                  | yyyy-mm-dd | 1903-03-03 | 3‑12‑7/8   | 
+| David Thomas         | Newitt                                    | 1890-06-30 | 1922-09-02 | 10‑26‑4/5  | 
+| Joseph Letcher       | Phillips                                  | 1849-mm-dd | 1910-05-05 | 10‑8‑12    | 
+| William Henry        | Sowray                                    | 1851-02-22 | 1912-12-01 | 1‑50A‑1    | 
+| Peter                | Jackson                                   | 1861-07-03 | 1901-07-13 | 5‑28‑1     | 
+| Stephen Alonzo       | Spragg                                    | 1879-10-02 | 1904-02-12 | 5‑15‑26    | 
+| Walter Thorpe        | Olding                                    | 1888-09-25 | 1912-04-30 | 5‑42‑7     | 
+| Edward Vincent       | Pollock                                   | 1851-06-12 | 1911-10-16 | 5‑62‑12    | 
 
 <!--
 
