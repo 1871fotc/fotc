@@ -1,11 +1,15 @@
 ---
 description: Choose from over 40 themed self-guided cemetery walks 
-hide:
-  - navigation
-
 search:
   boost: 2  
 ---
+
+<style>
+/*  Hide Navigation sidebar contents */
+.md-nav--primary {
+  display: none
+}
+</style>
 
 # Self-Guided Walks
 
