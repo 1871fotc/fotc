@@ -17,6 +17,7 @@ description: Biographies of people interred at Toowong Cemetery
     - The Last Name links to the person's Biography which may include information beyond what is shown in the self-guided walk. 
         - We're progressively creating individual pages for each person - some Last Names don't have links yet.
 
+
 | Given Names          | Last Name                                 | Born       | Died       | Location   | 
 | ----------:          | :--------                                 |:---------  | :--------- | :--------- | 
 | Samuel Wensley      | **[Blackall](samuel-wensley-blackall.md)** | 1809‑05‑01 | 1871-01-02 | Mount Blackall | 
@@ -115,22 +116,30 @@ description: Biographies of people interred at Toowong Cemetery
 | William              | Pettigrew                                 | 1825-08-26 | 1906-10-28 | 13‑66‑2    | 
 | Archibald            | Watson                                    | yyyy-mm-dd | 1941-02-25 | 12‑13‑2    | 
 | William MacNaughton  | Galloway                                  | yyyy-mm-dd | 1895-01-12 | 7A‑41‑18   | 
-
-
+| John            | Melville                | 1834-09-10 | 1912-03-08 | 9‑10‑14   |  <!-- founding fathers -->
+| Alexander            | Raff                | 1820-07-dd | 1914-01-26 | 13‑79‑1   |  
+| James            | Cowlishaw               | 1834-12-19 | 1929-07-25 | 11‑41‑7A   | 
+| Nathaniel            | Lade               | 1835-03-30 | 1895-07-17 | 13‑52‑20/21   | 
 
 
 <!--
+| firstname            | lastname               | yyyy-0m-dd | yyyy-0m-dd | ppssgg   | 
 
-| firstname            | **[lastname](missing.md)**                | yyyy-mm-dd | yyyy-mm-dd | pp-ss-gg   | 
+| firstname            | **[lastname](missing.md)**                | yyyy-0m-dd | yyyy-0m-dd | ppssgg   | 
 
 -->
 
-<small>
-[Biography Index](index.md) by [Friends of Toowong Cemetery Association Incorporated](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 
-Download the Biography Index as a <a href="../assets/data/biography-index.csv" download>Comma Separated Value file</a> (.csv) <!--or [Tabular Data Package](../assets/data/biography-index.zip) (.zip). -->
+!!! question "Volunteer - Contribute missing data"
 
-You must [provide attribution](../about/legal/#attribution) if you reuse this work.
-</small> 
+    Do you know about any of the data missing in the table below? 
+    [Contact us](../about/index.md#contact-us) with the details. 
+
+
+The [Biography Index](index.md) by [Friends of Toowong Cemetery Association Incorporated](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must [provide attribution](../about/legal/#attribution) if you reuse this work.
+
+<!--
+Download the Biography Index as a <a href="../assets/data/biography-index.csv" download>Comma Separated Value file</a> (.csv) or [Tabular Data Package](../assets/data/biography-index.zip) (.zip). 
+-->
 
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
