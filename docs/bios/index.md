@@ -181,25 +181,17 @@ description: Biographies of people interred at Toowong Cemetery
 | firstname            | lastname               | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
 | firstname            | lastname               | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
 
-
-
-| firstname            | lastname               | yyyy-0m-dd | yyyy-0m-dd | ppssgg   | 
-
-| firstname            | **[lastname](missing.md)**                | yyyy-0m-dd | yyyy-0m-dd | ppssgg   | 
-
 -->
 
 
 !!! question "Volunteer - Contribute missing data"
 
-    Do you know about any of the data missing in the table below? 
-    [Contact us](../about/index.md#contact-us) with the details. 
+    Do you know about any of the data missing in the table above? Did you spot an error? 
+    **[Contact us](../about/index.md#contact-us)** with the details. 
 
 
-The [Biography Index](index.md) by [Friends of Toowong Cemetery Association Incorporated](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must [provide attribution](../about/legal/#attribution) if you reuse this work.
+The [Biography Index](index.md) by [Friends of Toowong Cemetery Association Incorporated](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must [provide attribution](../about/legal.md#attribution) if you reuse this work.
 
 <!--
 Download the Biography Index as a <a href="../assets/data/biography-index.csv" download>Comma Separated Value file</a> (.csv) or [Tabular Data Package](../assets/data/biography-index.zip) (.zip). 
 -->
-
-[CC-BY]: https://creativecommons.org/licenses/by/4.0/
