@@ -9,7 +9,7 @@ description: Biographies of people interred at Toowong Cemetery
 ??? directions "How to use the Index" 
 
     - Sort the table by clicking a column name.
-    - Also known as names are shown in brackets and italics.
+    - Also known as names are shown in *italics* in brackets.
     - Dates are formatted as yyyy-mm-dd (year, month, day) to help with sorting. Where a year, month or day is unknown, a placeholder value of "yyyy", "mm", or "dd" is used.
     - Location is in the Portion-Section-Grave format.
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
@@ -116,13 +116,33 @@ description: Biographies of people interred at Toowong Cemetery
 | William              | Pettigrew                                 | 1825-08-26 | 1906-10-28 | 13‑66‑2    | 
 | Archibald            | Watson                                    | yyyy-mm-dd | 1941-02-25 | 12‑13‑2    | 
 | William MacNaughton  | Galloway                                  | yyyy-mm-dd | 1895-01-12 | 7A‑41‑18   | 
-| John            | Melville                | 1834-09-10 | 1912-03-08 | 9‑10‑14   |  <!-- founding fathers -->
-| Alexander            | Raff                | 1820-07-dd | 1914-01-26 | 13‑79‑1   |  
-| James            | Cowlishaw               | 1834-12-19 | 1929-07-25 | 11‑41‑7A   | 
-| Nathaniel            | Lade               | 1835-03-30 | 1895-07-17 | 13‑52‑20/21   | 
+| John                 | Melville                                  | 1834-09-10 | 1912-03-08 | 9‑10‑14    |  <!-- founding fathers -->
+| Alexander            | Raff                                      | 1820-07-dd | 1914-01-26 | 13‑79‑1    |  
+| James                | Cowlishaw                                 | 1834-12-19 | 1929-07-25 | 11‑41‑7A   | 
+| Nathaniel            | Lade                                      | 1835-03-30 | 1895-07-17 | 13‑52‑20/21 | 
+| John                 | Caskey                                    | yyyy-mm-dd | 1901-09-27 | 10‑ss‑gg   | <!-- colonial conflicts -->
+| John Wyndon          | Lyon                                      | yyyy-mm-dd | 1934-04-21 | 10‑65‑30   | 
+| John Jennings        | Imrie                                     | 1813-06-01 | 1901-03-23 | 1‑85‑9     | 
+| John                 | Higson                                    | yyyy-mm-dd | yyyy-mm-dd | 2A‑31‑16   | 
+| Robert               | Orton                                     | yyyy-mm-dd | 1929-08-dd | 5‑66‑4     | 
+| George               | Vowles                                    | 1846-mm-dd | 1928-11-28 | 2‑49‑35    | 
+| Joseph Robert        | Abbott                                    | 1899-05-30 | 1941-12-25 | 10‑80‑45   |  <!-- Christmas -->
+| George               | Hansford                                  | 1840-12-25 | 1925-10-13 | 10‑17‑30/31 | 
+| Victor Cyril         | Button                                    | 1924-01-01 | 1942-12-25 | 10‑53‑14   | 
+| Joseph               | Cossart                                   | 1843-11-14 | 1911-12-25 | 13‑18‑16   | 
+| Edward Arthur        | Gordon                                    | 1893-mm-dd | 1913-01-26 | 6‑7‑18     | 
+| Joseph               | McNamara                                  | 1916-05-23 | 1941-12-25 | 10‑71‑26A   | 
 
 
 <!--
+
+| firstname            | lastname               | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
+| firstname            | lastname               | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
+| firstname            | lastname               | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
+| firstname            | lastname               | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
+
+
+
 | firstname            | lastname               | yyyy-0m-dd | yyyy-0m-dd | ppssgg   | 
 
 | firstname            | **[lastname](missing.md)**                | yyyy-0m-dd | yyyy-0m-dd | ppssgg   | 
