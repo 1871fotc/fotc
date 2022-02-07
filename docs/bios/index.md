@@ -195,25 +195,25 @@ description: Biographies of people interred at Toowong Cemetery
 | Jessie               | Philp                                     | yyyy-mm-dd | 1890-mm-dd | 14-23-10   | 
 | Augustus Charles     | Gregory                                   | yyyy-mm-dd | yyyy-mm-dd | 14-22-14   | 
 | Alfred               | Roberts                                   | 1837-mm-dd | yyyy-mm-dd | 13-1-2     | 
-| Edmund               | Curd                                      | yyyy-mm-dd | 1922-12-dd | 4‑37‑14    | <!-- Toowong 2 -->
-| Victor               | McGregor‑Lowndes                          | 1884-mm-dd | 1951-07-21 | 4‑16-gg    | 
-| Jean                 | McGregor‑Lowndes                          | yyyy-mm-dd | 1976-06-dd | 4‑16-gg    | 
+| Edmund               | Curd                                      | yyyy-mm-dd | 1922-12-dd | 4-37-14    | <!-- Toowong 2 -->
+| Victor               | McGregor-Lowndes                          | 1884-mm-dd | 1951-07-21 | 4-16-gg    | 
+| Jean                 | McGregor-Lowndes                          | yyyy-mm-dd | 1976-06-dd | 4-16-gg    | 
 | Mary Elizabeth       | Weedon                                    | yyyy-mm-dd | 1942-03-dd | 4-3-20     | 
-| Annie                | Griffiths                                 | yyyy-mm-dd | 1943-07-dd | 4‑3-2      | 
-| William              | Busby                                     | yyyy-mm-dd | 1928-mm-dd | 4‑3‑22     | 
-| Sali                 | Mendelsohn                                | yyyy-mm-dd | yyyy-mm-dd | 3‑6‑7      | 
-| Harriet              | Johnson                                   | yyyy-mm-dd | 1914-mm-dd | 1‑37-gg    | 
-| William              | Johnson                                   | yyyy-mm-dd | yyyy-mm-dd | 1‑37-gg    | 
-| William              | Webster                                   | yyyy-mm-dd | 1895-mm-dd | 1‑36-gg    | 
-| Walter Horatio       | Wilson                                    | yyyy-mm-dd | 1902-02-dd | 1‑84‑22    | 
-| Walter Frederick     | Wilson                                    | yyyy-mm-dd | 1911-mm-dd | 1‑85‑8     | 
-| Richard Langler      | Drew                                      | yyyy-mm-dd | yyyy-mm-dd | 5‑43-22    | 
-| Hercules             | Smith                                     | yyyy-mm-dd | yyyy-mm-dd | 5‑40‑9     | 
-| Robert               | Johnstone                                 | 1843-mm-dd | 1905-01-dd | 5‑36‑15/16 | 
-| Maria                | Johnstone                                 | yyyy-mm-dd | 1923-09-dd | 5‑36‑15/16 | 
-| Letitia              | Jephson                                   | yyyy-mm-dd | 1908-mm-dd | 5‑34‑17    | 
-| Samuel               | Kaye                                      | yyyy-mm-dd | yyyy-mm-dd | 2‑42‑26    | 
-| Robert Harrison      | Smith                                     | yyyy-mm-dd | 1911-mm-dd | 5‑31‑10    | 
+| Annie                | Griffiths                                 | yyyy-mm-dd | 1943-07-dd | 4-3-2      | 
+| William              | Busby                                     | yyyy-mm-dd | 1928-mm-dd | 4-3-22     | 
+| Sali                 | Mendelsohn                                | yyyy-mm-dd | yyyy-mm-dd | 3-6-7      | 
+| Harriet              | Johnson                                   | yyyy-mm-dd | 1914-mm-dd | 1-37-gg    | 
+| William              | Johnson                                   | yyyy-mm-dd | yyyy-mm-dd | 1-37-gg    | 
+| William              | Webster                                   | yyyy-mm-dd | 1895-mm-dd | 1-36-gg    | 
+| Walter Horatio       | Wilson                                    | yyyy-mm-dd | 1902-02-dd | 1-84-22    | 
+| Walter Frederick     | Wilson                                    | yyyy-mm-dd | 1911-mm-dd | 1-85-8     | 
+| Richard Langler      | Drew                                      | yyyy-mm-dd | yyyy-mm-dd | 5-43-22    | 
+| Hercules             | Smith                                     | yyyy-mm-dd | yyyy-mm-dd | 5-40-9     | 
+| Robert               | Johnstone                                 | 1843-mm-dd | 1905-01-dd | 5-36-15/16 | 
+| Maria                | Johnstone                                 | yyyy-mm-dd | 1923-09-dd | 5-36-15/16 | 
+| Letitia              | Jephson                                   | yyyy-mm-dd | 1908-mm-dd | 5-34-17    | 
+| Samuel               | Kaye                                      | yyyy-mm-dd | yyyy-mm-dd | 2-42-26    | 
+| Robert Harrison      | Smith                                     | yyyy-mm-dd | 1911-mm-dd | 5-31-10    | 
 
 <!--
 
