@@ -29,7 +29,7 @@ Edmund was the first principal of the Toowong State School which opened in Janua
 
     Walk to the Caskey monument and turn left. You should come across the polished red granite grave of the McGregor‑Lowndes family...
 
-## Victor and Jean McGregor‑Lowndes <small>(4‑16)</small>
+## Victor and Jean McGregor‑Lowndes <small>(4‑16-gg)</small>
 
 Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home, *Craig‑Royston*, Toowong on 21 July 1951. His wife, Jean, was also a JP and a prominent citizen, honoured as a Member of the British Empire. Jean died in June 1976, aged 89.
 
@@ -37,7 +37,7 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
 
     Return to the road and walk along it until you reach a tap on the right hand side. Nearby are...
 
-## Mary Elizabeth Weedon <!-- (4‑3‑20)--> and Annie Griffiths <small>(4‑3-2)</small>
+## Mary Elizabeth Weedon (4‑3‑20) and Annie Griffiths <small>(4‑3-2)</small>
 
 Mary Weedon was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
 
@@ -61,7 +61,7 @@ In 1890, Sali published his most enduring ballad *The Drover* otherwise known as
 
     Continue along the road until you reach the shed. Turn left and proceed until you reach a fork in the road. Taking the right branch, 1^st^ Avenue, pass eight double rows of graves on the left until you come to...
 
-## Harriet and William Johnson <small>(1‑37)</small>
+## Harriet and William Johnson <small>(1‑37-gg)</small>
 
 The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 1914, aged 63. Her husband, William, outlived her by twenty‑five years, dying aged 79.
 
@@ -69,7 +69,7 @@ The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 191
 
     Immediately behind the Johnson grave is the grey granite monument to...
 
-## William Webster <small>(1‑36)</small>
+## William Webster <small>(1‑36-gg)</small>
 <!-- perhaps 1-37-6? -->
 
 A Scottish merchant, William died at his home *Arley*, Toowong, aged 66 in 1895. William purchased *Arley*, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the *Quetta* shipwreck in 1890.
@@ -119,7 +119,7 @@ Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queen
 
 ## Letitia Jephson <small>(5‑34‑17)</small>
 
-Letitia was widowed and had lost two young sons while still in her early forties. She became a businesswoman managing boarding houses in the city and at Kangaroo Point. The Longreach Private Boarding House which she leased in 1879 was a highly sucessfully operation. Letitia bought *Cabury* on Kensington Terrace which she renamed *Mallow* after her birthplace in Ireland. In 1899 she sold Mallow to Sir Robert Philp. When Letitia died in 1908, she left a substantial estate including shares in banks and breweries. Church Street was renamed Jephson Street after her.
+Letitia was widowed and had lost two young sons while still in her early forties. She became a businesswoman managing boarding houses in the city and at Kangaroo Point. The Longreach Private Boarding House which she leased in 1879 was a highly successfully operation. Letitia bought *Cabury* on Kensington Terrace which she renamed *Mallow* after her birthplace in Ireland. In 1899 she sold Mallow to Sir Robert Philp. When Letitia died in 1908, she left a substantial estate including shares in banks and breweries. Church Street was renamed Jephson Street after her.
 
 ??? directions "Directions" 
 
