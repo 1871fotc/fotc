@@ -172,29 +172,29 @@ description: Biographies of people interred at Toowong Cemetery
 | Henry Lewis          | Neighbour                                 | 1857-mm-dd | 1942-07-04 | 2-44-19    | 
 | Andrew               | Fullerton                                 | 1831-mm-dd | 1899-04-10 | 2A-11-19   | 
 | James                | Trackson                                  | 1857-mm-dd | 1941-11-06 | 7-101-1/2  | 
-| Justin Fox Greenlaw  | Foxton                                    | 1849-09-24 | 1916-06-23 | 1‑114‑7/8  | <!-- Suffrage -->
-| Elizabeth            | Edwards                                   | 1840-05-11 | 1914-11-07 | 14‑23‑14   | 
-| Robert               | Philp                                     | 1851-12-28 | 1922-06-17 | 14‑23‑10   | 
-| Horace               | Tozer                                     | 1844-04-23 | 1916-08-20 | 12‑11‑8    | 
-| Charles              | Lilley                                    | 1827-08-27 | 1897-08-20 | 12‑15‑7    | 
-| Boyd Dunlop          | Morehead                                  | 1843-08-24 | 1905-10-30 | 12‑49‑6    | 
-| David Hay            | Dalrymple                                 | 1840-12-14 | 1912-09-01 | 12‑53‑2    | 
-| Arthur               | Morgan                                    | 1856-09-19 | 1916-12-20 | 12‑15‑12   | 
-| Andrew Lang          | Petrie                                    | 1854-mm-dd | yyyy-mm-dd | 13‑10‑7    | <!-- Toowomg 1 -->
-| George Harpur        | Jones                                     | yyyy-mm-dd | yyyy-mm-dd | 13‑15‑7    | 
-| William John         | Munce                                     | yyyy-mm-dd | 1892-mm-dd | 9‑43‑11    | 
-| Charles              | Patterson                                 | yyyy-mm-dd | 1926-01-dd | 13‑30‑10   | 
-| Robert               | Cribb                                     | yyyy-mm-dd | 1893-04-16 | 9‑37‑6     | 
-| Henry Howard         | Payne                                     | yyyy-mm-dd | 1903-02-18 | 9‑11‑15/16 | 
-| Henry                | Sleath                                    | yyyy-mm-dd | 1918-03-dd | 13‑43‑18   | 
-| James                | Valentine                                 | yyyy-mm-dd | 1904-01-17 | 13‑59‑16/17 | 
-| John                 | Fewings                                   | yyyy-mm-dd | yyyy-mm-dd | 9‑30‑22/23 | 
-| Thomas               | Finney                                    | yyyy-mm-dd | yyyy-mm-dd | 13‑81‑6    | 
-| William              | Richer                                    | yyyy-mm-dd | yyyy-mm-dd | 11‑7‑28    | 
-| Charles              | Siemon                                    | yyyy-mm-dd | yyyy-mm-dd | 12‑21‑5    | 
-| Jessie               | Philp                                     | yyyy-mm-dd | 1890-mm-dd | 14‑23‑10   | 
-| Augustus Charles     | Gregory                                   | yyyy-mm-dd | yyyy-mm-dd | 14‑22‑14   | 
-| Alfred               | Roberts                                   | 1837-mm-dd | yyyy-mm-dd | 13‑1‑2     | 
+| Justin Fox Greenlaw  | Foxton                                    | 1849-09-24 | 1916-06-23 | 1-114-7/8  | <!-- Suffrage -->
+| Elizabeth            | Edwards                                   | 1840-05-11 | 1914-11-07 | 14-23-14   | 
+| Robert               | Philp                                     | 1851-12-28 | 1922-06-17 | 14-23-10   | 
+| Horace               | Tozer                                     | 1844-04-23 | 1916-08-20 | 12-11-8    | 
+| Charles              | Lilley                                    | 1827-08-27 | 1897-08-20 | 12-15-7    | 
+| Boyd Dunlop          | Morehead                                  | 1843-08-24 | 1905-10-30 | 12-49-6    | 
+| David Hay            | Dalrymple                                 | 1840-12-14 | 1912-09-01 | 12-53-2    | 
+| Arthur               | Morgan                                    | 1856-09-19 | 1916-12-20 | 12-15-12   | 
+| Andrew Lang          | Petrie                                    | 1854-mm-dd | yyyy-mm-dd | 13-10-7    | <!-- Toowomg 1 -->
+| George Harpur        | Jones                                     | yyyy-mm-dd | yyyy-mm-dd | 13-15-7    | 
+| William John         | Munce                                     | yyyy-mm-dd | 1892-mm-dd | 9-43-11    | 
+| Charles              | Patterson                                 | yyyy-mm-dd | 1926-01-dd | 13-30-10   | 
+| Robert               | Cribb                                     | yyyy-mm-dd | 1893-04-16 | 9-37-6     | 
+| Henry Howard         | Payne                                     | yyyy-mm-dd | 1903-02-18 | 9-11-15/16 | 
+| Henry                | Sleath                                    | yyyy-mm-dd | 1918-03-dd | 13-43-18   | 
+| James                | Valentine                                 | yyyy-mm-dd | 1904-01-17 | 13-59-16/17 | 
+| John                 | Fewings                                   | yyyy-mm-dd | yyyy-mm-dd | 9-30-22/23 | 
+| Thomas               | Finney                                    | yyyy-mm-dd | yyyy-mm-dd | 13-81-6    | 
+| William              | Richer                                    | yyyy-mm-dd | yyyy-mm-dd | 11-7-28    | 
+| Charles              | Siemon                                    | yyyy-mm-dd | yyyy-mm-dd | 12-21-5    | 
+| Jessie               | Philp                                     | yyyy-mm-dd | 1890-mm-dd | 14-23-10   | 
+| Augustus Charles     | Gregory                                   | yyyy-mm-dd | yyyy-mm-dd | 14-22-14   | 
+| Alfred               | Roberts                                   | 1837-mm-dd | yyyy-mm-dd | 13-1-2     | 
 
 
 <!--
