@@ -2,19 +2,18 @@
 description: Volunteers guide you on a different heritage tour each month
 search:
   boost: 1  
-hide:
-  - navigation    
 ---
 
-<!-- doesn't work on mobile 
+<!-- Hide Navigation sidebar contents on desktop -->
+
 <style>
-/*  Hide Navigation sidebar contents */
-.md-nav--primary {
-  display: none
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary {
+    display: none
+  }
 }
 </style>
 
---> 
 
 <!-- Guests will be required to use the **[Check In Qld](https://www.covid19.qld.gov.au/check-in-qld)** App to check in. -->
 
