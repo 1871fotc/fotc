@@ -9,13 +9,13 @@ description: Biographies of people interred at Toowong Cemetery
 ??? directions "How to use the Index" 
 
     - Sort the table by clicking a column name.
+    - The Last Name links to the person's Biography which may include information beyond what is shown in the self-guided walk. We're progressively creating individual pages for each person - some Last Names don't have links yet.
     - Also known as names are shown in *italics* in brackets.
     - Dates are formatted as yyyy-mm-dd (year, month, day) to help with sorting. Where a year, month or day is unknown, a placeholder value of "yyyy", "mm", or "dd" is used.
     - Location is in the Portion-Section-Grave format.
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
         - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
-    - The Last Name links to the person's Biography which may include information beyond what is shown in the self-guided walk. 
-        - We're progressively creating individual pages for each person - some Last Names don't have links yet.
+  
 
 
 | Given Names          | Last Name                                 | Born       | Died       | Location   | 
@@ -214,6 +214,18 @@ description: Biographies of people interred at Toowong Cemetery
 | Letitia              | Jephson                                   | yyyy-mm-dd | 1908-mm-dd | 5-34-17    | 
 | Samuel               | Kaye                                      | yyyy-mm-dd | yyyy-mm-dd | 2-42-26    | 
 | Robert Harrison      | Smith                                     | yyyy-mm-dd | 1911-mm-dd | 5-31-10    | 
+| Mary                 | Douglas                                   | 1828-mm-dd | 1876-11-dd | 9‑34‑5     | <!-- Notable Women -->
+| Florence Griffiths   | Buchanan                                  | 1861-09-16 | 1911-12-30 | 11‑33‑4    | 
+| Elizabeth Jane       | Kingsbury                                 | yyyy-mm-dd | 1919-mm-dd | 12‑42‑12/13 | 
+| Elizabeth            | Moffat                                    | 1858-03-03 | 1920-12-03 | 13‑21‑15   | <!-- mothers -->
+| Honorah Mary Teresa  | Ross                                      | 1858-12-06 | 1926-13-14 | 15‑9‑42    | 
+| Ottilia              | Ufer                                      | 1861-02-23 | 1935-01-13 | 7‑103‑32   | 
+| Sarah                | Woulfe                                    | 1863-mm-dd | 1931-12-18 | 7A‑74‑15/16 | 
+| Elizabeth            | Phillips                                  | yyyy-mm-dd | 1931-02-25 | 18‑103‑23/24 | 
+| Marie Theresa        | Lightolier                                | 1855-09-13 | 1924-09-09 | 11‑77‑1    | 
+| Helen Dugald         | Street                                    | 1858-mm-dd | 1907-10-07 | 12‑39‑24   | 
+| Eliza                | Finney                                    | 1805-mm-dd | 1898-07-22 | 13‑81‑6/13 | 
+| Annie Watson         | Turner                                  | 1868-10-16 | 1939-10-23 | 13‑70‑7/8    | 
 
 <!--
 
