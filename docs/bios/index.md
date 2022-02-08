@@ -153,7 +153,6 @@ description: Biographies of people interred at Toowong Cemetery
 | David Thomas         | Newitt                                    | 1890-06-30 | 1922-09-02 | 10-26-4/5  | 
 | Joseph Letcher       | Phillips                                  | 1849-mm-dd | 1910-05-05 | 10-8-12    | 
 | William Henry        | Sowray                                    | 1851-02-22 | 1912-12-01 | 1-50A-1    | 
-| Peter                | Jackson                                   | 1861-07-03 | 1901-07-13 | 5-28-1     | 
 | Stephen Alonzo       | Spragg                                    | 1879-10-02 | 1904-02-12 | 5-15-26    | 
 | Walter Thorpe        | Olding                                    | 1888-09-25 | 1912-04-30 | 5-42-7     | 
 | Edward Vincent       | Pollock                                   | 1851-06-12 | 1911-10-16 | 5-62-12    | 
@@ -161,12 +160,10 @@ description: Biographies of people interred at Toowong Cemetery
 | Joshua Peter         | Bell                                      | 1827-01-19 | 1881-12-20 | 13-84-8    | 
 | Anthony              | Musgrave                                  | 1828-11-17 | 1888-10-09 | 14-23-7    | 
 | Arthur Hunter        | Palmer                                    | 1819-12-28 | 1898-03-20 | 13-88-7    | 
-| Arthur               | Morgan                                    | 1856-09-19 | 1916-12-20 | 12-15-12   | 
 | Pope Alexander       | Cooper                                    | 1846-05-12 | 1923-08-30 | 13-37-1    | 
 | Edmund               | Mellon                                    | yyyy-mm-dd | 1872-09-26 | 9-38-4     | <!-- Steam  -->
 | George               | Hiron                                     | 1840-mm-dd | 1915-06-02 | 13-20-9    | 
 | Joseph William       | Sutton                                    | yyyy-mm-dd | 1914-02-21 | 13-7-13/14 | 
-| George               | Davidson                                  | yyyy-mm-dd | 1888-02-29 | 13-7-1     | 
 | George               | Fish                                      | yyyy-mm-dd | 1925-09-23 | 12-1-11    | 
 | Benjamin Harris      | Babbidge                                  | yyyy-mm-dd | 1905-02-19 | 1-44-9     | 
 | Henry Lewis          | Neighbour                                 | 1857-mm-dd | 1942-07-04 | 2-44-19    | 
@@ -214,23 +211,38 @@ description: Biographies of people interred at Toowong Cemetery
 | Letitia              | Jephson                                   | yyyy-mm-dd | 1908-mm-dd | 5-34-17    | 
 | Samuel               | Kaye                                      | yyyy-mm-dd | yyyy-mm-dd | 2-42-26    | 
 | Robert Harrison      | Smith                                     | yyyy-mm-dd | 1911-mm-dd | 5-31-10    | 
-| Mary                 | Douglas                                   | 1828-mm-dd | 1876-11-dd | 9‑34‑5     | <!-- Notable Women -->
-| Florence Griffiths   | Buchanan                                  | 1861-09-16 | 1911-12-30 | 11‑33‑4    | 
-| Elizabeth Jane       | Kingsbury                                 | yyyy-mm-dd | 1919-mm-dd | 12‑42‑12/13 | 
-| Elizabeth            | Moffat                                    | 1858-03-03 | 1920-12-03 | 13‑21‑15   | <!-- mothers -->
-| Honorah Mary Teresa  | Ross                                      | 1858-12-06 | 1926-13-14 | 15‑9‑42    | 
-| Ottilia              | Ufer                                      | 1861-02-23 | 1935-01-13 | 7‑103‑32   | 
-| Sarah                | Woulfe                                    | 1863-mm-dd | 1931-12-18 | 7A‑74‑15/16 | 
-| Elizabeth            | Phillips                                  | yyyy-mm-dd | 1931-02-25 | 18‑103‑23/24 | 
-| Marie Theresa        | Lightolier                                | 1855-09-13 | 1924-09-09 | 11‑77‑1    | 
-| Helen Dugald         | Street                                    | 1858-mm-dd | 1907-10-07 | 12‑39‑24   | 
-| Eliza                | Finney                                    | 1805-mm-dd | 1898-07-22 | 13‑81‑6/13 | 
-| Annie Watson         | Turner                                  | 1868-10-16 | 1939-10-23 | 13‑70‑7/8    | 
+| Mary                 | Douglas                                   | 1828-mm-dd | 1876-11-dd | 9-34-5     | <!-- Notable Women -->
+| Florence Griffiths   | Buchanan                                  | 1861-09-16 | 1911-12-30 | 11-33-4    | 
+| Elizabeth Jane       | Kingsbury                                 | yyyy-mm-dd | 1919-mm-dd | 12-42-12/13 | 
+| Elizabeth            | Moffat                                    | 1858-03-03 | 1920-12-03 | 13-21-15   | <!-- mothers -->
+| Honorah Mary Teresa  | Ross                                      | 1858-12-06 | 1926-13-14 | 15-9-42    | 
+| Ottilia              | Ufer                                      | 1861-02-23 | 1935-01-13 | 7-103-32   | 
+| Sarah                | Woulfe                                    | 1863-mm-dd | 1931-12-18 | 7A-74-15/16 | 
+| Elizabeth            | Phillips                                  | yyyy-mm-dd | 1931-02-25 | 18-103-23/24 | 
+| Marie Theresa        | Lightolier                                | 1855-09-13 | 1924-09-09 | 11-77-1    | 
+| Helen Dugald         | Street                                    | 1858-mm-dd | 1907-10-07 | 12-39-24   | 
+| Eliza                | Finney                                    | 1805-mm-dd | 1898-07-22 | 13-81-6/13 | 
+| Annie Watson         | Turner                                    | 1868-10-16 | 1939-10-23 | 13-70-7/8  | 
+| Charles Chesworth    | Burgess                                   | 1883-05-09 | 1939-04-11 | 10-76-15   | <!-- Rich man poor man -->
+| John Henry           | Griffin                                   | yyyy-mm-dd | 1893-07-01 | 2A-23-5   | 
+| Molyneux Henry Dickinson | Nepean                                | 1846-04-19 | 1889-09-30 | 1-158-5   | 
+| Reginald Hebe        | Roe                                       | 1850-08-03 | 1926-09-21 | 20-25-5a  | 
+| John                 | Shirley                                   | 1849-08-11 | 1922-04-05 | 20-25-6   | 
+| Albert Charles       | Cox                                       | 1892-12-08 | 1925-01-29 | 20-23-1/2 | 
+| Samuel James         | Reilly                                    | yyyy-mm-dd | 1919-10-21 | 20-46-18  | 
+| Albert               | Ensor                                     | 1872-12-05 | 1950-05-05 | 20-48-5/6 | 
+| Robert               | Toupein                                   | 1886-mm-dd | 1949-07-12 | 5-96-24   | 
+| Peter                | Morgan                                    | 1916-mm-dd | 1953-mm-dd | 1-88-4    | <!-- sports -->
+| Amos Roy             | Goddard                                   | 1910-mm-dd | 1933-mm-dd | 7-77-26   | 
+| William Cowley Goulbourne | Stone                                | 1870-mm-dd | 1892-mm-dd | 7-77-11   | 
+| Frank                | Thorne                                    | 1883-mm-dd | 1931-11-16 | 21-20-16  | 
+| John (*Jack*)        | Dowridge                                  | 1848-mm-dd | 1922-mm-dd | 5-28-14   | 
+| Brickwood (*Brickie*) | Colley                                   | 1849-mm-dd | 1896-mm-dd | 2-51-2    | 
 
 <!--
 
-| firstname            | lastname               | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
-| firstname            | lastname               | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
+| firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
+| firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
 
 -->
 
