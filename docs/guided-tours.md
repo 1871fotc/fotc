@@ -16,20 +16,18 @@ hide:
 
 --> 
 
+<!-- Guests will be required to use the **[Check In Qld](https://www.covid19.qld.gov.au/check-in-qld)** App to check in. -->
+
 
 # Guided Tours
-<!--
-## Free Guided Tours
--->
 
 !!! warning "COVID-19 Restrictions" 
 
     - Due to COVID-19 our guided tours are **limited to 15 guests** to enable social distancing to be maintained. 
     - Unfortunately we don't have a booking system, so guests will be invited to join us on a "first come, first served" basis. 
     - We apologise in advance if you come to the cemetery but are unable to join the tour due to it being over-subscribed. There are many **[self-guided walks](../walks/)** you can do as an alternative.
-  
-<!-- Guests will be required to use the **[Check In Qld](https://www.covid19.qld.gov.au/check-in-qld)** App to check in. -->    
-    
+
+
 Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year. 
 
 ![][image11]{ width="32%" } ![][image9]{ width="32%" } ![][image8]{ width="32%" }
