@@ -2,7 +2,11 @@
 description: Choose from over 40 themed self-guided cemetery walks 
 search:
   boost: 2  
+hide:
+  - navigation  
 ---
+
+<!-- doesn't work on mobile 
 
 <style>
 /*  Hide Navigation sidebar contents */
@@ -10,6 +14,7 @@ search:
   display: none
 }
 </style>
+-->
 
 # Self-Guided Walks
 
