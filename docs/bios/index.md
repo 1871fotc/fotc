@@ -15,7 +15,6 @@ description: Biographies of people interred at Toowong Cemetery
     - Location is in the Portion-Section-Grave format.
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
         - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
-  
 
 
 | Given Names          | Last Name                                 | Born       | Died       | Location   | 
@@ -238,16 +237,16 @@ description: Biographies of people interred at Toowong Cemetery
 | Frank                | Thorne                                    | 1883-mm-dd | 1931-11-16 | 21-20-16  | 
 | John (*Jack*)        | Dowridge                                  | 1848-mm-dd | 1922-mm-dd | 5-28-14   | 
 | Brickwood (*Brickie*) | Colley                                   | 1849-mm-dd | 1896-mm-dd | 2-51-2    | 
-| William              | Paul                                      | 1839-06-02 | 1909-12-10 | 5‑32‑8    |  <!-- Judiciary -->
-| Virgil               | Power                                     | 1849-08-02 | 1914-06-02 | 7A‑103‑24 | 
-| Patrick              | Real                                      | 1846-03-17 | 1928-06-10 | 7A‑153‑7  | 
-| George Rogers        | Harding                                   | 1838-12-03 | 1895-08-31 | 1‑82‑15   | 
-| William Henry Abbot  | Hirst                                     | 1837-02-21 | 1878-05-26 | 1‑10‑17   | 
-| Pope Alexander       | Cooper                                    | 1846-05-12 | 1923-08-30 | 13‑37‑1   | 
-| Ratcliffe            | Pring                                     | 1825-10-17 | 1885-03-25 | 13‑75‑9   | 
-| Charles Stuart       | Mein                                      | 1841-06-14 | 1890-06-30 | 12‑11‑13  | 
-| John Laskey          | Woolcock                                  | 1861-11-07 | 1929-01-18 | 11‑65‑2   | 
-| Charles              | Stumm                                     | 1865-05-10 | 1929-02-28 | 18‑111‑2  | 
+| William              | Paul                                      | 1839-06-02 | 1909-12-10 | 5-32-8    |  <!-- Judiciary -->
+| Virgil               | Power                                     | 1849-08-02 | 1914-06-02 | 7A-103-24 | 
+| Patrick              | Real                                      | 1846-03-17 | 1928-06-10 | 7A-153-7  | 
+| George Rogers        | Harding                                   | 1838-12-03 | 1895-08-31 | 1-82-15   | 
+| William Henry Abbot  | Hirst                                     | 1837-02-21 | 1878-05-26 | 1-10-17   | 
+| Pope Alexander       | Cooper                                    | 1846-05-12 | 1923-08-30 | 13-37-1   | 
+| Ratcliffe            | Pring                                     | 1825-10-17 | 1885-03-25 | 13-75-9   | 
+| Charles Stuart       | Mein                                      | 1841-06-14 | 1890-06-30 | 12-11-13  | 
+| John Laskey          | Woolcock                                  | 1861-11-07 | 1929-01-18 | 11-65-2   | 
+| Charles              | Stumm                                     | 1865-05-10 | 1929-02-28 | 18-111-2  | 
 
 <!--
 
