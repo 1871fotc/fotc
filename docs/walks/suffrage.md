@@ -73,7 +73,7 @@ He [died](https://trove.nla.gov.au/newspaper/article/187224133) on 20 August 191
 
 *<small>[Politician Sir Horace Tozer, Brisbane, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218036320002061) — State Library of Queensland.</small>*
 
-## Sir Charles Lilley <small>(12‑15‑7)</small>
+## Sir Charles Lilley <small>(12‑15‑15)</small>
 
 Sir Charles Lilley, politician and judge was born on 27 August 1827 at Newcastle upon Tyn, son of Thomas Lilley and his wife Jane (née Shipley). He arrived in Sydney on 6 July 1856 and moved immediately to Brisbane where he was articled to Robert Little. Lilley became the first solicitor to be admitted to practice by the Supreme Court at Moreton Bay. 
 
