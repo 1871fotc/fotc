@@ -173,7 +173,7 @@ description: Biographies of people interred at Toowong Cemetery
 | Elizabeth            | Edwards                                   | 1840-05-11 | 1914-11-07 | 14-23-14   | 
 | Robert               | Philp                                     | 1851-12-28 | 1922-06-17 | 14-23-10   | 
 | Horace               | Tozer                                     | 1844-04-23 | 1916-08-20 | 12-11-8    | 
-| Charles              | Lilley                                    | 1827-08-27 | 1897-08-20 | 12-15-7    | 
+| Charles              | Lilley                                    | 1827-08-27 | 1897-08-20 | 12-15-15   | 
 | Boyd Dunlop          | Morehead                                  | 1843-08-24 | 1905-10-30 | 12-49-6    | 
 | David Hay            | Dalrymple                                 | 1840-12-14 | 1912-09-01 | 12-53-2    | 
 | Arthur               | Morgan                                    | 1856-09-19 | 1916-12-20 | 12-15-12   | 
@@ -238,6 +238,16 @@ description: Biographies of people interred at Toowong Cemetery
 | Frank                | Thorne                                    | 1883-mm-dd | 1931-11-16 | 21-20-16  | 
 | John (*Jack*)        | Dowridge                                  | 1848-mm-dd | 1922-mm-dd | 5-28-14   | 
 | Brickwood (*Brickie*) | Colley                                   | 1849-mm-dd | 1896-mm-dd | 2-51-2    | 
+| William              | Paul                                      | 1839-06-02 | 1909-12-10 | 5‑32‑8    |  <!-- Judiciary -->
+| Virgil               | Power                                     | 1849-08-02 | 1914-06-02 | 7A‑103‑24 | 
+| Patrick              | Real                                      | 1846-03-17 | 1928-06-10 | 7A‑153‑7  | 
+| George Rogers        | Harding                                   | 1838-12-03 | 1895-08-31 | 1‑82‑15   | 
+| William Henry Abbot  | Hirst                                     | 1837-02-21 | 1878-05-26 | 1‑10‑17   | 
+| Pope Alexander       | Cooper                                    | 1846-05-12 | 1923-08-30 | 13‑37‑1   | 
+| Ratcliffe            | Pring                                     | 1825-10-17 | 1885-03-25 | 13‑75‑9   | 
+| Charles Stuart       | Mein                                      | 1841-06-14 | 1890-06-30 | 12‑11‑13  | 
+| John Laskey          | Woolcock                                  | 1861-11-07 | 1929-01-18 | 11‑65‑2   | 
+| Charles              | Stumm                                     | 1865-05-10 | 1929-02-28 | 18‑111‑2  | 
 
 <!--
 
