@@ -61,7 +61,7 @@ Born in Crediton Devon England on 17/10/1825 to Thomas Pring and Ann Dunne. Ratc
 
 Born in Maitland NSW on 14/6/1841 to [John Stuart Mein](https://adb.anu.edu.au/biography/mein-charles-stuart-4182) and Mary Hall. Charles Mein was articled to Arthur Macalister in Brisbane prior to his admission as a solicitor of the Queensland Supreme Court in 1870. He was appointed to the Queensland Legislative Council in 1876, serving two periods as postmaster-general. On 17/4/1885, he was the first solicitor to be appointed a Judge of the Queensland Supreme Court, succeeding Mr Justice Pring. He died in office while visiting Sydney on 30/6/1890.
 
-## Sir Samual Walker Griffith GCMG QC <small>(12‑11‑6/7)</small>
+## Sir Samuel Walker Griffith GCMG QC <small>(12‑11‑6/7)</small>
 
 Born Merthyr Tydfil, Glamorganshire, Wales on 21/6/1845 to Rev. Edward Griffith and Mary Walker. Griffith was articled to Arthur Macalister in Ipswich and admitted as a barrister of the Queensland Supreme Court in 1867. He was elected to Queensland Legislative Assembly in 1872, serving as Attorney-General and Premier and combined politics with his work as a barrister until 1893 when he was appointed a Judge of the Queensland Supreme Court and third Chief Justice of Queensland. He was appointed QC in 1876. In 1903 he became the first Chief Justice of the High Court of Australia. He retired in 1919 and died on 9/8/1920 at New Farm.
 
