@@ -64,3 +64,4 @@ The [Under the Lino](http://www.underthelino.com.au) community have a [catalogue
 - [Baptist Church Archives Queensland](https://www.bhsq.org/barq/)
 - [Online History and Genealogy](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/?rm=ONLINE+RESOURC0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&dt=list#History) resources available at Brisbane City Council Libraries
 - [Family History](https://www.slq.qld.gov.au/research-collections/family-history) resources from the State Library of Queensland
+- [Useful websites for family historians](https://www.slq.qld.gov.au/research-collections/family-history/useful-websites-family-historians) - State Library of Queensland
