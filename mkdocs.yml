@@ -38,7 +38,6 @@ theme:
     admonition:
       question: fontawesome/solid/hand-holding-heart
       example: fontawesome/regular/compass
-      warning: fontawesome/solid/exclamation-triangle
   custom_dir: overrides
   features:
 # instant and announce seem to conflict with was this page helpful. Pick one. Works on Material for Mkdocs - look there. 
