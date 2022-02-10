@@ -272,7 +272,23 @@ description: Biographies of people interred at Toowong Cemetery
 | William Henry        | Browne                                    | 1846-09-13 | 1904-04-12 | 11-51-3   | 
 | Hugh                 | Mosman                                    | 1843-02-11 | 1909-11-15 | 5-62-12   | 
 | William Chalmers     | Brown                                     | 1841-mm-dd | 1909-04-15 | 9-31-7    | 
+| Christopher          | Francis                                   | 1840-mm-dd | 1915-11-10 | 2-37-31/32    |  <!-- Police -->
+| Henry Bloomfield     | Gough                                     | 1845-mm-dd | 1896-mm-dd | 2-44-21   | 
+| Octavius             | Armstrong                                 | 1833-mm-dd | 1917-01-23 | 2-45-16/17 | 
+| Robert Arthur        | Johnstone                                 | 1843-mm-dd | 1905-01-16 | 5-36-15/16 | 
+| Ernest               | Eglinton                                  | 1848-mm-dd | 1921-10-01 | 2A-31-22  | 
+| William              | Maguire                                   | 1859-mm-dd | 1917-04-25 | 5-105-14  | 
+| Thomas               | Hinch                                     | 1855-mm-dd | 1924-05-22 | 20-18-23  | 
+| John                 | Hanly                                     | 1857-mm-dd | 1935-10-06 | 7A-104-27 | 
+| John                 | Ahern                                     | 1840-mm-dd | 1893-mm-dd | 7-51-4    | 
+| William Harold       | Ryan                                      | 1873-mm-dd | 1954-07-16 | 7A-116-44 | 
+| Henry Marjoribanks   | Chester                                   | 1832-mm-dd | 1914-10-03 | 7-59-11   | 
+| Patrick              | Clancy                                    | 1837-mm-dd | 1899-01-12 | 7-53-20   | 
+| Matthew              | Collopy                                   | 1844-mm-dd | 1880-mm-dd | 7-5-3     | 
+| Joseph               | Kelly                                     | 1858-mm-dd | 1878-04-02 | 7-9-24    | 
+| Thomas               | Slattery                                  | 1824-mm-dd | 1878-02-05 | 7-9-4     | 
 
+ 
 <!--
 
 | firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
