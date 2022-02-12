@@ -45,7 +45,7 @@ He was a world‑class heavy‑weight wrestler. As a youth he trained to be a si
     ![](../assets/morris-moskowitch.jpg){ width="20%" }
 
 
-## Morris Moskowitch <!-- (3‑ss‑gg)-->
+## Morris Moskowitch <!-- MARICE MOSKOWITZ (3‑20‑05)-->
 
 Morris built, renovated or moved many homes in South Brisbane, in the first half of this century. He built a small synagogue as an annex to his home in Greenslopes, where he and a group of friends used to pray.
 
@@ -66,7 +66,7 @@ This type of massive monument is unusual for its size and is rarely utilised now
     ![](../assets/w-j-friedlander.jpg){ width="20%" }
  
 
-## W. J. Friedlander (AIF) <small>(3‑9A‑17)</small>
+## Wilfred John Friedlander (AIF) <small>(3‑9A‑17)</small>
 
 This is an example of the bronze plaques erected by the War Graves Commission over the graves of ex‑servicemen.
 
@@ -230,7 +230,7 @@ On this monument is a passage from Proverbs XXXI. It is a fine tribute to a good
     ![](../assets/caroline-benjamin.jpg){ width="20%" }
 
 
-## Caroline Benjamin <!-- (3‑ss‑gg)-->
+## Caroline Benjamin <!-- (3‑4‑20???)-->
 
 The headstone and massive monument would weigh over one tonne. If sculpted today, it would cost an enormous amount.
 
@@ -269,7 +269,7 @@ You will see some columns with the top broken off. This is a well‑known symbol
     ![](../assets/l-m-boock.jpg){ width="20%" }
 
 
-## L. M. Boock <small>(3‑22‑4)</small>
+## Louis Michael Boock <small>(3‑22‑4)</small>
 
 This is an example of the marble monuments erected by the Commonwealth War Graves Commission, over the graves of ex‑servicemen. Others are in bronze.
 
@@ -283,7 +283,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
     
     ![](../assets/errol-meyers.jpg){ width="20%" }
 
-## E. S. Meyers <small>(3‑22‑22)</small>
+## Errol Solomon Meyers <small>(3‑22‑22)</small>
 
 Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First World War, being a Regimental Medical Officer. A surgeon, anatomist and teacher; co‑founder of the Medical Faculty of the University of Queensland and was Dean of the faculty 1942‑1954.
 
@@ -296,7 +296,7 @@ Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First 
     ![](../assets/eric-margulies.jpg){ width="20%" }
 
 
-## Dr E. M. Margulies <small>(3‑21‑8)</small>
+## Dr Eric Mark Margulies <small>(3‑21‑8)</small>
 
 Eric Mark Margulies was the only doctor in the western Queensland country town of Cunnamulla. A major fire destroyed the hotel and the good doctor distinguished himself in the rescue, as well as in the treatment of the survivors, some of whom were very badly injured. Later he was the Government Medical Officer on the Gold Coast.
 
@@ -329,7 +329,7 @@ He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/
     ![](../assets/sali-mendelsohn.jpg){ width="20%" }
 
 
-##"Sali" Mendelsohn <small>(3‑6‑7)</small>
+## "Sali" Mendelsohn <small>(3‑6‑7)</small>
 
 "Sali" was his nickname. His correct name was Bezalel Saul Mendelsohn. He died in 1897 and his sons had his name inscribed as 
 
