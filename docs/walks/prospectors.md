@@ -85,7 +85,7 @@ William was born on 13 September 1846 in Pimlico, London to William Henry Browne
 He was the president and secretary Amalgamated Miners Association of Croydon and chairman of the Croydon Hospital Committee. His political career started in 1893 as the MLA for Croydon, the seat he held until his death on 12 April 1904. William was the leader of the Opposition and chairman of the Parliamentary Labor Party from 1900 to 1903 and then became Minister for Mines. William did not marry.
 
 
-## Hugh Mosman <small>(5‑62‑12)</small>
+## Hugh Mosman <small>(13‑88‑3)</small>
 
 Hugh Mosman was born on 11 February 1843 to Archibald Mosman and Harriet (née Farquharson). Hugh headed to Queensland in 1860, attracted by the pastoral boom. Hugh turned to prospecting in the Ravenswood area when the economy declined. Hugh's Aboriginal servant, young Jupiter Mosman, is credited with the gold discovery at the place Hugh subsequently named Charters Towers. 
 
