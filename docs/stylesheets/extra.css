@@ -6,6 +6,19 @@
   color: #ff9100;
 }
 
+/* change colour of sort icons in table */
+
+.md-typeset table th[role=columnheader][aria-sort=ascending]:after {
+  background-color: white !important;
+}
+
+.md-typeset table th[role=columnheader][aria-sort=descending]:after {
+  background-color: white !important;
+}
+
+.md-typeset table th[role=columnheader]:hover:after {
+  background-color: white !important;
+}
 
 
 /* Force table width to 100% */
