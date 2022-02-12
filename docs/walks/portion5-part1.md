@@ -19,7 +19,7 @@ Introduction
 
 ## Jonas and Mary Malouf <small>(5‑26‑2/3)</small>
 
-Jonas Malouf and his wife, Mary (née Hadad) were both born in the town of Zahlah in what is now Lebanon but was still part of Palestine at the time. Jonas was born in December they fled 1849 and Mary in 1869. In 1889 together with their sons and Jonans's two brothers they fled their native country to escape the political troubles of the time. They came to Queensland where they founded a successful drapery and general store at Ipswich. They later settled at Gatton where they continued to carry business. 
+Jonas Malouf and his wife, Mary (née Hadad) were both born in the town of Zahlah in what is now Lebanon but was still part of Palestine at the time. Jonas was born in December 1849 and Mary in 1869. In 1889, together with their sons and Jonans's two brothers, they fled their native country to escape the political troubles of the time. They came to Queensland where they founded a successful drapery and general store at Ipswich. They later settled at Gatton where they continued to carry on in business. 
  
 <!--
 ??? directions "Directions" 
@@ -31,9 +31,9 @@ Jonas Malouf and his wife, Mary (née Hadad) were both born in the town of Zahla
 
 ## Alfred Wall and Alfred George Curtis Wall <small>(5‑27‑16)</small>
 
-Alfred Wall was born in England before migrating to Queensland in the ship *Young Australia* in 1866. He  spent head several years as   head teacher at Bowen State School and in 1899 became head teacher at Milton State School until his retirement in 1917.
+Alfred Wall was born in England before migrating to Queensland in the ship *Young Australia* in 1866. He  spent head several years as head teacher at Bowen State School and in 1899 became head teacher at Milton State School until his retirement in 1917.
 
-His son, Alfred George Curtis Wall served in WWI in the Australian Flying Corps  No 2 Squadron where he was designated 1^st^ Air  Mechanic.
+His son, Alfred George Curtis Wall served in WWI in the Australian Flying Corps No 2 Squadron where he was designated 1^st^ Air Mechanic.
 
 ## John Theophillus Symons Bird <small>(5‑30‑9A)</small>
 
@@ -53,7 +53,7 @@ Elizabeth or Bessie Powell (née Turnbull) was born in England around 1870. She 
 
 ## Edmond Filmer Craven and Caroline Craven <small>(5‑32‑7)</small>
 
-Edmond Filmer Craven was the son of Fulwar William Craven and Louisa Orde of Brockhampton Park, Gloucestershire and was a descendent of the Earls of Craven. He was appointed to the Queensland public service in 1881, and later became police magistrate at Aramac followed by a posting at Gayndah. He subsequently held similar appointments at various country centres including Muttaburra, Eidsvold where he was also the mining warden, and Roma, where he remained until he retired in September 1906. His wife Caroline ran a guest house at Shorncliffe after his death on 4 August 1910.
+Edmond Filmer Craven was the son of Fulwar William Craven and Louisa Orde of Brockhampton Park, Gloucestershire and was a descendent of the Earls of Craven. He was appointed to the Queensland public service in 1881, and later became police magistrate at Aramac, followed by a posting at Gayndah. He subsequently held similar appointments at various country centres including Muttaburra, Eidsvold where he was also the mining warden, and Roma, where he remained until he retired in September 1906. His wife Caroline ran a guest house at Shorncliffe after his death on 4 August 1910.
 
 ## George William Paul <small>(5‑32‑8)</small>
 
@@ -65,7 +65,7 @@ Arthur Tewdyr Davies Berrington was born in Belgravia, Middlesex on 7 September 
 
 ## Samuel Frederick Lawrence <small>(5‑14‑7)</small>
 
-Samuel Frederick Lawrence was a victim of the Roxana disaster which took place on Boxing Day 1901. He was 15 years of age.
+Samuel Frederick Lawrence was a victim of the [*Roxana* disaster](https://trove.nla.gov.au/newspaper/article/173378003) which took place on Boxing Day 1901. He was 15 years of age.
 
 ## Robert Arthur Johnstone <small>(5‑36‑15/16)</small>
 
@@ -77,7 +77,7 @@ There are no actual burials in this grave. These headstones were originally on g
 
 Susan Boyce was the wife of Brisbane's first Town Clerk, William Martin Boyce. Their daughter, Ellen Victoria Board died in Melbourne and was memorialised on her mother's headstone.
 
-## Alfred John Potier, Reginald alfred Maines Potier, and Lewis William Potier <small>(5‑39‑20)</small>
+## Alfred John Potier, Reginald Alfred Maines Potier, and Lewis William Potier <small>(5‑39‑20)</small>
 
 Alfred John Potier was born on 16 October 1842 in Southwark Surrey England. In 1862 he married Emma Purvis. Alfred, Emma and their first child migrated to Queensland in the mid-1860s. In 1869 Alfred was one of the original gold prospectors of the Chatsworth Reef just outside Gympie. In partnership with Ernest H Webb, trading as Webb Brothers and Potier, he carried on a business as merchants and commission agents and also operated a bone mill at Breakfast Creek. 
 
@@ -87,14 +87,7 @@ His sons Reginald and Lewis carried on business under the name of Potier Brother
 
 ## Joseph Hughes <small>(5‑40‑19)</small>
 
-Joseph Hughes was born in Manchester England in 1843 and came to Queensland when he was 20. He entered the public service as subcollector of Customs and police magistrate at Bundaberg, was later appointed Registrar General at Brisbane and held that position until 1902 when he was chosen as the first Income Tax Commissioner for Queensland. He passed away at his residence in Park Road Milton on 27 July 1920 at the age of 78.
-
-<!--
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
-
-*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
-
--->
+Joseph Hughes was born in Manchester England in 1843 and came to Queensland when he was 20. He entered the public service as sub-collector of Customs and police magistrate at Bundaberg, was later appointed Registrar General at Brisbane and held that position until 1902 when he was chosen as the first Income Tax Commissioner for Queensland. He passed away at his residence in Park Road Milton on 27 July 1920 at the age of 78.
 
 ## Acknowledgements
 
@@ -119,6 +112,6 @@ Compiled and presented by Lyn Maddock
 
 ## Brochure
 
-**[Download this walk](../assets/guides/printers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/portion5-part1.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
