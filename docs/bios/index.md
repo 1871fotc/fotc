@@ -4,7 +4,7 @@ description: Biographies of people interred at Toowong Cemetery
 
 # Biography Index
 
-**Read the stories of the people interred at Toowong Cemetery**. The index below lists over 300 of the people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
+**Read the stories of the people interred at Toowong Cemetery**. The index below lists over 350 of the people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
 
 ??? warning "Work in progress"
 
@@ -208,7 +208,7 @@ description: Biographies of people interred at Toowong Cemetery
 | Victor               | McGregor-Lowndes                          | 1884-mm-dd | 1951-07-21 | 4-16-gg    | 
 | Jean                 | McGregor-Lowndes                          | yyyy-mm-dd | 1976-06-dd | 4-16-gg    | 
 | William              | Busby                                     | yyyy-mm-dd | 1928-mm-dd | 4-3-22     | 
-| Sali                 | Mendelsohn                                | yyyy-mm-dd | yyyy-mm-dd | 3-6-7      | 
+| Bezalel Saul (*Sali*) | Mendelsohn                               | yyyy-mm-dd | yyyy-mm-dd | 3-6-7      | 
 | Harriet              | Johnson                                   | yyyy-mm-dd | 1914-mm-dd | 1-37-gg    | 
 | William              | Johnson                                   | yyyy-mm-dd | yyyy-mm-dd | 1-37-gg    | 
 | William              | Webster                                   | yyyy-mm-dd | 1895-mm-dd | 1-36-gg    | 
@@ -373,7 +373,53 @@ description: Biographies of people interred at Toowong Cemetery
 | William Augustine    | O’Carroll                                 | 1831-mm-dd | 1885-mm-dd | 7-54-9    | 
 | Francis (*Frank*)    | McDonnell                                 | 1863-mm-dd | 1928-mm-dd | 7a-17-23  | 
 | Michael Joseph       | Devitt                                    | 1859-mm-dd | 1917-mm-dd | 15-29-6   | 
-
+| Sam                  | Burmister                                 | yyyy-mm-dd | yyyy-mm-dd | 3-25-5    |  <!-- Jewish -->
+| Wilfred John         | Friedlander                               | yyyy-mm-dd | yyyy-mm-dd | 3-9A-17   | 
+| Isaac Hillel         | Hillman                                   | yyyy-mm-dd | yyyy-mm-dd | 3-9A-16   | 
+| Jonas Myer           | Myers                                     | yyyy-mm-dd | yyyy-mm-dd | 3-4-17    | 
+| Alan                 | Taylor                                    | yyyy-mm-dd | yyyy-mm-dd | 3-13-1A   | 
+| Phyliss Mary         | Peixetto                                  | yyyy-mm-dd | yyyy-mm-dd | 3-ss-gg   | 
+| Henry Montague (*Monty*) | Bloom                                 | yyyy-mm-dd | yyyy-mm-dd | 3-24-3    | 
+| Myer                 | Kangan                                    | yyyy-mm-dd | yyyy-mm-dd | 3-18-1A   | 
+| Louis Paul           | Fingereth                                 | yyyy-mm-dd | yyyy-mm-dd | 3-18-14   | 
+| Lipman               | Abrahams                                  | yyyy-mm-dd | yyyy-mm-dd | 3-12-9    | 
+| Percy                | Benjamin                                  | yyyy-mm-dd | yyyy-mm-dd | 3-12-7/8  | 
+| Behr Raphael         | Lewin                                     | yyyy-mm-dd | yyyy-mm-dd | 3-8-10/11 | 
+| Cornelia             | Harris                                    | yyyy-mm-dd | yyyy-mm-dd | 3-ss-gg   | 
+| Caroline             | Benjamin                                  | yyyy-mm-dd | yyyy-mm-dd | 3-ss-gg   | 
+| Arthur               | Hyam                                      | yyyy-mm-dd | yyyy-mm-dd | 3-ss-gg   | 
+| Louis Michael        | Boock                                     | yyyy-mm-dd | yyyy-mm-dd | 3-22-4    | 
+| Errol Solomon        | Meyers                                    | yyyy-mm-dd | yyyy-mm-dd | 3-22-22   | 
+| Eric Mark            | Margulies                                 | yyyy-mm-dd | yyyy-mm-dd | 3-21-8    | 
+| Roy Mark             | Levy                                      | yyyy-mm-dd | yyyy-mm-dd | 3-10-14A  | 
+| Samuel Joseph        | Levy                                      | yyyy-mm-dd | yyyy-mm-dd | 3-8-20/21 | 
+| Joseph               | Hearsch                                   | yyyy-mm-dd | yyyy-mm-dd | 3-1A-1/2  | 
+| Hugh Vernon          | Brookes                                   | yyyy-mm-dd | yyyy-mm-dd | 10-71-8   |  <!-- Lest We Forget -->
+| Walter               | Staines                                   | yyyy-mm-dd | yyyy-mm-dd | 10-62-18  | 
+| Henry                | Greer                                     | yyyy-mm-dd | 1918-08-18 | 10-63-25  | 
+| Edward Sidney        | Webster                                   | yyyy-mm-dd | yyyy-mm-dd | 10-45-28  | 
+| Charles              | **[Heaphy](/charles-heaphy.md)**          | 1822-mm-dd | 1881-08-03 | 1-5-34    | 
+| William John         | Harrhy                                    | yyyy-mm-dd | 1924-mm-dd | 4-16-4    |  <!-- Lest We Forget: Naval -->
+| Maurice              | Headford                                  | 1898-02-23 | 1936-06-18 | 10-72-35  | 
+| Arthur Kilminster    | Beaven                                    | 1895-01-28 | 1921-06-09 | 10-52-9   | 
+| Victor Cyril         | Button                                    | 1924-01-01 | 1942-12-25 | 10-53-14  | 
+| Watkin Llewellyn     | Whitaker                                  | yyyy-mm-dd | 1942-10-03 | 10-83-13  | 
+| Matroos              | Boesidin                                  | 1909-mm-dd | 1942-08-27 | 30-22-21  | 
+|                      | Samanuddin                                | 1906-mm-dd | 1943-07-16 | 29-9-11   | 
+| Christian Thomas     | Wagner                                    | 1830-mm-dd | 1903-02-28 | 4-32-1    |  <!-- Lutheran -->
+| Johannes             | Lather                                    | 1825-02-16 | 1891-07-31 | 4-13-33   | 
+| Johannes Christian   | Brünnich                                  | 1861-09-11 | 1933-07-03 | 4-10-32   | 
+| Theodore Oscar       | Unmack                                    | 1835-11-21 | 1919-09-17 | 13-4-12   | 
+| Ernst Otto           | Maier                                     | 1853-04-13 | 1905-03-15 | 13-15-5   | 
+| Regula Albertina     | Maier                                     | 1853-04-01 | 1935-08-11 | 13-15-5   | 
+| Friedericke Wilhelmine | Gentner                                 | 1864-07-16 | 1901-10-07 | 13-20-3   | 
+| Johann Frederick     | Gentner                                   | yyyy-mm-dd | 1905-12-02 | 13-20-3   | 
+| Carl Franz Alexander (*Charles*) | Schirmeister                  | 1814-07-22 | 1887-10-08 | 13-25-6   | 
+| Caroline Friedericke Alwine | Schirmeister                       | 1818-06-03 | 1894-11-30 | 13-25-6   | 
+| Karl Ernst           | Eschenhagen                               | 1850-05-24 | 1906-03-18 | 9-15-5    | 
+| Pauline Emma         | Eschenhagen                               | 1869-12-26 | 1921-07-04 | 9-15-5    | 
+| Johann Christian (*John*) | Heussler                             | 1820-06-15 | 1907-10-26 | 13-64-11  | 
+| Sophia Esther        | Heussler                                  | yyyy-mm-dd | 1914-06-05 | 13-64-11  | 
 
 <!--
 | firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    |  <!- ->
