@@ -9,16 +9,6 @@ hide:
 ![](../assets/brisbane-synagogue-1906.jpg){ width="70%" }
 
 *<small>The Brisbane Synagogue, ca 1906, consecrated in 1886</small>*
-
-
-???+ warning "Work in progress" 
-
-    There's still a little more to do on this page. 
-    
-    - Add a photo of the Cornelia Harris headstone
-    
-    This shouldn't stop you from enjoying this walk 
-    
  
 This is a Jewish Cemetery. Our population in Queensland is quite small, so its cemeteries number only ten and some have rarely been used. In Brisbane there is one at Toowong dating back from the 1870's and the other is at Mt Gravatt, which opened in 1966. Originally there was a small area in the old Lang Park (Paddington) Cemetery, but that was closed and the 3 known Jewish burials, and their monuments, were brought to Toowong in 1913. 
 
