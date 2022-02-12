@@ -369,7 +369,6 @@ description: Biographies of people interred at Toowong Cemetery
 | Thomas Joseph        | Ryan                                      | 1875-mm-dd | 1921-mm-dd | 7a-3a-1   | 
 | Randal               | MacDonnell                                | 1830-mm-dd | 1877-mm-dd | 7-20-10   | 
 | Peter                | Gaffney                                   | 1839-mm-dd | 1879-mm-dd | 7-19-23   | 
-| John                 | Burke                                     | 1842-mm-dd | 1919-mm-dd | 7-19-1    | 
 | John                 | McDermott                                 | 1841-mm-dd | 1908-mm-dd | 7-56-3    | 
 | William Augustine    | O’Carroll                                 | 1831-mm-dd | 1885-mm-dd | 7-54-9    | 
 | Francis (*Frank*)    | McDonnell                                 | 1863-mm-dd | 1928-mm-dd | 7a-17-23  | 
