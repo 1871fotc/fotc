@@ -1,5 +1,7 @@
 ---
 description: Biographies of people interred at Toowong Cemetery 
+search:
+  exclude: true
 ---
 
 # Biography Index
@@ -419,8 +421,8 @@ description: Biographies of people interred at Toowong Cemetery
 | Sophia Esther        | Heussler                                  | yyyy-mm-dd | 1914-06-05 | 13-64-11  | 
 | Joseph               | Watters                                   | yyyy-mm-dd | yyyy-mm-dd | 10-65-29  |  <!-- Men of the Royal Navy -->
 | James                | Kirk                                      | 1838-07-14 | yyyy-mm-dd | 13-59-8   | 
-| Thomas Lodge         | Murray-Prior                              | yyyy-mm-dd | 1819-11-13 | 13-72-15/16 |  
-| John Stephen         | Ferriter                                  | 1802-08-24 | yyyy-mm-dd | 14-24-13  | 
+| Thomas Lodge         | Murray-Prior                              | 1819-11-13 | yyyy-mm-dd | 13-72-15/16 |  
+| John Stephen         | Ferriter                                  | 1802-08-24 | 1865-10-21 | 14-24-13  | 
 | William Leworthy Goode | Drew                                    | 1826-10-14 | yyyy-mm-dd | 13-86-1   | 
 | John Forrest         | Haymen                                    | 1902-06-29 | yyyy-mm-dd | 12-49-3   | 
 | Ian Chesborough Rose | MacDonald                                 | yyyy-mm-dd | yyyy-mm-dd | 11-52-12  | 
