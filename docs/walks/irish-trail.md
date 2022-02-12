@@ -10,7 +10,7 @@ The original Irish tour occurred in 1988 during the Bi-Centennial Celebrations, 
 
 ## Anne Devoy <small>(7‑7‑34)</small>
 
-1817‑[1908](https://trove.nla.gov.au/newspaper/article/19550487?searchTerm=anne%20Devoy) 
+1817 ‑[1908](https://trove.nla.gov.au/newspaper/article/19550487?searchTerm=anne%20Devoy) 
 
 Born at Donadea near Hodgetown Co. Kildare, Devoy was the daughter of James and Honor Reilly. Her mother was the daughter of the Countess de Farnton, who escaped the guillotine in the French Revolution, and fled to Ireland to take up refuge with her friend, the Earl of Kildare at Castle Kilkea. 
 
@@ -29,7 +29,7 @@ The Devoys arrived in Queensland in 1864 on the *Landsborough* after selling the
 
 ## Joseph Darragh <small>(7‑27‑11)</small> 
 
-1828‑1902  
+1828 ‑ 1902  
 
 Born in Tyrone, the son of Joseph and Ann (1803‑1883), Darragh arrived in Sydney on 29 April 1850 with his wife, Eliza Grimes They moved to Brisbane where he was a butcher at Kangaroo Point from 1853 to 1902. Darragh Street was named for the family before 1874, and when he died, Darragh was ‘of Independent Means’. 
 
@@ -45,7 +45,7 @@ Darragh’s brothers were also businessmen in Brisbane. James (1831‑1905) was 
 
 ## William Grene Power <small>(7‑45‑18)</small> 
 
-1835‑1903  
+1835 ‑ 1903  
 
 Born at Clonmel, Tipperary the son of Edward Power and Mary Ann Grene, Power was educated at Carlow by the Christian Brothers. Power arrived in Victoria in 1857 and was a miner and brewer on the goldfields at Bendigo and Ballarat. He served as Mayor of Jamiestown in 1866. 
 
@@ -67,7 +67,7 @@ He arrived in Queensland 1869 at the request of his old friends Perkins and Gool
 
 ## James Thomas Mooney <small>(7‑45‑10)</small> 
 
-1855‑1877 
+1855 ‑ 1877 
 
 Mooney was born in New York, the son of Joseph and Rosa Mooney, natives of Co. Cavan. They arrived in Sydney 1857 on the *FitzJames*. Mooney was a volunteer fireman who was fatally burned by an exploding cask of spirits during a fire at Hughes’ grocery store in Queen St. His mother was publican of the Royal Exchange Hotel in Albert Street from where his funeral procession left. His monument was financed by public subscription. His father’s sister was Mary, wife of James Mayne, hide merchant in Tyrone and brother of Patrick Mayne.
 
@@ -78,7 +78,7 @@ Mooney was born in New York, the son of Joseph and Rosa Mooney, natives of Co. C
 
 ## Patrick Mayne <small>(7‑49‑9)</small> 
 
-1825‑1865  
+1825 ‑ 1865  
 
 The large white monument to this family and the story of how Mayne gained his wealth is the subject of a book by Rosamond Siemon, [The Mayne Inheritance](../assets/documents/mayne-inheritance-postscript.pdf). Mayne was born at Cookstown, Tyrone, the son of Isaac Mayne and Rose Mullin. He arrived in Brisbane in 1849 after marrying in Sydney, Mary McIntosh from Ennis, Co. Clare. 
 
@@ -92,7 +92,7 @@ Mayne gained his wealth by the reputed murder of a cedar cutter and established 
 
 ## John Ahern <small>(7‑51‑4)</small> 
 
-1838‑1893 
+1838 ‑ 1893 
  
 Ahern was born at Donickmore, Cork son of Denis Ahern and Honoria O’Mahoney. He was a Catholic farmer when he joined the Queensland Police Force in September 1864. He was sent to Springsure in October and promoted to Senior Constable/Acting Sergeant in July 1868. He became Inspector of Slaughterhouses in the Mitchell district in February 1870 and received the substantial reward of £15 in September 1872 for *"energetic perseverance in suppressing cattle‑stealers in the Barcoo and Walgett districts"*. 
 
@@ -107,7 +107,7 @@ Ahern was promoted to Senior Sergeant in January 1874 and Sub‑Inspector 2^nd^ 
 
 ## Andrew Purcell <small>(7‑50‑1)</small> 
 
-1811‑1888  
+1811 ‑ 1888  
 
 Born at Drumcliff, Ennis, Co. Clare, Purcell was the son of Thomas Purcell and Mary Flannery. This well‑to‑do grazier arrived in Brisbane 19 June 1853 with wife and 4 children on the John Fielden. He married Bridget Scanlan (1827‑1913) and had 10 children. His son Thomas, a grazier of Rockhampton, was partner in the Rockhampton Newspaper The Daily Record with the Hon. T. J. Ryan in 1912. Purcell, a man of independent means, was buried by Hislops in March 1888 with Fr. Canali officiating.
 
@@ -117,7 +117,7 @@ Born at Drumcliff, Ennis, Co. Clare, Purcell was the son of Thomas Purcell and M
   
 ## Thomas Joseph Byrnes <small>(7‑47‑5)</small>  
 
-1860‑1898 
+1860 ‑ 1898 
 
 Byrnes was born in Brisbane the son of Patrick Byrnes and Anna Tighe from Sligo. The family had settled first in Bowen. Byrnes was educated at Brisbane Grammar and Melbourne University. Byrnes taught at Xavier College, Kew, Melbourne from 1882‑83 before being admitted to the Victoria Bar in 1884. He established a legal firm in Brisbane 1885 and became a Supreme Court barrister in due course. 
 
@@ -135,7 +135,7 @@ He entered politics as an MLC and served as Attorney‑General in 1893 and MLA f
 
 ## John Leahy <small>(7a‑4‑3)</small> 
 
-1854‑1909 
+1854 ‑ 1909 
 
 Leahy was born at Schull, Cork, the son of Patrick Leahy, a farmer, and Mary Coghlan. He arrived in Brisbane 1874 and was appointed Post Master at Windorah before settling at Thargomindah in 1883. Leahy married Annie Colbert in 1886. He was a member of the Bulloo Divisional Board 1889‑1893. A successful grazier, Leahy was President of the Woolbrokers’ Association. He was part owner of the Thargomindah Herald established by his younger brother Patrick James Leahy, and proprietor of the Royal Hotel 1886-1889. 
 
@@ -143,7 +143,7 @@ Leahy’s political career as member for Bulloo 1893 to 1909 saw him as Secretar
 
 ## Thomas Joseph Ryan <small>(7a‑3a‑1)</small>  
 
-1875‑1921 
+1875 ‑ 1921 
 
 Ryan was born at Boothapool near Port Fairy (also known as Belfast), the son of Timothy Joseph Ryan and Jane Cullen. The family arrived from Ireland in 1860. Ryan began his education at Melbourne University and studied law while teaching classics at Church Grammar, Launceston, Tasmania. He obtained his degree in 1899. 
 
@@ -161,7 +161,7 @@ He suffered from ill health and a bout of influenza caught in England in 1919 la
 
 ## Randal MacDonnell <small>(7‑20‑10)</small> 
 
-1830‑1877  
+1830 ‑ 1877  
 
 MacDonnell was born in Dublin, son of Thomas MacDonnell, an army officer, and his wife Frances Corry. He arrived in Sydney 1853 on the *Telegraph*. He was a teacher at National Schools in Sydney before establishing his own school at Paddington, Sydney in 1854. 
 
@@ -173,7 +173,7 @@ He moved to Queensland in 1860 and was appointed Inspector of National Schools a
 
 ## Peter Gaffney <small>(7‑19‑23)</small> 
 
-1839‑1879  
+1839 ‑ 1879  
 
 Born in Co. Cavan, Gaffney was the publican of the Dunmore Arms on the corner of George and Elizabeth Streets. He married Margaret Malynn in Brisbane in 1872 and together they had three children. Peter died of heart failure while bathing at Sandgate in 1879. His wife remained as publican until the licence expired in 1887.
 
@@ -189,7 +189,7 @@ Born in Co. Cavan, Gaffney was the publican of the Dunmore Arms on the corner of
 
 ## John Burke <small>(7‑19‑1)</small>  
 
-1842‑1919 
+1842 ‑ 1919 
 
 Burke was born at Kinsale, Cork the son of fisherman Denis Burke and his wife Ellen. He was a seaman on ships to the USA until the outbreak of the Civil War when he returned to Ireland and signed on with the crew of the *Erin Go Bragh* which arrived in Brisbane in August 1862. He deserted and worked as a pilot for the Australian Steam Navigation Company sailing the *Queensland* and the *Telegraph*. 
 
@@ -203,7 +203,7 @@ By his death in 1919, he had nineteen ships, although he had retired in 1915 sta
  
 ## John McDermott <small>(7‑56‑3)</small>  
 
-1841‑1908 
+1841 ‑ 1908 
 
 Born in Tyrone, McDermott arrived in Brisbane in 1864 on the *Earl Russell* with his wife Martha. He was the publican of one of the Valley’s most successful pubs, the Empire Hotel on the corner of Brunswick and Ann Streets. Originally a two‑story wooden building in the 1870s it was rebuilt into three storys in the 1890s. McDermott died independently wealthy in 1908 and was interred by the Reverend Father John O’Leary.
 
@@ -225,7 +225,7 @@ Born in Tyrone, McDermott arrived in Brisbane in 1864 on the *Earl Russell* with
 
 ## William Augustine O’Carroll <small>(7‑54‑9)</small>  
 
-1831‑1885 
+1831 ‑ 1885 
 
 Born at the family bakery in Patrick Street, Cork, O’Carroll was the son of a cargo ship’s Captain. He was a ‘Young Irelander’ in 1848 and joined the Fenians in 1858. He contributed to the Irish People, a Nationalist journal and became its editor. After the failure of the ‘St Patrick Plot’ of 1861, he fled Ireland with a price on his head. 
 
@@ -245,7 +245,7 @@ His funeral cortege consisted of 62 vehicles with over 500 persons attending the
 
 ## Francis (Frank) McDonnell <small>(7a‑17‑23)</small> 
 
-1863‑1928  
+1863 ‑ 1928  
 
 McDonnell was born at Ennis, Co. Clare to farmer James McDonnell and Elizabeth Bradish. His father died when he was seven and he went to work in a factory before being educated by the Christian Brothers at Ennis. In 1879, he was employed by Gallagher Bros. of Ballina, Sligo; a fellow employee being T. C. Beirne. 
 
@@ -265,7 +265,7 @@ In 1888 McDonnell organised the Shop Assistants Early Closing Association with h
 
 ## Michael Joseph Devitt <small>(15‑29‑6)</small>  
 
-1859‑1917 
+1859 ‑ 1917 
 
 Born in Ennistymon in County Clare the first born of a very large family. He, his parents Thomas and Bridget and most of his siblings migrated to Australia. Out of the 12 children one stayed in Ireland 2 died as babies, one went to Ohio in the USA and one to NSW and the remainder came to Queensland. 
 
