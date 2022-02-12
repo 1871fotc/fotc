@@ -1,6 +1,6 @@
 ---
 title: Data
-description: Download data about Toowong Cemetery 
+description: Download data about Toowong Cemetery, its graves, headstones, and the people remembered here
 ---
 
 #  Data

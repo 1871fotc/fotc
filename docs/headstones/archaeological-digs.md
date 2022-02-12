@@ -2,7 +2,7 @@
 search:
   boost: 1
 title: Archaeological Digs
-description: Uncovering stories from the past 
+description: Get your hands dirty and uncover stories from the past 
 ---
 
 # Archaeological Digs

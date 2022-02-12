@@ -1,6 +1,6 @@
 ---
 title: Our Publications
-description: Books and DVDs we've published 
+description: Books and DVDs we've published that your can read, watch, borrow or buy
 ---
 
 # Our Publications
