@@ -41,7 +41,7 @@ Most cemetery visitors are familiar with the compass and square, the working too
 >Scottish Constitution <br/>
 >U.G.L.Q. <br/>
 >Born Longreach. Q <br/>
->2^nd^ March 1898・ Died 12^th^ July 1979  <br/>
+>2^nd^ March 1898・ Died 12^th^ July 1979 <br/>
 >Brothers we shall meet again 
 
 The "V.W." after Andrew Norman Davidson's name may indicate he held the rank of Very Worshipful Brother. The rank is usually indicated as a "VW Bro." prefix before the person's name. Freemason ranks ascend through a hierarchy: 
@@ -60,7 +60,7 @@ The Odd Fellows were so named because they were originally drawn together from a
 
 ![](../assets/wooden-hand-heart-in-hand.jpg){ width="47.2%" }  ![](../assets/odd-fellows.jpg){ width="49%" }  
 
-*<small>[Wooden Hand - Heart in Hand](https://collections.museumsvictoria.com.au/items/251958) —  Museums Victoria </small>* <br>
+*<small>[Wooden Hand - Heart in Hand](https://collections.museumsvictoria.com.au/items/251958) — Museums Victoria </small>* <br>
 *<small>[Manchester Unity Independent Order of Odd Fellows, ca. 1910](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1413410) — State Library of Queensland</small>*
 
 <!-- 

@@ -127,7 +127,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
     ![](../assets/phyliss-mary-peixetto.jpg){ width="20%" }
 
     
-## Phyliss Mary Peixetto   <!-- (3‑ss‑gg)-->
+## Phyliss Mary Peixetto <!-- (3‑ss‑gg)-->
 
 (The "x" in Peixetto is pronounced "z".) 
 
@@ -209,7 +209,7 @@ About 1875 he carried a "Sepher Torah" (i.e. a Scroll of the Old Testament) on h
     ![](../assets/cornelia-harris.jpg){ width="20%" }
     -->
 
-## Cornelia Harris  <!-- (3‑ss‑gg)-->
+## Cornelia Harris <!-- (3‑ss‑gg)-->
 
 On this monument is a passage from Proverbs XXXI. It is a fine tribute to a goodly wife.
 
@@ -248,7 +248,7 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
     ![](../assets/arthur-hyam.jpg){ width="20%" }
 
 
-## Arthur Hyam  <!-- (3‑ss‑gg)-->
+## Arthur Hyam <!-- (3‑ss‑gg)-->
 
 You will see some columns with the top broken off. This is a well‑known symbol over the grave of a person who died at a young age. Later, you will see a monument on which is engraved a palm tree. An arm, wielding an axe has lopped off the tree top. This has the same significance.
 

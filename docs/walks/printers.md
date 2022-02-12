@@ -14,7 +14,7 @@ hide:
 
 Samuel was born in Wellingborough, Northamptonshire in 1819 where he learned his trade as a compositor. He arrived in Sydney in September 1852. He was seized with gold fever but soon found he was unsuited for life as a gold digger. He returned to the newspaper trade in Bathurst and Sydney, followed by a stint as a shepherd on a station property. 
 
-Samuel then came to Brisbane where he obtained employment as a compositor with the Brisbane Newspaper Company in 1860 and remained for nearly fifty years until his death on 9 November 1909 aged 90 years. As well as being a compositor, many essays, poems and sketches from his pen were published in the *Courier* and  *Queenslander*, including one published in the  *Brisbane Courier* following the death of Governor Blackall.
+Samuel then came to Brisbane where he obtained employment as a compositor with the Brisbane Newspaper Company in 1860 and remained for nearly fifty years until his death on 9 November 1909 aged 90 years. As well as being a compositor, many essays, poems and sketches from his pen were published in the *Courier* and *Queenslander*, including one published in the  *Brisbane Courier* following the death of Governor Blackall.
 
 ## Thomas Wontner <small>(13‑26‑21)</small>
 
@@ -28,7 +28,7 @@ His experiences gained while working on Queensland properties would influence hi
 
 ## Walter John Morley <small>(12‑13‑13/14)</small>
 
-Walter was born at Foulmire, England in 1852, moving to Queensland in 1858 with his parents. On leaving school he joined the literary staff of the  *Brisbane Courier* and remained with the company for 35 years including 15 years as editor of the Evening Observer. In 1900 he was appointed editor of the *Queensland Government Mining Journal*. 
+Walter was born at Foulmire, England in 1852, moving to Queensland in 1858 with his parents. On leaving school he joined the literary staff of the *Brisbane Courier* and remained with the company for 35 years including 15 years as editor of the Evening Observer. In 1900 he was appointed editor of the *Queensland Government Mining Journal*. 
 
 Walter was a foundation member and life member of both the Queensland Lawn Tennis Association and Royal Queensland Yacht Club. He also assisted in the formation of the Graceville Bowling Club and remained a member of that club until he died on 24 December 1937 aged 85 years at which time he was believed to be the oldest contributing journalist in the Commonwealth.
 
@@ -56,7 +56,7 @@ During the industrial turmoil of the 1890s he preferred to investigate local his
 
 ## James George Drake <small>(18‑136‑3)</small>
 
-James was born on 26 April 1850 in London. He arrived in Brisbane on 14 January 1874. He became a journalist working on regional newspapers as well as the Brisbane Telegraph and the  *Brisbane Courier* and, briefly, the *Melbourne Argus*. A competent shorthand writer, later president of the Queensland Shorthand Writers' Association, James was on the parliamentary reporting staff from 1876-1882. He studied law in his spare time and was called to the bar in 1882. Long a radical, his objection to Asian immigration into Queensland led him into association with William Lane. He became a shareholder, writer and joint editor of Lane's weekly *Boomerang* in 1887. 
+James was born on 26 April 1850 in London. He arrived in Brisbane on 14 January 1874. He became a journalist working on regional newspapers as well as the Brisbane Telegraph and the *Brisbane Courier* and, briefly, the *Melbourne Argus*. A competent shorthand writer, later president of the Queensland Shorthand Writers' Association, James was on the parliamentary reporting staff from 1876-1882. He studied law in his spare time and was called to the bar in 1882. Long a radical, his objection to Asian immigration into Queensland led him into association with William Lane. He became a shareholder, writer and joint editor of Lane's weekly *Boomerang* in 1887. 
 
 In 1888 James entered politics and at the end of 1899, he was appointed government leader in the Queensland Legislative Council and
 Postmaster-General and Secretary for Public Instruction. He was an energetic supporter of Federation, writing frequently in newspapers, publishing the pamphlet *Federation, Imperial or Democratic* and running his own fortnightly paper *Progress* which espoused the cause. 

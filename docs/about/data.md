@@ -41,7 +41,7 @@ Where practical, we link to authoritative data sources, rather than duplicate da
     - Cemetery Building outlines - Amenities, Workshop, Office, Museum and Shelter Sheds 
     - [Waterways](https://www.spatial-data.brisbane.qld.gov.au/datasets/e0839d26d85a429c8f64669ba69cfae7_0/explore?location=-27.475527%2C152.983328%2C17.22) - Langsville Creek and [Flood risk](https://www.data.brisbane.qld.gov.au/data/dataset/flood_awareness_overland_flow) are available as open open data
     - Governor Blackall and the Soldiers Memorial monument outlines
-    - [Contour lines](https://www.data.brisbane.qld.gov.au/data/dataset/contours-2002) - are  available as open data. These will help create a mobility map
+    - [Contour lines](https://www.data.brisbane.qld.gov.au/data/dataset/contours-2002) - are available as open data. These will help create a mobility map
 
 <!--
 - Bridges, Culverts and open Drains (polygon)

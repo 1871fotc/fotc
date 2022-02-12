@@ -15,7 +15,7 @@ hide:
     ![](../assets/404.png){ width="15%" }
 -->
 
-## Private Albert Williams Gyler  <small>(2‑41‑65)</small>
+## Private Albert Williams Gyler <small>(2‑41‑65)</small>
 
 3^rd^ Depot Battalion
 
@@ -96,7 +96,7 @@ Badly wounded 11/10/1917 GSW head and died of wounds 21/10/1917 at 27 years of a
 
 Enlisted 20/8/1914 Brisbane Embarked 2417/9/1914 *HMAT Omrah A5*. Returned to Australia on the Kyarra and discharged on medical grounds 4/4/1915 and passed away 5.50AM on 12/7/1920 and laid to rest 13/7/1920 in family grave in Toowong cemetery.
 
-## Lieutenant Francis Leofric Armstrong  <small>(2‑45‑16/17)</small>
+## Lieutenant Francis Leofric Armstrong <small>(2‑45‑16/17)</small>
 
 15^th^ Battalion
 

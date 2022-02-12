@@ -8,7 +8,7 @@ When Susannah was about six and living in Bathurst, her mother Elizabeth went on
 
 When Susannah was 19, she married John Shand Maclean, the son of a Equity Court judge in Jamaica. John had arrived in Australia seven years earlier in 1838. The first of Susannah's ten children was born in 1847. Susannah followed her husband around as he pursued his various interests. John attempted farming and for a time taught at a gentlemen's academy in the Richmond area of New South she gave Wales. 
 
-Susannah was in Bathurst in 1853, where she gave birth  to her third son. By 1856, where the ever-growing family had settled in the Burnett region of Queensland. Susannah's final four children were born on various cattle properties in the Burnett region.
+Susannah was in Bathurst in 1853, where she gave birth to her third son. By 1856, where the ever-growing family had settled in the Burnett region of Queensland. Susannah's final four children were born on various cattle properties in the Burnett region.
 
 Susannah struggled to raise her growing family with only the occasional help of indifferent servants. She was often left alone in the unlined slab house. At times Susannah would see eyes peering at her through the cracks. To ward them off, she would take a firearm from the rack and handle it as if she was about to use it. Her ruse appeared to have worked.
 

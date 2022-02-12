@@ -57,7 +57,7 @@ See also:
 
 ### Thomas A. Cloherty (26-25A-14C)
  
-- https://trove.nla.gov.au/newspaper/article/215671169?searchTerm=Captain%20Cloherty%20Harbor%20Master -  T. A. Cloherty
+- https://trove.nla.gov.au/newspaper/article/215671169?searchTerm=Captain%20Cloherty%20Harbor%20Master - T. A. Cloherty
 https://trove.nla.gov.au/newspaper/article/79617075?searchTerm=Captain%20Cloherty%20Harbor%20Master - Thomas
 - https://trove.nla.gov.au/newspaper/article/21674633?searchTerm=Captain%20James%20Cloherty - his family
 - https://trove.nla.gov.au/newspaper/article/185445976?searchTerm=Captain%20Cloherty%20Harbor%20Master - T. A. Cloherty illustration

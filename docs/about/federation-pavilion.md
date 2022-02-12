@@ -53,7 +53,7 @@ The Federation Pavilion commemorates the contribution of the delegates who atten
 
 ![](../assets/federation-pavilion-stone-3.jpg)
 
-> John Donaldson (1841-1896) was a Queensland pastoralist and a member of the Council of United Pastoralists' Association during the Great Strikes. He  served as Colonial Treasurer from 1889-1890 during turbulent times in Queensland. <br>
+> John Donaldson (1841-1896) was a Queensland pastoralist and a member of the Council of United Pastoralists' Association during the Great Strikes. He served as Colonial Treasurer from 1889-1890 during turbulent times in Queensland. <br>
 > <br>
 > Grave No. 12-47-13 
 

@@ -67,7 +67,7 @@ Emma died in 1917. On 22 October 1922 a publicly funded marble bust of her was u
 
 ![](../assets/emma-miller.jpg){ width="40%" }  ![](../assets/emma-miller-marble-bust.jpg){ width="35.75%" }
 
-*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland.  </small>* <br>
+*<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland. </small>* <br>
 *<small>[Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](https://en.wikipedia.org/wiki/File:Marble_Bust_of_Emma_Miller_held_at_Queensland_Council_of_Unions.jpg) by Alphi123, used under [CC BY-SA 4.0][cc-by-sa].  </small>*
 
 ![](../assets/arthur-hoey-davis--charles-lilley--emma-miller-statues.jpg){ width="76%" }

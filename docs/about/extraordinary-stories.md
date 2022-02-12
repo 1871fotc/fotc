@@ -199,7 +199,7 @@ Glenville stayed with the cattle while Charles inspected down the Mitchell and P
 
 The Aboriginals constantly killed and harassed the stock and menaced the lives of the settlers. In the efforts of the brothers to halt the attacks by dispersing the Aboriginals, Charles was wounded by a barbed spear which entered his back and became embedded. Glenville helped his older brother to travel over 190 kilometres, but shortly after reaching medical aid Charles died of exhaustion.
 
-Oscar joined Glenville at *Rokeby*. To make it cheaper and quicker to bring in supplies, the Massy brothers pushed a road through to the mouth of the Stuart River. Stores were then transported by sea from Cooktown and then by pack horse at the much reduced rate of  £10 per ton. The Queensland Government also used the road for forwarding supplies when building the overland telegraph line to Cape York.
+Oscar joined Glenville at *Rokeby*. To make it cheaper and quicker to bring in supplies, the Massy brothers pushed a road through to the mouth of the Stuart River. Stores were then transported by sea from Cooktown and then by pack horse at the much reduced rate of £10 per ton. The Queensland Government also used the road for forwarding supplies when building the overland telegraph line to Cape York.
 
 When by 1895 it was imperative to find a market for their increasing herd, Glenville moved to Thursday Island and established a butchering business, which he conducted on his own for the following 14 years as a means of absorbing the *Rokeby* stock. Then the butchering business was floated into a limited company with the title of "The Torres Straits Fresh Food and Ice Company", in which Glenville retained an interest for several years.
 
@@ -320,7 +320,7 @@ This story was contributed by Dottie Kemp.
 --- 
 
 
-## James Campbell  <small>(12‑15‑4)</small>
+## James Campbell <small>(12‑15‑4)</small>
 
 4 November 1838 - 13 September 1925
 

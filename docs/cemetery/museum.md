@@ -3,7 +3,7 @@ title: Toowong Cemetery Museum
 description: Discover our extensive display of photographs and artefacts
 ---
 
-#  Toowong Cemetery Museum
+# Toowong Cemetery Museum
 
 <!-- photographs -->
 

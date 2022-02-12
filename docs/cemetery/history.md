@@ -3,7 +3,7 @@ title: Toowong Cemetery History
 description: Discover the history of Toowong Cemetery
 ---
 
-#  Toowong Cemetery History
+# Toowong Cemetery History
 
 ## Traditional Owners
 
@@ -52,7 +52,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 
 *<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
-*<small>Series 46 Film BCC2 Frame 34691, 31 May 1946  — Brisbane City Council, via [QImagery](https://qimagery.information.qld.gov.au). Frederick St is the straight road on the right, running top to bottom.</small>*
+*<small>Series 46 Film BCC2 Frame 34691, 31 May 1946 — Brisbane City Council, via [QImagery](https://qimagery.information.qld.gov.au). Frederick St is the straight road on the right, running top to bottom.</small>*
 
 ## 1881 Queensland's oldest surviving tombstones
 
@@ -60,7 +60,7 @@ Three children originally interred in the North Quay Cemetery, were re‑interre
 
 ![](../assets/children-on-bank.jpg){ width="96%" }  
 
-*<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell  and Tank Streets. Source unknown.</small>*
+*<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell and Tank Streets. Source unknown.</small>*
 
 Esther Roberts, mother of **William Henry Roberts**, was the first teacher of girls in the Moreton Bay settlement. His father, Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. William was born on 15 September 1828 and died of illness on 15 November 1831. The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14:
 

@@ -58,7 +58,7 @@ The Brisbane Steam Laundry at South Brisbane first opened in January 1881 but wa
 
 *<small>[Ironing department of the Fish Steam Laundry, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220102730002061). Female employees working with large rollers in the ironing department of the Fish Steam Laundry — State Library of Queensland.</small>*
 
-## Remains from SS Gothenberg  <small>(16‑1‑3)</small>
+## Remains from SS Gothenberg <small>(16‑1‑3)</small>
 
 The steamship *Gothenberg* contracted for the Adelaide to Port Darwin run in 1874, was regarded as fast and dependable. On 17 February 1875 the ship left Port Darwin carrying approximately 100 passengers and 34 crew. As the ship sailed down the North Queensland coast, cyclonic weather conditions were encountered. During the evening of 24 February, the *Gothenberg*  struck the southern edge of Detached Reef approximately 131km south of Townsville at low tide and sank in the early hours of the next morning. [There were few survivors](https://trove.nla.gov.au/newspaper/article/1395449?searchTerm=GOTHENBERG).
 
@@ -77,7 +77,7 @@ Henry was a native of Bethnal Green in London's East End, the son of a silk weav
 
 ![](../assets/clickers-davey-halliday.jpg){ width="70%" }  
 
-*<small>[Clicker's department at Davey Halliday & Co, 1904](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool430702)  — State Library of Queensland.</small>*
+*<small>[Clicker's department at Davey Halliday & Co, 1904](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool430702) — State Library of Queensland.</small>*
 
 
 ![](../assets/davey-halliday-building.jpg){ width="70%" }  
@@ -111,7 +111,7 @@ Compiled and presented by Lyn Maddock
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - *A History of Fish Lane, part 3: The Fish Steam Laundry* — State Library of Queensland 
 - *James Trackson's tracks: Queensland's first motorist* — State Library of Queensland
-- [William Pettigrew 1825 - 1906: Sawmiller, surveyor, shipowner and citizen : an immigrant's life in colonial Queensland](../assets/documents/William-Pettigrew-1825-1906.pdf) -  Elaine Rosemary Brown. Via [UQ eSpace](https://espace.library.uq.edu.au/view/UQ:189814)
+- [William Pettigrew 1825 - 1906: Sawmiller, surveyor, shipowner and citizen : an immigrant's life in colonial Queensland](../assets/documents/William-Pettigrew-1825-1906.pdf) - Elaine Rosemary Brown. Via [UQ eSpace](https://espace.library.uq.edu.au/view/UQ:189814)
 - Javis Finger, *A Calvalcade of Queensland's Criminals*, 2012
 - [The Splendid Clipper 'Sobraon'](https://sydneylivingmuseums.com.au/stories/splendid-clipper-sobraon) - Sydney Living Museums 
 - Col Dunn, *The History of Electricity in Queensland*, 1985

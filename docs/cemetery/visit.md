@@ -4,7 +4,7 @@ search:
   boost: 2  
 ---
 
-#  Visit Toowong Cemetery
+# Visit Toowong Cemetery
 
 ![][main-entrance]
 
@@ -74,7 +74,7 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ### Cemetery Portion and Section Map 
 
-This map will help you to **[find graves](finding-graves.md)**.  The map shows the old Road names.
+This map will help you to **[find graves](finding-graves.md)**. The map shows the old Road names.
 
 [![](../assets/toowong-cemetery-map.png){ width="98%" }][map]
 
@@ -139,7 +139,7 @@ Some road names have recently been changed to the names of notable people buried
 Here are some of our favourites:
 
 - [Botanic Gardens Cafe](https://www.botanicgardenscafe.net) - 15 minute walk from Canon Garland Place
-- [The Summit Cafe](http://www.summitbrisbane.com.au)  - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot-tha Botanic Gardens to the Mt Coot-tha Lookout
+- [The Summit Cafe](http://www.summitbrisbane.com.au) - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot-tha Botanic Gardens to the Mt Coot-tha Lookout
 - [Sweetshop Specialty Coffee](https://sweetshopspecialtycoffee.com.au) - 1A Stuartholme Road, Bardon
 - [Bardon Thyme](https://www.facebook.com/bardonthyme) - 5 Morgan Terrace, Bardon
 - [Via Retro](https://viaretrocafe.com.au) - look for the cute retro caravan at J.C. Slaughter Falls on weekends

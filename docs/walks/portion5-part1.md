@@ -31,7 +31,7 @@ Jonas Malouf and his wife, Mary (née Hadad) were both born in the town of Zahla
 
 ## Alfred Wall and Alfred George Curtis Wall <small>(5‑27‑16)</small>
 
-Alfred Wall was born in England before migrating to Queensland in the ship *Young Australia* in 1866. He  spent head several years as head teacher at Bowen State School and in 1899 became head teacher at Milton State School until his retirement in 1917.
+Alfred Wall was born in England before migrating to Queensland in the ship *Young Australia* in 1866. He spent head several years as head teacher at Bowen State School and in 1899 became head teacher at Milton State School until his retirement in 1917.
 
 His son, Alfred George Curtis Wall served in WWI in the Australian Flying Corps No 2 Squadron where he was designated 1^st^ Air Mechanic.
 

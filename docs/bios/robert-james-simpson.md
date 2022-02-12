@@ -2,7 +2,7 @@
 hide:
   - toc
   - navigation
-description: Lost after his Whale boat capsized in the surf near Double Island Point   
+description: Lost after his Whale boat capsized in the surf near Double Island Point
 search:
   exclude: true
 ---

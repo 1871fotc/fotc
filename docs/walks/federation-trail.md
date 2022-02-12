@@ -14,7 +14,7 @@ This convention marked Queensland’s greatest role in the path towards Federati
 
 Other Queensland issues in the federation debate included Queensland’s use of indentured Melanesian labour that was in contrast the federation movement’s White Australia policy and the possible division of Queensland into two or three separate colonies. 
 
-Despite many arguments against federation, the Federal Referendum on the 2^nd^ of September 1899 narrowly voted in favour of Queensland's joining the new nation.  Interestingly, the south-east corner of the colony was against Federation.
+Despite many arguments against federation, the Federal Referendum on the 2^nd^ of September 1899 narrowly voted in favour of Queensland's joining the new nation. Interestingly, the south-east corner of the colony was against Federation.
 
 ![](../assets/federation-trail-map.png){ width="50%" } 
 

@@ -100,7 +100,7 @@ Helen died on 7 October 1907 in South Brisbane.
 
 ## Eliza Finney <small>(13‑81‑6/13)</small>
 
-Eliza Cornwall was born to Thomas Cornwall and Mary (née Thomas) in County Galway, Ireland ca. 1805. Thomas Finney, farmer, married Eliza in Tuam, County Galway in 1823. Eliza's newspaper obituaries stated she was mother to "no fewer than 21 children", while others  indicated she was the "mother of 23 children". 
+Eliza Cornwall was born to Thomas Cornwall and Mary (née Thomas) in County Galway, Ireland ca. 1805. Thomas Finney, farmer, married Eliza in Tuam, County Galway in 1823. Eliza's newspaper obituaries stated she was mother to "no fewer than 21 children", while others indicated she was the "mother of 23 children". 
 
 Some of the couple's children include. Mary Jane (1823-1841), Rachel (1829-1880), Frances Martha (1930-1882), Lewis William (ca. 1832-1910), Robert Cornwall (1835-?), Thomas (1837-1903), Susan (c. 1840-1923), Elizabeth Emma (1841-1912), Alfred Richard (1844-1901), Mary (ca. 1850-1924), Jane Margaret (ca. 1851-1927) and Helen Henrietta (ca. 1853-1908). 
 

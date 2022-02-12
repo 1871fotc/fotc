@@ -24,7 +24,7 @@ search:
 The Friends of Toowong Cemetery:
 
 - **research the history of Toowong Cemetery**, its [headstones](../headstones/), and the [biographies](../bios/) of the people interred there. 
-- **share our discoveries** with the community through our [guided tours](../guided-tours.md), [self‑guided walks](../walks/index.md),  [museum](../cemetery/museum.md), [publications](publications.md), and [data](data.md).
+- **share our discoveries** with the community through our [guided tours](../guided-tours.md), [self‑guided walks](../walks/index.md), [museum](../cemetery/museum.md), [publications](publications.md), and [data](data.md).
 - **contribute stories** of people interred at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications and biographical databases.
 - **clean and conserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
@@ -36,7 +36,7 @@ The Friends of Toowong Cemetery:
 The Friends of Toowong Cemetery have:
 
 - **established the [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. 
-- **commemorated the [140th Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the  National Trust of Queensland for our work.
+- **commemorated the [140th Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the National Trust of Queensland for our work.
 - provided **biographies for information signs** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby, and added the road names to Google Maps to make it easier to find your way around the cemetery.
 - shared the history and stories of Toowong Cemetery through monthly **[guided tours](../guided-tours.md)**.

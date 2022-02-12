@@ -1,4 +1,4 @@
-## Sir Arthur Rutledge KCMG, QC, MLA  <small>(13‑49‑15)</small>
+## Sir Arthur Rutledge KCMG, QC, MLA <small>(13‑49‑15)</small>
 
 ![](../assets/arthur-rutledge.jpg){ width="40%" } 
 

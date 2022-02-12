@@ -20,7 +20,7 @@ On Thursday, 13 November 1884, Alfred was riding his Penny Farthing bicycle alon
 >By a fall from his bicycle <br>
 >May he rest in Peace <br>
 > 
->Also his Mother  <br>
+>Also his Mother <br>
 >Ellen Duggan <br>
 >Died May 17^th^ 1915 Aged 76 years <br>
 

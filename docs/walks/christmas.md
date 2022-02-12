@@ -25,7 +25,7 @@ hide:
 
 5227 / Q54752
 
-A son of Joseph Abbott and Rose Ann (née Napier), Joseph was born on 30 May 1899 in Gympie. Joseph, a greaser, enlisted on 22 November 1917 and was assigned to the 31^st^ Battalion AIF. Private Abbott was gassed in France on 30  September 1918 and was medically discharged in 1919.
+A son of Joseph Abbott and Rose Ann (née Napier), Joseph was born on 30 May 1899 in Gympie. Joseph, a greaser, enlisted on 22 November 1917 and was assigned to the 31^st^ Battalion AIF. Private Abbott was gassed in France on 30 September 1918 and was medically discharged in 1919.
 
 Ellen Mary Clegg married Joseph in Brisbane on 16 February 1921. In May 1928, J R Abbott was listed as a successful candidate of an locomotive and traction engine driver certificate in Mackay.
 

@@ -48,13 +48,13 @@ Start your walk behind the Toowong Cemetery Office and Museum.
 
 ## 4. Alexander Robertson Lyon <small>(10-51-10)</small>
 
-## 5. Richard Whitby  <small>(10-39-14)</small>
+## 5. Richard Whitby <small>(10-39-14)</small>
 
 ## 6. Hamilton St. Clair Yaldwyn <small>(10-11-24)</small>
 
 ## 7. Harry Allen <small>(10-44-26)</small>
 
-## 8. Canon David John Garland  <small>(1-50a-9)</small>
+## 8. Canon David John Garland <small>(1-50a-9)</small>
 
 
 ## Copyright
