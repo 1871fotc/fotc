@@ -11,7 +11,7 @@ hide:
 ## Convict settlement children
 
 
-### Peter McCauley <small>(13-10-4)</small>
+### Peter McCauley <small>(13‑10‑4)</small>
 
 Peter McCauley was born in Sydney on the 17^th^ of April 1826, the son of Private Peter McCauley, a member of the 17^th^ Regiment. His mother, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On the 5^th^ of January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The family returned to Sydney in 1832.
 
@@ -29,7 +29,7 @@ Jane Pittard was the daughter of the late Colour Sergeant John Pittard and his w
 
 ## Thomas Dowse <small>(13‑58‑22)</small>
 
-Thomas Dowse was born at Hackney, London. Aged 15, he was accused of theft by his mother, tried at Middlesex on 16 September 1824, convicted and sentenced to life imprisonment. He was transported to New South Wales in the Florentia which arrived in January 1828. At St John's, Parramatta, in 19 November 1832 he married Ann Kelly. Only three of their seven children survived infancy. In 1836, Dowse was granted a ticket‑of‑leave and a conditional pardon in 1839. When the Moreton Bay District was opened for free settlement he decided to go there to see what opportunity awaited a man who was in good health and not afraid of hard work. 
+Thomas Dowse was born at Hackney, London. Aged 15, he was accused of theft by his mother, tried at Middlesex on 16 September 1824, convicted and sentenced to life imprisonment. He was transported to New South Wales in the *Florentia* which arrived in January 1828. At St John's, Parramatta, in 19 November 1832 he married Ann Kelly. Only three of their seven children survived infancy. In 1836, Dowse was granted a ticket‑of‑leave and a conditional pardon in 1839. When the Moreton Bay District was opened for free settlement he decided to go there to see what opportunity awaited a man who was in good health and not afraid of hard work. 
 
 The family arrived aboard the *Falcon* on 9 July 1842. Noticing the need of a ferry across the river, he bought a skiff which by 1843 had earned three times its value. By 1846 he was established as an auctioneer and commission agent, and also had the agency for the Sydney Morning Herald. At his premises in Queen Street he sold almost anything from shirts, frock coats, cutlery, looking‑glasses and books to livestock. His auction mart also became a centre for discussion of social reform, for perhaps no one then had a greater horror of the degrading convict system or worked harder to end it. 
 
