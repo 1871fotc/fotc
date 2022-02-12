@@ -17,6 +17,15 @@ description: Biographies of people interred at Toowong Cemetery
         - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
 
 
+??? question "Volunteer - Contribute missing data"
+
+    Do you know about any of the data missing in the table above? Did you spot an error? 
+    **[Contact us](../about/index.md#contact-us)** with the details. 
+    
+    If you'd like to search for missing data, check out these **[Research Resources](research.md)**.
+
+
+
 | Given Names          | Last Name                                 | Born       | Died       | Location   | 
 | ----------:          | :--------                                 |:---------  | :--------- | :--------- | 
 | Samuel Wensley      | **[Blackall](samuel-wensley-blackall.md)** | 1809-05-01 | 1871-01-02 | Mount Blackall | 
@@ -194,8 +203,6 @@ description: Biographies of people interred at Toowong Cemetery
 | Edmund               | Curd                                      | yyyy-mm-dd | 1922-12-dd | 4-37-14    | <!-- Toowong 2 -->
 | Victor               | McGregor-Lowndes                          | 1884-mm-dd | 1951-07-21 | 4-16-gg    | 
 | Jean                 | McGregor-Lowndes                          | yyyy-mm-dd | 1976-06-dd | 4-16-gg    | 
-| Mary Elizabeth       | Weedon                                    | yyyy-mm-dd | 1942-03-dd | 4-3-20     | 
-| Annie                | Griffiths                                 | yyyy-mm-dd | 1943-07-dd | 4-3-2      | 
 | William              | Busby                                     | yyyy-mm-dd | 1928-mm-dd | 4-3-22     | 
 | Sali                 | Mendelsohn                                | yyyy-mm-dd | yyyy-mm-dd | 3-6-7      | 
 | Harriet              | Johnson                                   | yyyy-mm-dd | 1914-mm-dd | 1-37-gg    | 
@@ -242,7 +249,6 @@ description: Biographies of people interred at Toowong Cemetery
 | Patrick              | Real                                      | 1846-03-17 | 1928-06-10 | 7A-153-7  | 
 | George Rogers        | Harding                                   | 1838-12-03 | 1895-08-31 | 1-82-15   | 
 | William Henry Abbot  | Hirst                                     | 1837-02-21 | 1878-05-26 | 1-10-17   | 
-| Pope Alexander       | Cooper                                    | 1846-05-12 | 1923-08-30 | 13-37-1   | 
 | Ratcliffe            | Pring                                     | 1825-10-17 | 1885-03-25 | 13-75-9   | 
 | Charles Stuart       | Mein                                      | 1841-06-14 | 1890-06-30 | 12-11-13  | 
 | John Laskey          | Woolcock                                  | 1861-11-07 | 1929-01-18 | 11-65-2   | 
@@ -253,8 +259,7 @@ description: Biographies of people interred at Toowong Cemetery
 | Walter John          | Morley                                    | 1852-mm-dd | 1937-12-24 | 12-13-13/14 | 
 | David Frederick Tudor | Jones                                    | 1830-08-13 | 1892-10-06 | 12-16-26  | 
 | George               | Woolnorth                                 | 1834-08-17 | 1929-06-19 | 11-16-16  | 
-| James                | Cowlishaw                                 | 1834-12-19 | 1929-07-25 | 11-14-7/7A | 
-| George               | Cowlishaw                                 | 1841-04-21 | 1913-01-06 | 11-14-7/7A | 
+| George               | Cowlishaw                                 | 1841-04-21 | 1913-01-06 | 11-14-7   | 
 | John James           | Knight                                    | 1863-06-07 | 1927-11-24 | 8-33-32   | 
 | James George         | Drake                                     | 1850-04-26 | 1941-08-01 | 18-136-3  | 
 | Richard Sanderson    | Taylor                                    | 1866-mm-dd | 1932-06-06 | 8-49-19   | 
@@ -269,7 +274,6 @@ description: Biographies of people interred at Toowong Cemetery
 | John Wilson          | Weir                                      | yyyy-mm-dd | 1947-12-16 | 8-34-30   | 
 | John Edward          | Maidens                                   | 1874-02-30 | 1924-12-07 | 18-79-13  | 
 | William Henley       | Rawlings                                  | 1848-02-28 | 1906-07-05 | 11-51-1   | 
-| William Henry        | Browne                                    | 1846-09-13 | 1904-04-12 | 11-51-3   | 
 | Hugh                 | Mosman                                    | 1843-02-11 | 1909-11-15 | 5-62-12   | 
 | William Chalmers     | Brown                                     | 1841-mm-dd | 1909-04-15 | 9-31-7    | 
 | Christopher          | Francis                                   | 1840-mm-dd | 1915-11-10 | 2-37-31/32    |  <!-- Police -->
@@ -287,43 +291,75 @@ description: Biographies of people interred at Toowong Cemetery
 | Matthew              | Collopy                                   | 1844-mm-dd | 1880-mm-dd | 7-5-3     | 
 | Joseph               | Kelly                                     | 1858-mm-dd | 1878-04-02 | 7-9-24    | 
 | Thomas               | Slattery                                  | 1824-mm-dd | 1878-02-05 | 7-9-4     | 
-| William McCallum     | Park                                      | 1836-mm-dd | 1934-09-06 | 13‑19‑15/16 |  <!-- Building Brisbane (open house)-->
-| William              | Macfarlane                                | 1832-05-30 | 1886-06-10 | 14‑7‑20/21 | 
-| Henry                | Holmes                                    | yyyy-mm-dd | 1898-11-30 | 1‑7‑15/16/17 | 
-| Thomas               | Dempster                                  | 1867-03-23 | 1946-05-16 | 18‑17‑22/23 | 
-| Arthur               | Midson                                    | 1852-mm-dd | 1943-07-08 | 11‑71‑1   | 
-| George John          | Ely                                       | yyyy-mm-dd | 1877-08-15 | 13‑89‑1   | 
-| Ebenezer             | Chapman                                   | 1843-07-12 | 1929-07-11 | 13‑34‑11    | 
-| Ann Elizabeth        | Horsfall                                  | yyyy-mm-dd | 1863-09-02 | 13‑3‑12    | <!-- Children -->
-| Peter                | McCauley                                  | 1827-06-dd | 1832-01-dd | 13‑10‑4   | 
-| Agnes Elizabeth      | Hiron                                     | 1864-mm-dd | 1875-09-dd | 13‑20‑9   | 
-| George               | Hiron                                     | 1886-mm-dd | 1901-12-dd | 13‑20‑9   | 
-| Edward               | Hobbs                                     | 1862-mm-dd | 1875-01-04 | 13‑55‑5   | 
-| John Philip          | Gow                                       | 1864-01-01 | 1864-11-14 | 13‑64‑19  | 
-| Margaret Kirk        | Gow                                       | yyyy-mm-dd | 1865-08-dd | 13‑64‑19  | 
-| Mary                 | Gow                                       | 1867-06-14 | 1868-06-dd | 13‑64‑19  | 
-| James                | Gow                                       | 1878-03-23 | 1878-05-19 | 13‑64‑19  | 
-| James John           | Gow                                       | 1880-03-19 | 1882-11-05 | 13‑64‑19  | 
-| Bruce                | Wallace                                   | 1885-mm-dd | 1899-11-22 | 9‑46‑9    | 
-| Ina Euphemia         | Wallace                                   | 1889-mm-dd | 1899-11-22 | 9‑46‑9    | 
-| Hector               | Vasyli                                    | 1907-mm-dd | 1918-06-09 | 10‑38‑24  | 
-| Doris                | Gilbert                                   | 1905-mm-dd | 1913-02-21 | 10‑28‑7   | 
+| William McCallum     | Park                                      | 1836-mm-dd | 1934-09-06 | 13-19-15/16 |  <!-- Building Brisbane (open house)-->
+| William              | Macfarlane                                | 1832-05-30 | 1886-06-10 | 14-7-20/21 | 
+| Henry                | Holmes                                    | yyyy-mm-dd | 1898-11-30 | 1-7-15/16/17 | 
+| Thomas               | Dempster                                  | 1867-03-23 | 1946-05-16 | 18-17-22/23 | 
+| Arthur               | Midson                                    | 1852-mm-dd | 1943-07-08 | 11-71-1   | 
+| George John          | Ely                                       | yyyy-mm-dd | 1877-08-15 | 13-89-1   | 
+| Ebenezer             | Chapman                                   | 1843-07-12 | 1929-07-11 | 13-34-11    | 
+| Ann Elizabeth        | Horsfall                                  | yyyy-mm-dd | 1863-09-02 | 13-3-12    | <!-- Children -->
+| Peter                | McCauley                                  | 1827-06-dd | 1832-01-dd | 13-10-4   | 
+| Agnes Elizabeth      | Hiron                                     | 1864-mm-dd | 1875-09-dd | 13-20-9   | 
+| George               | Hiron                                     | 1886-mm-dd | 1901-12-dd | 13-20-9   | 
+| Edward               | Hobbs                                     | 1862-mm-dd | 1875-01-04 | 13-55-5   | 
+| John Philip          | Gow                                       | 1864-01-01 | 1864-11-14 | 13-64-19  | 
+| Margaret Kirk        | Gow                                       | yyyy-mm-dd | 1865-08-dd | 13-64-19  | 
+| Mary                 | Gow                                       | 1867-06-14 | 1868-06-dd | 13-64-19  | 
+| James                | Gow                                       | 1878-03-23 | 1878-05-19 | 13-64-19  | 
+| James John           | Gow                                       | 1880-03-19 | 1882-11-05 | 13-64-19  | 
+| Bruce                | Wallace                                   | 1885-mm-dd | 1899-11-22 | 9-46-9    | 
+| Ina Euphemia         | Wallace                                   | 1889-mm-dd | 1899-11-22 | 9-46-9    | 
+| Hector               | Vasyli                                    | 1907-mm-dd | 1918-06-09 | 10-38-24  | 
+| Doris                | Gilbert                                   | 1905-mm-dd | 1913-02-21 | 10-28-7   | 
+| William Henry        | Roberts                                   | 1828-09-15 | 1831-11-15 | 13-10-4   |  <!-- Convicts -->
+| Jane                 | Pittard                                   | 1832-01-10 | yyyy-mm-dd | 13-10-4   | 
+| Thomas               | Dowse                                     | yyyy-mm-dd | 1885-11-09 | 13-58-22  | 
+| Agnes Susan          | Maclean                                   | yyyy-mm-dd | 1911-01-20 | 5-107-19  | 
+| Edward               | Mott                                      | 1807-mm-dd | 1900-08-28 | 7-44-22   | 
+| James                | Davis (*Duramboi*)                        | yyyy-mm-dd | 1889-05-07 | 7-5-15    | 
+| Mary Elizabeth       | Weedon                                    | yyyy-mm-dd | 1942-03-dd | 4-3-20    |  <!-- In their caring hands -->
+| Annie                | Griffiths                                 | yyyy-mm-dd | 1943-07-dd | 4-3-20    | 
+| Edith Harriett       | Rennie                                    | yyyy-mm-dd | 1930-12-25 | 10-62-22  | 
+| Nina Robertson       | McDonald                                  | yyyy-mm-dd | 1934-05-11 | 10-68-31  | 
+| Elsie Muriel         | Jones                                     | yyyy-mm-dd | 1942-05-17 | 10-45-24  | 
+| Julia Harriett       | Blaycock                                  | yyyy-mm-dd | 1916-09-11 | 10-14-6   | 
+| Alice Maud Mary      | Le Bas                                    | yyyy-mm-dd | 1886-09-25 | 1-39-14   | 
+| Emily                | Owen                                      | yyyy-mm-dd | 1885-05-24 | 1-39-5    | 
+| Mary Constance       | Crosse                                    | yyyy-mm-dd | 1890-10-28 | 1-39-15   | 
+| James                | Gray                                      | yyyy-mm-dd | 1906-01-22 | 2-37-14   | 
+| Florence             | Truelove                                  | yyyy-mm-dd | 1896-03-12 | 2-44-31   | 
+| Rose Jane            | Walker                                    | yyyy-mm-dd | 1935-mm-dd | 5-25-1/2  | 
+| Sarah Stevens        | Lygo                                      | yyyy-mm-dd | 1928-07-09 | 5-38-7    | 
+| Arthur Charles Frederick | Halford                               | 1869-11-23 | 1945-01-13 | 5-17-18   | 
+| Vera Evelyn          | James                                     | yyyy-mm-dd | 1999-mm-dd | 2A-23-16  | 
+| Mary Jane            | Brown                                     | 1861-mm-dd | 1939-08-18 | 5-63-24   | 
+| Nora                 | Halford                                   | yyyy-mm-dd | 1932-08-09 | 7A-102-23A | 
+| Catherine            | Fitzgerald                                | yyyy-mm-dd | 1931-01-23 | 7A-102-23A | 
+| Agnes Kathrine       | Isambert                                  | 1874-mm-dd | 1956-06-07 | 7-59-5/6  | 
+| Ellen Margaret       | Kavanagh                                  | yyyy-mm-dd | 1944-11-05 | 7A-29-14A | 
+| Zita Stella          | Lyons                                     | yyyy-mm-dd | yyyy-mm-dd | 7A-164-18 | 
+| Gertrude             | Daly                                      | yyyy-mm-dd | 1961-10-30 | 7A-171-1  | 
+| Susannah Josephine   | McGann                                    | yyyy-mm-dd | 1925-06-10 | 15-31-16  | 
+| Elizabeth Margaret   | Hulett                                    | yyyy-mm-dd | 1986-mm-dd | 15A-9-16  | 
+| Ethel Ivy Ellen      | Amess                                     | yyyy-mm-dd | 1927-10-31 | 25-29-16  | 
+| Katherine Glasson    | Taylor                                    | yyyy-mm-dd | 1998-05-14 | 8-71-37   | 
+| Mary Josephine       | Bedford                                   | yyyy-mm-dd | 1955-mm-dd | 8-69-13/14 | 
+| Lillian              | Leitch                                    | yyyy-mm-dd | 1967-07-09 | 8-40-30/31 | 
+| Isabella Jane        | Mason                                     | yyyy-mm-dd | 1930-10-17 | 18-120-8  | 
+| Lilian Gertrude      | Ramsay                                    | yyyy-mm-dd | 1960-06-05 | 11-71-2   | 
+| Mary                 | Hogan                                     | 1923-mm-dd | 2002-05-dd | 22-16-18  | 
+| Patricia Marion      | Hull                                      | yyyy-mm-dd | 1964-mm-dd | 22-17-25  | 
+| Annie                | McGarrigal                                | yyyy-mm-dd | 1964-10-11 | 22-22-23  | 
+| Helena Veronica      | Luton                                     | yyyy-mm-dd | 1977-06-14 | 22-30-11  | 
+| Agnes Helen (*Nell*) | Storie                                    | 1905-mm-dd | 1990-10-08 | 30-36-31  | 
 
 
 <!--
-
 | firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    |  <!- ->
 | firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
 
 -->
-
-
-!!! question "Volunteer - Contribute missing data"
-
-    Do you know about any of the data missing in the table above? Did you spot an error? 
-    **[Contact us](../about/index.md#contact-us)** with the details. 
-    
-    If you'd like to search for missing data, check out these **[Research Resources](research.md)**.
 
 
 The [Biography Index](index.md) by [Friends of Toowong Cemetery Association Incorporated](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must [provide attribution](../about/legal.md#attribution) if you reuse this work.
