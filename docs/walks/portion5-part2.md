@@ -6,7 +6,6 @@ hide:
 
 # A ramble through Portion 5 (part 2)  
 
-
 <!--
 Introduction
 
