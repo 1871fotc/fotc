@@ -4,17 +4,11 @@ description: Biographies of people interred at Toowong Cemetery
 
 # Biography Index
 
-**Read the stories of the people interred at Toowong Cemetery**. The index below lists some of the people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
+**Read the stories of the people interred at Toowong Cemetery**. The index below lists over 300 of the people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
 
-??? directions "How to use the Index" 
+??? warning "Work in progress"
 
-    - Sort the table by clicking a column name.
-    - The Last Name links to the person's Biography which may include information beyond what is shown in the self-guided walk. We're progressively creating individual pages for each person - some Last Names don't have links yet.
-    - Also known as names are shown in *italics* in brackets.
-    - Dates are formatted as yyyy-mm-dd (year, month, day) to help with sorting. Where a year, month or day is unknown, a placeholder value of "yyyy", "mm", or "dd" is used.
-    - Location is in the Portion-Section-Grave format.
-        - Where a Grave number is unknown, a placeholder value of "gg" is used. 
-        - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
+    We're progressively creating individual pages for each person. Many people don't have links to their own page yet.
 
 
 ??? question "Volunteer - Contribute missing data"
@@ -23,6 +17,16 @@ description: Biographies of people interred at Toowong Cemetery
     **[Contact us](../about/index.md#contact-us)** with the details. 
     
     If you'd like to search for missing data, check out these **[Research Resources](research.md)**.
+
+??? directions "How to use the Index" 
+
+    - Sort the table by clicking a column name.
+    - The Last Name links to the person's Biography which may include information beyond what is shown in the self-guided walk. 
+    - Also known as names are shown in *italics* in brackets.
+    - Dates are formatted as yyyy-mm-dd (year, month, day) to help with sorting. Where a year, month or day is unknown, a placeholder value of "yyyy", "mm", or "dd" is used.
+    - Location is in the Portion-Section-Grave format.
+        - Where a Grave number is unknown, a placeholder value of "gg" is used. 
+        - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
 
 
 
@@ -353,6 +357,23 @@ description: Biographies of people interred at Toowong Cemetery
 | Annie                | McGarrigal                                | yyyy-mm-dd | 1964-10-11 | 22-22-23  | 
 | Helena Veronica      | Luton                                     | yyyy-mm-dd | 1977-06-14 | 22-30-11  | 
 | Agnes Helen (*Nell*) | Storie                                    | 1905-mm-dd | 1990-10-08 | 30-36-31  | 
+| Anne                 | Devoy                                     | 1817-mm-dd | 1908-mm-dd | 7-7-34    |  <!-- Irish -->
+| Joseph               | Darragh                                   | 1828-mm-dd | 1902-mm-dd | 7-27-11   | 
+| William Grene        | Power                                     | 1835-mm-dd | 1903-08-14 | 7-45-18   | 
+| James Thomas         | Mooney                                    | 1855-mm-dd | 1877-mm-dd | 7-45-10   | 
+| Patrick              | Mayne                                     | 1825-mm-dd | 1865-mm-dd | 7-49-9    | 
+| John                 | Ahern                                     | 1838-mm-dd | 1893-mm-dd | 7-51-4    | 
+| Andrew               | Purcell                                   | 1811-mm-dd | 1888-mm-dd | 7-50-1    | 
+| Thomas Joseph        | Byrnes                                    | 1860-mm-dd | 1898-09-dd | 7-47-5    | 
+| John                 | Leahy                                     | 1854-mm-dd | 1909-mm-dd | 7a-4-3    | 
+| Thomas Joseph        | Ryan                                      | 1875-mm-dd | 1921-mm-dd | 7a-3a-1   | 
+| Randal               | MacDonnell                                | 1830-mm-dd | 1877-mm-dd | 7-20-10   | 
+| Peter                | Gaffney                                   | 1839-mm-dd | 1879-mm-dd | 7-19-23   | 
+| John                 | Burke                                     | 1842-mm-dd | 1919-mm-dd | 7-19-1    | 
+| John                 | McDermott                                 | 1841-mm-dd | 1908-mm-dd | 7-56-3    | 
+| William Augustine    | O’Carroll                                 | 1831-mm-dd | 1885-mm-dd | 7-54-9    | 
+| Francis (*Frank*)    | McDonnell                                 | 1863-mm-dd | 1928-mm-dd | 7a-17-23  | 
+| Michael Joseph       | Devitt                                    | 1859-mm-dd | 1917-mm-dd | 15-29-6   | 
 
 
 <!--
