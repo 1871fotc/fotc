@@ -17,7 +17,7 @@ Ann Elizabeth Horsfall died on 2 September 1863 aged seven. Her siblings Thomas 
 ## Peter McCauley <small>(13‑10‑4)</small>
 
 Peter McCauley was the son of a private in H .M. 17^th^ Regiment of Foot. He was accidentally drowned in January 1832 aged 5 years and 8 months. Peter and two other children were originally interred in the North Quay Cemetery and then re‑interred at Toowong in October 1881.
-
+ 
 > A Lovely Boy possess'd of every charm <br>
 > Could not the Tyrants fatal dart disarm?  <br>
 > Engaging sweetness met the destined blo'  <br>
