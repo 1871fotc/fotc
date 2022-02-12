@@ -158,7 +158,9 @@ William’s son and namesake was said to be the first Queensland‑born sailor t
 
 -->
 
-## Able Seaman Archibald Edward Bartsch <small>(10‑44‑20)</small>, Warrant Officer Henry Theeman <small>(10‑41‑21)</small>, Steward Eric Ross Harrison <small>(10‑43‑7)</small>
+## Able Seaman Archibald Edward Bartsch <small>(10‑44‑20)</small>
+## Warrant Officer Henry Theeman <small>(10‑41‑21)</small>
+## Steward Eric Ross Harrison <small>(10‑43‑7)</small>
 
 On the 4^th^ of March 1942, the auxiliary minesweeper HMAS Tambar was fired on by the Examination Battery at Fort Cowan Cowan on Moreton Island. The military covered up the incident so as not to affect morale. The Tambar’s crew was dispersed throughout the RAN immediately after the men’s joint funeral two days later. The ship was temporarily paid off and the Captain given another command. The service was conducted by the Rev. H. H. Trigge of the Methodist Church and the Church of England’s Rev. F. R. C. Birch. Cannon and Cripps arranged the funeral.
 
