@@ -287,11 +287,32 @@ description: Biographies of people interred at Toowong Cemetery
 | Matthew              | Collopy                                   | 1844-mm-dd | 1880-mm-dd | 7-5-3     | 
 | Joseph               | Kelly                                     | 1858-mm-dd | 1878-04-02 | 7-9-24    | 
 | Thomas               | Slattery                                  | 1824-mm-dd | 1878-02-05 | 7-9-4     | 
+| William McCallum     | Park                                      | 1836-mm-dd | 1934-09-06 | 13‑19‑15/16 |  <!-- Building Brisbane (open house)-->
+| William              | Macfarlane                                | 1832-05-30 | 1886-06-10 | 14‑7‑20/21 | 
+| Henry                | Holmes                                    | yyyy-mm-dd | 1898-11-30 | 1‑7‑15/16/17 | 
+| Thomas               | Dempster                                  | 1867-03-23 | 1946-05-16 | 18‑17‑22/23 | 
+| Arthur               | Midson                                    | 1852-mm-dd | 1943-07-08 | 11‑71‑1   | 
+| George John          | Ely                                       | yyyy-mm-dd | 1877-08-15 | 13‑89‑1   | 
+| Ebenezer             | Chapman                                   | 1843-07-12 | 1929-07-11 | 13‑34‑11    | 
+| Ann Elizabeth        | Horsfall                                  | yyyy-mm-dd | 1863-09-02 | 13‑3‑12    | <!-- Children -->
+| Peter                | McCauley                                  | 1827-06-dd | 1832-01-dd | 13‑10‑4   | 
+| Agnes Elizabeth      | Hiron                                     | 1864-mm-dd | 1875-09-dd | 13‑20‑9   | 
+| George               | Hiron                                     | 1886-mm-dd | 1901-12-dd | 13‑20‑9   | 
+| Edward               | Hobbs                                     | 1862-mm-dd | 1875-01-04 | 13‑55‑5   | 
+| John Philip          | Gow                                       | 1864-01-01 | 1864-11-14 | 13‑64‑19  | 
+| Margaret Kirk        | Gow                                       | yyyy-mm-dd | 1865-08-dd | 13‑64‑19  | 
+| Mary                 | Gow                                       | 1867-06-14 | 1868-06-dd | 13‑64‑19  | 
+| James                | Gow                                       | 1878-03-23 | 1878-05-19 | 13‑64‑19  | 
+| James John           | Gow                                       | 1880-03-19 | 1882-11-05 | 13‑64‑19  | 
+| Bruce                | Wallace                                   | 1885-mm-dd | 1899-11-22 | 9‑46‑9    | 
+| Ina Euphemia         | Wallace                                   | 1889-mm-dd | 1899-11-22 | 9‑46‑9    | 
+| Hector               | Vasyli                                    | 1907-mm-dd | 1918-06-09 | 10‑38‑24  | 
+| Doris                | Gilbert                                   | 1905-mm-dd | 1913-02-21 | 10‑28‑7   | 
 
- 
+
 <!--
 
-| firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
+| firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    |  <!- ->
 | firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
 
 -->
