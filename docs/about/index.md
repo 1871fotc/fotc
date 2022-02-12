@@ -25,7 +25,7 @@ The Friends of Toowong Cemetery:
 
 - **research the history of Toowong Cemetery**, its [headstones](../headstones/), and the [biographies](../bios/) of the people interred there. 
 - **share our discoveries** with the community through our [guided tours](../guided-tours.md), [self‑guided walks](../walks/index.md), [museum](../cemetery/museum.md), [publications](publications.md), and [data](data.md).
-- **contribute stories** of people interred at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications and biographical databases.
+- **contribute stories** of people remembered at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications and biographical databases.
 - **clean and conserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
 - **consult with the Brisbane City Council** on future plans and the restoration of graves.

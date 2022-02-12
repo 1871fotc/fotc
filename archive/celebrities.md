@@ -6,7 +6,7 @@ hide:
 
 # Celebrity Headstones
 
-Many people interred in Toowong Cemetery share their name with celebrities or the characters they played. 
+Many people remembered in Toowong Cemetery share their name with celebrities or the characters they played. 
 
 <!-- Start with an array of headstone pictures with links. Could extend to include pictures of Celebrities -->
 

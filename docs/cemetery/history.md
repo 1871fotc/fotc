@@ -310,7 +310,7 @@ A survey of the layout of graves, reveal differences between many of the portion
 - Watch **[Dying Out](https://youtu.be/r8b_DA_BkNs)** shown in 1986 on the ABC's Weekend Magazine
 - Watch Hilda MacLean, our second President, discuss Toowong Cemetery on **[Between the Lines](https://vimeo.com/7935322)**
 - Watch Darcy Maddock, our current President, **[Talk History](https://www.youtube.com/playlist?list=PLv0V6xrruq2kcliEjK1Kus3O4gFPthNKz)**
-- Read our **[stories of the people interred at Toowong Cemetery](../bios/index.md)**
+- Read our **[stories of the people remembered at Toowong Cemetery](../bios/index.md)**
 
 
 <!--
