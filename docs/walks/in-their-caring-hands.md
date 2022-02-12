@@ -14,7 +14,7 @@ At Toowong Cemetery are many health professionals; nurses, doctors, dispensers a
 
 ## Mary Elizabeth Weedon and Annie Griffiths <small>(4‑3‑20)</small>
 
-Mary Weedon, who trained at London’s Charing Cross Hospital, was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She was the Vice‑President of the Australasian Trained Nurses’ Association (ATNA), Queensland Branch from 1904 to 1905 and a councillor from 1905 to 1906. She and her friend, Annie Griffiths, shared a house called Garton in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
+Mary Weedon, who trained at London’s Charing Cross Hospital, was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She was the Vice‑President of the Australasian Trained Nurses’ Association (ATNA), Queensland Branch from 1904 to 1905 and a councillor from 1905 to 1906. She and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
 
 ![](../assets/royal-brisbane-hospital-1885.jpg){ width="70%" }  
 
@@ -64,7 +64,6 @@ Little is known of Florence Truelove other than that she had trained as a nurse 
 
 Rose Jane Langford was born in Devon, England and came to Queensland at the age of four. She undertook her nursing training at the Ipswich Hospital. Before the outbreak of World War One, Rose was the Matron at Mt Perry Hospital and later at Mt Morgan and Mackay. Between 1914 and 1917, she was a member of the Australian Army Nursing Service. Rose left on the hospital ship Kyarra for Egypt where she served in the No. 1 Australian General Hospital. She later transferred to Flanders. Rose was mentioned in despatches for her devotion to duty. After the war, Rose was on the staff of the Kangaroo Point Hospital and later matron of the Rosemount Repatriation Hospital. Rose married James Walker and lived in Brisbane until her death in 1935, aged 56 years.
 
-
 ![](../assets/kyarra.jpg){ width="100%" }  
 
 *<small>[Hospital ship Kyarra, leaving port in Brisbane, 1916](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218503200002061) — State Library of Queensland.</small>*
@@ -113,7 +112,7 @@ Agnes Isambert was born in 1874. She trained at the Brisbane General Hospital be
 
 ## Ellen Margaret Kavanagh <small>(7A‑29‑14A)</small>
 
-Sister Ellen Kavanagh died, unmarried, while nursing at the Rosemount Military Hospital, Lutwyche Road, on 5 November 1944 aged 59. She was attached to the 1^st^ Australian Infantry Force. Her headstone was erected by the Hospital’s patients
+Sister Ellen Kavanagh died, unmarried, while nursing at the Rosemount Military Hospital, Lutwyche Road, on 5 November 1944 aged 59. She was attached to the 1^st^ Australian Infantry Force. Her headstone was erected by the Hospital’s patients.
 
 ## Zita Stella Lyons <small>(7A‑164‑18)</small>
 
@@ -169,7 +168,7 @@ World War One army nurse, Sister Lillian Leitch was honoured with an OBE in 1965
 
 Nurse Isabella Mason, daughter of Thomas and Elizabeth Mason, died on 17 October 1930 aged 54.
 
-##Lilian Gertrude Ramsay <small>(11‑71‑2)</small>
+## Lilian Gertrude Ramsay <small>(11‑71‑2)</small>
 
 Lilian Ramsay was a staff nurse with the Australian Army Nursing Service having received a Brisbane General Hospital Certificate in 1914. She died on 5 June 1960 aged 69.
 
