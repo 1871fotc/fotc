@@ -4,7 +4,7 @@ description: Biographies of people interred at Toowong Cemetery
 
 # Biography Index
 
-**Read the stories of the people interred at Toowong Cemetery**. The index below lists over 350 of the people mentioned in our [self-guided walks](../walks/index.md) and provides a link to their story. 
+**Read the stories of the people interred at Toowong Cemetery**. The index below lists over 400 of the people mentioned in our **[self-guided walks](../walks/index.md)** and provides a link to their story. 
 
 ??? warning "Work in progress"
 
@@ -58,7 +58,7 @@ description: Biographies of people interred at Toowong Cemetery
 | William Walter       | **[Brown](william-walter-brown.md)**      | 1911-11-02 | 2004-01-31 | 18-25-47B  |  
 | Alfred Joseph        | **[Duggan](alfred-joseph-duggan.md)**     | 1864-mm-dd | 1884-11-20 | 7-52-5     | 
 | Edward               | McGregor                                  | yyyy-mm-dd | 1939-mm-dd | 4-16-17/18 | <!-- Actors -->
-| Sidney               | Cook                                      | yyyy-mm-dd | 1937-03-23 | 4-35-14    | 
+| Sidney               | Cook                                      | yyyy-mm-dd | 1937-03-23 | 4-35-14 | 
 | Samuel               | Keenan                                    | yyyy-mm-dd | yyyy-mm-dd | 2-48-7     | 
 | Henry William        | Mobsby                                    | 1860-08-17 | 1933-04-09 | 5-61-11    | 
 | Karoly (*Charles*)   | Pulszky                                   | 1854-11-10 | 1899-06-05 | 5-2-3      | 
@@ -278,9 +278,9 @@ description: Biographies of people interred at Toowong Cemetery
 | John Wilson          | Weir                                      | yyyy-mm-dd | 1947-12-16 | 8-34-30   | 
 | John Edward          | Maidens                                   | 1874-02-30 | 1924-12-07 | 18-79-13  | 
 | William Henley       | Rawlings                                  | 1848-02-28 | 1906-07-05 | 11-51-1   | 
-| Hugh                 | Mosman                                    | 1843-02-11 | 1909-11-15 | 5-62-12   | 
+| Hugh                 | Mosman                                    | 1843-02-11 | 1909-11-15 | 13-88-3   | 
 | William Chalmers     | Brown                                     | 1841-mm-dd | 1909-04-15 | 9-31-7    | 
-| Christopher          | Francis                                   | 1840-mm-dd | 1915-11-10 | 2-37-31/32    |  <!-- Police -->
+| Christopher          | Francis                                   | 1840-mm-dd | 1915-11-10 | 2-37-31/32 |  <!-- Police -->
 | Henry Bloomfield     | Gough                                     | 1845-mm-dd | 1896-mm-dd | 2-44-21   | 
 | Octavius             | Armstrong                                 | 1833-mm-dd | 1917-01-23 | 2-45-16/17 | 
 | Robert Arthur        | Johnstone                                 | 1843-mm-dd | 1905-01-16 | 5-36-15/16 | 
@@ -288,7 +288,6 @@ description: Biographies of people interred at Toowong Cemetery
 | William              | Maguire                                   | 1859-mm-dd | 1917-04-25 | 5-105-14  | 
 | Thomas               | Hinch                                     | 1855-mm-dd | 1924-05-22 | 20-18-23  | 
 | John                 | Hanly                                     | 1857-mm-dd | 1935-10-06 | 7A-104-27 | 
-| John                 | Ahern                                     | 1840-mm-dd | 1893-mm-dd | 7-51-4    | 
 | William Harold       | Ryan                                      | 1873-mm-dd | 1954-07-16 | 7A-116-44 | 
 | Henry Marjoribanks   | Chester                                   | 1832-mm-dd | 1914-10-03 | 7-59-11   | 
 | Patrick              | Clancy                                    | 1837-mm-dd | 1899-01-12 | 7-53-20   | 
@@ -399,11 +398,9 @@ description: Biographies of people interred at Toowong Cemetery
 | Henry                | Greer                                     | yyyy-mm-dd | 1918-08-18 | 10-63-25  | 
 | Edward Sidney        | Webster                                   | yyyy-mm-dd | yyyy-mm-dd | 10-45-28  | 
 | Charles              | **[Heaphy](/charles-heaphy.md)**          | 1822-mm-dd | 1881-08-03 | 1-5-34    | 
-| William John         | Harrhy                                    | yyyy-mm-dd | 1924-mm-dd | 4-16-4    |  <!-- Lest We Forget: Naval -->
-| Maurice              | Headford                                  | 1898-02-23 | 1936-06-18 | 10-72-35  | 
+| Maurice              | Headford                                  | 1898-02-23 | 1936-06-18 | 10-72-35  |  <!-- Lest We Forget: Naval -->
 | Arthur Kilminster    | Beaven                                    | 1895-01-28 | 1921-06-09 | 10-52-9   | 
-| Victor Cyril         | Button                                    | 1924-01-01 | 1942-12-25 | 10-53-14  | 
-| Watkin Llewellyn     | Whitaker                                  | yyyy-mm-dd | 1942-10-03 | 10-83-13  | 
+| Watkin Llewellyn     | Whitaker                                  | 1885-07-dd | 1942-10-03 | 10-84-13  | 
 | Matroos              | Boesidin                                  | 1909-mm-dd | 1942-08-27 | 30-22-21  | 
 |                      | Samanuddin                                | 1906-mm-dd | 1943-07-16 | 29-9-11   | 
 | Christian Thomas     | Wagner                                    | 1830-mm-dd | 1903-02-28 | 4-32-1    |  <!-- Lutheran -->
@@ -420,9 +417,56 @@ description: Biographies of people interred at Toowong Cemetery
 | Pauline Emma         | Eschenhagen                               | 1869-12-26 | 1921-07-04 | 9-15-5    | 
 | Johann Christian (*John*) | Heussler                             | 1820-06-15 | 1907-10-26 | 13-64-11  | 
 | Sophia Esther        | Heussler                                  | yyyy-mm-dd | 1914-06-05 | 13-64-11  | 
+| Joseph               | Watters                                   | yyyy-mm-dd | yyyy-mm-dd | 10-65-29  |  <!-- Men of the Royal Navy -->
+| James                | Kirk                                      | 1838-07-14 | yyyy-mm-dd | 13-59-8   | 
+| Thomas Lodge         | Murray-Prior                              | yyyy-mm-dd | 1819-11-13 | 13-72-15/16 |  
+| John Stephen         | Ferriter                                  | 1802-08-24 | yyyy-mm-dd | 14-24-13  | 
+| William Leworthy Goode | Drew                                    | 1826-10-14 | yyyy-mm-dd | 13-86-1   | 
+| John Forrest         | Haymen                                    | 1902-06-29 | yyyy-mm-dd | 12-49-3   | 
+| Ian Chesborough Rose | MacDonald                                 | yyyy-mm-dd | yyyy-mm-dd | 11-52-12  | 
+| Arthur               | Lowe                                      | 1864-08-11 | 1896-10-20 | 11-15-16/17 | 
+| John Cornish         | Pentecost                                 | 1835-06-03 | yyyy-mm-dd | 9-29-3    | 
+| Alexander Hastings   | Gruer                                     | 1838-mm-dd | yyyy-mm-dd | 9-40-8    | 
+| Jonas                | Malouf                                    | 1849-12-dd | yyyy-mm-dd | 5-26-2/3  |  <!-- Portion 5 part 1 -->
+| Mary                 | Malouf                                    | 1869-mm-dd | yyyy-mm-dd | 5-26-2/3  | 
+| Alfred               | Wall                                      | yyyy-mm-dd | yyyy-mm-dd | 5-27-16   | 
+| Alfred George Curtis | Wall                                      | yyyy-mm-dd | yyyy-mm-dd | 5-27-16   | 
+| John Theophillus Symons | Bird                                   | 1842-05-10 | 1932-05-07 | 5-30-9A   | 
+| Angus                | McDonald                                  | yyyy-mm-dd | 1909-mm-dd | 5-30-1    | 
+| Robert Alexander     | McDonald                                  | yyyy-mm-dd | 1913-mm-dd | 5-30-2    | 
+| Stanley Angus        | McDonald                                  | yyyy-mm-dd | 1918-mm-dd | 5-30-1/2  | 
+| John Lamacraft       | Richards                                  | yyyy-mm-dd | 1930-mm-dd | 5-24-13/14 | 
+| Elizabeth            | Powell                                    | 1870-mm-dd | 1897-08-14 | 5-24-2    | 
+| Edmond Filmer        | Craven                                    | yyyy-mm-dd | 1910-08-04 | 5-32-7    | 
+| Caroline             | Craven                                    | yyyy-mm-dd | yyyy-mm-dd | 5-32-7    | 
+| George William       | Paul                                      | yyyy-mm-dd | 1909-12-10 | 5-32-8    | 
+| Arthur Tewdyr Davies | Berrington                                | 1854-09-07 | 1909-02-18 | 5-33-9    | 
+| Samuel Frederick     | Lawrence                                  | yyyy-mm-dd | 1901-12-26 | 5-14-7    | 
+| Robert Arthur        | Johnstone                                 | 1843-mm-dd | yyyy-mm-dd | 5-36-15/16 | 
+| Susan                | Boyce                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
+| Ellen Victoria       | Board                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
+| Ann Ellen            | Boyce                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
+| Stuart Leslie        | Board                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
+| Alfred John          | Potier                                    | 1842-10-16 | 1929-08-21 | 5-39-20   | 
+| Reginald Alfred Maines | Potier                                  | yyyy-mm-dd | yyyy-mm-dd | 5-39-20   | 
+| Lewis William        | Potier                                    | yyyy-mm-dd | yyyy-mm-dd | 5-39-20   | 
+| Joseph               | Hughes                                    | 1843-mm-dd | 1920-07-27 | 5-40-19   | 
+| Daniel George        | Bloomfield                                | 1858-mm-dd | 1915-mm-dd | 5-101-11  |  <!-- Portion 5 part 2  -->
+| Hereward Humfy       | Henchman                                  | 1874-mm-dd | 1939-mm-dd | 5-101-18/19 | 
+| George Rogers        | Harding                                   | 1868-mm-dd | 1940-mm-dd | 5-101-30  | 
+| George Rogers        | Harding                                   | 1905-mm-dd | 1937-mm-dd | 5-101-30  | 
+| Walter Charles       | Harding                                   | 1870-mm-dd | 1939-mm-dd | 5-101-30  | 
+| Christopher Winter   | Harding                                   | 1913-mm-dd | 1982-mm-dd | 5-101-30  | 
+| Atwill Buxton        | Kenrick                                   | 1863-mm-dd | 1922-mm-dd | 5-71-2    | 
+| Adolph Frederick Milford | Feez                                  | 1858-mm-dd | 1944-mm-dd | 5-68-3    | 
+| John Henry           | Flower                                    | 1852-mm-dd | 1918-mm-dd | 5-69-2    | 
+| John Arthur          | Macartney                                 | 1834-mm-dd | 1917-mm-dd | 5-62-16   | 
+| Richard William      | Curtis                                    | 1840-mm-dd | 1905-mm-dd | 5-61-22    | 
+| William              | Atwell                                    | 1843-mm-dd | 1913-mm-dd | 5-38-17    | 
+
 
 <!--
-| firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    |  <!- ->
+| firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
 | firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
 
 -->
