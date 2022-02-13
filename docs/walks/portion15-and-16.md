@@ -23,7 +23,7 @@ Introduction
 
 ## Chief P.O. Instructor Alexander Mountford <small>(16‑18‑30)</small>
 
-Mountford was born in North Leith, Scotland on 10 February 1898.After a long career in the British Navy, he was transferred to the Royal Australian Navy in 1927. In May 1934 he was appointed instructor in wireless telegraphy at Brisbane. He died in Rosemount Repatriation Hospital on 15 September 1936 following a short illness.
+Mountford was born in North Leith, Scotland on 10 February 1898. After a long career in the British Navy, he was transferred to the Royal Australian Navy in 1927. In May 1934 he was appointed instructor in wireless telegraphy at Brisbane. He died in Rosemount Repatriation Hospital on 15 September 1936 following a short illness.
 
 <!--
 ??? directions "Directions" 
@@ -47,7 +47,7 @@ Olive was born in Great Malvern Worcester in 1890. During World War 1 she marrie
 
 ## Charles Frederick Augustus Garland <small>(15‑11‑26/27)</small>
 
-Born in Roma Qld in 1862, Charles Garland was apprenticed a [printer's devil](https://en.wikipedia.org/wiki/Printer%27s_devil) to the proprietor of the Western Star and Roma Advertiser. He later obtained a position on the composing staff of the Brisbane Courier where he served for 52 years.
+Born in Roma Qld in 1862, Charles Garland was apprenticed a [printer's devil](https://en.wikipedia.org/wiki/Printer%27s_devil) to the proprietor of the *Western Star* and *Roma Advertiser*. He later obtained a position on the composing staff of the *Brisbane Courier* where he served for 52 years.
 
 ![](../assets/brisbane-courier-staff-1902.jpg){ width="70%" }
 
