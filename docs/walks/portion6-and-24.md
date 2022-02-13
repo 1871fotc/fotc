@@ -6,7 +6,6 @@ hide:
 
 # A walk through Portions 6 and 24  
 
-
 <!--
 Introduction
 
@@ -26,8 +25,6 @@ George Simpson was born in the district of Eassie and Nevay in Forfarshire, Scot
 
 *<small>[Reviewing the troops in Brisbane during World War I](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220035150002061) 1914 to 1918. The review of the armed forces probably took place in the Parade ring at the Exhibition Grounds, Brisbane. Dignitaries are stood on the reviewing stand facing the assembled members of the forces. — State Library of Queensland.</small>*
 
-
-
 <!--
 ??? directions "Directions" 
 
@@ -42,8 +39,7 @@ John Robert Wilkinson was the third son of Robert Wilkinson and Mary (née Farre
 
 ## James Edward and Emily Jane Halliday <small>(24‑1‑8)</small>
 
-James Edward Halliday was born in Glasgow Scotland in 1852 to parents James Crow Halliday and Alice Olker. A seaman in the Royal Navy, he married Emily Jane Leatherbarrow on 8 July 1874 in Salford, Manchester, England. Emily, born in 1852, was the daughter of Joseph and Mary Ann Leatherbarrow. James and Emily and their two children left Plymouth for Brisbane in 1880. Sadly one child died before reaching their destination. In 1899 James was appointed Superintendent of the Moreton Bay Pile Light and held that position until at least
-1917. James died at his home named Mascot in South Pine Road Enoggera on 23 April 1930. Emily died on 26 March 1933.
+James Edward Halliday was born in Glasgow Scotland in 1852 to parents James Crow Halliday and Alice Olker. A seaman in the Royal Navy, he married Emily Jane Leatherbarrow on 8 July 1874 in Salford, Manchester, England. Emily, born in 1852, was the daughter of Joseph and Mary Ann Leatherbarrow. James and Emily and their two children left Plymouth for Brisbane in 1880. Sadly one child died before reaching their destination. In 1899 James was appointed Superintendent of the Moreton Bay Pile Light and held that position until at least 1917. James died at his home named Mascot in South Pine Road Enoggera on 23 April 1930. Emily died on 26 March 1933.
 
 ![](../assets/moreton-bay-pile-lights.jpg){ width="70%" }  
 
@@ -73,8 +69,7 @@ In 1881 he became Rector of Toowoomba and later Archdeacon of the Downs and West
 
 Walter Thompson was born in Chelsea London in 1863 to a farmer, William John Thompson and his wife Mary Trevithick. Walter was ordained on 4 January 1891 in St John's Pro-Cathedral. Following appointments at the Holy Trinity Church Woolloongabba and at Jondaryan, he took up the first part of an incumbency at St Michael and All Angels' Church New Farm that would last over 40 years. 
 
-On 27 November 1912 in St Michael and All Angels' Church, Walter married Mary Hopkins who was born on 8 September 1890 at Gooda
-Station, the eldest daughter of the squatter Edward Bor Hopkins and his wife Blanche (née Eglinton). Mary Thompson died on All Saints Day 1 November 1931 and Canon Walter Thompson on 8 January 1952.
+On 27 November 1912 in St Michael and All Angels' Church, Walter married Mary Hopkins who was born on 8 September 1890 at Gooda Station, the eldest daughter of the squatter Edward Bor Hopkins and his wife Blanche (née Eglinton). Mary Thompson died on All Saints Day 1 November 1931 and Canon Walter Thompson on 8 January 1952.
 
 <!--
 ![](../assets/holy-trinity-church-of-england-woolloongabba.jpg){ width="70%" }  
