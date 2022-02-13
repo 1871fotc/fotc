@@ -6,7 +6,7 @@ search:
 
 # Biography Index
 
-**Read the stories of the people remembered at Toowong Cemetery**. The index below lists over 400 of the people mentioned in our **[self-guided walks](../walks/index.md)** and provides a link to their story. 
+**Read the stories of the people remembered at Toowong Cemetery**. The index below lists over 450 of the people mentioned in our **[self-guided walks](../walks/index.md)** and provides a link to their story. 
 
 ??? warning "Work in progress"
 
@@ -62,10 +62,10 @@ search:
 | Sidney               | Cook                                      | yyyy-mm-dd | 1937-03-23 | 4-35-14 | 
 | Samuel               | Keenan                                    | yyyy-mm-dd | yyyy-mm-dd | 2-48-7     | 
 | Henry William        | Mobsby                                    | 1860-08-17 | 1933-04-09 | 5-61-11    | 
-| Karoly (*Charles*)   | Pulszky                                   | 1854-11-10 | 1899-06-05 | 5-2-3      | 
-| Thomas               | Macer (*Megan*)                           | yyyy-mm-dd | 1926-mm-dd | 21-14-3    | 
+| Karoly *(Charles)*   | Pulszky                                   | 1854-11-10 | 1899-06-05 | 5-2-3      | 
+| Thomas               | Macer *(Megan)*                           | yyyy-mm-dd | 1926-mm-dd | 21-14-3    | 
 | Arthur               | Aldridge                                  | 1873-mm-dd | 1929-11-03 | 23-31-14   | 
-| Kyrle Edward         | McAllister (*Sylvaney*)                   | yyyy-mm-dd | yyyy-mm-dd | 23-31-15   | 
+| Kyrle Edward         | McAllister *(Sylvaney)*                   | yyyy-mm-dd | yyyy-mm-dd | 23-31-15   | 
 | George Barney        | Petrie                                    | 1839-mm-dd | 1878-06-21 | 13-5-3     | <!-- Undertakers -->
 | Alex                 | Gow                                       | 1861-10-19 | 1919-05-02 | 13-59-3/4  | 
 | John                 | Hislop                                    | yyyy-mm-dd | 1918-07-15 | 11-68-9    | 
@@ -161,7 +161,7 @@ search:
 | John Thomas          | Moores                                    | 1891-mm-dd | 1969-06-27 | 2-47-16    | 
 | William Robert       | Colledge                                  | 1842-mm-dd | 1928-08-26 | 4-15-9/10  | <!-- Erected by Friends and Family -->
 | George Edwards       | Rowe                                      | 1858-08-26 | 1926-10-27 | 10-48-4    | 
-| Mary Elizabeth  (*Sister Lily*) | Briscoe                        | 1868-mm-dd | 1935-06-26 | 10-31-25   | 
+| Mary Elizabeth  *(Sister Lily)* | Briscoe                        | 1868-mm-dd | 1935-06-26 | 10-31-25   | 
 | Percy Lionel         | Benjamin                                  | yyyy-mm-dd | 1903-03-03 | 3-12-7/8   | 
 | David Thomas         | Newitt                                    | 1890-06-30 | 1922-09-02 | 10-26-4/5  | 
 | Joseph Letcher       | Phillips                                  | 1849-mm-dd | 1910-05-05 | 10-8-12    | 
@@ -209,7 +209,7 @@ search:
 | Victor               | McGregor-Lowndes                          | 1884-mm-dd | 1951-07-21 | 4-16-gg    | 
 | Jean                 | McGregor-Lowndes                          | yyyy-mm-dd | 1976-06-dd | 4-16-gg    | 
 | William              | Busby                                     | yyyy-mm-dd | 1928-mm-dd | 4-3-22     | 
-| Bezalel Saul (*Sali*) | Mendelsohn                               | yyyy-mm-dd | yyyy-mm-dd | 3-6-7      | 
+| Bezalel Saul *(Sali)* | Mendelsohn                               | yyyy-mm-dd | yyyy-mm-dd | 3-6-7      | 
 | Harriet              | Johnson                                   | yyyy-mm-dd | 1914-mm-dd | 1-37-gg    | 
 | William              | Johnson                                   | yyyy-mm-dd | yyyy-mm-dd | 1-37-gg    | 
 | William              | Webster                                   | yyyy-mm-dd | 1895-mm-dd | 1-36-gg    | 
@@ -246,8 +246,8 @@ search:
 | Amos Roy             | Goddard                                   | 1910-mm-dd | 1933-mm-dd | 7-77-26   | 
 | William Cowley Goulbourne | Stone                                | 1870-mm-dd | 1892-mm-dd | 7-77-11   | 
 | Frank                | Thorne                                    | 1883-mm-dd | 1931-11-16 | 21-20-16  | 
-| John (*Jack*)        | Dowridge                                  | 1848-mm-dd | 1922-mm-dd | 5-28-14   | 
-| Brickwood (*Brickie*) | Colley                                   | 1849-mm-dd | 1896-mm-dd | 2-51-2    | 
+| John *(Jack)*        | Dowridge                                  | 1848-mm-dd | 1922-mm-dd | 5-28-14   | 
+| Brickwood *(Brickie)* | Colley                                   | 1849-mm-dd | 1896-mm-dd | 2-51-2    | 
 | William              | Paul                                      | 1839-06-02 | 1909-12-10 | 5-32-8    |  <!-- Judiciary -->
 | Virgil               | Power                                     | 1849-08-02 | 1914-06-02 | 7A-103-24 | 
 | Patrick              | Real                                      | 1846-03-17 | 1928-06-10 | 7A-153-7  | 
@@ -268,7 +268,7 @@ search:
 | James George         | Drake                                     | 1850-04-26 | 1941-08-01 | 18-136-3  | 
 | Richard Sanderson    | Taylor                                    | 1866-mm-dd | 1932-06-06 | 8-49-19   | 
 | Robert               | Dunn                                      | 1850-mm-dd | 1926-08-02 | 8-67-5/6  | 
-| Martha (*Pattie*)    | Soutter                                   | yyyy-mm-dd | 1936-09-28 | 18-167-18 | 
+| Martha *(Pattie)*    | Soutter                                   | yyyy-mm-dd | 1936-09-28 | 18-167-18 | 
 | Edmund James Thomas  | Barton                                    | 1854-mm-dd | 1937-04-10 | 11-24-16  | 
 | William Francis      | Faine                                     | yyyy-mm-dd | 1899-08-28 | 13-12-1   | <!-- Prospectors -->
 | William James        | Muldoon                                   | yyyy-mm-dd | 1924-09-23 | 2-26-25   | 
@@ -320,7 +320,7 @@ search:
 | Thomas               | Dowse                                     | yyyy-mm-dd | 1885-11-09 | 13-58-22  | 
 | Agnes Susan          | Maclean                                   | yyyy-mm-dd | 1911-01-20 | 5-107-19  | 
 | Edward               | Mott                                      | 1807-mm-dd | 1900-08-28 | 7-44-22   | 
-| James                | Davis (*Duramboi*)                        | yyyy-mm-dd | 1889-05-07 | 7-5-15    | 
+| James                | Davis *(Duramboi)*                        | yyyy-mm-dd | 1889-05-07 | 7-5-15    | 
 | Mary Elizabeth       | Weedon                                    | yyyy-mm-dd | 1942-03-dd | 4-3-20    |  <!-- In their caring hands -->
 | Annie                | Griffiths                                 | yyyy-mm-dd | 1943-07-dd | 4-3-20    | 
 | Edith Harriett       | Rennie                                    | yyyy-mm-dd | 1930-12-25 | 10-62-22  | 
@@ -355,7 +355,7 @@ search:
 | Patricia Marion      | Hull                                      | yyyy-mm-dd | 1964-mm-dd | 22-17-25  | 
 | Annie                | McGarrigal                                | yyyy-mm-dd | 1964-10-11 | 22-22-23  | 
 | Helena Veronica      | Luton                                     | yyyy-mm-dd | 1977-06-14 | 22-30-11  | 
-| Agnes Helen (*Nell*) | Storie                                    | 1905-mm-dd | 1990-10-08 | 30-36-31  | 
+| Agnes Helen *(Nell)* | Storie                                    | 1905-mm-dd | 1990-10-08 | 30-36-31  | 
 | Anne                 | Devoy                                     | 1817-mm-dd | 1908-mm-dd | 7-7-34    |  <!-- Irish -->
 | Joseph               | Darragh                                   | 1828-mm-dd | 1902-mm-dd | 7-27-11   | 
 | William Grene        | Power                                     | 1835-mm-dd | 1903-08-14 | 7-45-18   | 
@@ -370,7 +370,7 @@ search:
 | Peter                | Gaffney                                   | 1839-mm-dd | 1879-mm-dd | 7-19-23   | 
 | John                 | McDermott                                 | 1841-mm-dd | 1908-mm-dd | 7-56-3    | 
 | William Augustine    | O’Carroll                                 | 1831-mm-dd | 1885-mm-dd | 7-54-9    | 
-| Francis (*Frank*)    | McDonnell                                 | 1863-mm-dd | 1928-mm-dd | 7a-17-23  | 
+| Francis *(Frank)*    | McDonnell                                 | 1863-mm-dd | 1928-mm-dd | 7a-17-23  | 
 | Michael Joseph       | Devitt                                    | 1859-mm-dd | 1917-mm-dd | 15-29-6   | 
 | Sam                  | Burmister                                 | yyyy-mm-dd | yyyy-mm-dd | 3-25-5    |  <!-- Jewish -->
 | Wilfred John         | Friedlander                               | yyyy-mm-dd | yyyy-mm-dd | 3-9A-17   | 
@@ -378,7 +378,7 @@ search:
 | Jonas Myer           | Myers                                     | yyyy-mm-dd | yyyy-mm-dd | 3-4-17    | 
 | Alan                 | Taylor                                    | yyyy-mm-dd | yyyy-mm-dd | 3-13-1A   | 
 | Phyliss Mary         | Peixetto                                  | yyyy-mm-dd | yyyy-mm-dd | 3-ss-gg   | 
-| Henry Montague (*Monty*) | Bloom                                 | yyyy-mm-dd | yyyy-mm-dd | 3-24-3    | 
+| Henry Montague *(Monty)* | Bloom                                 | yyyy-mm-dd | yyyy-mm-dd | 3-24-3    | 
 | Myer                 | Kangan                                    | yyyy-mm-dd | yyyy-mm-dd | 3-18-1A   | 
 | Louis Paul           | Fingereth                                 | yyyy-mm-dd | yyyy-mm-dd | 3-18-14   | 
 | Lipman               | Abrahams                                  | yyyy-mm-dd | yyyy-mm-dd | 3-12-9    | 
@@ -411,11 +411,11 @@ search:
 | Regula Albertina     | Maier                                     | 1853-04-01 | 1935-08-11 | 13-15-5   | 
 | Friedericke Wilhelmine | Gentner                                 | 1864-07-16 | 1901-10-07 | 13-20-3   | 
 | Johann Frederick     | Gentner                                   | yyyy-mm-dd | 1905-12-02 | 13-20-3   | 
-| Carl Franz Alexander (*Charles*) | Schirmeister                  | 1814-07-22 | 1887-10-08 | 13-25-6   | 
+| Carl Franz Alexander *(Charles)* | Schirmeister                  | 1814-07-22 | 1887-10-08 | 13-25-6   | 
 | Caroline Friedericke Alwine | Schirmeister                       | 1818-06-03 | 1894-11-30 | 13-25-6   | 
 | Karl Ernst           | Eschenhagen                               | 1850-05-24 | 1906-03-18 | 9-15-5    | 
 | Pauline Emma         | Eschenhagen                               | 1869-12-26 | 1921-07-04 | 9-15-5    | 
-| Johann Christian (*John*) | Heussler                             | 1820-06-15 | 1907-10-26 | 13-64-11  | 
+| Johann Christian *(John)* | Heussler                             | 1820-06-15 | 1907-10-26 | 13-64-11  | 
 | Sophia Esther        | Heussler                                  | yyyy-mm-dd | 1914-06-05 | 13-64-11  | 
 | Joseph               | Watters                                   | yyyy-mm-dd | yyyy-mm-dd | 10-65-29  |  <!-- Men of the Royal Navy -->
 | James                | Kirk                                      | 1838-07-14 | yyyy-mm-dd | 13-59-8   | 
@@ -478,6 +478,22 @@ search:
 | Jessie               | McWatters                                 | yyyy-mm-dd | yyyy-mm-dd | 6-12-20/21 | 
 | William John         | Dunstan                                   | 1873-10-13 | 1930-09-13 | 6-12-15   | 
 | Theodore             | Osborne                                   | 1837-mm-dd | 1940-11-18 | 6-27-17   | 
+| Alexander            | Mountford                                 | 1898-02-10 | 1936-09-15 | 16-18-30  | <!-- Portions 15 and 16 -->
+| Charles Walter       | de Vis                                    | 1829-05-09 | yyyy-mm-dd | 16-22-18  | 
+| Olive May            | Heathorn                                  | 1890-mm-dd | 1936-06-07 | 16‑24‑14  | 
+| Charles Frederick Augustus | Garland                             | 1862-mm-dd | yyyy-mm-dd | 15‑11‑26/27 | 
+| Richard              | Belford                                   | 1865-04-28 | yyyy-mm-dd | 15‑11‑6   | 
+| James Edwin          | Ramsbotham                                | 1856-11-04 | yyyy-mm-dd | 15‑16‑17  | 
+| Jack                 | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15‑16‑40/41 | 
+| Leo                  | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15‑16‑40/41 | 
+| Madonna              | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15‑16‑40/41 | 
+| Francis Malachy      | McKeon                                    | yyyy-mm-dd | 1925-11-17 | 15‑17‑7   | 
+| John                 | Forde                                     | yyyy-mm-dd | yyyy-mm-dd | 15‑19‑27/28 | 
+| Ellen                | Forde                                     | yyyy-mm-dd | yyyy-mm-dd | 15‑19‑27/28 | 
+| Hugh                 | Glackin                                   | 1844-03-08 | yyyy-mm-dd | 15‑22‑20/21 | 
+| Frederick Augustus *(Gus)* | Garland                             | yyyy-mm-dd | yyyy-mm-dd | 15‑24‑22  | 
+| John                 | Galligan                                  | 1857-mm-dd | yyyy-mm-dd | 15‑26‑12  | 
+
 
 <!--
 | firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
