@@ -217,7 +217,6 @@ search:
 | Walter Frederick     | Wilson                                    | yyyy-mm-dd | 1911-mm-dd | 1-85-8     | 
 | Richard Langler      | Drew                                      | yyyy-mm-dd | yyyy-mm-dd | 5-43-22    | 
 | Hercules             | Smith                                     | yyyy-mm-dd | yyyy-mm-dd | 5-40-9     | 
-| Robert               | Johnstone                                 | 1843-mm-dd | 1905-01-dd | 5-36-15/16 | 
 | Maria                | Johnstone                                 | yyyy-mm-dd | 1923-09-dd | 5-36-15/16 | 
 | Letitia              | Jephson                                   | yyyy-mm-dd | 1908-mm-dd | 5-34-17    | 
 | Samuel               | Kaye                                      | yyyy-mm-dd | yyyy-mm-dd | 2-42-26    | 
@@ -443,7 +442,6 @@ search:
 | George William       | Paul                                      | yyyy-mm-dd | 1909-12-10 | 5-32-8    | 
 | Arthur Tewdyr Davies | Berrington                                | 1854-09-07 | 1909-02-18 | 5-33-9    | 
 | Samuel Frederick     | Lawrence                                  | yyyy-mm-dd | 1901-12-26 | 5-14-7    | 
-| Robert Arthur        | Johnstone                                 | 1843-mm-dd | yyyy-mm-dd | 5-36-15/16 | 
 | Susan                | Boyce                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
 | Ellen Victoria       | Board                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
 | Ann Ellen            | Boyce                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
@@ -462,9 +460,24 @@ search:
 | Adolph Frederick Milford | Feez                                  | 1858-mm-dd | 1944-mm-dd | 5-68-3    | 
 | John Henry           | Flower                                    | 1852-mm-dd | 1918-mm-dd | 5-69-2    | 
 | John Arthur          | Macartney                                 | 1834-mm-dd | 1917-mm-dd | 5-62-16   | 
-| Richard William      | Curtis                                    | 1840-mm-dd | 1905-mm-dd | 5-61-22    | 
-| William              | Atwell                                    | 1843-mm-dd | 1913-mm-dd | 5-38-17    | 
-
+| Richard William      | Curtis                                    | 1840-mm-dd | 1905-mm-dd | 5-61-22   | 
+| William              | Atwell                                    | 1843-mm-dd | 1913-mm-dd | 5-38-17   | 
+| George               | Simpson                                   | 1858-12-15 | 1938-01-22 | 24-13-16  | <!-- Portions 6 and 2 -->
+| Jane                 | Simpson                                   | yyyy-mm-dd | 1945-05-19 | 24-13-16  | 
+| John Robert          | Wilkinson                                 | yyyy-mm-dd | yyyy-mm-dd | 24-7-13/14 | 
+| Emma                 | Wilkinson                                 | yyyy-mm-dd | yyyy-mm-dd | 24-7-13/14 | 
+| James Edward         | Halliday                                  | 1852-mm-dd | 1930-04-23 | 24-1-8    | 
+| Emily Jane           | Halliday                                  | 1852-mm-dd | 1933-03-26 | 24-1-8    | 
+| Thomas               | Jones                                     | 1836-07-30 | 1918-08-14 | 6-3-8/9   | 
+| Walter               | Thompson                                  | 1863-mm-dd | 1952-01-08 | 6-3-11    | 
+| Mary Lorna           | Thompson                                  | yyyy-mm-dd | 1931-11-01 | 6-3-11    | 
+| Charles              | Highfield                                 | 1840-06-06 | 1923-10-10 | 6-11-15/15a | 
+| Harriott Eleanor     | Highfield                                 | 1853-10-06 | 1937-12-16 | 6-11-15/15a | 
+| Thomas               | McWatters                                 | yyyy-mm-dd | 1937-12-17 | 6-12-20/21 | 
+| Fanny                | McWatters                                 | yyyy-mm-dd | 1913-mm-dd | 6-12-20/21 | 
+| Jessie               | McWatters                                 | yyyy-mm-dd | yyyy-mm-dd | 6-12-20/21 | 
+| William John         | Dunstan                                   | 1873-10-13 | 1930-09-13 | 6-12-15   | 
+| Theodore             | Osborne                                   | 1837-mm-dd | 1940-11-18 | 6-27-17   | 
 
 <!--
 | firstname            | lastname                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg    | 
