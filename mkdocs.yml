@@ -21,13 +21,16 @@ theme:
     text: Raleway
     code: Roboto Mono 
   palette:
-#    scheme: default
+    scheme: default
     primary: deep-purple
     accent: purple
+# toggle between alternate schemes
+#    - scheme: default
+#      primary: deep-purple
+#      accent: purple
 #      toggle:
 #        icon: octicons/sun-16
 #        name: Switch to dark mode
-#    - scheme: ghost
 #    - scheme: slate
 #      primary: purple
 #      accent: purple
@@ -42,7 +45,7 @@ theme:
   features:
 # instant and announce seem to conflict with was this page helpful. Pick one. Works on Material for Mkdocs - look there. 
 #    - announce.dismiss
-    - navigation.instant
+#    - navigation.instant
     - navigation.tracking
     - navigation.top
     - navigation.tabs
@@ -73,7 +76,7 @@ extra:
 #    - icon: fontawesome/brands/twitter
 #      link: https://twitter.com/1871fotc
 #      name: Twitter @1871fotc
-# Used for feedback to avoid clash with announce
+# Used for feedback to avoid clash with announce dismiss
 #    - icon: material/heart-broken
 #      link: https://docs.google.com/forms/d/e/1FAIpQLSeS7K7-e-ofnn2OkPDL6ql7-CkBL67wwsQiv9upMDoRcXCRJQ/viewform?usp=pp_url&entry.975252590= 
 #      name: Provide feedback
