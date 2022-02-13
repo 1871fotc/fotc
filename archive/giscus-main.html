@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+<!--  indexing policies for search engines -->
+
+{% block extrahead %}
+
+<link rel="mask-icon" href="assets/fotc_icon.svg">
+
+<!--  
+  <meta property="robots" content="noindex, nofollow" /> 
+-->
+
+{% endblock %}
+
+
+<!--   announcement bar including arbitrary HTML and text at the top of the page  -->
+
+{% block announce %}
+
+<p>This site is under construction. Please view the Official Friends of Toowong Cemetery site: <a href="https://www.fotc.org.au">https://www.fotc.org.au</a></p> 
+
+{% endblock %}
+
+
+<!-- add giscus comment system to every page -->
+<!--
+
+{% block content %}
+  {% if page and page.meta and page.meta.robots %}
+    {{ super() }}
+
+    <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
+    <script src="https://giscus.app/client.js"
+            data-repo="1871fotc/fotc"
+            data-repo-id="R_kgDOGTMVsQ"
+            data-category="General"
+            data-category-id="DIC_kwDOGTMVsc4CABy8"
+            data-mapping="pathname"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="bottom"
+            data-theme="light"
+            data-lang="en"
+            crossorigin="anonymous"
+            async>
+    </script>
+
+    <script>
+      var palette = __md_get("__palette")
+      if (palette && typeof palette.color === "object")
+        if (palette.color.scheme === "slate") {
+          var giscus = document.querySelector("script[src*=giscus]")
+          giscus.setAttribute("data-theme", "dark") 
+        }
+
+      /* Register event handlers after documented loaded */
+      document.addEventListener("DOMContentLoaded", function() {
+        var ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function() {
+          var palette = __md_get("__palette")
+          if (palette && typeof palette.color === "object") {
+            var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+            /* Instruct Giscus to change theme */
+            var frame = document.querySelector(".giscus-frame")
+            frame.contentWindow.postMessage(
+              { giscus: { setConfig: { theme } } },
+              "https://giscus.app"
+            )
+          }
+        })
+      })
+    </script>
+
+  {% endif %}  
+{% endblock %}
+
+-->
