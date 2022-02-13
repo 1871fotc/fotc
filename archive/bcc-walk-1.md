@@ -3,7 +3,6 @@ hide:
   - navigation
 search:
   exclude: true
-icon: octicons/pencil-24
 
 ---
 
@@ -33,7 +32,7 @@ Before starting, you may like to download the [Toowong Cemetery map](../assets/t
 
 <!-- insert photo -->
 
-## Lieutenant-Colonel James Forsyth Thallon <small>(1847-1911)</small>
+## Lieutenant-Colonel James Forsyth Thallon <small>(11‑71‑14)</small>
 
 Lieutenant-Colonel James Forsyth Thallon was the Queensland Commissioner for Railways from 1902-1911. His obituary in The Daily Telegraph stated he was born in Markinch, Fifeshire in 1847, the son of a Scottish engineer of the old school. At age 15 he entered service in Edinburgh on the Edinburgh, Perth and Dundee Railway as an apprentice. He was eventually promoted to General Traffic Manager for Queensland in 1889 and to Deputy Commissioner of Railways in 1896. On the death of the Commissioner for Railways, Mr Gray in November 1902, Thallon was appointed to the role initially for a term of seven years, and on the expiration of that term, for a further five years. 
 
@@ -51,9 +50,9 @@ George Phillips died on 3 June 1921 at the age of 77 after being known as one of
  
 ## James Cowlishaw <small>(1834-1913)</small>
 
-James Cowlishaw was an architect, newspaper director, trustee and politician. He was born in Sydney in 1834 and came to Brisbane in 1861 to practise as an architect. He designed a few private homes including Hanworth House at East Brisbane and Oakwal at Windsor, both of which still exist, but he was mostly concerned with commercial buildings and designed some of the finest buildings of the period, including Brisbane Grammar School. He acquired a large interest in the Queensland Trustees Limited, and was a founder of the Brisbane Gas Company in 1864. He was also one of the founding trustees of the Toowong Cemetery.
+James Cowlishaw was an architect, newspaper director, trustee and politician. He was born in Sydney in 1834 and came to Brisbane in 1861 to practise as an architect. He designed a few private homes including *Hanworth House* at East Brisbane and *Oakwal* at Windsor, both of which still exist, but he was mostly concerned with commercial buildings and designed some of the finest buildings of the period, including Brisbane Grammar School. He acquired a large interest in the Queensland Trustees Limited, and was a founder of the Brisbane Gas Company in 1864. He was also one of the founding trustees of the Toowong Cemetery.
 
-Cowlishaw was Chairman of Directors of The Daily Telegraph for many years. Later his brother George, who is also buried in this grave, became Director of The Daily Telegraph for an unbroken period of 20 years from 1893 until his sudden death from a seizure on 6 January 1913. 
+Cowlishaw was Chairman of Directors of *The Daily Telegraph* for many years. Later his brother George, who is also buried in this grave, became Director of *The Daily Telegraph* for an unbroken period of 20 years from 1893 until his sudden death from a seizure on 6 January 1913. 
 
 Cowlishaw’s wife, Charlotte (née Owen) was the second burial in the grave following her death in 1914.
 
@@ -151,6 +150,7 @@ The graves of Thomas Finney and James Isles who together established Finney Isle
     Continue along the road and to the right to find a low‑set grave to the left, of Kenneth Hutchinson.
 
 ## Kenneth Hutchinson <small>(1850‑1902)</small>
+
 Hutchinson joined Queensland’s volunteer defence force in 1870. In 1890 he was appointed to the Permanent Force as a Major, and in 1899 promoted to Lieutenant Colonel. He commanded the second Queensland Contingent to the South African War and saw active service from 1899‑1901. At the time of his death, he was involved with the reorganisation and structuring of the new Commonwealth Military Forces. Lieutenant Colonel Hutchinson was tragically hit and killed by a train at Roma.
 
 <!-- insert photo --> 
