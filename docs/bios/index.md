@@ -15,8 +15,8 @@ search:
 
 ??? question "Volunteer - Contribute missing data"
 
-    Do you know about any of the data missing in the table above? Did you spot an error? 
-    **[Contact us](../about/index.md#contact-us)** with the details. 
+    Do you know about any of the missing data in the Biography Index? Did you spot an error? 
+    Use the **☹︎** sad face button at the bottom of the page to let us know the details. 
     
     If you'd like to search for missing data, check out these **[Research Resources](research.md)**.
 
@@ -31,8 +31,7 @@ search:
         - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
 
 
-
-| Given Names          | Last Name                                 | Born       | Died       | Location   | 
+| Given Names          | Last Name                                 | Born       | Died       | Location   |   
 | ----------:          | :--------                                 |:---------  | :--------- | :--------- | 
 | Samuel Wensley      | **[Blackall](samuel-wensley-blackall.md)** | 1809-05-01 | 1871-01-02 | Mount Blackall | 
 | Ann                  | **[Hill](ann-hill.md)**                   | 1850-04-25 | 1871-11-01 | 6-21-9     | <!-- ? -->
