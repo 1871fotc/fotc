@@ -20,10 +20,15 @@ On this site you'll find information about:
 
 - **[visiting the cemetery](cemetery/visit.md)**, exploring its **[history](cemetery/history.md)**, and **[how to find graves](cemetery/finding-graves.md)**
 - monthly **[guided heritage tours](guided-tours.md)** and **[self‑guided walks](walks/)** 
-- **[headstone symbols](headstones/)**<!-- , **[shapes](headstones/shapes.md)**,-->, **[signs](headstones/signs.md)**, and **[archaeological digs](headstones/archaeological-digs.md)**
+- **[headstone symbols](headstones/)**, **[signs](headstones/signs.md)** and annual **[archaeological digs](headstones/archaeological-digs.md)**
 - the **[biographies](bios/)** of people interred at the cemetery, and **[research resources](bios/research.md)**
 - **[Friends of Toowong Cemetery](about/index.md)** - what we do, what we've done, and how to join in 
 
+<!-- 
+- **[headstone symbols](headstones/)** and **[signs](headstones/signs.md)**. Notable **[monuments](headstones/monuments.md)** and **[archaeological digs](headstones/archaeological-digs.md)**
+
+- **[headstone symbols](headstones/)**, **[shapes](headstones/shapes.md)**, and **[signs](headstones/signs.md)**. Monuments and **[archaeological digs](headstones/archaeological-digs.md)**
+--> 
 The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery).
 
 <!--
