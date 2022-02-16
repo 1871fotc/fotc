@@ -80,10 +80,10 @@ Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditorium]
 
 ![](../assets/auditorium.jpg)
 
-**Anyone can join**. Just complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb8)**, and pay the Annual Membership (inc. GST):
+To join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb8)** and pay the annual membership subscription (includes GST):
 
 - $11 Individuals
-- $5.50 Students / Pensioners
+- $5.50 Students and Pensioners
 
 ## Contact us 
 
