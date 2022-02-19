@@ -62,3 +62,4 @@ Obituaries Australia is a new initiative of the National Centre of Biography at 
 - [Family History](https://www.slq.qld.gov.au/research-collections/family-history) resources from the State Library of Queensland
 - [Useful websites for family historians](https://www.slq.qld.gov.au/research-collections/family-history/useful-websites-family-historians) - State Library of Queensland
 - The [Under the Lino](http://www.underthelino.com.au) community have a [catalogue of research resources](http://www.underthelino.com.au/resources/)
+- [Virtual War Memorial Australia](https://vwma.org.au/explore/cemeteries/1788)
