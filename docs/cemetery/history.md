@@ -104,7 +104,7 @@ Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglecte
 
 [Paddington Cemetery]: https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery "Read more about Paddington Cemetery"
 
-![Paddington Cemetery 1910](../assets/paddington-cemetery-goat-1910.png){ width="70%" } 
+![Paddington Cemetery 1910](../assets/paddington-cemetery-goat-1910.jpg){ width="70%" } 
 
 *<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) — Queensland State Archives.</small>*
 
