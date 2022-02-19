@@ -56,7 +56,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 ## 1881 Queensland's oldest surviving tombstones
 
-Three children originally interred in the banks of the Brisbane River, were re‑interred at Toowong Cemetery in October 1881. 
+Three children originally [interred on the banks of the Brisbane River](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool119348), were re‑interred at Toowong Cemetery in October 1881. 
 
 ![Pioneer Children's Graves on the banks of the Brisbane River ](../assets/children-on-bank.jpg){ width="96%" }  
 
