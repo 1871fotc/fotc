@@ -5,11 +5,11 @@ description: Commemorating Queensland's contribution to Australian's federation
 
 # Federation Pavilion
 
-![](../assets/federation-pavilion.jpg)
+![Federation Pavilion](../assets/federation-pavilion.jpg)
 
 The Federation Pavilion commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
-![](../assets/federation-pavilion-wall.jpg)
+![Federation Pavilion wall](../assets/federation-pavilion-wall.jpg)
 
 >This Pavilion honours <br>
 >  <br>
@@ -25,7 +25,7 @@ The Federation Pavilion commemorates the contribution of the delegates who atten
 
 ## Four stones tell the delegate's stories.
 
-![](../assets/federation-pavilion-stone-1.jpg)
+![Federation Pavilion Story Stone - 1](../assets/federation-pavilion-stone-1.jpg)
 
 > This Pavilion commemorates <br>
 > <br>
@@ -37,7 +37,7 @@ The Federation Pavilion commemorates the contribution of the delegates who atten
 
 ## Samuel Walker Griffith
 
-![](../assets/federation-pavilion-stone-2.jpg)
+![Federation Pavilion Story Stone - 2](../assets/federation-pavilion-stone-2.jpg)
 
 > Sir Samuel Walker Griffith (1845-1920) was born in Wales and migrated to Australia as a child. He was a brilliant student and at the age of 18 unsuccessfully applied for the position of Ipswich Grammar School Headmaster, having graduated from Sydney University with Honours in maths and classics. <br>
 > <br>
@@ -51,7 +51,7 @@ The Federation Pavilion commemorates the contribution of the delegates who atten
 
 ## John Donaldson 
 
-![](../assets/federation-pavilion-stone-3.jpg)
+![Federation Pavilion Story Stone - 3](../assets/federation-pavilion-stone-3.jpg)
 
 > John Donaldson (1841-1896) was a Queensland pastoralist and a member of the Council of United Pastoralists' Association during the Great Strikes. He served as Colonial Treasurer from 1889-1890 during turbulent times in Queensland. <br>
 > <br>
@@ -65,7 +65,7 @@ The Federation Pavilion commemorates the contribution of the delegates who atten
 
 ## Arthur Rutledge
 
-![](../assets/federation-pavilion-stone-4.jpg)
+![Federation Pavilion Story Stone - 4](../assets/federation-pavilion-stone-4.jpg)
 
 > Sir Arthur Rutledge (1843-1917) came to Queensland as a Wesleyan Minister. He was an MLA from 1878 to 1893 and 1899 to 1904. A Barrister and later a Judge of the District Courts. He opposed separation, was a Liberal, supporter of Griffith, and Attorney General from 1883 to 1888.<br>
 > <br>

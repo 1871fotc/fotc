@@ -27,7 +27,7 @@ Before starting, you may like to download the [Toowong Cemetery map](../assets/t
 
     Begin the heritage trail at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
     
-    ![](../assets/federation-pavilion.jpg){ width="10%" } 
+    ![Federation Pavilion](../assets/federation-pavilion.jpg){ width="10%" } 
 
 
 <!-- insert photo -->

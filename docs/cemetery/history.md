@@ -40,11 +40,11 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 </div>
 *<small>[Toowong Cemetery: Resting place of Governor Samuel Blackall (One Minute Archive)](https://www.youtube.com/watch?v=jJ3oK4nwNbA) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives)*</small>
 
-![](../assets/toowong-cemetery-ca1890.jpg){ width="96%" }  
+![Toowong Cemetery, Brisbane, ca. 1890](../assets/toowong-cemetery-ca1890.jpg){ width="96%" }  
 
 *<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
-[![][map-photo]{ width="96%" }][aerial-photo]  
+[![Map and aerial photo of Toowong Cemetery][map-photo]{ width="96%" }][aerial-photo]  
 
 [map-photo]: ../assets/Toowong-cemetery-map-photo.jpg "Click to view full aerial photo (1.9MB)"
 [aerial-photo]: ../assets/BCC000234691.JPG
@@ -58,7 +58,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 Three children originally interred in the banks of the Brisbane River, were re‑interred at Toowong Cemetery in October 1881. 
 
-![](../assets/children-on-bank.jpg){ width="96%" }  
+![Pioneer Children's Graves on the banks of the Brisbane River ](../assets/children-on-bank.jpg){ width="96%" }  
 
 *<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell and Tank Streets. Source unknown.</small>*
 
@@ -75,7 +75,7 @@ It has since been lost to weathering. After the death of their son, the Roberts 
 **Jane Pittard** was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Vann Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
 
 These children's tombstones are the oldest surviving tombstones in Queensland.
-![](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
+![Pioneer Children's Graves at Toowong Cemetery](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
 *<small>Pioneer Children's Graves (13-10-4). </small>*
 
 <!--
@@ -104,7 +104,7 @@ Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglecte
 
 [Paddington Cemetery]: https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery "Read more about Paddington Cemetery"
 
-![](../assets/paddington-cemetery-goat-1910.png){ width="70%" } 
+![Paddington Cemetery 1910](../assets/paddington-cemetery-goat-1910.png){ width="70%" } 
 
 *<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) — Queensland State Archives.</small>*
 
@@ -120,7 +120,7 @@ During the redevelopment of Suncorp Stadium in 2001/02 part of the former cemete
 
 --> 
 
-![](../assets/paddington-memorial.jpg){ width="70%" } 
+![Paddington Memorial](../assets/paddington-memorial.jpg){ width="70%" } 
 
 *<small>Paddington Memorial, Portion 17 Section 1.</small>*
 
@@ -138,11 +138,11 @@ Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary 
 
 (Scroll back to the 1946 aerial photo to see how few allotments were built on 25 years later.)
 
-![](../assets/chermside-park.jpg){ width="96%" }  
+![Chermside Park advertisement](../assets/chermside-park.jpg){ width="96%" }  
 
 *<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now named Couldrey St. </small>*
 
-![](../assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" }  
+![Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](../assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" }  
 
 *<small>[Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — [State Library of Queensland](https://www.slq.qld.gov.au). </small>*
 
@@ -162,7 +162,7 @@ Under the guidance of Garland the Anzac Day service at Toowong Cemetery grew in 
 
 Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at Portion 1, Section 50A, Grave 9, overlooking "Soldiers' Corner".
 
-![](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
+![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=) — [State Library of Queensland](https://www.slq.qld.gov.au). <!-- The Union Jack flag was placed on the building to mask the fact that it was the amenities. --> </small>*
 
@@ -173,7 +173,7 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 -->
 
-![](../assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" }  
+![Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](../assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" }  
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
@@ -215,7 +215,7 @@ Learn more about **[Friends of Toowong Cemetery](../about/index.md)** - what we 
 
 The **[Federation Pavilion][Federation Pavilion]** commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
-![](../assets/federation-pavilion.jpg){ width="96%" }  
+![Federation Pavilion](../assets/federation-pavilion.jpg){ width="96%" }  
 
 [Federation Pavilion]: ../about/federation-pavilion.md "Read about Federation Pavilion, created by the Friends of Toowong Cemetery"
 
@@ -227,7 +227,7 @@ In 2006, in conjunction with the University of Queensland Archaeology Department
 
 In 2011, while staff prepared a new grave, the headstone of a John Peel was discovered. Brisbane City Council had no record of John Pell and asked Friends of Toowong Cemetery for help. It was discovered that the headstone was one of 504 missing headstones from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for roadbase. This was not entirely true as many headstones have been found in archaeological digs between 2011-2016. 
 
-![](../assets/lost-and-found.jpg){ width="96%" }  
+![Discovered headstones](../assets/lost-and-found.jpg){ width="96%" }  
 
 ## 2009 Vandalism law changes
 
@@ -241,7 +241,7 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment
 
 [re-enactment]: ../about/140-commemoration.md "Read about our awarding winning event."
 
-![](../assets/140-commemoration.png){ width="96%" }  
+![Re-enactment of the funeral of Governor Blackall, 2011](../assets/140-commemoration.png){ width="96%" }  
 
 ## Today
 

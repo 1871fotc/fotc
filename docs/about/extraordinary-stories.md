@@ -12,7 +12,7 @@ hide:
 
 Edited by Hilda MacLean
 
-![](../assets/fotc-gates.jpg){ width="80%" }  
+![Drawing of Toowong Cemetery Gates](../assets/fotc-gates.jpg){ width="80%" }  
 
 *<small>Toowong Cemetery Gates — Jeff Turner.</small>*
 
@@ -151,7 +151,7 @@ Emily Sophia died on the 19^th^ of December 1923 at Kent Road, Wooloowin. Henry 
 
 Redael the name of the family home in Kent Road Wooloowin, is 'Leader' (Emily's maiden name) spelt backwards.
 
-![](../assets/post-office-hotel-advertisement.png){ width="90%" }  
+![Post Office Hotel Advertisement](../assets/post-office-hotel-advertisement.png){ width="90%" }  
 
 *<small>[This advertisement appeared in The Queensland Figaro on the 20^th^ of April 1889.](https://trove.nla.gov.au/newspaper/page/8757817#)</small>*
 
@@ -174,7 +174,7 @@ Walter then proposed the founding of a public art gallery in Queensland and led 
 
 The prominent part Jenner played in art matters is recognised in the catalogue of the Gallery Collection of 1908 and again in the Gallery's 1982 Commemorative Catalogue. A retrospective exhibition of Jenner's work was held late in 1994. The exhibition drew heavily on works owned by Jenner's great-granddaughter and works from the collection of the Queensland Art Gallery.
 
-![](../assets/isaac-walter-jenner.jpg){ width="40%" }  
+![Noted Queensland artist Isaac Walter Jenner](../assets/isaac-walter-jenner.jpg){ width="40%" }  
 
 *<small>[Noted Queensland artist Isaac Walter Jenner](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218843570002061) — State Library of Queensland.</small>*
 
@@ -210,7 +210,7 @@ That year Glenville Massy retired from North Queensland and took up residence at
 He married Jessie, daughter of James Hall-Scott, a pioneer of the Bowen district in 1897. Jessie's story is told elsewhere in this book. Glenville died on the 25^th^ of March 1939 at his beloved Auchenflower home.
 
 
-![](../assets/glenville-auchenflower.jpg)
+![Panorama of a large Queenslander house on the corner of Milton Road and Hobbs Street, Auchenflower. ca. 1920](../assets/glenville-auchenflower.jpg)
 
 *<small>[5657 Panorama of a large Queenslander house on the corner of Milton Road and Hobbs Street, Auchenflower. ca. 1920](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21148712080002061). Part of a motorcar can be seen at the far right of the photo and tram lines and a tram are shown at far left. The house is timber, with a brick and timber fence. The house, named "Glenville' was the residence of pastoralist Glenville Massy and his family. The house was demolished in the 1960s. — State Library of Queensland.</small>*
 
@@ -345,7 +345,7 @@ James died on the 13^th^ of September 1925 at his Brisbane home of jaw cancer. S
 James and Sarah had twelve children, four sons, seven daughters and a baby who died unnamed. At the time of his death in 1925, James had 33 grandchildren and five great-grandchildren.
 
 
-![](../assets/james-campbell.jpg){ width="40%" }
+![James Campbell](../assets/james-campbell.jpg){ width="40%" }
 
 *<small>[James Campbell](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218626290002061) — State Library of Queensland.</small>*
 
@@ -596,7 +596,7 @@ He returned to the Normal School in September of that year and shortly afterward
 John took leave of absence and after an illness of two weeks, the last five days of which he was in severe pain, he died at his home Moorland Villa on the 27^th^ of November, 1873. The school was closed for the rest of the week as a mark of respect and teachers and pupils alike "*were cast into gloom*".
 
 
-![](../assets/normal-school-brisbane-1885.jpg){ width="30.7%" } ![](../assets/normal-school-brisbane-students-1872.jpg){ width="68%" }
+![Normal School, Brisbane, ca. 1885](../assets/normal-school-brisbane-1885.jpg){ width="30.7%" } ![Students from the Normal School, Brisbane, ca. 1872](../assets/normal-school-brisbane-students-1872.jpg){ width="68%" }
 
 *<small>[Normal School, Brisbane, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218209230002061) — State Library of Queensland.</small>* <br>
 *<small>[Students from the Normal School, Brisbane, ca. 1872](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219131300002061) — State Library of Queensland.</small>*
@@ -793,7 +793,7 @@ At Easter 1909, William travelled to Sydney where he won the Grand Champion Bari
 
 William died at the age of 43 and was buried at Toowong Cemetery on the 29^th^ of November 1924.
 
-![](../assets/william-ernest-schleusener.jpg){ width="40%" }  
+![William Ernest Schleusener](../assets/william-ernest-schleusener.jpg){ width="40%" }  
 
 ### Acknowledgement
 

@@ -12,7 +12,7 @@ hide:
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
-![][image1]{ width="32%" } ![][image2]{ width="32%" } ![][image3]{ width="32%" }   
+![Toowong Cemetery main entrance][image1]{ width="32%" } ![Canon Garland Place][image2]{ width="32%" } ![Headstone Symbolism Display][image3]{ width="32%" }   
 
 The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The first burial was of Governor Blackall on 3 January 1871.  
 
@@ -43,7 +43,7 @@ The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.q
 <!-- links -->
 
 [image1]: assets/main-entrance.jpg "The main entrance to Toowong Cemetery"
-[image2]: assets/flag-pole.jpg "Cannon Garland Place"
+[image2]: assets/flag-pole.jpg "Canon Garland Place"
 [image3]: assets/symbolism-display.jpg "Headstone Symbolism Display"
 
 [image4]: assets/140-commemoration-sml.png

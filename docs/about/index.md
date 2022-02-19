@@ -12,11 +12,7 @@ search:
 
 <br>
 
-<!--
-![](../assets/fotc-banner-1280x320.png)
---> 
-
-![](../assets/fotc-banner-transparent-1280x320.png)
+![Friends of Toowong Cemetery banner](../assets/fotc-banner-transparent-1280x320.png)
 
 
 ## What we do 
@@ -43,7 +39,7 @@ The Friends of Toowong Cemetery have:
 - **[published books, a DVD](publications.md)** and **[self‑guided walks](../walks/index.md)** 
 
 
-![](../assets/federation-pavilion.jpg)
+![Federation Pavilion](../assets/federation-pavilion.jpg)
 
 *<small>Federation Pavilion</small>* 
 
@@ -78,7 +74,7 @@ Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditorium]
 
 :fontawesome-regular-calendar-plus: **[Add the 2022 meetings to your Calendar](../assets/calendar/meetings-2022.ics)**
 
-![](../assets/auditorium.jpg)
+![Mt Coot-tha Botanical Gardens Auditorium](../assets/auditorium.jpg)
 
 To join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb8)** and pay the annual membership subscription (includes GST):
 

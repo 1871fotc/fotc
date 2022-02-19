@@ -18,8 +18,8 @@ If you visit at other times, staff at the Office will be pleased to open the Mus
 
 The Museum has an extensive display of photographs and artefacts.
 
-![](../assets/museum-photos-1.jpg){ width="49%" } ![](../assets/museum-photos-2.jpg){ width="49%" }
-![](../assets/museum-photos-3.jpg){ width="49%" } ![](../assets/museum-photos-4.jpg){ width="49%" } 
+![Museum photo display 1](../assets/museum-photos-1.jpg){ width="49%" } ![Museum photo display 2](../assets/museum-photos-2.jpg){ width="49%" }
+![Museum photo display 2](../assets/museum-photos-3.jpg){ width="49%" } ![Museum photo display 4](../assets/museum-photos-4.jpg){ width="49%" } 
 
 
 ### The Museum's History

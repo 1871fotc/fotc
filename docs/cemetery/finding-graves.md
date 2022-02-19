@@ -12,12 +12,12 @@ Graves are located using 3 numbers, *Portion*-*Section*-*Grave*. For example, Pe
 See if you can locate Peter Jackson's grave using the Portion and Section numbers in the map below.
 
 <!-- Map -->
-[![](../assets/toowong-cemetery-map-alt.jpg){ width="100%" }][map]
+[![Toowong Cemetery Map showing Portions](../assets/toowong-cemetery-map-alt.jpg){ width="100%" }][map]
 
-*<small>Toowong Cemetery Map showing Portions (the large numbers) and Sections (the numbers inside the white rectangles). <br> :fontawesome-solid-search-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page.</small>*
+*<small>Toowong Cemetery Map showing Portions (the large numbers) and Sections (the numbers inside the white rectangles). <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left: Back to return to this page.</small>*
 
 <!-- Map links -->
-[map]: ../assets/toowong-cemetery-map-alt.jpg "Click to expand the map. Use Back to return to this page"
+[map]: ../assets/toowong-cemetery-map-alt.jpg "Click the map to expand. Use Back to return to this page."
 
 There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Each Section can contain up to 40 graves and the graves are often in two rows within the section. 
 
@@ -59,11 +59,11 @@ Information on the official burial records that can be updated, includes:
 
 Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a marker, the person it represents, and the grave location. 
 
-![](../assets/many-markers.jpg){ width="100%" }
+![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" }
 
 *<small>Grave markers embedded into a grave surround.</small>*
 
-![](../assets/markers.jpg){ width="100%" }
+![Grave markers found on the grass](../assets/markers.jpg){ width="100%" }
 
 *<small>Grave markers found on the grass, separated from their grave.</small>*
 
@@ -73,7 +73,7 @@ Searching for *"Gale"* in the Brisbane City Council **[Grave location search](ht
 
 Only the surname is recorded in the Portion Book so you can't link a marker to a specific person, although you may be able to imply a link by the order the markers are recorded and the date of each person's death. 
 
-![](../assets/portion-ledger.png){ width="100%" }
+![Sample Portion Book page](../assets/portion-ledger.png){ width="100%" }
 
 *<small>Sample Portion Book page. © Brisbane City Council</small>*
 
@@ -87,6 +87,6 @@ You can **[ask the Toowong Cemetery Office for assistance finding graves](https:
   - outline an unmarked grave using a surface spray. The spray does no harm and two mowings later it will disappear. 
   - take digital photographs of a grave and email it to you.
 
-![](../assets/unmarked-graves.jpg){ width="100%" }
+![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" }
 
 *<small>Unmarked graves can be clearly seen after rain.</small>*

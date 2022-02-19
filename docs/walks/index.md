@@ -19,17 +19,6 @@ search:
 
 The Friends of Toowong Cemetery have researched and published a large collection of themed self-guided walks. Choose a walk from the list below.
 
-<!-- Should these walks be elaborated on or some "incomplete" ones moved to the Guided Tours section? -->
-
-<!-- 
-
-![](../assets/self-guided-walk-brochures.jpg){ width="50%" } 
-
-*<small>Self-guided walk brochures are available in the [Museum](../cemetery/museum.md)</small>*
-
--->
-
-
 ## Politics
 
 - **[The Federation Trail][federation-trail]** - commemorating four Queensland delegates to the 1891 National Australasian Convention

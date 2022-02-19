@@ -6,7 +6,7 @@ search:
 
 # Visit Toowong Cemetery
 
-![][main-entrance]
+![Toowong Cemetery Main Entrance][main-entrance]
 
 *<small>Toowong Cemetery Main Entrance off Frederick Street</small>*
 
@@ -29,7 +29,7 @@ If you're walking, in addition to the entries above, you can enter via:
 - Frederick Street gate (opposite Sleath Street) that leads onto Steel Rudd Avenue (previously 4th Avenue).
 - the many informal entries off Birdwood Terrace.
 
-![](../assets/pedestrian-ramp.jpg){ width="98%" }
+![Toowong Cemetery Pedestrian Entrance](../assets/pedestrian-ramp.jpg){ width="98%" }
 
 *<small>Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road. <b>[Bus stop 17, Mt Coot-tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/)</b> is nearby.</small>*
 
@@ -50,7 +50,7 @@ If you enter the main entrance, you'll find:
 - a **[Museum](museum.md)** operated by the Friends of Toowong Cemetery. 
 - **Toilets**, the only ones available in the cemetery.
 
-![](../assets/flag-pole.jpg){ width="98%" }
+![Canon Garland Place](../assets/flag-pole.jpg){ width="98%" }
 
 *<small>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</small>*
 
@@ -76,9 +76,9 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 This map will help you to **[find graves](finding-graves.md)**. The map shows the old Road names.
 
-[![](../assets/toowong-cemetery-map.png){ width="98%" }][map]
+[![Toowong Cemetery Map](../assets/toowong-cemetery-map.png){ width="98%" }][map]
 
-*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-search-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
+*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
 
 <!-- Map links -->
 
@@ -145,7 +145,7 @@ Here are some of our favourites:
 - [Via Retro](https://viaretrocafe.com.au) - look for the cute retro caravan at J.C. Slaughter Falls on weekends
 - [Corner Store Cafe](http://www.cornerstorecafe.com) - 113 Sylvan Rd, Toowong, adjacent to the Toowong tennis courts
 
-![](../assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ width="98%" }
+![Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](../assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ width="98%" }
 
 *<small>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother</small>*
 
