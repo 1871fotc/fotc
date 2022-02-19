@@ -447,16 +447,16 @@
 | Theodore             | Osborne                                   | 1837-mm-dd | 1940-11-18 | 6-27-17   | 
 | Alexander            | Mountford                                 | 1898-02-10 | 1936-09-15 | 16-18-30  | 
 | Charles Walter       | de Vis                                    | 1829-05-09 | yyyy-mm-dd | 16-22-18  | 
-| Olive May            | Heathorn                                  | 1890-mm-dd | 1936-06-07 | 16‑24‑14  | 
-| Charles Frederick Augustus | Garland                             | 1862-mm-dd | yyyy-mm-dd | 15‑11‑26/27 | 
-| Richard              | Belford                                   | 1865-04-28 | yyyy-mm-dd | 15‑11‑6   | 
-| James Edwin          | Ramsbotham                                | 1856-11-04 | yyyy-mm-dd | 15‑16‑17  | 
-| Jack                 | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15‑16‑40/41 | 
-| Leo                  | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15‑16‑40/41 | 
-| Madonna              | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15‑16‑40/41 | 
-| Francis Malachy      | McKeon                                    | yyyy-mm-dd | 1925-11-17 | 15‑17‑7   | 
-| John                 | Forde                                     | yyyy-mm-dd | yyyy-mm-dd | 15‑19‑27/28 | 
-| Ellen                | Forde                                     | yyyy-mm-dd | yyyy-mm-dd | 15‑19‑27/28 | 
-| Hugh                 | Glackin                                   | 1844-03-08 | yyyy-mm-dd | 15‑22‑20/21 | 
-| Frederick Augustus *(Gus)* | Garland                             | yyyy-mm-dd | yyyy-mm-dd | 15‑24‑22  | 
-| John                 | Galligan                                  | 1857-mm-dd | yyyy-mm-dd | 15‑26‑12  | 
+| Olive May            | Heathorn                                  | 1890-mm-dd | 1936-06-07 | 16-24-14  | 
+| Charles Frederick Augustus | Garland                             | 1862-mm-dd | yyyy-mm-dd | 15-11-26/27 | 
+| Richard              | Belford                                   | 1865-04-28 | yyyy-mm-dd | 15-11-6   | 
+| James Edwin          | Ramsbotham                                | 1856-11-04 | yyyy-mm-dd | 15-16-17  | 
+| Jack                 | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15-16-40/41 | 
+| Leo                  | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15-16-40/41 | 
+| Madonna              | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15-16-40/41 | 
+| Francis Malachy      | McKeon                                    | yyyy-mm-dd | 1925-11-17 | 15-17-7   | 
+| John                 | Forde                                     | yyyy-mm-dd | yyyy-mm-dd | 15-19-27/28 | 
+| Ellen                | Forde                                     | yyyy-mm-dd | yyyy-mm-dd | 15-19-27/28 | 
+| Hugh                 | Glackin                                   | 1844-03-08 | yyyy-mm-dd | 15-22-20/21 | 
+| Frederick Augustus *(Gus)* | Garland                             | yyyy-mm-dd | yyyy-mm-dd | 15-24-22  | 
+| John                 | Galligan                                  | 1857-mm-dd | yyyy-mm-dd | 15-26-12  | 
