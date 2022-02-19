@@ -46,8 +46,9 @@ Download the Biography Index as a <a href="../assets/data/biography-index.csv" d
     If you open the .csv file using Microsoft Excel, be aware that it tries to be helpful and automatically adjust the date formats. This is not helpful, consider using another tool. It also doesn't handle characters like "ü".
     
     If you must use Excel, download the <a href="../assets/data/biography-index-for-excel.csv" download>Comma Separated Value file for Excel</a> where we have:
-        - put a space before the first number in the date to trick Excel into thinking it's text. 
-        - replaced characters like "ü"" with "u" (we may have missed some)
+    
+      - put a space before the first number in the date to trick Excel into thinking it's text. 
+      - replaced characters like "ü" with "u" *(we may have missed some)*
     
     You could also try turning off the Excel *background error checking* setting before loading the file. 
     
