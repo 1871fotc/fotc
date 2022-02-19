@@ -12,7 +12,7 @@ Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll se
 
 In [Portion 2](../cemetery/finding-graves.md) of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones from the old [Paddington cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) which closed in 1914.
 
-![](../assets/symbolism-display.jpg)
+![Toowong Cemetery headstone symbolism display](../assets/symbolism-display.jpg)
 
 <!-- link to map --> 
 
@@ -22,46 +22,46 @@ Headstones within the Cemetery come in many shapes <!-- [many shapes](shapes.md)
 
 The cross comes in a variety of shapes. The Celtic cross (with its arms enclosed in a circle) was used mostly by those of Irish origin prior to the end of the 19th Century before they became a popular choice (regardless to national heritage). The unadorned cross was known as the Calvary cross, representing Christ's crucification. The Orthodox cross with three bars symbolises the cross Christ was crucified on, with the title board (top bar), the bar on which the Lord's hands were nailed (middle bar) and the footrest (bottom bar).
 
-![](../assets/celtic-cross.jpg){ width="30%" } ![](../assets/cross-with-bird-and-flowers.jpg){ width="30%" } ![](../assets/orthodox-cross.jpg){ width="30%" }
+![Celtic cross](../assets/celtic-cross.jpg){ width="30%" } ![Calvary cross](../assets/cross-with-bird-and-flowers.jpg){ width="30%" } ![Orthodox cross](../assets/orthodox-cross.jpg){ width="30%" }
 
 ## Columns
 
 Columns are indicative of heaven and their height implies the social status of the person buried. A broken column represents the break between life on earth and in heaven, and also a life cut short. Columns were also used to represent the loss of the head of family.
 
-![](../assets/column.jpg){ width="40%" }
+![Column](../assets/column.jpg){ width="40%" }
 
 ## Crown
 
 A crown was often used to represent the "sovereignty of the Lord".
 
-![](../assets/crown.jpg){ width="70%" }
+![Crown](../assets/crown.jpg){ width="70%" }
 <!-- add caption and grave id -->
 
 ## Harp or Lyre
 
 A harp or lyre symbolises hope, joy and music. It was the symbol of St. Cecila, the Patron Saint of Musicians, and is often associated with worship in heaven. This can be seen on the grave of Joseph Phillips (10-8-12).
 
-![](../assets/lyre.jpg){ width="70%" }
+![Lyre](../assets/lyre.jpg){ width="70%" }
 
 ## Ship's Anchor
 
 A ship's anchor was commonly used to commemorate the life of a sailor or someone with a maritime career. 
 
-![](../assets/anchor.jpg) 
+![Ship's Anchor](../assets/anchor.jpg) 
 <!-- add caption and grave id -->
 
 ## Obelisk
 
 An obelisk is defined as a thin, four-sided tapering monument ending in a pyramid at the top. The height of the obelisk also indicates the importance of the deceased. 
 
-![](../assets/obelisk.jpg){ width="40%" }
+![Obelisk](../assets/obelisk.jpg){ width="40%" }
 <!-- add caption and grave id -->
 
 ## Clasped hands
 
 Clasped hands symbolise the belief Victorians held that they would be reunited with their loved ones after death. If you look carefully at the cuffs of those shaking hands, you can often see that they are male and female. This can be seen are the grave of Herman Wuiski and his wife Emily (1-50A-10).
 
-![](../assets/clasped-hands.jpg) 
+![Clasped hands](../assets/clasped-hands.jpg) 
 <!-- add caption and grave id -->
 <!-- get photo of of Herman Wuiski and his wife Emily (1-50A-10) -->
 
@@ -79,28 +79,28 @@ Plants can represent a person's birthplace (such as thistles from Scotland) and 
 
 Urns are a Greek symbol of mourning and represent the process of death, where the body becomes dust while the spirit rests with God. When the urn is draped it becomes a symbol of the house mourning.
 
-![](../assets/draped-urn.jpg){ width="40%" }
+![Draped Urn](../assets/draped-urn.jpg){ width="40%" }
 <!-- add caption and grave id -->
 
 ## Animals
 
 Animals symbolise the character of the deceased. Lambs were often used as a symbol of innocence and found on the graves of children, while lions were used as a symbol of courage. Visit the grave of heavyweight boxing champion Peter Jackson (5-28-1) which is adorned with a lion.
 
-![](../assets/lion.jpg){ width="70%" }
+![Lion](../assets/lion.jpg){ width="70%" }
 <!-- add caption and grave id -->
 
 ## IHS Emblem
 
 The IHS Emblem is from the Greek alphabet, (I) Iota, (H) Eta, and (Σ) Sigma and represents the first Greek word for Jesus or Christ. 
 
-![](../assets/ihs.jpg){ width="70%" }
+![IHS Emblem](../assets/ihs.jpg){ width="70%" }
 <!-- add caption and grave id -->
 
 ## Books
 
 Books often symbolise the Bible and the faith of its reader. An open book has also been associated with the human heart.
 
-![](../assets/book.jpg) 
+![Book](../assets/book.jpg) 
 <!-- photos --> 
 <!-- add caption and grave id -->
 
@@ -123,7 +123,7 @@ https://en.wikipedia.org/wiki/Heptagram
 
 In Steele Rudd Avenue you'll find a collection of broken headstones. [Where did they come from?](archaeological-digs.md) Why are they here? What is planned? 
 
-![](../assets/lost-and-found.jpg) 
+![Discovered headstones](../assets/lost-and-found.jpg) 
 <!-- add caption and grave id -->
 
 ## Source

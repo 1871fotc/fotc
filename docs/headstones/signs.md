@@ -13,13 +13,13 @@ Freed from the restrictions of parish churchyards, municipal cemeteries provided
 
 Friendly societies were mutual aid organisations designed to help predominately working-class people insure themselves against destitution caused by death and illness. Many operated funeral clubs which for a few pence a month protected the contributors from the perceived disgrace of a pauper's grave.
 
-![](../assets/ancient-order-of-forester.jpg){ width="44.7%" }  ![](../assets/australian-natives- associations.jpg){ width="49%" }  
+![Members of the Ancient Order of Forester, Court Brunswick, Brisbane, 1922](../assets/ancient-order-of-forester.jpg){ width="44.7%" }  ![Australian Natives' Association's allegorial display, Brisbane, 1901](../assets/australian-natives- associations.jpg){ width="49%" }  
 
 *<small>[Members of the Ancient Order of Forester, Court Brunswick, Brisbane, 1922](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_alma21218746750002061&context=L&vid=SLQ&lang=en_US&search_scope=DT&adaptor=Local%20Search%20Engine&tab=dt&query=any,contains,Ancient%20Order%20of%20Foresters&offset=0), State Library of Queensland</small>* <br>
 *<small>[Australian Natives' Association's allegorial display, Brisbane, 1901](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_digitool125779&context=L&vid=SLQ&lang=en_US&search_scope=DT&adaptor=Local%20Search%20Engine&tab=dt&query=any,contains,Australian%20Natives%20Association&offset=0), State Library of Queensland</small>*
 
 
-![](../assets/st-patricks-day-1903.jpg){ width="45.8%" }  ![](../assets/independent-order-of-rechabites.jpg){ width="48%" }   
+![St. Patrick's Day procession, Queen Street, Brisbane, 1903](../assets/st-patricks-day-1903.jpg){ width="45.8%" }  ![Independent Order of Rechabites, Brisbane, ca. 1933](../assets/independent-order-of-rechabites.jpg){ width="48%" }   
 
 *<small>[St. Patrick's Day procession, Queen Street, Brisbane, 1903](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249906440002061) — State Library of Queensland. Note the 'HACBS' (Hibernian Australia Catholic Benefit Society) shown on the banner.</small>* <br>
 *<small>[Independent Order of Rechabites, Brisbane, ca. 1933](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220362320002061) — State Library of Queensland. </small>*
@@ -30,8 +30,8 @@ Most organisations had rules, ranks and rites and developed a symbolic language 
 
 Most cemetery visitors are familiar with the compass and square, the working tools of the Masonic orders. The "G" in the centre may be interpreted as "God" by speculative Masons, and as "Geometry" by operative Masons. Variations in the design (for example, the number of dots on the square), or the inscription may inform the knowledgable passer-by of the rank held by the deceased in the organisation. 
 
-![](../assets/freemason-sign.jpg){ width="48%" }  ![](../assets/freemason-sign-with-g.jpg){ width="48%" } 
-![](../assets/andrew-norman-davidson-headstone.jpg){ width="97%" }  
+![Freemason's sign](../assets/freemason-sign.jpg){ width="48%" }  ![Freemason's sign with a G in the centre](../assets/freemason-sign-with-g.jpg){ width="48%" } 
+![Andrew Norman Davidson's headstone](../assets/andrew-norman-davidson-headstone.jpg){ width="97%" }  
 
 >Her beloved Husband 
 >and our loving Father <br/>
@@ -58,7 +58,7 @@ The "V.W." after Andrew Norman Davidson's name may indicate he held the rank of 
 
 The Odd Fellows were so named because they were originally drawn together from an odd variety of trades with insufficient numbers to form their own trade guilds. Their three-link chain stands for Friendship, Love and Truth. A variation is a monogram consisting of the letters F, C and B for friendship, charity and benevolence. Charity is also represented by a hand holding a heart and is most often associated with the Manchester Unity Independent Order of Odd Fellows (MUIOOF).
 
-![](../assets/wooden-hand-heart-in-hand.jpg){ width="47.2%" }  ![](../assets/odd-fellows.jpg){ width="49%" }  
+![Wooden hand with heart](../assets/wooden-hand-heart-in-hand.jpg){ width="47.2%" }  ![Manchester Unity Independent Order of Odd Fellows, ca. 1910](../assets/odd-fellows.jpg){ width="49%" }  
 
 *<small>[Wooden Hand - Heart in Hand](https://collections.museumsvictoria.com.au/items/251958) — Museums Victoria </small>* <br>
 *<small>[Manchester Unity Independent Order of Odd Fellows, ca. 1910](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1413410) — State Library of Queensland</small>*
@@ -143,7 +143,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 
 Unlike the [Clasped Hands symbol](index.md#clasped-hands) showing a man and women holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two men shaking hands.
 
- ![](../assets/clasped-hands.jpg){ width="48%" }  ![Richard Silas Bowden Headstone 20-20-35/36][20-20-35/36]{ width="48%" }  
+ ![Headstone carving with man and women holding hands](../assets/clasped-hands.jpg){ width="48%" }  ![Headstone carving with men shaking hands][20-20-35/36]{ width="48%" }  
 
 *<small>The image on the right is from the headstone of Richard Silas Bowden - Past Grand Master of the Manchester Unity Independent Order of Oddfellows (20‑20‑35/36) </small>*
 
@@ -154,7 +154,7 @@ Unlike the [Clasped Hands symbol](index.md#clasped-hands) showing a man and wome
 
 <!-- Thomas Dempster 18‑17‑22/23 United Operative Stonemasons Society of Queensland (UOSMS) -->
 
-![](../assets/john-campbell-headstone-oes.jpg){ width="48%" }  ![](../assets/maurice-oconnell-headstone.jpg){ width="48%" } 
+![Order of the Eastern Star sign on headstone](../assets/john-campbell-headstone-oes.jpg){ width="48%" }  ![Irish Constitution sign on a headstone](../assets/maurice-oconnell-headstone.jpg){ width="48%" } 
 
 *<small>John Campbell's headstone shows the Order of the Eastern Star sign within the Freemason's compass and square. The Order of the Eastern Star is a Masonic appendant body open to both men and women. (1‑147‑26) </small>*
 
