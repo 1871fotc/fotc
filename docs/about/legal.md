@@ -13,7 +13,7 @@ Material on this site is copyright © 1992 — 2022 Friends of Toowong Cemetery 
 
 We have chosen to apply an open licence to our work to **encourage others to discover and share the history and stories of Toowong Cemetery.**
 
-Material by the Friends of Toowong Cemetery Association Incorporated is provided under a [Creative Commons Attribution 4.0 licence][CC-BY]. This licence is often abbreviated as either:
+Material by the Friends of Toowong Cemetery Association Incorporated is provided under a [Creative Commons Attribution 4.0 International licence][CC-BY]. This licence is often abbreviated as either:
 
 - CC BY 4.0
 - :fontawesome-brands-creative-commons::fontawesome-brands-creative-commons-by:
