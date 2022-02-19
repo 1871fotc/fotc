@@ -76,13 +76,13 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 This map will help you to **[find graves](finding-graves.md)**. The map shows the old Road names.
 
-[![Toowong Cemetery Map](../assets/toowong-cemetery-map.png){ width="98%" }][map]
+[![Toowong Cemetery Map](../assets/toowong-cemetery-map.jpg){ width="98%" }][map]
 
 *<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
 
 <!-- Map links -->
 
-[map]: ../assets/toowong-cemetery-map.png "Click to expand the map. Use Back to return to this page"
+[map]: ../assets/toowong-cemetery-map.jpg "Click to expand the map. Use Back to return to this page"
 [map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
 
 <!-- Add a mobility map eg https://www.brisbane.qld.gov.au/sites/default/files/brisbane_botanic_gardens_mobility_map.pdf -->

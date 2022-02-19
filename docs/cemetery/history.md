@@ -193,7 +193,7 @@ Mayors, soldiers, politicians all fell victim to the clearance. At Toowong Cemet
 
 --8<-- "snippets/dilapidated-graves.md"
 
-<!-- ==Photo of a Council letter?== -->
+<!-- Photo of a Council letter? -->
 
 In 1978 construction started on the Toowong Cemetery Roundabout which, when completed, made entry via the main gates difficult.
 
