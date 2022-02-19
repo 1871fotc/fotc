@@ -12,9 +12,7 @@ description: A smoking, swearing, lesbian surgeon that went to war
 --8<-- "snippets/lilian-cooper.md"
 
 
-![image of headstone](../assets/lilian-cooper.jpg){ width="30%" } 
-
-![image of headstone](../assets/lilian-cooper-plaque.jpg){ width="30%" }
+![image of headstone](../assets/lilian-cooper.jpg){ width="25%" } ![image of headstone](../assets/lilian-cooper-plaque.jpg){ width="59.2%" }
 
 
 

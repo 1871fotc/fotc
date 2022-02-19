@@ -24,11 +24,11 @@ On Thursday, 13 November 1884, Alfred was riding his Penny Farthing bicycle alon
 >Ellen Duggan <br>
 >Died May 17^th^ 1915 Aged 76 years <br>
 
-Most sources use the name, *"Alfred Joseph Duggan"*, so it is unclear why the headstone is inscribed, *"Joseph Alfred Duggan"*. The headstone also states Alfred was, *"In the 20^th^ year of his age"* however *[The Queenslander](https://trove.nla.gov.au/newspaper/article/23976600?searchTerm=%22Joseph%20Duggan%22)* reported he was 19 years old. Perhaps he had his birthday after the accident.
+Most sources and [official registers](https://www.familyhistory.bdm.qld.gov.au/details/32a9b6ceb3fa5a50b7a1c420e0a8b46d2db76fe730237c24fbff422d96463e82) use the name, *"Alfred Joseph Duggan"*, so it is unclear why the headstone is inscribed, *"Joseph Alfred Duggan"*. The headstone also states Alfred was, *"In the 20^th^ year of his age"* however *[The Queenslander](https://trove.nla.gov.au/newspaper/article/23976600?searchTerm=%22Joseph%20Duggan%22)* reported he was 19 years old. Perhaps he had his birthday after the accident.
 
 Alfred died [intestate](https://trove.nla.gov.au/newspaper/article/3438912?searchTerm=%22Alfred%20Duggan%22) and *"all the land, goods, chattels, credits, and effects"* of [under £35](https://trove.nla.gov.au/newspaper/article/19797033?searchTerm=%22Alfred%20Duggan%22) were given to his spinster sister, Miss Frances Lilian Duggan. Ironically, the two newspaper reports also mixed his sister's first and middle names.
 
-![](../assets/penny-farthing-race-toowong.jpg){ width="68.1%" }  ![](../assets/g-stombuco-and-penny-farthing.jpg){ width="27.4%" } 
+![](../assets/penny-farthing-race-toowong-sml.jpg){ width="68.1%" }  ![](../assets/g-stombuco-and-penny-farthing.jpg){ width="27.4%" } 
 
 *<small>[Bicycle racing at Toowong, Brisbane, Queensland, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220537210002061). Bicycle racing on a circular track at the Toowong Sportsground, around 1885. Photograph is taken from R. L. Drew's house, 15 Union Street, Taringa (now the site of the Brisbane Boys' College) - State Library of Queensland. Cropped. </small>* <br>
 *<small>[Cyclist posing with a penny farthing bicycle, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218490680002061). Possibly G. Stombuco (who was came second in the Half-mile bicycle race without using

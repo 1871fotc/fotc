@@ -151,7 +151,7 @@ Emily Sophia died on the 19^th^ of December 1923 at Kent Road, Wooloowin. Henry 
 
 Redael the name of the family home in Kent Road Wooloowin, is 'Leader' (Emily's maiden name) spelt backwards.
 
-![Post Office Hotel Advertisement](../assets/post-office-hotel-advertisement.png){ width="90%" }  
+![Post Office Hotel Advertisement](../assets/post-office-hotel-advertisement-sml.jpg){ width="90%" }  
 
 *<small>[This advertisement appeared in The Queensland Figaro on the 20^th^ of April 1889.](https://trove.nla.gov.au/newspaper/page/8757817#)</small>*
 

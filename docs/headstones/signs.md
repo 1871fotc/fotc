@@ -13,7 +13,7 @@ Freed from the restrictions of parish churchyards, municipal cemeteries provided
 
 Friendly societies were mutual aid organisations designed to help predominately working-class people insure themselves against destitution caused by death and illness. Many operated funeral clubs which for a few pence a month protected the contributors from the perceived disgrace of a pauper's grave.
 
-![Members of the Ancient Order of Forester, Court Brunswick, Brisbane, 1922](../assets/ancient-order-of-forester.jpg){ width="44.7%" }  ![Australian Natives' Association's allegorial display, Brisbane, 1901](../assets/australian-natives- associations.jpg){ width="49%" }  
+![Members of the Ancient Order of Forester, Court Brunswick, Brisbane, 1922](../assets/ancient-order-of-forester.jpg){ width="44.7%" }  ![Australian Natives' Association's allegorial display, Brisbane, 1901](../assets/australian-natives-associations.jpg){ width="49%" }  
 
 *<small>[Members of the Ancient Order of Forester, Court Brunswick, Brisbane, 1922](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_alma21218746750002061&context=L&vid=SLQ&lang=en_US&search_scope=DT&adaptor=Local%20Search%20Engine&tab=dt&query=any,contains,Ancient%20Order%20of%20Foresters&offset=0), State Library of Queensland</small>* <br>
 *<small>[Australian Natives' Association's allegorial display, Brisbane, 1901](http://onesearch.slq.qld.gov.au/primo-explore/fulldisplay?docid=slq_digitool125779&context=L&vid=SLQ&lang=en_US&search_scope=DT&adaptor=Local%20Search%20Engine&tab=dt&query=any,contains,Australian%20Natives%20Association&offset=0), State Library of Queensland</small>*
