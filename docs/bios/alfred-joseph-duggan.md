@@ -2,7 +2,7 @@
 hide:
   - toc
   - navigation
-description: A story about Penny Farthing's in Brisbane and a life cut short
+description: The Penny Drops - A story about Penny Farthing's in Brisbane and a life cut short
 ---
 
 # Alfred Joseph Duggan 
