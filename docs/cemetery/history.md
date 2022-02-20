@@ -7,7 +7,7 @@ description: Discover the history of Toowong Cemetery
 
 ## Traditional Owners
 
-Prior to ca.1875, the flat area where the entrance of Toowoong Cemetery now stands was an [Aboriginal Corroboree Ground][Corroboree]. "Toowong" is a corruption of "[Tu-wong][tu-wong]", purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
+Prior to 1875, the flat area where the entrance of Toowong Cemetery now stands was an [Aboriginal Corroboree Ground][Corroboree]. "Toowong" is a corruption of "[Tu-wong][tu-wong]", purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
 
 [Corroboree]: https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/ "From 'Aboriginal Campsites of Greater Brisbane' by Ray Kerkhove, 2015"
 
