@@ -126,7 +126,7 @@ He entered politics as an MLC and served as Attorney‑General in 1893 and MLA f
 
 ![Thomas Joseph Byrnes memorial](../assets/thomas-joseph_byrnes-memorial-2020.jpg){ width="40%" }  
 
-*<small>[Thomas Joseph Byrnes Memorial, Centenary Place, Brisbane, 2020](https://commons.wikimedia.org/wiki/File:Thomas_Joseph_Byrnes_Memorial,_Centenary_Place,_Brisbane,_2020.jpg) — Kgbo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons.</small>*
+*<small>[Thomas Joseph Byrnes Memorial, Centenary Place, Brisbane, 2020](https://commons.wikimedia.org/wiki/File:Thomas_Joseph_Byrnes_Memorial,_Centenary_Place,_Brisbane,_2020.jpg) — Kgbo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.</small>*
 
 
 ??? directions "Directions" 
