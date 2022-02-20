@@ -113,7 +113,7 @@ Compiled and presented by Darcy and Lyn Maddock
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - UK, Royal Navy Registers of Seamen's Services, 1853-1928 
 - [HMS Ganges](https://www.bbc.co.uk/suffolk/content/articles/2009/08/17/hms_ganges_campaign_lw_feature.shtml) - BBC
-- [HMS Impregnable](http://www.battleships-cruisers.co.uk/hms_impregnable.htm) - Battleships-Cruisers.co.uk
+- [HMS Impregnable](https://www.battleships-cruisers.co.uk/hms_impregnable.htm) - Battleships-Cruisers.co.uk
 - [de Vis, Charles Walter (1829–1915)](https://adb.anu.edu.au/biography/de-vis-charles-walter-3406) - Australian Dictionary of Biography
 - [www.actonhistory.co.uk](http://www.actonhistory.co.uk) 
 - [Index of /pdf/](https://www.railwayfirstaidvolunteers.org.au/pdf) - Railway First Aid Volunteers 

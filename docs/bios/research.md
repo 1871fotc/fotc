@@ -33,11 +33,11 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 
 Search [Trove](https://trove.nla.gov.au) to read obituaries of people interred in Toowong Cemetery. Obituaries have been extracted from the newspaper holdings of the National Library of Australia. Each list item will give you a direct link to the newspaper article as well as the grave number.
 
-- [Obituaries A - E](http://trove.nla.gov.au/list?id=4457)
-- [Obituaries F - J](http://trove.nla.gov.au/list?id=4461)
-- [Obituaries K - N](http://trove.nla.gov.au/list?id=4454)
-- [Obituaries O - R](http://trove.nla.gov.au/list?id=4453)
-- [Obituaries S - Z](http://trove.nla.gov.au/list?id=4430)
+- [Obituaries A - E](https://trove.nla.gov.au/list?id=4457)
+- [Obituaries F - J](https://trove.nla.gov.au/list?id=4461)
+- [Obituaries K - N](https://trove.nla.gov.au/list?id=4454)
+- [Obituaries O - R](https://trove.nla.gov.au/list?id=4453)
+- [Obituaries S - Z](https://trove.nla.gov.au/list?id=4430)
 
 ## Australian Dictionary of Biography
 

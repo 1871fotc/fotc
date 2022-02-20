@@ -174,7 +174,7 @@ Compiled and presented by Lyn Maddock
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [Brisbane City Council Grave Location Search](https://graves.brisbane.qld.gov.au)
-- [One Search](http://https://www.slq.qld.gov.au/search), The State of Queensland (State Library of Queensland) 2016 
+- [One Search](https://www.slq.qld.gov.au/search), The State of Queensland (State Library of Queensland) 2016 
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 
 <div class="noprint" markdown="1">

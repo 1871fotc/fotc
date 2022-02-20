@@ -71,9 +71,9 @@ Two sailors from the Netherlands Merchant Navy are also buried at Toowong Cemete
 ## Further Reading
 
 - Nunan, P. *[Tragedy in Moreton Bay, Wartime: Official Magazine of the Australian War Memorial](https://www.awm.gov.au/wartime).* [Issue 34](https://www.awm.gov.au/shop/item/1328272734), 2006. p.55-57
-- [Commonwealth War Graves Commission](http://www.cwgc.org/) http://www.cwgc.org/
-- [Netherlands War Graves Foundation](https://oorlogsgravenstichting.nl) https://oorlogsgravenstichting.nl/
-- The Australian Merchant Navy http://www.merchant-navy-ships.com/allied-fleets/dutch-fleets/ *(broken)*
+- [Commonwealth War Graves Commission](https://www.cwgc.org/) 
+- [Netherlands War Graves Foundation](https://oorlogsgravenstichting.nl) 
+- The Australian Merchant Navy, http://www.merchant-navy-ships.com/allied-fleets/dutch-fleets/ *(broken)*
 
 ## Acknowledgements 
 
