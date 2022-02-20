@@ -241,7 +241,7 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment
 
 [re-enactment]: ../about/140-commemoration.md "Read about our awarding winning event."
 
-![Re-enactment of the funeral of Governor Blackall, 2011](../assets/140-commemoration-sml.png){ width="96%" }  
+![Re-enactment of the funeral of Governor Blackall, 2011](../assets/140-commemoration.png){ width="96%" }  
 
 ## Today
 
