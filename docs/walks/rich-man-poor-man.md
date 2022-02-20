@@ -36,7 +36,7 @@ Suffering from what was then termed 'shell shock', he was denied assistance in r
 
 Irish-born, Dr Griffin was the son of John Griffin, a leading Dublin broker, and Florence (née McCooke). After qualifying in multiple fields of medicine in Brussels, London and Ireland, he arrived in Brisbane ca1889 and soon became well known for his professional skill and his general popularity. 
 
-Soon after his arrival, he joined the Brisbane Hunt Club which had been started in 1888 by Adolph Feez. On 1 July 1893 he was killed during a hunt when his horse struck the top rail of a fence, throwing the 30-year-old doctor over the fence and landing heavily on his head. Death was instantaneous.
+Soon after his arrival, he joined the [Brisbane Hunt Club](https://www.slq.qld.gov.au/blog/brisbane-hunt-club) which had been started in 1888 by Adolph Feez. On 1 July 1893 he was killed during a hunt when his horse struck the top rail of a fence, throwing the 30-year-old doctor over the fence and landing heavily on his head. Death was instantaneous.
 
 ## Molyneux Henry Dickinson Nepean <small>(1‑158‑5)</small>
 
@@ -93,22 +93,23 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- 'BDM Queensland Index Search', The State of Queensland (Department of Justice and Attorney-General), 1995-2013
-- Trove, Digitised Newspapers and More (2016) ancestry.com.au
-- 'Green Mountains' Bernard O'Reilly 
-- www.loganvillagemuseum.org.au/anzacs/item/22-burgess
-- https://gmmd.com.au/tag/scenic-rim/ 
-- www.brisbanehuntclub.com 
+- [Family history research service](https://www.familyhistory.bdm.qld.gov.au), The State of Queensland 
+- [Trove](https://trove.nla.gov.au), Digitised Newspapers and More 
+- [Ancestry](https://www.ancestry.com.au)
+- *Green Mountains* Bernard O'Reilly 
+- [Burgess, Charles Chesworth](https://www.loganvillagemuseum.org.au/anzacs/item/22-burgess), Logan Village Museum
+- https://gmmd.com.au/tag/scenic-rim/  *(broken)*
+- www.brisbanehuntclub.com *(broken)*
 - UK, Regimental Registers of Service, 1756-1900
 - New South Wales, Australia, Public Service Lists, 1858-1960
-- THE LONDON GAZETTE, April 18, 1865
-- THE LONDON GAZETTE, May 28, 1869
-- www.childrenshomes.org.uk/ChristsHospital 
-- adb.anu.edu.au > biography > roe-reginald-heber-8253 
-- www.awm.gov.au > collection 
-- indicatorloops.com >inskip
-- http://guides.naa.gov.au/records-about-northern-territory/index.aspx
-- https://adb.anu.edu.au/biography/smith-miles-staniforth-cater-8480
+- The London Gazette, April 18, 1865
+- The London Gazette, May 28, 1869
+- [Christ's Hospital, London](http://www.childrenshomes.org.uk/ChristsHospital/) 
+- [Roe, Reginald Heber (1850–1926)](https://adb.anu.edu.au/biography/roe-reginald-heber-8253), Australian Dictionary of Biography 
+- [The Australian War Memorial Collection](https://www.awm.gov.au/advanced-search)
+- [Inskip Point Light and Signal Station](http://indicatorloops.com/inskip.htm) 
+- [Commonwealth Government records about the Northern Territory](https://www.naa.gov.au/help-your-research/research-guides/commonwealth-government-records-about-northern-territory), National Archives of Australia
+- [Smith, Miles Staniforth Cater (1869–1934)](https://adb.anu.edu.au/biography/smith-miles-staniforth-cater-8480), Australian Dictionary of Biography
 
 
 <div class="noprint" markdown="1">
