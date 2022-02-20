@@ -13,5 +13,5 @@ search:
 --8<-- "snippets/leontine-cooper.md"
 
 <!--
-![](../assets/leontine-cooper.jpg){ width="32%" }
+![Leontine Mary Jane Cooper](../assets/leontine-cooper.jpg){ width="32%" }
 -->

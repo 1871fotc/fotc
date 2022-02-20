@@ -19,7 +19,7 @@ hide:
 --8<-- "snippets/edward-mcgregor.md"
 
 
-![](../assets/brisbane-municipal-band.jpg){ width="70%" }  
+![Brisbane Municipal Concert Band marching in Brisbane, Queensland, 1909](../assets/brisbane-municipal-band.jpg){ width="70%" }  
 
 *<small>[Brisbane Municipal Concert Band marching in Brisbane, Queensland, 1909](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220219350002061) - State Library of Queensland </small>* 
 
@@ -48,7 +48,7 @@ hide:
 --8<-- "snippets/samuel-keenan.md"
 
 
-![](../assets/original-georgia-minstrels.jpg){ width="40%" }  
+!["Original Georgia Minstrels" composite image with founder Charles Hicks at center](../assets/original-georgia-minstrels.jpg){ width="40%" }  
 
 *<small>["Original Georgia Minstrels" composite image with founder Charles Hicks at center](https://en.wikipedia.org/wiki/Brooker_and_Clayton%27s_Georgia_Minstrels) - State Library of Queensland </small>* 
 
@@ -65,7 +65,7 @@ hide:
 --8<-- "snippets/henry-william-mobsby.md"
 
 
-![](../assets/henry-william-mobsby.jpg){ width="40%" }  
+![Photographer Henry William Mobsby, Barcaldine, ca. 1905](../assets/henry-william-mobsby.jpg){ width="40%" }  
 
 *<small>[Photographer Henry William Mobsby, Barcaldine, ca. 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21250438610002061) - State Library of Queensland </small>* 
 

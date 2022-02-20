@@ -23,7 +23,7 @@ Administrator:
 O’Connell was born on 13 January 1812 in Sydney, son of Maurice Charles Philip O'Connell and his wife Mary, daughter of Governor William Bligh. He left for Ceylon with his parents in 1814 and in 1819 was sent to Europe for schooling. In 1828 he joined the 73^rd^ Regiment at Gibraltar but in 1835 raised and led a regiment of Irish volunteers in the Spanish Carlist wars, rising to general of brigade in the British Auxiliary Legion. Before embarking for Spain he married Eliza Emily le Geyt on Jersey. On disbandment, O'Connell returned to England and in June 1838 purchased a captaincy in the 28th Regiment. That year his father was appointed to command the troops in New South Wales. After the regiment sailed to India in 1842 he stayed in New South Wales and sold his commission in 1844. He represented Port Phillip from August 1845 to June 1848 and then became Commissioner of Crown Lands for the Burnett District. Early in 1854 O'Connell became government Resident at the new Port Curtis settlement where he acquired several squatting properties. In 1859 O'Connell was given command of the volunteers. He was also nominated to the Legislative Council and acted as Minister without portfolio in the first Herbert ministry. When Sir Charles Nicholson resigned in August 1860 O'Connell became President of the Council. He held the post until 1879 and acted ex officio as deputy to the governor four times. O'Connell was knighted in 1868. He died of cancer at Parliament House on 23 March 1879.
 
 
-![](../assets/maurice-charles-oconnell.jpg){ width="40%" }
+![Sir Maurice Charles O'Connell](../assets/maurice-charles-oconnell.jpg){ width="40%" }
 
 *<small>[Sir Maurice Charles O'Connell](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21251755050002061) - State Library of Queensland </small>*
 
@@ -40,7 +40,7 @@ In 1859 was invited to stand for West Moreton. On 19 February 1861 at Ipswich he
 In 1868 he was returned for Northern Downs and held the seat until he was appointed President of the Legislative Council in 1879. From 19 March to 20 December 1880 he acted as Administrator of the colony when Governor Sir Arthur Kennedy was on leave. On 20 December 1881, while returning from a business appointment in a cab, he died unexpectedly.
 
 
-![](../assets/joshua-peter-bell.jpg){ width="40%" }
+![Sir Joshua Peter Bell](../assets/joshua-peter-bell.jpg){ width="40%" }
 
 *<small>[Sir Joshua Peter Bell](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219246370002061) - State Library of Queensland </small>*
 
@@ -53,7 +53,7 @@ Musgrave was born on 17 November 1828 at Antigua, West Indies, son of Dr Anthony
 
 On 6 March 1873 Musgrave became Governor of South Australia suffering a personal tragedy when his young daughter died of burns shortly afterwards. In 1877 he was appointed Governor of Jamaica. After six years, he became governor of Queensland on 21 July 1883. He visited England in 1886 and planned to retire but in June 1888 Sir Thomas McIlwraith, whom he detested, became premier. The two soon clashed over the governor's right to exercise of the prerogative of mercy. Musgrave appealed to the Colonial Office, McIlwraith defied him. A few weeks later Musgrave died on 9 October 1888.
 
-![](../assets/anthony-musgrave-funeral-1888.jpg){ width="70%" }
+![Funeral of Sir Anthony Musgrave, Brisbane, 1888](../assets/anthony-musgrave-funeral-1888.jpg){ width="70%" }
 
 *<small>[Funeral of Sir Anthony Musgrave, Brisbane, 1888](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218493890002061) - State Library of Queensland </small>*
 
@@ -77,7 +77,7 @@ In January 1879 Palmer was appointed Colonial Secretary and president of the Exe
 In 1885 his wife had died, leaving three sons and two of their four daughters. Palmer died on 20 March 1898 at his home at Toowong.
 
 
-![](../assets/arthur-hunter-palmer.jpg){ width="40%" }
+![Sir Arthur Hunter Palmer as the Colonial Secretary](../assets/arthur-hunter-palmer.jpg){ width="40%" }
 
 *<small>[Sir Arthur Hunter Palmer as the Colonial Secretary](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218625050002061) - State Library of Queensland </small>*
 
@@ -94,7 +94,7 @@ Griffith served as Queensland's chief justice from 13 March 1893 to 6 October 19
 On 16 March 1917 Griffith suffered a stroke while on the bench and was temporarily retired. His mortgage forced him, aged 72, to return to work. He eventually retired to Brisbane where he died at Merthyr on 9 August 1920.
 
 
-![](../assets/samuel-walker-griffith-and-family.jpg){ width="70%" }
+![Sir Samuel Walker Griffith and family](../assets/samuel-walker-griffith-and-family.jpg){ width="70%" }
 
 *<small>[Sir Samuel Walker Griffith and family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218185350002061) - State Library of Queensland </small>*
 
@@ -114,7 +114,7 @@ Morgan entered local politics in 1885 when elected to the Warwick Municipal Coun
 In 1907 the Governor Lord Chelmsford reluctantly appointed Morgan lieutenant‑governor, by‑passing Sir Pope Cooper. Morgan deputised in 1907 and 1908 during Chelmsford's absences and, in 1909 and 1914, was Lieutenant‑governor on the retirement of Governors Chelmsford and Sir William MacGregor. He was still President of the Legislative Council when he died on 20 December 1916 after a long illness. He was buried here after a state funeral at St John's Cathedral.
 
 
-![](../assets/sir-arthur-and-lady-morgan.jpg){ width="70%" }
+![Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](../assets/sir-arthur-and-lady-morgan.jpg){ width="70%" }
 
 *<small>[Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256749450002061) - State Library of Queensland </small>*
 
@@ -130,7 +130,7 @@ When Griffith became Chief Justice of the High Court of Australia, the Morgan mi
 In November 1919, the Theodore ministry decided to appoint William Lennon as Lieutenant‑governor to which Cooper objected bitterly. Early in January he appealed for support from the governor‑general, and refused to admit the validity of a commission for Lennon drafted locally on telegraphic instructions from London; he deputised himself from 27 January to 3 February 1920 until Lennon's commission as Lieutenant‑governor arrived. That year while Lennon was on diplomatic sick leave in New South Wales, Cooper again became Lieutenant‑governor under his dormant commission. When asked, he refused to sign the executive council minute appointing Lennon president of the Legislative Council; he argued that the council was already over strength. On his return, Lennon was forced to appoint himself to the Council and to its presidency. Cooper died at his Chelmer home on 30 August 1923.
 
 
-![](../assets/pope-alexander-cooper.jpg){ width="40%" }
+![Hon. Sir Pope Alexander Cooper, Chief Justice of Queensland, 1880](../assets/pope-alexander-cooper.jpg){ width="40%" }
 
 *<small>[Hon. Sir Pope Alexander Cooper, Chief Justice of Queensland, 1880](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218934570002061) - State Library of Queensland </small>*
 

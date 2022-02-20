@@ -80,12 +80,6 @@ On his return to Brisbane, he resumed his previous occupation of house painter. 
 
 'Bob' Toupein was born in 1886 in Gunnedah NSW where his father, Jean Toupein and later Bob himself were railway fettlers. He moved to Darwin in 1913 and opened a barber shop/billiards saloon. This was during a period of industrial and political unrest in the NT. One of the issues was lack of political representation in Federal Parliament for its residents. In 1917 Bob was elected to the Darwin Town Council and became Mayor of Darwin in 1919 but resigned in 1921. He was elected secretary of the North Australian Industrial Union and held that position until 1937 when he married and settled at Woody Point in Queensland. He died on 12 July 1949 at the age of 62, five years after suffering serious injuries in a workplace accident.
 
-<!--
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
-
-*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
-
--->
 
 ## Acknowledgements
 

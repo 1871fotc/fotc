@@ -16,13 +16,13 @@ hide:
 The Cross of Sacrifice and Stone of Remembrance were unveiled on Anzac Day, 1924, by the Governor‑General, Lord Forster. The Stone of Remembrance is a solid block of Helidon sandstone weighing ten tons. The unveiling ceremony was attended by several thousand people, including relatives of soldiers killed overseas and many dignitaries. 
 
 
-![](../assets/unveiling-cross-of-sacrifice.jpg){ width="70%" }  
+![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](../assets/unveiling-cross-of-sacrifice.jpg){ width="70%" }  
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
 The Citizens’ Band provided music as the public laid wreaths at the Stone. So many floral tributes were deposited, that the stone was completely covered. One was even dropped from a plane circling above. The inscription THEIR NAME LIVETH EVERMORE was chosen by Rudyard Kipling and is found on the Stone of Remembrance in every Commonwealth War Cemetery.
 
-![](../assets/stone-of-remembrance-with-children-1924.jpg){ width="70%" }  
+![Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](../assets/stone-of-remembrance-with-children-1924.jpg){ width="70%" }  
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
@@ -34,7 +34,7 @@ Prior to Federation each of the Australian colonies maintained its own defence f
 
 Unveiled in May 1902, this is the first known [monument](https://placesofpride.awm.gov.au/memorials/118226) to the South African War to be erected in Queensland. Lieutenant John Caskey of the Fifth Queensland Imperial Bushmen was killed in action on 27 September 1901 at the Mokari Drift on the Caledon River. The obelisk, made of white Helidon sandstone and draped by a shroud, features emblems of Caskey’s teaching career at Leichhardt Street School, Brisbane and Spring Creek and his sporting interests. A rare memorial to the Anglo‑Boer conflict, this monument is a significant reminder of emerging nationalism and contemporary attitudes to war. Other monuments to him can be found at Clifton RSL and the [Allora State School](https://placesofpride.awm.gov.au/memorials/116791).
 
-![](../assets/lachlan-caskey.jpg){ width="40%" }  
+![Lieutenant Lachlan J. Caskey of the 5th Queensland Contingent](../assets/lachlan-caskey.jpg){ width="40%" }  
 
 *<small>[Lieutenant Lachlan J. Caskey of the 5^th^ Queensland Contingent](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool105672) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 

@@ -2,7 +2,7 @@
 
 The *Daily Standard* reported a *["Seaman's fatal immersion"](https://trove.nla.gov.au/newspaper/article/179405429?searchTerm=%22Robert%20Simpson%22)* on Wednesday 29 May 1918. 
 
-![](../assets/robert-james-simpson-headstone.jpg){ width="30%" }  
+![Robert James Simpson's headstone](../assets/robert-james-simpson-headstone.jpg){ width="30%" }  
 
 >
 In Fond and Loving Memory 

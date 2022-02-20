@@ -12,9 +12,9 @@ description: She has gone to her grave when our hopes were the Strongest
 
 --8<-- "snippets/ann-hill.md"
 
-![](../assets/ann-hill-headstone.jpg){ width="32%" } ![](../assets/ann-hill-inscription-2.jpg){ width="32%" } 
+![Ann Hill's headstone](../assets/ann-hill-headstone.jpg){ width="32%" } ![Ann Hill's headstone inscription](../assets/ann-hill-inscription-2.jpg){ width="32%" } 
 
-![](../assets/ann-hill-inscription-1.jpg){ width="64.4%" } 
+![Ann Hill's headstone inscription](../assets/ann-hill-inscription-1.jpg){ width="64.4%" } 
 
 >
 Forget her not <br>

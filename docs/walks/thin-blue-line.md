@@ -56,7 +56,7 @@ Hanly was a member of the Royal Irish Constabulary for five years before joining
 
 Ahern was born at Donickmore, County Cork, Ireland in 1840. He was a farmer prior to joining the Queensland Police Force in September 1864. Ahern was sent to Springsure in October and promoted to Senior Constable/Acting Sergeant in July 1868. He became Inspector of Slaughterhouses in the Mitchell district in February 1870 and received the substantial reward of £15 in September 1872 for *‘energetic perseverance in suppressing cattle‑stealers in the Barcoo and Walgett districts’*. Ahern was promoted to Senior Sergeant in January 1874 and Sub‑Inspector 2^nd^ class in 1877. He served at Blackall in 1880 where he became Sub‑Inspector 1^st^ class. By 1890, he had been promoted to Inspector 1^st^ class in charge of all brands throughout the colony. Ahern was a most respected and energetic policeman. John Ahern died in 1893.^7^
 
-![](../assets/john-ahern-headstone.jpg){ width="32%" }
+![John Ahern's headstone](../assets/john-ahern-headstone.jpg){ width="32%" }
 
 ## William Harold Ryan <small>(7A‑116‑44)</small>  
 

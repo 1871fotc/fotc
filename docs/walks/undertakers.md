@@ -6,7 +6,7 @@ hide:
 
 # Undertakers  
 
-![](../assets/John-Hislop-Undertakers-Brisbane-ca1902.jpg)
+![John Hislop Undertakers, Brisbane, ca. 1902](../assets/John-Hislop-Undertakers-Brisbane-ca1902.jpg)
 
 *<small>[John Hislop Undertakers, Brisbane, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220144750002061), held by John Oxley Library, State Library of Queensland</small>*
 
@@ -16,7 +16,7 @@ hide:
 
 --8<-- "snippets/john-hislop.md"
 
-![](../assets/john-hislop-hearse-cemetery-road.jpg)
+![John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892](../assets/john-hislop-hearse-cemetery-road.jpg)
 
 *<small>[John Hislop Undertakers in a funeral procession in Brisbane, ca. 1892](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116790002061), held by John Oxley Library, State Library of Queensland. It is believed the procession is in Sylvan Road (previously Cemetery Road) on corner of Kate Street.</small>*
 
@@ -33,11 +33,11 @@ hide:
 
     Walking directions to headstone... is the grave of...
     
-    ![](../assets/alfred-cannon.jpg){ width="15%" }  
+    ![Alfred Cannon's headstone](../assets/alfred-cannon.jpg){ width="15%" }  
     
     Walking directions to headstone... is the grave of...
 
-    ![](../assets/joseph-cripps.jpg){ width="15%" }  
+    ![Joseph Cripps' headstone](../assets/joseph-cripps.jpg){ width="15%" }  
 -->
 
 --8<-- "snippets/alfred-cannon.md"

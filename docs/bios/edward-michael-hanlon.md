@@ -11,4 +11,4 @@ hide:
 
 --8<-- "snippets/edward-michael-hanlon.md"
 
-![](../assets/edward-michael-hanlon.jpg){ width="32%" }
+![Edward Michael Hanlon](../assets/edward-michael-hanlon.jpg){ width="32%" }

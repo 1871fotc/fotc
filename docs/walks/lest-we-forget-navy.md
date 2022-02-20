@@ -20,7 +20,7 @@ Welshman, William John Harrhy, a sailor on *HMS Dauntless*, in Brisbane for a Go
 
 Harrhy, aged 36, had been in the navy for over fifteen years and had a splendid war records. The funeral left the ship for the cemetery and many wreaths were laid including one shaped like an anchor and another, a model of the ship. The officers and crew arranged a dance in aid of Harrhy’s family aboard the *Dauntless*.
 
-![](../assets/docked-naval-ships-1924.jpg)
+![Royal Navy ships HMS Danae, HMS Dauntless, HMS Dragon and HMS Delhi docked at South Brisbane wharves, 1924](../assets/docked-naval-ships-1924.jpg)
 
 *<small>[Royal Navy ships HMS Danae, HMS Dauntless, HMS Dragon and HMS Delhi docked at South Brisbane wharves, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220252580002061) - State Library of Queensland </small>*
 

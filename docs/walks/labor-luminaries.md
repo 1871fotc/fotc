@@ -14,12 +14,12 @@ hide:
     - Walk North towards William Brown Avenue (previously 14th Avenue).
     - At the end of the second row back from Emma Miller Avenue, you'll find Emma Miller's memorial stone.  
     
-     ![](../assets/emma-miller-headstone.jpg){ width="15%" }
+     ![Emma Miller's headstone](../assets/emma-miller-headstone.jpg){ width="15%" }
 
 --8<-- "snippets/emma-miller.md"
 
 
-![](../assets/emma-miller.jpg){ width="40%" }  ![](../assets/emma-miller-marble-bust.jpg){ width="35.75%" }
+![Portrait of Mrs. Emma Miller](../assets/emma-miller.jpg){ width="40%" }  ![Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](../assets/emma-miller-marble-bust.jpg){ width="35.75%" }
 
 *<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland. </small>* <br>
 *<small>[Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](https://en.wikipedia.org/wiki/File:Marble_Bust_of_Emma_Miller_held_at_Queensland_Council_of_Unions.jpg) by Alphi123, used under [CC BY-SA 4.0][cc-by-sa].  </small>*
@@ -31,11 +31,11 @@ hide:
     - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk, drive or walk up Walter Hill Drive. When you come to the Shelter Shed at the top of the hill, take a sharp right turn into Federation Avenue and park on the edge of the road at the turning circle at the end.
     - Walk back down Federation Avenue (previously 15th Avenue), on your immediately on your left about 4 rows after the end of the turning circle, you'll find Thomas Glassey and his wife Margaret. 
 
-    ![](../assets/thomas-glassey-headstone.jpg){ width="15%" }
+    ![Thomas Glassey's headstone](../assets/thomas-glassey-headstone.jpg){ width="15%" }
     
 --8<-- "snippets/thomas-glassey.md"
 
-![](../assets/thomas-glassey.jpg){ width="26.72%" }  ![](../assets/thomas-glassey-birthday.jpg){ width="55%" }
+![Senator Thomas Glassey delivering a speech to the women electors of Queensland](../assets/thomas-glassey.jpg){ width="26.72%" }  ![Glassey family, ca. 1926](../assets/thomas-glassey-birthday.jpg){ width="55%" }
 
 *<small>[Senator Thomas Glassey delivering a speech to the women electors of Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218794910002061) - State Library of Queensland.  </small>* <br> 
 *<small>[Glassey family, ca. 1926](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218562540002061) - State Library of Queensland. </small>*
@@ -48,7 +48,7 @@ hide:
 
 --8<-- "snippets/william-henry-browne.md"
 
-![](../assets/william-henry-browne.jpg){ width="35%" }  
+![Honourable William Henry Browne](../assets/william-henry-browne.jpg){ width="35%" }  
 
 *<small>[Honourable William Henry Browne](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218188950002061) - State Library of Queensland </small>* 
 
@@ -56,7 +56,7 @@ hide:
 
 --8<-- "snippets/anderson-dawson.md"
 
-![Anderson Dawson](../assets/andersen-dawson.jpg){ width="30%" }  ![](../assets/dawson-ministry.jpg){ width="54.5%" }  
+![Anderson Dawson](../assets/andersen-dawson.jpg){ width="30%" }  ![After the swearing in of the Dawson ministry of the Labor Party Brisbane, Queensland](../assets/dawson-ministry.jpg){ width="54.5%" }  
 
 *<small>[Honourable Anderson (Andrew) Dawson](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218521750002061) 1899 - State Library of Queensland </small>* <br>
 *<small>[After the swearing in of the Dawson ministry of the Labor Party Brisbane, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool46636) - State Library of Queensland </small>* 
@@ -70,7 +70,7 @@ hide:
 
 --8<-- "snippets/david-bowman.md"
 
-![](../assets/david-bowman.jpg){ width="40%" }  
+![David Bowman](../assets/david-bowman.jpg){ width="40%" }  
 
 *<small>[David Bowman](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218753330002061) - State Library of Queensland </small>* 
 
@@ -83,16 +83,16 @@ hide:
 
 --8<-- "snippets/william-forgan-smith.md"
 
-![](../assets/forgan-smith-building.jpg){ width="59%" }  ![](../assets/william-forgan-smith.jpg){ width="30.2%" }
+![Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](../assets/forgan-smith-building.jpg){ width="59%" }  ![William Forgan Smith](../assets/william-forgan-smith.jpg){ width="30.2%" }
 
 *<small>[Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218117600002061) - State Library of Queensland </small>* <br>
 *<small>[William Forgan Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218884950002061) ca. 1935 - State Library of Queensland </small>*
 
 --8<-- "snippets/william-neal-gillies.md"
 
-![](../assets/william-neal-gillies.jpg){ width="40%" }  
+![William Gillies 1920](../assets/william-neal-gillies.jpg){ width="40%" }  
 
-*<small>[William Gillies 1920](https://commons.wikimedia.org/wiki/File:William_Gillies_1920.jpg) - Queensland State Archives </small>* 
+*<small>[William Gillies, 1920](https://commons.wikimedia.org/wiki/File:William_Gillies_1920.jpg) - Queensland State Archives </small>* 
 
 ??? directions "Directions" 
 
@@ -104,7 +104,7 @@ hide:
 
 --8<-- "snippets/edward-michael-hanlon.md"
 
-![](../assets/edward-michael-hanlon.jpg){ width="59%" }  
+![Edward Michael Hanlon, premier of Queensland, addressing the Legislative Assembly on the occasion of the Industrial Law Amendment Bill, 1948](../assets/edward-michael-hanlon.jpg){ width="59%" }  
 
 *<small>[Edward Michael Hanlon, premier of Queensland, addressing the Legislative Assembly on the occasion of the Industrial Law Amendment Bill, 1948](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21217956320002061) - State Library of Queensland </small>* 
 
@@ -116,7 +116,7 @@ hide:
 
 --8<-- "snippets/john-hoolan.md"
 
-![](../assets/john-hoolan.jpg){ width="70%" }  
+![John 'Plumper' Hoolan, ca. 1902](../assets/john-hoolan.jpg){ width="70%" }  
 
 *<small>[John 'Plumper' Hoolan, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218562430002061) - State Library of Queensland </small>* 
 
@@ -130,7 +130,7 @@ hide:
 
 --8<-- "snippets/albert-edward-victor-whitford.md"
 
-![](../assets/albert-whitford.jpg){ width="70%" }  
+![Delegates to the Queensland Police Union third annual conference. Albert Whitford is in the front row, second on the left](../assets/albert-whitford.jpg){ width="70%" }  
 
 *<small>[Delegates to the Queensland Police Union third annual conference. Whitford is in the front row, second on the left.](https://en.wikipedia.org/wiki/Albert_Whitford_(politician)#/media/File:Delegates_to_the_Queensland_Police_Union_Third_Annual_Conference.jpg) - Queensland Police Museum. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) </small>* 
 

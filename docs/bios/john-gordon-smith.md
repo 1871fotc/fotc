@@ -11,5 +11,5 @@ hide:
 --8<-- "snippets/john-gordon-smith.md"
 
 <!--
-![](../assets/john-gordon-smith.jpg)
+![John Gordon Smith](../assets/john-gordon-smith.jpg)
 -->

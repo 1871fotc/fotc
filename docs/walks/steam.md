@@ -38,7 +38,7 @@ George Hiron, the son of a baker, came to Australia in 1856 at the age of 16 fro
 
 Joseph, who established the shipbuilding firm J W Sutton & Co at Kangaroo Point , was recognised as one of the leading engineers of his day. Early vessels built by J W Sutton & Co include the iron steamer, *Lady Musgrave*, the iron paddle steamer, *Maid of Sker*, and the first ferry boat used on the Brisbane River, the *Transit*. The home of Joseph and his wife, Mary was one of the first private residences in Brisbane to be lit up by electricity. Joseph died on 21 February 1914. 
 
-![](../assets/maid-of-sker-ship.jpg){ width="70%" }  
+![Ship 'Maid of Sker' anchored in the Brisbane River outside of the Customs House, Queensland](../assets/maid-of-sker-ship.jpg){ width="70%" }  
 
 *<small>[Ship 'Maid of Sker' anchored in the Brisbane River outside of the Customs House, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256762780002061). Cropped. — State Library of Queensland.</small>*
 
@@ -46,7 +46,7 @@ Joseph, who established the shipbuilding firm J W Sutton & Co at Kangaroo Point 
 
 George was, for many years, superintendent engineer of the Australasian Steam Navigation Company at Pyrmont in Sydney. In 1886 he moved to Brisbane to join the firm of J W Sutton & Co as manager. George was born in Glasgow on 13 April 1841 to Archibald Davidson, an engine fitter, and Janet (née Fyfe). He died on 29 February 1888 after suffering an apoplectic fit.
 
-![](../assets/sutton-and-co.jpg){ width="70%" }  
+![Sutton and Co. Foundry on Main Street, Kangaroo Point, Brisbane, ca.1890](../assets/sutton-and-co.jpg){ width="70%" }  
 
 *<small>[Sutton and Co. Foundry on Main Street, Kangaroo Point, Brisbane, ca.1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220296230002061) — State Library of Queensland.</small>*
 
@@ -54,7 +54,7 @@ George was, for many years, superintendent engineer of the Australasian Steam Na
 
 The Brisbane Steam Laundry at South Brisbane first opened in January 1881 but was taken over by George Fish two years later. The laundry was situated in an alley extending from Stanley to Grey Street. The alley became known as Soda Water Lane. Despite hardships, the business expanded under his ownership. After repairs from damage during the 1893 floods, the laundry reopened with a new name, Fish Stream Laundry. George entered local government politics in 1894. Fish Stream Laundry moved to Ann Street, Fortitude Valley in 1902. Soda Water Lane was renamed [Fish Lane](https://explorefishlane.com.au) in 1904. George died on 23 September 1925, aged 74. 
 
-![](../assets/ironing-department-fish-steam-laundry.jpg){ width="70%" }  
+![Ironing department of the Fish Steam Laundry, Brisbane, 1902](../assets/ironing-department-fish-steam-laundry.jpg){ width="70%" }  
 
 *<small>[Ironing department of the Fish Steam Laundry, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220102730002061). Female employees working with large rollers in the ironing department of the Fish Steam Laundry — State Library of Queensland.</small>*
 
@@ -62,7 +62,7 @@ The Brisbane Steam Laundry at South Brisbane first opened in January 1881 but wa
 
 The steamship *Gothenberg* contracted for the Adelaide to Port Darwin run in 1874, was regarded as fast and dependable. On 17 February 1875 the ship left Port Darwin carrying approximately 100 passengers and 34 crew. As the ship sailed down the North Queensland coast, cyclonic weather conditions were encountered. During the evening of 24 February, the *Gothenberg*  struck the southern edge of Detached Reef approximately 131km south of Townsville at low tide and sank in the early hours of the next morning. [There were few survivors](https://trove.nla.gov.au/newspaper/article/1395449?searchTerm=GOTHENBERG).
 
-![](../assets/ss-gothenburg.jpg){ width="70%" }  
+![Early photo of SS Gothenburg](../assets/ss-gothenburg.jpg){ width="70%" }  
 
 *<small>[Early photo of SS Gothenburg](https://en.wikipedia.org/wiki/File:SS_Gothenburg.jpg) — Queensland State Government - Public Domain</small>*
 
@@ -75,12 +75,12 @@ The steamship *Gothenberg* contracted for the Adelaide to Port Darwin run in 187
 
 Henry was a native of Bethnal Green in London's East End, the son of a silk weaver. His family arrived in Brisbane on the *Whirlwind* in September 1862 when Henry was aged five. After finishing school, Henry entered the boot trade as a 'clicker' cutting the leather uppers and later became foreman at his brother's boot factory in Fortitude Valley. After the business closed, he joined the firm of Davey Halliday Company Ltd. boot manufacturers in Ann Street near the corner with Albert Street. Davey Halliday installed the most modern equipment, driven by a steam engine in their basement, and manufactured all classes of men's, women's children's and infant's footwear. Henry died on 4 August 1942. 
 
-![](../assets/clickers-davey-halliday.jpg){ width="70%" }  
+![Clicker's department at Davey Halliday & Co, 1904](../assets/clickers-davey-halliday.jpg){ width="70%" }  
 
 *<small>[Clicker's department at Davey Halliday & Co, 1904](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool430702) — State Library of Queensland.</small>*
 
 
-![](../assets/davey-halliday-building.jpg){ width="70%" }  
+![Davey Halliday Company Ltd. on Ann Street](../assets/davey-halliday-building.jpg){ width="70%" }  
 
 *<small>[Davey Halliday Company Ltd. on Ann Street](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220086350002061). Carriages outside the Davey Halliday Boot Co. The building was near the corner of Albert Street and Ann Street. This is presently the site of King George Square. Erected 1904 and later part of Albert House. (Information taken from The Queenslander, 14 May 1904) — State Library of Queensland.</small>*
 
@@ -91,7 +91,7 @@ After free settlement began in 1842, Ipswich developed as an important regional 
 
 Irish-born 'Andy' Fullerton was appointed 'wharfinger' or wharf manager for the Australasian Navigation Company at Ipswich when the river steamers including *Brisbane*, *Ipswich* and *Emu* played a vital role in the river trade between Brisbane and Ipswich in 1875. Andrew became a driver of steam trains. He died on 10 April 1899 aged 68 years. 
 
-![](../assets/emu-ship.jpg){ width="70%" }  
+![Emu (ship)](../assets/emu-ship.jpg){ width="70%" }  
 
 *<small>[Emu (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220199170002061) — State Library of Queensland.</small>*
 

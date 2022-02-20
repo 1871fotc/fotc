@@ -10,13 +10,13 @@ hide:
 
 --8<-- "snippets/walter-hill.md"
 
-![](../assets/walter-hill.jpg){ width="32%" }
+![Walter Hill](../assets/walter-hill.jpg){ width="32%" }
 
 <small>Unknown author - State Library of Queensland and John Oxley Library, [Public Domain](https://commons.wikimedia.org/w/index.php?curid=22616572)</small>
 
-![](../assets/ann-hill-headstone.jpg){ width="32%" }
+![Ann Hill's headstone](../assets/ann-hill-headstone.jpg){ width="32%" }
 
-![](../assets/walter-hill-plaque.jpg){ width="32%" }  
+![Lord Mayor Clem Jones Unveiling the Walter Hill Plaque](../assets/walter-hill-plaque.jpg){ width="32%" }  
 
 *<small>[Lord Mayor Clem Jones Unveiling the Walter Hill Plaque - Toowong Cemetery.](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:24873/one?qu=Lord+Mayor+Clem+Jones+Unveiling+the+Walter+Hill+Plaque+-+Toowong+Cemetery.&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) - [Brisbane City Council](https://www.brisbane.qld.gov.au)</small>*
 

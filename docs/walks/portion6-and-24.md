@@ -21,7 +21,7 @@ Introduction
 
 George Simpson was born in the district of Eassie and Nevay in Forfarshire, Scotland on 15 December 1858 to parents George Simpson and Agnes Young. He came to Queensland as a young man and, on 22 February 1888 he married Jane Brady, daughter of David Brady and Mary Ann McMullen. Jane had arrived here with her family on the *Indus* in 1870 when she was 16. George was appointed to the Queensland Defence Department prior to Federation, served in the Boer War with the Light Horse and commanded the training camp at the Brisbane Exhibition Ground during WW1. George died on 22 January 1938 and Jane on 19 May 1945.
 
-![](../assets/reviewing-the-troops.jpg){ width="70%" }  
+![Reviewing the troops in Brisbane during World War I](../assets/reviewing-the-troops.jpg){ width="70%" }  
 
 *<small>[Reviewing the troops in Brisbane during World War I](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220035150002061) 1914 to 1918. The review of the armed forces probably took place in the Parade ring at the Exhibition Grounds, Brisbane. Dignitaries are stood on the reviewing stand facing the assembled members of the forces. — State Library of Queensland.</small>*
 
@@ -41,7 +41,7 @@ John Robert Wilkinson was the third son of Robert Wilkinson and Mary (née Farre
 
 James Edward Halliday was born in Glasgow Scotland in 1852 to parents James Crow Halliday and Alice Olker. A seaman in the Royal Navy, he married Emily Jane Leatherbarrow on 8 July 1874 in Salford, Manchester, England. Emily, born in 1852, was the daughter of Joseph and Mary Ann Leatherbarrow. James and Emily and their two children left Plymouth for Brisbane in 1880. Sadly one child died before reaching their destination. In 1899 James was appointed Superintendent of the Moreton Bay Pile Light and held that position until at least 1917. James died at his home named Mascot in South Pine Road Enoggera on 23 April 1930. Emily died on 26 March 1933.
 
-![](../assets/moreton-bay-pile-lights.jpg){ width="70%" }  
+![Early view of the Pile Lights in Moreton Bay, ca. 1895](../assets/moreton-bay-pile-lights.jpg){ width="70%" }  
 
 *<small>[Early view of the Pile Lights in Moreton Bay, ca. 1895](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220381070002061). Operational from 1882 and destroyed after collision with 'Wave Protector' in October 1949. — State Library of Queensland.</small>*
 
@@ -53,17 +53,15 @@ In 1861 he was the first Anglican priest ordained in Brisbane. He served in Rock
 
 In 1881 he became Rector of Toowoomba and later Archdeacon of the Downs and Western District. In 1890, Bishop Webber recognised his long and devoted service to the Diocese by appointing him a Canon of St John's. He was connected with the Anglican Church Grammar School from its beginnings in 1912. Canon Thomas Jones died on 14 August 1918 two weeks after his retirement.
 
-![](../assets/canon-thomas-jones.jpg){ width="30%" }  
+![Reverend Cannon Thomas Jones, All Saints Church](../assets/canon-thomas-jones.jpg){ width="30%" }  
 
 *<small>[Reverend Cannon Thomas Jones, All Saints Church](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220132750002061) 1865 — State Library of Queensland.</small>*
 
 
-![](../assets/original-all-saints-church.jpg){ width="49.5%" } ![](../assets/all-saints-church.jpg){ width="48%" }  
+![Original All Saints Church, Brisbane, ca. 1868](../assets/original-all-saints-church.jpg){ width="49.5%" } ![Some children in front of All Saint's Church in Wickham Terrace, Brisbane, ca. 1885](../assets/all-saints-church.jpg){ width="48%" }  
 
 *<small>[Original All Saints Church, Brisbane, ca. 1868](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220196940002061) This image is taken from an engraving of W. Buxton. It depicts the original All Saints Church, designed by Benjamin Backhouse and constructed on Wickham Terrace in 1861-1862, opening on 23 February, 1862. It was replaced by a new church in 1869 — State Library of Queensland.</small>* <br>
 *<small>[Some children in front of All Saint's Church in Wickham Terrace, Brisbane, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219373780002061) Photograph taken at the corner of Wharf Street and Wickham Terrace, Brisbane, looking along the latter street towards the Observatory. All Saint's Church (1869) is at left, whilst the original St Andrew's Presbyterian Church (1864) is in the middle distance — State Library of Queensland.</small>*
-
-
 
 ## Canon Walter and Mary Lorna Thompson <small>(6‑3‑11)</small>
 
@@ -72,7 +70,7 @@ Walter Thompson was born in Chelsea London in 1863 to a farmer, William John Tho
 On 27 November 1912 in St Michael and All Angels' Church, Walter married Mary Hopkins who was born on 8 September 1890 at Gooda Station, the eldest daughter of the squatter Edward Bor Hopkins and his wife Blanche (née Eglinton). Mary Thompson died on All Saints Day 1 November 1931 and Canon Walter Thompson on 8 January 1952.
 
 <!--
-![](../assets/holy-trinity-church-of-england-woolloongabba.jpg){ width="70%" }  
+![Holy Trinity Church of England at Woolloongabba, 1949](../assets/holy-trinity-church-of-england-woolloongabba.jpg){ width="70%" }  
 
 *<small>[Holy Trinity Church of England at Woolloongabba, 1949](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219189770002061) — State Library of Queensland.</small>*
 -->

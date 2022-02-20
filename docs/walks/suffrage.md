@@ -38,7 +38,7 @@ Foxton held the Legislative Assembly seat of Carnarvon from 1883 until 1904 when
 Emma was born in June 1839 in Chesterfield, Derbyshire. Her parents were Daniel Holmes a Chartist, and Martha (née Hollingworth). Emma arrived in Brisbane in 1879. She led the campaign for women's suffrage in Queensland as well as being at the forefront of the struggle for better working conditions for women workers. She was a foundation member of the Australian Labor Party. She campaigned tirelessly for freedom from conscription. Emma was president of the Women's Equal Franchise Association for the whole period of its existence, from 1894 to 1905 when white women in Queensland won the right to vote in state elections. Emma Miller died of cancer on 22 January 1917, two days after making her last speech to the Toowoomba Anti‑conscription League.
 
 
-![](../assets/emma-miller-portrait.jpg){ width="40%" }  
+![Portrait of Emma Miller](../assets/emma-miller-portrait.jpg){ width="40%" }  
 
 *<small>[Portrait of Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218036320002061) — State Library of Queensland.</small>*
 
@@ -57,7 +57,7 @@ Philp entered politics on 5 January 1876 by winning the seat of Musgrave, but tr
 Sir Robert died after an operation on 17 June 1922 in Holyrood Private Hospital, Brisbane, and was buried in Toowong Cemetery two days later. 
 
 
-![](../assets/sir-robert-philp.jpg){ width="40%" }  
+![Sir Robert Philp](../assets/sir-robert-philp.jpg){ width="40%" }  
 
 *<small>[Sir Robert Philp](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool194435), 1901 — State Library of Queensland.</small>*
 
@@ -69,7 +69,7 @@ He was an alderman in the first Gympie Municipal Council and in 1888 was elected
 
 He [died](https://trove.nla.gov.au/newspaper/article/187224133) on 20 August 1916 at his South Brisbane home and was buried in Toowong Cemetery where a private funeral was conducted at his request. 
 
-![](../assets/sir-horace-tozer.jpg){ width="40%" }  
+![Politician Sir Horace Tozer, Brisbane, 1890](../assets/sir-horace-tozer.jpg){ width="40%" }  
 
 *<small>[Politician Sir Horace Tozer, Brisbane, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218036320002061) — State Library of Queensland.</small>*
 
@@ -79,7 +79,7 @@ Sir Charles Lilley, politician and judge was born on 27 August 1827 at Newcastle
 
 In May 1860 he was elected to Queensland's first Legislative Assembly. From 25 November 1868 to 3 May 1870 he was Premier of Queensland. During a debate on electoral reform in Queensland Parliament in 1870, he put forward the idea of women's suffrage, the first to do so. His government fell the same year but he remained a staunch supporter of women's franchise until his death on 20 August 1897. 
 
-![](../assets/sir-charles-lilley-1858.jpg){ width="49%" }  ![](../assets/sarah-jane-jeays.jpg){ width="46.35%" } 
+![Sir Charles Lilley](../assets/sir-charles-lilley-1858.jpg){ width="49%" }  ![Sarah Jane Jeays](../assets/sarah-jane-jeays.jpg){ width="46.35%" } 
 
 *<small>[Sir Charles Lilley](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197120002061) on his wedding day. He married Sarah Jane Jeays in 1858. — State Library of Queensland.</small>* <br>
 *<small>[Sarah Jane Jeays](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218235890002061) — State Library of Queensland.</small>*
@@ -88,7 +88,7 @@ In May 1860 he was elected to Queensland's first Legislative Assembly. From 25 N
 
 Boyd Dunlop Morehead was Queensland Premier from 30 November 1888 to 12 August 1890. He was born in Sydney on 24 August 1843, son of Robert Archibald Alison Morehead and his wife Helen Buchanan (née Dunlop). Morehead was MLA for the Queensland electoral district of Mitchell from September 1871 to December 1880 and represented Balonne from October 1883 to April 1896. Morehead succeeded Sir Thomas McIlwraith as Premier in November 1888. Morehead was a significant opponent of women's suffrage. He died from a cerebral haemorrhage on Monday 30 October 1905 at the age of 62 years.
 
-![](../assets/boyd-dunlop-morehead.jpg){ width="40%" }  
+![Boyd Dunlop Morehead](../assets/boyd-dunlop-morehead.jpg){ width="40%" }  
 
 *<small>[Boyd Dunlop Morehead](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218973050002061) ca. 1890 — State Library of Queensland.</small>*
 
@@ -96,7 +96,7 @@ Boyd Dunlop Morehead was Queensland Premier from 30 November 1888 to 12 August 1
 
 David Hay Dalrymple was born on 14 December 1840 at Newbury, Berkshire, England, son of James Dalrymple and his wife Georgina (née Hay). Dalrymple reached Melbourne in 1862; He bought land in Mackay at the first sales, opened the town's first chemist shop and began pastoral investments. He was the town's first mayor in 1869-71, continuing to serve in local government until 1888 when he became a member for Mackay in the Legislative Assembly. In 1895-1903 Dalrymple served in ministries under Sir Hugh Nelson, T J Byrnes, Sir James Dickson and Sir Robert Philp, holding varied portfolios. He was one of the most strident masculinist voices in opposition to female suffrage. Dalrymple lost his seat in August 1904 and lived in retirement at Hamilton where he [died](https://trove.nla.gov.au/newspaper/article/19851385) on 1 September 1912.
 
-![](../assets/david-hay-dalrymple.jpg){ width="33.7%" } ![](../assets/effie-dalrymple.jpg){ width="40%" }  
+![David Hay Dalrymple](../assets/david-hay-dalrymple.jpg){ width="33.7%" } ![Effie Dalrymple, Christmas 1900](../assets/effie-dalrymple.jpg){ width="40%" }  
 
 *<small>[David Hay Dalrymple](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool15986) 6 April, 1895 — State Library of Queensland.</small>* <br>
 *<small>[Effie Dalrymple, Christmas 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218791890002061) Married David Hay Dalrymple at Mackay on 23 December 1880. They had four children. — State Library of Queensland.</small>*
@@ -109,14 +109,14 @@ On July 1887 he was first elected to the Legislative Assembly for Warwick. He re
 
 Morgan died at his residence at Upper Paddington, on 20 December 1916 after a long illness; he was buried in Toowong Cemetery following a state funeral and service at St John's Anglican Cathedral.
 
-![](../assets/sir-arthur-morgan.jpg){ width="40.8%" }  ![](../assets/modern-romeo.jpg){ width="36%" }  
+![Sir Arthur Morgan](../assets/sir-arthur-morgan.jpg){ width="40.8%" }  ![Modern Romeo : suffragette movement in Queensland](../assets/modern-romeo.jpg){ width="36%" }  
 
 
 *<small>[Sir Arthur Morgan](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219359220002061) 1903 — State Library of Queensland.</small>* <br>
 *<small>[Modern Romeo : suffragette movement in Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool190519) On 5 January 1905, two years after the formation of the Queensland Women's Electoral League, the Electoral Franchise Bill was introduced into the Legislative Assembly to give the women of Queensland the right to vote. The Elections Acts Amendment Bill, provide the necessary machinery, was introduced at the same time. Despite some misgivings about abolishing the plural vote, and difficulty with postal voting, these issues were overcome and the legislation giving the women of Queensland the right to vote was finally passed. It was assented to by the Lieutenant‑Governor on 26 January 1905 — State Library of Queensland.</small>*
 
 
-![](../assets/women-voting-1907.jpg){ width="70%" }  
+![Women inside the gate of the city polling station, voting for the first time in a Queensland state election, May 1907](../assets/women-voting-1907.jpg){ width="70%" }  
 
 *<small>[Women inside the gate of the city polling station, voting for the first time in a Queensland state election, May 1907](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool72579) — State Library of Queensland.</small>*
 

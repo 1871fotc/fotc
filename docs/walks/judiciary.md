@@ -77,12 +77,6 @@ Born Cornwall, England on 7/11/1861 to Rev William Woolcock and Elizabeth White.
 
 Born Toowoomba, Queensland on 10/5/1865 to Charles Stumm and Isabella Streich. Formerly a schoolteacher, Charles Stumm commenced his legal training under articles at Browne & Ruthning Solicitors and was admitted as a solicitor of the Queensland Supreme Court in 1889. He was admitted as a barrister in 1894 and appointed King's Counsel in 1910. In 1929 he was appointed a Judge of the Queensland Supreme Court but died tragically three weeks later on 28/2/1929.
 
-<!-- 
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
-
-*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
--->
-
 ## Acknowledgements
 
 Compiled and presented by Lyn and Darcy Maddock

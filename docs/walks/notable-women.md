@@ -33,7 +33,7 @@ Few women have left so clear a track successfully blazed in the history of Queen
 
 Still more presently, when war work was what mattered most in women’s lives, Mrs. Kingsbury practically illustrated the doctrine of keeping the home fires burning by strengthening existing activities and at the same time, as president of the National Council of Women, she took an active part in “Six o’clock closing,” the establishment of a bureau for the registration and classification of women for national work, the foundation of the British Australian League for the encouragement of Australian goods first, and those of the Empire next. She was elected president of the Women’s Mutual Service club, and, with her committee, brightened with kindly sympathy the many weary hours of sorrow and anxiety of soldiers’ relatives. Mrs. Kingsbury, for eight years, occupied the position of president of the National Council of Women, a federation of 44 societies, all interested in great national questions, especially in those affecting the welfare of women and children. On the occasion of the International Congress held in Rome in June, 1914, Mrs. Kingsbury represented the Queensland Council, and on her return familiarised the women of Brisbane with the representative women of other countries.^3^ Elizabeth was also an accomplished artist and wood carver. She died in 1919 aged 61.
 
-![](../assets/elizabeth-jane-kingsbury.jpg){ width="40%" }
+![Mrs J. J. Kingsbury](../assets/elizabeth-jane-kingsbury.jpg){ width="40%" }
 
 *<small>[Mrs J. J. Kingsbury](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218947160002061) - State Library of Queensland </small>*
 
@@ -41,7 +41,7 @@ Still more presently, when war work was what mattered most in women’s lives, M
 
 Jessie Bannister, the eldest daughter of James and Isabella Campbell, died on 21 November 1890 at Baroona. She was the 34‑year‑old wife of politician Robert Philp (MLA for Townsville) and mother of seven surviving children. Jessie and Robert married at Ballymore in February 1878 before setting sail for Townsville, where most of her nine children were born. Her youngest child was just two weeks old when Jessie, weakened from recent childbirth, succumbed to the scarlet fever for which she was nursing two of her older children.^4^
 
-![](../assets/jessie-bannister-philp.jpg){ width="40%" }
+![Portrait of Jessie Bannister Philp, ca. 1878](../assets/jessie-bannister-philp.jpg){ width="40%" }
 
 *<small>[Portrait of Jessie Bannister Philp, ca. 1878](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220205850002061) - State Library of Queensland </small>*
 
@@ -59,20 +59,20 @@ Her third husband was Andrew Miller (d.1897), a widower whom she married at Bris
 
 She campaigned tirelessly for freedom from conscription. Through these activities, she was known and admired throughout the country, and given the affectionate title ‘Mother of the Australian Labor Party’. On 'Black Friday' of the 1912 strike, Emma led a large contingent of women to Parliament House, braving the batons of foot and mounted police. She reputedly stuck a hatpin into the horse of Police Commissioner Cahill who was thrown and injured. 
 
-![](../assets/brisbane-strikes-1912.jpg){ width="76%" }
+![Brisbane strikes, 1912](../assets/brisbane-strikes-1912.jpg){ width="76%" }
 
 *<small>[Brisbane strikes, 1912](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool112004) - State Library of Queensland. </small>*
 
 Emma died in 1917. On 22 October 1922 a publicly funded marble bust of her was unveiled in the Trades Hall.^5^
 
-![](../assets/emma-miller.jpg){ width="40%" }  ![](../assets/emma-miller-marble-bust.jpg){ width="35.75%" }
+![Portrait of Mrs. Emma Miller](../assets/emma-miller.jpg){ width="40%" }  ![Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](../assets/emma-miller-marble-bust.jpg){ width="35.75%" }
 
 *<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland. </small>* <br>
 *<small>[Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](https://en.wikipedia.org/wiki/File:Marble_Bust_of_Emma_Miller_held_at_Queensland_Council_of_Unions.jpg) by Alphi123, used under [CC BY-SA 4.0][cc-by-sa].  </small>*
 
-![](../assets/arthur-hoey-davis--charles-lilley--emma-miller-statues.jpg){ width="76%" }
+![Arthur Hoey Davis - Steele Rudd, Charles Lilley and Emma Miller statues located in King George Square in Brisbane, Australia.](../assets/arthur-hoey-davis--charles-lilley--emma-miller-statues.jpg){ width="76%" }
 
-*<small>[Arthur Hoey Davis -Steele Rudd, Charles Lilley and Emma Miller statues located in King George Square in Brisbane, Australia. Artist: Artbusters Materials: Bronze Installation date: 1993](https://en.wikipedia.org/wiki/File:A._Davis,_C._Lilley_and_E._Miller_statues_in_Brisbane_01.JPG) by [Kgbo](https://commons.wikimedia.org/wiki/User:Kgbo), used under [CC BY-SA 4.0][cc-by-sa].  </small>*
+*<small>[Arthur Hoey Davis - Steele Rudd, Charles Lilley and Emma Miller statues located in King George Square in Brisbane, Australia. Artist: Artbusters Materials: Bronze Installation date: 1993](https://en.wikipedia.org/wiki/File:A._Davis,_C._Lilley_and_E._Miller_statues_in_Brisbane_01.JPG) by [Kgbo](https://commons.wikimedia.org/wiki/User:Kgbo), used under [CC BY-SA 4.0][cc-by-sa].  </small>*
 
 ## Sources 
 

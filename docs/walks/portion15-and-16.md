@@ -37,7 +37,7 @@ Mountford was born in North Leith, Scotland on 10 February 1898. After a long ca
 
 Born in Birmingham England on 9 May 1829, [Charles de Vis](https://adb.anu.edu.au/biography/de-vis-charles-walter-3406) was a clergyman and then museum curator before immigrating to Queensland in 1870. He became curator of the Queensland Museum in 1882 and director of that institution in 1901 adding much to the extent of the collections, their classification and display.
 
-![](../assets/exhibition-hall-1897.jpg){ width="70%" }
+![Exhibition Hall, Brisbane, ca. 1897](../assets/exhibition-hall-1897.jpg){ width="70%" }
 
 *<small>[Exhibition Hall, Brisbane, ca. 1897](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219199540002061). Originally built as an Exhibition Hall and Concert Hall, the building is located on the site of an earlier building which burned down in 1888. In the late 1890s the Exhibition Hall was converted to accommodate the Queensland Museum which transferred to the building in 1899. State Library of Queensland.</small>*
 
@@ -49,7 +49,7 @@ Olive was born in Great Malvern Worcester in 1890. During World War 1 she marrie
 
 Born in Roma Qld in 1862, Charles Garland was apprenticed a [printer's devil](https://en.wikipedia.org/wiki/Printer%27s_devil) to the proprietor of the *Western Star* and *Roma Advertiser*. He later obtained a position on the composing staff of the *Brisbane Courier* where he served for 52 years.
 
-![](../assets/brisbane-courier-staff-1902.jpg){ width="70%" }
+![Staff working at the Brisbane Courier, ca. 1902](../assets/brisbane-courier-staff-1902.jpg){ width="70%" }
 
 *<small>[Staff working at the Brisbane Courier, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220275530002061) - State Library of Queensland.</small>*
 
@@ -61,7 +61,7 @@ Richard Belford died on 28 April 1865 and was interred in the North Brisbane Bur
 
 James Ramsbotham was born on 4 November 1856 in Ipswich Qld where his parents were well known residents. He entered the Posts & Telegraphs Service and was stationed at St Lawrence. Later he moved to Brisbane. In 1901 following Federation he was appointed to the position of telegraphist at Roma Street Railway Station.
 
-![](../assets/roma-street-railway-station-1905.jpg){ width="70%" }
+![Wirth Brothers' elephants drawing the circus properties from Roma Street Railway Station, 1905](../assets/roma-street-railway-station-1905.jpg){ width="70%" }
 
 *<small>[Wirth Brothers' elephants drawing the circus properties from Roma Street Railway Station, 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool88516) - State Library of Queensland.</small>*
 
@@ -77,7 +77,7 @@ Francis McKeon was a member of the Brisbane team of railway staff who competed f
 
 Irish immigrants, John and Ellen Forde were the parents of [Francis Michael Forde](https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504) better known as Frank Forde, the 15^th^ Prime Minister of Australia.
 
-![](../assets/frank-forde-pilots-train.jpg){ width="70%" }
+![Frank Forde pilots a train into Brisbane, 1930](../assets/frank-forde-pilots-train.jpg){ width="70%" }
 
 *<small>[Frank Forde pilots a train into Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool42043) - State Library of Queensland.</small>*
 
@@ -86,7 +86,7 @@ Irish immigrants, John and Ellen Forde were the parents of [Francis Michael Ford
 
 [Hugh Glackin](https://trove.nla.gov.au/newspaper/article/219446603) was born in Newtown Cunningham in County Donegal on 8 March 1844. After coming to Queensland, he joined the police force as a constable in 1870 and [famously arrested Captain Starlight](https://trove.nla.gov.au/newspaper/article/181459438) in April 1887. 
 
-![](../assets/frank-pearson-captain-starlight.jpg){ width="30%" }
+![Frank Pearson (Captain Starlight)](../assets/frank-pearson-captain-starlight.jpg){ width="30%" }
 
 *<small>Frank Pearson (Captain Starlight) - State Archives of NSW</small>*
 

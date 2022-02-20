@@ -117,7 +117,7 @@ hide:
 
 --8<-- "snippets/arthur-lowe.md"
 
-![](../assets/arthur-lowe.jpg){ width="32%" }
+![Arthur Lowe's headstone](../assets/arthur-lowe.jpg){ width="32%" }
 
 <!--
 ??? directions "Directions" 

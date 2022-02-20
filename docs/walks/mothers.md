@@ -6,14 +6,6 @@ hide:
 
 # Mothers 
 
-<!-- 
-
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
-
-*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
-
--->
-
 <!--
 ???+ directions "Directions" 
 

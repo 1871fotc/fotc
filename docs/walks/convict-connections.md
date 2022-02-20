@@ -35,7 +35,7 @@ The family arrived aboard the *Falcon* on 9 July 1842. Noticing the need of a fe
 
 A widower at 47, in Brisbane in 1856 he married Sarah Ann Fairfax; they had three sons and two daughters. Because of his work for separation and contributions to the press under the pseudonym of Old Tom, he was appointed with Walter Hill, director of the Botanic Gardens, to arrange the Queensland exhibit at the London Exhibition in 1862. In this task they were successful and received a public testimonial in 1864. When the first town clerk of Brisbane retired, Dowse was elected in January 1862. He retired from office in 1869 but continued in business until he died aged 75 at his home, *Hillside*, Milton, on 9 November 1885.
 
-![](../assets/thomas-dowse.jpg){ width="40%" }
+![Thomas Dowse](../assets/thomas-dowse.jpg){ width="40%" }
 
 *<small>[Thomas Dowse](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218687340002061) Brisbane Town Clerk 1862-1868 — State Library of Queensland.</small>*
 
@@ -71,7 +71,7 @@ He had to relearn the English language and accustom himself again to work and cl
 
 His rehabilitation into acquisitive society included reform; from his accumulated estate the Brisbane General Hospital received £750 in 1889 and another £1100 in 1911. He guided settlers to good land in the Wide Bay area, and some public benefit came from his thirteen years with the Aboriginals. He was occasionally employed as a court interpreter, and in 1866 petitioned the governor to raise his salary to the £20 paid to Chinese and German interpreters, but his request was refused.
 
-![](../assets/james-davis-duramboi.jpg){ width="40%" }  
+![James Davis poses in front of his crockery store, George Street, Brisbane, ca. 1872](../assets/james-davis-duramboi.jpg){ width="40%" }  
 
 *<small>[James Davis poses in front of his crockery store, George Street, Brisbane, ca. 1872](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218687340002061) — State Library of Queensland.</small>*
 

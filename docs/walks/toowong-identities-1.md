@@ -12,7 +12,7 @@ On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the 
 
 This heritage walk was conceived as part of commemorative activities. It features only a small number of those former Toowong residents and associates who contributed in some way to Toowong’s social history. 
 
-[![](../assets/toowong-identities-1-map.png){ width="40%" }](../assets/toowong-identities-1-map-sml.jpg)
+[![Map](../assets/toowong-identities-1-map.png){ width="40%" }](../assets/toowong-identities-1-map-sml.jpg)
 
 ???+ directions "Directions" 
 
@@ -48,7 +48,7 @@ Irishman William John Munce died at his Toowong home *Caltura* in 1892 aged 77. 
 
 Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen, Scotland, Charles arrived in Queensland in 1871. He was a member of the Toowong Council until 1925, elected Mayor numerous times in this period. He proposed the construction of the median strip in High Street, now locally known as ‘Patterson’s Folly’, as he envisaged a divided highway ultimately leading to Ipswich. His Bon Accord sawmill was one of the first industries in Toowong, opening on the site of the present Toowong Tower in 1881. The Patterson family lived at *Kinellar*, still standing on the corner of Sherwood Road and Little Maryvale Street. They were members of the Presbyterian Congregation. Charles died in January 1926.
 
-![](../assets/high-street-toowong-ca1917.jpg){ width="70%" }
+![High Street, Toowong, Brisbane, Queensland, ca. 1917](../assets/high-street-toowong-ca1917.jpg){ width="70%" }
 
 *<small>[High Street, Toowong, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220078440002061) - State Library of Queensland </small>*
 
@@ -60,12 +60,12 @@ Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen,
 
 Robert came to the Colony of Queensland aboard the *Fortitude* in January 1849. He bought land in 1852 and built Lang Farm which stretched from the hilly part of Indooroopilly Road towards Jack Cook Park and down to the River. He cleared the pine trees and vines growing along Toowong Creek, growing oranges, cabbages, grapes, mulberries and olives. Land Farm was bought by Richard Gailey, who built his mansion *Glen Olive* on the riverbank. Robert was appointed to the first Toowong Shire Council in 1880. He died on 16 April 1893 aged 88.
 
-![](../assets/robert-cribb.jpg){ width="25.4%" }  ![](../assets/glen-olive-1893-flood.jpg){ width="68%" }
+![Robert Cribb](../assets/robert-cribb.jpg){ width="25.4%" }  ![Houses submerged in the 1893 flood waters at Toowong, Brisbane, Queensland](../assets/glen-olive-1893-flood.jpg){ width="68%" }
 
 *<small>[Robert Cribb](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218813510002061) State Library of Queensland </small>* <br>
 *<small>[Houses submerged in the 1893 flood waters at Toowong, Brisbane, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220473300002061) - State Library of Queensland. Richard Gailey’s Glen Olive can be seen in the distance. </small>*
 
-![](../assets/glen-olive-garden-estate.jpg){ width="45%" }
+![Glen Olive Garden Estate on the river bank Toowong](../assets/glen-olive-garden-estate.jpg){ width="45%" }
 
 *<small>[Glen Olive Garden Estate on the river bank Toowong](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21119287420002061) - State Library of Queensland. This show the site of the Glen Olive house and grounds. </small>*
 
@@ -114,7 +114,7 @@ James was elected to the Toowong Shire Council in 1885. He was described by cont
 
 A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand houses, including *Sidney House*, demolished to make way for the ABC Studios, *Ardencraig*, which stood on Golding St and *Easton Gray* (1869) the residence of Sir Arthur Palmer. He also designed the heritage-listed [St Thomas Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600336) on High Street, Toowong.
 
-![](../assets/st-thomas-church-toowong-ca1917.jpg){ width="70%" }
+![St. Thomas' Church Toowong, looking from Burns Road, Brisbane, Queensland, ca. 1917](../assets/st-thomas-church-toowong-ca1917.jpg){ width="70%" }
 
 *<small>[St. Thomas' Church Toowong, looking from Burns Road, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220179080002061) - State Library of Queensland </small>*
 
@@ -134,7 +134,7 @@ Fewings’ memoirs *Arcadian Simplicity*, written in 1892, described life in Too
 
 [Thomas Finney](https://adb.anu.edu.au/biography/finney-thomas-3518) and his family lived in *Sidney House* (on the site of the former ABC Studios in Toowong) from 1882, one of the grandest houses in Toowong, surrounded by gardens and an orchard. He is buried next to his business partner James Isles with whom he established Finney Isles & Co. in 1864.
 
-![](../assets/sidney-house-toowong-1890.jpg){ width="70%" }
+![Sidney House in Toowong, viewed from the street, March, 1890](../assets/sidney-house-toowong-1890.jpg){ width="70%" }
 
 *<small>[Sidney House in Toowong, viewed from the street, March, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool127391) - State Library of Queensland </small>*
 
@@ -176,7 +176,7 @@ Richer Street, on the North West boundary of Toowong Cemetery, is named after Wi
 The Siemon family, which included six children, lived at *Ravensfield* on Coronation Drive and ran a dairy farm, grazing their cows on land near the Regatta Hotel until the 1930s. In 1904, the Charles bought *[Milton House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600253)* which they subsequently sold to the Presbyterian Church. Charles owned extensive warehouses, factories and businesses in Brisbane and was a Toowong Town Councillor.
 
 <!--
-![](../assets/ravensfield-toowong-1911.jpg){ width="70%" }
+![Ravensfield, home of the Siemon family, in River Road now Coronation Drive, Toowong, 1911](../assets/ravensfield-toowong-1911.jpg){ width="70%" }
 
 *<small>[Ravensfield, home of the Siemon family, in River Road now Coronation Drive, Toowong, 1911](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220239800002061) - State Library of Queensland </small>*
 -->
@@ -189,7 +189,7 @@ The Siemon family, which included six children, lived at *Ravensfield* on Corona
 
 Archibald was the Chairman of the Toowong Fire Brigade, which had built a [fire station in Jephson Street in 1919](https://heritage.brisbane.qld.gov.au/heritage-places/1703). He was the last Mayor of Toowong in 1925 and went on to serve as an Alderman on the Brisbane City Council between 1926 and 1931. He was Deputy Mayor from 1926 to 1931 and was Lord Mayor from February to May 1931.
 
-![](../assets/royal-exchange-hotel-toowong-1908.jpg){ width="70%" }  
+![Early view of the Royal Exchange Hotel, Toowong, ca. 1908](../assets/royal-exchange-hotel-toowong-1908.jpg){ width="70%" }  
 
 *<small>[Early view of the Royal Exchange Hotel, Toowong, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220193590002061). The hotel and former fire station were situated in High Street, Toowong. The Jephson St Fire Station replaced the High Street Fire Station and was closed on 2 February 1981. — State Library of Queensland. </small>*
 
@@ -215,7 +215,7 @@ The last burial in this grave took place in 1962 when Robert and Jessie’s elde
 
 The well‑known explorer Gregory became the first President of the Toowong Shire Council in 1881. With his brother, Francis, Augustus was attached to the survey department of Western Australia and later joined the Survey Department in Queensland rising to the position of Surveyor General in 1859.
 
-![](../assets/augustus-charles-gregory-lying-in-state.jpg){ width="70%" }
+![Sir Augustus Charles Gregory lying in state, Brisbane, 1905](../assets/augustus-charles-gregory-lying-in-state.jpg){ width="70%" }
 
 *<small>[Sir Augustus Charles Gregory lying in state, Brisbane, 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool73174) - State Library of Queensland </small>*
 
@@ -232,7 +232,7 @@ Alfred was born in 1837 in Putney, London and arrived in Queensland in 1860. In 
 
 Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
-![](../assets/toowong-centenary-1903-2003.png){ width="15%" }
+![Toowong Centenary logo](../assets/toowong-centenary-1903-2003.png){ width="15%" }
 
 
 

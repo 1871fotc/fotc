@@ -40,7 +40,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     - Start behind Canon Garland Place in Emma Miller Avenue. 
     - walking directions
               
-    ![](../assets/john-petrie.jpg){ width="100" }
+    ![John Petrie's headstone](../assets/john-petrie.jpg){ width="100" }
 
 -->
 
@@ -51,7 +51,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions 
               
-    ![poke](../assets/george-edmondstone.jpg){ width="100" }
+    ![George Edmondstone's headstone](../assets/george-edmondstone.jpg){ width="100" }
 
 -->
 
@@ -62,13 +62,13 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![](../assets/thomas-proe.jpg){ width="100" }
+    ![Thomas Proe's headstone](../assets/thomas-proe.jpg){ width="100" }
 
 -->
 
 --8<-- "snippets/thomas-proe.md"
 
-![](../assets/thomas-proe-1901.jpg){ width="48%" } ![](../assets/thomas-proe-1905.jpg){ width="39.7%" }
+![Mayor Thomas Proe, 1901](../assets/thomas-proe-1901.jpg){ width="48%" } ![Mayor Thomas Proe, 1905](../assets/thomas-proe-1905.jpg){ width="39.7%" }
 
 *<small>[Mayor Thomas Proe](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Mayor+Thomas+Proe&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) 1901 and 1905 — Brisbane City Council.</small>*
 
@@ -78,13 +78,13 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![missing picture](../assets/john-daniel-heal.jpg){ width="100" }
+    ![John Daniel Heal's headstone](../assets/john-daniel-heal.jpg){ width="100" }
 
 -->
 
 --8<-- "snippets/john-daniel-heal.md"
 
-![](../assets/john-daniel-heal.jpg){ width="30.3%" } ![](../assets/prince-consort-hotel.jpg){ width="56%" } 
+![Mayor John Daniel Heal](../assets/john-daniel-heal.jpg){ width="30.3%" } ![Prince Consort Hotel, Brisbane, 1936](../assets/prince-consort-hotel.jpg){ width="56%" } 
 
 *<small>[Mayor John Daniel Heal](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Mayor+John+Daniel+Heal&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>* <br>
 *<small>[Prince Consort Hotel, Brisbane, 1936](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218131470002061) — State Library of Queensland.</small>*  
@@ -95,7 +95,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![missing picture](../assets/john-sinclair.jpg){ width="100" }
+    ![John Sinclair's headstone](../assets/john-sinclair.jpg){ width="100" }
 
 -->
 
@@ -106,7 +106,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![missing picture](../assets/alfred-john-raymond.jpg){ width="100" }
+    ![Alfred John Raymond's headstone](../assets/alfred-john-raymond.jpg){ width="100" }
 
 -->
 
@@ -118,7 +118,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![](../assets/james-swan-headstone.jpg){ width="100" }
+    ![James Swan's headstone](../assets/james-swan-headstone.jpg){ width="100" }
 
 -->
 
@@ -130,13 +130,13 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![](../assets/richard-symes-warry-headstone.jpg){ width="100" }
+    ![Richard Symes Warry's headstone](../assets/richard-symes-warry-headstone.jpg){ width="100" }
 
 -->
 
 --8<-- "snippets/richard-symes-warry.md"
 
-![](../assets/richard-symes-warry.jpg){ width="40%" } 
+![Richard Symes Warry](../assets/richard-symes-warry.jpg){ width="40%" } 
 
 *<small>[Richard Symes Warry](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Richard+Warry&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*
 
@@ -146,7 +146,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![](../assets/richard-southall-headstone.jpg){ width="100" }
+    ![Richard Southall's headstone](../assets/richard-southall-headstone.jpg){ width="100" }
 
 -->
 
@@ -157,7 +157,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![missing picture](../assets/john-hardgrave.jpg){ width="100" }
+    ![John Hardgrave's headstone](../assets/john-hardgrave.jpg){ width="100" }
 
 -->
 
@@ -168,7 +168,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![missing picture](../assets/joshua-jeays-headstone.jpg){ width="100" }
+    ![Joshua Jeays' headstone](../assets/joshua-jeays-headstone.jpg){ width="100" }
 
 -->
 
@@ -179,7 +179,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - walking directions
               
-    ![](../assets/william-pettigrew-headstone.jpg){ width="100" }
+    ![William Pettigrew's headstone](../assets/william-pettigrew-headstone.jpg){ width="100" }
 
 -->
 
@@ -190,7 +190,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
     - needs picture
               
-    ![](../assets/archibald-watson.jpg){ width="100" }
+    ![Archibald Watson's headstone](../assets/archibald-watson.jpg){ width="100" }
     
 -->
 
@@ -209,7 +209,7 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
       - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
       - Walk into Portion 7a about 4 sections, and you'll find...
 
-    ![](../assets/william-macnaughton-galloway-headstone.jpg){ width="100" }
+    ![William MacNaughton Galloway's headstone](../assets/william-macnaughton-galloway-headstone.jpg){ width="100" }
     
 -->
 

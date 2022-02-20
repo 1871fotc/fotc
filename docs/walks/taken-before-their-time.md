@@ -42,7 +42,7 @@ Frances Emma Irving was born in Queensland on 12 December 1883 to Maxwell Henry 
 On 7 January 1920 at about 10:30am, Fanny, aged 36 years, drowned at Sutton's Beach, Redcliffe. April 1873. 
 
 
-![](../assets/suttons-beach-ladies.jpg){ width="25%" }  ![](../assets/suttons-beach-toddlers.jpg){ width="72.5%" }  
+![Two young ladies relaxing in the sun under parasols at Sutton's Beach, Redcliffe, 1919](../assets/suttons-beach-ladies.jpg){ width="25%" }  ![Supervising toddlers on Sutton's Beach, Redcliffe, Queensland, 1906](../assets/suttons-beach-toddlers.jpg){ width="72.5%" }  
 
 
 *<small>[Two young ladies relaxing in the sun under parasols at Sutton's Beach, Redcliffe, 1919](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21253920730002061) — State Library of Queensland.</small>* <br>
@@ -75,7 +75,7 @@ Sidney Arthur Kennoch, a son of John Henry Kennoch and Elizabeth (Lizzie) France
 
 Daughters of Robert Francis Osborne and Martha (née Orth), Jean was born about 1824 and Marjorie was born about 1827. The girls, of Gaythorne Road, Gaythorne, [died at the old Virginia Brickworks](https://trove.nla.gov.au/newspaper/article/36803231), Pickering Street, Enoggera, about 10:30am on Thursday 2 January 1936.
 
-![](../assets/virginia-brickworks-clay-pit.jpg){ width="70%" }  
+![Virginia Brickworks clay pit at Enoggera, ca. 1920](../assets/virginia-brickworks-clay-pit.jpg){ width="70%" }  
 
 *<small>[Virginia Brickworks clay pit at Enoggera, ca. 1920](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220411160002061) — State Library of Queensland.</small>*
 
@@ -95,7 +95,7 @@ Ned, of Newmarket Road, Windsor, was an Engine Driver when he [enlisted in the A
 
 A Brisbane City Council employee, Ned died instantly in a head on collision between his motorcycle and a car on the Pacific Highway, Beenleigh, on 17 January 1937.
 
-![](../assets/light-horse-brigade-5th-australian-army-corps.jpg){ width="70%" }  
+![Light Horse Brigade, Enoggera, Queensland](../assets/light-horse-brigade-5th-australian-army-corps.jpg){ width="70%" }  
 
 *<small>[Light Horse Brigade, Enoggera, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220526510002061), Australian Army Service Corp. (A.A.S.C.), 5th Australian Army Corps — State Library of Queensland.</small>*
 

@@ -8,7 +8,7 @@ hide:
 
 <!-- 
 
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
+![Devoy residence in Ashgrove, Brisbane, ca. 1908](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
 
 *<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
 
@@ -36,7 +36,7 @@ William, an engineer by trade, was a watchmaker, jeweller and gun maker in Brisb
 
 William drowned in Breakfast Creek on 1 February 1879.
 
-![](../assets/flying-cloud-ship.jpg){ width="60%" }  ![](../assets/william-james-sluce.jpg){ width="29.75%" }  
+![Flying Cloud (ship)](../assets/flying-cloud-ship.jpg){ width="60%" }  ![William James Sluce, 1876](../assets/william-james-sluce.jpg){ width="29.75%" }  
 
 *<small>[Flying Cloud (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220145060002061). Holds the world's record for passages from New York to San Francisco, and made many fast passages from Britain to Moreton Bay with immigrants. — State Library of Queensland.</small>* <br>
 *<small>[William James Sluce, 1876](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220151590002061) — State Library of Queensland.</small>*
@@ -62,7 +62,7 @@ The Ogles were early settlers at Pullenvale, where John farmed. Part of their pr
 
 John died on the 26 October 1890. Mary Ann died on the 24 August 1907.
 
-![](../assets/montmorency-ship.jpg){ width="40%" }  
+![Montmorency (ship)](../assets/montmorency-ship.jpg){ width="40%" }  
 
 *<small>[Montmorency (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220157310002061) — State Library of Queensland.</small>*
 
@@ -117,7 +117,7 @@ William was the publican of the Commercial Hotel, Tewantin for approximately fou
 In June 1907, now with 11 children. William applied to transfer the licence for the Queensland Club Hotel, Mary Street, Brisbane.
 On 19 March 1909 William, late of Quay Street, North Quay, died in the Friendly Societies Hospital, Wickham Terrace, Brisbane, aged 61 years leaving his widow and 11 children. 
 
-![](../assets/young-australia-ship.jpg){ width="70%" }  
+![Young Australia (ship)](../assets/young-australia-ship.jpg){ width="70%" }  
 
 *<small>[Young Australia](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219330430002061) — State Library of Queensland.</small>*
 

@@ -16,19 +16,19 @@ Other Queensland issues in the federation debate included Queensland’s use of 
 
 Despite many arguments against federation, the Federal Referendum on the 2^nd^ of September 1899 narrowly voted in favour of Queensland's joining the new nation. Interestingly, the south-east corner of the colony was against Federation.
 
-![](../assets/federation-trail-map.png){ width="50%" } 
+![Federation Trail map](../assets/federation-trail-map.png){ width="50%" } 
 
 ???+ directions "Directions" 
 
     - Start behind [Canon Garland Place](../cemetery/visit.md#when-you-arrive) in Emma Miller Avenue.  
     - Enter the portion on the path between the graves of Pethebridge and Thurlow. 
     
-    ![](../assets/federation-trail-start.jpg){ width="15%" } 
+    ![Federation Trail start](../assets/federation-trail-start.jpg){ width="15%" } 
     
     - Head straight up the hill towards Governor Blackall’s monument.
     - Rutledge is half way up and just off to the left (Map Number 1.)
     
-    ![](../assets/arthur-rutledge-headstone.jpg){ width="15%" } 
+    ![Sir Arthur Rutledge's headstone](../assets/arthur-rutledge-headstone.jpg){ width="15%" } 
 
 --8<-- "snippets/arthur-rutledge.md"
 
@@ -38,7 +38,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 ## The Federation Pavilion
 
-![](../assets/federation-pavilion.jpg)
+![Federation Pavilion](../assets/federation-pavilion.jpg)
 
 The Commonwealth of Australia was inaugurated under a pavilion erected for the occasion in Sydney’s Centennial Park. [Our pavilion](../about/federation-pavilion.md), designed by Brisbane architect Ian Sinnamon, honours the Queensland delegates to the 1891 National Australasian Convention who are interred nearby. It was funded by the Federation Community Projects Program and construction was arranged by the Brisbane City Council Cemeteries Division.
 
@@ -46,7 +46,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
     The pavilion is adjacent to the grave of Sir Samuel Griffith. (Map Number 3.)
     
-    ![](../assets/samuel-walker-griffith-headstone-1.jpg){ width="30%" } 
+    ![Sir Samuel Walker Griffith's headstone](../assets/samuel-walker-griffith-headstone-1.jpg){ width="30%" } 
 
 --8<-- "snippets/samuel-walker-griffith.md"
 
@@ -54,7 +54,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
     Proceed along Federation Avenue to Map Number 4. The next two graves are on the right.
     
-    ![](../assets/john-donaldson-headstone.jpg){ width="15%" } 
+    ![John Donaldson's headstone](../assets/john-donaldson-headstone.jpg){ width="15%" } 
 
 --8<-- "snippets/john-donaldson.md"
 
@@ -62,7 +62,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
     Proceed along Federation Avenue to Map Number 5. The next grave is on the right.
     
-    ![](../assets/thomas-macdonald‑paterson-headstone.jpg){ width="15%" } 
+    ![Thomas Macdonald‑Paterson's headstone](../assets/thomas-macdonald‑paterson-headstone.jpg){ width="15%" } 
 
 --8<-- "snippets/thomas-macdonald‑paterson.md"
 

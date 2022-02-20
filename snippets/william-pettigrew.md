@@ -6,7 +6,7 @@ He was a member of a number of societies; including the Queensland Philosophical
 
 His wife Amelia Boughay, a fellow Fortitude passenger whom he had married in 18 February 1859, pre‑deceased him on 1 September 1893 and is buried here. He died on 28 October 1906 and was interred in at Bowen. William Pettigrew was a strict Presbyterian, who kept the Sabbath sacred to the extent of walking to church and banning musical instruments from worship.
 
-![](../assets/william-pettigrew.jpg){ width="49%" }  ![](../assets/amelia-boughay.jpg){ width="43%" }  
+![William Pettigrew, Brisbane, ca. 1875](../assets/william-pettigrew.jpg){ width="49%" }  ![Amelia Boughay, wife of William Pettigrew, Brisbane](../assets/amelia-boughay.jpg){ width="43%" }  
 
 *<small>[William Pettigrew, Brisbane, ca. 1875](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218159620002061) — State Library of Queensland.</small>* <br>
 *<small>[Wife of William Pettigrew, Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218213630002061), Amelia Boughay, (1824-1893) born London, died Brisbane. — State Library of Queensland.</small>*

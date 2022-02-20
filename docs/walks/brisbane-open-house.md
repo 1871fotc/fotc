@@ -27,11 +27,11 @@ Andrew Petrie was born in Fife, Scotland, on 25 June 1798 to Walter Petrie and M
 - [Toogoolawah / Bulimba House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600179), 34 Kenbury St, Bulimba
 - [Adelaide House (The Deanery)](https://apps.des.qld.gov.au/heritage-register/detail/?id=600078), 417 Adelaide Street, Brisbane
 
-![](../assets/bulimba-house.jpg){ width="70%" }  
+![Bulimba House in Brisbane](../assets/bulimba-house.jpg){ width="70%" }  
 
 *<small>[Bulimba House in Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218956340002061) — State Library of Queensland.</small>*
 
-![](../assets/adelaide-house.jpg){ width="70%" }  
+![Adelaide House or The Deanery, Ann Street, Brisbane, ca. 1882](../assets/adelaide-house.jpg){ width="70%" }  
 
 *<small>[Adelaide House or The Deanery, Ann Street, Brisbane, ca. 1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220456580002061) — State Library of Queensland.</small>*
 
@@ -56,11 +56,11 @@ William's wife, Marion Kirkwood (née Hamilton) died in 1877. Isabel Ker Scott m
 - [Spring Hill Baths](https://apps.des.qld.gov.au/heritage-register/detail/?id=600313), 14 Torrington St. 1886
 
 
-![](../assets/colonial-mutual-chambers.jpg){ width="40%" }  
+![Colonial Mutual Chambers](../assets/colonial-mutual-chambers.jpg){ width="40%" }  
 
 *<small>[File:62 Queen Street (2008).jpg](https://commons.wikimedia.org/wiki/File:62_Queen_Street_(2008).jpg) — Heritage branch staff, State of Queensland, via Wikimedia Commons.</small>*
 
-![](../assets/spring-hill-baths.jpg){ width="70%" }  
+![Spring Hill Baths](../assets/spring-hill-baths.jpg){ width="70%" }  
 
 *<small>[Spring Hill Baths, ca. 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338600002061) State Library of Queensland.</small>*
 
@@ -74,17 +74,17 @@ William Macfarlane, a son of John Macfarlane and Mary (née Hudson)was born on 3
 - [Former Museum / State Library](https://apps.des.qld.gov.au/heritage-register/detail/?id=600177), William St. 1877-1879
 - [Rothwells](https://apps.des.qld.gov.au/heritage-register/detail/?id=600094) and [Rowes](https://apps.des.qld.gov.au/heritage-register/detail/?id=600095) Buildings, Edward St. 1885
 
-![](../assets/state-library-former.jpg){ width="70%" }  
+![Former Queensland State Library](../assets/state-library-former.jpg){ width="70%" }  
 
 *<small>[State Library (former)](https://apps.des.qld.gov.au/heritage-register/detail/?id=600177#) — The State of Queensland 2021.</small>*
 
 
-![](../assets/rothwells-building.jpg){ width="70%" }  
+![Rothwells Building](../assets/rothwells-building.jpg){ width="70%" }  
 
 *<small>[Rothwells Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600094) — The State of Queensland 2021.</small>*
 
 <!--
-![](../assets/rowes-building.jpg){ width="40%" }  
+![Rowes Building](../assets/rowes-building.jpg){ width="40%" }  
 
 *<small>[Rowes Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600095#) — The State of Queensland 2021.</small>*
 -->
@@ -116,7 +116,7 @@ Arthur Midson was born in London in the last quarter of 1852 to James Midson and
 - [Executive Building / Land Administration Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600123), 142 George St. 1901-1905
 
 
-![](../assets/executive-building.jpg){ width="70%" }  
+![Executive Building](../assets/executive-building.jpg){ width="70%" }  
 
 *<small>[Executive Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600123#) — The State of Queensland 2021.</small>*
 
@@ -130,7 +130,7 @@ George John Ely was a son of Thomas Ely & Maria (née Walker). G J arrived in Br
 - [All Saints Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600168), Wickham Terrace (with Mr Polworth). 1869
 
 
-![](../assets/all-saints-anglican-church-2009.jpg){ width="70%" }  
+![All Saints Anglican Church](../assets/all-saints-anglican-church-2009.jpg){ width="70%" }  
 
 *<small>[All Saints Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600168#) — The State of Queensland 2021.</small>*
 
@@ -145,7 +145,7 @@ Joshua Jeays was born in Bardon, Leicester in 1812. Sarah Edwyn married Joshua i
 - [Bardon House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600053), 41 The Drive, Bardon. 1863-1864
 
 
-![](../assets/old-government-house.jpg)
+![Old Government House](../assets/old-government-house.jpg)
 
 *<small>[Old Government House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600118) — The State of Queensland 2021.</small>*
 
@@ -159,7 +159,7 @@ Born in Sandon, Hertfordshire on 12 July 1843, Ebenezer Chapman's parents were T
 - [Toombul Shire Hall](https://apps.des.qld.gov.au/heritage-register/detail/?id=600272), 1141 Sandgate Rd, Nundah. 1891
 
 
-![](../assets/toombul-shire-hall-former.jpg){ width="70%" } 
+![Former Toombul Shire Hall](../assets/toombul-shire-hall-former.jpg){ width="70%" } 
 
 *<small>[Toombul Shire Hall (former)](https://apps.des.qld.gov.au/heritage-register/detail/?id=600272) — The State of Queensland 2021.</small>*
 

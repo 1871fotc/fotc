@@ -12,7 +12,7 @@ description: The Architect of ANZAC Day
 
 --8<-- "snippets/david-john-garland.md"
 
-![](../assets/david-john-garland.jpg){ width="27%" } ![](../assets/anzac-day-ribbon-1916.jpg){ width="20%" }
+![Canon David John Garland in uniform](../assets/david-john-garland.jpg){ width="27%" } ![Anzac Day 1916 fundraising ribbon](../assets/anzac-day-ribbon-1916.jpg){ width="20%" }
 
 <small>[Canon David John Garland - in uniform](https://commons.wikimedia.org/w/index.php?curid=47014045) by Unknown author, John Oxley Library, State Library of Queensland, Public Domain</small>*<br>
 <small>[Anzac Day 1916 fundraising ribbon](https://www.awm.gov.au/collection/C1244262), Australian War Memorial, used under the [CC BY-NC AU 3.0](https://creativecommons.org/licenses/by-nc/3.0/au/) licence</small>*

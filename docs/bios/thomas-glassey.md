@@ -10,4 +10,4 @@ hide:
 
 --8<-- "snippets/thomas-glassey.md"
 
-![](../assets/thomas-glassey.jpg){ width="32%" }
+![Thomas Glassey](../assets/thomas-glassey.jpg){ width="32%" }

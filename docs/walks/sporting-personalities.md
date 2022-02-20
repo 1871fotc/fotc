@@ -14,7 +14,7 @@ Peter was an extremely capable rider. According to those who knew him he was as 
 
 <!-- He had an unusual death for a jockey and that will be explained now. -->
 
-![](../assets/peter-morgan.jpg){ width="70%" }
+![Jockeys Peter Morgan and Tom Spencer, 1941](../assets/peter-morgan.jpg){ width="70%" }
 
 *<small>[Two jockeys having a friendly chat, 1941](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220068470002061). Left to right, jockeys Peter Morgan and Tom Spencer pose for the camera. Tragically Peter Morgan drowned in Schultz Canal at Hendra/Toombul in approximately 1952. - State Library of Queensland </small>*
 
@@ -46,7 +46,7 @@ In 1912 Thorn came to Brisbane. He took part in many contests at the Brisbane St
 
 Thorn's career was remarkable by the fact that, although only a featherweight, besides fighting In his own class, he fought the leading light-weights and welters, earning the title of "The Grand Old Man of the Ring". Thorn had conducted a physical culture and boxing academy in Brisbane for some years, teaching personally.
 
-![](../assets/frank-thorn-headstone.jpg){ width="40%" }
+![Frank Thorne's headstone](../assets/frank-thorn-headstone.jpg){ width="40%" }
 
 <!-- Suicide https://trove.nla.gov.au/newspaper/article/54702384?searchTerm=%22Frank%20Thorne%22 -->
 
@@ -62,7 +62,7 @@ In 1872 Dowridge came to Australia. He secured premises in Queen Street, known a
 
 When Peter Jackson died a public subscription was the means of providing the stone which was placed at the head of the grave, but it was [Jack Dowridge who provided for the purchase](https://trove.nla.gov.au/newspaper/article/71056665) of the land at Toowong cemetery and to pay the funeral expenses.
 
-![](../assets/john-dowridge-headstone.jpg){ width="40%" }
+![John Dowridge's headstone](../assets/john-dowridge-headstone.jpg){ width="40%" }
 
 ## Brickwood Colley <small>(2‑51‑2)</small>
 
@@ -72,7 +72,7 @@ When Peter Jackson died a public subscription was the means of providing the sto
 
 His funeral procession travelled from the the Brisbane General Hospital into the city, down Queen Street and along Coronation Drive, then Sylvan Road, and finally to Toowong Cemetery. Every jockey in the Brisbane area attended in full silks and colours riding a race horse. There was also a large number of carriages. The procession stretched the entire length of Queen Street. 
 
-![](../assets/brickwood-colley.jpg){ width="70%" }
+![Funeral procession of the famous jockey, Brickwood Colley, in Brisbane, 1896](../assets/brickwood-colley.jpg){ width="70%" }
 
 *<small>[Funeral procession of the famous jockey, Brickwood Colley, in Brisbane, 1896](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218250330002061) - State Library of Queensland </small>*
 

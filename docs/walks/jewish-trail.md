@@ -6,7 +6,7 @@ hide:
 
 # The Jewish  
 
-![](../assets/brisbane-synagogue-1906.jpg){ width="70%" }
+![The Brisbane Synagogue, ca 1906](../assets/brisbane-synagogue-1906.jpg){ width="70%" }
 
 *<small>The Brisbane Synagogue, ca 1906, consecrated in 1886</small>*
  
@@ -21,7 +21,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
     Starting in Portion 3 from the Peter Jackson Parade end and closest to Frederick street, walk down the first row, looking left. About the 16th headstone from the start is the grave of...
     
-    ![](../assets/sam-burmister.jpg){ width="20%" }
+    ![Sam Burmister's headstone](../assets/sam-burmister.jpg){ width="20%" }
 
 
 ## Sam Burmister <small>(3‑25‑5)</small>
@@ -32,7 +32,7 @@ He was a world‑class heavy‑weight wrestler. As a youth he trained to be a si
 
     Moving along another 14 headstones you will come across the grave of...
     
-    ![](../assets/morris-moskowitch.jpg){ width="20%" }
+    ![Morris Moskowitch's headstone](../assets/morris-moskowitch.jpg){ width="20%" }
 
 
 ## Morris Moskowitch <!-- MARICE MOSKOWITZ (3‑20‑05)-->
@@ -43,7 +43,7 @@ Morris built, renovated or moved many homes in South Brisbane, in the first half
 
     Walking up another 6 headstones and still looking left you will come to the grave of...
 
-    ![](../assets/guinsberg-family.jpg){ width="20%" }
+    ![Guinsberg headstone](../assets/guinsberg-family.jpg){ width="20%" }
 
 ##The Guinsberg Family	<small>(3‑13A‑14/16)</small>
 
@@ -53,7 +53,7 @@ This type of massive monument is unusual for its size and is rarely utilised now
 
     Another 13 headstones along this same path is the grave of...
     
-    ![](../assets/w-j-friedlander.jpg){ width="20%" }
+    ![Wilfred John Friedlander's headstone](../assets/w-j-friedlander.jpg){ width="20%" }
  
 
 ## Wilfred John Friedlander (AIF) <small>(3‑9A‑17)</small>
@@ -64,7 +64,7 @@ This is an example of the bronze plaques erected by the War Graves Commission ov
 
     The grave next to this one is the grave of…
     
-    ![](../assets/isaac-hillel-hillman.jpg){ width="20%" }
+    ![Isaac Hillel Hillman's headstone](../assets/isaac-hillel-hillman.jpg){ width="20%" }
 
 
 ## Isaac Hillel Hillman <small>(3‑9A‑16)</small>
@@ -75,7 +75,7 @@ As a young man he came to Brisbane from his home in Latvia. He worked as a plumb
 
     Walking to the end of this path walk around to the start of second path. Looking right, go to the seventh headstone, and you will see the large headstone of...
     
-    ![](../assets/jonas-myer-myers.jpg){ width="20%" }
+    ![Jonas Myer Myers' headstones](../assets/jonas-myer-myers.jpg){ width="20%" }
 
 
 ## Rev. Jonas Myer Myers <small>(3‑4‑17)</small>
@@ -88,7 +88,7 @@ The good man was the Minister of the Brisbane Hebrew Congregation, serving here 
 
     Walk two graves along and you have reached the graves of...
     
-    ![](../assets/lawrence-lawrence-loewe.jpg){ width="20%" }
+    ![Lawrence, Lawrence and Loewe headstones](../assets/lawrence-lawrence-loewe.jpg){ width="20%" }
 
 ## Lawrence, Lawrence and Loewe <!-- (3‑ss‑gg)-->
 
@@ -102,7 +102,7 @@ There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Simi
 
     Moving along the same path and another 12 headstones ahead is the grave of...
     
-    ![](../assets/alan-taylor.jpg){ width="20%" }
+    ![Alan Taylor's headstone](../assets/alan-taylor.jpg){ width="20%" }
 
 
 ## Alan Taylor <small>(3‑13‑1A)</small>
@@ -113,7 +113,7 @@ He was climbing the face of Mt Tibrogargan with two other University climbers. T
 
     Proceed along the path for another 11 headstones and you will come to the grave of...
     
-    ![](../assets/trooper-lipstine.jpg){ width="20%" }
+    ![Trooper Lipstine's headstone](../assets/trooper-lipstine.jpg){ width="20%" }
 
 
 ## Trooper Lipstine <small>(3‑13‑9/10)</small>
@@ -124,7 +124,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
 
     Another 8 headstones along this path is the grave of...
     
-    ![](../assets/phyliss-mary-peixetto.jpg){ width="20%" }
+    ![Phyliss Mary Peixetto's headstone](../assets/phyliss-mary-peixetto.jpg){ width="20%" }
 
     
 ## Phyliss Mary Peixetto <!-- (3‑ss‑gg)-->
@@ -137,7 +137,7 @@ She was a descendant of a man by that name, who led the entire Jewish Community 
 
     Walking along another 8 headstones we come upon the grave of...
     
-    ![](../assets/henry-montague-bloom.jpg){ width="20%" }
+    ![Henry Montague Bloom's headstone](../assets/henry-montague-bloom.jpg){ width="20%" }
 
 
 ## Monty Bloom <small>(3‑24‑3)</small>
@@ -148,7 +148,7 @@ Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. H
 
     Now walk around to the start of the third path. Looking LEFT the 23^rd^ headstone from the start is that of…
     
-    ![](../assets/myer-kangan.jpg){ width="20%" }
+    ![Myer Kangan's headstone](../assets/myer-kangan.jpg){ width="20%" }
 
 
 ## Myer Kangan AO, MBE <small>(3‑18‑1A)</small>
@@ -159,7 +159,7 @@ He was decorated with the Order of Australia and made a member of the Order of t
 
     Behind Kangan's headstone is that of...
     
-    ![](../assets/louis-paul-fingereth.jpg){ width="20%" }
+    ![Louis Paul Fingereth's headstone](../assets/louis-paul-fingereth.jpg){ width="20%" }
     
 ## Louis Paul Fingereth, M.B.E. <small>(3‑18‑14)</small>
 
@@ -172,7 +172,7 @@ Note that not all the Cohanim (the plural) are named "Cohen". The Levites (male 
 
     Moving also this path 6 more headstones, we come to the grave of...
     
-    ![](../assets/lipman-abrahams.jpg){ width="20%" }
+    ![Lipman Abrahams' headstone](../assets/lipman-abrahams.jpg){ width="20%" }
 
 
 ## Lipman Abrahams <small>(3‑12‑9)</small>
@@ -183,7 +183,7 @@ This is a beautiful carved sandstone monument. The symbol of the book would sugg
 
     Next to this beautiful monument is the grave of...
     
-    ![](../assets/percy-benjamin.jpg){ width="20%" }
+    ![Percy Benjamin's headstone](../assets/percy-benjamin.jpg){ width="20%" }
 
 
 ## Percy Benjamin <small>(3‑12‑7/8)</small>
@@ -194,7 +194,7 @@ Percy Benjamin was a son of Sir Benjamin Benjamin and Lady Fanny Benjamin. Sir B
 
     Walk along a couple of more headstones and you will see the striking sculpted red granite monument of **Flegeltaub**. Moving along another 4 headstones and still looking right you will see the headstone of...
     
-    ![](../assets/behr-raphael-lewin.jpg){ width="20%" }
+    ![Behr Raphael Lewin's headstone](../assets/behr-raphael-lewin.jpg){ width="20%" }
 
 
 ## Behr Raphael Lewin <small>(3‑8‑10/11)</small>
@@ -217,7 +217,7 @@ On this monument is a passage from Proverbs XXXI. It is a fine tribute to a good
 
     Several of the next graves on both sides of the path form the centre of the oldest part of this Jewish Cemetery. Most of these monuments were cut in sandstone, quarried near Helidon. Another 3 headstones along is the headstone of...
     
-    ![](../assets/caroline-benjamin.jpg){ width="20%" }
+    ![Cornelia Harris' headstone](../assets/caroline-benjamin.jpg){ width="20%" }
 
 
 ## Caroline Benjamin <!-- (3‑4‑20???)-->
@@ -238,14 +238,14 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
 ??? directions "Directions" 
 
     Walking along the same path another 3 headstones you will come to the grave of...
-    ![](../assets/arthur-hyam.jpg){ width="20%" }
+    ![Arthur Hyam's headstone](../assets/arthur-hyam.jpg){ width="20%" }
 -->
 
 ??? directions "Directions" 
 
     Now go to the end of this 3^rd^ path and round to the start of the 4^th^ path and look to the right and to the 7^th^ grave of...
     
-    ![](../assets/arthur-hyam.jpg){ width="20%" }
+    ![Arthur Hyam's headstone](../assets/arthur-hyam.jpg){ width="20%" }
 
 
 ## Arthur Hyam <!-- (3‑ss‑gg)-->
@@ -256,7 +256,7 @@ You will see some columns with the top broken off. This is a well‑known symbol
 
     As you walk along this path a few headstones up you will notice some more of the old sandstone monuments. Further along you will come upon the white marble monument of...
     
-    ![](../assets/l-m-boock.jpg){ width="20%" }
+    ![Louis Michael Boock's headstone](../assets/l-m-boock.jpg){ width="20%" }
 
 
 ## Louis Michael Boock <small>(3‑22‑4)</small>
@@ -271,7 +271,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
 
     The third grave after the SHEMOTH grave and in the rear row is that of…
     
-    ![](../assets/errol-meyers.jpg){ width="20%" }
+    ![Errol Solomon Meyers' headstone](../assets/errol-meyers.jpg){ width="20%" }
 
 ## Errol Solomon Meyers <small>(3‑22‑22)</small>
 
@@ -283,7 +283,7 @@ Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First 
 
     Walking along to the fifth monument and at the rear of it is the grave of...
     
-    ![](../assets/eric-margulies.jpg){ width="20%" }
+    ![Eric Mark Margulies' headstone](../assets/eric-margulies.jpg){ width="20%" }
 
 
 ## Dr Eric Mark Margulies <small>(3‑21‑8)</small>
@@ -294,7 +294,7 @@ Eric Mark Margulies was the only doctor in the western Queensland country town o
 
     Moving along another 10 monuments you will come to the headstones of...
     
-    ![](../assets/gerson-family.jpg){ width="20%" }
+    ![Gerson Family headstone](../assets/gerson-family.jpg){ width="20%" }
 
 
 ## The Gerson Family <small>(3‑16‑3/4)</small>
@@ -305,7 +305,7 @@ These three identical monuments are an example of the work of vandals. It can be
 
     Walking along another 12 monuments is the grave of...
     
-    ![](../assets/roy-mark-levy.jpg){ width="20%" }
+    ![Roy Mark Levy's headstone](../assets/roy-mark-levy.jpg){ width="20%" }
 
     
 ## Roy Mark Levy <small>(3‑10‑14A)</small>
@@ -316,7 +316,7 @@ He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/
 
     Walk along the path past 6 monuments, and you will be standing at the grave of...
     
-    ![](../assets/sali-mendelsohn.jpg){ width="20%" }
+    ![Bezalel Saul Mendelsohn's headstone](../assets/sali-mendelsohn.jpg){ width="20%" }
 
 
 ## "Sali" Mendelsohn <small>(3‑6‑7)</small>
@@ -333,7 +333,7 @@ Sali was Queensland's greatest bush balladeer and wrote many songs about the dro
 
     Moving along the path for another 10 monuments, you will come to the grave of...
     
-    ![](../assets/samuel-joseph-levy-headstone.jpg){ width="20%" }
+    ![Samuel Joseph Levy's headstone](../assets/samuel-joseph-levy-headstone.jpg){ width="20%" }
 
 
 ## Samuel Joseph Levy <small>(3‑8‑20/21)</small>
@@ -344,11 +344,11 @@ When a person dies at a relatively young age, it is sometimes symbolised by a "b
 
     Walking along a couple of graves, we come across some more handsome sandstone monuments bearing the surname of **Phillips**.
 
-    ![](../assets/phillips-headstones.jpg){ width="20%" }
+    ![Phillips' headstone](../assets/phillips-headstones.jpg){ width="20%" }
 
     Go to the end of the path and onto the road. The first monument is that of...
     
-    ![](../assets/joseph-hearsch-headstone.jpg){ width="20%" }
+    ![Joseph Hearsch's headstone](../assets/joseph-hearsch-headstone.jpg){ width="20%" }
 
     
 ## Joseph Hearsch <small>(3‑1A‑1/2)</small>

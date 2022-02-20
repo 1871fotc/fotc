@@ -13,7 +13,7 @@ On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the 
 This heritage walk was conceived as part of commemorative activities. It features only a small number of those former Toowong residents and associates who contributed in some way to Toowong’s social history. 
 
 <!--
-[![](../assets/toowong-identities-2-map.png){ width="40%" }](../assets/toowong-identities-2-map@2x.png)
+[![map](../assets/toowong-identities-2-map.png){ width="40%" }](../assets/toowong-identities-2-map@2x.png)
 -->
 
 ???+ directions "Directions"
@@ -74,7 +74,7 @@ The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 191
 
 A Scottish merchant, William died at his home *Arley*, Toowong, aged 66 in 1895. William purchased *Arley*, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the *Quetta* shipwreck in 1890.
 
-![](../assets/arley-toowong-ca1882.jpg){ width="70%" }
+![Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](../assets/arley-toowong-ca1882.jpg){ width="70%" }
 
 *<small>[Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220551310002061) - State Library of Queensland </small>*
 
@@ -96,7 +96,7 @@ Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 18
 
 Described by contemporary J. B. Fewings as *“the father of Toowong”*, Richard bought large blocks of land bordering Toowong Creek in 1861. He ascertained from the local Aborigines that Toowong was a suitable name for the area and posted the first sign as such. He and his wife Anne were founding members of the Anglican Church. In 1866, he donated part of his land in Curlew Street to build the first St Thomas Anglican Church.
 
-![](../assets/burns-road-toowong-ca1910.jpg){ width="50%" }
+![View of Burns Road, Toowong, Brisbane at the intersection of High Street](../assets/burns-road-toowong-ca1910.jpg){ width="50%" }
 
 *<small>[View of Burns Road, Toowong, Brisbane at the intersection of High Street](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116110002061) ca 1910. The second St. Thomas' Anglican Church is in the background. It replaced an 1865 timber building on another site. - State Library of Queensland </small>*
 
@@ -104,7 +104,7 @@ Described by contemporary J. B. Fewings as *“the father of Toowong”*, Richar
 
 Hercules was the second principal of the Toowong State School, a position he held for 27 years from January 1882 until retirement in March 1909.
 
-![](../assets/anne-and-hercules-smith.jpg){ width="40%" }
+![Anne and Hercules Smith](../assets/anne-and-hercules-smith.jpg){ width="40%" }
 
 *<small>[Anne and Hercules Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218860780002061) - State Library of Queensland </small>*
 
@@ -142,7 +142,7 @@ Robert was the Member of the Legislative Council for Bowen. When he retired, he 
 
 Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
-![](../assets/toowong-centenary-1903-2003.png){ width="15%" }
+![Toowong Centenary logo](../assets/toowong-centenary-1903-2003.png){ width="15%" }
 
 ## Sources and Further Reading
 

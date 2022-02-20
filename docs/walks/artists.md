@@ -18,7 +18,7 @@ hide:
 
 --8<-- "snippets/le-fevre-james-cranstone.md"
 
-![](../assets/le-fevre-james-cranstone.jpg){ width="30%" }  
+![Le Fevre James Cranstone](../assets/le-fevre-james-cranstone.jpg){ width="30%" }  
 
 <!--
 
@@ -26,7 +26,7 @@ hide:
 
     - walking directions
     
-    ![image of headstone](isaac-walter-jenner.jpg)
+    ![Isaac Walter Jenner's headstone](isaac-walter-jenner.jpg)
 
 -->
 
@@ -38,8 +38,7 @@ hide:
 
     - walking directions
     
-    ![image of headstone](richard-godfrey-rivers.jpg)    
-
+    ![Richard Godfrey Rivers headstone ](richard-godfrey-rivers.jpg)    
 -->
 
 --8<-- "snippets/richard-godfrey-rivers.md"
@@ -50,7 +49,7 @@ hide:
 
     - walking directions
     
-    ![image of headstone](eliza-and-edwin-sheldon.jpg)   
+    ![Sheldon headstone](eliza-and-edwin-sheldon.jpg)   
 
 -->
 

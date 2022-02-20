@@ -18,7 +18,7 @@ Anne married Patrick Devoy and with the union came the “curse of the Devoys”
 
 The Devoys arrived in Queensland in 1864 on the *Landsborough* after selling their land in Ireland to the Ursuline nuns. They brought a young family with them; John (later Managing Director of Castlemaine Perkins), Marguerite and Annie. In the tradition of the curse [Pat was killed the same year by a landslide](https://trove.nla.gov.au/newspaper/article/123149288?searchTerm=Patrick%20Devoy) while selecting land near Toowoomba.
 
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
+![Devoy residence in Ashgrove, Brisbane, ca. 1908](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
 
 *<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
 
@@ -35,7 +35,7 @@ Born in Tyrone, the son of Joseph and Ann (1803‑1883), Darragh arrived in Sydn
 
 Darragh’s brothers were also businessmen in Brisbane. James (1831‑1905) was a publican of the Logan Hotel, Main St, Kangaroo Point and the Sportsman’s Arms in Queen St, while Hugh (1839—1916) was also a butcher.
 
-![](../assets/sportsmans-arms-hotel.jpg){ width="70%" }  
+![Sportsman's Arms Hotel, Brisbane, ca. 1874](../assets/sportsmans-arms-hotel.jpg){ width="70%" }  
 
 *<small>[Sportsman's Arms Hotel, Brisbane, ca. 1874](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21257614520002061) — State Library of Queensland.</small>*
 
@@ -52,11 +52,11 @@ Born at Clonmel, Tipperary the son of Edward Power and Mary Ann Grene, Power was
 He arrived in Queensland 1869 at the request of his old friends Perkins and Gooley to manage Browns Brewery (Perkins & Co.) and married Perkins’s sister Mary Therese and settled in Brisbane 1873. William was a Member of the Legislative Council from 1883 until his death. He died at Nundah 14 August 1903 and was buried the next day at Toowong by Rev Fr. Byrne.
 
 
-![](../assets/city-brewery.jpg){ width="70%" }  
+![City Brewery, owned by Perkins & Co., Brisbane, 1872-1882](../assets/city-brewery.jpg){ width="70%" }  
 
 *<small>[City Brewery, owned by Perkins & Co., Brisbane, 1872-1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220040770002061) — State Library of Queensland.</small>*
 
-![](../assets/castlemaine-perkins-brewery.jpg){ width="70%" }  
+![View of the Castlemaine Perkins Brewery in Milton, ca. 1929](../assets/castlemaine-perkins-brewery.jpg){ width="70%" }  
 
 *<small>[View of the Castlemaine Perkins Brewery in Milton, ca. 1929](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338590002061). The brewery, located in Milton Road, was established in 1878 by Fitzgerald, Quinlan and Co. and called the Castlemaine Brewery. The brewery merged with Perkins and Company in 1928. — State Library of Queensland.</small>*
 
@@ -71,7 +71,7 @@ He arrived in Queensland 1869 at the request of his old friends Perkins and Gool
 
 Mooney was born in New York, the son of Joseph and Rosa Mooney, natives of Co. Cavan. They arrived in Sydney 1857 on the *FitzJames*. Mooney was a volunteer fireman who was fatally burned by an exploding cask of spirits during a fire at Hughes’ grocery store in Queen St. His mother was publican of the Royal Exchange Hotel in Albert Street from where his funeral procession left. His monument was financed by public subscription. His father’s sister was Mary, wife of James Mayne, hide merchant in Tyrone and brother of Patrick Mayne.
 
-![](../assets/royal-exchange-hotel-albert-st.jpg){ width="40%" }  
+![Royal Exchange Hotel and Perry House on Elizabeth Street looking north, ca. 1924](../assets/royal-exchange-hotel-albert-st.jpg){ width="40%" }  
 
 *<small>[Royal Exchange Hotel and Perry House on Elizabeth Street looking north, ca. 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271909090002061) — State Library of Queensland.</small>*
 
@@ -84,7 +84,7 @@ The large white monument to this family and the story of how Mayne gained his we
 
 Mayne gained his wealth by the reputed murder of a cedar cutter and established his butcher business in Queen St where the present Brisbane Arcade stands. He was an Alderman of the Brisbane City Council 1853 to 1865, the year he died of a heart attack. His rumoured death‑bed confession extracted a promise from his children that they would not continue the family line. The family’s finances eventually benefited many public institutions especially The University of Queensland.
 
-![](../assets/mayne-monument.jpg){ width="40%" }  
+![Mayne Monument](../assets/mayne-monument.jpg){ width="40%" }  
 
 ??? directions "Directions" 
 
@@ -98,7 +98,7 @@ Ahern was born at Donickmore, Cork son of Denis Ahern and Honoria O’Mahoney. H
 
 Ahern was promoted to Senior Sergeant in January 1874 and Sub‑Inspector 2^nd^ class in 1877. He served at Blackall in 1880 where he became Sub‑Inspector 1^st^ class. Ahern married in 1883 Mary, sister of Andrew Joseph Thynne from Clare. By 1890, he had been promoted to Inspector 1^st^ class in charge of all brands throughout the colony. Ahern was a most respected and energetic policeman.
 
-![](../assets/john-ahern-headstone.jpg){ width="40%" }  
+![John Ahern's headstone](../assets/john-ahern-headstone.jpg){ width="40%" }  
 
 
 ??? directions "Directions" 
@@ -151,7 +151,7 @@ Ryan was second master at Rockhampton Grammar 1901—1903 and was admitted to th
 
 He suffered from ill health and a bout of influenza caught in England in 1919 later resulted in his death from pneumonia in 1921 at Barcaldine. Archbishops Duhig (Brisbane) and Mannix (Melbourne) both presided over his state funeral from St Stephen’s Cathedral. Ryan was survived by his wife Lily Virginia Cook and a son and daughter. A memorial bronze statue stands in Queens Park on the corner of William and Elizabeth Streets.
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d5/StateLibQld_2_213392_Unveiling_a_statue_of_Thomas_Joseph_Ryan_at_Queen%27s_Park%2C_Brisbane%2C_1925.jpg){ width="70%" }  
+![Unveiling a statue of Thomas Joseph Ryan at Queen's Park, Brisbane, 1925](https://upload.wikimedia.org/wikipedia/commons/d/d5/StateLibQld_2_213392_Unveiling_a_statue_of_Thomas_Joseph_Ryan_at_Queen%27s_Park%2C_Brisbane%2C_1925.jpg){ width="70%" }  
 
 *<small>[Unveiling a statue of Thomas Joseph Ryan at Queen's Park, Brisbane, 1925](https://commons.wikimedia.org/wiki/File:StateLibQld_2_213392_Unveiling_a_statue_of_Thomas_Joseph_Ryan_at_Queen%27s_Park,_Brisbane,_1925.jpg) — Contributor(s): Sydney Mail, Public domain, via Wikimedia Commons</small>*
 
@@ -178,7 +178,7 @@ He moved to Queensland in 1860 and was appointed Inspector of National Schools a
 Born in Co. Cavan, Gaffney was the publican of the Dunmore Arms on the corner of George and Elizabeth Streets. He married Margaret Malynn in Brisbane in 1872 and together they had three children. Peter died of heart failure while bathing at Sandgate in 1879. His wife remained as publican until the licence expired in 1887.
 
 
-![](../assets/dunmore-arms-hotel.jpg){ width="70%" }  
+![Dunmore Arms Hotel, George Street, now the Treasury Hotel](../assets/dunmore-arms-hotel.jpg){ width="70%" }  
 
 *<small>[Jaffrey, P. (1886) Dunmore Arms Hotel, George Street (now Treasury Hotel)](https://digitalcollections.qut.edu.au/3850/) — Jaffrey, P. (1886), Public Domain</small>*
 
@@ -197,7 +197,7 @@ He married Alicia Swords from the *Erin Go Bragh*, and settled on the Logan Rive
 
 By his death in 1919, he had nineteen ships, although he had retired in 1915 staying only as the Director. Captain Burke Park at Kangaroo Point is named in honour of him. His company was sold by his grandson in 1968.
 
-![](../assets/adonis-ship.jpg){ width="70%" }  
+![Adonis (ship)](../assets/adonis-ship.jpg){ width="70%" }  
 
 *<small>The [Adonis (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21250468940002061) was built in 1883 and was owned by Dath Henderson, Brisbane, who also owned a sawmill on the Noosa River at Tewantin. The Adonis was later sold to John Burke in Brisbane, Queensland. — State Library of Queensland.</small>*
  
@@ -207,7 +207,7 @@ By his death in 1919, he had nineteen ships, although he had retired in 1915 sta
 
 Born in Tyrone, McDermott arrived in Brisbane in 1864 on the *Earl Russell* with his wife Martha. He was the publican of one of the Valley’s most successful pubs, the Empire Hotel on the corner of Brunswick and Ann Streets. Originally a two‑story wooden building in the 1870s it was rebuilt into three storys in the 1890s. McDermott died independently wealthy in 1908 and was interred by the Reverend Father John O’Leary.
 
-![](../assets/empire-hotel.jpg){ width="70%" }  
+![Empire Hotel, Fortitude Valley, Brisbane, ca. 1934](../assets/empire-hotel.jpg){ width="70%" }  
 
 *<small>[Empire Hotel, Fortitude Valley, Brisbane, ca. 1934](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219343710002061) — State Library of Queensland.</small>*
 
@@ -254,7 +254,7 @@ McDonnell arrived in Brisbane in 1886 and married Mary Heffernan in 1890. He wor
 In 1888 McDonnell organised the Shop Assistants Early Closing Association with his former colleague T. C. Beirne. He represented Labor for Fortitude Valley in 1896 and introduced the Early Closing Bill which was successful in 1910. He was a member of the Labor Party executive 1898—1903 and Treasurer 1901—1903. He was appointed to the Legislative Council 1907—1922 and promoted Home Rule for Ireland. In 1910 he founded and was Director of the *Hibernian* newspaper. He was the first Trustee of Trades Hall and original member of The University of Queensland Senate 1910.
 
 
-![](../assets/mcdonnell-and-east.jpg){ width="70%" }  
+![Aerial view of George Street, Brisbane, 1923](../assets/mcdonnell-and-east.jpg){ width="70%" }  
 
 *<small>[Aerial view of George Street, Brisbane, 1923](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool92468), Victoria Bridge can be seen crossing the Brisbane River on the right, and McDonnell and East Ltd. is prominent towards the bottom right of George Street — State Library of Queensland.</small>*
 
@@ -273,7 +273,7 @@ The family left Ireland for London and boarded the *RMS Dacca* heading for Queen
 
 Michael and the rest of the family settled in Warwick and he practiced tailoring in partnership with his father in Fitzroy Street. He married Catherine Stokes in Warwick 1 June 1891. She was born in Moycarkey in Tipperary. He died in Brisbane on 26 December 1917 and was buried the next day. They had four children two of whom died very young. His son Francis Patrick Devitt (Sonny) joined the Australian Army and died 5 August 1915 six months before his 21^st^ birthday and is buried in France. Devitt St beside Warwick racecourse is named for the Devitt family.
 
-![](../assets/devitt-family-warwick-1906.jpg){ width="70%" }  
+![Devitt family home in Warwick, Queensland, 1906](../assets/devitt-family-warwick-1906.jpg){ width="70%" }  
 
 *<small>[Devitt family home in Warwick, Queensland, 1906](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218531370002061), Ann Ruth Devitt with son Matthew Francis and James Devitt with son Kevin. Young James John Devitt is seated on the edge of the verandah. — State Library of Queensland.</small>*
 
@@ -283,7 +283,7 @@ Their son Francis Pitt Devitt served in WWII and was one of the brave Aussies wh
 
 John Devitt of Olympic fame and William Devitt who was John Wren’s right hand man in Queensland are both descended from Thomas and Bridget. 
 
-![](../assets/john-devitt-1960-Olympics.jpg){ width="40%" }  
+![John Devitt at the 1960 Olympics](../assets/john-devitt-1960-Olympics.jpg){ width="40%" }  
 
 *<small>[John Devitt at the 1960 Olympics](https://en.wikipedia.org/wiki/John_Devitt) — [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)</small>*
 

@@ -8,7 +8,7 @@ hide:
 
 <!-- 
 
-![](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
+![Devoy residence in Ashgrove, Brisbane, ca. 1908](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
 
 *<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
 
@@ -81,7 +81,7 @@ William Sowray was born in Staveley, in Derbyshire in England on 22 February 185
 
 On 1 December 1912 William was walking along Elizabeth Street, Paddington when he collapsed and died in the street. A monument over his grave erected by his fire brigade and railway comrades and friends was publicly unveiled by Hon. A. G. C. Hawthorn, M.L.C. on Sunday, April 12, 1914.
 
-![](../assets/william-henry-sowray-headstone.jpg)
+![William Henry Sowray's headstone](../assets/william-henry-sowray-headstone.jpg)
 
 
 ## Peter Jackson <small>(5‑28‑1)</small>
@@ -92,7 +92,7 @@ Arriving in Sydney about 1880, he worked on the waterfront and in hotels before 
 
 He died of tuberculosis at Roma in Queensland on 13 July 1901. £130 was raised by public subscription for a memorial over his grave. The unveiling ceremony performed by the Hon E B Forrest, MLA for North Brisbane took place on 12 May 1903 in the presence of most of those in the athletic and sporting world of southeast Queensland.
 
-![](../assets/peter-jackson.jpg){ width="26%" }  ![](../assets/peter-jackson-headstone.jpg){ width="66.3%" }
+![Boxer Peter Jackson who came to live in Queensland from the West Indies, ca. 1880s](../assets/peter-jackson.jpg){ width="26%" }  ![Peter Jackson's memorial](../assets/peter-jackson-headstone.jpg){ width="66.3%" }
 
 *<small>[Boxer Peter Jackson who came to live in Queensland from the West Indies, ca. 1880s](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool116252) - State Library of Queensland </small>*
 
@@ -112,7 +112,7 @@ Edward Pollock was born in Ireland on 12 June 1851. He was Fleet Paymaster and S
 
 The funeral was marked by the naval honours due to Fleet Paymaster Pollock's rank. A monument over his grave erected by the members of the United Services Institute was officially unveiled on Sunday 19 May 1912 in front of a large gathering of officers and men of both services as well as civilians.
 
-![](../assets/anchor.jpg){ width="40%" }
+![Edward Vincent Pollock's headstone](../assets/anchor.jpg){ width="40%" }
 
 
 ## Acknowledgements

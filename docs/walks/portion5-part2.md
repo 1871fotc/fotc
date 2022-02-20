@@ -21,7 +21,7 @@ Introduction
 
 Daniel Bloomfield (1858-1915) was, for many years, a well known bandmaster and popular cornet soloist in Brisbane. His in career in music began at the age of ten as a drummer in the Royal Marines in England. He settled in Brisbane in 1883 and soon became deeply involved in the local music scene as a performer and conducting various local bands, including the Naval Brigade Band, for many years. 
 
-![](../assets/david-bloomfield.jpg){ width="40%" }  
+![Daniel George Bloomfield](../assets/david-bloomfield.jpg){ width="40%" }  
 
 *<small>[D. G. Bloomfield](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218822040002061) — State Library of Queensland.</small>*
 
@@ -41,7 +41,7 @@ The Hon. H.H. Henchman (1874-1939), barrister and Judge, was the third son of Wi
 
 George Rogers Harding (1868-1940), grazier and Walter Charles Harding (1870-1939), solicitor, were the sons of the Hon. George Rogers Harding, a senior Puisne Judge of the Queensland Supreme Court in the 19^th^ century. George's son, also named George Rogers Harding (1905-1937) and his brother, Christopher Winter Harding (1913-1982) were the founders of Harding Brothers, a wholesale merchandising business at Toowong.
 
-![](../assets/justice-george-rogers-harding.jpg){ width="40%" } <!-- ![](../assets/harding-store.jpg){ width="52.6%" } -->
+![Justice George Rogers Harding, 1879](../assets/justice-george-rogers-harding.jpg){ width="40%" } <!-- ![People outside the residence and store of T. Harding at Toowong](../assets/harding-store.jpg){ width="52.6%" } -->
 
 *<small>[Justice George Rogers Harding, 1879](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218166050002061) — State Library of Queensland.</small>* <!-- <br>
 *<small>[People outside the residence and store of T. Harding at Toowong](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21289902580002061) — State Library of Queensland.</small>* -->
@@ -64,7 +64,7 @@ John Henry Flower (1852- 1918) was a senior partner in the long established law 
 
 John Arthur Macartney (1834-1917) was the eldest son of the Very Rev Hussey Burgh Macartney, the First Dean of Melbourne and his wife Jane (née Hardman). He studied law but resigned after 18 months to take up his first station property in Victoria. Over time he owned 25 stations and other properties in Qld and NT. He died at his home, [Ormiston House](https://ormistonhouse.org.au/the-house/) near Cleveland.
 
-![](../assets/ormiston-house.jpg){ width="70%" }  
+![Captain Louis Hope's residence, Ormiston House, Cleveland district, ca.1871](../assets/ormiston-house.jpg){ width="70%" }  
 
 *<small>[Captain Louis Hope's residence, Ormiston House, Cleveland district, ca.1871](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249909850002061) — State Library of Queensland.</small>*
 
@@ -72,13 +72,13 @@ John Arthur Macartney (1834-1917) was the eldest son of the Very Rev Hussey Burg
 
 Irish-born Edward Vincent Pollock (1851-1911) was attached to the Admiralty branch of the British Civil Service. Later he and his wife Elizabeth migrated to Queensland arriving in Mackay in 1884. In 1889 he became Staff Paymaster-in-Charge and Secretary to Senior Naval Officer, Queensland Naval Defence Force and Fleet Paymaster and Secretary to the Naval Commandant of the Commonwealth Naval Force on 2 February 1904.
 
-![](../assets/anchor.jpg) 
+![Edward Vincent Pollock's headstone](../assets/anchor.jpg) 
 
 ## Richard William Curtis <small>(5‑61‑22)</small>
 
 Englishman Richard William Curtis (1840-1905) is one of six proven veterans of the American Civil War buried in Toowong Cemetery. He joined the Confederate States Navy and is recorded as being Assistant Paymaster on the CSS *Georgia* in 1863 and later Paymaster on CSS *Stonewall*. After the conclusion of the Civil War he came to Brisbane where he worked for the Government and in private enterprise.
 
-![](../assets/richard-william-curtis-headstone.jpg) 
+![Richard William Curtis' headstone](../assets/richard-william-curtis-headstone.jpg) 
 
 
 ## Richard Langler Drew <small>(5‑43‑2)</small>

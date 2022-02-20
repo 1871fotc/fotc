@@ -10,5 +10,6 @@ hide:
 
 --8<-- "snippets/william-forgan-smith.md"
 
-![](../assets/william-forgan-smith.jpg){ width="32%" }
+![William Forgan Smith](../assets/william-forgan-smith.jpg){ width="32%" }
  
+<!-- needs attribution -->

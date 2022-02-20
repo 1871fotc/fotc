@@ -10,4 +10,4 @@ hide:
 
 --8<-- "snippets/john-hoolan.md"
 
-![](../assets/john-hoolan.jpg){ width="32%" }
+![John Hoolan](../assets/john-hoolan.jpg){ width="32%" }

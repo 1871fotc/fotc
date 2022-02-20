@@ -11,4 +11,4 @@ description: Mother of the Australian Labor Party
 
 --8<-- "snippets/emma-miller.md"
 
-![](../assets/emma-miller.jpg){ width="32%" }
+![Emma Miller](../assets/emma-miller.jpg){ width="32%" }

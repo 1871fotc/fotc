@@ -14,5 +14,5 @@ search:
 --8<-- "snippets/arthur-hoey-davis.md"
 
 <!--
-![](../assets/arthur-hoey-davis.jpg){ width="32%" }
+![Arthur Hoey Davis](../assets/arthur-hoey-davis.jpg){ width="32%" }
 -->

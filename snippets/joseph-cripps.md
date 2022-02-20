@@ -4,6 +4,6 @@ Cannon and Cripps was formed in 1887 by Alfred Cannon and his brother-in-law Jos
 
 Alfred Cannon died on 11 September 1915 aged 71 at his home Airlie, Edmondstone, South Brisbane. He shared the same political affiliations and lodge memberships as his brother-in- law. Alfred had married Joseph’s sister Sarah Cripps on Christmas Eve 1862 in Waddeson, the same village they had both been born and the couple joined Joseph on his voyage to Queensland.
 
-![](../assets/cannon-and-cripps-flyer.jpg){ width="35%" } 
+![Flyer for Cannon and Cripps, Undertakers in Brisbane, Queensland, 1902](../assets/cannon-and-cripps-flyer.jpg){ width="35%" } 
 
 *<small>[Flyer for Cannon and Cripps, Undertakers in Brisbane, Queensland, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218761440002061) - State Library of Queensland. </small>*

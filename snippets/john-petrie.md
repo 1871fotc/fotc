@@ -6,7 +6,7 @@ On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Du
 
 
 
-![](../assets/andrew-and-john-petrie.jpg){ width="35.5%" }  ![](../assets/first-brisbane-city-council.jpg){ width="40%" } 
+![Andrew and John Petrie](../assets/andrew-and-john-petrie.jpg){ width="35.5%" }  ![The First Mayor and Aldermen of the Brisbane City Council - 1859](../assets/first-brisbane-city-council.jpg){ width="40%" } 
 
 *<small>[Andrew and John Petrie](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220096510002061) — State Library of Queensland.</small>* <br>
 *<small>[The First Mayor and Aldermen of the Brisbane City Council - 1859](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/detailnonmodal/ent:$002f$002fSD_ASSET$002f0$002fSD_ASSET:8308/one?qu=The+First+Mayor+and+Aldermen+of+the+Brisbane+City+Council+-+1859&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*

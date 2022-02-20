@@ -1,6 +1,6 @@
 ## John Donaldson MLA <small>(12‑47‑13)</small>
 
-![](../assets/john-donaldson.jpg){ width="40%" } 
+![John Donaldson](../assets/john-donaldson.jpg){ width="40%" } 
 
 *<small>John Donaldson 1841-1896</small>*
 

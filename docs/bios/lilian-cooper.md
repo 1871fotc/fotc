@@ -12,7 +12,7 @@ description: A smoking, swearing, lesbian surgeon that went to war
 --8<-- "snippets/lilian-cooper.md"
 
 
-![image of headstone](../assets/lilian-cooper.jpg){ width="25%" } ![image of headstone](../assets/lilian-cooper-plaque.jpg){ width="59.2%" }
+![Dr Lilian Voilet Cooper's headstone](../assets/lilian-cooper.jpg){ width="25%" } ![Dr Lilian Voilet Cooper plaque](../assets/lilian-cooper-plaque.jpg){ width="59.2%" }
 
 
 
@@ -23,7 +23,7 @@ Listen to a State Library of Queensland Podcast about Dr. Lilian Cooper and Jose
 <iframe width="70%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/894179215&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-421634801" title="State Library of Queensland" target="_blank" style="color: #cccccc; text-decoration: none;">State Library of Queensland</a> · <a href="https://soundcloud.com/user-421634801/dangerouswomen-liliancooper-episode3" title="Episode 3: Dr Lilian Cooper" target="_blank" style="color: #cccccc; text-decoration: none;">Episode 3: Dr Lilian Cooper</a></div>
 
 
-![](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="70%" }  
+![Dr Lilian Voilet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="70%" }  
 
 *<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper, the first registered female doctor in Queensland. Dr Cooper made house calls in a horse and sulky by day and a bicycle by night. Her surgery was in George Street, Brisbane. - State Library of Queensland </small>* 
 

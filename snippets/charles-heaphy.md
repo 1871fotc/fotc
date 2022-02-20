@@ -4,6 +4,6 @@ Heaphy, born ca1822 in London, was an artist and surveyor who explored New Zeala
 
 After his army career, he had a lengthy career as a civil servant, chiefly concerned with surveying and became a Member of Parliament. He retired from public life in 1881 and sailed with his wife to Brisbane. He died in Ann Street, Brisbane on 3 August 1881 of tuberculosis.
 
-![](../assets/charles-heaphy.jpg){ width="40%" }  
+![Charles Heaphy](../assets/charles-heaphy.jpg){ width="40%" }  
 
 *<small>Charles Heaphy. Ref: 1/2-003062-F. Alexander Turnbull Library, Wellington, New Zealand. [/records/22544487](https://natlib.govt.nz/records/22544487)</small>*

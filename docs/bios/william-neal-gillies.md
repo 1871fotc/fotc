@@ -11,5 +11,5 @@ hide:
 --8<-- "snippets/william-neal-gillies.md"
 
 <!--
-![](../assets/william-neal-gillies.jpg){ width="32%" }
+![William Neal Gillies](../assets/william-neal-gillies.jpg){ width="32%" }
 -->

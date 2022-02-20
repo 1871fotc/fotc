@@ -11,7 +11,7 @@ hide:
 --8<-- "snippets/elizabeth-dale.md"
 
 <!--
-![](../assets/elizabeth-dale.jpg){ width="32%" }
+![Elizabeth Dale](../assets/elizabeth-dale.jpg){ width="32%" }
 -->
 
 ### Further reading
