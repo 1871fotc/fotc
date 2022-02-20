@@ -77,7 +77,7 @@ Our data is published as:
 We plan to experiment publishing our data as [Linked Data](https://en.wikipedia.org/wiki/Linked_data) to enable semantic queries and visualisations. We are considering using the following specifications: 
 
 - [Bio vocabulary](https://vocab.org/bio/) [:fontawesome-brands-github:](https://github.com/iand/vocab-bio)
-- [Graves ontology](https://rdf.muninn-project.org/ontologies/graves.html)  [:fontawesome-brands-github:](https://github.com/muninn/graves) 
+- [Graves ontology](https://rdf.muninn-project.org/ontologies/graves-en.html)  [:fontawesome-brands-github:](https://github.com/muninn/graves) 
 
 
 <!--
