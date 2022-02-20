@@ -116,7 +116,7 @@ Compiled and presented by Darcy and Lyn Maddock
 - [HMS Impregnable](https://www.battleships-cruisers.co.uk/hms_impregnable.htm) - Battleships-Cruisers.co.uk
 - [de Vis, Charles Walter (1829–1915)](https://adb.anu.edu.au/biography/de-vis-charles-walter-3406) - Australian Dictionary of Biography
 - [www.actonhistory.co.uk](http://www.actonhistory.co.uk) 
-- [Index of /pdf/](https://www.railwayfirstaidvolunteers.org.au/pdf) - Railway First Aid Volunteers 
+- [Index of /pdf/](https://www.railwayfirstaidvolunteers.org.au/pdf/) - Railway First Aid Volunteers 
 - [Frank Pearson](https://en.wikipedia.org/wiki/Frank_Pearson) - Wikipedia
 - [Captain Starlight](http://bushrangersau.blogspot.com.au/2011/02/captain-starlight.html) - Bushrangers
 - [Museum](https://www.police.qld.gov.au/museum) - Queensland Police Service
