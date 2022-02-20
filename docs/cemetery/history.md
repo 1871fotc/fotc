@@ -46,8 +46,8 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 [![Map and aerial photo of Toowong Cemetery][map-photo]{ width="96%" }][aerial-photo]  
 
-[map-photo]: ../assets/Toowong-cemetery-map-photo.jpg "Click to view full aerial photo (1.9MB)"
-[aerial-photo]: ../assets/toowong-cemetery-aerial-photo-1946.JPG
+[map-photo]: ../assets/Toowong-cemetery-map-photo.jpg "Click to view full aerial photo"
+[aerial-photo]: ../assets/toowong-cemetery-aerial-photo-1946.jpg
 
 
 
