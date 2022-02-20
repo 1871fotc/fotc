@@ -125,6 +125,6 @@ Compiled and presented by Darcy and Lyn Maddock
 
 ## Brochure
 
-**[Download this walk](../assets/guides/portion5-part2.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/portion15-and-16.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
