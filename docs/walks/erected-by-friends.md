@@ -43,11 +43,17 @@ After his death, a memorial tablet to William was unveiled in the BAFS dispensar
 
 ## Rev Dr George Edwards Rowe <small>(10‑48‑4)</small>
 
-George Edwards Rowe was born in Redruth, Cornwall on 26 August 1858. He trained for the ministry in the Wesleyan Theological College at Richmond in southwest London. He arrived in South Australia in 1881 where he won great popularity as a pastor and preacher and was an advocate for social and economic reform. He was appointed to the position of Superintendent of Wesley Church in Perth in the early 1890's, a position which carried with it chairmanship of the whole colony of W.A. 
+[George Edwards Rowe](https://vwma.org.au/explore/people/310401) was born in Redruth, Cornwall on 26 August 1858. He trained for the ministry in the Wesleyan Theological College at Richmond in southwest London. He arrived in South Australia in 1881 where he won great popularity as a pastor and preacher and was an advocate for social and economic reform. He was appointed to the position of Superintendent of Wesley Church in Perth in the early 1890's, a position which carried with it chairmanship of the whole colony of W.A. 
 
 In 1906 Rev George Rowe was transferred to Brisbane where he was instrumental in implementing social service programs and promoting the work of the Central Methodist Mission (now the Wesley Mission) based at the Albert Street Methodist Church. In Western Australia and in Queensland George Rowe was responsible for instituting the order of the Sisters of the People, to give help and relief to countless numbers of poor, starving and destitute people. 
 
 After Dr Rowe's sudden death on 27 October 1926, a marble tablet was erected by his family in the Albert Street Methodist (now Uniting) Church in his memory.
+
+
+![Funeral procession of Rev. G. E. Rowe, Brisbane, 1926](../assets/george-rowe-funeral-procession-1926.jpg){ width="70%" } 
+
+*<small>[Funeral procession of Rev. G. E. Rowe, Brisbane, 1926](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218456030002061) - State Library of Queensland </small>*
+
 
 ## Mary Elizabeth Briscoe (Sister Lily) <small>(10‑31‑25)</small>
 
@@ -115,16 +121,15 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- 'BDM Queensland Index Search', The State of Queensland (Department of Justice and Attorney General), 2014
-- Wesley Mission Brisbane C 2012 http://www.wmb.org.au
-- Smith, F.R. (circa 1983): The Church on the Square. Uniting Church Print Shop, Brisbane, pp.82-83.
-- Trove, Digitised Newspapers and More (2014) http://www.trove.nla.gov.au/
-- Your Brisbane: Past and Present http://www.yourbrisbanepastandpresent.com/2010/03/bafs-buildinggeorge-st.html *(broken)*
-- Brisbane City Council Cemetery Search  https://graves.brisbane.qld.gov.au
-- Richard Broome, 'Jackson, Peter (1861-1901)', Australian Dictionary of Biography, National Centre of Biography, Australian National - University, https://adb.anu.edu.au/biography/jackson-peter-6814
-- Don Wilkey, "Spragg, Alonzo Stephen (Lonnie) (1879-1904)', 
-- Australian Dictionary of Biography, National Centre of Biography, - Australian National University, https://adb.anu.edu.au/biography/spragg-alonzo-stephen-lonnie-8609
-- Red Hill Paddington Community Centre (Inc) and the Paddington History Group (1999) Padd Paddo Paddington
+- [Family history research service](https://www.familyhistory.bdm.qld.gov.au), The State of Queensland 
+- [Wesley Mission Brisbane](https://www.wmq.org.au) 
+- Smith, F.R., [The Church on the Square](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:23307/one), Uniting Church Print Shop, Brisbane, pp.82-83.
+- [Trove](https://www.trove.nla.gov.au/), Digitised Newspapers and More 
+- Your Brisbane: Past and Present, http://www.yourbrisbanepastandpresent.com/2010/03/bafs-buildinggeorge-st.html *(broken)*
+- [Brisbane City Council Cemetery Search](https://graves.brisbane.qld.gov.au)
+- Richard Broome, [Jackson, Peter (1861-1901)](https://adb.anu.edu.au/biography/jackson-peter-6814), Australian Dictionary of Biography, National Centre of Biography, Australian National - University, 
+- Don Wilkey, [Spragg, Alonzo Stephen (Lonnie) (1879-1904)](https://adb.anu.edu.au/biography/spragg-alonzo-stephen-lonnie-8609), Australian Dictionary of Biography, National Centre of Biography, Australian National University, 
+- [Padd Paddo Paddington: An Oral And Visual History Of Early Paddington: Living Memories From The Heart Of Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:130801/one), Red Hill Paddington Community Centre (Inc) and the Paddington History Group, 1999
 
 
 <div class="noprint" markdown="1">
