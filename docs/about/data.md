@@ -79,36 +79,6 @@ We plan to experiment publishing our data as [Linked Data](https://en.wikipedia.
 - [Bio vocabulary](https://vocab.org/bio/) [:fontawesome-brands-github:](https://github.com/iand/vocab-bio)
 - [Graves ontology](https://rdf.muninn-project.org/ontologies/graves.html)  [:fontawesome-brands-github:](https://github.com/muninn/graves) 
 
-<!-- hide link to v1 ontology 
-[:octicons-book-16:](graves-ontology.md)
--->
-
-<!-- and provide it:
-
-- as an RDF or JSON-LD data dump 
-- via a [GraphQL](https://graphql.org) API 
-
-## Data Schema
-
-For Comma Separated Value files, a schema is provided in a Tabular Data Package.
-
-For Linked Data we are considering using:
-
-- [Graves Ontology Specification](https://rdf.muninn-project.org/ontologies/graves.html) which includes Cemeteries / Archaeology dig sites, Graves, Tombstones, and Human Remains [:fontawesome-brands-github:](https://github.com/muninn/graves)
-- [Bio](https://vocab.org/bio/), a vocabulary for biographical information about people and related events, organisations and other people [:fontawesome-brands-github:](https://github.com/iand/vocab-bio)
-
-Data about graves could be linked to data about:
-
-- People - [FOAF Vocabulary Specification](http://xmlns.com/foaf/spec/)
-    - [Organisation](https://www.w3.org/TR/vocab-org/) 
-        - [Military Ontology](http://rdf.muninn-project.org/ontologies/military.html) ([Github](https://github.com/muninn/military))
-- [Bio](https://vocab.org/bio/) ([GitHub](https://github.com/iand/vocab-bio))
-- News - [rNews](http://dev.iptc.org/rNews) but [perhaps another standard is more appropriate](http://dev.iptc.org/rNews-and-other-standards)
-- [Geographic locations](https://www.w3.org/2003/01/geo/)
-- [Geographic names](http://www.geonames.org/ontology/documentation.html)
-
--->
-
 
 <!--
 Geographic locations should be described as latitude, longitude coordinates in the [WGS84 datum](https://www.spatial.nsw.gov.au/__data/assets/pdf_file/0008/224396/WGS84_and_Australias_misaligned_web-maps_Information_Sheet.pdf) to aid integration and presentation on the web. Alternatively all data should be supplied in a common Datum, ideally [GDA2020](https://www.icsm.gov.au/gda2020), or  the dated GDA94.
