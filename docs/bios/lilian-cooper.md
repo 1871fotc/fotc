@@ -12,7 +12,7 @@ description: A smoking, swearing, lesbian surgeon that went to war
 --8<-- "snippets/lilian-cooper.md"
 
 
-![Dr Lilian Voilet Cooper's headstone](../assets/lilian-cooper.jpg){ width="25%" } ![Dr Lilian Voilet Cooper plaque](../assets/lilian-cooper-plaque.jpg){ width="59.2%" }
+![Dr Lilian Voilet Cooper's headstone](../assets/lilian-cooper.jpg){ width="25%" } ![Dr Lilian Voilet Cooper plaque](../assets/lilian-cooper-plaque.jpg){ width="59.25%" }
 
 
 
