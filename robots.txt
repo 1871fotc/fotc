@@ -4,3 +4,4 @@ Disallow: /source-documents/*
 Disallow: /source-images/*
 Disallow: /snippets/*
 Disallow: /assets/calendar/*
+Disallow: /overrides/*
