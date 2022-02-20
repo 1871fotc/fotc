@@ -50,7 +50,7 @@ Wilson continued his military service through Jordan and Egypt and notably manag
 
 Wilson died at his New Farm home on 7 April 1947, survived by his wife, son and daughter.
 
-A. J. Hill, '[Wilson, Lachlan Chisholm (1871‑1947)](http://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131, published first in hardcopy 1990
+A. J. Hill, '[Wilson, Lachlan Chisholm (1871‑1947)](https://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131, published first in hardcopy 1990
 
 ??? directions "Directions" 
 
@@ -117,7 +117,7 @@ Upon his resignation, Gillies accepted a position in the Industrial Court which 
 
 For those travelling between Cairns and Atherton, you may find yourself travelling the Gillies Highway, named after William Gillies, noted for its 263 corners and 800 metre elevation. 
 
-D. J. Murphy, '[Gillies, William Neil (1868‑1928)](http://adb.anu.edu.au/biography/gillies-william-neil-6388/text10917)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/gillies-william-neil-6388/text10917, published first in hardcopy 1983
+D. J. Murphy, '[Gillies, William Neil (1868‑1928)](https://adb.anu.edu.au/biography/gillies-william-neil-6388/text10917)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/gillies-william-neil-6388/text10917, published first in hardcopy 1983
 
 ??? directions "Directions" 
 
@@ -132,7 +132,7 @@ In 1911, William moved to Mackay in Queensland under medical advice that a warme
 
 After his time as Premier he took over the chairmanship of the Central Sugar Cane Prices Board, and later also chairmanship of the Sugar Board. Despite strained relations with the University of Queensland over funding and development, he was also granted an honorary Doctorate of Laws in 1935 and later appointed Chancellor in 1944, a position he retained until his death in 1953. The main arts building at the St Lucia campus is named in his honour. 
  
-B. J. Costar, '[Smith, William Forgan (Bill) (1887‑1953)](http://adb.anu.edu.au/biography/smith-william-forgan-bill-8489/text14933)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/smith-william-forgan-bill-8489/text14933, published first in hardcopy 1988
+B. J. Costar, '[Smith, William Forgan (Bill) (1887‑1953)](https://adb.anu.edu.au/biography/smith-william-forgan-bill-8489/text14933)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/smith-william-forgan-bill-8489/text14933, published first in hardcopy 1988
 
 ??? directions "Directions" 
 
@@ -147,7 +147,7 @@ Along with bridges, Manuel Hornibrook and his brothers, constructed drainage and
 
 Personally, Manuel Hornibrook was known for his spirit, courage and determination and his genuine interest and concern for people, as evidenced by his work during the Great Depression. He was also president of the Hamilton Bowls club, a Rotarian and worked tirelessly for International House, at the University of Queensland. Married with three children, Hornibrook died on 30 May 1970 at the Holy Spirit Private Hospital, Wickham Terrace, Brisbane and was cremated.  
 
-Raymond L. Whitmore, '[Hornibrook, Sir Manuel Richard (1893‑1970)](http://adb.anu.edu.au/biography/hornibrook-sir-manuel-richard-10547/text18729)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/hornibrook-sir-manuel-richard-10547/text18729, published first in hardcopy 1996.
+Raymond L. Whitmore, '[Hornibrook, Sir Manuel Richard (1893‑1970)](https://adb.anu.edu.au/biography/hornibrook-sir-manuel-richard-10547/text18729)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/hornibrook-sir-manuel-richard-10547/text18729, published first in hardcopy 1996.
 
 ??? directions "Directions" 
 
@@ -163,8 +163,7 @@ At the same time, XXXX introduced "Mr Fourex". The symbol, still recognised toda
 
 Leitner remained with Castlemaine as their Head Brewer throughout the 1920s continuing to improve all aspects of production. Despite his sudden death in 1931, his creation still remains one of the best known brands in Queensland. Leitner was survived by his wife Alma, their three daughters and a son.  
 
-‘[Ashgrove Time Capsule](http://www.househistories.org/ashgrove-time-capsule)’, House and Suburban Histories from South East Queensland,
-http://www.househistories.org/ashgrove-time-capsule
+‘[Ashgrove Time Capsule](https://www.househistories.org/ashgrove-time-capsule)’, House and Suburban Histories from South East Queensland
 
 ## William Robert Black <small>(8‑43‑33/34)</small> 1859‑1930
 
@@ -172,7 +171,7 @@ Born in Northern Ireland in 1859, William Black reportedly arrived in Australia 
 
 After his retirement 1920, Black sought to share his wealth, contributing through a number of philanthropic ventures including the establishment of Fairholme College in Toowoomba, Scots College in Warwick, Brisbane Boys’ College Council, Somerville House Council, and founding Emmanuel College at the University of Queensland, St Lucia. As a particularly religious man, he saw his contribution to these religious schools as ensuring the link between religion and education. This continued until his death in 1930 when his estate was left in trust for the Presbyterian Church in Queensland. William Black never married.  
 
-Margery Brier‑Mills, '[Black, William Robert (1859‑1930)](http://adb.anu.edu.au/biography/black-william-robert-5254/text8853)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/black-william-robert-5254/text8853, published first in hardcopy 1979
+Margery Brier‑Mills, '[Black, William Robert (1859‑1930)](https://adb.anu.edu.au/biography/black-william-robert-5254/text8853)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/black-william-robert-5254/text8853, published first in hardcopy 1979
 
 ??? directions "Directions" 
 
@@ -186,7 +185,7 @@ One of them was Ataman (General) Vladimar Tolstoff, Commander of the 4th Ural Co
 
 As a result of the work of immigrants like those led by General Tolstoff, it is believed more than 10,000 people of Russian descent are currently living in Queensland making valuable contributions to the state. This is further evidenced around Toowong Cemetery where you can see many graves painted with Russian blue containing Cossacks from the Revolution.
 
-Kravchenko, M., 2010. ‘[History of the Russian Community in Queensland and in Brisbane](http://www.qrcc.com.au/history-of-the-russian-community-e)’, Queensland Russian Community Centre. http://www.qrcc.com.au/history-of-the-russian-community-e
+Kravchenko, M., 2010. ‘History of the Russian Community in Queensland and in Brisbane, http://www.qrcc.com.au/history-of-the-russian-community-e *(broken link)*
 
 ??? directions "Directions" 
 
@@ -205,7 +204,7 @@ Members of the Greek community continued to arrive in Queensland and with suppor
 
 When Freeleagus died of a heart attack on 16 May 1957, he had successfully founded the first Greek Association and his prominence in the religious and political life of the Greek community was evident through his community’s large attendance at his funeral.
 
-Alex Freeleagus, '[Freeleagus, Christy Kosmas (1889‑1957)](http://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747, published first in hardcopy 1981
+Alex Freeleagus, '[Freeleagus, Christy Kosmas (1889‑1957)](https://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747, published first in hardcopy 1981
 
 ??? directions "Directions" 
 
@@ -237,7 +236,7 @@ Transferred to Brisbane in 1896, Urquhart was promoted to Inspector, Second Clas
 
 After this time, Urquhart moved and was appointed administrator of the Northern Territory and sent to Darwin to manage the North Australian Industrial Union. Upon his retirement in 1926, Urquhart settled at Clayfield, Brisbane with his family, passing away at St Helen's Private Hospital on 2 December 1935.
 
-W. Ross Johnston, '[Urquhart, Frederic Charles (1858–1935)](http://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, http://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637, published first in hardcopy 1990
+W. Ross Johnston, '[Urquhart, Frederic Charles (1858–1935)](https://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637, published first in hardcopy 1990
 
 ??? directions "Directions" 
 

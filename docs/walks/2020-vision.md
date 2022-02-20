@@ -125,7 +125,7 @@ On 19 March 1909 William, late of Quay Street, North Quay, died in the Friendly 
 ## Sources
 
 - [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
-- [Grave Location Search](http://graves.brisbane.qld.gov.au) - Brisbane City Council
+- [Grave Location Search](https://graves.brisbane.qld.gov.au) - Brisbane City Council
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Search the Records](https://www.qld.gov.au/recreation/arts/heritage/archives/search-the-records) - The State of Queensland (Queensland State Archives)
 - [Trove](https://trove.nla.gov.au) - National Library of Australia

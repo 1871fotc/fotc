@@ -41,7 +41,7 @@ Search [Trove](https://trove.nla.gov.au) to read obituaries of people interred i
 
 ## Australian Dictionary of Biography
 
-The [Australian Dictionary of Biography](http://adb.anu.edu.au/) is Australia's pre-eminent dictionary of national biography. In it you will find concise, informative and fascinating descriptions of the lives of significant and representative persons in Australian history.
+The [Australian Dictionary of Biography](https://adb.anu.edu.au/) is Australia's pre-eminent dictionary of national biography. In it you will find concise, informative and fascinating descriptions of the lives of significant and representative persons in Australian history.
 
 [Search for "Toowong Cemetery"](https://adb.anu.edu.au/biographies/search/?scope=all&query=Toowong+Cemetery+&x=55&y=11&rs=) for the biographies of 190 of the most prominent people buried at Toowong Cemetery.
 
