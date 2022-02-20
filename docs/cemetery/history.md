@@ -233,7 +233,7 @@ In 2011, while staff prepared a new grave, the headstone of a John Peel was disc
 
 In 2009, over 80 gravestones were damaged at Toowong Cemetery. Following a police investigation, four people were charged with wilful damage however at the defendants’ committal hearing in April 2010, the charges were dismissed due to a "loop-hole" in the law. **[Friends of Toowong Cemetery successfully partitioned for changes to be made to the law][Vandalism of Cemeteries]**.
 
-[Vandalism of Cemeteries]: ../assets/documents/2010-vandalism.pdf "Read the 'Vandalism of Cemeteries: Criminal Code and Other Legislation Amendment Bill 2010 (Qld)''"
+[Vandalism of Cemeteries]: ../assets/documents/2010-vandalism.pdf "Read the Vandalism of Cemeteries: Criminal Code and Other Legislation Amendment Bill 2010 (Qld)"
 
 ## 2011 Governor Blackall's funeral re-enactment
 
@@ -241,7 +241,7 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment
 
 [re-enactment]: ../about/140-commemoration.md "Read about our awarding winning event."
 
-![Re-enactment of the funeral of Governor Blackall, 2011](../assets/140-commemoration.png){ width="96%" }  
+![Re-enactment of the funeral of Governor Blackall, 2011](../assets/140-commemoration-sml.png){ width="96%" }  
 
 ## Today
 
