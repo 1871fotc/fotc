@@ -102,7 +102,7 @@ Compiled and presented by Lyn Maddock
 - https://sites.google.com/site/cqfamilyhistory/articles-indexes/history/biography-of-bird *(broken)*
 - [White Star Line History](https://www.whitestarhistory.com/celtic)
 - [Stanley McDonald, SS Celtic](https://blogs.slq.qld.gov.au/ww1/2015/07/11/stanley-mcdonald-ss-celtic/), State Library Queensland
-- [Bonzle Digital Atlas of Australia](www.bonzle.com)
+- [Bonzle Digital Atlas of Australia](http://www.bonzle.com/)
 - http://japanesehouse.com.au/about.php *(broken)*
 - [Judge George W Paul's Japanese house: a case study](https://eprints.qut.edu.au/46533/), Jill Barker
 - *Who's Who in the Far East*, (June) 1900-7 p 19-20
