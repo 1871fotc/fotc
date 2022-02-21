@@ -65,9 +65,13 @@ Robert came to the Colony of Queensland aboard the *Fortitude* in January 1849. 
 *<small>[Robert Cribb](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218813510002061) State Library of Queensland </small>* <br>
 *<small>[Houses submerged in the 1893 flood waters at Toowong, Brisbane, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220473300002061) - State Library of Queensland. Richard Gailey’s Glen Olive can be seen in the distance. </small>*
 
-![Glen Olive Garden Estate on the river bank Toowong](../assets/glen-olive-garden-estate.jpg){ width="45%" }
+![Glen Olive Garden Estate on the river bank Toowong](../assets/glen-olive-garden-estate.jpg){ width="26.9%" }  <iframe width="560" height="315" src="https://www.youtube.com/embed/yqEivuBSHTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*<small>[Glen Olive Garden Estate on the river bank Toowong](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21119287420002061) - State Library of Queensland. This show the site of the Glen Olive house and grounds. </small>*
+*<small>[Glen Olive Garden Estate on the river bank Toowong](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21119287420002061) - State Library of Queensland. This shows the site of the Glen Olive house and grounds.  <br>
+[Black February: Queensland's most deadly floods (One Minute Archive)](https://youtu.be/yqEivuBSHTw) - Queensland State Archives
+Queensland State Archives</small>*
+
+
 
 
 ??? directions "Directions" 
