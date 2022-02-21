@@ -163,10 +163,11 @@ Born in Sandon, Hertfordshire on 12 July 1843, Ebenezer Chapman's parents were T
 
 *<small>[Toombul Shire Hall (former)](https://apps.des.qld.gov.au/heritage-register/detail/?id=600272) — The State of Queensland 2021.</small>*
 
-
+<!--
 ## Acknowledgements
 
-Compiled and presented by Lyn Maddock
+Compiled and presented by 
+-->
 
 ## Sources
 
