@@ -88,9 +88,13 @@ William was born in Croydon, England 1841 to Alexander Brown and Margaret (née 
 
 Mary Elizabeth O'Grady married William in 1885. Mary died in March 1900 shortly after the birth of their sixth child. A throat affliction brought William to Brisbane, where he died in the Brisbane General Hospital on 15 April 1909 aged 66 years.
 
+<!-- 
+
 ## Acknowledgements
 
-Compiled and presented by Lyn Maddock
+Compiled and presented by 
+
+-->
 
 ## Sources
 
