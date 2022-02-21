@@ -81,7 +81,7 @@ The Lest We Forget Naval Walk was first conducted as part of a Remembrance Day S
 
 The service was performed by Celebrant, Judy Magub, and Commander Tony Roper, RANR. 
 
-Service arranged by Gavin Stoneley, Metropolitan Funerals.
+<!-- Service arranged by Gavin Stoneley, Metropolitan Funerals. -->
 
 <div class="noprint" markdown="1">
 ## Brochure

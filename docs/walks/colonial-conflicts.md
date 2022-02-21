@@ -75,7 +75,7 @@ In 1921, Vowles was elected the president of the Imperial Navy and Army Veterans
 
 ## Acknowledgements
 
-- The Remembrance Day Service was arranged by Gavin Stoneley, Metropolitan Funerals
+<!-- The Remembrance Day Service was arranged by Gavin Stoneley, Metropolitan Funerals -->
 - The Remembrance Day Service Address was given by Judy Magub
 - Additional Research by Paul Seto
 

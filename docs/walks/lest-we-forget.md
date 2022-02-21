@@ -61,7 +61,7 @@ The Lest We Forget guide walk was first conducted as part of the Remembrance Day
 
 The Address was given by Rod Schafferius.
 
-The Service was arranged by Gavin Stoneley, Metropolitan Funerals.
+<!-- The Service was arranged by Gavin Stoneley, Metropolitan Funerals. -->
 
 <div class="noprint" markdown="1">
 ## Brochure
