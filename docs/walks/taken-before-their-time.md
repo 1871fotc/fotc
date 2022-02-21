@@ -39,7 +39,7 @@ They had six children, including three born in Queensland. The extended family a
 
 Frances Emma Irving was born in Queensland on 12 December 1883 to Maxwell Henry Williatt Irving and Mary Jane (née Gielis). Work as a schoolteacher, transferred Fanny from Ayr State School to Ravenswood State School in May 1906. Another transfer in March 1910 moved Fanny to Harlaxton State School, Toowoomba.
 
-On 7 January 1920 at about 10:30am, Fanny, aged 36 years, drowned at Sutton's Beach, Redcliffe. April 1873. 
+On 7 January 1920 at about 10:30am, Fanny, aged 36 years, drowned at Sutton's Beach, Redcliffe. 
 
 
 ![Two young ladies relaxing in the sun under parasols at Sutton's Beach, Redcliffe, 1919](../assets/suttons-beach-ladies.jpg){ width="25%" }  ![Supervising toddlers on Sutton's Beach, Redcliffe, Queensland, 1906](../assets/suttons-beach-toddlers.jpg){ width="72.5%" }  
