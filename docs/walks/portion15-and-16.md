@@ -88,7 +88,7 @@ Irish immigrants, John and Ellen Forde were the parents of [Francis Michael Ford
 
 ![Frank Pearson (Captain Starlight)](../assets/frank-pearson-captain-starlight.jpg){ width="30%" }
 
-*<small>Frank Pearson (Captain Starlight) - State Archives of NSW</small>*
+*<small>[Frank Pearson](https://search.records.nsw.gov.au/permalink/f/1ebnd1l/INDEX2058217) (Captain Starlight) - State Archives of NSW</small>*
 
 
 ## Burton Family <small>(15‑22‑11/12)</small>
