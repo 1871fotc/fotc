@@ -25,6 +25,10 @@ The event was filmed and a DVD has been produced featuring footage of the re-ena
 
     If you would like your family's story to be considered for inclusion in the next edition of *Extraordinary Stories of Ordinary People*, please complete the **[Contribute a Biography](https://forms.gle/4f743ggeHM3BiY2c8)** form.
 
+<!--
+
 ## Toowong Cemetery Resource Manual: a guide for exploring the cemetery
 
-Recommended for teachers of school groups visiting the cemetery. Available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:71596/one) or for [purchase](mailto://inquiries@fotc.org.au) for $25. Invoices can be made to your school.
+Recommended for teachers of school groups visiting the cemetery. Available at [Brisbane City Council Libraries](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:71596/one).
+ 
+-->
