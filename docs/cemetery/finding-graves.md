@@ -35,6 +35,8 @@ Portion numbers are shown on signs throughout the cemetery.
 
 Use the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** to look up a person's name and find the grave location and other details. 
 
+You can request an update to the official burial records from the same web page.
+<!--
 ## Update burial records
 
 To request an update to the official burial records, [email Cemeteries Administration](mailto://CB-Cemeteries@brisbane.qld.gov.au) and include, either:
@@ -51,9 +53,12 @@ Information on the official burial records that can be updated, includes:
 - cause of death
 - photograph of headstone or grave
 
+
 !!! question "Volunteer - contribute a photo to the Graves database"
 
     Consider contributing a photograph of a headstone to improve the Council database to help others discover the history and stories of Toowong Cemetery.
+    
+-->
 
 ## Markers
 
