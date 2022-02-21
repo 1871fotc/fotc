@@ -60,7 +60,7 @@ You may waive your right to be attributed, if you would prefer your name not to 
 
 ## Contributors
 
-Thanks to everyone who has contributed content to the site to help us **share the history and stories of Toowong Cemetery** :heart:
+Thanks to everyone who has contributed content to the site to help us **share the history and stories of Toowong Cemetery** :purple_heart:
 
 If you feel we have not attributed your work correctly, or used it inappropriately, please contact us.
 
