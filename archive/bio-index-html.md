@@ -1611,7 +1611,7 @@
     </tr>
     <tr>
         <td>George</td>
-        <td>Woolnorth</td>
+        <td>Woolnough</td>
         <td>1834-08-17</td>
         <td>1929-06-19</td>
         <td>11-16-16</td>

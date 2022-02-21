@@ -36,7 +36,7 @@ Walter was a foundation member and life member of both the Queensland Lawn Tenni
 
 David Jones was born in South Wales on 13 August 1830 and was educated at a private school in Clapham, near London. He was an expert shorthand writer who reported debates in the Press gallery of the House of Commons. David came to Australia in his twenties, spent several years on the Victorian gold diggings then commenced his career in journalism at the *Melbourne Argus*. In 1863 he joined the staff of the *Courier*, becoming editor. He left in 1867 to enter the Queensland Public Service. He became Principal Hansard Reporter in 1881, a position he held until his death on 6 October 1892.
 
-## Rev. George Woolnorth <small>(11‑16‑16)</small>
+## Rev. George Woolnough <small>(11‑16‑16)</small>
 
 George was born in Erriswell, Suffolk, England on 17 August 1834. He arrived in Tasmania in 1855. He took his BA and MA at Sydney University. In 1861 he married Maria, the eldest daughter of Thomas Cowlishaw and Maria Evans in Sydney. He became an ordained minister of the Methodist Church. In 1883 he retired from the ministry and joined with Henry Parkes (later Sir Henry), James Greenwood and others in advocating the establishment of free and secular education in State schools in New South Wales. 
 
