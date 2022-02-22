@@ -128,9 +128,11 @@ In Steele Rudd Avenue you'll find a collection of broken headstones. [Where did 
 
 Gillon, E. (1972). [Victorian Cemetery Art][Victorian Cemetery Art]. New York: Dover Publications 
 
+<!--
 ## Further Reading
 
 The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conservation](https://www.nationaltrust.org.au/services/cemetery-conservation/) has further information on headstone and monument conservation, terminology, symbology, and shapes. 
+-->
 
 ### Copyright
 

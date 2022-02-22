@@ -237,7 +237,8 @@ Architectural terms should generally be used.
 4. Columns (separate)
 5. Pilasters (relief) 
 
-
+<!--
 ## Further Reading
 
 The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conservation](https://www.nationaltrust.org.au/services/cemetery-conservation/) has further information on headstone and monument conservation, terminology and symbology. 
+-->
