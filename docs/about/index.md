@@ -1,6 +1,6 @@
 ---
 title: About Us
-description: What we do, have planned, and how you can join in 
+description: What we do, what we've done, and what we're working on, and how you can join in 
 
 search:
   boost: 2  
@@ -59,13 +59,11 @@ Currently we are:
     - access and a licence to the cemetery location data and [grave data](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). 
     - someone skilled in making maps. **Can you help?** 
 
-
+<!--
 ## What have we got planned? 
 
 With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 5 July 2025** we're planning a very special event. More will be revealed closer to the day.
 
-<!--
-We've got some [other ideas](ideas.md)
 -->
 
 ## Join in
