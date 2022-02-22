@@ -49,7 +49,7 @@ Currently we are:
 
 - planning to erect an **[honour board](https://youtu.be/mVfixEzUpwk)** at the cemetery's main entrance to commemorate people who have served their nation in military uniform and now rest in Toowong Cemetery.
 - **photographing every headstone** in the cemetery.
-- **updating our website** to include [even more content](https://github.com/1871fotc/fotc/projects/1?fullscreen=true), including updating the directions and maps for our [self‑guided walks](../walks/index.md). 
+- **updating our website** <!-- to include [even more content](https://github.com/1871fotc/fotc/projects/1?fullscreen=true), including updating the directions and maps for our [self‑guided walks](../walks/index.md). -->
 - **encouraging the community to volunteer** through simple one-off tasks shown on this site like the one below. 
 
 !!! question "Volunteer - help us update the cemetery maps"
