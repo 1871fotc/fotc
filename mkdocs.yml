@@ -157,7 +157,7 @@ plugins:
         'home/home.md': 'index.md'
         'home/index.md': 'index.md'
 # comment out for local builds as cannot resolve missing dependencies
-#  - social
+  - social
 
 # Page tree - only 2 levels allowed
 nav:
