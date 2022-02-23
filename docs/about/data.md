@@ -114,11 +114,13 @@ When we work things out, we'll look to follow the W3C [Best Practices for Publis
 Static Visualisations we are considering include: 
 
 - Mobility maps
-- [Maps of self-guilded walks](https://vega.github.io/vega-lite/examples/geo_line.html)
-- [Grave locations](https://vega.github.io/vega-lite/examples/geo_layer.html)
-- [Timelines for an individual, family, or group of related people](https://bl.ocks.org/jakevdp/1643ebb6853e76c32e47a969f415f3ea)
+- Maps of self-guilded walks <!-- https://vega.github.io/vega-lite/examples/geo_line.html -->
+- Grave locations and images <!-- https://vega.github.io/vega-lite/examples/geo_layer.html -->
+- Timelines for an individual, family, or group of related people <!-- https://bl.ocks.org/jakevdp/1643ebb6853e76c32e47a969f415f3ea -->
 
+<!--
 We are considering [Vega-Lite](https://vega.github.io/vega-lite/) to specify our own visualisations. These may be represented as static images on the website as the data does not change often but we are also exploring [tools for embedding vega-lite visualizations](https://vega.github.io/vega-lite/ecosystem.html#tools-for-embedding-vega-lite-visualizations).
+-->
 
 Dynamic visualisations we are considering include:
 
