@@ -17,4 +17,4 @@ The annual archaeology dig attempts to discover buried headstones from previousl
   <iframe src="https://www.youtube.com/embed/hgCx4OW69cY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
-We hope to see you at the **[next dig](https://archaeologyweek.org/events-list?category=Qld)**.
+We hope to see you at the **[next dig](https://archaeologyweek.org/events-list?category=Qld)**, Thursday 19 - Saturday 21 May 2022.
