@@ -48,7 +48,7 @@ Wear a hat, enclosed shoes, and bring a water bottle.
 
 ## 6 March 2022
 
-Our first heritage walking tour for 2022 will be guided by **Lyn** and **Darcy**. The tour is from **10:30 to 12:00 on Sunday 6 March 2022**. 
+Our first heritage walking tour for 2022 is called Tragically Taken. The tour is from **10:30 to 12:00 on Sunday 6 March 2022**. 
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220306.ics)**
 
