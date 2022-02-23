@@ -45,7 +45,7 @@ theme:
   features:
 # instant and announce seem to conflict with was this page helpful. Pick one. Works on Material for Mkdocs - look there. 
 #    - announce.dismiss
-#    - navigation.instant
+    - navigation.instant
     - navigation.tracking
     - navigation.top
     - navigation.tabs
@@ -60,11 +60,11 @@ theme:
 extra:
   generator: false
   social:
-    - icon: fontawesome/solid/phone
-      link: tel:0439998053
-      name: Call us on 0439998053
+#    - icon: fontawesome/solid/phone
+#      link: tel:0439998053
+#      name: Call us on 0439998053
     - icon: fontawesome/solid/envelope
-      link: mailto:inquiries@fotc.org.au
+      link: mailto:stephen.gates@me.com
       name: Email us
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/1871fotc/
@@ -157,7 +157,7 @@ plugins:
         'home/home.md': 'index.md'
         'home/index.md': 'index.md'
 # comment out for local builds as cannot resolve missing dependencies
-  - social
+#  - social
 
 # Page tree - only 2 levels allowed
 nav:
@@ -228,6 +228,7 @@ nav:
     - Headstones: headstones/index.md
     - Signs: headstones/signs.md 
 #    - Shapes: headstones/shapes.md  
+#    - Monuments: headstones/monuments.md 
     - Archaeological Digs: headstones/archaeological-digs.md
 #    - Celebrity Headstones: headstones/celebrities.md
   - Biographies: 
