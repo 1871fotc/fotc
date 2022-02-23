@@ -72,6 +72,8 @@ Markers can be seen on, or embedded into, graves. They represent a person buried
 
 *<small>Grave markers found on the grass, separated from their grave.</small>*
 
+<!-- seek permission to publish image
+
 To map a marker to a grave, you need to look up old portion books. For example, Portion 1, Section 1, Grave 38 in the Portion Book page below, maps to Marker ZI 735, which is annotated with the name *"Gale"*. 
 
 Searching for *"Gale"* in the Brisbane City Council **[Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search)** you find, by looking at each entry for *"Gale"*, Ruby Mary Gale, who was buried in 1-1-38 on 24 November 1924. You'll also find 	Ada Florence Morgan buried in 1-1-38 on 11 November 1878 - perhaps this is the B 663 crossed out in the Portion Book. 
@@ -81,6 +83,8 @@ Only the surname is recorded in the Portion Book so you can't link a marker to a
 ![Sample Portion Book page](../assets/portion-ledger.png){ width="100%" }
 
 *<small>Sample Portion Book page. © Brisbane City Council</small>*
+
+-->
 
 ## Need help locating a grave? 
 
