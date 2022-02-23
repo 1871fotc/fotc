@@ -26,7 +26,7 @@ On Thursday, 13 November 1884, Alfred was riding his Penny Farthing bicycle alon
 
 Most sources and [official registers](https://www.familyhistory.bdm.qld.gov.au/details/32a9b6ceb3fa5a50b7a1c420e0a8b46d2db76fe730237c24fbff422d96463e82) use the name, *"Alfred Joseph Duggan"*, so it is unclear why the headstone is inscribed, *"Joseph Alfred Duggan"*. The headstone also states Alfred was, *"In the 20^th^ year of his age"* however *[The Queenslander](https://trove.nla.gov.au/newspaper/article/23976600?searchTerm=%22Joseph%20Duggan%22)* reported he was 19 years old. Perhaps he had his birthday after the accident.
 
-Alfred died [intestate](https://trove.nla.gov.au/newspaper/article/3438912?searchTerm=%22Alfred%20Duggan%22) and *"all the land, goods, chattels, credits, and effects"* of [under £35](https://trove.nla.gov.au/newspaper/article/19797033?searchTerm=%22Alfred%20Duggan%22) were given to his spinster sister, Miss Frances Lilian Duggan. Ironically, the two newspaper reports also mixed his sister's first and middle names.
+Alfred died intestate and *"[all the land, goods, chattels, credits, and effects](https://trove.nla.gov.au/newspaper/article/3438912?searchTerm=%22Alfred%20Duggan%22)"* of [under £35](https://trove.nla.gov.au/newspaper/article/19797033?searchTerm=%22Alfred%20Duggan%22) were given to his spinster sister, Miss Frances Lilian Duggan. Ironically, the two newspaper reports also mixed his sister's first and middle names.
 
 ![Bicycle racing at Toowong, Brisbane, Queensland, ca. 1885](../assets/penny-farthing-race-toowong-sml.jpg){ width="68.1%" }  ![Cyclist posing with a penny farthing bicycle, Queensland](../assets/g-stombuco-and-penny-farthing.jpg){ width="27.4%" } 
 
