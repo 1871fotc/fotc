@@ -94,6 +94,7 @@ Missing Walks
 - November 2021	Laid to rest in 1921, hosted by Darcy Maddock
 - Brisbane City Council Trail 1 [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery.
 - Brisbane City Council Trail 2 [Brisbane City Council Trail 2][bcc-walk-2]
+- More print media identities of early Brisbane" August 2019. Jenny Davidson
 -->
 
 <!-- links to pages or pdfs -->
