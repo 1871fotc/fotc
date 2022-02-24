@@ -1,5 +1,5 @@
 ---
-description: Stories of people remembered at Toowong Cemetery 
+description: A list of people mentioned in our self-guided walks and links to their stories 
 search:
   exclude: true
 ---
@@ -8,7 +8,7 @@ search:
 
 **Read the stories of the people remembered at Toowong Cemetery**. The index below lists over 450 people mentioned in our **[self-guided walks](../walks/index.md)** and provides links to their stories. 
 
-??? warning "Work in progress"
+???+ warning "Work in progress"
 
     We're progressively creating individual pages for each person. Many people don't have links to their own page yet.
 
@@ -16,7 +16,7 @@ search:
 ??? question "Volunteer - Contribute missing data"
 
     Do you know about any of the missing data in the Story Index? Did you spot an error? 
-    Use the **☹︎** sad face button at the bottom of the page to let us know the details. 
+    Tell us the details by using the **☹︎** sad face button at the bottom of the page, or email us. 
 
     If you'd like to search for missing data, check out these **[Research Resources](research.md)**.
     
