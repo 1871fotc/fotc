@@ -141,7 +141,7 @@
 | Anthony              | Musgrave                                  | 1828-11-17 | 1888-10-09 | 14-23-7    | 
 | Arthur Hunter        | Palmer                                    | 1819-12-28 | 1898-03-20 | 13-88-7    | 
 | Pope Alexander       | Cooper                                    | 1846-05-12 | 1923-08-30 | 13-37-1    | 
-| Edmund               | Mellon                                    | yyyy-mm-dd | 1872-09-26 | 9-38-4     | 
+| Edmund               | Mellor                                    | yyyy-mm-dd | 1872-09-26 | 9-38-4     | 
 | George               | Hiron                                     | 1840-mm-dd | 1915-06-02 | 13-20-9    | 
 | Joseph William       | Sutton                                    | yyyy-mm-dd | 1914-02-21 | 13-7-13/14 | 
 | George               | Fish                                      | yyyy-mm-dd | 1925-09-23 | 12-1-11    | 

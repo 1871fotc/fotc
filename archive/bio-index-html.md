@@ -995,7 +995,7 @@
     </tr>
     <tr>
         <td>Edmund</td>
-        <td>Mellon</td>
+        <td>Mellor</td>
         <td>yyyy-mm-dd</td>
         <td>1872-09-26</td>
         <td>9-38-4</td>
