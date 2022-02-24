@@ -17,9 +17,9 @@ hide:
 
 -->
 
-## Captain Edmund Mellon <small>(9‑38‑4)</small>
+## Captain Edmund Mellor <small>(9‑38‑4)</small>
 
-Captain Mellon, an early immigrant to Moreton Bay, arrived in the colony in January 1849 on the sailing ship *Fortitude*. In the days when the river trade was the 'lifeline' between Brisbane and Ipswich, he became owner of the river steamers *Bremer* and *Settler*. The *[Louisa](https://www.flickr.com/photos/queenslandstatearchives/30922853551)*, the first iron steamboat ever constructed in the colony of Queensland was built by R.R. Smellie & Co to the order of Captain Mellor. After Mellor's death on 26 September 1872 at the age of 59, the *Louisa* was used on the Logan-Brisbane run. 
+Captain Mellor, an early immigrant to Moreton Bay, arrived in the colony in January 1849 on the sailing ship *Fortitude*. In the days when the river trade was the 'lifeline' between Brisbane and Ipswich, he became owner of the river steamers *Bremer* and *Settler*. The *[Louisa](https://www.flickr.com/photos/queenslandstatearchives/30922853551)*, the first iron steamboat ever constructed in the colony of Queensland was built by R.R. Smellie & Co to the order of Captain Mellor. After Mellor's death on 26 September 1872 at the age of 59, the *Louisa* was used on the Logan-Brisbane run. 
 
 <!-- 
 ??? directions "Directions" 
@@ -123,6 +123,6 @@ Compiled and presented by Lyn Maddock
 
 ## Brochure
 
-**[Download this walk](../assets/guides/printers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/steam.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
