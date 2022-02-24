@@ -231,9 +231,9 @@ nav:
 #    - Monuments: headstones/monuments.md 
     - Archaeological Digs: headstones/archaeological-digs.md
 #    - Celebrity Headstones: headstones/celebrities.md
-  - Biographies: 
-    - Biography Index: bios/index.md
-    - Research Resources: bios/research.md
+  - Stories: 
+    - Story Index: story/index.md
+    - Research Resources: story/research.md
   - About Us: 
     - About Us: about/index.md
     - Federation Pavilion: about/federation-pavilion.md
@@ -241,7 +241,5 @@ nav:
     - Publications: about/publications.md
 #    - Extraordinary Stories of Ordinary People: about/extraordinary-stories.md
     - Data: about/data.md
-#    - Grave Terminology: about/grave-terms.md
-#    - Biography Terminology: about/bio-terms.md    
     - Legal: about/legal.md
 #    - Ideas: about/ideas.md
