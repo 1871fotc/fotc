@@ -15,7 +15,7 @@ A port of the Friend of Toowong Cemetery site - `https://fotc.org.au/`. View it 
     - [overrides](https://github.com/1871fotc/fotc/tree/main/overrides) for the banner and 404 page
     - [javascript](https://github.com/1871fotcs/fotc/tree/main/docs/javascripts) to sort tables
 - Source images are store in /source-images. Some images are made with Sketch
-- The website uses Google Forms to collect Site Feedback, Membership Applications, Biography Contributions 
+- The website uses Google Forms to collect Site Feedback, Membership Applications, Story Contributions 
 - Use https://www.deadlinkchecker.com/website-dead-link-checker.asp to check for broken links
 
 ## Contribute

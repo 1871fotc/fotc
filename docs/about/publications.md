@@ -23,7 +23,7 @@ The event was filmed and a DVD has been produced featuring footage of the re-ena
 
 !!! question "Volunteer - share a family story"
 
-    If you would like your family's story to be considered for inclusion in the next edition of *Extraordinary Stories of Ordinary People* or on this web site, please complete the **[Contribute a Biography](https://forms.gle/4f743ggeHM3BiY2c8)** form.
+    If you would like your family's story to be considered for inclusion in the next edition of *Extraordinary Stories of Ordinary People* or on this web site, please complete the **[Contribute a story](https://forms.gle/4f743ggeHM3BiY2c8)** form.
 
 <!--
 

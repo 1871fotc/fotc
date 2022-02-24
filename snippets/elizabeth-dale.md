@@ -12,4 +12,4 @@ The inquest noted that Elizabeth was in delicate health, short-sighted and prone
 
 ### Copyright
 
-This biography is from *Toowong Cemetery*, by Hilda Maclean and Prue Firth, in *[Toowong: A community's history](http://www.toowong.org.au/books_for_sale.htm)* by [West Toowong Community Association Inc.](http://www.toowong.org.au). Used with permission. Links added.
+This story is from *Toowong Cemetery*, by Hilda Maclean and Prue Firth, in *[Toowong: A community's history](http://www.toowong.org.au/books_for_sale.htm)* by [West Toowong Community Association Inc.](http://www.toowong.org.au). Used with permission. Links added.

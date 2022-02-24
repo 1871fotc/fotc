@@ -45,7 +45,7 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 
 If you enter the main entrance, you'll find: 
 
-- **Canon Garland Place** named after [Canon David John Garland](https://adb.anu.edu.au/biography/garland-david-john-6278). The Flagpole here is the departure point for **[guided heritage tours](../guided-tours.md)** and most **[self-guided walks](../walks/index.md)**.
+- **Canon Garland Place** named after [Canon David John Garland][Garland]. The Flagpole here is the departure point for **[guided heritage tours](../guided-tours.md)** and most **[self-guided walks](../walks/index.md)**.
 - the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**. Staff can answer your enquiries and help to locate graves and ashes memorial sites.
 - a **[Museum](museum.md)** operated by the Friends of Toowong Cemetery. 
 - **Toilets**, the only ones available in the cemetery.
@@ -153,22 +153,22 @@ Here are some of our favourites:
 <!-- Links -->
 
 [main-entrance]: ../assets/main-entrance.jpg "Toowong Cemetery Main Entrance"
-[Walter Hill]: ../bios/walter-hill.md "Read Walter's Biography"
-[Cooper]: ../bios/lilian-cooper.md "Read Lilian's Biography"
-<!-- [Forde]: ../bios/francis-forde.md "Read Francis' Biography" -->
-[Forde]: https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504 "Read Francis' Biography"
-[Jackson]: ../bios/peter-jackson.md "Read Peter's Biography"
-<!-- [Rudd]: ../bios/arthur-hoey-davis.md "Read Steel Rudd's (Arthur Hoey Davis) Biography" -->
-[Rudd]: https://adb.anu.edu.au/biography/davis-arthur-hoey-5911 "Read Arthur Hoey Davis' (Steel Rudd) Biography"
-<!-- [Ralstone]: ../bios/walter-ralstone.md "Read Walter's Biography" -->
-[Ralstone]: https://adb.anu.edu.au/biography/ralston-walter-vardon-834 "Read Walter's Biography"
-[Miller]: ../bios/emma-miller.md "Read Emma's Biography"
-[Heaphy]: ../bios/charles-heaphy.md "Read Charles' Biography"
-[Pat Hill]: ../bios/pat-hill.md "Read Pat's Biography"
-[Dale]: ../bios/elizabeth-dale.md "Read Elizabeth's Biography"
-[Garland]: ../bios/david-john-garland.md "Read David Garland's Biography"
-[O'Doherty]: ../bios/kevin-izod-odoherty.md
-[Brown]: ../bios/william-walter-brown.md
+[Walter Hill]: ../story/walter-hill.md "Read Walter's story"
+[Cooper]: ../story/lilian-cooper.md "Read Lilian's story"
+<!-- [Forde]: ../story/francis-forde.md "Read Francis' story" -->
+[Forde]: https://adb.anu.edu.au/biography/forde-francis-michael-frank-12504 "Read Francis' story"
+[Jackson]: ../story/peter-jackson.md "Read Peter's story"
+<!-- [Rudd]: ../story/arthur-hoey-davis.md "Read Steel Rudd's (Arthur Hoey Davis) story" -->
+[Rudd]: https://adb.anu.edu.au/biography/davis-arthur-hoey-5911 "Read Arthur Hoey Davis' (Steel Rudd) story"
+<!-- [Ralstone]: ../story/walter-ralstone.md "Read Walter's story" -->
+[Ralstone]: https://adb.anu.edu.au/biography/ralston-walter-vardon-834 "Read Walter's story"
+[Miller]: ../story/emma-miller.md "Read Emma's story"
+[Heaphy]: ../story/charles-heaphy.md "Read Charles' story"
+[Pat Hill]: ../story/pat-hill.md "Read Pat's story"
+[Dale]: ../story/elizabeth-dale.md "Read Elizabeth's story"
+[Garland]: ../story/david-john-garland.md "Read David Garland's story"
+[O'Doherty]: ../story/kevin-izod-odoherty.md
+[Brown]: ../story/william-walter-brown.md
 
 <!-- include site-wide abbreviations -->
 

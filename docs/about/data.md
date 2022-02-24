@@ -11,15 +11,15 @@ description: Download data about Toowong Cemetery, its graves, headstones, and t
 
 Friends of Toowong Cemetery create or capture data, including: 
 
-- **Biographies** (an **[index](../bios/index.md)**, individual biographies and related events)
+- **Stories** (an **[index](../story/index.md)**, individual stories and related events)
 - **Headstones** (images, inscriptions, status, location)
-- **Walks** (a route from grave to grave, linked to people, headstones, and biographies)
+- **Walks** (a route from grave to grave, linked to people, headstones, and stories)
 
 The **[data is available on GitHub](https://github.com/1871fotc/fotc/tree/main/docs/assets/data)** :fontawesome-brands-github: and via links on this site.
 
 <!--
-Currently we have published the **[Biography Index](../bios/index.md)**.
-- [Biography Index](../bios/index.md)
+Currently we have published the **[Story Index](../story/index.md)**.
+- [Story Index](../story/index.md)
 - [Toowong Cemetery Road Name](../cemetery/visit.md#road-name-changes)
 -->
 

@@ -21,7 +21,7 @@ On this site you'll find information about:
 - **[visiting the cemetery](cemetery/visit.md)**, exploring its **[history](cemetery/history.md)**, and **[how to find graves](cemetery/finding-graves.md)**
 - monthly **[guided heritage tours](guided-tours.md)** and **[self‑guided walks](walks/)** 
 - **[headstone symbols](headstones/)**, **[signs](headstones/signs.md)** and annual **[archaeological digs](headstones/archaeological-digs.md)**
-- the **[biographies](bios/)** of people interred at the cemetery, and **[research resources](bios/research.md)**
+- the **[stories](story/)** of people remembered at the cemetery, and **[research resources](story/research.md)**
 - **[Friends of Toowong Cemetery](about/index.md)** - what we do, what we've done, and how to join in 
 
 <!-- 
