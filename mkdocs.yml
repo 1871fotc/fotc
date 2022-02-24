@@ -163,7 +163,7 @@ plugins:
 nav:
   - Home: index.md
   - Toowong Cemetery: 
-    - Visit Toowong Cemetery: cemetery/visit.md
+    - Visit: cemetery/visit.md
     - History: cemetery/history.md
     - Museum: cemetery/museum.md 
     - Finding Graves: cemetery/finding-graves.md
