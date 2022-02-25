@@ -99,7 +99,7 @@ Compiled and presented by
 ## Sources
 
 - "Deceased Search", Brisbane City Council [https://graves.brisbane.qld.gov.au/] 
-- "Family History Research", The State of Queensland, 2013. [wuw.qld.gov.au/law/births-deaths-marriages-and-divorces/family-history-research/]
+- "Family History Research", The State of Queensland, 2013. [www.qld.gov.au/law/births-deaths-marriages-and-divorces/family-history-research/]
 - "Queensland Parliament: Former Members", 2011. [www.parliament.qld.gov.au/members/former]
 - "Trove Digitised newspapers and more", National Library of Australia [trove.nla.gov.au]
 
