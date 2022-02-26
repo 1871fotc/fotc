@@ -6,13 +6,6 @@ hide:
 
 # 2020 Vision 
 
-<!-- 
-
-![Devoy residence in Ashgrove, Brisbane, ca. 1908](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
-
-*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
-
--->
 
 <!-- 
 
@@ -78,6 +71,7 @@ Frederick was a son of George and Maria. Flora Murphy married Frederick on 10 Oc
 ## Iris Elizabeth Carson <small>(15‑31‑9)</small>
 
 Iris Elizabeth Carson, a daughter of Robert James (Bob) Carson and Elizabeth Mary (née Real), was born in Brisbane on 24 September 1916. Iris resided at *Ryecroft*, Augustus Street, Toowong when she died on 25 March 1918. 
+
 
 ## James Porter Fry <small>(8‑31‑31/32)</small>
 
