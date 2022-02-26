@@ -48,6 +48,12 @@ Charles was the printer of the very first issue of *The Telegraph* newspaper in 
 
 William was born ca. 1831 in Cork, Ireland, the son of William O'Carroll, a sea captain. He brought his family to Brisbane in 1862 on the ship *Chatsworth* and was offered a job at the *Queensland Daily Guardian* after writing a series of letters to the editor of that newspaper. He rose to the position of editor of the *Guardian* before it was absorbed into the *Courier* in 1868. During his career he edited other newspapers including the *Brisbane Courier* and the *Observer* until [his death on 16 May 1885](https://trove.nla.gov.au/newspaper/article/83676398) from complications from a cold.
 
+![Brisbane Courier staff standing in front of the Brisbane Courier office building in Brisbane, ca. 1880
+](../assets/brisbane-courier-staff-1880.jpg){ width="70%" }
+
+<small>[Brisbane Courier staff standing in front of the Brisbane Courier office building in Brisbane, ca. 1880
+](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21270221690002061). The Brisbane Courier office was located on the eastern corner of Charlotte and George street, Brisbane - State Library of Queensland</small>
+
 ## James Charles Beal <small>(7‑41‑18)</small>
 
 James Beal was born in 1833 in Sydney where he served his apprenticeship at the *Sydney Morning Herald*. He came to Brisbane in 1862 to take up the position of Superintendent at the Government Printing Office where he was promoted to the position of Government Printer in 1867 and held that position until his retirement at the end of 1893. Outdoor exercise was recommended for printers for health reasons and James was involved in various sporting circles. He died on 24 August 1904 following a bout of influenza.
@@ -82,11 +88,12 @@ He came to Moreton Bay in 1842 when it was opened to free settlers and was the a
 
 *<small>[Thomas Dowse](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218687340002061) Brisbane Town Clerk 1862-1868 — State Library of Queensland.</small>*
 
-## Thomas Woodward Hill <small>(13‑42‑22)</small>
 
-Thomas Woodward Hill, born in Bedford, England on 31 December 1816 to Joseph Hill (printer) & Susanna (née Woodward), was already a compositor when he embarked for Australia aboard the *Mary* in 1839. He worked on newspapers in Sydney, Melbourne and Nelson, New Zealand, before arriving in Queensland on 23 December 1859. Thomas became father to three children when he married widow Agnes Caroline Rains in the Wharf Street Baptist Church, Brisbane on 29 November 1861.
+--8<-- "snippets/thomas-woodward-hill.md"
 
-In 1867 Thomas became the official printer and publisher of *The Brisbane Courier* and *The Queenslander*. In 1884 Thomas was charged with libelling members of the Legislative Assembly. He won this landmark court case for freedom of the press. Ill health caused Thomas’ retirement on his 74^th^ birthday. He died in his Petrie Terrace home on 31 January 1892.
+![Thomas Woodward Hill and Agnes Caroline Rains' headstone](../assets/thomas-woodward-hill-headstone.jpg){ width="32%" }
+
+<small>Thomas Woodward Hill and Agnes Caroline Rains' headstone - © Cameron Davidson. Used with permission.</small>
 
 
 ## Acknowledgements
