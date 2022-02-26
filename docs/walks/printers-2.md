@@ -60,7 +60,9 @@ James Beal was born in 1833 in Sydney where he served his apprenticeship at the 
 
 ## Richard Belford <small>(15‑11‑6)</small>
 
-For many years Richard was connected with the colonial press in NSW, Victoria and Queensland. He was a native of Newtown, Limavady, in the county of Londonderry, Northern Ireland and came to NSW in 1838 with his parents, Richard (Snr) and Ann (née Linton). He was a partner in starting the *Ballarat Star* but after the partnership collapsed, moved to Brisbane and then to Ipswich where he took charge of the *North Australian* newspaper. Richard followed when that newspaper moved to Brisbane and died at the age of 42 from consumption on 28 April 1865. He was originally interred in the Roman Catholic burial ground at Milton but his remains and headstone were relocated to Toowong Cemetery in 1913.
+For many years Richard was connected with the colonial press in NSW, Victoria and Queensland. He was a native of Newtown, Limavady, in the county of Londonderry, Northern Ireland and came to NSW in 1838 with his parents, Richard (Snr) and Ann (née Linton). 
+
+He was a partner in starting the *Ballarat Star* but after the partnership collapsed, moved to Brisbane and then to Ipswich where he took charge of the *North Australian* newspaper. Richard followed when that newspaper moved to Brisbane and died at the age of 42 from consumption on 28 April 1865. He was originally interred in the Roman Catholic burial ground at Milton but his remains and headstone were relocated to Toowong Cemetery in 1913.
 
 ![View of the Brisbane suburb of Milton, ca. 1870](../assets/milton-cemetery-1870.jpg){ width="70%" }
 
@@ -72,7 +74,9 @@ Septimus was born in Lambeth Surry ca. 1837. His occupation before immigrating t
 
 ## Thomas Dowse <small>(13‑58‑22)</small>
 
-In September 1924 15-year-old Thomas was tried for theft at the Old Bailey and sentenced to death, later commuted to transportation for life. Initially incarcerated on the prison hulks *Bellerophon* and *Euryalus*, he embarked on the convict ship *Florentia* bringing him to Port Jackson arriving in January 1828. He served eight years before receiving a ticket of leave in 1836 and a conditional pardon in 1839. He came to Moreton Bay in 1842 when it was opened to free settlers and was the anonymous Brisbane correspondent to the *Sydney Morning Herald*. He was a prolific writer with columns in the *Moreton Bay Courier*, *Brisbane Courier* and *The Queenslander* written under the pseudonym '[Old Tom](https://trove.nla.gov.au/search/category/newspapers?keyword=%22Old%20Tom%22%20%22OLD%20TIMES.%20THE%20SETTLEMENT%22&l-state=Queensland&l-title=42&l-decade=186&l-year=1869&sortBy=dateAsc&startPos=0)'.
+In September 1924 15-year-old Thomas was tried for theft at the Old Bailey and sentenced to death, later commuted to transportation for life. Initially incarcerated on the prison hulks *Bellerophon* and *Euryalus*, he embarked on the convict ship *Florentia* bringing him to Port Jackson arriving in January 1828. He served eight years before receiving a ticket of leave in 1836 and a conditional pardon in 1839. 
+
+He came to Moreton Bay in 1842 when it was opened to free settlers and was the anonymous Brisbane correspondent to the *Sydney Morning Herald*. He was a prolific writer with columns in the *Moreton Bay Courier*, *Brisbane Courier* and *The Queenslander* written under the pseudonym '[Old Tom](https://trove.nla.gov.au/search/category/newspapers?keyword=%22Old%20Tom%22%20%22OLD%20TIMES.%20THE%20SETTLEMENT%22&l-state=Queensland&l-title=42&l-decade=186&l-year=1869&sortBy=dateAsc&startPos=0)'.
 
 ![Thomas Dowse](../assets/thomas-dowse.jpg){ width="40%" }
 
