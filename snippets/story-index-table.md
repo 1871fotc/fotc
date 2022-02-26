@@ -467,8 +467,9 @@
 | James Charles        | Beal                                      | 1833-mm-dd | 1904-08-24 | 7-41-18 | 
 | Richard              | Belford                                   | yyyy-mm-dd | 1865-04-28 | 15-11-6 | 
 | Septimus             | Price                                     | 1837-mm-dd | 1902-12-28 | 9-33-3 | 
-| Thomas Woodward      | Hill                                      | 1816-12-16 | 1892-01-31 | 13-42-22 | 
-
+| Thomas Woodward      | **[Hill](thomas-woodward-hill.md)**       | 1816-12-16 | 1892-01-31 | 13-42-22 | 
+| Agnes Caroline       | Hill (Hall; Rains)                        | 1819-07-05 | 1904-08-09 | 3-42-22 | 
+                            
 
 
 <!--
