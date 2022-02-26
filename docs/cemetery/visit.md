@@ -39,7 +39,7 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 
 - cross Milton Road at its intersection with Morley Street
 - cross the Western Freeway using the [Canon Garland Overpass](https://garlandmemorial.com/2019/10/09/canon-garland-overpass/), a bike and walking bridge accessed from Anzac Park
-- choose a bus the avoids the need to cross (e.g. Routes [471](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/), [598](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/598), [599](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/599))
+- choose a bus that avoids the need to cross (e.g. Routes [471](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/), [598](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/598), [599](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/599))
 
 ## When you arrive
 
