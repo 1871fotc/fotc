@@ -336,7 +336,7 @@
 | Randal               | MacDonnell                                | 1830-mm-dd | 1877-mm-dd | 7-20-10   | 
 | Peter                | Gaffney                                   | 1839-mm-dd | 1879-mm-dd | 7-19-23   | 
 | John                 | McDermott                                 | 1841-mm-dd | 1908-mm-dd | 7-56-3    | 
-| William Augustine    | O’Carroll                                 | 1831-mm-dd | 1885-mm-dd | 7-54-9    | 
+| William Augustine    | O’Carroll                                 | 1831-mm-dd | 1885-05-16 | 7-54-9    | 
 | Francis *(Frank)*    | McDonnell                                 | 1863-mm-dd | 1928-mm-dd | 7a-17-23  | 
 | Michael Joseph       | Devitt                                    | 1859-mm-dd | 1917-mm-dd | 15-29-6   | 
 | Sam                  | Burmister                                 | yyyy-mm-dd | yyyy-mm-dd | 3-25-5    | 
@@ -460,3 +460,17 @@
 | Hugh                 | Glackin                                   | 1844-03-08 | yyyy-mm-dd | 15-22-20/21 | 
 | Frederick Augustus *(Gus)* | Garland                             | yyyy-mm-dd | yyyy-mm-dd | 15-24-22  | 
 | John                 | Galligan                                  | 1857-mm-dd | yyyy-mm-dd | 15-26-12  | 
+| Richard Oldfield     | White                                     | yyyy-mm-dd | 1926-10-22 | 10-57-1  | 
+| William Henry        | Warman                                    | yyyy-mm-dd | 1912-10-31 | 2A-25-27/28 | 
+| Sylvester            | Doig                                      | yyyy-mm-dd | 1884-09-25 | 1-22-9 | 
+| Charles              | Mills                                     | 1834-08-18 | 1894-08-23 | 1-21-4 | 
+| James Charles        | Beal                                      | 1833-mm-dd | 1904-08-24 | 7-41-18 | 
+| Richard              | Belford                                   | yyyy-mm-dd | 1865-04-28 | 15-11-6 | 
+| Septimus             | Price                                     | 1837-mm-dd | 1902-12-28 | 9-33-3 | 
+| Thomas Woodward      | Hill                                      | 1816-12-16 | 1892-01-31 | 13-42-22 | 
+
+
+
+<!--
+|                      |                                           | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
+-->
