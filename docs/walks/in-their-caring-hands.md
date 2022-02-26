@@ -147,6 +147,12 @@ Elizabeth Hulett completed her general training at the Royal Children’s Hospit
 
 Nurse Ivy Amess received her training at the Bundaberg General Hospital where she was extremely popular with the staff and patients. After graduation she moved to Brisbane where she contracted a fatal illness. She died aged 24 on 31 October 1927.
 
+<!--
+>In loving memory of sister Ethel Ivy Ellen AMESS  <br>
+>died 31st Oct 1927 aged 24 years.  <br>
+>At Rest
+-->
+
 ## Katherine Glasson Taylor <small>(8‑71‑37)</small>
 
 Dying aged 104 on 14 May 1998, Sister Taylor had seen service at the 5^th^ Australian General Hospital which was a Victoria‑based unit.
