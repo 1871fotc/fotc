@@ -62,15 +62,13 @@ James Beal was born in 1833 in Sydney where he served his apprenticeship at the 
 
 For many years Richard was connected with the colonial press in NSW, Victoria and Queensland. He was a native of Newtown, Limavady, in the county of Londonderry, Northern Ireland and came to NSW in 1838 with his parents, Richard (Snr) and Ann (née Linton). He was a partner in starting the *Ballarat Star* but after the partnership collapsed, moved to Brisbane and then to Ipswich where he took charge of the *North Australian* newspaper. Richard followed when that newspaper moved to Brisbane and died at the age of 42 from consumption on 28 April 1865. He was originally interred in the Roman Catholic burial ground at Milton but his remains and headstone were relocated to Toowong Cemetery in 1913.
 
-![View of the Brisbane suburb of Milton, ca. 1870](../assets/milton-cemetery-1870.jpg){ width="40%" }
+![View of the Brisbane suburb of Milton, ca. 1870](../assets/milton-cemetery-1870.jpg){ width="70%" }
 
 *<small>[View of the Brisbane suburb of Milton, ca. 1870](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219311070002061) Photograph taken in the vicinity of Caxton Street, Petrie Terrace, looking due west across the intersection of Judge and Hale Streets and across the Milton Cemetery — State Library of Queensland.</small>*
 
 ## Septimus Price <small>(9‑33‑3)</small>
 
 Septimus was born in Lambeth Surry ca. 1837. His occupation before immigrating to Queensland was clerk to a law stationer. In April 1862 he arrived in Moreton Bay on the *Clifton* and became a publishing assistant with the *Queensland Daily Guardian*. A short time after his arrival he married Louisa Kemp on 25 October 1862. After the closure of the *Guardian*, he joined the staff of the Government Printing Office as a publisher. Septimus died on 28 December 1902. 
-
-<!-- http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272136670002061 -->
 
 ## Thomas Dowse <small>(13‑58‑22)</small>
 
