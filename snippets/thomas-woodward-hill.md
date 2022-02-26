@@ -1,0 +1,5 @@
+##  Thomas Woodward Hill <small>(13‑42‑22)</small>
+
+Thomas Woodward Hill, born in Bedford, England on 31 December 1816 to Joseph Hill (printer) & Susanna (née Woodward), was already a compositor when he embarked for Australia aboard the *Mary* in 1839. He worked on newspapers in Sydney, Melbourne and Nelson, New Zealand, before arriving in Queensland on 23 December 1859. Thomas became father to three children when he married widow Agnes Caroline Rains in the Wharf Street Baptist Church, Brisbane on 29 November 1861.
+
+In 1867 Thomas became the official printer and publisher of *The Brisbane Courier* and *The Queenslander*. In 1884 Thomas was charged with libelling members of the Legislative Assembly. He won this landmark court case for freedom of the press. Ill health caused Thomas’ retirement on his 74^th^ birthday. He died in his Petrie Terrace home on 31 January 1892.
