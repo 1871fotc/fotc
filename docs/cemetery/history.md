@@ -72,7 +72,7 @@ It has since been lost to weathering. After the death of their son, the Roberts 
 **Peter McCauley** was born in Sydney on 17 April 1826, the son of Private Peter McCauley, a member of the 17^th^ Regiment. His monther, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On 5 January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The  family returned to Sydney in 1832.
 
 
-**Jane Pittard** was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Vann Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
+**Jane Pittard** was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Van Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
 
 These children's tombstones are the oldest surviving tombstones in Queensland.
 ![Pioneer Children's Graves at Toowong Cemetery](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
@@ -158,7 +158,7 @@ In 1916 Garland initiated a trust to receive money raised from the sale of silk,
 
 On the morning of Anzac Day 1920, the first since his return from war service, Garland visited "Soldiers' Corner" at Toowong Cemetery and found friends and families of the deceased paying their respects. Noting people of all religions were present, he asked all to observe a minutes' silence rather than offer up prayers during an impromptu commemoration service. 
 
-Under the guidance of Garland the Anzac Day service at Toowong Cemetery grew in size and significance as did the badge-selling campaign which supported the Lady Mayoress's committee. The campaign's success helped fund the establishment of the "Cross of Sacrifice" and "The Stone of Rememberance" which were erected and unveiled in 1924 near the entrance to Toowong Cemetery immediately adjacent to Canon Garland Place. Anzac Day commemoration's in Brisbane where held here until the Anzac Memorial - Shrine of Rememberance - in Anzac Square, was completed in 1930.
+Under the guidance of Garland the Anzac Day service at Toowong Cemetery grew in size and significance as did the badge-selling campaign which supported the Lady Mayoress's committee. The campaign's success helped fund the establishment of the "Cross of Sacrifice" and "The Stone of Rememberance" which were erected and unveiled in 1924 near the entrance to Toowong Cemetery immediately adjacent to Canon Garland Place. Anzac Day commemorations in Brisbane where held here until the Anzac Memorial - Shrine of Rememberance - in Anzac Square, was completed in 1930.
 
 Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at Portion 1, Section 50A, Grave 9, overlooking "Soldiers' Corner".
 
