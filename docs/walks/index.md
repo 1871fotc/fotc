@@ -49,6 +49,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Performers][actors]** - Actors and Performers buried in Toowong Cemetery
 - **[Police][thin-blue-line]** - remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** 
+- **[More Print Media Identities of Early Brisbane][printers2]** 
 - **[Sporting Personalities][sporting-personalities]** 
 - **[Undertakers][undertakers]**
 
@@ -117,10 +118,10 @@ Missing Walks
 [mariners]: anchors-aweigh.md
 [judiciary]: judiciary.md
 [printers]: printers.md
+[printers2]: printers-2.md
 [thin-blue-line]: thin-blue-line.md
 [sporting-personalities]: sporting-personalities.md
 [undertakers]: undertakers.md 
-[nursesx]: ../assets/guides/in-their-caring-hands.pdf
 [nurses]: in-their-caring-hands.md
 
 [founding-fathers]: founding-fathers.md
