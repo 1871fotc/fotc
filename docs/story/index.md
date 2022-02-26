@@ -42,16 +42,9 @@ Download the Story Index as a <a href="../assets/data/story-index.csv" download>
 
 ??? warning "Excel does not process dates correctly"
 
-    If you open the .csv file using Microsoft Excel, be aware that it tries to be helpful and automatically adjust the date formats. This is not helpful, consider using another tool. It also doesn't handle characters like "ü".
+    If you open the .csv file using Microsoft Excel, be aware that it tries to be helpful and automatically adjust the date formats. It also doesn't handle characters like "ü".
     
-    If you must use Excel, download the <a href="../assets/data/story-index-for-excel.csv" download>Comma Separated Value file for Excel</a> where we have:
-    
-      - put a space before the first number in the date to trick Excel into thinking it's text. 
-      - replaced characters like "ü" with "u" *(we may have missed some)*
-    
-    You could also try turning off the Excel *background error checking* setting before loading the file. 
-    
-    We don't not promise we'll keep making special .csv files to cater for Excel's shortcomings. 
+    We suggest you consider using another tool.
     
 <!--
 or [Tabular Data Package](../assets/data/story-index.zip) (.zip). 
