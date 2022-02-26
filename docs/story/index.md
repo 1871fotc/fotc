@@ -20,7 +20,7 @@ search:
 
     If you'd like to search for missing data, check out these **[Research Resources](research.md)**.
     
-    If you would like your contribute a biography, please complete the **[Contribute a Story](https://forms.gle/4f743ggeHM3BiY2c8)** form.
+    If you would like your contribute a story, please complete the **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** form.
     
 
 ??? directions "How to use the Index" 
