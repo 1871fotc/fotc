@@ -89,8 +89,8 @@
 | John                 | **[Sinclair](john-sinclair.md)**                                  | 1827-12-08 | 1906-05-05 | 9-40-5     | 
 | Alfred John          | **[Raymond](alfred-john-raymond.md)**     | 1856-02-01 | 1935-10-14 | 9-32-8     | 
 | James                | **[Swan](james-swan.md)**                 | 1811-mm-dd | 1891-05-26 | 9-39-8     | 
-| Richard Symes        | Warry                                     | 1829-mm-dd | 1891-03-12 | 13-49-22   | 
-| Richard              | Southall                                  | yyyy-mm-dd | yyyy-mm-dd | 13-59-12   | 
+| Richard Symes        | **[Warry](richard-symes-warry.md)**       | 1829-mm-dd | 1891-03-12 | 13-49-22   | 
+| Richard              | **[Southall](richard-southall.md)**       | 1831-mm-dd | 1909-02-04 | 13-59-12   | 
 | John                 | Hardgrave                                 | 1826-mm-dd | 1906-11-08 | 14-22-2/3  | 
 | Joshua               | Jeays                                     | 1881-03-11 | yyyy-mm-dd | 13-62-13   | 
 | William              | Pettigrew                                 | 1825-08-26 | 1906-10-28 | 13-66-2    | 
