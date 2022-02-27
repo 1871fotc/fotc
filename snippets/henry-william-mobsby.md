@@ -10,8 +10,11 @@ Mobsby became official artist and photographer for the Department of Agriculture
 In December 1905 Mobsby's 11‑year‑old son [Arthur Timewell drowned](https://trove.nla.gov.au/newspaper/article/184680167?searchTerm=Arthur%20Timewell%20Mobsby); each year thereafter, the Mobsby memorial medal was awarded to the Indooroopilly State School student who achieved the highest percentage in the year 8 scholarship public examination. A keen Freemason, Mobsby was a member of the Lodge, Indooroopilly, No.155, United Grand Lodge of Queensland. [He died on 9 April 1933](https://trove.nla.gov.au/newspaper/article/22150093) at his home in Station Road, Indooroopilly, and was buried with his son.
 
 <!--
-
 - https://www.couriermail.com.au/questnews/little-boy-honoured-112-years-after-he-drowned-in-a-brisbane-flood/news-story/ee8ea5e767831d9a9c27da8af535a7e3
 - https://www.flickr.com/photos/hwmobs/24888797078/in/photostream/
 - https://trove.nla.gov.au/newspaper/article/19703747
 -->
+
+![Photographer Henry William Mobsby, Barcaldine, ca. 1905](../assets/henry-william-mobsby.jpg){ width="40%" }  
+
+*<small>[Photographer Henry William Mobsby, Barcaldine, ca. 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21250438610002061) - State Library of Queensland </small>* 

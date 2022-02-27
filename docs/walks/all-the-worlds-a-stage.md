@@ -47,11 +47,6 @@ hide:
 
 --8<-- "snippets/samuel-keenan.md"
 
-
-!["Original Georgia Minstrels" composite image with founder Charles Hicks at center](../assets/original-georgia-minstrels.jpg){ width="40%" }  
-
-*<small>["Original Georgia Minstrels" composite image with founder Charles Hicks at center](https://en.wikipedia.org/wiki/Brooker_and_Clayton%27s_Georgia_Minstrels) - State Library of Queensland </small>* 
-
 <!-- 
 
 ??? directions "Directions" 
@@ -63,12 +58,6 @@ hide:
 -->
 
 --8<-- "snippets/henry-william-mobsby.md"
-
-
-![Photographer Henry William Mobsby, Barcaldine, ca. 1905](../assets/henry-william-mobsby.jpg){ width="40%" }  
-
-*<small>[Photographer Henry William Mobsby, Barcaldine, ca. 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21250438610002061) - State Library of Queensland </small>* 
-
 
 <!-- 
 
@@ -104,7 +93,7 @@ hide:
 
 -->
 
---8<-- "snippets/arthur-aldridge.md"
+--8<-- "snippets/aldridge-mcallister.md"
 
 
 <!-- 
@@ -119,7 +108,7 @@ hide:
     
 ## Sources
 
-- Creswell, Jane Arthur Aldridge family history
+- Creswell, *Jane Arthur Aldridge family history*
 - Gerard, Patrick *[Picturing Queensland: The Local, the National and the Global in Early Queensland Film](https://research-repository.griffith.edu.au/handle/10072/2428)*, Griffith Film School, Keenan, Tracy Samuel Keenan family history
 - Laughren, Pat *[Mobsby, Henry William (1860 - 1933)](https://adb.anu.edu.au/biography/mobsby-henry-william-13104)*, Australian Dictionary of Biography, Online Edition, Copyright 2006, updated continuously, ISSN 1833-7538, published by Australian National University 
 

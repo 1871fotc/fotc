@@ -25,23 +25,23 @@
 | Elizabeth            | **[Dale](elizabeth-dale.md)**             | 1865-mm-dd | 1905-01-31 | 1-148-29   |  
 | William Walter       | **[Brown](william-walter-brown.md)**      | 1911-11-02 | 2004-01-31 | 18-25-47B  |  
 | Alfred Joseph        | **[Duggan](alfred-joseph-duggan.md)**     | 1864-mm-dd | 1884-11-20 | 7-52-5     | 
-| Edward               | McGregor                                  | yyyy-mm-dd | 1939-mm-dd | 4-16-17/18 | 
-| Sidney               | Cook                                      | yyyy-mm-dd | 1937-03-23 | 4-35-14 | 
-| Samuel               | Keenan                                    | yyyy-mm-dd | yyyy-mm-dd | 2-48-7     | 
-| Henry William        | Mobsby                                    | 1860-08-17 | 1933-04-09 | 5-61-11    | 
-| Karoly *(Charles)*   | Pulszky                                   | 1854-11-10 | 1899-06-05 | 5-2-3      | 
-| Thomas               | Macer *(Megan)*                           | yyyy-mm-dd | 1926-mm-dd | 21-14-3    | 
-| Arthur               | Aldridge                                  | 1873-mm-dd | 1929-11-03 | 23-31-14   | 
-| Kyrle Edward         | McAllister *(Sylvaney)*                   | yyyy-mm-dd | yyyy-mm-dd | 23-31-15   | 
+| Edward               | **[McGregor](edward-mcgregor.md)**        | yyyy-mm-dd | 1939-mm-dd | 4-16-17/18 | 
+| Sidney               | **[Cook](sidney-cook.md)**                | yyyy-mm-dd | 1937-03-23 | 4-35-14 | 
+| Samuel               | **[Keenan](samuel-keenan.md)**            | yyyy-mm-dd | yyyy-mm-dd | 2-48-7     | 
+| Henry William        | **[Mobsby](henry-william-mobsby.md)**     | 1860-08-17 | 1933-04-09 | 5-61-11    | 
+| Karoly *(Charles)*   | **[Pulszky](karoly-pulszky.md)**          | 1854-11-10 | 1899-06-05 | 5-2-3      | 
+| Thomas               | **[Macer](thomas-macer.md)**              | yyyy-mm-dd | 1926-11-16 | 21-14-3    | 
+| Arthur               | **[Aldridge](arthur-aldridge.md)**        | 1873-mm-dd | 1929-11-03 | 23-31-14   | 
+| Kyrle Edward         | **[McAllister](kyrle-edward-mcallister.md)** *(Sylvaney)* | yyyy-mm-dd | 1929-11-03 | 23-31-15   | 
 | George Barney        | **[Petrie](george-barney-petrie.md)**     | 1839-mm-dd | 1878-06-21 | 13-5-3     | 
 | Alex                 | **[Gow](alex-gow.md)**                    | 1861-10-19 | 1919-05-02 | 13-59-3/4  | 
-| John                 | Hislop                                    | yyyy-mm-dd | 1918-07-15 | 11-68-9    | 
-| Alma                 | Adlington                                 | 1856-mm-dd | 1891-05-04 | 7-114-5    | 
-| George               | Sillett                                   | 1866-mm-dd | 1908-09-07 | 5-65-9     | 
-| Walter               | Barrett                                   | 1833-mm-dd | 1907-12-11 | 1-31-7/8   | 
+| John                 | **[Hislop](john-hislop.md)**              | yyyy-mm-dd | 1918-07-15 | 11-68-9    | 
+| Alma                 | **[Adlington](alma-adlington.md)**        | 1856-mm-dd | 1891-05-04 | 7-114-5    | 
+| George               | **[Sillett](george-sillett.md)**          | 1866-mm-dd | 1908-09-07 | 5-65-9     | 
+| Walter               | **[Barrett](walter-barrett.md)**          | 1833-mm-dd | 1907-12-11 | 1-31-7/8   | 
 | Kate Mary            | **[Smith](kate-mary-smith.md)**           | 1847-mm-dd | 1932-06-dd | 1-7-14     | 
-| Alfred               | Cannon                                    | yyyy-mm-dd | 1915-09-11 | 4-1-21/22  | 
-| Joseph               | Cripps                                    | 1849-mm-dd | 1918-01-15 | 4-28-6     | 
+| Alfred               | **[Cannon](alfred-cannon.md)**            | yyyy-mm-dd | 1915-09-11 | 4-1-21/22  | 
+| Joseph               | **[Cripps](joseph-cripps.md)**               | 1849-mm-dd | 1918-01-15 | 4-28-6     | 
 | Le Fevre James       | Cranstone                                 | 1822-mm-dd | 1893-06-22 | 2A-15-22   | 
 | Isaac Walter         | Jenner                                    | 1837-03-18 | 1902-03-01 | 5-43-16    | 
 | Richard Godfrey      | Rivers                                    | 1859-mm-dd | 1925-04-02 | 12-24-4    | 
@@ -469,8 +469,6 @@
 | Septimus             | Price                                     | 1837-mm-dd | 1902-12-28 | 9-33-3 | 
 | Thomas Woodward      | **[Hill](thomas-woodward-hill.md)**       | 1816-12-16 | 1892-01-31 | 13-42-22 | 
 | Agnes Caroline       | Hill (Hall; Rains)                        | 1819-07-05 | 1904-08-09 | 3-42-22 | 
-                            
-
 
 <!--
 |                      |                                           | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
