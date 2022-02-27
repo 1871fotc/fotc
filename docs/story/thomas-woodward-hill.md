@@ -11,9 +11,11 @@ hide:
 --8<-- "snippets/thomas-woodward-hill.md"
 
 
-![Thomas Woodward Hill and Agnes Caroline Rains' headstone](../assets/thomas-woodward-hill-headstone.jpg){ width="32%" }
+![Thomas Woodward Hill and Agnes Caroline Rains' headstone](../assets/thomas-woodward-hill-headstone.jpg){ width="26%" } ![Thomas and Agnes Hill](../assets/thomas-and-agnes-hill.jpg){ width="34.05%" }
 
-<small>Thomas Woodward Hill and Agnes Caroline Rains' headstone - © Cameron Davidson. Used with permission.</small>
+<small>Thomas Woodward Hill and Agnes Caroline Rains' headstone - © Cameron Davidson. Used with permission.</small> <br>
+<small>Thomas and Agnes Hill - Used with the permission of Tom Kirkby and Robina Laughlin Rains. Tom is a great grandson of Agnes Caroline Rains.</small>
+
 
 >To the memory of  <br>
 Thomas Woodward Hill  <br>
