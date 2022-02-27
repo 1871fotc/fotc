@@ -82,13 +82,13 @@
 | Henry                | Theeman                                   | yyyy-mm-dd | 1942-03-04 | 10-41-21   | 
 | Steward Eric Ross    | Harrison                                  | yyyy-mm-dd | 1942-03-04 | 10-43-7    | 
 | John                 | Burke                                     | 1842-mm-dd | 1919-06-03 | 7-19-1     | 
-| John                 | Petrie                                    | 1822-01-15 | 1892-12-08 | 13-5-3     | 
-| George               | Edmondstone                               | 1809-05-04 | 1883-02-23 | 13-20-5    | 
-| Thomas               | Proe                                      | yyyy-mm-dd | 1922-12-17 | 13-35-9    | 
-| John Daniel          | Heal                                      | 1825-01-18 | 1908-08-18 | 13-40-9    | 
-| John                 | Sinclair                                  | 1827-12-08 | 1906-05-05 | 9-40-5     | 
-| Alfred John          | Raymond                                   | yyyy-mm-dd | yyyy-mm-dd | 9-32-8     | 
-| James                | Swan                                      | 1811-mm-dd | 1891-05-26 | 9-39-8     | 
+| John                 | **[Petrie](john-petrie.md)**              | 1822-01-15 | 1892-12-08 | 13-5-3     | 
+| George               | **[Edmondstone](george-edmondstone.md)**     | 1809-05-04 | 1883-02-23 | 13-20-5    | 
+| Thomas               | **[Proe](thomas-proe.md)**                | 1852-mm-dd | 1922-12-17 | 13-35-9    | 
+| John Daniel          | **[Heal](john-daniel-heal.md)**           | 1825-01-18 | 1908-08-18 | 13-40-9    | 
+| John                 | **[Sinclair](john-sinclair.md)**                                  | 1827-12-08 | 1906-05-05 | 9-40-5     | 
+| Alfred John          | **[Raymond](alfred-john-raymond.md)**     | 1856-02-01 | 1935-10-14 | 9-32-8     | 
+| James                | **[Swan](james-swan.md)**                 | 1811-mm-dd | 1891-05-26 | 9-39-8     | 
 | Richard Symes        | Warry                                     | 1829-mm-dd | 1891-03-12 | 13-49-22   | 
 | Richard              | Southall                                  | yyyy-mm-dd | yyyy-mm-dd | 13-59-12   | 
 | John                 | Hardgrave                                 | 1826-mm-dd | 1906-11-08 | 14-22-2/3  | 
@@ -149,6 +149,7 @@
 | Henry Lewis          | Neighbour                                 | 1857-mm-dd | 1942-07-04 | 2-44-19    | 
 | Andrew               | Fullerton                                 | 1831-mm-dd | 1899-04-10 | 2A-11-19   | 
 | James                | Trackson                                  | 1857-mm-dd | 1941-11-06 | 7-101-1/2  | 
+| Leontine Mary Jane   | **[Cooper](leontine-cooper.md)**          | 1837-04-22 | 1903-03-12 | 2A-29-11 | 
 | Justin Fox Greenlaw  | Foxton                                    | 1849-09-24 | 1916-06-23 | 1-114-7/8  | 
 | Elizabeth            | Edwards                                   | 1840-05-11 | 1914-11-07 | 14-23-14   | 
 | Robert               | Philp                                     | 1851-12-28 | 1922-06-17 | 14-23-10   | 
