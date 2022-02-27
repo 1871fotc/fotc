@@ -33,13 +33,13 @@
 | Thomas               | Macer *(Megan)*                           | yyyy-mm-dd | 1926-mm-dd | 21-14-3    | 
 | Arthur               | Aldridge                                  | 1873-mm-dd | 1929-11-03 | 23-31-14   | 
 | Kyrle Edward         | McAllister *(Sylvaney)*                   | yyyy-mm-dd | yyyy-mm-dd | 23-31-15   | 
-| George Barney        | Petrie                                    | 1839-mm-dd | 1878-06-21 | 13-5-3     | 
-| Alex                 | Gow                                       | 1861-10-19 | 1919-05-02 | 13-59-3/4  | 
+| George Barney        | **[Petrie](george-barney-petrie.md)**     | 1839-mm-dd | 1878-06-21 | 13-5-3     | 
+| Alex                 | **[Gow](alex-gow.md)**                    | 1861-10-19 | 1919-05-02 | 13-59-3/4  | 
 | John                 | Hislop                                    | yyyy-mm-dd | 1918-07-15 | 11-68-9    | 
 | Alma                 | Adlington                                 | 1856-mm-dd | 1891-05-04 | 7-114-5    | 
 | George               | Sillett                                   | 1866-mm-dd | 1908-09-07 | 5-65-9     | 
 | Walter               | Barrett                                   | 1833-mm-dd | 1907-12-11 | 1-31-7/8   | 
-| Kate Mary            | Smith                                     | 1847-mm-dd | 1932-06-dd | 1-7-14     | 
+| Kate Mary            | **[Smith](kate-mary-smith.md)**           | 1847-mm-dd | 1932-06-dd | 1-7-14     | 
 | Alfred               | Cannon                                    | yyyy-mm-dd | 1915-09-11 | 4-1-21/22  | 
 | Joseph               | Cripps                                    | 1849-mm-dd | 1918-01-15 | 4-28-6     | 
 | Le Fevre James       | Cranstone                                 | 1822-mm-dd | 1893-06-22 | 2A-15-22   | 
