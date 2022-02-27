@@ -9,6 +9,8 @@ description: Copyright, Licence, Acknowledgements, Consent and Accessibility
 
 Material on this site is copyright © 1992 — 2022 Friends of Toowong Cemetery Association Incorporated, unless otherwise noted. 
 
+<!-- 
+
 ## Licence 
 
 We have chosen to apply an open licence to our work to **encourage others to discover and share the history and stories of Toowong Cemetery.**
@@ -64,6 +66,8 @@ Thanks to everyone who has contributed content to the site to help us **share th
 
 If you feel we have not attributed your work correctly, or used it inappropriately, please contact us.
 
+--> 
+
 ## Disclaimer
 
 While we make every reasonable effort to ensure the accuracy of information, some of the content on this site may contain inaccuracies or errors.
@@ -82,7 +86,7 @@ We acknowledge Aboriginal and Torres Strait Islander peoples and their continuin
 
 ## Accessibility
 
-We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please use the links in the footer anywhere on the site to contact us [via phone][phone], [email][email], or [using a feedback form][form].
+We try a make this website accessible to everyone. If anything on this site is inaccessible to you, or you are experiencing problems accessing content, please use the links in the footer anywhere on the site to contact us via phone, email, or using a feedback form.
 
 <!--
 ## Your consent 
