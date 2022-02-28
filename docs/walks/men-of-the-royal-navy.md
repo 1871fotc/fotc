@@ -64,6 +64,7 @@ hide:
     ![](../assets/404-16x9.png){ width="15%" } 
 -->
 
+
 --8<-- "snippets/william-leworthy-goode-drew.md"
 
 <!--
@@ -74,10 +75,9 @@ hide:
     ![](../assets/404-16x9.png){ width="15%" } 
 -->
 
-<!--
-
 --8<-- "snippets/john-vivian-williams.md"
 
+<!--
 ??? directions "Directions" 
 
     Walking directions...
@@ -116,8 +116,6 @@ hide:
 -->
 
 --8<-- "snippets/arthur-lowe.md"
-
-![Arthur Lowe's headstone](../assets/arthur-lowe.jpg){ width="32%" }
 
 <!--
 ??? directions "Directions" 

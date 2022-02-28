@@ -368,7 +368,7 @@
 | Charles              | **[Heaphy](/charles-heaphy.md)**          | 1822-mm-dd | 1881-08-03 | 1-5-34    | 
 | Maurice              | Headford                                  | 1898-02-23 | 1936-06-18 | 10-72-35  | 
 | Arthur Kilminster    | Beaven                                    | 1895-01-28 | 1921-06-09 | 10-52-9   | 
-| Watkin Llewellyn     | Whitaker                                  | 1885-07-dd | 1942-10-03 | 10-84-13  | 
+| Watkin Llewellyn  | **[Whitaker](watkin-llewellyn-whitaker.md)** | 1885-07-dd | 1942-10-03 | 10-84-13  | 
 | Matroos              | Boesidin                                  | 1909-mm-dd | 1942-08-27 | 30-22-21  | 
 |                      | Samanuddin                                | 1906-mm-dd | 1943-07-16 | 29-9-11   | 
 | Christian Thomas     | Wagner                                    | 1830-mm-dd | 1903-02-28 | 4-32-1    |  
@@ -385,16 +385,17 @@
 | Pauline Emma         | Eschenhagen                               | 1869-12-26 | 1921-07-04 | 9-15-5    | 
 | Johann Christian *(John)* | Heussler                             | 1820-06-15 | 1907-10-26 | 13-64-11  | 
 | Sophia Esther        | Heussler                                  | yyyy-mm-dd | 1914-06-05 | 13-64-11  | 
-| Joseph               | Watters                                   | yyyy-mm-dd | yyyy-mm-dd | 10-65-29  |  
-| James                | Kirk                                      | 1838-07-14 | yyyy-mm-dd | 13-59-8   | 
-| Thomas Lodge         | Murray-Prior                              | 1819-11-13 | yyyy-mm-dd | 13-72-15/16 |  
-| John Stephen         | Ferriter                                  | 1802-08-24 | 1865-10-21 | 14-24-13  | 
-| William Leworthy Goode | Drew                                    | 1826-10-14 | yyyy-mm-dd | 13-86-1   | 
-| John Forrest         | Haymen                                    | 1902-06-29 | yyyy-mm-dd | 12-49-3   | 
-| Ian Chesborough Rose | MacDonald                                 | yyyy-mm-dd | yyyy-mm-dd | 11-52-12  | 
-| Arthur               | Lowe                                      | 1864-08-11 | 1896-10-20 | 11-15-16/17 | 
-| John Cornish         | Pentecost                                 | 1835-06-03 | yyyy-mm-dd | 9-29-3    | 
-| Alexander Hastings   | Gruer                                     | 1838-mm-dd | yyyy-mm-dd | 9-40-8    | 
+| Joseph               | **[Watters](joseph-watters.md)**          | yyyy-mm-dd | yyyy-mm-dd | 10-65-29  |  
+| James                | **[Kirk](james-kirk.md)**                 | 1838-07-14 | yyyy-mm-dd | 13-59-8   | 
+| Thomas Lodge     | **[Murray-Prior](thomas-lodge-murray-prior)** | 1819-11-13 | yyyy-mm-dd | 13-72-15/16 |  
+| John Stephen         | **[Ferriter](john-stephen-ferriter)**     | 1802-08-24 | 1865-10-21 | 14-24-13  | 
+| William Leworthy Goode | **[Drew](william-leworthy-goode-drew.md)** | 1826-10-14 | yyyy-mm-dd | 13-86-1   | 
+| John Vivian          | **[Williams](john-vivian-williams.md)**   | 1836-mm-dd | yyyy-mm-dd | 12-27-5   | 
+| John Forrest         | **[Haymen](john-forrest-haymen.md)**      | 1902-06-29 | yyyy-mm-dd | 12-49-3   | 
+| Ian Chesborough Rose | **[MacDonald](ian-chesborough-rose-macdonald.md)** | yyyy-mm-dd | yyyy-mm-dd | 11-52-12  | 
+| Arthur               | **[Lowe](arthur-lowe.md)**                | 1864-08-11 | 1896-10-20 | 11-15-16/17 | 
+| John Cornish         | **[Pentecost](john-cornish-pentecost)**   | 1835-06-03 | yyyy-mm-dd | 9-29-3    | 
+| Alexander Hastings   | **[Gruer](alexander-hastings-gruer.md)**  | 1838-mm-dd | yyyy-mm-dd | 9-40-8    | 
 | Jonas                | Malouf                                    | 1849-12-dd | yyyy-mm-dd | 5-26-2/3  |  
 | Mary                 | Malouf                                    | 1869-mm-dd | yyyy-mm-dd | 5-26-2/3  | 
 | Alfred               | Wall                                      | yyyy-mm-dd | yyyy-mm-dd | 5-27-16   | 
