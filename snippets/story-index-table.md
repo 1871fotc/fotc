@@ -92,7 +92,7 @@
 | Richard Symes        | **[Warry](richard-symes-warry.md)**       | 1829-mm-dd | 1891-03-12 | 13-49-22   | 
 | Richard              | **[Southall](richard-southall.md)**       | 1831-mm-dd | 1909-02-04 | 13-59-12   | 
 | John                 | **[Hardgrave](john-hardgrave.md)**        | 1826-mm-dd | 1906-11-08 | 14-22-2/3  | 
-| Joshua               | Jeays                                     | 1881-03-11 | yyyy-mm-dd | 13-62-13   | 
+| Joshua               | **[Jeays](joshua-jeays.md)**              | 1881-03-11 | yyyy-mm-dd | 13-62-13   | 
 | William              | Pettigrew                                 | 1825-08-26 | 1906-10-28 | 13-66-2    | 
 | Archibald            | Watson                                    | yyyy-mm-dd | 1941-02-25 | 12-13-2    | 
 | William MacNaughton  | Galloway                                  | yyyy-mm-dd | 1895-01-12 | 7A-41-18   | 
