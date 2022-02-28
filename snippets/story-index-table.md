@@ -91,7 +91,7 @@
 | James                | **[Swan](james-swan.md)**                 | 1811-mm-dd | 1891-05-26 | 9-39-8     | 
 | Richard Symes        | **[Warry](richard-symes-warry.md)**       | 1829-mm-dd | 1891-03-12 | 13-49-22   | 
 | Richard              | **[Southall](richard-southall.md)**       | 1831-mm-dd | 1909-02-04 | 13-59-12   | 
-| John                 | Hardgrave                                 | 1826-mm-dd | 1906-11-08 | 14-22-2/3  | 
+| John                 | **[Hardgrave](john-hardgrave.md)**        | 1826-mm-dd | 1906-11-08 | 14-22-2/3  | 
 | Joshua               | Jeays                                     | 1881-03-11 | yyyy-mm-dd | 13-62-13   | 
 | William              | Pettigrew                                 | 1825-08-26 | 1906-10-28 | 13-66-2    | 
 | Archibald            | Watson                                    | yyyy-mm-dd | 1941-02-25 | 12-13-2    | 
@@ -469,7 +469,7 @@
 | Richard              | Belford                                   | yyyy-mm-dd | 1865-04-28 | 15-11-6 | 
 | Septimus             | Price                                     | 1837-mm-dd | 1902-12-28 | 9-33-3 | 
 | Thomas Woodward      | **[Hill](thomas-woodward-hill.md)**       | 1816-12-16 | 1892-01-31 | 13-42-22 | 
-| Agnes Caroline       | Hill (Hall; Rains)                        | 1819-07-05 | 1904-08-09 | 3-42-22 | 
+| Agnes Caroline       | Hill *(Hall; Rains)*                        | 1819-07-05 | 1904-08-09 | 3-42-22 | 
 
 <!--
 |                      |                                           | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
