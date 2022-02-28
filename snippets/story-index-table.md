@@ -93,9 +93,9 @@
 | Richard              | **[Southall](richard-southall.md)**       | 1831-mm-dd | 1909-02-04 | 13-59-12   | 
 | John                 | **[Hardgrave](john-hardgrave.md)**        | 1826-mm-dd | 1906-11-08 | 14-22-2/3  | 
 | Joshua               | **[Jeays](joshua-jeays.md)**              | 1812-mm-dd | 1881-03-11 | 13-62-13   | 
-| William              | Pettigrew                                 | 1825-08-26 | 1906-10-28 | 13-66-2    | 
-| Archibald            | Watson                                    | yyyy-mm-dd | 1941-02-25 | 12-13-2    | 
-| William MacNaughton  | Galloway                                  | yyyy-mm-dd | 1895-01-12 | 7A-41-18   | 
+| William              | **[Pettigrew](william-pettigrew.md)**     | 1825-08-26 | 1906-10-28 | 13-66-2    | 
+| Archibald            | **[Watson](archibald-watson.md)**         | 1874-10-22 | 1941-02-25 | 12-13-2    | 
+| William MacNaughton  | **[Galloway](william-macnaughton-galloway.md)** | yyyy-mm-dd | 1895-01-12 | 7A-41-18   | 
 | John                 | Melville                                  | 1834-09-10 | 1912-03-08 | 9-10-14    | 
 | Alexander            | Raff                                      | 1820-07-dd | 1914-01-26 | 13-79-1    |  
 | James                | Cowlishaw                                 | 1834-12-19 | 1929-07-25 | 11-41-7A   | 
