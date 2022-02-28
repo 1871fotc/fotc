@@ -462,15 +462,16 @@
 | Hugh                 | Glackin                                   | 1844-03-08 | yyyy-mm-dd | 15-22-20/21 | 
 | Frederick Augustus *(Gus)* | Garland                             | yyyy-mm-dd | yyyy-mm-dd | 15-24-22  | 
 | John                 | Galligan                                  | 1857-mm-dd | yyyy-mm-dd | 15-26-12  | 
-| Richard Oldfield     | White                                     | yyyy-mm-dd | 1926-10-22 | 10-57-1  | 
-| William Henry        | Warman                                    | yyyy-mm-dd | 1912-10-31 | 2A-25-27/28 | 
-| Sylvester            | Doig                                      | yyyy-mm-dd | 1884-09-25 | 1-22-9 | 
-| Charles              | Mills                                     | 1834-08-18 | 1894-08-23 | 1-21-4 | 
-| James Charles        | Beal                                      | 1833-mm-dd | 1904-08-24 | 7-41-18 | 
-| Richard              | Belford                                   | yyyy-mm-dd | 1865-04-28 | 15-11-6 | 
-| Septimus             | Price                                     | 1837-mm-dd | 1902-12-28 | 9-33-3 | 
-| Thomas Woodward      | **[Hill](thomas-woodward-hill.md)**       | 1816-12-16 | 1892-01-31 | 13-42-22 | 
-| Agnes Caroline       | Hill *(Hall; Rains)*                        | 1819-07-05 | 1904-08-09 | 3-42-22 | 
+| Richard Oldfield     | **[White](richard-oldfield-white.md)**    | yyyy-mm-dd | 1926-10-22 | 10-57-1   | 
+| William Henry        | **[Warman](william-henry-warman.md)**     | yyyy-mm-dd | 1912-10-31 | 2A-25-27/28 | 
+| Sylvester            | **[Doig](sylvester-doig.md)**             | yyyy-mm-dd | 1884-09-25 | 1-22-9    | 
+| Charles              | **[Mills](charles-mills.md)**             | 1834-08-18 | 1894-08-23 | 1-21-4    | 
+| William Augustine | **[O'Carroll](william-augustine-o-carroll.md)** | 1833-mm-dd | 1904-08-24 | 7-41-18 | 
+| James Charles        | **[Beal](james-charles-beal.md)**         | 1833-mm-dd | 1904-08-24 | 7-41-18   | 
+| Richard              | **[Belford](richard-belford.md)**         | 1823-mm-dd | 1865-04-28 | 15-11-6   | 
+| Septimus             | **[Price](septimus-price.md)**            | 1837-mm-dd | 1902-12-28 | 9-33-3    | 
+| Thomas Woodward      | **[Hill](thomas-woodward-hill.md)**       | 1816-12-16 | 1892-01-31 | 13-42-22  | 
+| Agnes Caroline       | Hill *(Hall; Rains)*                      | 1819-07-05 | 1904-08-09 | 3-42-22   | 
 
 <!--
 |                      |                                           | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
