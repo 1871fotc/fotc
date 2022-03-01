@@ -11,6 +11,4 @@ search:
 **dd mmmm yyyy — dd mmmm yyyy**
 
 
---8<-- "snippets/emma-miller.md"
-
-![](../assets/emma-miller.jpg){ width="32%" }
+--8<-- "snippets/.md"

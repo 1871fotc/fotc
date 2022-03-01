@@ -225,19 +225,19 @@
 | Charles Stuart       | Mein                                      | 1841-06-14 | 1890-06-30 | 12-11-13  | 
 | John Laskey          | Woolcock                                  | 1861-11-07 | 1929-01-18 | 11-65-2   | 
 | Charles              | Stumm                                     | 1865-05-10 | 1929-02-28 | 18-111-2  | 
-| Samuel Gill          | Mee                                       | 1819-mm-dd | 1909-11-09 | 4-12-30   | 
-| Thomas               | Wontner                                   | yyyy-mm-dd | 1894-08-11 | 13-26-21  | 
-| Carl Adolf           | Feilberg                                  | 1844-08-21 | 1887-10-25 | 13-71-15  | 
-| Walter John          | Morley                                    | 1852-mm-dd | 1937-12-24 | 12-13-13/14 | 
-| David Frederick Tudor | Jones                                    | 1830-08-13 | 1892-10-06 | 12-16-26  | 
-| George               | Woolnough                                 | 1834-08-17 | 1929-06-19 | 11-16-16  | 
+| Samuel Gill          | **[Mee](samuel-gill-mee.md)**             | 1819-mm-dd | 1909-11-09 | 4-12-30   | 
+| Thomas               | **[Wontner](thomas-wontner.md)**          | 1826-mm-dd | 1894-08-11 | 13-26-21  | 
+| Carl Adolf           | **[Feilberg](carl-adolf-feilberg.md)**    | 1844-08-21 | 1887-10-25 | 13-71-15  | 
+| Walter John          | **[Morley](walter-john-morley.md)**      | 1852-mm-dd | 1937-12-24 | 12-13-13/14 | 
+| David Frederick Tudor | **[Jones](david-frederick-tudor-jones.md)** | 1830-08-13 | 1892-10-06 | 12-16-26 | 
+| George               | **[Woolnough](george-woolnough.md)**      | 1834-08-17 | 1929-06-19 | 11-16-16  | 
 | George               | Cowlishaw                                 | 1841-04-21 | 1913-01-06 | 11-14-7   | 
-| John James           | Knight                                    | 1863-06-07 | 1927-11-24 | 8-33-32   | 
-| James George         | Drake                                     | 1850-04-26 | 1941-08-01 | 18-136-3  | 
-| Richard Sanderson    | Taylor                                    | 1866-mm-dd | 1932-06-06 | 8-49-19   | 
-| Robert               | Dunn                                      | 1850-mm-dd | 1926-08-02 | 8-67-5/6  | 
-| Martha *(Pattie)*    | Soutter                                   | yyyy-mm-dd | 1936-09-28 | 18-167-18 | 
-| Edmund James Thomas  | Barton                                    | 1854-mm-dd | 1937-04-10 | 11-24-16  | 
+| John James           | **[Knight](john-james-knight.md)**        | 1863-06-07 | 1927-11-24 | 8-33-32   | 
+| James George         | **[Drake](james-george-drake.md)**        | 1850-04-26 | 1941-08-01 | 18-136-3  | 
+| Richard Sanderson    | **[Taylor](richard-sanderson-taylor.md)** | 1866-mm-dd | 1932-06-06 | 8-49-19   | 
+| Robert               | **[Dunn](robert-dunn.md)**                | 1850-mm-dd | 1926-08-02 | 8-67-5/6  | 
+| Martha *(Pattie)*    | **[Soutter](martha-soutter.md)**          | yyyy-mm-dd | 1936-09-28 | 18-167-18 | 
+| Edmund James Thomas | **[Barton](edmund-james-thomas-barton.md)** | 1854-mm-dd | 1937-04-10 | 11-24-16 | 
 | William Francis      | Faine                                     | yyyy-mm-dd | 1899-08-28 | 13-12-1   | 
 | William James        | Muldoon                                   | yyyy-mm-dd | 1924-09-23 | 2-26-25   | 
 | Sidney Spencer       | Broomfield                                | 1847-mm-dd | 1933-10-24 | 18-20-11  | 
