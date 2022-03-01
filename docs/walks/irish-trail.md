@@ -133,7 +133,7 @@ He entered politics as an MLC and served as Attorney‑General in 1893 and MLA f
 
     Pause here for a moment and look across the road to the right to view…
 
-## John Leahy <small>(7a‑4‑3)</small> 
+## John Leahy <small>(7A‑4‑3)</small> 
 
 1854 ‑ 1909 
 
@@ -141,7 +141,7 @@ Leahy was born at Schull, Cork, the son of Patrick Leahy, a farmer, and Mary Cog
 
 Leahy’s political career as member for Bulloo 1893 to 1909 saw him as Secretary for the Railways and Public Works 1907‑09. He held many directorships including the Queensland Meat Export Co., Estate and Mortgage Co., and the National Agricultural Association of Queensland. He was also a member of Brisbane Chamber of Commerce and on the executive of the Queensland Irish Association. Leahy died at his home in New Farm in 1909 and was buried after a state funeral.
 
-## Thomas Joseph Ryan <small>(7a‑3a‑1)</small>  
+## Thomas Joseph Ryan <small>(7A‑3A‑1)</small>  
 
 1875 ‑ 1921 
 
@@ -243,7 +243,7 @@ His funeral cortege consisted of 62 vehicles with over 500 persons attending the
 
     Turn left here off the road and go up the hill to the dark grey celtic cross of…
 
-## Francis (Frank) McDonnell <small>(7a‑17‑23)</small> 
+## Francis (Frank) McDonnell <small>(7A‑17‑23)</small> 
 
 1863 ‑ 1928  
 

@@ -2,7 +2,7 @@
 | ----------:          | :--------                                 |:---------  | :--------- | :--------- |
 | Samuel Wensley      | **[Blackall](samuel-wensley-blackall.md)** | 1809-05-01 | 1871-01-02 | Mount Blackall | 
 | Ann                  | **[Hill](ann-hill.md)**                   | 1850-04-25 | 1871-11-01 | 6-21-9     | 
-| David John           | **[Garland](david-john-garland.md)**      | 1864-10-04 | 1939-10-11 | 1-5a-9     | 
+| David John           | **[Garland](david-john-garland.md)**      | 1864-10-04 | 1939-10-11 | 1-5A-9     | 
 | Arthur               | **[Rutledge](arthur-rutledge.md)**        | 1843-08-29 | 1917-02-08 | 13-49-15   | 
 | Samuel Walker        | **[Griffith](samuel-walker-griffith.md)** | 1845-06-21 | 1920-08-09 | 12-11-6/7  | 
 | John                 | **[Donaldson](john-donaldson.md)**        | 1841-06-15 | 1896-07-25 | 12-47-13   | 
@@ -83,10 +83,10 @@
 | Steward Eric Ross    | Harrison                                  | yyyy-mm-dd | 1942-03-04 | 10-43-7    | 
 | John                 | Burke                                     | 1842-mm-dd | 1919-06-03 | 7-19-1     | 
 | John                 | **[Petrie](john-petrie.md)**              | 1822-01-15 | 1892-12-08 | 13-5-3     | 
-| George               | **[Edmondstone](george-edmondstone.md)**     | 1809-05-04 | 1883-02-23 | 13-20-5    | 
+| George               | **[Edmondstone](george-edmondstone.md)**  | 1809-05-04 | 1883-02-23 | 13-20-5    | 
 | Thomas               | **[Proe](thomas-proe.md)**                | 1852-mm-dd | 1922-12-17 | 13-35-9    | 
 | John Daniel          | **[Heal](john-daniel-heal.md)**           | 1825-01-18 | 1908-08-18 | 13-40-9    | 
-| John                 | **[Sinclair](john-sinclair.md)**                                  | 1827-12-08 | 1906-05-05 | 9-40-5     | 
+| John                 | **[Sinclair](john-sinclair.md)**          | 1827-12-08 | 1906-05-05 | 9-40-5     | 
 | Alfred John          | **[Raymond](alfred-john-raymond.md)**     | 1856-02-01 | 1935-10-14 | 9-32-8     | 
 | James                | **[Swan](james-swan.md)**                 | 1811-mm-dd | 1891-05-26 | 9-39-8     | 
 | Richard Symes        | **[Warry](richard-symes-warry.md)**       | 1829-mm-dd | 1891-03-12 | 13-49-22   | 
@@ -332,13 +332,13 @@
 | John                 | Ahern                                     | 1838-mm-dd | 1893-mm-dd | 7-51-4    | 
 | Andrew               | Purcell                                   | 1811-mm-dd | 1888-mm-dd | 7-50-1    | 
 | Thomas Joseph        | Byrnes                                    | 1860-mm-dd | 1898-09-dd | 7-47-5    | 
-| John                 | Leahy                                     | 1854-mm-dd | 1909-mm-dd | 7a-4-3    | 
-| Thomas Joseph        | Ryan                                      | 1875-mm-dd | 1921-mm-dd | 7a-3a-1   | 
+| John                 | Leahy                                     | 1854-mm-dd | 1909-mm-dd | 7A-4-3    | 
+| Thomas Joseph        | Ryan                                      | 1875-mm-dd | 1921-mm-dd | 7A-3A-1   | 
 | Randal               | MacDonnell                                | 1830-mm-dd | 1877-mm-dd | 7-20-10   | 
 | Peter                | Gaffney                                   | 1839-mm-dd | 1879-mm-dd | 7-19-23   | 
 | John                 | McDermott                                 | 1841-mm-dd | 1908-mm-dd | 7-56-3    | 
 | William Augustine    | O’Carroll                                 | 1831-mm-dd | 1885-05-16 | 7-54-9    | 
-| Francis *(Frank)*    | McDonnell                                 | 1863-mm-dd | 1928-mm-dd | 7a-17-23  | 
+| Francis *(Frank)*    | McDonnell                                 | 1863-mm-dd | 1928-mm-dd | 7A-17-23  | 
 | Michael Joseph       | Devitt                                    | 1859-mm-dd | 1917-mm-dd | 15-29-6   | 
 | Sam                  | Burmister                                 | yyyy-mm-dd | yyyy-mm-dd | 3-25-5    | 
 | Wilfred John         | Friedlander                               | yyyy-mm-dd | yyyy-mm-dd | 3-9A-17   | 
@@ -440,8 +440,8 @@
 | Thomas               | Jones                                     | 1836-07-30 | 1918-08-14 | 6-3-8/9   | 
 | Walter               | Thompson                                  | 1863-mm-dd | 1952-01-08 | 6-3-11    | 
 | Mary Lorna           | Thompson                                  | yyyy-mm-dd | 1931-11-01 | 6-3-11    | 
-| Charles              | Highfield                                 | 1840-06-06 | 1923-10-10 | 6-11-15/15a | 
-| Harriott Eleanor     | Highfield                                 | 1853-10-06 | 1937-12-16 | 6-11-15/15a | 
+| Charles              | Highfield                                 | 1840-06-06 | 1923-10-10 | 6-11-15/15A | 
+| Harriott Eleanor     | Highfield                                 | 1853-10-06 | 1937-12-16 | 6-11-15/15A | 
 | Thomas               | McWatters                                 | yyyy-mm-dd | 1937-12-17 | 6-12-20/21 | 
 | Fanny                | McWatters                                 | yyyy-mm-dd | 1913-mm-dd | 6-12-20/21 | 
 | Jessie               | McWatters                                 | yyyy-mm-dd | yyyy-mm-dd | 6-12-20/21 | 

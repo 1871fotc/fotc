@@ -76,7 +76,7 @@ On 27 November 1912 in St Michael and All Angels' Church, Walter married Mary Ho
 -->
 
 
-## Charles and Harriott Eleanor Highfield <small>(6‑11‑15/15a)</small>
+## Charles and Harriott Eleanor Highfield <small>(6‑11‑15/15A)</small>
 
 Charles Highfield was born at Birkenhead Cheshire on 6 June 1840, the son of Samuel Highfield, a merchant and at one time English Consul at Livorno Italy and his wife, Ellen Jackson. In 1864 Charles left England on the ship *Royal Albert*. Upon arrival in Queensland, he took up land on the Logan River. 
 
