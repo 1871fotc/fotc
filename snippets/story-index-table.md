@@ -204,7 +204,7 @@
 | Charles Chesworth    | Burgess                                   | 1883-05-09 | 1939-04-11 | 10-76-15   | 
 | John Henry           | Griffin                                   | yyyy-mm-dd | 1893-07-01 | 2A-23-5   | 
 | Molyneux Henry Dickinson | Nepean                                | 1846-04-19 | 1889-09-30 | 1-158-5   | 
-| Reginald Hebe        | Roe                                       | 1850-08-03 | 1926-09-21 | 20-25-5a  | 
+| Reginald Hebe        | Roe                                       | 1850-08-03 | 1926-09-21 | 20-25-5A  | 
 | John                 | Shirley                                   | 1849-08-11 | 1922-04-05 | 20-25-6   | 
 | Albert Charles       | Cox                                       | 1892-12-08 | 1925-01-29 | 20-23-1/2 | 
 | Samuel James         | Reilly                                    | yyyy-mm-dd | 1919-10-21 | 20-46-18  | 

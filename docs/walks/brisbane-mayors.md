@@ -203,11 +203,11 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
     At this point you can either: 
     
     - end the walk by continuing down the hill to the starting point.
-    - visit William MacNaughton Galloway's grave in Portion 7a. To do this: 
+    - visit William MacNaughton Galloway's grave in Portion 7A. To do this: 
       - Walk along Emma Miller Avenue to Charles Heaphy Drive.
       - Continue down Charles Heaphy Drive to the Shelter Shed.
       - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
-      - Walk into Portion 7a about 4 sections, and you'll find...
+      - Walk into Portion 7A about 4 sections, and you'll find...
 
     ![William MacNaughton Galloway's headstone](../assets/william-macnaughton-galloway-headstone.jpg){ width="100" }
     

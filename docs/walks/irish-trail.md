@@ -6,7 +6,7 @@ hide:
 
 # The Irish  
 
-The original Irish tour occurred in 1988 during the Bi-Centennial Celebrations, under the auspices of the Genealogical Society of Queensland Irish Group with Chair man and Researcher David Larkin as tour guide. That tour took in 31 monuments across a number of portions of the cemetery. Some of the more important figures on Mt Blackall are included on other Friends of Toowong Cemetery walks and so this tour is confined to the Roman Catholic Portions 7, 7a and 15 with 17 memorials to visit. The walk takes approximately one hour and 30 minutes. The walk was revised and corrected early 2014 by Darcy Maddock.
+The original Irish tour occurred in 1988 during the Bi-Centennial Celebrations, under the auspices of the Genealogical Society of Queensland Irish Group with Chair man and Researcher David Larkin as tour guide. That tour took in 31 monuments across a number of portions of the cemetery. Some of the more important figures on Mt Blackall are included on other Friends of Toowong Cemetery walks and so this tour is confined to the Roman Catholic Portions 7, 7A and 15 with 17 memorials to visit. The walk takes approximately one hour and 30 minutes. The walk was revised and corrected early 2014 by Darcy Maddock.
 
 ## Anne Devoy <small>(7‑7‑34)</small>
 
