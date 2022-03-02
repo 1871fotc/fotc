@@ -149,15 +149,15 @@
 | Henry Lewis          | Neighbour                                 | 1857-mm-dd | 1942-07-04 | 2-44-19    | 
 | Andrew               | Fullerton                                 | 1831-mm-dd | 1899-04-10 | 2A-11-19   | 
 | James                | Trackson                                  | 1857-mm-dd | 1941-11-06 | 7-101-1/2  | 
-| Leontine Mary Jane   | **[Cooper](leontine-cooper.md)**          | 1837-04-22 | 1903-03-12 | 2A-29-11 | 
-| Justin Fox Greenlaw  | Foxton                                    | 1849-09-24 | 1916-06-23 | 1-114-7/8  | 
-| Elizabeth            | Edwards                                   | 1840-05-11 | 1914-11-07 | 14-23-14   | 
-| Robert               | Philp                                     | 1851-12-28 | 1922-06-17 | 14-23-10   | 
-| Horace               | Tozer                                     | 1844-04-23 | 1916-08-20 | 12-11-8    | 
-| Charles              | Lilley                                    | 1827-08-27 | 1897-08-20 | 12-15-15   | 
-| Boyd Dunlop          | Morehead                                  | 1843-08-24 | 1905-10-30 | 12-49-6    | 
-| David Hay            | Dalrymple                                 | 1840-12-14 | 1912-09-01 | 12-53-2    | 
-| Arthur               | Morgan                                    | 1856-09-19 | 1916-12-20 | 12-15-12   | 
+| Leontine Mary Jane   | **[Cooper](leontine-cooper.md)**          | 1837-04-22 | 1903-03-12 | 2A-29-11   | 
+| Justin Fox Greenlaw | **[Foxton](justin-fox-greenlaw-foxton.md)** | 1849-09-24 | 1916-06-23 | 1-114-7/8 | 
+| Elizabeth            | **[Edwards](elizabeth-edwards.md)**       | 1840-05-11 | 1914-11-07 | 14-23-14   | 
+| Robert               | **[Philp](robert-philp.md)**              | 1851-12-28 | 1922-06-17 | 14-23-10   | 
+| Horace               | **[Tozer](horace-tozer.md)**              | 1844-04-23 | 1916-08-20 | 12-11-8    | 
+| Charles              | **[Lilley](charles-lilley.md)**           | 1827-08-27 | 1897-08-20 | 12-15-15   | 
+| Boyd Dunlop          | **[Morehead](boyd-dunlop-morehead.md)**   | 1843-08-24 | 1905-10-30 | 12-49-6    | 
+| David Hay            | **[Dalrymple](david-hay-dalrymple.md)**   | 1840-12-14 | 1912-09-01 | 12-53-2    | 
+| Arthur               | **[Morgan](arthur-morgan.md)**            | 1856-09-19 | 1916-12-20 | 12-15-12   | 
 | Andrew Lang          | Petrie                                    | 1854-mm-dd | yyyy-mm-dd | 13-10-7    | 
 | George Harpur        | Jones                                     | yyyy-mm-dd | yyyy-mm-dd | 13-15-7    | 
 | William John         | Munce                                     | yyyy-mm-dd | 1892-mm-dd | 9-43-11    | 
