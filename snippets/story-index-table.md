@@ -72,7 +72,7 @@
 | Jessie Lacy          | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9-41-1     | 
 | George               | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9-41-1     | 
 | Henry Lander         | Pethebridge                               | 1835-mm-dd | 1910-06-13 | 13-4-7     | 
-| George               | Davidson                                  | yyyy-mm-dd | 1888-04-29 | 13-7-1     | 
+| George               | **[Davidson](george-davidson.md)**        | yyyy-mm-dd | 1888-04-29 | 13-7-1     | 
 | William              | Smith                                     | yyyy-mm-dd | 1872-mm-dd | 13-6-21    | 
 | Charles Stewart      | Thow                                      | yyyy-mm-dd | 1883-06-02 | 13-16-10   | 
 | David                | Muir                                      | 1824-mm-dd | yyyy-mm-dd | 13-16-12   | 
@@ -141,14 +141,14 @@
 | Anthony              | Musgrave                                  | 1828-11-17 | 1888-10-09 | 14-23-7    | 
 | Arthur Hunter        | Palmer                                    | 1819-12-28 | 1898-03-20 | 13-88-7    | 
 | Pope Alexander       | Cooper                                    | 1846-05-12 | 1923-08-30 | 13-37-1    | 
-| Edmund               | Mellor                                    | yyyy-mm-dd | 1872-09-26 | 9-38-4     | 
-| George               | Hiron                                     | 1840-mm-dd | 1915-06-02 | 13-20-9    | 
-| Joseph William       | Sutton                                    | yyyy-mm-dd | 1914-02-21 | 13-7-13/14 | 
-| George               | Fish                                      | yyyy-mm-dd | 1925-09-23 | 12-1-11    | 
-| Benjamin Harris      | Babbidge                                  | yyyy-mm-dd | 1905-02-19 | 1-44-9     | 
-| Henry Lewis          | Neighbour                                 | 1857-mm-dd | 1942-07-04 | 2-44-19    | 
-| Andrew               | Fullerton                                 | 1831-mm-dd | 1899-04-10 | 2A-11-19   | 
-| James                | Trackson                                  | 1857-mm-dd | 1941-11-06 | 7-101-1/2  | 
+| Edmund               | **[Mellor](edmund-mellor.md)**            | yyyy-mm-dd | 1872-09-26 | 9-38-4     | 
+| George               | **[Hiron](george-hiron.md)**              | 1840-mm-dd | 1915-06-02 | 13-20-9    | 
+| Joseph William       | **[Sutton](joseph-william-sutton.md)**    | yyyy-mm-dd | 1914-02-21 | 13-7-13/14 | 
+| George               | **[Fish](george-fish.md)**                | yyyy-mm-dd | 1925-09-23 | 12-1-11    | 
+| Benjamin Harris      | **[Babbidge](benjamin-harris-babbidge.md)** | 1836-10-02 | 1905-02-19 | 1-44-9   | 
+| Henry Lewis          | **[Neighbour](henry-lewis-neighbour.md)** | 1857-mm-dd | 1942-08-04 | 2-44-19    | 
+| Andrew               | **[Fullerton](andrew-fullerton.md)**      | 1831-mm-dd | 1899-04-10 | 2A-11-19   | 
+| James                | **[Trackson](james-trackson.md)**         | 1857-mm-dd | 1941-11-06 | 7-101-1/2  | 
 | Leontine Mary Jane   | **[Cooper](leontine-cooper.md)**          | 1837-04-22 | 1903-03-12 | 2A-29-11   | 
 | Justin Fox Greenlaw | **[Foxton](justin-fox-greenlaw-foxton.md)** | 1849-09-24 | 1916-06-23 | 1-114-7/8 | 
 | Elizabeth            | **[Edwards](elizabeth-edwards.md)**       | 1840-05-11 | 1914-11-07 | 14-23-14   | 

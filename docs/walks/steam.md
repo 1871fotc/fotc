@@ -17,9 +17,7 @@ hide:
 
 -->
 
-## Captain Edmund Mellor <small>(9‑38‑4)</small>
-
-Captain Mellor, an early immigrant to Moreton Bay, arrived in the colony in January 1849 on the sailing ship *Fortitude*. In the days when the river trade was the 'lifeline' between Brisbane and Ipswich, he became owner of the river steamers *Bremer* and *Settler*. The *[Louisa](https://www.flickr.com/photos/queenslandstatearchives/30922853551)*, the first iron steamboat ever constructed in the colony of Queensland was built by R.R. Smellie & Co to the order of Captain Mellor. After Mellor's death on 26 September 1872 at the age of 59, the *Louisa* was used on the Logan-Brisbane run. 
+--8<-- "snippets/edmund-mellor.md"
 
 <!-- 
 ??? directions "Directions" 
@@ -27,36 +25,15 @@ Captain Mellor, an early immigrant to Moreton Bay, arrived in the colony in Janu
     Walking directions to next headstone... is the grave of...
     
     ![](../assets/404.png){ width="15%" }
-
 -->
 
-## George Hiron <small>(13‑20‑9)</small>
+--8<-- "snippets/george-hiron.md"
 
-George Hiron, the son of a baker, came to Australia in 1856 at the age of 16 from his birthplace in Cheltenham, Gloucestershire. Within three year he was managing a general store on the goldfields near Tabulum in northern New South Wales. In 1862, in parternship with his brother-in-law, he opened the general store or Hiron & Wakefield at Smith's Flat on the Clarence River. On returning from a family trip to England, he set up in Brisbane, firstly as a baker, pastrycook and confectioner in Queen Street and, in 1871, commenced the manufacturer of biscuits in Albert Street. He later moved to Toowong where he opened a steam biscuit factory in parternship with his son John. George Hiron & Son won [several awards](https://trove.nla.gov.au/newspaper/article/19295572/1547991), including the Queensland Jubilee Medal in 1909. George was also a councillor of the Taringa Shire. He died from a heart seizure in Adelaide on 2 June 1915. 
+--8<-- "snippets/joseph-william-sutton.md"
 
-## Joseph William Sutton <small>(13‑7‑13/14)</small>
+--8<-- "snippets/george-davidson.md"
 
-Joseph, who established the shipbuilding firm J W Sutton & Co at Kangaroo Point , was recognised as one of the leading engineers of his day. Early vessels built by J W Sutton & Co include the iron steamer, *Lady Musgrave*, the iron paddle steamer, *Maid of Sker*, and the first ferry boat used on the Brisbane River, the *Transit*. The home of Joseph and his wife, Mary was one of the first private residences in Brisbane to be lit up by electricity. Joseph died on 21 February 1914. 
-
-![Ship 'Maid of Sker' anchored in the Brisbane River outside of the Customs House, Queensland](../assets/maid-of-sker-ship.jpg){ width="70%" }  
-
-*<small>[Ship 'Maid of Sker' anchored in the Brisbane River outside of the Customs House, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256762780002061). Cropped. — State Library of Queensland.</small>*
-
-## George Davidson <small>(13‑7‑1)</small>
-
-George was, for many years, superintendent engineer of the Australasian Steam Navigation Company at Pyrmont in Sydney. In 1886 he moved to Brisbane to join the firm of J W Sutton & Co as manager. George was born in Glasgow on 13 April 1841 to Archibald Davidson, an engine fitter, and Janet (née Fyfe). He died on 29 February 1888 after suffering an apoplectic fit.
-
-![Sutton and Co. Foundry on Main Street, Kangaroo Point, Brisbane, ca.1890](../assets/sutton-and-co.jpg){ width="70%" }  
-
-*<small>[Sutton and Co. Foundry on Main Street, Kangaroo Point, Brisbane, ca.1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220296230002061) — State Library of Queensland.</small>*
-
-## George Fish <small>(12‑1‑11)</small>
-
-The Brisbane Steam Laundry at South Brisbane first opened in January 1881 but was taken over by George Fish two years later. The laundry was situated in an alley extending from Stanley to Grey Street. The alley became known as Soda Water Lane. Despite hardships, the business expanded under his ownership. After repairs from damage during the 1893 floods, the laundry reopened with a new name, Fish Stream Laundry. George entered local government politics in 1894. Fish Stream Laundry moved to Ann Street, Fortitude Valley in 1902. Soda Water Lane was renamed [Fish Lane](https://explorefishlane.com.au) in 1904. George died on 23 September 1925, aged 74. 
-
-![Ironing department of the Fish Steam Laundry, Brisbane, 1902](../assets/ironing-department-fish-steam-laundry.jpg){ width="70%" }  
-
-*<small>[Ironing department of the Fish Steam Laundry, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220102730002061). Female employees working with large rollers in the ironing department of the Fish Steam Laundry — State Library of Queensland.</small>*
+--8<-- "snippets/george-fish.md"
 
 ## Remains from SS Gothenberg <small>(16‑1‑3)</small>
 
@@ -66,38 +43,13 @@ The steamship *Gothenberg* contracted for the Adelaide to Port Darwin run in 187
 
 *<small>[Early photo of SS Gothenburg](https://en.wikipedia.org/wiki/File:SS_Gothenburg.jpg) — Queensland State Government - Public Domain</small>*
 
-## Benjamin Harris Babbidge <small>(1‑44‑9)</small>
+--8<-- "snippets/benjamin-harris-babbidge.md"
 
-[Benjamin](https://adb.anu.edu.au/biography/babbidge-benjamin-harris-42) was born on the Isle of Wight where he became an apprentice ship's smith in White's Shipyard at Cowee at the age of 14. White's docks, with its steam sawmills and engine shops, provided work for around 500 craftsmen. After completing his apprenticeship, Benjamin and hs bride Elizabeth sailed for Moreton Bay arriving in January 1857. He set up a business as a ship and general smith in Elizabeth Street near Raff's Wharf. By 1880 he had established a rolling stock workshop in Hope Street, South Brisbane. He was the first successful tenderer for the manufacture of railway goods wagons for the Queensland Government. He was mayor of Brisbane in 1885-86. Benjamin died on 19 February 1905 aged 68.  
+--8<-- "snippets/henry-lewis-neighbour.md"
 
+--8<-- "snippets/andrew-fullerton.md"
 
-## Henry Lewis Neighbour <small>(2‑44‑19)</small>
-
-Henry was a native of Bethnal Green in London's East End, the son of a silk weaver. His family arrived in Brisbane on the *Whirlwind* in September 1862 when Henry was aged five. After finishing school, Henry entered the boot trade as a 'clicker' cutting the leather uppers and later became foreman at his brother's boot factory in Fortitude Valley. After the business closed, he joined the firm of Davey Halliday Company Ltd. boot manufacturers in Ann Street near the corner with Albert Street. Davey Halliday installed the most modern equipment, driven by a steam engine in their basement, and manufactured all classes of men's, women's children's and infant's footwear. Henry died on 4 August 1942. 
-
-![Clicker's department at Davey Halliday & Co, 1904](../assets/clickers-davey-halliday.jpg){ width="70%" }  
-
-*<small>[Clicker's department at Davey Halliday & Co, 1904](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool430702) — State Library of Queensland.</small>*
-
-
-![Davey Halliday Company Ltd. on Ann Street](../assets/davey-halliday-building.jpg){ width="70%" }  
-
-*<small>[Davey Halliday Company Ltd. on Ann Street](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220086350002061). Carriages outside the Davey Halliday Boot Co. The building was near the corner of Albert Street and Ann Street. This is presently the site of King George Square. Erected 1904 and later part of Albert House. (Information taken from The Queenslander, 14 May 1904) — State Library of Queensland.</small>*
-
-
-## Andrew Fullerton <small>(2A‑11‑19)</small>
-
-After free settlement began in 1842, Ipswich developed as an important regional centre because of its location at the head of navigation of the Brisbane and Bremer Rivers and at the junction of routes to the Brisbane Valley and the Darling Downs.
-
-Irish-born 'Andy' Fullerton was appointed 'wharfinger' or wharf manager for the Australasian Navigation Company at Ipswich when the river steamers including *Brisbane*, *Ipswich* and *Emu* played a vital role in the river trade between Brisbane and Ipswich in 1875. Andrew became a driver of steam trains. He died on 10 April 1899 aged 68 years. 
-
-![Emu (ship)](../assets/emu-ship.jpg){ width="70%" }  
-
-*<small>[Emu (ship)](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220199170002061) — State Library of Queensland.</small>*
-
-## James Trackson <small>(7‑101‑1/2)</small>
-
-James, entrepreneur and adventurer, was a pioneer of Queensland motoring. In 1902 he imported a Locomobile steam car from the USA which was quoted in many sources as [the first car in Queensland](https://www.slq.qld.gov.au/blog/james-tracksons-tracks-queenslands-first-motorist). He was born in Norwich, England in 1857. He graduated in science from the Polytecnic in London, specialising in electrical science. He arrived in Melbourne in 1883 and was brought to Brisbane in 1884 to assist in establishing a telephone exchange. He was engaged in the installation of the electric light system in Parliament House, Brisbane in 1886. Together with his brother William, he founded the business of Trackson Brothers. [James died in Toowoomba](https://trove.nla.gov.au/newspaper/article/172346702) on 6 November 1941 at the age of 84.
+--8<-- "snippets/james-trackson.md"
 
 ## Acknowledgements
 

@@ -70,7 +70,7 @@ Henry Pethebridge, the son of William Pethebridge and Maria Lander, was the Insp
 
 ## George Davidson <small>(13‑7‑1)</small>
 
-George was for many years the Superintendent Engineer to the Australasian Steam Navigation Company, Sydney. He died on 29 April 1888 aged 47. He was the son of Archibald Davidson and Janet Fyfe. His memorial is a distinctive ship’s boiler plate set in the ground.
+George was for many years the Superintendent Engineer to the Australasian Steam Navigation Company, Sydney. He died on 29 February 1888 aged 47. He was the son of Archibald Davidson and Janet Fyfe. His memorial is a distinctive ship’s boiler plate set in the ground.
 
 <!--
 
