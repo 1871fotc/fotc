@@ -72,7 +72,7 @@
 | Jessie Lacy          | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9-41-1     | 
 | George               | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9-41-1     | 
 | Henry Lander         | Pethebridge                               | 1835-mm-dd | 1910-06-13 | 13-4-7     | 
-| George               | **[Davidson](george-davidson.md)**        | yyyy-mm-dd | 1888-04-29 | 13-7-1     | 
+| George               | **[Davidson](george-davidson.md)**        | yyyy-mm-dd | 1888-02-29 | 13-7-1     | 
 | William              | Smith                                     | yyyy-mm-dd | 1872-mm-dd | 13-6-21    | 
 | Charles Stewart      | Thow                                      | yyyy-mm-dd | 1883-06-02 | 13-16-10   | 
 | David                | Muir                                      | 1824-mm-dd | yyyy-mm-dd | 13-16-12   | 
