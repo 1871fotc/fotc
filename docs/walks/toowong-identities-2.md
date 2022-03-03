@@ -92,13 +92,8 @@ Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 18
 
     Continue around 1^st^ Avenue until it intersects with 2^nd^ Avenue. Turn right and head along Second Avenue. Five Sections down is the Gothic style headstone of...
 
-## Richard Langler Drew <small>(5‑43-22)</small>
+--8<-- "snippets/richard-langler-drew.md"
 
-Described by contemporary J. B. Fewings as *“the father of Toowong”*, Richard bought large blocks of land bordering Toowong Creek in 1861. He ascertained from the local Aborigines that Toowong was a suitable name for the area and posted the first sign as such. He and his wife Anne were founding members of the Anglican Church. In 1866, he donated part of his land in Curlew Street to build the first St Thomas Anglican Church.
-
-![View of Burns Road, Toowong, Brisbane at the intersection of High Street](../assets/burns-road-toowong-ca1910.jpg){ width="50%" }
-
-*<small>[View of Burns Road, Toowong, Brisbane at the intersection of High Street](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220116110002061) ca 1910. The second St. Thomas' Anglican Church is in the background. It replaced an 1865 timber building on another site. - State Library of Queensland </small>*
 
 ## Hercules Smith <small>(5‑40‑9)</small>
 
