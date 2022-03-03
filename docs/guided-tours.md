@@ -48,13 +48,19 @@ Wear a hat, enclosed shoes, and bring a water bottle.
 
 ## 6 March 2022
 
+!!! warning "Postponed" 
+
+    Due to the floods and the current weather warnings, this walk has been postponed.
+
 Our first heritage walking tour for 2022 is called **Tragically Taken**.  
 
 Wandering amongst Toowong Cemetery's graves, you come across gravestones with inscriptions alluding to a sudden and tragic loss of a loved one. This walk looks at the events that inspired some of those inscriptions.
 
+<!--
 The tour is from **10:30 to 12:00 on Sunday 6 March 2022**
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220306.ics)**
+-->
 
 ## 3 April 2022
 
