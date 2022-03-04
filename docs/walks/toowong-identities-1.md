@@ -18,19 +18,14 @@ This heritage walk was conceived as part of commemorative activities. It feature
 
     Commencing at the flagpole, walk behind the Amenities Block and cross Emma Miller Avenue. Head the path which separates Portions 9 and 13. In the second row to the right, behind the large white Petrie Family grave is the grey granite obelisk of...
 
-## Andrew Lang Petrie <small>(13‑10‑7)</small>
+--8<-- "snippets/andrew-lang-petrie.md"
 
-The first member of his family born in Australia in 1854, Andrew Lang Petrie relocated the family’s stonemason’s yard from the corner of Queen and Wharf Street to the Toowong Cemetery gates in 1882. The site is now occupied by Toowong Mitsubishi.
-
---8<-- "snippets/john-petrie-and-sons-advertisement.md"
 
 ??? directions "Directions" 
 
     Immediately behind the is the family grave of...
 
-## George Harpur Jones <small>(13‑15‑7)</small>
-
-George and family migrated from Croyde, Devon in 1880 and made their residence at *Jonesville*, Norwood St, Toowong. Formerly, George had been a sea captain, but supported his family by being a grave digger at Toowong Cemetery. He and his family were active members of the Brethren Church.
+--8<-- "snippets/george-harpur-jones.md"
 
 ??? directions "Directions" 
 
@@ -44,146 +39,73 @@ Irishman William John Munce died at his Toowong home *Caltura* in 1892 aged 77. 
 
     Diagonally across the path on the right is the grave of ...
 
-## Charles Patterson <small>(13‑30‑10)</small>
-
-Charles Patterson was the first Mayor of the Shire of Toowong. Born in Aberdeen, Scotland, Charles arrived in Queensland in 1871. He was a member of the Toowong Council until 1925, elected Mayor numerous times in this period. He proposed the construction of the median strip in High Street, now locally known as ‘Patterson’s Folly’, as he envisaged a divided highway ultimately leading to Ipswich. His Bon Accord sawmill was one of the first industries in Toowong, opening on the site of the present Toowong Tower in 1881. The Patterson family lived at *Kinellar*, still standing on the corner of Sherwood Road and Little Maryvale Street. They were members of the Presbyterian Congregation. Charles died in January 1926.
-
-![High Street, Toowong, Brisbane, Queensland, ca. 1917](../assets/high-street-toowong-ca1917.jpg){ width="70%" }
-
-*<small>[High Street, Toowong, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220078440002061) - State Library of Queensland </small>*
+--8<-- "snippets/charles-patterson.md"
 
 ??? directions "Directions" 
 
     Continue straight up the path passing eight rows of graves until you come to, on the left, the obelisk marking the grave of ...
-
-## Robert Cribb <small>(9‑37‑6)</small>
-
-Robert came to the Colony of Queensland aboard the *Fortitude* in January 1849. He bought land in 1852 and built Lang Farm which stretched from the hilly part of Indooroopilly Road towards Jack Cook Park and down to the River. He cleared the pine trees and vines growing along Toowong Creek, growing oranges, cabbages, grapes, mulberries and olives. Land Farm was bought by Richard Gailey, who built his mansion *Glen Olive* on the riverbank. Robert was appointed to the first Toowong Shire Council in 1880. He died on 16 April 1893 aged 88.
-
-![Robert Cribb](../assets/robert-cribb.jpg){ width="25.4%" }  ![Houses submerged in the 1893 flood waters at Toowong, Brisbane, Queensland](../assets/glen-olive-1893-flood.jpg){ width="68%" }
-
-*<small>[Robert Cribb](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218813510002061) State Library of Queensland </small>* <br>
-*<small>[Houses submerged in the 1893 flood waters at Toowong, Brisbane, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220473300002061) - State Library of Queensland. Richard Gailey’s Glen Olive can be seen in the distance. </small>*
-
-![Glen Olive Garden Estate on the river bank Toowong](../assets/glen-olive-garden-estate.jpg){ width="26.9%" }  <iframe width="560" height="315" src="https://www.youtube.com/embed/yqEivuBSHTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*<small>[Glen Olive Garden Estate on the river bank Toowong](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21119287420002061) - State Library of Queensland. This shows the site of the Glen Olive house and grounds.  <br>
-[Black February: Queensland's most deadly floods (One Minute Archive)](https://youtu.be/yqEivuBSHTw) - Queensland State Archives
-Queensland State Archives</small>*
-
-
-
+    
+--8<-- "snippets/robert-cribb.md"
 
 ??? directions "Directions" 
 
     Continuing left along the same row you will come to ...
 
-## Henry Howard Payne <small>(9‑11‑15/16)</small>
-
-Henry landed in Brisbane aboard the *Waterloo* on 7 January 1850. He farmed maize, lucerne and fruit on land stretching west from the Regatta Hotel. Henry was appointed to the first Toowong Shire Council in 1880. He died on 18 February 1903 aged 82.
+--8<-- "snippets/henry-howard-payne.md"
 
 ??? directions "Directions" 
 
     Directly ahead of the Payne grave is ...
 
-## John Melville <small>(9‑10‑4)</small>
-
-John Melville, the first overseer, devoted most of his life to Toowong Cemetery. He was born in Hertfordshire in 1834 and in 1848 came to Queensland with his parents under the guidance of Dr John Dunmore Lang aboard the *Fortitude*. In 1851 when the gold diggings broke out in Victoria, Melville went, to try his luck but returned to Brisbane at Christmas 1854 to visit his family. He then met Augustus Gregory and was asked to join his Great Northern exploration party for the purpose of exploring the Victoria and Albert Rivers, an invitation which he accepted. 
-
-After returning from the expedition Melville was engaged in survey work until 1871 when he acted as chainman to George Phillips, who had been engaged to survey part of the present cemetery at Toowong and in 1873 he was appointed overseer of the cemetery by the Trustees which position he held for 38 years. He was succeeded in his position by his son J. L. Melville. 
-
-The Melvilles lived in a house, later demolished, on part of the cemetery reserve where the bus depot is now. John died aged 77 on 8 March 1912.
+--8<-- "snippets/john-melville.md"
 
 ??? directions "Directions" 
 
     Return to the main path. Look across to the right towards the centre of portion 13.
 
-## Henry and Hannah Sleath <small>(13‑43‑18)</small>
-
-Henry was a musician and violin maker who established a music business in George Street in the City around 1866. The family lived in a residence above the shop. Nine children were born to Henry and Hannah there. Some time later, the family moved to Glen Road. Henry was elected to the Toowong Shire Council in February 1881. One of their sons, Alfred, carried on the business as H. Sleath and Son. Henry was buried on 22 March 1918. Sleath Street, near the Cemetery, off Frederick Street, was named after Henry.
+--8<-- "snippets/henry-sleath.md"
 
 ??? directions "Directions" 
 
     Also in the centre of portion 13 is ...
 
-## James Valentine <small>(13‑59‑16/17)</small>
-
-James was elected to the Toowong Shire Council in 1885. He was described by contemporary J. B. Fewings as *“an intelligent and shrewd man of business”*. A street which runs off Milton Road is named after him. He died on 17 January 1904 aged 51.
+--8<-- "snippets/james-valentine.md"
 
 ??? directions "Directions" 
 
     Continuing up the path until you come to the small sandstone obelisk of ...
-
-## Francis Drummond Grenville Stanley <small>(9‑32‑6)</small>
-
-A noted colonial architect, F.D.G. Stanley designed many of Toowong’s grand houses, including *Sidney House*, demolished to make way for the ABC Studios, *Ardencraig*, which stood on Golding St and *Easton Gray* (1869) the residence of Sir Arthur Palmer. He also designed the heritage-listed [St Thomas Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600336) on High Street, Toowong.
-
-![St. Thomas' Church Toowong, looking from Burns Road, Brisbane, Queensland, ca. 1917](../assets/st-thomas-church-toowong-ca1917.jpg){ width="70%" }
-
-*<small>[St. Thomas' Church Toowong, looking from Burns Road, Brisbane, Queensland, ca. 1917](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220179080002061) - State Library of Queensland </small>*
+    
+--8<-- "snippets/francis-drummond-grenville-stanley.md"
 
 ??? directions "Directions" 
 
     Continuing up the hill until the path splits, turn left and a few graves down is the grave of...
 
-## John Fewings <small>(9‑30‑22/23)</small>
-
-Fewings’ memoirs *Arcadian Simplicity*, written in 1892, described life in Toowong from the 1860s. He lived at *Karslake*, on Sherwood Road, near *Dovercourt*. He was headmaster of the Petrie Terrace School for nearly 30 years before moving to the headship of the Fortitude Valley School, which he held until his retirement in 1903.
+--8<-- "snippets/john-fewings.md"
 
 ??? directions "Directions" 
 
     Cross straight across the path and head in two sections until you reach the sarcophagus‑style monument to...
 
-## Thomas Finney <small>(13‑81‑6)</small>
-
-[Thomas Finney](https://adb.anu.edu.au/biography/finney-thomas-3518) and his family lived in *Sidney House* (on the site of the former ABC Studios in Toowong) from 1882, one of the grandest houses in Toowong, surrounded by gardens and an orchard. He is buried next to his business partner James Isles with whom he established Finney Isles & Co. in 1864.
-
-![Sidney House in Toowong, viewed from the street, March, 1890](../assets/sidney-house-toowong-1890.jpg){ width="70%" }
-
-*<small>[Sidney House in Toowong, viewed from the street, March, 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool127391) - State Library of Queensland </small>*
-
-<!--
-Sidney House, Toowong
-Journal of the Royal Historical Society of Queensland volume 5 issue 2: pp. 942-946
-Slaughter, Leslie E. (Leslie Edgar). Brisbane, Qld. Royal Historical Society of Queensland, 1954
-
-assets/sidney-house-toowong.pdf
-
--->
+--8<-- "snippets/thomas-finney.md"
 
 ??? directions "Directions" 
 
     Head straight up the hill until you reach cross‑mounted headstone of...
 
-## Sir Arthur Palmer <small>(13‑88-7)</small>
-
-Arthur arrived from Ireland in 1838 aged 19, spending his early years on properties in New England before moving to Queensland in 1861. Entering the Legislative Assembly in 1866, achieving Ministerial Positions in Lands, Works, Public Instruction becoming Colonial Secretary and Premier from 1870—1874. From 1881—1898 he was President of the Legislative Council. Palmer was a proprietor of the Brisbane Courier and a Trustee of the Queensland Museum. The Palmer family lived at *Easton Gray* on Stanley Terrace.
+--8<-- "snippets/arthur-palmer.md"
 
 ??? directions "Directions" 
 
     Pass the Blackall Monument until you reach, on the left, the wreath‑mounted obelisk of...
 
-## William Richer <small>(11‑7‑28)</small>
-
-William, a member of the Jireh Baptist Church, Fortitude Valley, was the first minister of the Toowong Baptist Church and was elected to the Toowong Shire Council in 1881. He designed and constructed the Baptist Church on the corner of Jephson Street and Sylvan Road and later became President of the Baptist Union.
-
-Richer Street, on the North West boundary of Toowong Cemetery, is named after William Richer.
-
-<!-- get permission to insert https://www.bhsq.org/barq/churches100years/images/1881-Toowong.html -->
+--8<-- "snippets/william-richer.md"
 
 ??? directions "Directions" 
 
     Cross the road and head down the slope until you come across the broken column marking the grave of ...
 
-## Charles Siemon <small>(12‑21‑5)</small>
-
-The Siemon family, which included six children, lived at *Ravensfield* on Coronation Drive and ran a dairy farm, grazing their cows on land near the Regatta Hotel until the 1930s. In 1904, the Charles bought *[Milton House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600253)* which they subsequently sold to the Presbyterian Church. Charles owned extensive warehouses, factories and businesses in Brisbane and was a Toowong Town Councillor.
-
-<!--
-![Ravensfield, home of the Siemon family, in River Road now Coronation Drive, Toowong, 1911](../assets/ravensfield-toowong-1911.jpg){ width="70%" }
-
-*<small>[Ravensfield, home of the Siemon family, in River Road now Coronation Drive, Toowong, 1911](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220239800002061) - State Library of Queensland </small>*
--->
+--8<-- "snippets/charles-siemon.md"
 
 ??? directions "Directions" 
 
