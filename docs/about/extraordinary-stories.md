@@ -726,7 +726,7 @@ circa 1912 - 11 January 1926
 
 circa 1913 - 1 July 1936
 
-The Chapman family tragedy unfolded over the number of years. The first death in the family was that of David Chapman, who died on the 20th of October 1923, aged 17. Less than two years later, on the 12th of February 1925, his brother, Percival, died aged 15. Almost a year later, yet another brother, Eric, died on the 11th of January 1926 aged 14. No more children died for ten years, until their sister, Margaret, died on the 1^st^ of July 1936 aged 23.
+The Chapman family tragedy unfolded over a number of years. The first death in the family was that of David Chapman, who died on the 20th of October 1923, aged 17. Less than two years later, on the 12th of February 1925, his brother, Percival, died aged 15. Almost a year later, yet another brother, Eric, died on the 11th of January 1926 aged 14. No more children died for ten years, until their sister, Margaret, died on the 1^st^ of July 1936 aged 23.
 
 What could have caused this tragic string of deaths? According to a family member, they all died of lead poisoning. After the rain, the children would lick the water off the railings because it tasted sweet. In those days, paint containing lead was widely used. The family was oblivious to the danger for years.
 
