@@ -1,5 +1,7 @@
 ---
 date: 6 May 2018
+title: At the mercy of the weather
+description: A walk about people who where impacted by major weather events
 hide:
   - navigation
 ---
