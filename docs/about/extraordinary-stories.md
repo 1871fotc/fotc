@@ -464,7 +464,7 @@ This story was contributed by Catriana Stark.
 --- 
 
 
-## John Boyne McLennan <small>(13‑6‑5/6)</small>
+## John Boyne McLennan <small>(13‑58‑3)</small>
 
 1827 - 21 November 1908
 
@@ -485,7 +485,7 @@ This story was contributed by Pamela Webster.
 
 ## William James Affleck <small>(8‑49‑14)</small>
 
-22 June 1868 - September 1932 
+22 June 1868 - 16 September 1932 
 
 Although the early history of the Affleck family is Scottish, George Affleck, father of William James, was born at
 Newcastle-on-Tyne in northern England in 1842. In 1857 George arrived in Moreton Bay with his parents and sister, older siblings having migrated two years earlier. Their religion was Presbyterian but evidently they were not teetotallers for George was a winemaker and his brother John, who settled at Killarney, south-east Queensland, made wine and had a brandy distillery.
@@ -504,10 +504,9 @@ When the family returned to Brisbane in 1902 they rented a house for a short tim
 
 After holding various honorary positions in the RNA in Brisbane, W.J. Affleck became president of this association and was also president of the Stockbreeders' Association of Queensland, the Jersey Cattle Society of Queensland and the Ayrshire Society. Such was Affleck's interest in cattle he was also treasurer of the Hereford Society. He judged cattle and established herd books and half a dozen Herd Book Societies. A building at the Brisbane Exhibition Ground was called Affleck House in his honour.
 
-e W. J. Affleck was a tall man who held himself erect. He had a commanding presence and a soft heart with a reputation for giving hand-outs to men in need during the Great Depression. He always wore a button-hole and carried a walking stick whether in city circles or in the countryside he loved.
+W. J. Affleck was a tall man who held himself erect. He had a commanding presence and a soft heart with a reputation for giving hand-outs to men in need during the Great Depression. He always wore a button-hole and carried a walking stick whether in city circles or in the countryside he loved.
 
 As well as Affleck's interest in agricultural matters he was a justice of the peace, a founding Rotarian in Brisbane, and a member and office bearer of the Auchenflower Bowling Club. When Affleck died, it was noted in the newspaper obituaries that he was one of Queensland's most public spirited men.
-
 
 
 ### Acknowledgement
@@ -519,7 +518,7 @@ This story was contributed by Shirley Lahey.
 
 ## Maud Voller Affleck <small>(8‑49‑14)</small>
 
-2 June 1874 - September 1965 
+2 June 1874 - 26 September 1965 
 
 Maud Voller Lade was born on the 2^nd^ of June 1874 in Brisbane, the third of the eight children of Joseph John Lade and Mary nee Bridges, both English-born. Joseph's parents, Thomas Lade and his wife Harriet left the farms that he had managed in Kent and sailed with their three children to Moreton Bay in 1851. Their passage to Sydney on the sailing ship *Windsor* cost $120 in today's money. The Lades settled at Upper Kedron Brook on land Thomas bought for $124 in the suburb now known as Enoggera. They called their new farm and homestead *Surrenden* after the property they had lived on in Kent.
 
@@ -657,6 +656,10 @@ Robert Arthur Johnstone was born at Richmond, Van Diemen's Land in 1843. He was 
 
 In 1881 he became the first police magistrate at Winton. He also served at Bundaberg, Howard, Maryborough and
 Beenleigh before moving to Toowong, where he died in 1905. He had nine children, of whom three sons and four daughters survived him.
+
+![Robert Arthur Johnstone](../assets/robert-arthur-johnstone.jpg){ width="40%"}
+
+*<small>Robert Arthur Johnstone in [The Queenslander, 28 January 1905, p. 32](https://commons.wikimedia.org/w/index.php?curid=26306068), Public Domain.</small>*
 
 ### Acknowledgement
 
