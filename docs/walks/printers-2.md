@@ -40,12 +40,10 @@ hide:
 - [Thomas Dowse](https://convictrecords.com.au/convicts/dowse/thomas/89523) - Convict Records
 - [Telegraph (Brisbane)](https://www.austlit.edu.au/austlit/page/9547711) - AustLit
 
-<!-- fix margins 
+
 <div class="noprint" markdown="1">
 ## Brochure
 
-**[Download this walk](../assets/guides/more-printers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/more-print-media-identities-of-early-brisbane.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
-
--->
