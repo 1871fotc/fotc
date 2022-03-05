@@ -787,7 +787,7 @@ William Ernest Schleusener was born in Brisbane in 1881. His musical education b
 
 William had the honour of singing before royalty, the Duke and Duchess of York, at Government House in 1904.
 
-In November the same year, William took a quartette to Toowoomba, where they won first prize in a competition. This was the first of many competition wins. He even received a perfect score of 100 from one adjudicator. 
+In November the same year, William took a quartet to Toowoomba, where they won first prize in a competition. This was the first of many competition wins. He even received a perfect score of 100 from one adjudicator. 
 
 At Easter 1909, William travelled to Sydney where he won the Grand Champion Baritone Solo at the Commonwealth Eisteddfod. He received a citation from the Queensland Railway Commissioner's Office to commemorate this feat. Up to this point, William had never been defeated in any solo vocal competition.
 
