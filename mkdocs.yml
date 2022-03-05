@@ -6,7 +6,7 @@ site_url: https://1871fotc.github.io/fotc/
 site_author: Friends of Toowong Cemetery Association Incorporated
 site_description: >-
   Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.
-copyright: © 1992 — 2022 Friends of Toowong Cemetery Association Incorporated. 
+copyright: © 1992 — 2022 Friends of Toowong Cemetery Association Incorporated, unless noted otherwise. 
 # repo_url: https://github.com/1871fotc/fotc
 # repo_name: 1871fotc/fotc
 # edit_uri: ""
@@ -214,8 +214,9 @@ nav:
     - Building Brisbane: walks/brisbane-open-house.md 
     - Erected by Friends and Family: walks/erected-by-friends.md    
     - Christmas: walks/christmas.md    
-#    - New Year's Day: walks/new-years.md    
-    - Mothers: walks/mothers.md  
+#    - New Year's Day: walks/new-years.md   
+#    - Weather: walks/weather.md 
+    - Mothers: walks/mothers.md
     - Rich man, Poor man: walks/rich-man-poor-man.md
     - Prospectors: walks/prospectors.md    
     - Steam: walks/steam.md    
