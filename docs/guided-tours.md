@@ -31,13 +31,15 @@ Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks 
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
+<!--
 Every walk is different and this drives our research and the creation of more **[stories](story/index.md)**.
+-->
 
 The **[Toowong Cemetery Museum](cemetery/museum.md)** will be open before and after the walk.
 
 There's **no need to book**, just **meet under the flagpole, in Canon Garland Place at the Toowong Cemetery**. There is plenty of parking available inside the cemetery.
 
-**Guided  tours are free** but a small donation is appreciated to help us continue **[our work](about/index.md)**. 
+**Guided tours are free** but a small donation is appreciated to help us continue **[our work](about/index.md)**. 
 
 Wear a hat, enclosed shoes, and bring a water bottle.
 
