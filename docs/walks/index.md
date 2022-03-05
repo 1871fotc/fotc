@@ -79,6 +79,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Propectors](prospectors.md)** 
 - **[Steam](steam.md)** 
 - **[Taken before their time](taken-before-their-time.md)** 
+- **[At the mercy of the weather](weather.md)** 
 
 ## Portion walks 
 
