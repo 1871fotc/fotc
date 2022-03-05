@@ -1,4 +1,5 @@
 ---
+date: 6 May 2018
 hide:
   - navigation
 ---
@@ -109,22 +110,22 @@ Compiled and presented by Lyn Maddock
 
 ## Sources 
 
-- Trove, Digitised Newspapers and More (2015) 
-- ‘BDM Queensland Index Search’, The State of Queensland (Department of Justice and Attorney-General), 2015
-- http://adb.anu.edu.au/biography/bancroft-thomas-lane-5120
-- http://adb.anu.edu.au/biography/bancroft-joseph-2927
-- http://deceptionbayheritage.com/dr-joseph-bancrofts-house-deception-bay/
-- http://deceptionbayheritage.com/bancroft-exhibition-horticulture/
-- https://blogs.archives.qld.gov.au/2016/04/12/shining-a-light-on-queenslands-lighthouses/
-- https://environment.ehp.qld.gov.au/heritage-register/detail/?id=600257
-- http://hardenup.org/umbraco/customContent/media/639_ButhurstBay_Cyclone_1899.pdf
-- http://www.goldcoast.qld.gov.au/documents/bf/storms-east-coast-1770-2008.pdf
-- http://jculibrarynews.blogspot.com.au/2012/12/special-collections-fossickings-16.html
-- http://adb.anu.edu.au/biography/clark-james-5664
-- https://www.neradatea.com.au/the-nerada-story
-- https://www.weekendnotes.com/100-year-anniversary-of-innisfail-cyclone-innisfail-historical-society/
-- http://blogs.slq.qld.gov.au/jol/2012/07/03/the-coffee-barons-of-bingil-bay-and-their-legacy-of-tea/
-
+- [Australian Dictionary of Biography](https://adb.anu.edu.au), Australian National University
+    - [Clark, James (1857–1933)](http://adb.anu.edu.au/biography/clark-james-5664)
+    - [Bancroft, Thomas Lane (1860–1933)](http://adb.anu.edu.au/biography/bancroft-thomas-lane-5120)
+    - [Bancroft, Joseph (1836–1894)](http://adb.anu.edu.au/biography/bancroft-joseph-2927)
+- [Trove](https://trove.nla.gov.au), National Library of Australia
+- ‘BDM Queensland Index Search’, The State of Queensland (Department of Justice and Attorney-General), 2015 
+- [Shining a Light on Queensland’s Lighthouses!](https://blogs.archives.qld.gov.au/2016/04/12/shining-a-light-on-queenslands-lighthouses/) - Queensland State Archives
+- [Cape Moreton Lightstation](https://environment.ehp.qld.gov.au/heritage-register/detail/?id=600257) - The State of Queensland
+- [CASE STUDY: The Bathhurst Bay Hurricane, March 1899](http://hardenup.org/umbraco/customContent/media/639_ButhurstBay_Cyclone_1899.pdf) - Harden Up Queensland
+- [Bigger than Yasi? - Cyclone Mahina](https://jculibrarynews.blogspot.com/2012/12/special-collections-fossickings-16.html) - James Cook University Library
+- [100-Year Anniversary of Innisfail Cyclone](https://www.weekendnotes.com/100-year-anniversary-of-innisfail-cyclone-innisfail-historical-society/) - Weekend Notes
+- [The coffee barons of Bingil Bay and their legacy of tea](https://www.slq.qld.gov.au/blog/coffee-barons-bingil-bay-and-their-legacy-tea) - State Library of Queensland
+- http://deceptionbayheritage.com/dr-joseph-bancrofts-house-deception-bay/ *(broken link)*
+- http://deceptionbayheritage.com/bancroft-exhibition-horticulture/ *(broken link)*
+- http://www.goldcoast.qld.gov.au/documents/bf/storms-east-coast-1770-2008.pdf *(broken link)*
+- https://www.neradatea.com.au/the-nerada-story *(broken link)*
 
 <!--
 <div class="noprint" markdown="1">
