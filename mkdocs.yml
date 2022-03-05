@@ -156,6 +156,19 @@ plugins:
       redirect_maps:
         'home/home.md': 'index.md'
         'home/index.md': 'index.md'
+# set up redirects for deep links
+        'walks/walks.md': 'walks/index.md'
+        'activities/activities.md' 'about/index.md'
+        'obituaries/obituaries.md' 'story/index.md'
+        'publications/publications.md' 'about/publications.md'
+        'membership/membership.md' 'about/index.md'
+        'links/links.md' 'story/research.md'
+        'contactus/contactus.md' 'about/index.md'
+# set up redirects for Brochures: 
+        'subset/undertakers_underground.pdf' 'walks/undertakers.md'
+        'subset/police.pdf' 'walks/walks/thin-blue-line.md'
+#       'subset/???.pdf'  'walks/walks/???.md'
+#
 # comment out for local builds as cannot resolve missing dependencies
   - social
 
