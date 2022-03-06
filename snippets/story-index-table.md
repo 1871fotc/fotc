@@ -180,7 +180,7 @@
 | Bezalel Saul *(Sali)* | Mendelsohn                               | yyyy-mm-dd | yyyy-mm-dd | 3-6-7      | 
 | Harriet              | Johnson                                   | yyyy-mm-dd | 1914-mm-dd | 1-37-gg    | 
 | William              | Johnson                                   | yyyy-mm-dd | yyyy-mm-dd | 1-37-gg    | 
-| William              | Webster                                   | yyyy-mm-dd | 1895-mm-dd | 1-36-gg    | 
+| William              | Webster                                   | yyyy-mm-dd | 1895-mm-dd | 1-37-6     | 
 | Walter Horatio       | Wilson                                    | yyyy-mm-dd | 1902-02-dd | 1-84-22    | 
 | Walter Frederick     | Wilson                                    | yyyy-mm-dd | 1911-mm-dd | 1-85-8     | 
 | Richard Langler      | **[Drew](richard-langler-drew.md)**       | 1823-10-09 | 1869-10-08 | 5-43-22    | 

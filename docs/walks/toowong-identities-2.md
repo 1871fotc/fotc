@@ -69,7 +69,7 @@ The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 191
 
     Immediately behind the Johnson grave is the grey granite monument to...
 
-## William Webster <small>(1‑36-gg)</small>
+## William Webster <small>(1‑37-6)</small>
 <!-- perhaps 1-37-6? -->
 
 A Scottish merchant, William died at his home *Arley*, Toowong, aged 66 in 1895. William purchased *Arley*, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the *Quetta* shipwreck in 1890.
