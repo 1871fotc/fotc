@@ -29,7 +29,7 @@ Edmund was the first principal of the Toowong State School which opened in Janua
 
     Walk to the Caskey monument and turn left. You should come across the polished red granite grave of the McGregor‑Lowndes family...
 
-## Victor and Jean McGregor‑Lowndes <small>(4‑16-gg)</small>
+## Victor and Jean McGregor‑Lowndes <small>(4‑16-20/21)</small>
 
 Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home, *Craig‑Royston*, Toowong on 21 July 1951. His wife, Jean, was also a JP and a prominent citizen, honoured as a Member of the British Empire. Jean died in June 1976, aged 89.
 
