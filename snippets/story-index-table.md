@@ -481,7 +481,12 @@
 | James                | **[Clark](james-clark.md)**               | 1857-10-02 | 1933-07-09 | 14-22-12 | 
 | Charles              | **[le Brocq](charles-le-brocq.md)**       | 1829-mm-dd | 1905-mm-dd | 14-4-30/3 | 
 | James Walker         | **[Cutten](james-walker-cutten.md)**      | 1852-mm-dd | 1935-mm-dd | 5-94-12  | 
-
+| William            | **[Hamilton](william-hamilton.md)**         | 1858-mm-dd | 1920-mm-dd | 9-4-2    | 
+| Kenneth            | **[Hutchison](kenneth-hutchison.md)**       | 1850-mm-dd | 1902-mm-dd | 13-82-6  | 
+| Robert Archibald   | **[Ranking](robert-archibald-ranking.md)**  | 1843-mm-dd | 1912-mm-dd | 12-35-14 | 
+| Edwyn Mitford      | **[Lilley](edwyn-mitford-lilley.md)**       | 1859-mm-dd | 1911-mm-dd | 12-15-7  | 
+| Virgil             | **[Power](virgil-power.md)**                | 1849-08-02 | 1914-06-02 | 7A-103-24 | 
+| George Rogers      | **[Harding](george-rogers-harding.md)**     | 1838-12-03 | 1895-08-31 | 1-82-15  | 
 
 <!--
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
