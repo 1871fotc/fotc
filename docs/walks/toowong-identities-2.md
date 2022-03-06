@@ -61,7 +61,7 @@ In 1890, Sali published his most enduring ballad *The Drover* otherwise known as
 
     Continue along the road until you reach the shed. Turn left and proceed until you reach a fork in the road. Taking the right branch, 1^st^ Avenue, pass eight double rows of graves on the left until you come to...
 
-## Harriet and William Johnson <small>(1‑37-gg)</small>
+## Harriet and William Johnson <small>(1‑36-2)</small>
 
 The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 1914, aged 63. Her husband, William, outlived her by twenty‑five years, dying aged 79.
 
