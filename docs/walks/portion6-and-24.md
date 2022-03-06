@@ -1,4 +1,7 @@
 ---
+title: A walk through Portions 6 and 24
+description: A historic walk around Portions 6 and 24 of Toowong Cemetery
+author: Lyn Maddock
 date: 6/12/2015
 hide:
   - navigation

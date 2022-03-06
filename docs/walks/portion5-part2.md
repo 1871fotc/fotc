@@ -1,4 +1,7 @@
 ---
+title: A ramble through Portion 5
+description: Part Two of a walk around the historic headstones in Portion 5 of Toowong Cemetery
+author: Darcy and Lyn Maddock
 date: 2/4/2017
 hide:
   - navigation

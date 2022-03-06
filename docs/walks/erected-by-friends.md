@@ -1,18 +1,13 @@
 ---
+title: Erected by Friends and Family
+description: A walk around the historic headstones of people that were highly respected by friends and family
+author: Lyn Maddock
 date: 1/6/2014
 hide:
   - navigation
 ---
 
 # Erected by Friends and Family
-
-<!-- 
-
-![Devoy residence in Ashgrove, Brisbane, ca. 1908](../assets/john-devoy-residence-1908.jpg){ width="70%" }  
-
-*<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
-
--->
 
 <!--
 ???+ directions "Directions" 
@@ -30,7 +25,6 @@ William was born about 1842 in Gateshead, Durham, England,the son of a coal mine
 William was appointed the first general manager of the Brisbane Associated Friendly Societies (BAFS) Dispensary on 1 January 1885, and held that position up until his death on 26 August 1928. He served on the Pharmacy Board of Queensland from its commencement in 1918.
 
 After his death, a memorial tablet to William was unveiled in the BAFS dispensary building on the corner of George and Turbot Streets, Brisbane.
-
 
 
 <!--

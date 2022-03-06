@@ -1,4 +1,7 @@
 ---
+title: Print Media Identities of Early Brisbane
+description: A historic walk around Toowong Cemetery discovering early Brisbane's Print Media Identities
+author: Lyn Maddock
 hide:
   - navigation
 ---
