@@ -22,7 +22,6 @@ search:
     
     If you would like your contribute a story, please complete the **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** form.
     
-
 ??? directions "How to use the Index" 
 
     - Sort the table by clicking a column name.
