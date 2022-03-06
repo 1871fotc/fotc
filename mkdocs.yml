@@ -164,6 +164,8 @@ plugins:
         'membership/membership.md': 'about/index.md'
         'links/links.md': 'story/research.md'
         'contactus/contactus.md': 'about/index.md'
+  - privacy:
+      externals: bundle
 #
 # comment out for local builds as cannot resolve missing dependencies
   - social
