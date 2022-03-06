@@ -58,8 +58,8 @@ The Friends of Toowong Cemetery have researched and published a large collection
 
 - **[Founding Fathers][founding-fathers]** - members of the first Brisbane General Cemetery Trust
 - **[Notable Women][notable-women]** - Women who shaped Queensland
-- **[Toowong Identities 1][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
-- **[Toowong Identities 2][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
+- **[Toowong Identities][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
+- **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
 
 ## Birds of a feather 
 
