@@ -67,9 +67,11 @@ Emma Miller (1839-1917) was known as a pioneer of the trade union movement and t
 - [Harding, George Rogers (1838–1895)](http://adb.anu.edu.au/biography/harding-george-rogers-3712) - Australian Dictionary of Biography
 - www.naa.gov.au/collection/explore/federation/constitution-website/stories/call-to-action/pods/sir-samuel-griffith-1891/index.html *(broken link)*
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
-**[Download this walk](../assets/guides/more-print-media-identities-of-early-brisbane.pdf)** - designed to be printed and folded in half to make an A5 brochure.
+**[Download this walk](../assets/guides/???.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->
