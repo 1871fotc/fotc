@@ -8,3 +8,5 @@ Jenner made a living by selling paintings, holding art unions and teaching at Mi
 A self‑taught marine and landscape painter of considerable ability and technical skill, Jenner painted much local scenery but continued all his life to paint English scenes from memory. His most popular subjects were the Sussex and Cornish coasts and large historical seascapes. In 1895 he gave one of his large seascapes, 'Cape Chudleigh, Labrador' (1890) to the Queensland National Gallery soon after its opening.
 
 He died at Taringa on 1 March 1902. He was survived by his wife Mary, née Jenkins, whom he had married on 23 May 1860 at Anthony, Cornwall, and by three sons and three daughters.
+
+<!-- Kym Hyson suggests this story was contributed by Frances Pavlu. This is in The Artists walk which has no such attribution. Relates to discussion about attribution of prior work.   -->
