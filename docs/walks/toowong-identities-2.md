@@ -1,10 +1,12 @@
 ---
+title: More Toowong Identities
+description: A heritage walk to commemorate the centenary of the proclamation of the Town of Toowong in 1903
 date: 16 August 2003
 hide:
   - navigation
 ---
 
-# Toowong Identities Two
+# More Toowong Identities
 
 **A Heritage Walk to commemorate the centenary of the Proclamation of the Town of Toowong in 1903.**
 
