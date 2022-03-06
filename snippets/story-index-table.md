@@ -100,7 +100,7 @@
 | Alexander            | Raff                                      | 1820-07-dd | 1914-01-26 | 13-79-1    |  
 | James                | Cowlishaw                                 | 1834-12-19 | 1929-07-25 | 11-41-7A   | 
 | Nathaniel            | Lade                                      | 1835-03-30 | 1895-07-17 | 13-52-20/21 | 
-| John                 | Caskey                                    | yyyy-mm-dd | 1901-09-27 | 10-ss-gg   | 
+| John                 | Caskey                                    | yyyy-mm-dd | 1901-09-27 | 4-ss-gg   | 
 | John Wyndon          | Lyon                                      | yyyy-mm-dd | 1934-04-21 | 10-65-30   | 
 | John Jennings        | Imrie                                     | 1813-06-01 | 1901-03-23 | 1-85-9     | 
 | John                 | Higson                                    | yyyy-mm-dd | yyyy-mm-dd | 2A-31-16   | 
