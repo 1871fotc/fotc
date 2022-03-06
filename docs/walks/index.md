@@ -26,6 +26,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Brisbane Mayors][brisbane-mayors]** - learn about 14 Brisbane Mayors from 1859 to 1931
 - **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
 - **[One Adult, One Vote][suffrage]** - Queensland's own suffrage story 
+- **[The Great Shearers' Strike of 1891](shearers-strike.md)**
 
 
 ## Military 
