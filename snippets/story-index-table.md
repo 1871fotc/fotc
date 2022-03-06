@@ -472,7 +472,17 @@
 | Septimus             | **[Price](septimus-price.md)**            | 1837-mm-dd | 1902-12-28 | 9-33-3    | 
 | Thomas Woodward      | **[Hill](thomas-woodward-hill.md)**       | 1816-12-16 | 1892-01-31 | 13-42-22  | 
 | Agnes Caroline       | Hill *(Hall; Rains)*                      | 1819-07-05 | 1904-08-09 | 3-42-22   | 
+| Robert               | **[Bulcock](robert-bulcock.md)**          | 1832-05-21 | 1900-05-10 | 13-24-12 | 
+| Thomas               | **[Illidge](thomas-illidge.md)**          | 1823-mm-dd | 1896-06-07 | 13-24-1  | 
+| Joseph               | **[Bancroft](joseph-bancroft.md)**        | 1836-02-21 | 1894-06-16 | 13-35-3  | 
+| James                | **[Brayden](james-brayden.md)**           | 1827-mm-dd | 1890-mm-dd | 13-38-11 | 
+| Richard Henry        | **[Sholl](richard-henry-sholl.md)**       | 1821-mm-dd | 1892-mm-dd | 9-24-1/2 | 
+| Daniel Rowntree    | **[Somerset](daniel-rowntree-somerset.md)** | 1812-mm-dd | 1880-mm-dd | 13-80-7  | 
+| James                | **[Clark](james-clark.md)**               | 1857-10-02 | 1933-07-09 | 14-22-12 | 
+| Charles              | **[le Brocq](charles-le-brocq.md)**       | 1829-mm-dd | 1905-mm-dd | 14-4-30/3 | 
+| James Walker         | **[Cutten](james-walker-cutten.md)**      | 1852-mm-dd | 1935-mm-dd | 5-94-12  | 
+
 
 <!--
-|                      |                                           | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
+|                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 -->
