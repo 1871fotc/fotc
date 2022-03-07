@@ -491,10 +491,10 @@
 | Kevin Spencer      | **[Mason](kevin-spencer-mason.md)**         | yyyy-mm-dd | 1956-05-09 | 25-13-4A  | 
 | Arthur             | **[Neden](arthur-neden.md)**                | yyyy-mm-dd | yyyy-mm-dd | 28-39-9A  | 
 | James Robb         | **[Ward](james-robb-ward.md)**              | yyyy-mm-dd | yyyy-mm-dd | 15-7-17   | 
+| Stephen Patrick    | **[Tierney](stephen-patrick-tierney.md)**   | yyyy-mm-dd | 1914-12-17 | 7A-111-9  | 
 
 
 <!--
-|                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 
