@@ -1,5 +1,5 @@
 ---
-title: A wander through 
+title: A wander through Portions 15 and 16 
 description: A historic walk around the Portions 15 and 16 of Toowong Cemetery
 author: Darcy and Lyn Maddock
 date: 5/6/2016
