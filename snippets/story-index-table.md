@@ -492,12 +492,9 @@
 | Arthur             | **[Neden](arthur-neden.md)**                | yyyy-mm-dd | yyyy-mm-dd | 28-39-9A  | 
 | James Robb         | **[Ward](james-robb-ward.md)**              | yyyy-mm-dd | yyyy-mm-dd | 15-7-17   | 
 | Stephen Patrick    | **[Tierney](stephen-patrick-tierney.md)**   | yyyy-mm-dd | 1914-12-17 | 7A-111-9  | 
-
+| Frederic Charles   | **[Urquhart](frederic-charles-urquhart.md)** | 1858-10-27 | 1935-12-02 | 25-31-8  | 
 
 <!--
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
-|                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
-
-
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 -->
