@@ -488,12 +488,10 @@
 | George Rogers      | **[Harding](george-rogers-harding.md)**     | 1838-12-03 | 1895-08-31 | 1-82-15   | 
 | John               | **[Hanly](john-hanly.md)**                  | 1859-mm-dd | 1935-10-06 | 7A-104-27 | 
 | Ernest James       | **[Dawson](ernest-james-dawson.md)**        | 1902-mm-dd | 1931-01-dd | 7A-186-11 | 
+| Kevin Spencer      | **[Mason](kevin-spencer-mason.md)**         | yyyy-mm-dd | 1956-05-09 | 25-13-4A  | 
 
 
 <!--
-
-
-
 
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 -->
