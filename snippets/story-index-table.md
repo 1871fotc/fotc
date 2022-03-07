@@ -485,8 +485,14 @@
 | Robert Archibald   | **[Ranking](robert-archibald-ranking.md)**  | 1843-mm-dd | 1912-mm-dd | 12-35-14 | 
 | Edwyn Mitford      | **[Lilley](edwyn-mitford-lilley.md)**       | 1859-mm-dd | 1911-mm-dd | 12-15-7  | 
 | Virgil             | **[Power](virgil-power.md)**                | 1849-08-02 | 1914-06-02 | 7A-103-24 | 
-| George Rogers      | **[Harding](george-rogers-harding.md)**     | 1838-12-03 | 1895-08-31 | 1-82-15  | 
+| George Rogers      | **[Harding](george-rogers-harding.md)**     | 1838-12-03 | 1895-08-31 | 1-82-15   | 
+| John               | **[Hanly](john-hanly.md)**                  | 1859-mm-dd | 1935-10-06 | 7A-104-27 | 
 
 <!--
+
+| John               | **[Hanly](john-hanly.md)**                  | 1859-mm-dd | 1935-10-06 | ppssgg | 
+
+
+
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 -->
