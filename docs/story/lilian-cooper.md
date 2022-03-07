@@ -29,3 +29,4 @@ Listen to a State Library of Queensland Podcast about Dr. Lilian Cooper and Jose
 
 - Explore digitised newspaper articles about [Lilian Cooper](https://trove.nla.gov.au/list/146250) and [Josephine Bedford](https://trove.nla.gov.au/list/117121) on Trove.
 - Discover [related John Oxley Library collections](http://onesearch.slq.qld.gov.au/primo-explore/search?query=usertag,contains,dr%20lilian%20violet%20cooper&amp;vid=SLQ&amp;lang=en_US") 
+- [Lilian Cooper and Josephine Bedford](https://www.museumofbrisbane.com.au/mob-sunday-stories-lilian-cooper-and-josephine-bedford/) - Museum of Brisbane
