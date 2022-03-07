@@ -493,8 +493,8 @@
 | James Robb         | **[Ward](james-robb-ward.md)**              | yyyy-mm-dd | yyyy-mm-dd | 15-7-17   | 
 | Stephen Patrick    | **[Tierney](stephen-patrick-tierney.md)**   | yyyy-mm-dd | 1914-12-17 | 7A-111-9  | 
 | Frederic Charles   | **[Urquhart](frederic-charles-urquhart.md)** | 1858-10-27 | 1935-12-02 | 25-31-8  | 
+| William Harold     | **[Ryan](william-harold-ryan.md)**          | 1873-mm-dd | 1954-07-16 | 7A-116-44/1 | 
 
 <!--
-|                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 -->
