@@ -21,11 +21,9 @@ hide:
 ???+ directions "Directions" 
 
     Commencing at ...
-
 --> 
 
 --8<-- "snippets/no-spoilers.md"
-
 
 --8<-- "snippets/robert-bulcock.md"
 
