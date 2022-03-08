@@ -95,11 +95,11 @@
 | Joshua               | **[Jeays](joshua-jeays.md)**              | 1812-mm-dd | 1881-03-11 | 13-62-13   | 
 | William              | **[Pettigrew](william-pettigrew.md)**     | 1825-08-26 | 1906-10-28 | 13-66-2    | 
 | Archibald            | **[Watson](archibald-watson.md)**         | 1874-10-22 | 1941-02-25 | 12-13-2    | 
-| William MacNaughton  | **[Galloway](william-macnaughton-galloway.md)** | yyyy-mm-dd | 1895-01-12 | 7A-41-18   | 
-| John                 | Melville                                  | 1834-09-10 | 1912-03-08 | 9-10-14    | 
-| Alexander            | Raff                                      | 1820-07-dd | 1914-01-26 | 13-79-1    |  
-| James                | Cowlishaw                                 | 1834-12-19 | 1929-07-25 | 11-41-7A   | 
-| Nathaniel            | Lade                                      | 1835-03-30 | 1895-07-17 | 13-52-20/21 | 
+| William MacNaughton  | **[Galloway](william-macnaughton-galloway.md)** | yyyy-mm-dd | 1895-01-12 | 7A-41-18 | 
+| John                 | **[Melville](john-melville.md)**          | 1834-09-10 | 1912-03-08 | 9-10-14    | 
+| Alexander            | **[Raff](alexander-raff.md)**             | 1820-07-dd | 1914-01-26 | 13-79-1    |  
+| James                | **[Cowlishaw](james-cowlishaw.md)**       | 1834-12-19 | 1929-07-25 | 11-41-7A   | 
+| Nathaniel            | **[Lade](nathaniel-lade.md)**             | 1835-03-30 | 1895-07-17 | 13-52-20/21 | 
 | John                 | Caskey                                    | yyyy-mm-dd | 1901-09-27 | 4-ss-gg   | 
 | John Wyndon          | Lyon                                      | yyyy-mm-dd | 1934-04-21 | 10-65-30   | 
 | John Jennings        | Imrie                                     | 1813-06-01 | 1901-03-23 | 1-85-9     | 
