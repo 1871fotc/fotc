@@ -385,14 +385,14 @@
 | Sophia Esther        | Heussler                                  | yyyy-mm-dd | 1914-06-05 | 13-64-11  | 
 | Joseph               | **[Watters](joseph-watters.md)**          | yyyy-mm-dd | yyyy-mm-dd | 10-65-29  |  
 | James                | **[Kirk](james-kirk.md)**                 | 1838-07-14 | yyyy-mm-dd | 13-59-8   | 
-| Thomas Lodge     | **[Murray-Prior](thomas-lodge-murray-prior)** | 1819-11-13 | yyyy-mm-dd | 13-72-15/16 |  
-| John Stephen         | **[Ferriter](john-stephen-ferriter)**     | 1802-08-24 | 1865-10-21 | 14-24-13  | 
+| Thomas Lodge     | **[Murray-Prior](thomas-lodge-murray-prior.md)** | 1819-11-13 | yyyy-mm-dd | 13-72-15/16 |  
+| John Stephen         | **[Ferriter](john-stephen-ferriter.md)**     | 1802-08-24 | 1865-10-21 | 14-24-13  | 
 | William Leworthy Goode | **[Drew](william-leworthy-goode-drew.md)** | 1826-10-14 | yyyy-mm-dd | 13-86-1   | 
 | John Vivian          | **[Williams](john-vivian-williams.md)**   | 1836-mm-dd | yyyy-mm-dd | 12-27-5   | 
 | John Forrest         | **[Haymen](john-forrest-haymen.md)**      | 1902-06-29 | yyyy-mm-dd | 12-49-3   | 
 | Ian Chesborough Rose | **[MacDonald](ian-chesborough-rose-macdonald.md)** | yyyy-mm-dd | yyyy-mm-dd | 11-52-12  | 
 | Arthur               | **[Lowe](arthur-lowe.md)**                | 1864-08-11 | 1896-10-20 | 11-15-16/17 | 
-| John Cornish         | **[Pentecost](john-cornish-pentecost)**   | 1835-06-03 | yyyy-mm-dd | 9-29-3    | 
+| John Cornish         | **[Pentecost](john-cornish-pentecost.md)**   | 1835-06-03 | yyyy-mm-dd | 9-29-3    | 
 | Alexander Hastings   | **[Gruer](alexander-hastings-gruer.md)**  | 1838-mm-dd | yyyy-mm-dd | 9-40-8    | 
 | Jonas                | Malouf                                    | 1849-12-dd | yyyy-mm-dd | 5-26-2/3  |  
 | Mary                 | Malouf                                    | 1869-mm-dd | yyyy-mm-dd | 5-26-2/3  | 
