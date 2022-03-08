@@ -1,6 +1,6 @@
 ---
 title: Anchors Aweigh!
-description: A historic maritime walk through Toowong Cemetery.
+description: A historic maritime walk through Toowong Cemetery
 date: 7 Sep 2008
 hide:
   - navigation
