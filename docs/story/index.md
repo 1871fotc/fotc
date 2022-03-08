@@ -6,7 +6,7 @@ search:
 
 # Story Index
 
-**Read the stories of the people remembered at Toowong Cemetery**. The index below lists over 480 people mentioned in our **[self-guided walks](../walks/index.md)** and provides links to their stories. 
+**Read the stories of the people remembered at Toowong Cemetery**. The index below lists over 500 people mentioned in our **[self-guided walks](../walks/index.md)** and provides links to their stories. 
 
 ???+ warning "Work in progress"
 
@@ -37,7 +37,6 @@ search:
 The [Story Index](index.md) by [Friends of Toowong Cemetery Association Incorporated](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must [provide attribution](../about/legal.md#attribution) if you reuse this work.
 
 Download the Story Index as a <a href="../assets/data/story-index.csv" download>Comma Separated Value file</a> (.csv) 
-
 
 ??? warning "Excel does not process dates correctly"
 
