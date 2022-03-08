@@ -38,6 +38,7 @@ The [Story Index](index.md) by [Friends of Toowong Cemetery Association Incorpor
 
 Download the Story Index as a <a href="../assets/data/story-index.csv" download>Comma Separated Value file</a> (.csv) 
 
+
 ??? warning "Excel does not process dates correctly"
 
     If you open the .csv file using Microsoft Excel, be aware that it tries to be helpful and automatically adjust the date formats. It also doesn't handle characters like "ü".
