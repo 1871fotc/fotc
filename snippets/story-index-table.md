@@ -32,7 +32,7 @@
 | Karoly *(Charles)*   | **[Pulszky](karoly-pulszky.md)**          | 1854-11-10 | 1899-06-05 | 5-2-3      | 
 | Thomas               | **[Macer](thomas-macer.md)**              | yyyy-mm-dd | 1926-11-16 | 21-14-3    | 
 | Arthur               | **[Aldridge](arthur-aldridge.md)**        | 1873-mm-dd | 1929-11-03 | 23-31-14   | 
-| Kyrle Edward         | **[McAllister](kyrle-edward-mcallister.md)** *(Sylvaney)* | yyyy-mm-dd | 1929-11-03 | 23-31-15   | 
+| Kyrle Edward | **[McAllister](kyrle-edward-mcallister.md)** *(Sylvaney)* | yyyy-mm-dd | 1929-11-03 | 23-31-15 | 
 | George Barney        | **[Petrie](george-barney-petrie.md)**     | 1839-mm-dd | 1878-06-21 | 13-5-3     | 
 | Alex                 | **[Gow](alex-gow.md)**                    | 1861-10-19 | 1919-05-02 | 13-59-3/4  | 
 | John                 | **[Hislop](john-hislop.md)**              | yyyy-mm-dd | 1918-07-15 | 11-68-9    | 
@@ -47,18 +47,18 @@
 | Richard Godfrey      | **[Rivers](richard-godfrey-rivers.md)**   | 1859-mm-dd | 1925-04-02 | 12-24-4    | 
 | Eliza Jeanettie      | **[Sheldon](eliza-jeanettie-sheldon.md)** | 1885-05-24 | 1974-07-30 | 7-95-13/14 | 
 | Edwin Arthur Vincent | **[Sheldon](edwin-arthur-vincent-sheldon.md)** | 1895-07-03 | 1945-mm-dd | 7-95-13/14 | 
-| Frank                | Goodwin                                   | 1885-06-21 | yyyy-mm-dd | 10-43-26   |
-| Arthur Leslie        | Middleton                                 | 1894-05-11 | yyyy-mm-dd | 10-43-12   | 
-| John                 | Crilly                                    | 1871-11-30 | yyyy-mm-dd | 10-41-20   | 
-| Joseph               | Leyton                                    | 1875-mm-dd | yyyy-mm-dd | 10-41-18   | 
-| Arthur               | Bann                                      | 1890-05-09 | yyyy-mm-dd | 10-40-18   | 
-| Frank Morgan         | Jones                                     | 1872-mm-dd | yyyy-mm-dd | 10-40-17   | 
-| Michael              | Dalton                                    | 1894-10-22 | yyyy-mm-dd | 10-39-24   | 
-| Frederick Nicholas   | Naughton                                  | 1883-mm-dd | yyyy-mm-dd | 10-39-12   | 
-| Frank Venton         | Rutherberg                                | 1888-09-19 | yyyy-mm-dd | 10-39-11   | 
-| David Gordon         | Rattray                                   | yyyy-mm-dd | yyyy-mm-dd | 10-39-16   | 
-| Thomas               | Morell                                    | yyyy-mm-dd | yyyy-mm-dd | 10-39-15   | 
-| Richard              | Whitby                                    | 1881-mm-dd | yyyy-mm-dd | 10-39-14   | 
+| Frank                | **[Goodwin](frank-goodwin.md)**           | 1885-06-21 | yyyy-mm-dd | 10-43-26   |
+| Arthur Leslie      | **[Middleton](arthur-leslie-middleton.md)** | 1894-05-11 | yyyy-mm-dd | 10-43-12   | 
+| John                 | **[Crilly](john-crilly.md)**              | 1871-11-30 | yyyy-mm-dd | 10-41-20   | 
+| Joseph               | **[Leyton](joseph-leyton.md)**            | 1875-mm-dd | yyyy-mm-dd | 10-41-18   | 
+| Arthur               | **[Bann](arthur-bann.md)**                | 1890-05-09 | yyyy-mm-dd | 10-40-18   | 
+| Frank Morgan         | **[Jones](frank-morgan-jones.md)**        | 1872-mm-dd | yyyy-mm-dd | 10-40-17   | 
+| Michael              | **[Dalton](/michael-dalton.md)**          | 1894-10-22 | yyyy-mm-dd | 10-39-24   | 
+| Frederick Nicholas | **[Naughton](frederick-nicholas-naughton.md)** | 1883-mm-dd | yyyy-mm-dd | 10-39-12 | 
+| Frank Venton      | **[Rutherberg](frank-venton-rutherberg.md)** | 1888-09-19 | yyyy-mm-dd | 10-39-11   | 
+| David Gordon         | **[Rattray](david-gordon-rattray.md)**    | yyyy-mm-dd | yyyy-mm-dd | 10-39-16   | 
+| Thomas               | **[Morell](thomas-morell.md)**            | yyyy-mm-dd | yyyy-mm-dd | 10-39-15   | 
+| Richard              | **[Whitby](richard-whitby.md)**           | 1881-mm-dd | yyyy-mm-dd | 10-39-14   | 
 | William James        | Sluce                                     | 1832-03-25 | 1879-02-01 | 2-6-21     | 
 | John                 | Ogle                                      | 1824-mm-dd | 1890-19-26 | 1-113-3/4  | 
 | Mary Ann             | Ogle                                      | 1823-mm-dd | 1907-08-24 | 1-113-3/4  | 
