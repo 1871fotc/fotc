@@ -47,18 +47,18 @@
 | Richard Godfrey      | **[Rivers](richard-godfrey-rivers.md)**   | 1859-mm-dd | 1925-04-02 | 12-24-4    | 
 | Eliza Jeanettie      | **[Sheldon](eliza-jeanettie-sheldon.md)** | 1885-05-24 | 1974-07-30 | 7-95-13/14 | 
 | Edwin Arthur Vincent | **[Sheldon](edwin-arthur-vincent-sheldon.md)** | 1895-07-03 | 1945-mm-dd | 7-95-13/14 | 
-| Frank                | **[Goodwin](frank-goodwin.md)**           | 1885-06-21 | yyyy-mm-dd | 10-43-26   |
-| Arthur Leslie      | **[Middleton](arthur-leslie-middleton.md)** | 1894-05-11 | yyyy-mm-dd | 10-43-12   | 
-| John                 | **[Crilly](john-crilly.md)**              | 1871-11-30 | yyyy-mm-dd | 10-41-20   | 
-| Joseph               | **[Leyton](joseph-leyton.md)**            | 1875-mm-dd | yyyy-mm-dd | 10-41-18   | 
-| Arthur               | **[Bann](arthur-bann.md)**                | 1890-05-09 | yyyy-mm-dd | 10-40-18   | 
-| Frank Morgan         | **[Jones](frank-morgan-jones.md)**        | 1872-mm-dd | yyyy-mm-dd | 10-40-17   | 
-| Michael              | **[Dalton](/michael-dalton.md)**          | 1894-10-22 | yyyy-mm-dd | 10-39-24   | 
-| Frederick Nicholas | **[Naughton](frederick-nicholas-naughton.md)** | 1883-mm-dd | yyyy-mm-dd | 10-39-12 | 
+| Frank                | **[Goodwin](frank-goodwin.md)**           | 1885-06-21 | 1919-mm-dd | 10-43-26   |
+| Arthur Leslie      | **[Middleton](arthur-leslie-middleton.md)** | 1894-05-11 | 1919-mm-dd | 10-43-12   | 
+| John                 | **[Crilly](john-crilly.md)**              | 1871-11-30 | 1919-05-25 | 10-41-20   | 
+| Joseph               | **[Leyton](joseph-leyton.md)**            | 1875-mm-dd | 1919-06-dd | 10-41-18   | 
+| Arthur               | **[Bann](arthur-bann.md)**                | 1890-05-09 | 1919-05-dd | 10-40-18   | 
+| Frank Morgan         | **[Jones](frank-morgan-jones.md)**        | 1872-mm-dd | 1919-05-dd | 10-40-17   | 
+| Michael              | **[Dalton](michael-dalton.md)**          | 1894-10-22 | 1919-08-dd | 10-39-24   | 
+| Frederick Nicholas | **[Naughton](frederick-nicholas-naughton.md)** | 1883-mm-dd | 1919-09-dd | 10-39-12 | 
 | Frank Venton      | **[Rutherberg](frank-venton-rutherberg.md)** | 1888-09-19 | yyyy-mm-dd | 10-39-11   | 
-| David Gordon         | **[Rattray](david-gordon-rattray.md)**    | yyyy-mm-dd | yyyy-mm-dd | 10-39-16   | 
+| David Gordon         | **[Rattray](david-gordon-rattray.md)**    | 1893-05-22 | 1919-02-dd | 10-39-16   | 
 | Thomas               | **[Morell](thomas-morell.md)**            | yyyy-mm-dd | yyyy-mm-dd | 10-39-15   | 
-| Richard              | **[Whitby](richard-whitby.md)**           | 1881-mm-dd | yyyy-mm-dd | 10-39-14   | 
+| Richard              | **[Whitby](richard-whitby.md)**           | 1881-mm-dd | 1919-07-dd | 10-39-14   | 
 | William James        | Sluce                                     | 1832-03-25 | 1879-02-01 | 2-6-21     | 
 | John                 | Ogle                                      | 1824-mm-dd | 1890-19-26 | 1-113-3/4  | 
 | Mary Ann             | Ogle                                      | 1823-mm-dd | 1907-08-24 | 1-113-3/4  | 
