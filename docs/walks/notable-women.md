@@ -1,5 +1,5 @@
 ---
-title: Notable Women 
+title: Notable Women
 description: A historic walk about women who shaped Queensland
 hide:
   - navigation
