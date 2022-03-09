@@ -514,7 +514,10 @@
 | John Boyne          | McLennan                                   | 1827-mm-dd | 1908-11-21 | 13-58-3  | 
 | William James       | Affleck                                    | 1868-06-22 | 1932-09-16 | 8-49-14  | 
 | Maud Voller         | Affleck                                    | 1874-06-02 | 1965-09-26 | 8-49-14  | 
-
+| Alexander William | **[MacDonald](alexander-william-macdonald.md)** | 1876-mm-dd | 1941-07-13 | 10-80-18 | 
+| Walter            | **[Tarte](walter-tarte.md)**                 | 1893-10-dd | 1940-04-23 | 10-75-58 | 
+| Alexander Robert  | **[Morrison](alexander-robert-morrison.md)** | 1885-07-09 | 1939-05-02 | 10-76-16 | 
+| Duncan            | **[McDougall](duncan-mcdougall.md)**         | 1878-07-15 | 1939-05-18 | 10-76-48 | 
 
 <!--
 |                     |                                            | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
@@ -522,5 +525,7 @@
 |                     |                                            | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
 
 
+
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
+
 -->
