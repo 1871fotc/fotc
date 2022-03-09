@@ -201,15 +201,15 @@
 | Helen Dugald         | Street                                    | 1858-mm-dd | 1907-10-07 | 12-39-24   | 
 | Eliza                | Finney                                    | 1805-mm-dd | 1898-07-22 | 13-81-6/13 | 
 | Annie Watson         | Turner                                    | 1868-10-16 | 1939-10-23 | 13-70-7/8  | 
-| Charles Chesworth    | Burgess                                   | 1883-05-09 | 1939-04-11 | 10-76-15   | 
-| John Henry           | Griffin                                   | yyyy-mm-dd | 1893-07-01 | 2A-23-5   | 
-| Molyneux Henry Dickinson | Nepean                                | 1846-04-19 | 1889-09-30 | 1-158-5   | 
-| Reginald Hebe        | Roe                                       | 1850-08-03 | 1926-09-21 | 20-25-5A  | 
-| John                 | Shirley                                   | 1849-08-11 | 1922-04-05 | 20-25-6   | 
-| Albert Charles       | Cox                                       | 1892-12-08 | 1925-01-29 | 20-23-1/2 | 
-| Samuel James         | Reilly                                    | yyyy-mm-dd | 1919-10-21 | 20-46-18  | 
-| Albert               | Ensor                                     | 1872-12-05 | 1950-05-05 | 20-48-5/6 | 
-| Robert               | Toupein                                   | 1886-mm-dd | 1949-07-12 | 5-96-24   | 
+| Charles Chesworth  | **[Burgess](charles-chesworth-burgess.md)** | 1883-05-09 | 1939-04-11 | 10-76-15   | 
+| John Henry           | **[Griffin](john-henry-griffin.md)**      | yyyy-mm-dd | 1893-07-01 | 2A-23-5    | 
+| Molyneux Henry Dickinson | **[Nepean](molyneux-henry-dickinson-nepean.md)** | 1846-04-19 | 1889-09-30 | 1-158-5   | 
+| Reginald Hebe        | **[Roe](reginald-heber-roe.md)**          | 1850-08-03 | 1926-09-21 | 20-25-5A  | 
+| John                 | **[Shirley](john-shirley.md)**            | 1849-08-11 | 1922-04-05 | 20-25-6   | 
+| Albert Charles       | **[Cox](albert-charles-cox.md)**          | 1892-12-08 | 1925-01-29 | 20-23-1/2 | 
+| Samuel James         | **[Reilly](samuel-james-reilly.md)**      | 1839-mm-dd | 1919-10-21 | 20-46-18  | 
+| Albert               | **[Ensor](albert-ensor.md)**              | 1872-12-05 | 1950-05-05 | 20-48-5/6 | 
+| Robert               | **[Toupein](robert-toupein.md)**          | 1886-mm-dd | 1949-07-12 | 5-96-24   | 
 | Peter                | Morgan                                    | 1916-mm-dd | 1953-mm-dd | 1-88-4    | 
 | Amos Roy             | Goddard                                   | 1910-mm-dd | 1933-mm-dd | 7-77-26   | 
 | William Cowley Goulbourne | Stone                                | 1870-mm-dd | 1892-mm-dd | 7-77-11   | 
@@ -524,7 +524,6 @@
 |                     |                                            | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
 |                     |                                            | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
 |                     |                                            | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
-
 
 
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
