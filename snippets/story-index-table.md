@@ -100,12 +100,12 @@
 | Alexander            | **[Raff](alexander-raff.md)**             | 1820-07-dd | 1914-01-26 | 13-79-1    |  
 | James                | **[Cowlishaw](james-cowlishaw.md)**       | 1834-12-19 | 1929-07-25 | 11-41-7A   | 
 | Nathaniel            | **[Lade](nathaniel-lade.md)**             | 1835-03-30 | 1895-07-17 | 13-52-20/21 | 
-| John                 | Caskey                                    | yyyy-mm-dd | 1901-09-27 | 4-ss-gg   | 
-| John Wyndon          | Lyon                                      | yyyy-mm-dd | 1934-04-21 | 10-65-30   | 
-| John Jennings        | Imrie                                     | 1813-06-01 | 1901-03-23 | 1-85-9     | 
-| John                 | Higson                                    | yyyy-mm-dd | yyyy-mm-dd | 2A-31-16   | 
-| Robert               | Orton                                     | yyyy-mm-dd | 1929-08-dd | 5-66-4     | 
-| George               | Vowles                                    | 1846-mm-dd | 1928-11-28 | 2-49-35    | 
+| John                 | Caskey                                    | yyyy-mm-dd | 1901-09-27 | 4-ss-gg    | 
+| John Wyndon          | **[Lyon](john-wyndon-lyon.md)**           | yyyy-mm-dd | 1934-04-21 | 10-65-30   | 
+| John Jennings        | **[Imrie](john-jennings-imrie.md)**       | 1813-06-01 | 1901-03-23 | 1-85-9     | 
+| John                 | **[Higson](john-higson.md)**              | yyyy-mm-dd | yyyy-mm-dd | 2A-31-16   | 
+| Robert               | **[Orton](robert-orton.md)**              | 1860-mm-dd | 1929-08-dd | 5-66-4     | 
+| George               | **[Vowles](george-vowles.md)**            | 1846-mm-dd | 1928-11-28 | 2-49-35    | 
 | Joseph Robert        | Abbott                                    | 1899-05-30 | 1941-12-25 | 10-80-45   | 
 | George               | Hansford                                  | 1840-12-25 | 1925-10-13 | 10-17-30/31 | 
 | Victor Cyril         | Button                                    | 1924-01-01 | 1942-12-25 | 10-53-14   | 
