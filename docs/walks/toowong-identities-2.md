@@ -72,7 +72,6 @@ The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 191
     Immediately behind the Johnson grave is the grey granite monument to...
 
 ## William Webster <small>(1‑37-6)</small>
-<!-- perhaps 1-37-6? -->
 
 A Scottish merchant, William died at his home *Arley*, Toowong, aged 66 in 1895. William purchased *Arley*, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the *Quetta* shipwreck in 1890.
 
@@ -122,9 +121,7 @@ Letitia was widowed and had lost two young sons while still in her early forties
 
     Close to the tap on the right side of the Avenue is the grave of Samuel Kaye. There is no headstone.
 
-## Samuel Kaye <small>(2‑42‑26)</small>
-
-[Kaye’s Rocks](https://heritage.brisbane.qld.gov.au/heritage-places/1693) at Toowong were named after Samuel. He was a government appointee to the Toowong Shire Council in 1880. A member of the Toowong Philharmonic Orchestra, Samuel operated a museum for musical instruments, importing pianos, organs and harmoniums. He taught music for many years from his home on the north side of the rocks which now bear his name.
+--8<-- "snippets/samuel-kaye.md"
 
 ??? directions "Directions" 
 

@@ -187,7 +187,7 @@
 | Hercules             | Smith                                     | yyyy-mm-dd | yyyy-mm-dd | 5-40-9     | 
 | Maria                | Johnstone                                 | yyyy-mm-dd | 1923-09-dd | 5-36-15/16 | 
 | Letitia              | Jephson                                   | yyyy-mm-dd | 1908-mm-dd | 5-34-17    | 
-| Samuel               | Kaye                                      | yyyy-mm-dd | yyyy-mm-dd | 2-42-26    | 
+| Samuel               | **[Kaye](samuel-kaye.md)**                | yyyy-mm-dd | yyyy-mm-dd | 2-42-26    | 
 | Robert Harrison      | Smith                                     | yyyy-mm-dd | 1911-mm-dd | 5-31-10    | 
 | Mary                 | Douglas                                   | 1828-mm-dd | 1876-11-dd | 9-34-5     | 
 | Florence Griffiths   | Buchanan                                  | 1861-09-16 | 1911-12-30 | 11-33-4    | 
