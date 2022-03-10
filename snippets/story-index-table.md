@@ -493,16 +493,16 @@
 | Stephen Patrick    | **[Tierney](stephen-patrick-tierney.md)**   | yyyy-mm-dd | 1914-12-17 | 7A-111-9  | 
 | Frederic Charles   | **[Urquhart](frederic-charles-urquhart.md)** | 1858-10-27 | 1935-12-02 | 25-31-8  | 
 | William Harold     | **[Ryan](william-harold-ryan.md)**          | 1873-mm-dd | 1954-07-16 | 7A-116-44/1 | 
-| Jessie              | Massey                                     | 1874-03-05 | 1923-05-27 | 18-116-8 | 
-| Catherine           | Greasley                                   | 1853-mm-dd | 1935-08-26 | 7A-43-16 | 
-| Emily Sophia        | Pickett                                    | 1857-07-04 | 1857-12-19 | 21-1-55  | 
+| Jessie             | **[Massey](jessie-massey.md)**             | 1874-03-05 | 1923-05-27 | 18-116-8  | 
+| Catherine          | **[Greasley](catherine-greasley.md)**      | 1853-mm-dd | 1935-08-26 | 7A-43-16  | 
+| Emily Sophia        | **[Pickett](emily-sophia-pickett.md)**     | 1857-07-04 | 1857-12-19 | 21-1-55  | 
 | Henry Tom           | Pickett                                    | yyyy-mm-dd | 1927-05-21 | 21-2-31  | 
-| Glenville           | Massy                                      | 1863-05-13 | 1939-03-25 | 18-116-8 | 
+| Glenville           | **[Massy](glenville-massy.md)**            | 1863-05-13 | 1939-03-25 | 18-116-8 | 
 | Michael Fryar       | Shield                                     | 1851-mm-dd | 1935-08-05 | 18-8-24  | 
 | Mary Ann            | Shield                                     | 1852-mm-dd | 1905-07-07 | 18-8-24  | 
 | Albert              | Shield                                     | 1852-mm-dd | 1905-07-07 | 29A-67-9 | 
-| Mary Craig          | Atkinson                                   | 1848-mm-dd | 1893-10-07 | 1-49-16  | 
-| Silvester           | Diggles                                    | 1817-mm-dd | 1880-03-21 | 13-6-10/11 | 
+| Mary Craig          | **[Atkinson](mary-craig-atkinson.md)**     | 1848-mm-dd | 1893-10-07 | 1-49-16  | 
+| Silvester           | **[Diggles](silvester-diggles.md)**        | 1817-mm-dd | 1880-03-21 | 13-6-10/11 | 
 | Sarah Ann           | Campbell                                   | 1845-03-dd | 1935-07-20 | 12-15-4  | 
 | James               | Campbell                                   | 1838-11-04 | 1925-09-13 | 12-15-4  | 
 | Mary                | Kennedy                                    | 1820-mm-dd | 1885-08-05 | 1-4-11/12 | 
@@ -510,11 +510,14 @@
 | Doris Vivian        | Kennedy                                    | 1899-mm-dd | 1979-09-28 | 1-50-11A | 
 | Anders Peter        | Petersen-Neilsen                           | 1842-mm-dd | 1928-05-10 | 9-7-7    | 
 | Emma Christina      | Petersen-Neilsen                           | 1842-mm-dd | 1925-01-27 | 9-7-7    | 
-| Joseph Needham Scrope | Shrapnel                                 | 1838-mm-dd | 1885-07-25 | 1-68-14/15 | 
-| John Boyne          | McLennan                                   | 1827-mm-dd | 1908-11-21 | 13-58-3  | 
-| William James       | Affleck                                    | 1868-06-22 | 1932-09-16 | 8-49-14  | 
-| Maud Voller         | Affleck                                    | 1874-06-02 | 1965-09-26 | 8-49-14  | 
+| Joseph Needham Scrope | **[Shrapnel](joseph-needham-scrope-shrapnel.md)** | 1838-mm-dd | 1885-07-25 | 1-68-14/15 | 
+| John Boyne          | **[McLennan](john-boyne-mclennan.md)**     | 1827-mm-dd | 1908-11-21 | 13-58-3  | 
+| William James       | **[Affleck](william-james-affleck.md)**    | 1868-06-22 | 1932-09-16 | 8-49-14  | 
+| Maud Voller         | **[Affleck](maud-voller-affleck.md)**      | 1874-06-02 | 1965-09-26 | 8-49-14  | 
 | Alexander William | **[MacDonald](alexander-william-macdonald.md)** | 1876-mm-dd | 1941-07-13 | 10-80-18 | 
+| James               | **[Klaassen](james-klaassen.md)**          | 1873-mm-dd | 1925-03-13 | 7A-138-21/22 | 
+| Elizabeth           | **[Smith](elizabeth-smith.md)**            | 1829-mm-dd | 1901-05-06 | 13-6-21   | 
+| William Ernest | **[Schleusener](william-ernest-schleusener.md)** | 1881-mm-dd | 1924-11-dd | 18-192-2 | 
 | Walter            | **[Tarte](walter-tarte.md)**                 | 1893-10-dd | 1940-04-23 | 10-75-58 | 
 | Alexander Robert  | **[Morrison](alexander-robert-morrison.md)** | 1885-07-09 | 1939-05-02 | 10-76-16 | 
 | Duncan            | **[McDougall](duncan-mcdougall.md)**         | 1878-07-15 | 1939-05-18 | 10-76-48 | 

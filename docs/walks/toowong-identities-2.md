@@ -147,7 +147,7 @@ Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
 2: Ochert, M. “Sali Mendelsohn” Australian Jewish Historical Society Journal
 
-3: Maclean, H. (ed.) [Extraordinary Lives of Ordinary People](../about/extraordinary-stories.md), Toowong, Friends of Toowong Cemetery Association Inc. 1999
+3: Maclean, H. (ed.) [Extraordinary Lives of Ordinary People](../story/extraordinary-stories.md), Toowong, Friends of Toowong Cemetery Association Inc. 1999
 
 
 <div class="noprint" markdown="1">
