@@ -62,7 +62,7 @@ Information on the official burial records that can be updated, includes:
 
 ## Markers
 
-Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a marker, the person it represents, and the grave location. 
+Markers can be seen on, or embedded into, graves. They represent a person buried in the grave. There is no simple way to link a marker, the person it represents, and the grave location. A historic Portion Book maps some markers to people and their grave.
 
 ![Markers embedded into a grave](../assets/many-markers.jpg){ width="100%" }
 
@@ -88,13 +88,15 @@ Only the surname is recorded in the Portion Book so you can't link a marker to a
 
 ## Need help locating a grave? 
 
-You can **[ask the Toowong Cemetery Office for assistance finding graves](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locating-graves-and-ashes-memorial-sites)**.
+You can **[ask the Toowong Cemetery Office to help find a grave](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#locating-graves-and-ashes-memorial-sites)**.
 
-**Friends of Toowong Cemetery can also assist finding graves. [Contact us](../about/index.md#contact-us)** to ask us to:
+Friends of Toowong Cemetery can also help you find a grave. We can:
 
-  - mark the side of the road with the section number relating to your search to help you to find it easily when you visit.
+  - mark the side of the road with the section number to help you to find it easily when you visit.
   - outline an unmarked grave using a surface spray. The spray does no harm and two mowings later it will disappear. 
-  - take digital photographs of a grave and email it to you.
+  - take a digital photograph of a grave and email it to you.
+  
+**[Ask us](../about/index.md#contact-us)** to help find a grave.
 
 ![Unmarked graves](../assets/unmarked-graves.jpg){ width="100%" }
 
