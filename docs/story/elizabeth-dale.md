@@ -14,7 +14,7 @@ hide:
 ![Elizabeth Dale](../assets/elizabeth-dale.jpg){ width="32%" }
 -->
 
-### Further reading
+### Learn more
 
 Learn how Elizabeth's brother, Henry Harris Dodd, was [murdered by mistake](https://www.slq.qld.gov.au/blog/murder-st-helena-penal-establishment). Henry is buried in grave 11-2-28.
 
