@@ -16,7 +16,7 @@ description: A smoking, swearing, lesbian surgeon that went to war
 
 
 
-## Learn more 
+### Learn more 
 
 Listen to a State Library of Queensland Podcast about Dr. Lilian Cooper and Josephine Bedford
 
