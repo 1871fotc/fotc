@@ -247,6 +247,7 @@ nav:
 #    - Celebrity Headstones: headstones/celebrities.md
   - Stories: 
     - Story Index: story/index.md
+#    - Colonel Samuel Wensley Blackall: assets/guides/samuel-blackall.pdf
     - Extraordinary Stories of Ordinary People: story/extraordinary-stories.md 
 #    - Our Publications: story/publications.md  link to blackall pdf converted to web page
     - Research Resources: story/research.md
@@ -257,3 +258,4 @@ nav:
     - Our Publications: about/publications.md
     - Data: about/data.md
     - Legal: about/legal.md
+  - Contact Us: contact.md
