@@ -79,20 +79,6 @@ To join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb
 - $11 Individuals
 - $5.50 Students and Pensioners
 
-## Contact us 
-
-Email: **[inquiries@fotc.org.au](mailto://inquiries@fotc.org.au)**
-
-Call: **[0439998053](tel: 0439998053)**
-
-Facebook: **[@1871fotc](https://www.facebook.com/1871fotc/)**
-
-Write: 
-
-**Friends of Toowong Cemetery Association Inc.** <br>
-**PO Box 808** <br>
-**Toowong QLD 4066**
-
 
 ## Important numbers
 
