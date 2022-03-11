@@ -16,7 +16,7 @@ hide:
 
 ### Learn more
 
-Learn how Elizabeth's brother, Henry Harris Dodd, was [murdered by mistake](https://www.slq.qld.gov.au/blog/murder-st-helena-penal-establishment). Henry is buried in grave 11-2-28.
+Learn how Elizabeth's brother, Henry Harris Dodd, was [murdered by mistake](https://www.slq.qld.gov.au/blog/murder-st-helena-penal-establishment). Henry is buried in grave 11‑2‑28.
 
 <!-- 
 http://www.oncewasacreek.org/2014/05/uncovering-langsville-creek-part-4-something-to-do-with-death/#gravestones
