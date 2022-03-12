@@ -7,6 +7,47 @@ hide:
   - toc
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "url": "https://1871fotc.github.io/fotc/",
+  "logo": "https://1871fotc.github.io/fotc/assets/fotc.png",
+  "image": [
+    "https://1871fotc.github.io/fotc/assets/logo/fotc-1x1.png",
+    "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-4x3.png",
+    "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-16x9.png"
+   ],
+  "name": "Friends of Toowong Cemetery Association Inc.",
+  "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
+  "slogan": "Discover and share the history and stories of Toowong Cemetery",
+  "email": "mailto:inquiries@fotc.org.au",
+  "telephone": "0439998053",
+  "address": "P.O. Box 808, Toowong, Qld, 4066",
+  "geo": {
+    "@type": "GeoCoordinates", 
+    "latitude": "-27.477120111723387",
+    "longitude": "152.98424486836961"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "09:00",
+      "closes": "17:00"
+    }
+  ]
+}
+</script>
+ 
 # Friends of Toowong Cemetery
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
@@ -30,13 +71,17 @@ On this site you'll find information about:
 --> 
 The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery).
 
-<!--
-![][image7] ![][image4] ![][image8]   
---> 
 
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>  
+
+
+<!--
 <div class="video-wrapper">
 <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" frameborder="0"></iframe>
 </div>  
+--> 
 *<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by [Drone Runner](https://www.youtube.com/channel/UCkeyrr7F795wvfFUITXSm_w).</small>*
 
 <!-- links -->
