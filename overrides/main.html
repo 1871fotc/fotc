@@ -2,14 +2,22 @@
 
 <!--  indexing policies for search engines -->
 {% block extrahead %}
-
 <link rel="mask-icon" href="assets/fotc_icon.svg">
 
-<!--  
-  <meta property="robots" content="noindex, nofollow" /> 
--->
-{% endblock %}
+<!-- Site wide metadata -->
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "url": "https://1871fotc.github.io/fotc/",
+  "logo": "https://1871fotc.github.io/fotc/assets/fotc.png"
+}
+</script> 
+
+
+<!--   <meta property="robots" content="noindex, nofollow" />  -->
+{% endblock %}
 
 <!--   announcement bar including arbitrary HTML and text at the top of the page  -->
 {% block announce %}
