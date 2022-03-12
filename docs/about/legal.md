@@ -7,7 +7,7 @@ description: Copyright, Licence, Acknowledgements, Consent and Accessibility
 
 ## Copyright
 
-Material on this site is copyright © 1992 — 2022 Friends of Toowong Cemetery Association Incorporated, unless noted otherwise. 
+Material on this site is copyright © 1992 — 2022 Friends of Toowong Cemetery Association Inc., unless noted otherwise. 
 
 <!-- 
 
@@ -15,7 +15,7 @@ Material on this site is copyright © 1992 — 2022 Friends of Toowong Cemetery 
 
 We have chosen to apply an open licence to our work to **encourage others to discover and share the history and stories of Toowong Cemetery.**
 
-Material by the Friends of Toowong Cemetery Association Incorporated is provided under a [Creative Commons Attribution 4.0 International licence][CC-BY]. This licence is often abbreviated as either:
+Material by the Friends of Toowong Cemetery Association Inc. is provided under a [Creative Commons Attribution 4.0 International licence][CC-BY]. This licence is often abbreviated as either:
 
 - CC BY 4.0
 - :fontawesome-brands-creative-commons::fontawesome-brands-creative-commons-by:
@@ -26,11 +26,11 @@ This licence allows you to distribute, remix, adapt, and build upon the material
 
 If you reuse this work, the preferred attribution is to follow the [Creative Commons - Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) format:
 
->"Page title *(link to page)*" by Friends of Toowong Cemetery Association Incorporated *(link to https://www.fotc.org.au)* is licensed under CC BY 4.0 *(link to https://creativecommons.org/licenses/by/4.0/)*
+>"Page title *(link to page)*" by Friends of Toowong Cemetery Association Inc. *(link to https://www.fotc.org.au)* is licensed under CC BY 4.0 *(link to https://creativecommons.org/licenses/by/4.0/)*
 
 For example, the preferred attribution for the Toowong Cemetery History page, when reused on the internet is:
 
->"[Toowong Cemetery History][history]" by [Friends of Toowong Cemetery Association Incorporated][site] is licensed under [CC BY 4.0][CC-BY]
+>"[Toowong Cemetery History][history]" by [Friends of Toowong Cemetery Association Inc.][site] is licensed under [CC BY 4.0][CC-BY]
 
 An acceptable shortened attribution for the Toowong Cemetery History page is: 
 
@@ -42,7 +42,7 @@ or
 
 An example attribution for work derived from the Toowong Cemetery History page is:
 
->This work, "*Your work's title here*", is a derivative of "[Toowong Cemetery History][history]" by [Friends of Toowong Cemetery Association Incorporated][site] licensed under [CC BY 4.0][CC-BY]. 
+>This work, "*Your work's title here*", is a derivative of "[Toowong Cemetery History][history]" by [Friends of Toowong Cemetery Association Inc.][site] licensed under [CC BY 4.0][CC-BY]. 
 
 ## Contribute
 

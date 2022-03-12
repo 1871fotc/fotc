@@ -502,7 +502,7 @@ search:
 -->
 
 
-The [Story Index](index.md) by [Friends of Toowong Cemetery Association Incorporated](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must [provide attribution](../about/legal.md#attribution) if you reuse this work.
+The [Story Index](index.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must [provide attribution](../about/legal.md#attribution) if you reuse this work.
 
 <!--
 Download the Story Index as a <a href="../assets/data/story-index.csv" download>Comma Separated Value file</a> (.csv) or [Tabular Data Package](../assets/data/story-index.zip) (.zip). 

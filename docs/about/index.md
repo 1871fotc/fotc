@@ -82,7 +82,7 @@ To join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb
 
 ## Important numbers
 
-The Friends of Toowong Cemetery Association Incorporated is a:
+The Friends of Toowong Cemetery Association Inc. is a:
 
 - Queensland Incorporated Association: **[IA17170](https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/check-a-licence-association-charity-or-register/check-a-charity-or-association)**
 - Registered Australian Business, ABN: **[12868524011](https://abr.business.gov.au/ABN/View?id=12868524011)**
