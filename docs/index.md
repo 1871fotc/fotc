@@ -6,12 +6,12 @@ hide:
   - feedback
   - toc
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
   "url": "https://1871fotc.github.io/fotc/",
+  "sameAs": ["https://www.facebook.com/1871fotc/", "https://twitter.com/1871fotc", "https://github.com/1871fotc"],
   "logo": "https://1871fotc.github.io/fotc/assets/fotc.png",
   "image": [
     "https://1871fotc.github.io/fotc/assets/logo/fotc-1x1.png",
@@ -24,11 +24,6 @@ hide:
   "email": "mailto:inquiries@fotc.org.au",
   "telephone": "0439998053",
   "address": "P.O. Box 808, Toowong, Qld, 4066",
-  "geo": {
-    "@type": "GeoCoordinates", 
-    "latitude": "-27.477120111723387",
-    "longitude": "152.98424486836961"
-  },
   "openingHoursSpecification": [
     {
       "@type": "OpeningHoursSpecification",
@@ -47,6 +42,7 @@ hide:
   ]
 }
 </script>
+
  
 # Friends of Toowong Cemetery
 
