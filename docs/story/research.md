@@ -49,3 +49,4 @@ Obituaries Australia is a new initiative of the National Centre of Biography at 
 - [Useful websites for family historians](https://www.slq.qld.gov.au/research-collections/family-history/useful-websites-family-historians) - State Library of Queensland
 - The [Under the Lino](http://www.underthelino.com.au) community have a [catalogue of research resources](http://www.underthelino.com.au/resources/)
 - [Virtual War Memorial Australia](https://vwma.org.au/explore/cemeteries/1788)
+- [Date Calculator: Add to or Subtract From a Date](https://www.timeanddate.com/date/dateadded.html) helps you work out an approimate birth date if you only have the date and age of death
