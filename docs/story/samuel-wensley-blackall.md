@@ -5,6 +5,28 @@ hide:
 description: Second Governor of Queenland and first person buried in Toowong Cemetery
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Colonel Samuel Wensley Blackall",
+  "temporalCoverage": "1809/1871",
+  "image": [
+    "https://1871fotc.github.io/fotc/assets/logo/fotc-1x1.png",
+    "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-4x3.png",
+    "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-16x9.png"
+   ],
+  "datePublished": "2010-09-17", 
+  "dateModified": "2022-04-01",
+  "author": [{
+    "@type": "Organization",
+    "url": "https://1871fotc.github.io/fotc/",
+    "name": "Friends of Toowong Cemetery Association Inc."
+    }]
+}
+</script>
+
+
 # Colonel Samuel Wensley Blackall 
 
 **1 May 1809 — 2 January 1871**
