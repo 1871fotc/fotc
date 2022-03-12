@@ -1,5 +1,5 @@
 ---
-title: Early Judiciary buried in Toowong Cemetery
+title: Early Judiciary in Toowong Cemetery
 description: A walk around the historic headstones of Brisbane's early Judges
 author: Lyn and Darcy Maddock
 date: 7 April 2019
