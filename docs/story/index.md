@@ -4,6 +4,48 @@ search:
   exclude: true
 ---
 
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org/",
+  "@type":"Dataset",
+  "name":"Friends of Toowong Cemetery Story Index",
+  "description":"People mentioned in Friends of Toowong Cemetery stories",
+  "url":"https://1871fotc.github.io/fotc/story/", 
+  "alternateName": "Toowong Cemetery Story Index",
+  "keywords":[
+     "Cemetery",
+     "Grave",
+     "Person",
+     "Story",
+     "Biography"
+  ],
+  "license" : "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree" : true,
+  "creator":{
+     "@type":"Organization",
+     "url": "https://1871fotc.github.io/fotc/",
+     "name": "Friends of Toowong Cemetery Association Inc.",
+     "logo": "https://1871fotc.github.io/fotc/assets/fotc.png",
+     "contactPoint":{
+        "@type":"ContactPoint",
+        "contactType": "customer service",
+        "email": "mailto:inquiries@fotc.org.au"
+     }
+  },
+  "distribution":[
+     {
+        "@type":"DataDownload",
+        "encodingFormat":"CSV",
+        "contentUrl":"https://1871fotc.github.io/fotc/assets/data/story-index.csv"
+     }
+  ],
+  "temporalCoverage" : "1871-01-03/..",
+  "spatialCoverage":"Toowong Cemetery, Brisbane, Queensland, Australia"
+}
+</script>
+
+
+
 # Story Index
 
 **Read the stories of the people remembered at Toowong Cemetery**. The index below lists over 500 people mentioned in our **[self-guided walks](../walks/index.md)** and provides links to their stories. 
@@ -34,7 +76,7 @@ search:
 
 --8<-- "snippets/story-index-table.md"
 
-The [Story Index](index.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must [provide attribution](../about/legal.md#attribution) if you reuse this work.
+The [Friends of Toowong Cemetery Story Index](index.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must [provide attribution](../about/legal.md#attribution) if you reuse this work.
 
 Download the Story Index as a <a href="../assets/data/story-index.csv" download>Comma Separated Value file</a> (.csv) 
 
