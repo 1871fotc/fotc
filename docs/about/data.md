@@ -139,7 +139,7 @@ We are inspired by the works of others who share and create with open data, incl
 - [Auckland Museum](https://www.aucklandmuseum.com/discover/collections-online/our-data) who publish the collection data in many different ways
 - [Family Tree Timeline](https://blog.myheritage.com/2022/03/introducing-the-family-tree-timeline/) by MyHeritage.com
 
-<!-- https://youtu.be/av5FL6gJBu4?t=126 -->
+<!-- LeanIX https://youtu.be/av5FL6gJBu4?t=126 -->
 
 
 We encourage you to reuse our data but please follow the terms of the licence and **[provide attribution](legal.md)**. 
