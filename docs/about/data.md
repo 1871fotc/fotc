@@ -5,7 +5,7 @@ description: Download data about Toowong Cemetery, its graves, headstones, and t
 
 #  Data
 
-**[We publish our data with an open licence](legal.md) to help others discover and share the history and stories of Toowong Cemetery.**
+**We publish our data with an open licence to help others discover and share the history and stories of Toowong Cemetery.**
 
 ## Our Data 
 
@@ -127,10 +127,6 @@ Dynamic visualisations we are considering include:
 - A biography explorer, traversing links from Person to Events, Organisations, and other People. This would traverse Linked Data stored using the Bio ontology. 
 - A cemetery explorer, traversing links from Person to their Remains, Grave and Headstone. This would traverse Linked Data stored using the Graves ontology.
 
-## Data Consumers
-
-Our end goal for publishing and linking our data is to enable Friends of Toowong Cemetery and others to discover and share new stories and historical insights about Toowong Cemetery.
-
 
 We are inspired by the works of others who share and create with open data, including:
 
@@ -141,8 +137,11 @@ We are inspired by the works of others who share and create with open data, incl
 
 <!-- LeanIX https://youtu.be/av5FL6gJBu4?t=126 -->
 
+## Data Consumers
 
-We encourage you to reuse our data but please follow the terms of the licence and **[provide attribution](legal.md)**. 
+Our end goal for publishing and linking our data is to enable Friends of Toowong Cemetery and others to discover and share new stories and historical insights about Toowong Cemetery.
+
+We encourage you to reuse our data but please follow the terms of the licence and provide attribution. 
 
 <!-- 
 We may encourage reuse of our data by participating in hack-a-thons (such as [GovHack](https://govhack.org)), and experiments with other organisations. 
