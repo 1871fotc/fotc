@@ -8,6 +8,8 @@ hide:
 
 **With all the company of heaven**
 
+This heritage trail was composed to commemorate the 150th anniversary (1857-2007) of the arrival in Brisbane of Pastor Carl Schirmeister (first registered Lutheran minister in Queensland) and Mrs. Alwine Schirmeister née Gehricke (first evangelical Lutheran deaconess in Australia). 
+
 This trail represents a small number Lutherans who participated in the sacramental life of this tradition of the church or who were at some time, or in some way, connected with it. They came from all walks of life.
 
 ## Christian Thomas Wagner <small>(4‑32‑1)</small>
