@@ -22,6 +22,13 @@ Urquhart was Chief Inspector during Brisbane’s most tumultuous times, when in 
 Apart from being the Commissioner of the Queensland Police, Urquhart was an accomplished writer of poetry that were published as books and some of his works were ‘*Camp Canzonettes*’, ‘*An Ocean Ghost*’ and ‘*Legends of the Blacks*’. He was also noted for being an early explorer of Queensland having charted Albatross Bay, Emberley and Hay Rivers in Far North Queensland.
 
 Urquhart retired from the Police Force in 1921 and was appointed as an Administrator of Northern Territory by the Commonwealth Government and he held this position until 1925.  He eventually settled in Clayfield, Brisbane and he died on 2^nd^ December, 1935 at St. Helen’s Private Hospital, aged 77 and is buried at the Toowong Cemetery.
+
+### Inscription
+
+>To the memory of Annetta the beloved wife of Frederic Charles URQUHART.  <br>
+>Sometime administrator of the Northern Territory of Australia who passed to her rest 28^th^ Feb 1932 in her 67^th^ year.  <br>
+>“For so he giveth his beloved sleep."   <br>
+>And of her husband Frederic Charles URQUHART died 3^rd^ Dec 1935 in his 78^th^ year.
  
 ### Acknowledgement
 
