@@ -50,7 +50,7 @@ hide:
 
 ![Toowong Cemetery main entrance][image1]{ width="32%" } ![Canon Garland Place][image2]{ width="32%" } ![Headstone Symbolism Display][image3]{ width="32%" }   
 
-The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The first burial was of Governor Blackall on 3 January 1871.  
+The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The first burial was of [Governor Samuel Blackall](story/samuel-wensley-blackall.md) on 3 January 1871. You can read his, and [hundreds of other stories](story/) about people who shaped Brisbane, Queensland, and Australia's history.
 
 On this site you'll find information about:
 
