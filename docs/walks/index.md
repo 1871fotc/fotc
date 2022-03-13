@@ -1,5 +1,6 @@
 ---
-description: Choose from over 40 themed self-guided cemetery walks 
+title: Self-Guided Heritage Walks
+description: Choose from over 40 themed heritage walks in Toowong Cemetery
 search:
   boost: 2    
 ---
@@ -17,7 +18,7 @@ search:
 
 # Self-Guided Walks
 
-The Friends of Toowong Cemetery have researched and published a large collection of themed self-guided walks. Choose a walk from the list below.
+The Friends of Toowong Cemetery have researched and published a large collection of themed self-guided heritage walks. Choose a walk from the list below.
 
 ## Politics
 
