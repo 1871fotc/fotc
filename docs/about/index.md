@@ -19,9 +19,9 @@ search:
 
 The Friends of Toowong Cemetery:
 
-- **research the history of Toowong Cemetery**, its [headstones](../headstones/), and the [stories](../story/) of the people remembered there. 
+- **research the history of Toowong Cemetery**, its [headstones](../headstones/), and the [stories](../story/) of the people remembered here. 
 - **share our discoveries** with the community through our [guided tours](../guided-tours.md), [self‑guided walks](../walks/index.md), [museum](../cemetery/museum.md), [publications](publications.md), and [data](data.md).
-- **contribute stories** of people remembered at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications and biographical databases.
+- **contribute stories** of people remembered at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications, biographical databases, and information signs around the cemetery.
 - **clean and conserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
 - **consult with the Brisbane City Council** on future plans and the restoration of graves.
@@ -34,7 +34,7 @@ The Friends of Toowong Cemetery have:
 - **established the [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. 
 - **commemorated the [140th Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the National Trust of Queensland for our work.
 - provided **stories for information signs** at significant grave sites.
-- **renamed cemetery roads** after notable people buried nearby, and added the road names to Google Maps to make it easier to find your way around the cemetery.
+- **renamed cemetery roads** after notable people buried nearby, and added the road names to [Google Maps](https://goo.gl/maps/7VX36iDLFNnShN6D8) to make it easier to for you to find your way around the cemetery.
 - shared the history and stories of Toowong Cemetery through monthly **[guided tours](../guided-tours.md)**.
 - **[published books, a DVD](publications.md)** and **[self‑guided walks](../walks/index.md)** 
 
@@ -49,7 +49,7 @@ Currently we are:
 
 - planning to erect an **[honour board](https://youtu.be/mVfixEzUpwk)** at the cemetery's main entrance to commemorate people who have served their nation in military uniform and now rest in Toowong Cemetery.
 - **photographing every headstone** in the cemetery.
-- **updating our website** <!-- to include [even more content](https://github.com/1871fotc/fotc/projects/1?fullscreen=true), including updating the directions and maps for our [self‑guided walks](../walks/index.md). -->
+- **updating our website** to include maps for our self‑guided walks.
 - **encouraging the community to volunteer** through simple one-off tasks shown on this site like the one below. 
 
 !!! question "Volunteer - help us update the cemetery maps"
@@ -90,7 +90,7 @@ The Friends of Toowong Cemetery Association Inc. is a:
 
 ![ACNC Registered Charity Logo](../assets/ACNC-Registered-Charity-Logo_RGB.png){ width="25%" } 
 
-Our Bank details: 
+Our Bank details are: 
 
 - Branch: **NAB Toowong**
 - BSB: **084-424** 
