@@ -15,7 +15,7 @@ The Federation Pavilion commemorates the contribution of the delegates who atten
 >  <br>
 >Samuel Walker Griffith <br>
 >John Donaldson <br>
->Thomas MacDonald Paterson <br>
+>Thomas MacDonald‑Paterson <br>
 >and Arthur Rutledge <br>
 >  <br>
 >Queensland delegates to the 1891 <br>
