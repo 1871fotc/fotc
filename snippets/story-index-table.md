@@ -59,14 +59,16 @@
 | David Gordon         | **[Rattray](david-gordon-rattray.md)**    | 1893-05-22 | 1919-02-dd | 10-39-16   | 
 | Thomas               | **[Morell](thomas-morell.md)**            | yyyy-mm-dd | yyyy-mm-dd | 10-39-15   | 
 | Richard              | **[Whitby](richard-whitby.md)**           | 1881-mm-dd | 1919-07-dd | 10-39-14   | 
-| William James        | Sluce                                     | 1832-03-25 | 1879-02-01 | 2-6-21     | 
-| John                 | Ogle                                      | 1824-mm-dd | 1890-19-26 | 1-113-3/4  | 
-| Mary Ann             | Ogle                                      | 1823-mm-dd | 1907-08-24 | 1-113-3/4  | 
-| George               | Loesch                                    | 1829-05-12 | 1887-10-21 | 7-49-12    | 
-| Frederick            | Loesch                                    | 1882-10-10 | 1929-02-03 | 7-49-12    | 
-| Iris Elizabeth       | Carson                                    | 1916-09-24 | 1918-03-25 | 15-31-9    | 
-| James Porter         | Fry                                       | 1880-03-10 | 1948-02-07 | 8-31-31/32 | 
-| Constance            | Campbell                                  | 1872-12-16 | 1926-07-04 | 8-19-16    | 
+| William James        | **[Sluce](william-james-sluce.md)**       | 1832-03-25 | 1879-02-01 | 2-6-21     | 
+| John                 | **[Ogle](john-ogle.md)**                  | 1824-mm-dd | 1890-19-26 | 1-113-3/4  | 
+| Mary Ann             | **[Ogle](mary-ann-ogle.md)**              | 1823-mm-dd | 1907-08-24 | 1-113-3/4  | 
+| George               | **[Loesch](george-loesch.md)**            | 1829-05-12 | 1887-10-21 | 7-49-12    | 
+| Frederick            | **[Loesch](frederick-losch.md)**         | 1882-10-10 | 1929-02-03 | 7-49-12    | 
+| Iris Elizabeth       | **[Carson](iris-elizabeth-carson.md)**    | 1916-09-24 | 1918-03-25 | 15-31-9    | 
+| James Porter         | **[Fry](james-porter-fry.md)**            | 1880-03-10 | 1948-02-07 | 8-31-31/32 | 
+| Constance            | **[Campbell](constance-campbell.md)**     | 1872-12-16 | 1926-07-04 | 8-19-16    | 
+| Charles Joseph       | **[Gall](charles-joseph-gall.md)**        | 1835-mm-dd | 1895-11-30 | 14-15-11/12/13 | 
+| William Thomas       | **[Birkbeck](william-thomas-birkbeck.md)** | 1848-01-30 | 1909-03-19 | 9-16-8/9  | 
 | William John         | Harrhy                                    | yyyy-mm-dd | 1924-mm-dd | 4-16-4     | 
 | Jessie Blanche       | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9-41-1     | 
 | Jessie Lacy          | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9-41-1     | 
