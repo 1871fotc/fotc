@@ -15,4 +15,7 @@ A book, **[Colonel Samuel Wensley Blackall : 1809-1871](../assets/guides/samuel-
 
 The Friends of Toowong Cemetery received a Silver Award in the 2012 [National Trust of Queensland Heritage Awards for Volunteer Projects](https://www.nationaltrustqld.org.au/what-we-do/heritage-awards) for the 140^th^ Anniversary Commemoration of the cemetery.
 
-The event was filmed and a DVD has been produced featuring footage of the re-enactment and segments outlining the history of the cemetery and stories of some people buried there. The **[DVD is available for purchase](mailto://inquiries@fotc.org.au)** for $25 (including GST and Postage).
+The event was filmed and a DVD has been produced featuring footage of the re-enactment and segments outlining the history of the cemetery and stories of some people buried there. The DVD is available for purchase for $25 (including GST and postage within Australia).
+
+
+[Buy the Toowong Cemetery: 140^th^ Anniversary Commemoration DVD](https://forms.gle/8Eont7fDf7BdScxA7){ .md-button .md-button--primary }
