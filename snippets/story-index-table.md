@@ -523,7 +523,15 @@
 | Walter            | **[Tarte](walter-tarte.md)**                 | 1893-10-dd | 1940-04-23 | 10-75-58 | 
 | Alexander Robert  | **[Morrison](alexander-robert-morrison.md)** | 1885-07-09 | 1939-05-02 | 10-76-16 | 
 | Duncan            | **[McDougall](duncan-mcdougall.md)**         | 1878-07-15 | 1939-05-18 | 10-76-48 | 
-
+| Francis Ernest       | **[Delaney](francis-ernest-delaney.md)**  | 1929-mm-dd | 1947-05-05 | 10-83-17 | 
+| Thomas               | **[Hale](thomas-hale.md)**                | 1844-mm-dd | 1910-04-13 | 18-23-12 | 
+| Henry James          | **[Beatty](henry-james-beatty.md)**       | 1855-05-20 | 1901-06-16 | 12-12-22 | 
+| William              | **[Weir](william-weir.md)**               | 1858-mm-dd | 1899-09-13 | 12-38-9  | 
+| James Forsyth        | **[Thallon](james-forsyth-thallon.md)**   | 1847-mm-dd | 1911-03-24 | 11-71-14 | 
+| George               | **[Orr](george-orr.md)**                  | yyyy-mm-dd | 1910-02-24 | 12-60-1/2 | 
+| John                 | **[Adamson](john-adamson.md)**            | 1857-02-18 | 1922-05-02 | 18-111-1 | 
+| Barnard Charles      | **[Evans](barnard-charles-evans.md)**     | 1845-04-15 | 1920-12-31 | 20-20-13/14 | 
+| Joseph Atkinson      | **[Holdsworth](joseph-atkinson-holdsworth.md)** | 1845-mm-dd | 1916-06-02 | 1-136-33 | 
 
 <!--
 |                     |                                            | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
@@ -531,6 +539,9 @@
 |                     |                                            | yyyy-mm-dd | yyyy-mm-dd | ppssgg   | 
 
 
+|                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
+|                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
+|                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 |                      | **[]()**                                  | yyyy-mm-dd | yyyy-mm-dd | ppssgg | 
 
 -->

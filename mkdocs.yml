@@ -166,13 +166,8 @@ plugins:
         'contactus/contactus.md': 'about/index.md'
 #  - privacy:
 #      externals: bundle
-#
-#
-#
-#
 # comment out for local builds as cannot resolve missing dependencies
   - social
-#
 #
 #
 #
@@ -214,6 +209,7 @@ nav:
     - Print Media Identities: walks/printers.md
     - More Print Media Identities: walks/printers-2.md
     - Sporting Personalities: walks/sporting-personalities.md
+    - Railway People: walks/railway.md
     - Undertakers: walks/undertakers.md
 # Local Identities    
     - Founding Fathers: walks/founding-fathers.md     

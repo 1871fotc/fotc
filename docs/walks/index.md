@@ -53,6 +53,7 @@ The Friends of Toowong Cemetery have researched and published a large collection
 - **[Print Media Identities of Early Brisbane][printers]** 
 - **[More Print Media Identities of Early Brisbane][printers2]** 
 - **[Sporting Personalities][sporting-personalities]** 
+- **[Railway People][railway]** - A Journey from Sevastopol to Brunswick Street
 - **[Undertakers][undertakers]**
 
 ## Local Identities
@@ -98,7 +99,6 @@ Missing Walks
 - November 2021	Laid to rest in 1921, hosted by Darcy Maddock
 - Brisbane City Council Trail 1 [Brisbane City Council Trail 1][bcc-walk-1] - A tour of the southern corner portion of Toowong Cemetery.
 - Brisbane City Council Trail 2 [Brisbane City Council Trail 2][bcc-walk-2]
-- More print media identities of early Brisbane" August 2019. Jenny Davidson
 -->
 
 <!-- links to pages or pdfs -->
@@ -125,6 +125,7 @@ Missing Walks
 [thin-blue-line]: thin-blue-line.md
 [sporting-personalities]: sporting-personalities.md
 [undertakers]: undertakers.md 
+[railway]: railway.md 
 [nurses]: in-their-caring-hands.md
 
 [founding-fathers]: founding-fathers.md

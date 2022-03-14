@@ -41,6 +41,7 @@ Obituaries Australia is a new initiative of the National Centre of Biography at 
 ## Other Resources
 
 - [Grave location search](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search) - Brisbane City Council
+- [Family history research service](https://www.familyhistory.bdm.qld.gov.au), Queensland births, deaths and marriages - Queensland Government
 - [Research Guide to cemetery records at Queensland State Archives](https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/3b2f93a8-3229-4739-bae5-a130fb199cf9/research-guide-to-cemetery-records.pdf)
 - [Hong Kong to Toowong - Chinese burials in the Brisbane General Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:632325/one). Leonie Gane, 2008.
 - [Baptist Church Archives Queensland](https://www.bhsq.org/barq/)
