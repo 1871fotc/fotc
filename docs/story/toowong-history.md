@@ -53,7 +53,7 @@ Their work has resulted in set of three books full of local history.
 
 This book contains the edited transcripts of talks on Queensland and local history, given by amateur and professional historians to Toowong History Group. Many of the images presented in the talks have been included.
 
-Part 1. Coning to Queensland
+Part 1. Coming to Queensland
 
 - Early shipping and immigration to Queensland, *Dr. Rod McLeod*
 - Descendants from three immigrant families. *Oral histories from Fay Sheriff, Malcolm Barrett, and Pat Wales*
