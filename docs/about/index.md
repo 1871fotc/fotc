@@ -79,6 +79,8 @@ To join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb
 - $11 Individuals
 - $5.50 Students and Pensioners
 
+[Join Friends of Toowong Cemetery](https://forms.gle/iwFKCnpNYRTSeHLb8){ .md-button .md-button--primary }
+
 
 ## Important numbers
 
