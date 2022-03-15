@@ -63,7 +63,6 @@ Compiled and presented by Lyn Maddock with research assistance by Darcy Maddock
 - "Beatty's Railway". New Cherwell Press 
 - https://www.nationaltrust.org.au/places/grandchester-railway-station/publications.qld.gov.au/storage/f/2014-11-21T04%3A22%3A18.342Z/fhj-issue-5.pdf *(broken link)*
 
-
 <div class="noprint" markdown="1">
 
 ## Brochure
