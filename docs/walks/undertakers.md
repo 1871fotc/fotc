@@ -51,8 +51,10 @@ hide:
 
 Thank you to Laurel Shanley from [K. M. Smith Funerals](https://kmsmith.com.au) for providing the story of Kate Mary Smith
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 [Download the PDF of this walk](../assets/guides/undertakers.pdf), print it, and fold it in half to make an A5 booklet. 
 </div>
+-->

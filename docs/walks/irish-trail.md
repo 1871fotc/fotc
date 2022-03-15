@@ -293,9 +293,11 @@ The first Irish Heritage Trail was held in 1988 during the Bi‑Centennial Celeb
 
 The Friends of Toowong Cemetery Association would like to acknowledge the Queensland Government Community Benefit Fund for the grant to provide signage for this trail.
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/irish-trail.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

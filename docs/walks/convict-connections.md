@@ -84,10 +84,11 @@ His rehabilitation into acquisitive society included reform; from his accumulate
 - Patrick, Ross and Heather Exiles Undaunted. St. Lucia : University of Queensland Press, 1989 [Kevin and Mary O’Doherty]
 - ‘Death of Old Colonist’ [E. Mott] The Queenslander, 8 September 1900, pp.542-543.
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/convicts.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

@@ -50,10 +50,11 @@ John Hardgrave, a local politician and lord mayor of Brisbane, was born in Wickl
 
 --8<-- "snippets/nathaniel-lade.md"
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/founding-fathers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

@@ -149,9 +149,11 @@ Research on Albert Whitford provided by Shelley Steel.
 Compiled by Hilda Maclean. 
 <!-- Hilda Maclean https://social-science.uq.edu.au/profile/603/hilda-maclean h.maclean@uq.edu.au -->
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/labor-luminaries.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

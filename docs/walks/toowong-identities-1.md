@@ -168,10 +168,11 @@ Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
 1: Leggett, S. and Grant, R. (eds) Toowong: A community’s history, Toowong, West Toowong Community Association Inc., 2003
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/toowong-identities-1.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

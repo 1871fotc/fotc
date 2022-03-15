@@ -125,7 +125,7 @@ Compiled and presented by Lyn Maddock
 - Don Wilkey, [Spragg, Alonzo Stephen (Lonnie) (1879-1904)](https://adb.anu.edu.au/biography/spragg-alonzo-stephen-lonnie-8609), Australian Dictionary of Biography, National Centre of Biography, Australian National University, 
 - [Padd Paddo Paddington: An Oral And Visual History Of Early Paddington: Living Memories From The Heart Of Brisbane](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:130801/one), Red Hill Paddington Community Centre (Inc) and the Paddington History Group, 1999
 
-
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -133,3 +133,4 @@ Compiled and presented by Lyn Maddock
 **[Download this walk](../assets/guides/erected-by-friends.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

@@ -94,6 +94,7 @@ Compiled and presented by Lyn and Darcy Maddock
 - [Australian Dictionary of Biography](https://adb.anu.edu.au)
 - [The Prosecution Project - Queensland Courts](https://prosecutionproject.griffith.edu.au/other-resources/queensland-courts/)
 
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -101,3 +102,4 @@ Compiled and presented by Lyn and Darcy Maddock
 **[Download this walk](../assets/guides/judiciary.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

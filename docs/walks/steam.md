@@ -73,7 +73,7 @@ Compiled and presented by Lyn Maddock
 - [Babbidge, Benjamin Harris (1836–1905)](https://adb.anu.edu.au/biography/babbidge-benjamin-harris-42) - Australian Dictionary of Biography
 - [Forgotten weavers' housing of the Spitalfields silk district in London](https://www.family-tree.co.uk/how-to-guides/forgotten-weavers-housing-of-the-spitalfields-silk-district-in-london/)
 
-
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -81,3 +81,4 @@ Compiled and presented by Lyn Maddock
 **[Download this walk](../assets/guides/steam.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

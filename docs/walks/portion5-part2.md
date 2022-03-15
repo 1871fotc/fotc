@@ -1,5 +1,5 @@
 ---
-title: A ramble through Portion 5
+title: A ramble through Portion 5 (part 2)  
 description: Part Two of a walk around the historic headstones in Portion 5 of Toowong Cemetery
 author: Darcy and Lyn Maddock
 date: 2/4/2017
@@ -108,6 +108,7 @@ Compiled and presented by Darcy and Lyn Maddock
 - American Civil War Round Table Queensland 
 - http://www.sampfordarundel.org.uk/sampage60.php *(broken)*
 
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -115,3 +116,4 @@ Compiled and presented by Darcy and Lyn Maddock
 **[Download this walk](../assets/guides/portion5-part2.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

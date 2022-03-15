@@ -1,5 +1,5 @@
 ---
-title: A ramble through Portion 5
+title: A ramble through Portion 5 (part 1)
 description: Part One of a walk around the historic headstones in Portion 5 of Toowong Cemetery
 author: Lyn Maddock
 date: 4/10/2015
@@ -98,20 +98,21 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- [Australian Dictionary of Biography](https://adb.anu.edu.au), Australian National University
-- [Trove](https://trove.nla.gov.au), National Library of Australia
-- [The Australian Flying Corps](https://www.awm.gov.au/articles/first-world-war-flying), Australian War Memorial
-- www.airforce.gov.au/History *(broken)*
-- https://sites.google.com/site/cqfamilyhistory/articles-indexes/history/biography-of-bird *(broken)*
+- [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
+- [Trove](https://trove.nla.gov.au) - National Library of Australia
+- [The Australian Flying Corps](https://www.awm.gov.au/articles/first-world-war-flying) - Australian War Memorial
 - [White Star Line History](https://www.whitestarhistory.com/celtic)
-- [Stanley McDonald, SS Celtic](https://www.slq.qld.gov.au/blog/stanley-mcdonald-ss-celtic), State Library Queensland
+- [Stanley McDonald, SS Celtic](https://www.slq.qld.gov.au/blog/stanley-mcdonald-ss-celtic) - State Library Queensland
 - [Bonzle Digital Atlas of Australia](http://www.bonzle.com/)
-- http://japanesehouse.com.au/about.php *(broken)*
-- [Judge George W Paul's Japanese house: a case study](https://eprints.qut.edu.au/46533/), Jill Barker
+- [Judge George W Paul's Japanese house: a case study](https://eprints.qut.edu.au/46533/) - Jill Barker
 - *Who's Who in the Far East*, (June) 1900-7 p 19-20
 - Nicholas, Thomas, 2000, *Annals and Antiquities of the Counties and County Families of Wales*, Genealogical Publishing Com, Wales
 - Johnstone, R A, 1843-1905, *Spinifex and wattle: reminiscences of pioneering in North Queensland* 
+- https://sites.google.com/site/cqfamilyhistory/articles-indexes/history/biography-of-bird *(broken)*
+- http://japanesehouse.com.au/about.php *(broken)*
+- www.airforce.gov.au/History *(broken)*
 
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -119,3 +120,4 @@ Compiled and presented by Lyn Maddock
 **[Download this walk](../assets/guides/portion5-part1.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

@@ -123,7 +123,7 @@ Compiled and presented by Lyn Maddock
 - [All Saints' Church, Brisbane 1862-1937](http://anglicanhistory.org/aus/wickham_kissick1937/03.html) - Project Canterbury
 - [Moreton Bay Pile Light](https://lighthouses.org.au/qld/moreton-bay-pile-light/) <!--, www.lighthouses.org.au/lights/QLD/Moreton%20Bay/Moreton%20Bay.htm --> - Lighthouses of Australia Inc. 
 
-
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -131,3 +131,4 @@ Compiled and presented by Lyn Maddock
 **[Download this walk](../assets/guides/portion5-part2.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

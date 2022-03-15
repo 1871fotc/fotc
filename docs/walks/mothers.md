@@ -108,6 +108,7 @@ The couple's two children were Jean Adelaide Haslewood (1891-1983) and Geoffrey 
 
 Leonard died in 1906 and Annie then divided her time between Australia, England and continental Europe. Annie died in Brisbane on the 23 October 1939.
 
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -115,3 +116,4 @@ Leonard died in 1906 and Annie then divided her time between Australia, England 
 **[Download this walk](../assets/guides/mothers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

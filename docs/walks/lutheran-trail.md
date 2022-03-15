@@ -104,10 +104,11 @@ Research provided by Rev. Stephen Nuske, St Andrews Lutheran Church
 
 © 2012, Friends of Toowong Cemetery Association Inc. and Friends of Lutheran Archives Queensland
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/lutheran-trail.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

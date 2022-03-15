@@ -56,8 +56,10 @@ hide:
 
 <div class="noprint" markdown="1">
 
+<!--
 ## Brochure
 
 **[Download this walk](../assets/guides/2020-vision.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

@@ -88,14 +88,14 @@ Emma died in 1917. On 22 October 1922 a publicly funded marble bust of her was u
 
 5: Young, P. 'Miller, Emma (1839 - 1917)', Australian Dictionary of Biography, Volume 10, Melbourne University Press, 1986, pp 509-510.
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/notable-women.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
-
+-->
 
 <!-- Links -->
 

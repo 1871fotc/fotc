@@ -379,9 +379,11 @@ Photography by: Joyce Simpson Sexton's Office Toowong Cemetery
 
 Edited by: Hilda Maclean Friends of Toowong Cemetery
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/jewish-trail.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

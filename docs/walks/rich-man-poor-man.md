@@ -73,7 +73,7 @@ Compiled and presented by Lyn Maddock
 - [Commonwealth Government records about the Northern Territory](https://www.naa.gov.au/help-your-research/research-guides/commonwealth-government-records-about-northern-territory), National Archives of Australia
 - [Smith, Miles Staniforth Cater (1869–1934)](https://adb.anu.edu.au/biography/smith-miles-staniforth-cater-8480), Australian Dictionary of Biography
 
-
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -81,3 +81,4 @@ Compiled and presented by Lyn Maddock
 **[Download this walk](../assets/guides/rich-man-poor-man.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

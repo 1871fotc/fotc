@@ -178,6 +178,7 @@ Compiled and presented by
 - [One Search](https://www.slq.qld.gov.au/search), The State of Queensland (State Library of Queensland) 2016 
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -185,3 +186,4 @@ Compiled and presented by
 **[Download this walk](../assets/guides/boh.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

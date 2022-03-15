@@ -118,9 +118,10 @@ Police career information supplied by the [Queensland Police Museum](https://www
 
 10: Brisbane Courier 6 February 1878 p.2
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 [Download the PDF of this walk](../assets/guides/thin-blue-line.pdf), print it, and fold it in half to make an A5 booklet. 
 </div>
+-->

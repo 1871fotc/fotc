@@ -83,11 +83,13 @@ The service was performed by Celebrant, Judy Magub, and Commander Tony Roper, RA
 
 <!-- Service arranged by Gavin Stoneley, Metropolitan Funerals. -->
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/lest-we-forget-navy.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->
 
 --8<-- "snippets/abbreviations.md"

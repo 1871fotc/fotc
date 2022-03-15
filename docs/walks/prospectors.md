@@ -98,11 +98,12 @@ Compiled and presented by
 
 ## Sources
 
-- "Deceased Search", Brisbane City Council [https://graves.brisbane.qld.gov.au/] 
-- "Family History Research", The State of Queensland, 2013. [www.qld.gov.au/law/births-deaths-marriages-and-divorces/family-history-research/]
-- "Queensland Parliament: Former Members", 2011. [www.parliament.qld.gov.au/members/former]
-- "Trove Digitised newspapers and more", National Library of Australia [trove.nla.gov.au]
+- [Cemetery Search](https://graves.brisbane.qld.gov.au/) - Brisbane City Council  
+- [Family History Research](https://www.qld.gov.au/law/births-deaths-marriages-and-divorces/family-history-research) - The State of Queensland
+- [Queensland Parliament: Former Members](https://www.parliament.qld.gov.au/Members/Former-Members) - Queensland Parliament website
+- [Trove](https://trove.nla.gov.au) - National Library of Australia [trove.nla.gov.au]
 
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -110,3 +111,4 @@ Compiled and presented by
 **[Download this walk](../assets/guides/prospectors.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

@@ -47,9 +47,11 @@ Compiled and presented by Darcy Maddock
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/1919-soldiers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

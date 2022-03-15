@@ -241,10 +241,11 @@ A former Bardon resident, Nell worked with the St Lukes Nursing Service. She was
 - Information of Mary Hogan provided by Ray and Lizzie Sergeant.
 - Compiled by Hilda Maclean, assisted by Margaret Graham and Margaret Campbell.
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/in-their-caring-hands.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

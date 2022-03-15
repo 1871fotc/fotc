@@ -49,9 +49,11 @@ Compiled and presented by Lyn Maddock
 - [Australian Dictionary of Biography](https://adb.anu.edu.au), 2006-2013
 - [Brisbane City Council Grave Location Search](https://graves.brisbane.qld.gov.au), 2013
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/printers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

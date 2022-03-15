@@ -138,7 +138,7 @@ Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
 ![Toowong Centenary logo](../assets/toowong-centenary-1903-2003.png){ width="15%" }
 
-## Sources and Further Reading
+## Sources
 
 1: Leggett, S. and Grant, R. (eds) Toowong: A community’s history, Toowong, West Toowong Community Association Inc., 2003
 
@@ -146,10 +146,11 @@ Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
 3: Maclean, H. (ed.) [Extraordinary Lives of Ordinary People](../story/extraordinary-stories.md), Toowong, Friends of Toowong Cemetery Association Inc. 1999
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/toowong-identities-2.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

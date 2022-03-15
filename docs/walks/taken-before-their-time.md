@@ -6,11 +6,6 @@ hide:
 
 # Taken before their time
 
-<!-- 
-
-
-
--->
 
 <!--
 ???+ directions "Directions" 
@@ -111,6 +106,7 @@ Ernest was born to William Henry Greenfield and Ada Harriet (née Brown) in the 
 Ernest worked for Greenfield Bros, opticians. After boarding the *ss Yongala* in Mackay for
 Townsville, Ernest was aboard when they left Mackay at 1:40pm on 23 March 1911. The final sighting of the *ss Yongala* was by the Dent Island lighthouse keeper at 6:30pm that same day. [All hands were believed lost](https://trove.nla.gov.au/newspaper/article/19670004) during a cyclone.
 
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -118,3 +114,4 @@ Townsville, Ernest was aboard when they left Mackay at 1:40pm on 23 March 1911. 
 **[Download this walk](../assets/guides/taken-before-their-time.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

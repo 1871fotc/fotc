@@ -76,10 +76,11 @@ His funeral procession travelled from the the Brisbane General Hospital into the
 
 *<small>[Funeral procession of the famous jockey, Brickwood Colley, in Brisbane, 1896](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218250330002061) - State Library of Queensland </small>*
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/sporting-personalities.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
-
 </div>
+-->

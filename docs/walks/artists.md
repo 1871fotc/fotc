@@ -72,9 +72,11 @@ hide:
 - Maynard, Margaret, *Jenner, Isaac Walter (1837-1902)*, Australian Dictionary of Biography, Volume 9, Melbourne University Press, 1983, p. 480.
 - Smith, Donald, *Lefevre James Cranstone : his life and art*, Richmond, Virginia : Brandylane Publishers, 2004.
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/artists.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

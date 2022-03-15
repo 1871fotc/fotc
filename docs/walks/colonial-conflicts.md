@@ -56,9 +56,11 @@ Unveiled in May 1902, this is the first known [monument](https://placesofpride.a
 - The Remembrance Day Service Address was given by Judy Magub
 - Additional Research by Paul Seto
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/colonial-conflicts.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

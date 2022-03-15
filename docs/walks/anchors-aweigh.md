@@ -213,10 +213,11 @@ He held a Masters Licence and worked on bay and river ships commanding the *Fann
 - Compiled by Hilda Maclean
 - Captain John Burke research by David Larkin
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/anchors-aweigh.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

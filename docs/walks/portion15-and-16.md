@@ -124,6 +124,7 @@ Compiled and presented by Darcy and Lyn Maddock
 - [Captain Starlight](http://bushrangersau.blogspot.com/2011/02/captain-starlight.html) - Bushrangers
 - [Museum](https://www.police.qld.gov.au/museum) - Queensland Police Service
 
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -131,3 +132,4 @@ Compiled and presented by Darcy and Lyn Maddock
 **[Download this walk](../assets/guides/portion15-and-16.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

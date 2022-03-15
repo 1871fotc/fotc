@@ -155,6 +155,7 @@ hide:
 
 Authors: Darcy and Lyn Maddock
 
+<!--
 
 <div class="noprint" markdown="1">
 ## Brochure
@@ -162,7 +163,6 @@ Authors: Darcy and Lyn Maddock
 **[Download this walk](../assets/guides/men-of-the-royal-navy.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
-
-<!-- include site-wide abbreviations -->
+-->
 
 --8<-- "snippets/abbreviations.md"

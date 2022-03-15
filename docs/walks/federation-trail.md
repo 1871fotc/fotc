@@ -93,10 +93,11 @@ Federation Pavilion funded by Federation Community Projects Program.
 
 Restoration of the graves of Griffith, Rutledge, Macdonald‑Paterson and Donaldson funded by the Centenary of Federation Queensland.
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/federation-trail.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

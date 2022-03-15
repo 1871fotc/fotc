@@ -63,11 +63,13 @@ The Address was given by Rod Schafferius.
 
 <!-- The Service was arranged by Gavin Stoneley, Metropolitan Funerals. -->
 
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/lest-we-forget.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->
 
 --8<-- "snippets/abbreviations.md"

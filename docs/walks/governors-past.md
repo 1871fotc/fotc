@@ -139,10 +139,11 @@ In November 1919, the Theodore ministry decided to appoint William Lennon as Lie
  
 Forrest, Peter and Sheila Forrest, *[All for Queensland: The Governors and the People](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21131046020002061)*, Darwin, Shady Tree, 2009
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/governors-past.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

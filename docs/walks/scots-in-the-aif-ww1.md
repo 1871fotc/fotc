@@ -29,10 +29,11 @@ We note that his headstone reads "My brother John Jack formerly of Edinburgh. I 
 
 -->
 
-
+<!--
 <div class="noprint" markdown="1">
 ## Brochure
 
 **[Download this walk](../assets/guides/scots-in-the-aif.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->

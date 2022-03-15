@@ -97,6 +97,7 @@ Joseph died in Brisbane on 25 December 1941 of injuries accidentally received, a
 - [One Search](http://onesearch.slq.qld.gov.au/primo-explore/search?vid=SLQ) - State Library of Queensland
 - [Trove](https://trove.nla.gov.au)
 
+<!--
 <div class="noprint" markdown="1">
 
 ## Brochure
@@ -104,3 +105,4 @@ Joseph died in Brisbane on 25 December 1941 of injuries accidentally received, a
 **[Download this walk](../assets/guides/one-day-christmas.pdf)** - designed to be printed and folded in half to make an A5 brochure.
 
 </div>
+-->
