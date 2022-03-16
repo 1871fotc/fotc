@@ -1,8 +1,9 @@
 ---
+title: Lilian Voilet Cooper
+description: A smoking, swearing, lesbian surgeon that went to war 
 hide:
   - toc
   - navigation
-description: A smoking, swearing, lesbian surgeon that went to war 
 ---
 
 # Dr Lilian Voilet Cooper
@@ -13,8 +14,6 @@ description: A smoking, swearing, lesbian surgeon that went to war
 
 
 ![Dr Lilian Voilet Cooper's headstone](../assets/lilian-cooper.jpg){ width="25%" } ![Dr Lilian Voilet Cooper plaque](../assets/lilian-cooper-plaque.jpg){ width="59.25%" }
-
-
 
 ### Learn more 
 
