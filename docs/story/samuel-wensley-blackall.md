@@ -1,8 +1,10 @@
 ---
+title: Samuel Wensley Blackall
+description: Second Governor of Queenland and first person buried in Toowong Cemetery
+
 hide:
   - toc
   - navigation
-description: Second Governor of Queenland and first person buried in Toowong Cemetery
 ---
 
 <script type="application/ld+json">
