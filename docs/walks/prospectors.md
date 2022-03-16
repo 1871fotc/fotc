@@ -17,6 +17,10 @@ hide:
 
 --8<-- "snippets/william-francis-faine.md"
 
+![Horsedrawn whim at a goldfield in Gympie, 1870-1880](../assets/gympie-goldfield.jpg){ width="70%" } 
+
+*<small>[Horsedrawn whim at a goldfield in Gympie, 1870-1880](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220354010002061) - State Library of Queensland </small>* 
+
 <!--
 ??? directions "Directions" 
 
