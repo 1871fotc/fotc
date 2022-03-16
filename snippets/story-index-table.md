@@ -239,16 +239,16 @@
 | Robert               | **[Dunn](robert-dunn.md)**                | 1850-mm-dd | 1926-08-02 | 8-67-5/6  | 
 | Martha *(Pattie)*    | **[Soutter](martha-soutter.md)**          | yyyy-mm-dd | 1936-09-28 | 18-167-18 | 
 | Edmund James Thomas | **[Barton](edmund-james-thomas-barton.md)** | 1854-mm-dd | 1937-04-10 | 11-24-16 | 
-| William Francis      | Faine                                     | yyyy-mm-dd | 1899-08-28 | 13-12-1   | 
-| William James        | Muldoon                                   | yyyy-mm-dd | 1924-09-23 | 2-26-25   | 
-| Sidney Spencer       | Broomfield                                | 1847-mm-dd | 1933-10-24 | 18-20-11  | 
-| Frederick            | Achilles                                  | yyyy-mm-dd | 1900-06-13 | 18-62-1   | 
-| Thomas James         | Mattingley                                | yyyy-mm-dd | 1924-05-22 | 18-173-45 | 
-| John Wilson          | Weir                                      | yyyy-mm-dd | 1947-12-16 | 8-34-30   | 
-| John Edward          | Maidens                                   | 1874-02-30 | 1924-12-07 | 18-79-13  | 
-| William Henley       | Rawlings                                  | 1848-02-28 | 1906-07-05 | 11-51-1   | 
-| Hugh                 | Mosman                                    | 1843-02-11 | 1909-11-15 | 13-88-3   | 
-| William Chalmers     | Brown                                     | 1841-mm-dd | 1909-04-15 | 9-31-7    | 
+| William Francis      | **[Faine](william-francis-faine.md)**     | yyyy-mm-dd | 1899-08-28 | 13-12-1   | 
+| William James        | **[Muldoon](william-james-muldoon.md)**   | yyyy-mm-dd | 1924-09-23 | 2-26-25   | 
+| Sidney Spencer       | **[Broomfield](sidney-spencer-broomfield.md)** | 1847-mm-dd | 1933-10-24 | 18-20-11 | 
+| Frederick            | **[Achilles](frederick-achilles.md)**     | yyyy-mm-dd | 1900-06-13 | 18-62-1   | 
+| Thomas James         | **[Mattingley](thomas-james-mattingley.md)** | yyyy-mm-dd | 1924-05-22 | 18-173-45 | 
+| John Wilson          | **[Weir](john-wilson-weir.md)**           | 1870-mm-dd | 1947-12-16 | 8-34-30   | 
+| John Edward          | **[Maidens](john-edward-maidens.md)**     | 1874-02-30 | 1924-12-07 | 18-79-13  | 
+| William Henley       | **[Rawlings](william-henley-rawlings.md)** | 1848-02-28 | 1906-07-05 | 11-51-1  | 
+| Hugh                 | **[Mosman](hugh-mosman.md)**              | 1843-02-11 | 1909-11-15 | 13-88-3   | 
+| William Chalmers     | **[Brown](william-chalmers-brown.md)**    | 1841-mm-dd | 1909-04-15 | 9-31-7    | 
 | Christopher          | Francis                                   | 1840-mm-dd | 1915-11-10 | 2-37-31/32 |  
 | Henry Bloomfield     | Gough                                     | 1845-mm-dd | 1896-mm-dd | 2-44-21   | 
 | Octavius             | Armstrong                                 | 1833-mm-dd | 1917-01-23 | 2-45-16/17 | 
