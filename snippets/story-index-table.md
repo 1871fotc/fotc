@@ -108,12 +108,12 @@
 | John                 | **[Higson](john-higson.md)**              | yyyy-mm-dd | yyyy-mm-dd | 2A-31-16   | 
 | Robert               | **[Orton](robert-orton.md)**              | 1860-mm-dd | 1929-08-dd | 5-66-4     | 
 | George               | **[Vowles](george-vowles.md)**            | 1846-mm-dd | 1928-11-28 | 2-49-35    | 
-| Joseph Robert        | Abbott                                    | 1899-05-30 | 1941-12-25 | 10-80-45   | 
-| George               | Hansford                                  | 1840-12-25 | 1925-10-13 | 10-17-30/31 | 
-| Victor Cyril         | Button                                    | 1924-01-01 | 1942-12-25 | 10-53-14   | 
-| Joseph               | Cossart                                   | 1843-11-14 | 1911-12-25 | 13-18-16   | 
-| Edward Arthur        | Gordon                                    | 1893-mm-dd | 1913-01-26 | 6-7-18     | 
-| Joseph               | McNamara                                  | 1916-05-23 | 1941-12-25 | 10-71-26A  | 
+| Joseph Robert        | **[Abbott](joseph-robert-abbott.md)**     | 1899-05-30 | 1941-12-25 | 10-80-45   | 
+| George               | **[Hansford](george-hansford.md)**        | 1840-12-25 | 1925-10-13 | 10-17-30/31 | 
+| Victor Cyril         | **[Button](victor-cyril-button.md)**      | 1924-01-01 | 1942-12-25 | 10-53-14   | 
+| Joseph               | **[Cossart](joseph-cossart.md)**          | 1843-11-14 | 1911-12-25 | 13-18-16   | 
+| Edward Arthur        | **[Gordon](edward-arthur-gordon.md)**     | 1893-mm-dd | 1913-01-26 | 6-7-18     | 
+| Joseph               | **[McNamara](joseph-mcnamara.md)**        | 1916-05-23 | 1941-12-25 | 10-71-26A  | 
 | Albert Williams      | Gyler                                     | 1892-mm-dd | yyyy-mm-dd | 2-41-65    | 
 | James                | Sanford                                   | 1888-09-09 | yyyy-mm-dd | 2A-24-1/2  | 
 | Henry Townsend       | Wilkins                                   | 1895-mm-dd | 1917-07-31 | 2A-22-11   | 
@@ -128,16 +128,16 @@
 | William Rich         | Saile                                     | 1893-mm-dd | yyyy-mm-dd | 2A-22-11   | 
 | Norman Kinamond      | Harvey                                    | yyyy-mm-dd | yyyy-mm-dd | 2-47-38    | 
 | John Thomas          | Moores                                    | 1891-mm-dd | 1969-06-27 | 2-47-16    | 
-| William Robert       | Colledge                                  | 1842-mm-dd | 1928-08-26 | 4-15-9/10  | 
-| George Edwards       | Rowe                                      | 1858-08-26 | 1926-10-27 | 10-48-4    | 
-| Mary Elizabeth  *(Sister Lily)* | Briscoe                        | 1868-mm-dd | 1935-06-26 | 10-31-25   | 
-| Percy Lionel         | Benjamin                                  | yyyy-mm-dd | 1903-03-03 | 3-12-7/8   | 
-| David Thomas         | Newitt                                    | 1890-06-30 | 1922-09-02 | 10-26-4/5  | 
-| Joseph Letcher       | Phillips                                  | 1849-mm-dd | 1910-05-05 | 10-8-12    | 
-| William Henry        | Sowray                                    | 1851-02-22 | 1912-12-01 | 1-50A-1    | 
-| Stephen Alonzo       | Spragg                                    | 1879-10-02 | 1904-02-12 | 5-15-26    | 
-| Walter Thorpe        | Olding                                    | 1888-09-25 | 1912-04-30 | 5-42-7     | 
-| Edward Vincent       | Pollock                                   | 1851-06-12 | 1911-10-16 | 5-62-12    | 
+| William Robert       | **[Colledge](william-robert-colledge.md)** | 1842-mm-dd | 1928-08-26 | 4-15-9/10  | 
+| George Edwards       | **[Rowe](george-edwards-rowe.md)**        | 1858-08-26 | 1926-10-27 | 10-48-4    | 
+| Mary Elizabeth  *(Sister Lily)* | **[Briscoe](mary-elizabeth-briscoe.md)** | 1868-mm-dd | 1935-06-26 | 10-31-25   | 
+| Percy Lionel         | **[Benjamin](percy-lionel-benjamin.md)**  | yyyy-mm-dd | 1903-03-03 | 3-12-7/8   | 
+| David Thomas         | **[Newitt](david-thomas-newitt.md)**      | 1890-06-30 | 1922-09-02 | 10-26-4/5  | 
+| Joseph Letcher       | **[Phillips](joseph-letcher-phillips.md)** | 1849-mm-dd | 1910-05-05 | 10-8-12    | 
+| William Henry        | **[Sowray](william-henry-sowray.md)**     | 1851-02-22 | 1912-12-01 | 1-50A-1    | 
+| Stephen Alonzo       | **[Spragg](stephen-alonzo-spragg.md)**    | 1879-10-02 | 1904-02-12 | 5-15-26    | 
+| Walter Thorpe        | **[Olding](walter-thorpe-olding.md)**     | 1888-09-25 | 1912-04-30 | 5-42-7     | 
+| Edward Vincent       | **[Pollock](edward-vincent-pollock.md)**  | 1851-06-12 | 1911-10-16 | 5-62-12    | 
 | Maurice Charles      | O’Connell                                 | 1812-01-13 | 1879-03-23 | 13-83-4    |  
 | Joshua Peter         | Bell                                      | 1827-01-19 | 1881-12-20 | 13-84-8    | 
 | Anthony              | Musgrave                                  | 1828-11-17 | 1888-10-09 | 14-23-7    | 
