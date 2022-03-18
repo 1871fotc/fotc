@@ -43,6 +43,12 @@ You can send a letter to:
 **PO Box 808** <br>
 **Toowong QLD 4066**
 
+<!--
 ![Woman typing on a typewriter, ca. 1915](../assets/woman-typing.jpg){ width="40%" }
 
 *<small>[Woman typing on a typewriter, ca. 1915](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218088650002061) - State Library of Queensland.</small>*
+-->
+
+![Telephonists working at the, Brisbane Central telephone exchange, Brisbane, 1910](../assets/brisbane-telephone-exchange.jpg)
+
+*<small>[Telephonists working at the, Brisbane Central telephone exchange, Brisbane, 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21297980500002061) - State Library of Queensland.</small>*
