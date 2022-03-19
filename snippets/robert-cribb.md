@@ -12,3 +12,5 @@ Robert came to the Colony of Queensland aboard the *Fortitude* in January 1849. 
 *<small>[Glen Olive Garden Estate on the river bank Toowong](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21119287420002061) - State Library of Queensland. This shows the site of the Glen Olive house and grounds.  <br>
 [Black February: Queensland's most deadly floods (One Minute Archive)](https://youtu.be/yqEivuBSHTw) - Queensland State Archives
 Queensland State Archives</small>*
+
+<!-- TODO align height when using in story -->

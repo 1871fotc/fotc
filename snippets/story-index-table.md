@@ -133,16 +133,16 @@
 | Mary Elizabeth  *(Sister Lily)* | **[Briscoe](mary-elizabeth-briscoe.md)** | 1868-mm-dd | 1935-06-26 | 10-31-25   | 
 | Percy Lionel         | **[Benjamin](percy-lionel-benjamin.md)**  | yyyy-mm-dd | 1903-03-03 | 3-12-7/8   | 
 | David Thomas         | **[Newitt](david-thomas-newitt.md)**      | 1890-06-30 | 1922-09-02 | 10-26-4/5  | 
-| Joseph Letcher       | **[Phillips](joseph-letcher-phillips.md)** | 1849-mm-dd | 1910-05-05 | 10-8-12    | 
+| Joseph Letcher       | **[Phillips](joseph-letcher-phillips.md)** | 1849-mm-dd | 1910-05-05 | 10-8-12   | 
 | William Henry        | **[Sowray](william-henry-sowray.md)**     | 1851-02-22 | 1912-12-01 | 1-50A-1    | 
 | Stephen Alonzo       | **[Spragg](stephen-alonzo-spragg.md)**    | 1879-10-02 | 1904-02-12 | 5-15-26    | 
 | Walter Thorpe        | **[Olding](walter-thorpe-olding.md)**     | 1888-09-25 | 1912-04-30 | 5-42-7     | 
 | Edward Vincent       | **[Pollock](edward-vincent-pollock.md)**  | 1851-06-12 | 1911-10-16 | 5-62-12    | 
-| Maurice Charles      | O’Connell                                 | 1812-01-13 | 1879-03-23 | 13-83-4    |  
-| Joshua Peter         | Bell                                      | 1827-01-19 | 1881-12-20 | 13-84-8    | 
-| Anthony              | Musgrave                                  | 1828-11-17 | 1888-10-09 | 14-23-7    | 
-| Arthur Hunter        | Palmer                                    | 1819-12-28 | 1898-03-20 | 13-88-7    | 
-| Pope Alexander       | Cooper                                    | 1846-05-12 | 1923-08-30 | 13-37-1    | 
+| Maurice Charles  | **[O’Connell](maurice-charles-o-connell.md)** | 1812-01-13 | 1879-03-23 | 13-83-4    |  
+| Joshua Peter         | **[Bell](joshua-peter-bell.md)**          | 1827-01-19 | 1881-12-20 | 13-84-8    | 
+| Anthony              | **[Musgrave](anthony-musgrave.md)**       | 1828-11-17 | 1888-10-09 | 14-23-7    | 
+| Arthur Hunter        | **[Palmer](arthur-hunter-palmer.md)**     | 1819-12-28 | 1898-03-20 | 13-88-7    | 
+| Pope Alexander       | **[Cooper](pope-alexander-cooper.md)**    | 1846-05-12 | 1923-08-30 | 13-37-1    | 
 | Edmund               | **[Mellor](edmund-mellor.md)**            | yyyy-mm-dd | 1872-09-26 | 9-38-4     | 
 | George               | **[Hiron](george-hiron.md)**              | 1840-mm-dd | 1915-06-02 | 13-20-9    | 
 | Joseph William       | **[Sutton](joseph-william-sutton.md)**    | yyyy-mm-dd | 1914-02-21 | 13-7-13/14 | 
