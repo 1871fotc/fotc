@@ -160,21 +160,21 @@
 | Boyd Dunlop          | **[Morehead](boyd-dunlop-morehead.md)**   | 1843-08-24 | 1905-10-30 | 12-49-6    | 
 | David Hay            | **[Dalrymple](david-hay-dalrymple.md)**   | 1840-12-14 | 1912-09-01 | 12-53-2    | 
 | Arthur               | **[Morgan](arthur-morgan.md)**            | 1856-09-19 | 1916-12-20 | 12-15-12   | 
-| Andrew Lang          | Petrie                                    | 1854-mm-dd | yyyy-mm-dd | 13-10-7    | 
-| George Harpur        | Jones                                     | yyyy-mm-dd | yyyy-mm-dd | 13-15-7    | 
+| Andrew Lang          | **[Petrie](andrew-lang-petrie.md)**       | 1854-mm-dd | 1928-04-01 | 13-10-7    | 
+| George Harpur        | **[Jones](george-harpur-jones.md)**       | yyyy-mm-dd | yyyy-mm-dd | 13-15-7    | 
 | William John         | Munce                                     | yyyy-mm-dd | 1892-mm-dd | 9-43-11    | 
-| Charles              | Patterson                                 | yyyy-mm-dd | 1926-01-dd | 13-30-10   | 
-| Robert               | Cribb                                     | yyyy-mm-dd | 1893-04-16 | 9-37-6     | 
-| Henry Howard         | Payne                                     | yyyy-mm-dd | 1903-02-18 | 9-11-15/16 | 
-| Henry                | Sleath                                    | yyyy-mm-dd | 1918-03-dd | 13-43-18   | 
-| James                | Valentine                                 | yyyy-mm-dd | 1904-01-17 | 13-59-16/17 | 
-| John                 | Fewings                                   | yyyy-mm-dd | yyyy-mm-dd | 9-30-22/23 | 
-| Thomas               | Finney                                    | yyyy-mm-dd | yyyy-mm-dd | 13-81-6    | 
-| William              | Richer                                    | yyyy-mm-dd | yyyy-mm-dd | 11-7-28    | 
-| Charles              | Siemon                                    | yyyy-mm-dd | yyyy-mm-dd | 12-21-5    | 
-| Jessie               | Philp                                     | yyyy-mm-dd | 1890-mm-dd | 14-23-10   | 
-| Augustus Charles     | Gregory                                   | yyyy-mm-dd | yyyy-mm-dd | 14-22-14   | 
-| Alfred               | Roberts                                   | 1837-mm-dd | yyyy-mm-dd | 13-1-2     | 
+| Charles              | **[Patterson](charles-patterson.md)**     | yyyy-mm-dd | 1926-01-04 | 13-30-10   | 
+| Robert               | **[Cribb](robert-cribb.md)**              | 1805-mm-dd | 1893-04-16 | 9-37-6     | 
+| Henry Howard         | **[Payne](henry-howard-payne.md)**        | 1821-mm-dd | 1903-02-18 | 9-11-15/16 | 
+| Henry                | **[Sleath](henry-sleath.md)**             | 1828-mm-dd | 1918-05-21 | 13-43-18   | 
+| James                | **[Valentine](james-valentine.md)**       | 1853-mm-dd | 1904-01-17 | 13-59-16/17 | 
+| John                 | **[Fewings](john-fewings.md)**            | 1830-mm-dd | 1910-05-20 | 9-30-22/23 | 
+| Thomas               | **[Finney](thomas-finney.md)**            | 1837-01-10 | 1903-12-16 | 13-81-6    | 
+| William              | **[Richer](william-richer.md)**           | yyyy-mm-dd | 1924-11-28 | 11-7-28    | 
+| Charles              | **[Siemon](charles-siemon.md)**           | 1871-03-31 | 1941-07-03 | 12-21-5    | 
+| Jessie               | **[Philp](jessie-philp.md)**              | 1856-mm-dd | 1890-11-21 | 14-23-10   | 
+| Augustus Charles     | **[Gregory](augustus-charles-gregory.md)** | 1819-08-01 | 1905-06-25 | 14-22-14   | 
+| Alfred               | **[Roberts](alfred-roberts.md)**          | 1837-mm-dd | 1920-05-10 | 13-1-2     | 
 | Edmund               | Curd                                      | yyyy-mm-dd | 1922-12-dd | 4-37-14    | 
 | Victor               | McGregor-Lowndes                          | 1884-mm-dd | 1951-07-21 | 4-16-20/21 | 
 | Jean                 | McGregor-Lowndes                          | yyyy-mm-dd | 1976-06-dd | 4-16-20/21 | 

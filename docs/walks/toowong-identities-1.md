@@ -6,6 +6,7 @@ hide:
   - navigation
 ---
 
+
 # Toowong Identities
 
 **A Heritage Walk to commemorate the centenary of the Proclamation of the Town of Toowong in 1903.**
@@ -125,43 +126,25 @@ Archibald was the Chairman of the Toowong Fire Brigade, which had built a [fire 
 
     Head to the lower end of the section and follow the row of trees towards Frederick Street. Turn right into the row which contains the large, white, ornate monument of...
 
-## Sir Robert and Jessie Philp <small>(14‑23‑10)</small>
-
-Jessie Philp, née Campbell was buried here in 1890. She was a 34‑year‑old politician’s wife and mother of seven. Her youngest child was just two weeks old when Jessie, weakened from recent childbirth, succumbed to the scarlet fever for which she was nursing two older children. Apart from her children, she was survived by her husband Robert (the Member for Townsville) and her parents and siblings. 
-
-The next two burials here were of infant grandchildren of Robert and Jessie. In 1916, Jessie Ruth Henderson (known as Ruth) died from an unknown illness at the age of two. Twelve months later, an unnamed stillborn Henderson baby was also buried here. 
-
-In 1922, when Robert Philp – by then Sir Robert – died, he was buried beside Jessie, although he had married for a second time in 1898. He had a long and distinguished parliamentary career, including twice being Premier of Queensland. He was also a well‑known businessman and co‑founder of Burns, Philp and Company. He lived at *Mallow* in Kensington Terrace, Toowong – now the site of the Brisbane Boys’ College boarding houses and dining room. 
-
-The last burial in this grave took place in 1962 when Robert and Jessie’s eldest daughter Isabella Mary (known as May) died. She was 83 and had never married, though she had been engaged to Campbell Cowley from another Toowong family. From the age of 11, when her mother died, May looked after her younger brothers and sisters and later their children and grandchildren. She had a great interest in education, and was a benefactor to institutions like the University as well as providing books and cultural experiences for her extended family. Country nieces stayed with “Aunty May” to attend high school in Brisbane. She lived at *Mallow* until her death, and left the home and remaining grounds to BBC.
+--8<-- "snippets/jessie-philp.md"
 
 ??? directions "Directions" 
 
     Continue up the same row until you see on the right the sarcophagus of...
 
-## Sir Augustus Charles Gregory <small>(14‑22‑14)</small>
-
-The well‑known explorer Gregory became the first President of the Toowong Shire Council in 1881. With his brother, Francis, Augustus was attached to the survey department of Western Australia and later joined the Survey Department in Queensland rising to the position of Surveyor General in 1859.
-
-![Sir Augustus Charles Gregory lying in state, Brisbane, 1905](../assets/augustus-charles-gregory-lying-in-state.jpg){ width="70%" }
-
-*<small>[Sir Augustus Charles Gregory lying in state, Brisbane, 1905](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool73174) - State Library of Queensland </small>*
+--8<-- "snippets/augustus-charles-gregory.md"
 
 ??? directions "Directions" 
 
     Return to the main path which separates Portions 13 and 14 and head down the hill to the bottom. As you curve around to the right, in the front row of potion 13 is the grave of...
 
-## Alfred Roberts <small>(13‑1‑2)</small>
-
-Alfred was born in 1837 in Putney, London and arrived in Queensland in 1860. In 1872 he began a horse‑drawn omnibus line which operated between Eagle Street in the city and the present site of the Taringa Shopping Centre, where the Roberts’ home was. The fare to the city was one shilling or one shilling and sixpence return. Alfred would announce his arrival with a bugle call. The business was lost when the stables burned down about 1893. The Roberts family took up farming in Moggill.
-
+--8<-- "snippets/alfred-roberts.md"
 
 ## Acknowledgements
 
 Sponsored by Judy Magub, Councillor for Toowong, 1994—2007
 
 ![Toowong Centenary logo](../assets/toowong-centenary-1903-2003.png){ width="15%" }
-
 
 
 ## Sources 
