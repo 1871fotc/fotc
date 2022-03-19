@@ -1,5 +1,7 @@
 ## Agnes Susan MacLean <small>(5‑107‑19)</small>
 
+7 June 1826 - 20 January 1911
+
 Susannah Agnes Kable, as she was christened, was the grand-daughter of First Fleet convicts Henry Kable and Susannah Holmes and Second Fleet marine William Charlton and convict Mary Gittos. Born in Bathurst, Susannah was the eldest of six children. Susannah's father, William Nathaniel Kable, died when she was eleven. Her mother, Elizabeth, remarried and with her new husband, Matthew Smith Finley, had another five children.
 
 When Susannah was about six and living in Bathurst, her mother Elizabeth went one night to investigate an intruder in their house. An escaped convict was hiding in the bedroom. Taking the only weapon at hand, a small cobbler's hammer, Elizabeth levelled it at the intruder as if it was a pistol, saying "If you move, I'll fire." While covering the man with the hammer, she managed to attract the attention of a household servant. When the escapee found that he had been taken by a woman with a hammer, he vowed vengeance. The family lived in fear of his escaping again until he was sent to Cockatoo Island for a lengthy sentence.

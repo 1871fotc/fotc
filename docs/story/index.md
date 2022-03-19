@@ -44,7 +44,6 @@ search:
 }
 </script>
 
-
 # Story Index
 
 **Read the stories of the people remembered at Toowong Cemetery**. The index below lists over 500 people mentioned in our **[self-guided walks](../walks/index.md)** and provides links to their stories. 
