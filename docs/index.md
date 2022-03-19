@@ -69,16 +69,22 @@ The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.q
 
 
 <div class="video-wrapper">
+
+<iframe src="https://www.youtube.com/embed/jJ3oK4nwNbA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+*<small>[Toowong Cemetery: Resting place of Governor Samuel Blackall (One Minute Archive)](https://www.youtube.com/watch?v=jJ3oK4nwNbA) — Queensland State Archives.  </small>* **<small>[Learn more about Toowong Cemetery's history](cemetery/history.md)</small>**.
+
+<div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
-
 
 <!--
 <div class="video-wrapper">
 <iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/41fWB0IvDKU?controls=0" frameborder="0"></iframe>
 </div>  
 --> 
-*<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by [Drone Runner](https://www.youtube.com/channel/UCkeyrr7F795wvfFUITXSm_w).</small>*
+*<small>[Toowong Cemetery, Brisbane - DJI Mavic aerial](https://youtu.be/41fWB0IvDKU) by Drone Runner. </small>* **<small>[Visit Toowong Cemetery](cemetery/visit.md)</small>**. 
 
 <!-- links -->
 
