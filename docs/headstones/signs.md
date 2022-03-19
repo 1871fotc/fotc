@@ -108,9 +108,9 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 | Acronym | Name                                                         | Organisation Type | Location |
 |     --: | :--                                                          | :--               | :--                |
 | AHCG    | [Australasian Holy Catholic Guild][AHCG]                     | Friendly Society  | pp-ss-gg           |
-| AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society  | pp-ss-gg           |
 | ANA     | [Australian Natives Association][ANA]                        | Friendly Society  | pp-ss-gg           |
 | AOF     | Ancient Order of Foresters                                   | Friendly Society  | 1-29-8             |
+| AOOF    | Ancient Order of Odd Fellows                                 | Friendly Society  | pp-ss-gg           |
 | EC      | English Constitution                                         | Freemasonry       | pp-ss-gg           |
 | GUOOF   | Grand United Order of Odd Fellows                            | Friendly Society  | pp-ss-gg           |
 | HACBS   | Hibernian Australia Catholic Benefit Society                 | Friendly Society  | pp-ss-gg           |
