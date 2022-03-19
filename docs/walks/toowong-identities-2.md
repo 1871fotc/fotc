@@ -39,7 +39,7 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
 
     Return to the road and walk along it until you reach a tap on the right hand side. Nearby are...
 
-## Mary Elizabeth Weedon (4‑3‑20) and Annie Griffiths <small>(4‑3-2)</small>
+## Mary Elizabeth Weedon (4‑3‑20) and Annie Griffiths <small>(4‑3-20)</small>
 
 Mary Weedon was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
 
