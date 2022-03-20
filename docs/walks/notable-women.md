@@ -49,9 +49,9 @@ Emma died in 1917. On 22 October 1922 a publicly funded marble bust of her was u
 
 1: Savage, A. *Mary Douglas: Founder and Administrator of the Diamantina Orphan School, Brisbane between 1865 and 1876*, Unpublished Essay. 
 
-2: Saunders, K. *Buchanan, Florence Griffiths (1861 - 1913)*, Australian Dictionary of Biography, Volume 7, Melbourne University Press, 1979, p. 471.
+2: Saunders, K. *[Buchanan, Florence Griffiths (1861 - 1913)](https://adb.anu.edu.au/biography/buchanan-florence-griffiths-5412)*, Australian Dictionary of Biography, Volume 7, Melbourne University Press, 1979, p. 471.
 
-3: Condensed from the Brisbane Courier, 10 March 1919, *Death of Mrs. J. J. Kingsbury*.
+3: Condensed from the Brisbane Courier, 10 March 1919, *[Death of Mrs. J. J. Kingsbury](https://trove.nla.gov.au/newspaper/article/20260757)*.
 
 4: Kindly provided by descendants.
 
