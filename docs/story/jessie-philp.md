@@ -10,4 +10,8 @@ hide:
 
 **ca. 1856 — 21 November 1890**
 
---8<-- "snippets/jessie-philp.md"
+--8<-- "snippets/jessie-philp-2.md"
+
+## Source
+
+4: Kindly provided by descendants.
