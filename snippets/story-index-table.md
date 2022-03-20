@@ -172,7 +172,7 @@
 | Thomas               | **[Finney](thomas-finney.md)**            | 1837-01-10 | 1903-12-16 | 13-81-6    | 
 | William              | **[Richer](william-richer.md)**           | yyyy-mm-dd | 1924-11-28 | 11-7-28    | 
 | Charles              | **[Siemon](charles-siemon.md)**           | 1871-03-31 | 1941-07-03 | 12-21-5    | 
-| Jessie               | **[Philp](jessie-philp-2.md)**            | 1856-mm-dd | 1890-11-21 | 14-23-10   | 
+| Jessie               | **[Philp](jessie-philp.md)**              | 1856-mm-dd | 1890-11-21 | 14-23-10   | 
 | Augustus Charles     | **[Gregory](augustus-charles-gregory.md)** | 1819-08-01 | 1905-06-25 | 14-22-14   | 
 | Alfred               | **[Roberts](alfred-roberts.md)**          | 1837-mm-dd | 1920-05-10 | 13-1-2     | 
 | Edmund               | Curd                                      | yyyy-mm-dd | 1922-12-dd | 4-37-14    | 
