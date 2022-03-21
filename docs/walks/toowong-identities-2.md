@@ -23,9 +23,9 @@ This heritage walk was conceived as part of commemorative activities. It feature
     From the flag pole head to the rear of the ‘Temple of Peace’, near the front gate. Behind the temple is the Temple is the grave of...
 
 
-## Edmund Curd <small>(4‑37‑14)</small>
+--8<-- "snippets/edmund-curd.md"
 
-Edmund was the first principal of the Toowong State School which opened in January 1880. He died in December 1922 aged 78.
+
 
 ??? directions "Directions" 
 
@@ -47,9 +47,8 @@ Mary Weedon was the first head nurse of the Brisbane Hospital, holding the posit
 
     Immediately to the right is the grave of...
 
-## William Busby <small>(4‑3‑22)</small>
+--8<-- "snippets/william-busby.md"
 
-William was a stonemason who had a workshop and house in Sylvan Road. He arrived from Oxford in 1882. He made many headstones at Toowong Cemetery including the Caskey Monument and continued working until his death in 1928.
 
 ??? directions "Directions" 
 
@@ -63,6 +62,7 @@ In 1890, Sali published his most enduring ballad *The Drover* otherwise known as
 
     Continue along the road until you reach the shed. Turn left and proceed until you reach a fork in the road. Taking the right branch, 1^st^ Avenue, pass eight double rows of graves on the left until you come to...
 
+
 ## Harriet and William Johnson <small>(1‑36-2)</small>
 
 The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 1914, aged 63. Her husband, William, outlived her by twenty‑five years, dying aged 79.
@@ -71,17 +71,13 @@ The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 191
 
     Immediately behind the Johnson grave is the grey granite monument to...
 
-## William Webster <small>(1‑37-6)</small>
 
-A Scottish merchant, William died at his home *Arley*, Toowong, aged 66 in 1895. William purchased *Arley*, opposite the railway station after its previous owner, bank manager Alexander Archer, drowned in the *Quetta* shipwreck in 1890.
-
-![Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](../assets/arley-toowong-ca1882.jpg){ width="70%" }
-
-*<small>[Horse and carriage outside the Archer family residence, Arley, Toowong, ca. 1882](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220551310002061) - State Library of Queensland </small>*
+--8<-- "snippets/william webster.md"
 
 ??? directions "Directions" 
 
     Continue up 1^st^ Avenue until you reach a tap on the left. This is immediately adjacent to...
+
 
 ## Walter Horatio Wilson (1‑84‑22) and Walter Frederick Wilson (1‑85‑8)
 
@@ -95,14 +91,7 @@ Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 18
 
 --8<-- "snippets/richard-langler-drew.md"
 
-
-## Hercules Smith <small>(5‑40‑9)</small>
-
-Hercules was the second principal of the Toowong State School, a position he held for 27 years from January 1882 until retirement in March 1909.
-
-![Anne and Hercules Smith](../assets/anne-and-hercules-smith.jpg){ width="40%" }
-
-*<small>[Anne and Hercules Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218860780002061) - State Library of Queensland </small>*
+--8<-- "snippets/hercules-smith.md"
 
 
 ??? directions "Directions" 
@@ -113,9 +102,14 @@ Hercules was the second principal of the Toowong State School, a position he hel
 
 Born in Tasmania in 1843, Robert was educated in Scotland before coming to Queensland in 1865 to work in the cattle industry. In 1868, he switched to sugar growing, managing plantations in the Cardwell region. Appointed sub‑inspector of native police in 1871, Robert’s patrols took him into unexplored areas. In 1873, he accompanied G. E. Dalrymple to explore the northern coastline to Cooktown. The Johnstone River is named after him.^3^ He married Maria who bore nine children. Robert’s police duties took him to Winton, Bundaberg, Maryborough and Beenleigh before settling at *Serenata*, Toowong. Robert died in January 1905, aged 63 and Maria died aged 76 in September 1923.
 
-## Letitia Jephson <small>(5‑34‑17)</small>
+<!--
+??? directions "Directions" 
 
-Letitia was widowed and had lost two young sons while still in her early forties. She became a businesswoman managing boarding houses in the city and at Kangaroo Point. The Longreach Private Boarding House which she leased in 1879 was a highly successfully operation. Letitia bought *Cabury* on Kensington Terrace which she renamed *Mallow* after her birthplace in Ireland. In 1899 she sold Mallow to Sir Robert Philp. When Letitia died in 1908, she left a substantial estate including shares in banks and breweries. Church Street was renamed Jephson Street after her.
+    Proceed
+-->
+
+--8<-- "snippets/letitia-jephson.md"
+
 
 ??? directions "Directions" 
 
@@ -127,9 +121,9 @@ Letitia was widowed and had lost two young sons while still in her early forties
 
     Continue down 2^nd^ Avenue until just before you reach the end of portion 5 on the left. Close to the road is the grave of...
 
-## Robert Harrison Smith <small>(5‑31‑10)</small>
 
-Robert was the Member of the Legislative Council for Bowen. When he retired, he took up property in the South Toowong area, dying at *Mobolon* in 1911.
+--8<-- "snippets/robert-harrison-smith.md"
+
 
 
 ## Acknowledgements

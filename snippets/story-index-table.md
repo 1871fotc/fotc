@@ -173,24 +173,24 @@
 | William              | **[Richer](william-richer.md)**           | yyyy-mm-dd | 1924-11-28 | 11-7-28    | 
 | Charles              | **[Siemon](charles-siemon.md)**           | 1871-03-31 | 1941-07-03 | 12-21-5    | 
 | Jessie               | **[Philp](jessie-philp.md)**              | 1856-mm-dd | 1890-11-21 | 14-23-10   | 
-| Augustus Charles     | **[Gregory](augustus-charles-gregory.md)** | 1819-08-01 | 1905-06-25 | 14-22-14   | 
+| Augustus Charles    | **[Gregory](augustus-charles-gregory.md)** | 1819-08-01 | 1905-06-25 | 14-22-14   | 
 | Alfred               | **[Roberts](alfred-roberts.md)**          | 1837-mm-dd | 1920-05-10 | 13-1-2     | 
-| Edmund               | Curd                                      | yyyy-mm-dd | 1922-12-dd | 4-37-14    | 
+| Edmund               | **[Curd](edmund-curd.md)**                | yyyy-mm-dd | 1922-12-dd | 4-37-14    | 
 | Victor               | McGregor-Lowndes                          | 1884-mm-dd | 1951-07-21 | 4-16-20/21 | 
 | Jean                 | McGregor-Lowndes                          | yyyy-mm-dd | 1976-06-dd | 4-16-20/21 | 
-| William              | Busby                                     | yyyy-mm-dd | 1928-mm-dd | 4-3-22     | 
+| William              | **[Busby](william-busby.md)**             | yyyy-mm-dd | 1928-mm-dd | 4-3-22     | 
 | Bezalel Saul *(Sali)* | Mendelsohn                               | yyyy-mm-dd | yyyy-mm-dd | 3-6-7      | 
 | Harriet              | Johnson                                   | yyyy-mm-dd | 1914-mm-dd | 1-36-2     | 
 | William              | Johnson                                   | yyyy-mm-dd | yyyy-mm-dd | 1-36-2     | 
-| William              | Webster                                   | yyyy-mm-dd | 1895-mm-dd | 1-37-6     | 
+| William              | **[Webster](william-webster.md)**         | 1829-mm-dd | 1895-mm-dd | 1-37-6     | 
 | Walter Horatio       | Wilson                                    | yyyy-mm-dd | 1902-02-dd | 1-84-22    | 
 | Walter Frederick     | Wilson                                    | yyyy-mm-dd | 1911-mm-dd | 1-85-8     | 
 | Richard Langler      | **[Drew](richard-langler-drew.md)**       | 1823-10-09 | 1869-10-08 | 5-43-22    | 
-| Hercules             | Smith                                     | yyyy-mm-dd | yyyy-mm-dd | 5-40-9     | 
+| Hercules             | **[Smith](hercules-smith.md)**            | yyyy-mm-dd | yyyy-mm-dd | 5-40-9     | 
 | Maria                | Johnstone                                 | yyyy-mm-dd | 1923-09-dd | 5-36-15/16 | 
-| Letitia              | Jephson                                   | yyyy-mm-dd | 1908-mm-dd | 5-34-17    | 
+| Letitia              | **[Jephson](letitia-jephson.md)**         | yyyy-mm-dd | 1908-mm-dd | 5-34-17    | 
 | Samuel               | **[Kaye](samuel-kaye.md)**                | yyyy-mm-dd | yyyy-mm-dd | 2-42-26    | 
-| Robert Harrison      | Smith                                     | yyyy-mm-dd | 1911-mm-dd | 5-31-10    | 
+| Robert Harrison      | **[Smith](robert-harrison-smith.md)**     | yyyy-mm-dd | 1911-mm-dd | 5-31-10    | 
 | Mary                 | **[Douglas](mary-douglas.md)**            | 1828-mm-dd | 1876-11-dd | 9-34-5     | 
 | Florence Griffiths   | **[Buchanan](florence-griffiths-buchanan.md)** | 1861-09-16 | 1911-12-30 | 11-33-4 | 
 | Elizabeth Jane       | **[Kingsbury](elizabeth-jane-kingsbury.md)** | 1858-mm-dd | 1919-03-08 | 12-42-12/13 | 
