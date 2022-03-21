@@ -218,14 +218,13 @@
 | Frank                | **[Thorne](frank-thorne.md)**             | 1883-mm-dd | 1931-11-16 | 21-20-16  | 
 | John *(Jack)*        | **[Dowridge](john-dowridge.md)**          | 1848-mm-dd | 1922-mm-dd | 5-28-14   | 
 | Brickwood *(Brickie)* | **[Colley](brickwood-colley.md)**        | 1849-mm-dd | 1896-mm-dd | 2-51-2    | 
-| William              | Paul                                      | 1839-06-02 | 1909-12-10 | 5-32-8    | 
-| Patrick              | Real                                      | 1846-03-17 | 1928-06-10 | 7A-153-7  | 
-| George Rogers        | Harding                                   | 1838-12-03 | 1895-08-31 | 1-82-15   | 
-| William Henry Abbot  | Hirst                                     | 1837-02-21 | 1878-05-26 | 1-10-17   | 
-| Ratcliffe            | Pring                                     | 1825-10-17 | 1885-03-25 | 13-75-9   | 
-| Charles Stuart       | Mein                                      | 1841-06-14 | 1890-06-30 | 12-11-13  | 
-| John Laskey          | Woolcock                                  | 1861-11-07 | 1929-01-18 | 11-65-2   | 
-| Charles              | Stumm                                     | 1865-05-10 | 1929-02-28 | 18-111-2  | 
+| William              | **[Paul](william-paul.md)**               | 1839-06-02 | 1909-12-10 | 5-32-8    | 
+| Patrick              | **[Real](patrick-real.md)**               | 1846-03-17 | 1928-06-10 | 7A-153-7  | 
+| William Henry Abbot  | **[Hirst](william-henry-abbot-hirst.md)**  | 1837-02-21 | 1878-05-26 | 1-10-17  | 
+| Ratcliffe            | **[Pring](ratcliffe-pring.md)**           | 1825-10-17 | 1885-03-25 | 13-75-9   | 
+| Charles Stuart       | **[Mein](charles-stuart-mein.md)**        | 1841-06-14 | 1890-06-30 | 12-11-13  | 
+| John Laskey          | **[Woolcock](john-laskey-woolcock.md)**   | 1861-11-07 | 1929-01-18 | 11-65-2   | 
+| Charles              | **[Stumm](charles-stumm.md)**             | 1865-05-10 | 1929-02-28 | 18-111-2  | 
 | Samuel Gill          | **[Mee](samuel-gill-mee.md)**             | 1819-mm-dd | 1909-11-09 | 4-12-30   | 
 | Thomas               | **[Wontner](thomas-wontner.md)**          | 1826-mm-dd | 1894-08-11 | 13-26-21  | 
 | Carl Adolf           | **[Feilberg](carl-adolf-feilberg.md)**    | 1844-08-21 | 1887-10-25 | 13-71-15  | 
