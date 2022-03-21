@@ -252,7 +252,7 @@
 | Christopher          | Francis                                   | 1840-mm-dd | 1915-11-10 | 2-37-31/32 |  
 | Henry Bloomfield     | Gough                                     | 1845-mm-dd | 1896-mm-dd | 2-44-21   | 
 | Octavius             | Armstrong                                 | 1833-mm-dd | 1917-01-23 | 2-45-16/17 | 
-| Robert Arthur        | Johnstone                                 | 1843-mm-dd | 1905-01-16 | 5-36-15/16 | 
+| Robert Arthur      | **[Johnstone](robert-arthur-johnstone.md)** | 1843-mm-dd | 1905-01-16 | 5-36-15/16 | 
 | Ernest               | Eglinton                                  | 1848-mm-dd | 1921-10-01 | 2A-31-22  | 
 | William              | Maguire                                   | 1859-mm-dd | 1917-04-25 | 5-105-14  | 
 | Thomas               | Hinch                                     | 1855-mm-dd | 1924-05-22 | 20-18-23  | 
@@ -400,17 +400,17 @@
 | Mary                 | Malouf                                    | 1869-mm-dd | yyyy-mm-dd | 5-26-2/3  | 
 | Alfred               | Wall                                      | yyyy-mm-dd | yyyy-mm-dd | 5-27-16   | 
 | Alfred George Curtis | Wall                                      | yyyy-mm-dd | yyyy-mm-dd | 5-27-16   | 
-| John Theophillus Symons | Bird                                   | 1842-05-10 | 1932-05-07 | 5-30-9A   | 
+| John Theophillus Symons | **[Bird](john-theophillus-symons-bird.md)** | 1842-05-10 | 1932-05-07 | 5-30-9A | 
 | Angus                | McDonald                                  | yyyy-mm-dd | 1909-mm-dd | 5-30-1    | 
 | Robert Alexander     | McDonald                                  | yyyy-mm-dd | 1913-mm-dd | 5-30-2    | 
 | Stanley Angus        | McDonald                                  | yyyy-mm-dd | 1918-mm-dd | 5-30-1/2  | 
-| John Lamacraft       | Richards                                  | yyyy-mm-dd | 1930-mm-dd | 5-24-13/14 | 
-| Elizabeth            | Powell                                    | 1870-mm-dd | 1897-08-14 | 5-24-2    | 
+| John Lamacraft       | **[Richards](john-lamacraft-richards.md)** | yyyy-mm-dd | 1930-mm-dd | 5-24-13/14 | 
+| Elizabeth            | **[Powell](elizabeth-powell.md)**         | 1870-mm-dd | 1897-08-14 | 5-24-2    | 
 | Edmond Filmer        | Craven                                    | yyyy-mm-dd | 1910-08-04 | 5-32-7    | 
 | Caroline             | Craven                                    | yyyy-mm-dd | yyyy-mm-dd | 5-32-7    | 
-| George William       | Paul                                      | yyyy-mm-dd | 1909-12-10 | 5-32-8    | 
-| Arthur Tewdyr Davies | Berrington                                | 1854-09-07 | 1909-02-18 | 5-33-9    | 
-| Samuel Frederick     | Lawrence                                  | yyyy-mm-dd | 1901-12-26 | 5-14-7    | 
+| George William       | **[Paul](george-william-paul.md)**        | yyyy-mm-dd | 1909-12-10 | 5-32-8    | 
+| Arthur Tewdyr Davies | **[Berrington](arthur-tewdyr-davies-berrington.md)** | 1854-09-07 | 1909-02-18 | 5-33-9    | 
+| Samuel Frederick     | **[Lawrence](samuel-frederick-lawrence.md)** | 1886-mm-dd | 1901-12-26 | 5-14-7 | 
 | Susan                | Boyce                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
 | Ellen Victoria       | Board                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
 | Ann Ellen            | Boyce                                     | yyyy-mm-dd | yyyy-mm-dd | 5-38-9    | 
@@ -418,7 +418,7 @@
 | Alfred John          | Potier                                    | 1842-10-16 | 1929-08-21 | 5-39-20   | 
 | Reginald Alfred Maines | Potier                                  | yyyy-mm-dd | yyyy-mm-dd | 5-39-20   | 
 | Lewis William        | Potier                                    | yyyy-mm-dd | yyyy-mm-dd | 5-39-20   | 
-| Joseph               | Hughes                                    | 1843-mm-dd | 1920-07-27 | 5-40-19   | 
+| Joseph               | **[Hughes](joseph-hughes.md)**            | 1843-mm-dd | 1920-07-27 | 5-40-19   | 
 | Daniel George        | Bloomfield                                | 1858-mm-dd | 1915-mm-dd | 5-101-11  | 
 | Hereward Humfry      | Henchman                                  | 1874-mm-dd | 1939-mm-dd | 5-101-18/19 | 
 | George Rogers        | Harding                                   | 1868-mm-dd | 1940-mm-dd | 5-101-30  | 

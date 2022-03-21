@@ -38,41 +38,33 @@ Alfred Wall was born in England before migrating to Queensland in the ship *Youn
 
 His son, Alfred George Curtis Wall served in WWI in the Australian Flying Corps No 2 Squadron where he was designated 1^st^ Air Mechanic.
 
-## John Theophillus Symons Bird <small>(5‑30‑9A)</small>
 
-John Theophilus Symons Bird was born in Torquay, Devonshire on 10 May 1842 and arrived in Rockhampton in 1863. He took an active part in the production of the *Rockhampton Bulletin*, having filled the position of printer, journalist, drama critic, overseer, mining editor and sporting editor. In February 1867 John Bird and his friend Arthur Hosking discovered gold in the granite and slate deposits in the Ridgelands area outside Rockhampton. John Bird died on 7 May 1932.
+--8<-- "snippets/john-theophillus-symons-bird.md"
+
 
 ## Angus McDonald, Robert Alexander McDonald and Stanley Angus McDonald <small>(5‑30‑1/2)</small>
 
 Angus McDonald who was born in Ayr, Scotland, came to Queensland with his parents at the age of 10. He lived in Ipswich and Harrisville before retiring to Brisbane. His son, Robert Alexander McDonald was the chief Clerk of Prisons in the Queensland Prison Department. He disappeared in August 1913 and his body was not found for three months. Another son, Stanley died on *RMS Celtic* in 1918.
 
-## John Lamacraft Richards <small>(5‑24‑13/14)</small>
 
-John Lamacraft Richards was a native of Devon in England. He arrived in Brisbane on the ship *Golden City* on 6 January 1865. He was a member of the City Volunteer Fire Brigade from 1876 to 1882 and of the Brisbane Fire Brigade from 1882 to 1889. He was a foundation member of the Progressive Lodge (Oddfellows) and also of the Brisbane Past Grand's Lodge.
+--8<-- "snippets/john-lamacraft-richards.md"
 
-## Elizabeth Powell <small>(5‑24‑2)</small>
+--8<-- "snippets/elizabeth-powell.md"
 
-Elizabeth or Bessie Powell (née Turnbull) was born in England around 1870. She was the licensee of the Montague Hotel in Montague Road South Brisbane in for a few months in 1897 until her death on 14 August 1897. 
+
 
 ## Edmond Filmer Craven and Caroline Craven <small>(5‑32‑7)</small>
 
 Edmond Filmer Craven was the son of Fulwar William Craven and Louisa Orde of Brockhampton Park, Gloucestershire and was a descendent of the Earls of Craven. He was appointed to the Queensland public service in 1881, and later became police magistrate at Aramac, followed by a posting at Gayndah. He subsequently held similar appointments at various country centres including Muttaburra, Eidsvold where he was also the mining warden, and Roma, where he remained until he retired in September 1906. His wife Caroline ran a guest house at Shorncliffe after his death on 4 August 1910.
 
-## George William Paul <small>(5‑32‑8)</small>
+--8<-- "snippets/george-william-paul.md"
 
-Judge George William Paul was born at Penrith, New South Wales. He was appointed to the District Court on 3 August 1874, a position which he held until his death on 10 December 1909.
+--8<-- "snippets/arthur-tewdyr-davies-berrington.md"
 
-## Arthur Tewdyr Davies Berrington <small>(5‑33‑9)</small>
+--8<-- "snippets/samuel-frederick-lawrence.md"
 
-Arthur Tewdyr Davies Berrington was born in Belgravia, Middlesex on 7 September 1854. He held a number of positions in the British Colonial Service. Justice Berrington died on 18 February 1909 in Brisbane. 
+--8<-- "snippets/robert-arthur-johnstone.md"
 
-## Samuel Frederick Lawrence <small>(5‑14‑7)</small>
-
-Samuel Frederick Lawrence was a victim of the [*Roxana* disaster](https://trove.nla.gov.au/newspaper/article/173378003) which took place on Boxing Day 1901. He was 15 years of age.
-
-## Robert Arthur Johnstone <small>(5‑36‑15/16)</small>
-
-Robert Arthur Johnstone was born at Richmond in 1843 in what was then called Van Dieman's Land. He came to Queensland in 1865 and later trained as a police cadet. He was appointed sub-inspector of the mounted native police in the Cardwell district where he patrolled widely with his force of aboriginal troopers. In the course of his patrols Johnstone explored the coastal area of northeast Queensland and discovered the Johnstone River which was later named after him. In 1881 he became the first police magistrate in Winton. He died on 10 January 1905.
 
 ## Susan Boyce, Ellen Victoria Board, Ann Ellen Boyce, Stuart Leslie Board <small>(5‑38‑9)</small>
 
@@ -88,9 +80,8 @@ By 1873 Alfred was the principal legal manager of tin mines at Stanthorpe and wa
 
 His sons Reginald and Lewis carried on business under the name of Potier Brothers as manufacturers' agents in Townsville and Brisbane.
 
-## Joseph Hughes <small>(5‑40‑19)</small>
+--8<-- "snippets/joseph-hughes.md"
 
-Joseph Hughes was born in Manchester England in 1843 and came to Queensland when he was 20. He entered the public service as sub-collector of Customs and police magistrate at Bundaberg, was later appointed Registrar General at Brisbane and held that position until 1902 when he was chosen as the first Income Tax Commissioner for Queensland. He passed away at his residence in Park Road Milton on 27 July 1920 at the age of 78.
 
 ## Acknowledgements
 
