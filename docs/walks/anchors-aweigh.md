@@ -28,9 +28,7 @@ The allegorical figure, Hope, is often shown holding an anchor. Anchors may be s
 
 --> 
 
-## Able Seaman W. J. Harrhy <small>(4-16‑4)</small>
-
-William John Harrhy, aged 31, a sailor on HMS Dauntless, drowned in the Brisbane River on Good Friday, 1924 when ship was on a goodwill visit. The officers organised a dance aboard the Dauntless in aid of his dependents. William was born in Cardiff, Wales and had been in the Navy for over fifteen years.
+--8<-- "snippets/william-john-harrhy.md"
 
 <!--
 
@@ -56,9 +54,7 @@ Jessie Blanche Prentice, the daughter of George (Jun.) and Jessie Lacy Prentice,
 
 --> 
 
-## Henry Lander Pethebridge <small>(13‑4‑7)</small>
-
-Henry Pethebridge, the son of William Pethebridge and Maria Lander, was the Inspector of Works of the Marine Department of Queensland. Born in Torquay, Devon about 1835, he died in Brisbane on 13 June 1910.
+--8<-- "snippets/henry-lander-pethebridge.md"
 
 <!--
 
@@ -84,11 +80,7 @@ George was for many years the Superintendent Engineer to the Australasian Steam 
 
 --> 
 
-## Captain William Smith <small>(13‑6‑21)</small>
-
-William Smith and his ten‑month old daughter died within two months of each other in 1872 and were interred at the Paddington Cemetery. Their remains and headstone were relocated to Toowong Cemetery in June 1881. Since then, another four family members have been buried in the grave.
-
-![Captain William Smith's headstone](../assets/william-smith.jpg){ width="30%" }   
+--8<-- "snippets/william-smith.md"
 
 <!--
 
@@ -100,9 +92,8 @@ William Smith and his ten‑month old daughter died within two months of each ot
 
 --> 
 
-## Captain C. S. Thow <small>(13‑16‑10)</small>
+--8<-- "snippets/charles-stewart-thow.md"
 
-Charles Stewart Thow was the son of Alexander Thow and Elizabeth Smith. He died on the 2 June 1883 aged 43 and was buried on the same day.
 
 <!--
 
@@ -114,9 +105,8 @@ Charles Stewart Thow was the son of Alexander Thow and Elizabeth Smith. He died 
 
 -->
 
-## David Muir <small>(13‑16‑12)</small>
+--8<-- "snippets/david-muir.md"
 
-Three generations of David Muirs are buried in this grave. David was a shipwright born on Burnt Island near Edinburgh about 1824. He was the son of James Muir and Margaret Black. David married Margaret George in 1854. His son married Lucy Kornner in Brisbane in 1887. Sadly, their infant son David died in 1889.
 
 <!--
 
@@ -128,9 +118,7 @@ Three generations of David Muirs are buried in this grave. David was a shipwrigh
 
 -->
 
-## Tom George Johnson <small>(14‑18‑4)</small>
-
-Tom, the son of John Johnson and Mary Huet, died on 2 October 1912. He was the first General Secretary of the Australian Institute of Marine Engineers. In August 1880, he was authorised to form a branch of the AIME in New Zealand. He was instrumental in instituting minimum qualifications, wages and working conditions for Marine Engineers. Until the year of his death, Tom was the Brisbane District Secretary of the AIME, a position he had held since 1883.
+--8<-- "snippets/tom-george-johnson.md"
 
 <!--
 
@@ -142,13 +130,7 @@ Tom, the son of John Johnson and Mary Huet, died on 2 October 1912. He was the f
 
 -->
 
-## William Collin <small>(12‑56‑22)</small>
-
-William, a master mariner, was born on 30 August 1834 at Great Wakering, Essex, the ninth of thirteen children of John Collin, a Suffolk farmer and his wife Sarah, née Viner. After only a basic education, fourteen‑year‑old William was working in the coastal coal trade and later on barges in the Thames. He left for Australia via Panama in 1854. Surviving a shipwreck 800 km off the Queensland coast, he eventually arrived in Sydney, via Calcutta! 
-
-He married Eliza Baker of Newton on Christmas Day 1857 at Stephen’s, Camperdown. He worked on the Sydney waterfront until he could afford to purchase and refit a 25‑ton vessel. He sailed this ship to Brisbane, where he settled with his family (which would eventually comprise thirteen children), and commenced a freight service to near‑by coastal ports. William's other interest was the salvaging and breaking of ships. He was also engaged by the Queensland Government to lay submarine cables. 
-
-William’s son and namesake was said to be the first Queensland‑born sailor to receive his master’s certificate.
+--8<-- "snippets/william-collin.md"
 
 <!--
 
@@ -178,19 +160,7 @@ There was a mix up in the identification code signal of the ship and the battery
 
 -->
 
-## Captain John Burke <small>(7‑19‑1)</small>
-
-[John](https://adb.anu.edu.au/biography/burke-john-5429) was born at Kinsale, Cork the son of fisherman Denis Burke and his wife Ellen. He was a seaman on ships to the USA until the outbreak of the Civil War when he returned to Ireland and signed on with the crew of the *Erin Go Bragh* which arrived in Brisbane in August 1862. He deserted and worked as a pilot for the Australian Steam Navigation Company sailing the Queensland and the Telegraph. He married Alicia Swords from the *Erin Go Bragh*, and settled on the Logan River. 
-
-He held a Masters Licence and worked on bay and river ships commanding the *Fanny* on the Albert and Logan rivers. He established the John Burke Shipping Line in 1887 and bought the *Louisa* and traded from Ipswich to Logan and later on Moreton Bay. By his death in 1919, he had nineteen ships, although he had retired in 1915 staying only as the Director. Captain Burke Park at Kangaroo Point is named in honour of him. His company was sold by his grandson in 1968. 
-
-
-![Page 27 of the Queenslander Pictorial, supplement to The Queenslander, 14 June, 1919](../assets/captain-john-burke.png){ width="30%" }  
-
-*<small>[Page 27 of the Queenslander Pictorial, supplement to The Queenslander, 14 June, 1919.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool1045834) - State Library of Queensland </small>* 
-
-
-
+--8<-- "snippets/john-burke.md"
 
 <!--
 

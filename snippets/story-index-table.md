@@ -69,21 +69,21 @@
 | Constance            | **[Campbell](constance-campbell.md)**     | 1872-12-16 | 1926-07-04 | 8-19-16    | 
 | Charles Joseph       | **[Gall](charles-joseph-gall.md)**        | 1835-mm-dd | 1895-11-30 | 14-15-11/12/13 | 
 | William Thomas       | **[Birkbeck](william-thomas-birkbeck.md)** | 1848-01-30 | 1909-03-19 | 9-16-8/9  | 
-| William John         | Harrhy                                    | yyyy-mm-dd | 1924-mm-dd | 4-16-4     | 
+| William John         | **[Harrhy](william-john-harrhy.md)**      | 1893-mm-dd | 1924-04-18 | 4-16-4     | 
 | Jessie Blanche       | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9-41-1     | 
 | Jessie Lacy          | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9-41-1     | 
 | George               | Prentice                                  | yyyy-mm-dd | yyyy-mm-dd | 9-41-1     | 
-| Henry Lander         | Pethebridge                               | 1835-mm-dd | 1910-06-13 | 13-4-7     | 
+| Henry Lander    | **[Pethebridge](henry-lander-pethebridge.md)** | 1835-mm-dd | 1910-06-13 | 13-4-7     | 
 | George               | **[Davidson](george-davidson.md)**        | 1841-04-13 | 1888-02-29 | 13-7-1     | 
-| William              | Smith                                     | yyyy-mm-dd | 1872-mm-dd | 13-6-21    | 
-| Charles Stewart      | Thow                                      | yyyy-mm-dd | 1883-06-02 | 13-16-10   | 
-| David                | Muir                                      | 1824-mm-dd | yyyy-mm-dd | 13-16-12   | 
-| Tom George           | Johnson                                   | yyyy-mm-dd | 1912-10-02 | 14-18-4    | 
-| William              | Collin                                    | 1834-08-30 | 1914-01-dd | 12-56-22   | 
+| William              | **[Smith](william-smith.md)**             | 1822-mm-dd | 1872-12-16 | 13-6-21    | 
+| Charles Stewart      | **[Thow](charles-stewart-thow.md)**       | 1840-mm-dd | 1883-06-02 | 13-16-10   | 
+| David                | **[Muir](david-muir.md)**                 | 1824-mm-dd | yyyy-mm-dd | 13-16-12   | 
+| Tom George           | **[Johnson](tom-george-johnson.md)**      | yyyy-mm-dd | 1912-10-02 | 14-18-4    | 
+| William              | **[Collin](william-collin.md)**           | 1834-08-30 | 1914-01-dd | 12-56-22   | 
 | Archibald Edward     | Bartsch                                   | yyyy-mm-dd | 1942-03-04 | 10-44-20   | 
 | Henry                | Theeman                                   | yyyy-mm-dd | 1942-03-04 | 10-41-21   | 
 | Steward Eric Ross    | Harrison                                  | yyyy-mm-dd | 1942-03-04 | 10-43-7    | 
-| John                 | Burke                                     | 1842-mm-dd | 1919-06-03 | 7-19-1     | 
+| John                 | **[Burke](john-burke.md)**                | 1842-mm-dd | 1919-06-03 | 7-19-1     | 
 | John                 | **[Petrie](john-petrie.md)**              | 1822-01-15 | 1892-12-08 | 13-5-3     | 
 | George               | **[Edmondstone](george-edmondstone.md)**  | 1809-05-04 | 1883-02-23 | 13-20-5    | 
 | Thomas               | **[Proe](thomas-proe.md)**                | 1852-mm-dd | 1922-12-17 | 13-35-9    | 
