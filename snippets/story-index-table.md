@@ -456,10 +456,10 @@
 | Leo                  | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15-16-40/41 | 
 | Madonna              | Toppin                                    | yyyy-mm-dd | yyyy-mm-dd | 15-16-40/41 | 
 | Francis Malachy      | **[McKeon](francis-malachy-mckeon.md)**   | yyyy-mm-dd | 1925-11-17 | 15-17-7   | 
-| John                 | **[Forde](john-and-ellen-forde.md)**      | yyyy-mm-dd | yyyy-mm-dd | 15-19-27/28 | 
-| Ellen                | **[Forde](john-and-ellen-forde.md)**      | yyyy-mm-dd | yyyy-mm-dd | 15-19-27/28 | 
-| Hugh                 | **[Glackin](hugh-glackin.md)**            | 1844-03-08 | 1926-09-22 | 15-22-20/21 | 
-| Frederick Augustus *(Gus)* | **[Garland](frederick-augustus-garland.md)** | 1845-mm-dd | 1933-06-09 | 15-24-22 | 
+| John                 | **[Forde](john-forde.md)**                | 1860-mm-dd | 1927-09-18 | 15-19-27/28 | 
+| Ellen                | **[Forde](ellen-forde.md)**               | 1863-mm-dd | 1923-03-09 | 15-19-27/28 | 
+| Hugh                 | **[Glackin](hugh-glackin.md)**            | 1844-03-18 | 1926-09-22 | 15-22-20/21 | 
+| Frederick Augustus *(Gus)* | **[Garland](frederick-augustus-garland.md)** | 1845-mm-dd | 1933-06-05 | 15-24-22 | 
 | John                 | **[Galligan](john-galligan.md)**          | 1857-mm-dd | 1925-01-27 | 15-26-12  | 
 | Richard Oldfield     | **[White](richard-oldfield-white.md)**    | yyyy-mm-dd | 1926-10-22 | 10-57-1   | 
 | William Henry        | **[Warman](william-henry-warman.md)**     | yyyy-mm-dd | 1912-10-31 | 2A-25-27/28 | 

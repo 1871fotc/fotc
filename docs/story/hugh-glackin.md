@@ -8,6 +8,6 @@ hide:
 
 # Hugh Glackin
 
-**8 March 1844 — 22 September 1926**
+**18 March 1844 — 22 September 1926**
 
 --8<-- "snippets/hugh-glackin.md"
