@@ -91,7 +91,7 @@ On 5 November 1870 he married a music teacher, Harriott Eleanor Munce, the daugh
 
 Thomas was born in Belfast and arrived in Queensland with his parents, Hugh McWatters and his wife Jane (née Hillis), and brother James, in the sailing ship *Montmorency*, in 1863 when he was six months old. He grew up in Maryborough and the small village of Dundathu. He married Fanny Graham in 1896 and moved to Brisbane where they settled in Toowong, firstly in Sherwood Road and then in Woodstock St.
 
-Thomas took a deep interest in the work and welfare of the Toowong Presbyterian Church. Fanny died in 1913. In 1916 Thomas married his second wife, Jessie Banks. [Thomas died]((https://trove.nla.gov.au/newspaper/article/184103941)) as a result of [an accident](https://trove.nla.gov.au/newspaper/article/37921425) on 17 December 1937.
+Thomas took a deep interest in the work and welfare of the Toowong Presbyterian Church. Fanny died in 1913. In 1916 Thomas married his second wife, Jessie Banks. [Thomas died](https://trove.nla.gov.au/newspaper/article/184103941) as a result of [an accident](https://trove.nla.gov.au/newspaper/article/37921425) on 17 December 1937.
 
 
 ## William John Dunstan <small>(6‑12‑15)</small>
