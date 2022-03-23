@@ -1,8 +1,9 @@
 ---
+title: Building Brisbane
+description: A historic walk discovering the people that helped build Brisbane
 date: 1/10/2019
 hide:
   - navigation
-
 ---
 
 # Building Brisbane 
@@ -44,11 +45,7 @@ Andrew Petrie was born in Fife, Scotland, on 25 June 1798 to Walter Petrie and M
     ![](../assets/404.png){ width="15%" }
 -->
 
-## William McCallum Park <small>(13‑19‑15/16)</small>
-
-In Scotland on 26 November 1836, William McCallum Park was born to Andrew Park and Agnes (née McCallum). In January 1863, William and his family arrived in Brisbane aboard the *Flying Cloud*.
-
-William's wife, Marion Kirkwood (née Hamilton) died in 1877. Isabel Ker Scott married William on 8 September 1881 at Wickham Terrace. William died at his residence, *Fernibrae*, Hurdcotte Street, Enoggera, aged 97 years on 6 September 1934.
+--8<-- "snippets/william-mccallum-park.md"
 
 ### Notable surviving Brisbane works
 
@@ -64,10 +61,7 @@ William's wife, Marion Kirkwood (née Hamilton) died in 1877. Isabel Ker Scott m
 
 *<small>[Spring Hill Baths, ca. 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338600002061) State Library of Queensland.</small>*
 
-
-## William Macfarlane <small>(14‑7‑20/21)</small>
-
-William Macfarlane, a son of John Macfarlane and Mary (née Hudson)was born on 30 May 1832 in Bonhill, Dunbartonshire, Scotland. Mary Munn married William in Bonhill on 8 June 1857. After Mary's death in 1864, Agnes Park married William in Brisbane on 2 June 1865. William died at his Adelaide Street residence on the 10 June 1886, aged 54 years.
+--8<-- "snippets/william-macfarlane.md"
 
 ### Notable surviving Brisbane works
 
@@ -89,26 +83,18 @@ William Macfarlane, a son of John Macfarlane and Mary (née Hudson)was born on 3
 *<small>[Rowes Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600095#) — The State of Queensland 2021.</small>*
 -->
 
-## Henry Holmes <small>(1‑7‑15/16/17)</small>
-
-Henry Holmes, a son of Francis Holmes and Margaret (née Madden), was born in County Armagh, Ireland. Henry, his wife, Louisa Mary Ann Elizabeth (née Frazer) and two sons arrived in Brisbane aboard the *Cairngorm* on 3 July 1863. Holmes' paddock, later known as Grove Estate, gave its name to Ashgrove. Henry died just after 6pm on 30 November 1898.
+--8<-- "snippets/henry-holmes.md"
 
 ### Notable surviving Brisbane works
 
 - [Spring Hill Reservoirs](https://apps.des.qld.gov.au/heritage-register/detail/?id=600174), 230 Wickham Tce. 1871 and 1882 
 - [Florence House](https://heritage.brisbane.qld.gov.au/heritage-places/391), 256 Petrie Tce. 1874
 
+--8<-- "snippets/thomas-dempster.md"
 
-## Thomas Dempster <small>(18‑17‑22/23)</small>
+<!-- TODO what did he do? -->
 
-Thomas Dempster, a son of Robert Dempster, contractor and Anne (née Dalzell) was born in Tradeston, Lanarkshire, Scotland on 23 March 1867. The Dempster family travelled aboard the *Nurnberg* to Australia in 1889. Thomas joined the United Operative Stonemasons Society of Queensland (UOSMS) on 21 August 1889. Thomas served at times as UOSMS President, Vice-President, Auditor, Secretary, Treasurer and delegate. Thomas settled in Paddington before relocating to Campbell Street, Toowong. On 16 May 1946, Thomas died at St Helen's Hospital, South Brisbane.
-
-<!-- what did he do? -->
-
-
-## Arthur Midson <small>(11‑71‑1)</small>
-
-Arthur Midson was born in London in the last quarter of 1852 to James Midson and and Eliza (née Donnelly). Bridget Malynn married Arthur in St Stephen's, Brisbane on 17 April 1876. Arthur was a founder and became president of the Brisbane Master Builder's Association. Arthur died at his home, Alexandra Road, Ascot on 8 July 1943.
+--8<-- "snippets/arthur-midson.md"
 
 ### Notable surviving Brisbane works
 
@@ -120,15 +106,11 @@ Arthur Midson was born in London in the last quarter of 1852 to James Midson and
 
 *<small>[Executive Building](https://apps.des.qld.gov.au/heritage-register/detail/?id=600123#) — The State of Queensland 2021.</small>*
 
-
-## George John Ely <small>(13‑89‑1)</small>
-
-George John Ely was a son of Thomas Ely & Maria (née Walker). G J arrived in Brisbane with his wife Christina (née Reid) and eldest son George Edward aboard the *Queen of the South* on 8 December 1865. G J, a resident at 7 Fortescue Street, Spring Hill, died on 15 August 1877. G J's funeral notice described him as late of Edinburgh & Nottingham.
+--8<-- "snippets/george-john-ely.md"
 
 ### Notable surviving Brisbane works
 
 - [All Saints Anglican Church](https://apps.des.qld.gov.au/heritage-register/detail/?id=600168), Wickham Terrace (with Mr Polworth). 1869
-
 
 ![All Saints Anglican Church](../assets/all-saints-anglican-church-2009.jpg){ width="70%" }  
 
@@ -149,9 +131,7 @@ Joshua Jeays was born in Bardon, Leicester in 1812. Sarah Edwyn married Joshua i
 
 *<small>[Old Government House](https://apps.des.qld.gov.au/heritage-register/detail/?id=600118) — The State of Queensland 2021.</small>*
 
-## Ebenezer Chapman <small>(13‑34‑11)</small>
-
-Born in Sandon, Hertfordshire on 12 July 1843, Ebenezer Chapman's parents were Thomas Field Chapman and Hephzibah (née Kent). Ebenezer arrived in Moreton Bay with his family aboard the *Blenheim* on 12 October 1857. Sarah Griffin married Ebenezer in Brisbane on 6 December 1871. Ebenezer died at his daughter's residence, Primrose Street, Sherwood on 11 July 1929, aged 85 years and 364 days.
+--8<-- "snippets/ebenezer-chapman.md"
 
 ### Notable surviving Brisbane works
 

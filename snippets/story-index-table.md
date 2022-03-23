@@ -261,13 +261,13 @@
 | Matthew              | **[Collopy](matthew-collopy.md)**         | 1844-mm-dd | 1880-mm-dd | 7-5-3     | 
 | Joseph               | **[Kelly](joseph-kelly.md)**              | 1858-mm-dd | 1878-04-02 | 7-9-24    | 
 | Thomas               | **[Slattery](thomas-slattery.md)**        | 1824-mm-dd | 1878-02-05 | 7-9-4     | 
-| William McCallum     | Park                                      | 1836-mm-dd | 1934-09-06 | 13-19-15/16 |  
-| William              | Macfarlane                                | 1832-05-30 | 1886-06-10 | 14-7-20/21 | 
-| Henry                | Holmes                                    | yyyy-mm-dd | 1898-11-30 | 1-7-15/16/17 | 
-| Thomas               | Dempster                                  | 1867-03-23 | 1946-05-16 | 18-17-22/23 | 
-| Arthur               | Midson                                    | 1852-mm-dd | 1943-07-08 | 11-71-1   | 
-| George John          | Ely                                       | yyyy-mm-dd | 1877-08-15 | 13-89-1   | 
-| Ebenezer             | Chapman                                   | 1843-07-12 | 1929-07-11 | 13-34-11  | 
+| William McCallum     | **[Park](william-mccallum-park.md)**      | 1836-mm-dd | 1934-09-06 | 13-19-15/16 |  
+| William              | **[Macfarlane](william-macfarlane.md)**   | 1832-05-30 | 1886-06-10 | 14-7-20/21 | 
+| Henry                | **[Holmes](henry-holmes.md)**             | yyyy-mm-dd | 1898-11-30 | 1-7-15/16/17 | 
+| Thomas               | **[Dempster](thomas-dempster.md)**        | 1867-03-23 | 1946-05-16 | 18-17-22/23 | 
+| Arthur               | **[Midson](arthur-midson.md)**            | 1852-mm-dd | 1943-07-08 | 11-71-1   | 
+| George John          | **[Ely](george-john-ely.md)**             | yyyy-mm-dd | 1877-08-15 | 13-89-1   | 
+| Ebenezer             | **[Chapman](ebenezer-chapman.md)**        | 1843-07-12 | 1929-07-11 | 13-34-11  | 
 | Ann Elizabeth        | Horsfall                                  | yyyy-mm-dd | 1863-09-02 | 13-3-12   | 
 | Peter                | **[McCauley](peter-mccauley.md)**         | 1826-04-17 | 1832-01-05 | 13-10-4   | 
 | Agnes Elizabeth      | Hiron                                     | 1864-mm-dd | 1875-09-dd | 13-20-9   | 
