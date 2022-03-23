@@ -1,6 +1,5 @@
 ---
 title: Edith Harriett Rennie
-description: DESCRIPTION
 hide:
   - toc
   - navigation 
