@@ -248,19 +248,19 @@
 | William Henley       | **[Rawlings](william-henley-rawlings.md)** | 1848-02-28 | 1906-07-05 | 11-51-1  | 
 | Hugh                 | **[Mosman](hugh-mosman.md)**              | 1843-02-11 | 1909-11-15 | 13-88-3   | 
 | William Chalmers     | **[Brown](william-chalmers-brown.md)**    | 1841-mm-dd | 1909-04-15 | 9-31-7    | 
-| Christopher          | Francis                                   | 1840-mm-dd | 1915-11-10 | 2-37-31/32 |  
-| Henry Bloomfield     | Gough                                     | 1845-mm-dd | 1896-mm-dd | 2-44-21   | 
-| Octavius             | Armstrong                                 | 1833-mm-dd | 1917-01-23 | 2-45-16/17 | 
+| Christopher          | **[Francis](christopher-francis.md)**     | 1840-mm-dd | 1915-11-10 | 2-37-31/32 |  
+| Henry Bloomfield     | **[Gough](henry-bloomfield-gough.md)**    | 1845-mm-dd | 1896-mm-dd | 2-44-21   | 
+| Octavius             | **[Armstrong](octavius-armstrong.md)**    | 1833-mm-dd | 1917-01-23 | 2-45-16/17 | 
 | Robert Arthur      | **[Johnstone](robert-arthur-johnstone.md)** | 1843-mm-dd | 1905-01-16 | 5-36-15/16 | 
-| Ernest               | Eglinton                                  | 1848-mm-dd | 1921-10-01 | 2A-31-22  | 
-| William              | Maguire                                   | 1859-mm-dd | 1917-04-25 | 5-105-14  | 
-| Thomas               | Hinch                                     | 1855-mm-dd | 1924-05-22 | 20-18-23  | 
-| William Harold       | Ryan                                      | 1873-mm-dd | 1954-07-16 | 7A-116-44 | 
-| Henry Marjoribanks   | Chester                                   | 1832-mm-dd | 1914-10-03 | 7-59-11   | 
-| Patrick              | Clancy                                    | 1837-mm-dd | 1899-01-12 | 7-53-20   | 
-| Matthew              | Collopy                                   | 1844-mm-dd | 1880-mm-dd | 7-5-3     | 
-| Joseph               | Kelly                                     | 1858-mm-dd | 1878-04-02 | 7-9-24    | 
-| Thomas               | Slattery                                  | 1824-mm-dd | 1878-02-05 | 7-9-4     | 
+| Ernest               | **[Eglinton](ernest-eglinton.md)**        | 1848-mm-dd | 1921-10-01 | 2A-31-22  | 
+| William              | **[Maguire](william-maguire.md)**         | 1861-mm-dd | 1917-04-25 | 5-105-14  | 
+| Thomas               | **[Hinch](thomas-hinch.md)**              | 1855-mm-dd | 1924-05-22 | 20-18-23  | 
+| William Harold       | **[Ryan](william-harold-ryan.md)**        | 1873-mm-dd | 1954-07-16 | 7A-116-44 | 
+| Henry Marjoribanks   | **[Chester](henry-marjoribanks-chester.md)** | 1832-mm-dd | 1914-10-03 | 7-59-11 | 
+| Patrick              | **[Clancy](patrick-clancy.md)**           | 1837-mm-dd | 1899-01-12 | 7-53-20   | 
+| Matthew              | **[Collopy](matthew-collopy.md)**         | 1844-mm-dd | 1880-mm-dd | 7-5-3     | 
+| Joseph               | **[Kelly](joseph-kelly.md)**              | 1858-mm-dd | 1878-04-02 | 7-9-24    | 
+| Thomas               | **[Slattery](thomas-slattery.md)**        | 1824-mm-dd | 1878-02-05 | 7-9-4     | 
 | William McCallum     | Park                                      | 1836-mm-dd | 1934-09-06 | 13-19-15/16 |  
 | William              | Macfarlane                                | 1832-05-30 | 1886-06-10 | 14-7-20/21 | 
 | Henry                | Holmes                                    | yyyy-mm-dd | 1898-11-30 | 1-7-15/16/17 | 
