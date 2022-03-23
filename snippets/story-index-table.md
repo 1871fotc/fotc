@@ -290,7 +290,7 @@
 | James                | **[Davis](james-davis.md)** *(Duramboi)*  | 1808-mm-dd | 1889-05-07 | 7-5-15    | 
 | Mary Elizabeth       | Weedon                                    | yyyy-mm-dd | 1942-03-dd | 4-3-20    | 
 | Annie                | Griffiths                                 | yyyy-mm-dd | 1943-07-dd | 4-3-20    | 
-| Edith Harriett       | Rennie                                    | yyyy-mm-dd | 1930-12-25 | 10-62-22  | 
+| Edith Harriett       | **[Rennie](edith-harriett-rennie.md)**    | 1885-mm-dd | 1930-12-25 | 10-62-22  | 
 | Nina Robertson       | McDonald                                  | yyyy-mm-dd | 1934-05-11 | 10-68-31  | 
 | Elsie Muriel         | Jones                                     | yyyy-mm-dd | 1942-05-17 | 10-45-24  | 
 | Julia Harriett       | Blaycock                                  | yyyy-mm-dd | 1916-09-11 | 10-14-6   | 

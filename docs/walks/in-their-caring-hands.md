@@ -20,9 +20,7 @@ Mary Weedon, who trained at London’s Charing Cross Hospital, was the first hea
 
 *<small>[Royal Brisbane Hospital, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271923160002061) — State Library of Queensland.</small>*
 
-## Edith Harriett Rennie <small>(10‑62‑22)</small>
-
-Staff Nurse Edith Rennie of the Australian Army Nursing Service died on Christmas Day, 1930, aged 45. She was the daughter of Charles and Lilias Rennie of Sydney. She had obtained her General Nursing Certificate from Hamilton Hospital, Waikato, New Zealand in May 1916 and her Obstetric Certificate from the Royal Hospital for Women in August 1921. She appears on the ATNA register of members in 1923.
+--8<-- "snippets/edith-harriett-rennie.md"
 
 ## Nina Robertson McDonald <small>(10‑68‑31)</small>
 
@@ -84,7 +82,6 @@ As Sister Pfingst, Vera James was a trained nurse and ward sister at the Brisban
 
 *<small>[Australian Trained Nurses Association (ATNA) Women's Rest Home, Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218456390002061) — State Library of Queensland.</small>*
 
-<!-- page -->
 
 ## Mary Jane Brown <small>(5‑63‑24)</small>
 
