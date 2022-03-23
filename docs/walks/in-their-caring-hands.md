@@ -58,29 +58,15 @@ Patient James Gray of Forest Hill, via Brisbane, died on 22 January 1906 aged 52
 
 Little is known of Florence Truelove other than that she had trained as a nurse and died on 12 March 1896. She was the daughter of John and Emma Truelove.
 
-## Rose Jane Walker <small>(5‑25‑1/2)</small>
-
-Rose Jane Langford was born in Devon, England and came to Queensland at the age of four. She undertook her nursing training at the Ipswich Hospital. Before the outbreak of World War One, Rose was the Matron at Mt Perry Hospital and later at Mt Morgan and Mackay. Between 1914 and 1917, she was a member of the Australian Army Nursing Service. Rose left on the hospital ship Kyarra for Egypt where she served in the No. 1 Australian General Hospital. She later transferred to Flanders. Rose was mentioned in despatches for her devotion to duty. After the war, Rose was on the staff of the Kangaroo Point Hospital and later matron of the Rosemount Repatriation Hospital. Rose married James Walker and lived in Brisbane until her death in 1935, aged 56 years.
-
-![Hospital ship Kyarra, leaving port in Brisbane, 1916](../assets/kyarra.jpg){ width="100%" }  
-
-*<small>[Hospital ship Kyarra, leaving port in Brisbane, 1916](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218503200002061) — State Library of Queensland.</small>*
+--8<-- "snippets/rose-jane-walker.md"
 
 ## Sarah Stevens Lygo <small>(5‑38‑7)</small>
 
 Sarah Lygo was the fifth daughter of Richard and Martha Harriett Lygo of Kent, England. Her nursing qualifications were certified by the ATNA. She died aged 69 on 9 July 1928.
 
-## Arthur Charles Frederick Halford <small>(5‑17‑18)</small>
+--8<-- "snippets/arthur-charles-frederick-halford.md"
 
-Dr Arthur Halford was born on 23 November 1869. When he was an Honorary Assistant Physician at the Brisbane Hospital in 1908, he treated burns and scalds in what was considered a new method by the Hospital. He punctured the blisters and cut away as much skin as possible, a method employed until the 1960s. In addition to his hospital duties, he was the Vice‑President of the ATNA, Queensland Branch, between 1904 to 1910 and 1912 to 1937 and President between 1910 to 1912. He was also Vice‑President of the Nurses’ Rest Home Committee from 1931 to 1932. Dr Halford died on 13 January 1945 and is buried with his infant daughter, Grace.
-
-## Vera Evelyn James <small>(2A‑23‑16)</small>
-
-As Sister Pfingst, Vera James was a trained nurse and ward sister at the Brisbane General Hospital having graduated in 1951. She was the last President of the Nurses Rest Home and Benevolent Fund. This incorporated organisation ceased to exist in 1993. The Nurses’ Rest Home, located at 17 Mallon Street, Bowen Hills, was administered by this organisation. It closed in 1992 following the sale of the building. The Nurses’ Rest Home was used as a residence for nurses for over sixty years. Vera died in 1999 aged 70.
-
-![Australian Trained Nurses Association (ATNA) Women's Rest Home, Brisbane](../assets/anta-womens-rest-home.jpg){ width="70%" }  
-
-*<small>[Australian Trained Nurses Association (ATNA) Women's Rest Home, Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218456390002061) — State Library of Queensland.</small>*
+--8<-- "snippets/vera-evelyn-james.md"
 
 
 ## Mary Jane Brown <small>(5‑63‑24)</small>
@@ -97,15 +83,7 @@ Catherine received her Brisbane Hospital Certificate in 1896 and remained on sta
 
 *<small>[Windmill and Craigston apartments, in Wickham Terrace ca. 1934](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218889220002061) — State Library of Queensland.</small>*
 
-## Agnes Kathrine Isambert <small>(7‑59‑5/6)</small>
-
-<!-- Katherine or Kathleen? --> 
-
-Agnes Isambert was born in 1874. She trained at the Brisbane General Hospital between 1897 and 1899 and became a member of the ATNA in 1904 and a councillor of the Association between 1912 and 1919. Agnes was engaged in private nursing at the Walmer Nursing Home and the Colmslie Plague Hospital until 1913 when she returned to the Brisbane General Hospital to obtain her midwifery certificate. She then became Matron of the St Mary’s Hospital in Ipswich. From 1904 to 1914, Agnes was a member of the Australian Army Nursing Service Reserve. During World War One she sailed aboard the Kyarra and was eventually appointed to the No. 1 Australian General Hospital in Heliopolis in 1916. A former resident of Red Hill, she died on 7 June 1956 aged 83. She was the daughter of John and Margaret Isambert.
-
-![Agnes Kathrine Isambert](../assets/agnes-kathrine-isambert.jpg){ width="40%" }  
-
-*<small>[30894 Agnes Kathrine Isambert papers 1902-1916](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21205962990002061) — State Library of Queensland.</small>*
+--8<-- "snippets/agnes-kathrine-isambert.md"
 
 ## Ellen Margaret Kavanagh <small>(7A‑29‑14A)</small>
 

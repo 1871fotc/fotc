@@ -299,14 +299,14 @@
 | Mary Constance       | Crosse                                    | yyyy-mm-dd | 1890-10-28 | 1-39-15   | 
 | James                | Gray                                      | yyyy-mm-dd | 1906-01-22 | 2-37-14   | 
 | Florence             | Truelove                                  | yyyy-mm-dd | 1896-03-12 | 2-44-31   | 
-| Rose Jane            | Walker                                    | yyyy-mm-dd | 1935-mm-dd | 5-25-1/2  | 
+| Rose Jane            | **[Walker](rose-jane-walker.md)**         | 1879-mm-dd | 1935-mm-dd | 5-25-1/2  | 
 | Sarah Stevens        | Lygo                                      | yyyy-mm-dd | 1928-07-09 | 5-38-7    | 
-| Arthur Charles Frederick | Halford                               | 1869-11-23 | 1945-01-13 | 5-17-18   | 
-| Vera Evelyn          | James                                     | yyyy-mm-dd | 1999-mm-dd | 2A-23-16  | 
+| Arthur Charles Frederick | **[Halford](arthur-charles-frederick-halford.md)** | 1869-11-23 | 1945-01-13 | 5-17-18   | 
+| Vera Evelyn          | **[James](vera-evelyn-james.md)**         | 1929-mm-dd | 1999-mm-dd | 2A-23-16  | 
 | Mary Jane            | Brown                                     | 1861-mm-dd | 1939-08-18 | 5-63-24   | 
 | Nora                 | Halford                                   | yyyy-mm-dd | 1932-08-09 | 7A-102-23A | 
 | Catherine            | Fitzgerald                                | yyyy-mm-dd | 1931-01-23 | 7A-102-23A | 
-| Agnes Kathrine       | Isambert                                  | 1874-mm-dd | 1956-06-07 | 7-59-5/6  | 
+| Agnes Kathrine       | **[Isambert](agnes-kathrine-isambert.md)** | 1874-mm-dd | 1956-06-07 | 7-59-5/6  | 
 | Ellen Margaret       | Kavanagh                                  | yyyy-mm-dd | 1944-11-05 | 7A-29-14A | 
 | Zita Stella          | Lyons                                     | yyyy-mm-dd | yyyy-mm-dd | 7A-164-18 | 
 | Gertrude             | Daly                                      | yyyy-mm-dd | 1961-10-30 | 7A-171-1  | 
