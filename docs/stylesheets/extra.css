@@ -6,6 +6,26 @@
   color: #ff9100;
 }
 
+/* input form */
+
+.table-filter-input input[type=text] {
+  background-image: url('../assets/search@0.5x.png');
+  background-position: 14px 11px; 
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  border-radius: 2px;
+  padding: 11px 40px 11px;
+  border-left: .2rem solid #7e56c2; 
+  border-top: 1px solid #7e56c2; 
+  border-right: 1px solid #7e56c2; 
+  border-bottom: 1px solid #7e56c2; 
+  width: 30%;
+  font-weight: bold;
+  font-size: 12.8px;
+}
+
+
+
 /* change colour of sort icons in table */
 
 .md-typeset table th[role=columnheader][aria-sort=ascending]:after {
