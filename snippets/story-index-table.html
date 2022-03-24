@@ -1,4 +1,3 @@
-<!-- must use a html table to enable filter and default sort order -->
 
 <!-- move script out; separate styling for input; search is laggy, use Enter to search and X to reset 
 see https://www.w3schools.com/howto/howto_css_search_button.asp
@@ -18,13 +17,17 @@ https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_ev_onsearch
 <button onclick="document.getElementById('myInput').value = ''">:material-close:</button>
 -->
 
+<!-- 
+must use a html table to enable filter and default sort order - http://tristen.ca/tablesort/demo/
+-->
+
 <table id="myTable">
   <thead>
     <tr>
         <th>Given Names</th>
         <th>Last Name</th>
         <th>Born</th>
-        <th>Died</th>
+        <th data-sort-default>Died</th>
         <th>Location</th>      
     </tr>
   </thead>
