@@ -44,6 +44,10 @@ search:
 }
 </script>
 
+<script type="text/javascript">
+  
+</script>
+
 # Story Index
 
 **Read the stories of the people remembered at Toowong Cemetery**. The index below lists over 500 people mentioned in our **[self-guided walks](../walks/index.md)** and provides links to their stories. 
@@ -57,7 +61,9 @@ search:
     If you'd like to search for missing data, check out these **[Research Resources](research.md)**.
     
     If you would like your contribute a story, please complete the **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** form.
-    
+
+<!-- 
+
 ??? directions "How to use the Index" 
 
     - Sort the table by clicking a column name.
@@ -68,7 +74,9 @@ search:
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
         - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
 
---8<-- "snippets/story-index-table.md"
+-->
+
+--8<-- "snippets/story-index-table.html"
 
 The [Friends of Toowong Cemetery Story Index](index.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
