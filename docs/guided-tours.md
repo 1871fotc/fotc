@@ -61,62 +61,62 @@ Wandering amongst Toowong Cemetery's graves, you come across gravestones with in
 <!--
 The tour is from **10:30 to 12:00 on Sunday 6 March 2022**
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220306.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220306.ics)**
 -->
 
 ## 3 April 2022
 
 Our April heritage walking tour is from **10:30 to 12:00 on Sunday 3 April 2022**. 
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220403.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220403.ics)**
 
 ## 1 May 2022
 
 Our May heritage walking tour is from **10:30 to 12:00 on Sunday 1 May 2022**. 
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220501.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220501.ics)**
 
 ## 5 June 2022
 
 Our June heritage walking tour is from **10:30 to 12:00 on Sunday 5 June 2022**. 
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220605.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220605.ics)**
 
 ## 3 July 2022
 
 Our July heritage walking tour is from **10:30 to 12:00 on Sunday 3 July 2022**. 
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220703.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220703.ics)**
 
 ## 7 August 2022
 
 Our August heritage walking tour is from **10:30 to 12:00 on Sunday 7 August 2022**. 
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220807.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220807.ics)**
 
 ## 4 September 2022
 
 Our September heritage walking tour is from **10:30 to 12:00 on Sunday 4 September 2022**.  
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20220904.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220904.ics)**
 
 ## 2 October 2022
 
 Our October heritage walking tour is from **10:30 to 12:00 on Sunday 2 October 2022**. 
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20221002.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221002.ics)**
 
 ## 6 November 2022
 
 Our November  heritage walking tour is from **10:30 to 12:00 on Sunday 6 November 2022**. 
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20221106.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221106.ics)**
 
 ## 4 December 2022
 
 Our last heritage walking tour for 2022 is from **10:30 to 12:00 on Sunday 4 December 2022**. 
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20221204.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221204.ics)**
 
 <!--
 
@@ -124,7 +124,7 @@ Our last heritage walking tour for 2022 is from **10:30 to 12:00 on Sunday 4 Dec
 
 Our first heritage walking tour for 2023 will be guided by **Lyn** and **Darcy**. The tour is from **10:30 to 12:00 on Sunday 5 March 2023**. 
 
-:fontawesome-regular-calendar-plus: **[Add to Calendar](../assets/calendar/fotc-tour-20230305.ics)**
+:fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20230305.ics)**
 
 -->
 
