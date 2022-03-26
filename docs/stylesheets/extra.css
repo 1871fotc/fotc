@@ -25,7 +25,7 @@
 .table-filter-input input[type=text] {
   padding-top: 8px;  
   padding-left: 10px;  
-  font-weight: bold;
+/*  font-weight: bold; */
   font-size: 12.8px;
   width: 60%;
 }
