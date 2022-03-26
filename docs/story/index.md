@@ -44,9 +44,6 @@ search:
 }
 </script>
 
-<script type="text/javascript">
-  
-</script>
 
 # Story Index
 
