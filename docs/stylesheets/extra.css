@@ -27,7 +27,8 @@
   padding-left: 10px;  
   font-weight: bold;
   font-size: 12.8px;
-  width: 85%;
+  width: 60%;
+  background-color: rgba(126, 86, 194, 0.1);
 }
 
 .table-filter-search-button input[type=image] {
@@ -36,6 +37,7 @@
   width: 34px;
   height: 34px;
   float: right;
+  border-radius: 2px;
 }
 
 .table-filter-search-button input[type=image]:hover {
