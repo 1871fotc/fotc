@@ -1,0 +1,110 @@
+
+<!--  search is laggy, use Enter to search and X to reset 
+see https://www.w3schools.com/howto/howto_css_search_button.asp
+https://www.w3schools.com/tags/ev_onsubmit.asp
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_ev_onsearch
+-->
+
+<script src="../../javascripts/tablefilter.js"></script>
+
+<!-- Input behaviours
+- On typing the first character in the input, show the reset button
+- On deleting the last character in the input, hide the reset button
+- onclick="document.getElementById('myInput').value if lenght > 0 show else hide
+-->
+
+<!-- Reset behaviours 
+// When the Input is empty, hide the Reset button, else show it //
+  function setResetButton() {
+    var i, l;
+    i = document.getElementById('myInput');
+    l = i.length;
+    if (l < 3) {
+        document.getElementById('resetButton').style.display = "none";
+    }
+    else {
+        document.getElementById('resetButton').style.display = "inline";
+    }
+  }
+-->
+
+
+<script type="text/javascript">
+  
+// When Reset button is pressed, clear the Input, ~~hide the Reset button~~, show all table rows //
+  function clearInput() {
+    var tr, i;
+    document.getElementById('myInput').value = '';
+//    document.getElementById('resetButton').style.display = "none"; //
+    table = document.getElementById('myTable');
+    tr = table.getElementsByTagName("tr");
+    for (var i = 1; i < tr.length; i++) {
+      tr[i].style.display = "";  
+    }
+  }
+</script>
+
+<script type="text/javascript">
+// Listen for when Enter is pressed in the Input, and the press the Search button //  
+  var input = document.getElementById("myInput");
+  input.addEventListener("keyup", function(event) {
+    if (event.keyCode === 13) {
+     event.preventDefault();
+     searchIndex(input);
+//     document.getElementById("searchButton").click(); //
+    }
+  });
+</script>
+
+
+<!-- FORM -->
+<div class="search-container">
+  <span class="table-filter-input">
+    <!-- input type="text" id="myInput" name="myInput" placeholder="Search index"  onkeyup="setResetButton()" autofocus -->
+    <input type="text" id="myInput" name="myInput" placeholder="Search index">
+  </span> 
+  <div class="search-button-container">
+    <span class="table-filter-reset-button">
+      <!-- input type="image" id="resetButton" src="../../assets/clear.svg" alt="Reset" onclick="clearInput()" -->
+      <input type="image" src="../../assets/clear.svg" alt="Reset" onclick="clearInput()">
+    </span>
+    <span class="table-filter-search-button">
+      <input type="image" id="searchButton" src="../../assets/search-white.svg" alt="Submit" onclick="searchIndex()">
+    </span>
+  </div>  
+</div>
+
+<table id="myTable">
+  <thead>
+    <tr>
+        <th>Given Names</th>
+        <th>Last Name</th>
+        <th>Born</th>
+        <th data-sort-default>Died</th>
+        <th>Location</th>      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>Samuel Wensley</td>
+        <td><b><a href="samuel-wensley-blackall">Blackall</a></b></td>
+        <td>1809-05-01</td>
+        <td>1871-01-02</td>
+        <td>Mount Blackall</td>
+    </tr>
+    <tr>
+        <td>Ann</td>
+        <td><b><a href="ann-hill">Hill</a></b></td>
+        <td>1850-04-25</td>
+        <td>1871-11-01</td>
+        <td>6-21-9</td>
+    </tr>
+    <tr>
+        <td>David John</td>
+        <td><b><a href="david-john-garland">Garland</a></b></td>
+        <td>1864-10-04</td>
+        <td>1939-10-11</td>
+        <td>1-5A-9</td>
+    </tr>
+  </tbody>
+</table>

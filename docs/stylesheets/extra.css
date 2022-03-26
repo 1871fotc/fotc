@@ -8,23 +8,50 @@
 
 /* input form */
 
-.table-filter-input input[type=text] {
-  background-image: url('../assets/search@0.5x.png');
-  background-position: 14px 11px; 
-  background-repeat: no-repeat;
+.search-container {
+  height: 36px;
   box-sizing: border-box;
   border-radius: 2px;
-  padding: 11px 40px 11px;
   border-left: .2rem solid #7e56c2; 
-  border-top: 1px solid #7e56c2; 
+  border-top:  1px solid #7e56c2; 
   border-right: 1px solid #7e56c2; 
   border-bottom: 1px solid #7e56c2; 
-  width: 30%;
-  font-weight: bold;
-  font-size: 12.8px;
 }
 
+.search-button-container {
+  float: right;
+}
 
+.table-filter-input input[type=text] {
+  padding-top: 8px;  
+  padding-left: 10px;  
+  font-weight: bold;
+  font-size: 12.8px;
+  width: 85%;
+}
+
+.table-filter-search-button input[type=image] {
+  background-color: #7e56c2; 
+  padding: 10px; 
+  width: 34px;
+  height: 34px;
+  float: right;
+}
+
+.table-filter-search-button input[type=image]:hover {
+  background-color: #df41fb;
+}
+
+.table-filter-reset-button input[type=image] {
+  padding: 10px; 
+  width: 34px;
+  height: 34px;
+  background-color: #fff;
+}
+
+.table-filter-reset-button input[type=image]:hover {
+  background-color: rgba(126, 86, 194, 0.1);
+}
 
 /* change colour of sort icons in table */
 
