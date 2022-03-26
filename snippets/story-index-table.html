@@ -1,25 +1,24 @@
-
-<!-- move script out; separate styling for input; search is laggy, use Enter to search and X to reset 
-see https://www.w3schools.com/howto/howto_css_search_button.asp
-https://www.w3schools.com/tags/ev_onsubmit.asp
-https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_ev_onsearch
--->
-
-<!--
 <script src="../javascripts/tablefilter.js"></script>
-  
-<span class="table-filter-input">
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Type to start searching the index" title="Search">
-</span>
--->
 
-<!-- on clearing value, show all table rows 
-<button onclick="document.getElementById('myInput').value = ''">:material-close:</button>
--->
 
-<!-- 
-must use a html table to enable filter and default sort order - http://tristen.ca/tablesort/demo/
--->
+<div class="search-container">
+  <span class="table-filter-input">
+    <!-- input type="text" id="myInput" name="myInput" placeholder="Search for a name in the index"  onkeyup="setResetButton()" autofocus -->
+    <input type="text" id="myInput" name="myInput" placeholder="Search the index… Results can take 20 seconds.">
+  </span> 
+  <div class="search-button-container">
+    <span class="table-filter-reset-button">
+      <!-- input type="image" id="resetButton" src="../assets/clear.svg" alt="Reset" onclick="clearInput()" -->
+      <input type="image" src="../assets/clear.svg" alt="Reset" onclick="clearInput()">
+    </span>
+    <span class="table-filter-search-button">
+      <input type="image" id="searchButton" src="../assets/search.svg" alt="Submit" onclick="searchIndex()">
+    </span>
+  </div>  
+</div>
+
+
+<!-- must use a html table to enable filter and default sort order - http://tristen.ca/tablesort/demo/ -->
 
 <table id="myTable">
   <thead>
