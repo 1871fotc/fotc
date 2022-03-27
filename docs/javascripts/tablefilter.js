@@ -33,7 +33,6 @@ document.addEventListener("keyup", function(event) {
 
 // Try change color when search button is pressed - not working //
 function searchProcessing() {
-// change icon and colour to show search is processing //      
   document.getElementById("searchButton").style.backgroundColor = "#df41fb";
 }
 
@@ -51,7 +50,8 @@ function searchIndex() {
   filter = input.value.toUpperCase(); 
   table = document.getElementById("myTable");
   tr = table.getElementsByTagName("tr");
-//  searchProcessing (); //
+// set searchButton background color to processing -//   
+  searchProcessing (); 
   for (var i = 1; i < tr.length; i++) {
     var tds = tr[i].getElementsByTagName("td");
     var flag = false;
@@ -71,12 +71,12 @@ function searchIndex() {
         tr[i].style.display = "none";
     }
   };
-// reset search icon color  //        
+// reset search icon color  //
   document.getElementById("searchButton").style.backgroundColor = "#7e56c2"; 
 // document.getElementById("searchButton").style.backgroundImage = "url('../assets/search.svg')"; //
 }
 
-// When Reset button is pressed, clear the Input, Reset search icon color, ~~hide the Reset button~~, show all table rows //
+// When Reset button is pressed, Reset search icon color, hide the Reset button, clear the Input, show all table rows //
 
   function clearInput() {
     var tr, i;
