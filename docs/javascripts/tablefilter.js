@@ -1,14 +1,34 @@
 
-// TODO Not working -  Listen for when Enter is pressed in the Input, and the press the Search button //  
-  var input = document.getElementById("myInput");
-  input.addEventListener("keyup", function(event) {
+// TODO Not working -  Listen for when Enter is pressed in the Input, and then Search the index //  
+
+/*
+  var listenForEnter = document.getElementById("myInput");
+  listenForEnter.addEventListener("keyup", function(event) {
     if (event.keyCode === 13) {
-     event.preventDefault();
-     searchIndex(input);
+       alert('Enter is pressed!');
+//       searchIndex();//
+//     event.preventDefault(); //
 //     document.getElementById("searchButton").click(); //
     }
-  });
+  }); 
+*/  
 
+/* TODO Hack to get working. Note it only works on Desktops */
+/* const hark = document.getElementById('myInput'); */
+
+document.addEventListener("keyup", function(event) {
+  if (event.key === 'Enter') {
+      document.getElementById("searchButton").style.background = "#df41fb";
+      event.preventDefault();
+// change search icon color to hover color //        
+      searchIndex();
+  };
+// If search input is empty, call clearInput to show the whole table. see https://www.w3schools.com/js/js_validation.asp //
+  let x = document.getElementById("myInput").value;
+  if (x == "") {
+    clearInput();
+  };
+});
 
 /*
    potential speed increase due to Sarifi poor speed: search only names; 
@@ -27,8 +47,10 @@ function searchIndex() {
   for (var i = 1; i < tr.length; i++) {
     var tds = tr[i].getElementsByTagName("td");
     var flag = false;
-//    for(var j = 0; j < tds.length; j++){ //
-    for(var j = 0; j < 2; j++){ 
+// search whole table //    
+    for(var j = 0; j < tds.length; j++){ 
+// only search names //
+//    for(var j = 0; j < 2; j++){ //
       var td = tds[j];
       if (td.innerText.toUpperCase().indexOf(filter) > -1) {
         flag = true;
@@ -40,7 +62,9 @@ function searchIndex() {
     else {
         tr[i].style.display = "none";
     }
-  }
+  };
+// reset search icon color  //        
+  document.getElementById("searchButton").style.background = "#7e56c2";
 }
 
 
@@ -49,6 +73,7 @@ function searchIndex() {
 
   function clearInput() {
     var tr, i;
+    document.getElementById("searchButton").style.background = "#7e56c2";
     document.getElementById('myInput').value = '';
 //    document.getElementById('resetButton').style.display = "none"; //
     table = document.getElementById('myTable');
