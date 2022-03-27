@@ -1,15 +1,14 @@
 <script src="../javascripts/tablefilter.js"></script>
-
-
+  
 <div class="search-container">
   <span class="table-filter-input">
     <!-- input type="text" id="myInput" name="myInput" placeholder="Search for a name in the index"  onkeyup="setResetButton()" autofocus -->
-    <input type="text" id="myInput" name="myInput" placeholder="Search">
+    <input type="text" id="myInput" name="myInput" placeholder="Search for a name">
   </span> 
   <div class="search-button-container">
     <span class="table-filter-reset-button">
-      <!-- input type="image" id="resetButton" src="../assets/clear.svg" alt="Reset" onclick="clearInput()" -->
-      <input type="image" src="../assets/clear.svg" alt="Reset" onclick="clearInput()">
+      <!-- input type="image" id="resetButton" src="../assets/clear.svg" alt="Reset" onclick="clearInput()" onload="hideResetButton()" -->
+      <input type="image" id="resetButton" src="../assets/clear.svg" alt="Reset" onclick="clearInput()">
     </span>
     <span class="table-filter-search-button">
       <input type="image" id="searchButton" src="../assets/search.svg" alt="Submit" onclick="searchIndex()">
