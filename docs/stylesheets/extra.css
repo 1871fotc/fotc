@@ -31,6 +31,7 @@
 
 .table-filter-search-button input[type=image] {
   background-color: #7e56c2; 
+  background-repeat: no-repeat;
   padding: 10px; 
   width: 34px;
   height: 34px;
