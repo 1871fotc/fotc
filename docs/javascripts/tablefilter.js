@@ -10,7 +10,7 @@ document.addEventListener("keydown", function(event) {
       document.getElementById("searchButton").style.backgroundImage = "url('../assets/hourglass.svg')"; */
   };
 }),  
-  
+
 /* TODO Hack to get working - listen to document instead of element. Note it only works on Desktops */
 /* const hark = document.getElementById('myInput'); */
 document.addEventListener("keyup", function(event) {
@@ -31,10 +31,11 @@ document.addEventListener("keyup", function(event) {
   };
 });
 
-// Try change color when search button is pressed - not working //
-function searchProcessing() {
+/*  Try change color when search button is pressed */
+function setSearchButton() {
   document.getElementById("searchButton").style.backgroundColor = "#df41fb";
 }
+
 
 /*
    potential speed increase due to Sarifi poor speed: search only names; 
@@ -49,9 +50,7 @@ function searchIndex() {
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase(); 
   table = document.getElementById("myTable");
-  tr = table.getElementsByTagName("tr");
-// set searchButton background color to processing -//   
-  searchProcessing (); 
+  tr = table.getElementsByTagName("tr");  
   for (var i = 1; i < tr.length; i++) {
     var tds = tr[i].getElementsByTagName("td");
     var flag = false;
@@ -90,8 +89,15 @@ function searchIndex() {
     }
   }
 
-// hide reset button - call this on load //
+/* show hide reset button on load - conflicts with listener 
 
-  function hideResetButton() {
-    document.getElementById("resetButton").style.display = "none"; 
-  }
+  function hideResetButton() {  
+    let y = document.getElementById("resetButton").value;
+    if (y == "") {
+      document.getElementById("resetButton").style.display = "none"; 
+    }
+    else {
+      document.getElementById("resetButton").style.display = ""; 
+    };
+  };
+*/  
