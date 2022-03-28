@@ -6,6 +6,6 @@ hide:
 
 # Martha Soutter 
 
-**— 28 September 1936**
+**Died 28 September 1936**
 
 --8<-- "snippets/martha-soutter.md"

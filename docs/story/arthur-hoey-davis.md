@@ -8,7 +8,7 @@ search:
 
 # Arthur Hoey Davis
 
-**dd mmmm yyyy — dd mmmm yyyy**
+**14 November 1868 — 11 October 1935**
 
 
 --8<-- "snippets/arthur-hoey-davis.md"

@@ -7,7 +7,7 @@ hide:
 # Stephen Patrick Tierney
 
 
-**— 17 December 1914**
+**Died 17 December 1914**
 
 ## Constable Stephen Patrick Tierney <small>(7A‑111‑9)</small>
 

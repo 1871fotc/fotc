@@ -8,6 +8,6 @@ hide:
 
 # William Richer
 
-**— 28 November 1924**
+**Died 28 November 1924**
 
 --8<-- "snippets/william-richer.md"

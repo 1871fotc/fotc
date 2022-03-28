@@ -8,6 +8,6 @@ hide:
 
 # Edmund Curd
 
-**— December 1922**
+**Died December 1922**
 
 --8<-- "snippets/edmund-curd.md"

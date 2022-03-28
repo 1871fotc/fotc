@@ -6,6 +6,6 @@ hide:
 
 # Sylvester Doig
 
-**— 25 September 1884**
+**Died 25 September 1884**
 
 --8<-- "snippets/sylvester-doig.md"

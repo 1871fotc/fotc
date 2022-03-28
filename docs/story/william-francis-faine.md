@@ -6,6 +6,6 @@ hide:
 
 # William Francis Faine
 
-**— 28 August 1899**
+**Died 28 August 1899**
 
 --8<-- "snippets/william-francis-faine.md"

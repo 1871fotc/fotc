@@ -8,6 +8,6 @@ hide:
 
 # Charles Patterson
 
-**— 4 January 1926**
+**Died 4 January 1926**
 
 --8<-- "snippets/charles-patterson.md"

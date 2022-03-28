@@ -8,6 +8,6 @@ hide:
 
 # John Lamacraft Richards
 
-**— 1930**
+**Died 1930**
 
 --8<-- "snippets/john-lamacraft-richards.md"

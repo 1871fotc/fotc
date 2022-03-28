@@ -8,6 +8,6 @@ hide:
 
 # George William Paul
 
-**— 10 December 1909**
+**Died 10 December 1909**
 
 --8<-- "snippets/george-william-paul.md"

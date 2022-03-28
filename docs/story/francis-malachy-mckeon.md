@@ -7,6 +7,6 @@ hide:
 
 # Francis Malachy McKeon
 
-**— 17 November 1925**
+**Died 17 November 1925**
 
 --8<-- "snippets/francis-malachy-mckeon.md"

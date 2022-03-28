@@ -6,7 +6,7 @@ hide:
 
 # Edward McGregor
 
-**— 1939**
+**Died 1939**
 
 --8<-- "snippets/edward-mcgregor.md"
 

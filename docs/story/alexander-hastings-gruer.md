@@ -6,6 +6,6 @@ hide:
 
 # Alexander Hastings Gruer 
 
-**1838 —**
+**Born 1838**
 
 --8<-- "snippets/alexander-hastings-gruer.md"

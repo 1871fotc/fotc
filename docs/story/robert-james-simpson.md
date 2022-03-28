@@ -9,6 +9,6 @@ search:
 
 # Robert James Simpson
 
-**ca1853 — 28 May 1918**
+**ca. 1853 — 28 May 1918**
 
 --8<-- "snippets/robert-james-simpson.md"

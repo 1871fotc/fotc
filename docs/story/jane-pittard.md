@@ -7,6 +7,6 @@ hide:
 
 # Jane Pittard
 
-**10 January 1832 — 1833-01-27**
+**10 January 1832 — 27 January 1833**
 
 --8<-- "snippets/jane-pittard.md"

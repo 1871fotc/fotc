@@ -8,6 +8,6 @@ hide:
 
 # Robert Harrison Smith
 
-**— 1911**
+**Died 1911**
 
 --8<-- "snippets/robert-harrison-smith.md"

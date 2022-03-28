@@ -6,6 +6,6 @@ hide:
 
 # John Wyndon Lyon
 
-**— 21 April 1934**
+**Died 21 April 1934**
 
 --8<-- "snippets/john-wyndon-lyon.md"

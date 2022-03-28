@@ -6,6 +6,6 @@ hide:
 
 # John Higson
 
-**— 13 November 1902**
+**Died 13 November 1902**
 
 --8<-- "snippets/john-higson.md"

@@ -8,6 +8,6 @@ hide:
 
 # David Muir
 
-**ca. 1824 —**
+**Born ca. 1824**
 
 --8<-- "snippets/david-muir.md"

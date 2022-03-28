@@ -9,7 +9,7 @@ hide:
 # John Forde
 
 
-**ca. 1860  — 18 September 1927-09-18**
+**ca. 1860  — 18 September 1927**
 
 
 --8<-- "snippets/john-and-ellen-forde.md"

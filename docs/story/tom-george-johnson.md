@@ -8,6 +8,6 @@ hide:
 
 # Tom George Johnson
 
-**— 2 October 1912**
+**Died 2 October 1912**
 
 --8<-- "snippets/tom-george-johnson.md"

@@ -8,6 +8,6 @@ hide:
 
 # William Busby
 
-**— 1928**
+**Died 1928**
 
 --8<-- "snippets/william-busby.md"

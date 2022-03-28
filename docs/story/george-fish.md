@@ -6,6 +6,6 @@ hide:
 
 # George Fish 
 
-**— 23 September 1925**
+**Died 23 September 1925**
 
 --8<-- "snippets/george-fish.md"

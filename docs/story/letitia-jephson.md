@@ -8,6 +8,6 @@ hide:
 
 # Letitia Jephson
 
-**— 1908**
+**Died 1908**
 
 --8<-- "snippets/letitia-jephson.md"

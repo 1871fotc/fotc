@@ -8,6 +8,6 @@ hide:
 
 # William Collin
 
-**30 August 1834 —**
+**Born 30 August 1834**
 
 --8<-- "snippets/william-collin.md"

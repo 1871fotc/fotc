@@ -8,6 +8,6 @@ hide:
 
 # Samuel Frederick Lawrence
 
-**ca. 1886 — -26 December 1901**
+**ca. 1886 — 26 December 1901**
 
 --8<-- "snippets/samuel-frederick-lawrence.md"
