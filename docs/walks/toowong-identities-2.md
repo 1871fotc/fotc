@@ -72,7 +72,7 @@ The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 191
     Immediately behind the Johnson grave is the grey granite monument to...
 
 
---8<-- "snippets/william webster.md"
+--8<-- "snippets/william-webster.md"
 
 ??? directions "Directions" 
 
