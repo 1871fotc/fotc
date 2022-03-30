@@ -26,7 +26,7 @@ We use forms to help you:
 - **[contribute a story](https://forms.gle/U94dcEj6RihM9BPq9)**
 - **[apply to join Friends of Toowong Cemetery](https://forms.gle/iwFKCnpNYRTSeHLb8)**
 
-You can contact online us via: 
+You can contact us online via: 
 
 - Email: **[inquiries@fotc.org.au](mailto://inquiries@fotc.org.au)**
 - Phone: **[0439998053](tel: 0439998053)**
