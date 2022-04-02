@@ -118,7 +118,7 @@ Compiled and presented by Lyn Maddock
 - [Trove](https://trove.nla.gov.au), National Library of Australia
 - ‘BDM Queensland Index Search’, The State of Queensland (Department of Justice and Attorney-General), 2015 
 - [Shining a Light on Queensland’s Lighthouses!](https://blogs.archives.qld.gov.au/2016/04/12/shining-a-light-on-queenslands-lighthouses/) - Queensland State Archives
-- [Cape Moreton Lightstation](https://environment.ehp.qld.gov.au/heritage-register/detail/?id=600257) - The State of Queensland
+- [Cape Moreton Lightstation](https://apps.des.qld.gov.au/heritage-register/detail/?id=600257) - The State of Queensland
 - [CASE STUDY: The Bathhurst Bay Hurricane, March 1899](https://hardenup.org/umbraco/customContent/media/639_ButhurstBay_Cyclone_1899.pdf) - Harden Up Queensland
 - [Bigger than Yasi? - Cyclone Mahina](https://jculibrarynews.blogspot.com/2012/12/special-collections-fossickings-16.html) - James Cook University Library
 - [100-Year Anniversary of Innisfail Cyclone](https://www.weekendnotes.com/100-year-anniversary-of-innisfail-cyclone-innisfail-historical-society/) - Weekend Notes
