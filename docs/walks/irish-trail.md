@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 date: 2 March 2014
 hide:
   - navigation

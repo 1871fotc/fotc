@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 1   
+  exclude: true  
 ---
 
 --8<-- "snippets/hide-nav.html"

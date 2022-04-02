@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 date: 22 August 2000
 hide:
   - navigation

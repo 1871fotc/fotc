@@ -1,4 +1,6 @@
 ---
+search:
+  exclude: true
 date: August 1998
 hide:
   - navigation
