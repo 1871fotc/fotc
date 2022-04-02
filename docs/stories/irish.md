@@ -1,6 +1,4 @@
 ---
-search:
-  exclude: true
 date: 2 March 2014
 hide:
   - navigation
@@ -8,15 +6,15 @@ hide:
 
 # The Irish  
 
-The original Irish ==tour== occurred in 1988 during the Bi-Centennial Celebrations, under the auspices of the Genealogical Society of Queensland Irish Group with Chairman and Researcher David Larkin as tour guide. That tour took in 31 monuments across a number of portions of the cemetery. Some of the more important figures on Mt Blackall are included on other Friends of Toowong Cemetery ==walks== and so this tour is confined to the Roman Catholic Portions 7, 7A and 15 with 17 memorials to visit. ==The walk takes approximately one hour and 30 minutes. The walk was revised and corrected early 2014 by Darcy Maddock.==
-
 ## Anne Devoy <small>(7‑7‑34)</small>
 
-1817 ‑[1908](https://trove.nla.gov.au/newspaper/article/19550487?searchTerm=anne%20Devoy) 
+1817 ‑ 1908
+
+<!-- https://trove.nla.gov.au/newspaper/article/19550487?searchTerm=anne%20Devoy -->
 
 Born at Donadea near Hodgetown Co. Kildare, Devoy was the daughter of James and Honor Reilly. Her mother was the daughter of the Countess de Farnton, who escaped the guillotine in the French Revolution, and fled to Ireland to take up refuge with her friend, the Earl of Kildare at Castle Kilkea. 
 
-Anne married Patrick Devoy and with the union came the “curse of the Devoys”. This had been placed on a Devoy of Huguenot stock who turned in a Catholic priest to Cromwell’s men. As he was taken away, the priest blessed all the Devoy women and cursed the men so that no male Devoy would live to see his son in manhood. 
+Anne married Patrick Devoy and with the union came the “*curse of the Devoys*”. This had been placed on a Devoy of Huguenot stock who turned in a Catholic priest to Cromwell’s men. As he was taken away, the priest blessed all the Devoy women and cursed the men so that no male Devoy would live to see his son in manhood. 
 
 The Devoys arrived in Queensland in 1864 on the *Landsborough* after selling their land in Ireland to the Ursuline nuns. They brought a young family with them; John (later Managing Director of Castlemaine Perkins), Marguerite and Annie. In the tradition of the curse [Pat was killed the same year by a landslide](https://trove.nla.gov.au/newspaper/article/123149288?searchTerm=Patrick%20Devoy) while selecting land near Toowoomba.
 
@@ -24,10 +22,11 @@ The Devoys arrived in Queensland in 1864 on the *Landsborough* after selling the
 
 *<small>[Devoy residence in Ashgrove, Brisbane, ca. 1908](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218171470002061). The Devoy residence was in Three Mile Scrub Road (now Ashgrove Avenue), off Waterworks Road. John Devoy was the manager of Castlemaine Perkins. — State Library of Queensland.</small>*
 
-
+<!--
 ??? directions "Directions" 
 
     Return to the road proceeding about halfway up to Elizabeth Dale Walk (previously 12^th^ Avenue) to see on the left
+--> 
 
 ## Joseph Darragh <small>(7‑27‑11)</small> 
 
@@ -41,9 +40,11 @@ Darragh’s brothers were also businessmen in Brisbane. James (1831‑1905) was 
 
 *<small>[Sportsman's Arms Hotel, Brisbane, ca. 1874](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21257614520002061) — State Library of Queensland.</small>*
 
+<!--
 ??? directions "Directions" 
 
     Just past the three Darragh graves in the row behind is…
+-->
 
 ## William Grene Power <small>(7‑45‑18)</small> 
 
@@ -62,10 +63,11 @@ He arrived in Queensland 1869 at the request of his old friends Perkins and Gool
 
 *<small>[View of the Castlemaine Perkins Brewery in Milton, ca. 1929](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338590002061). The brewery, located in Milton Road, was established in 1878 by Fitzgerald, Quinlan and Co. and called the Castlemaine Brewery. The brewery merged with Perkins and Company in 1928. — State Library of Queensland.</small>*
 
-
+<!--
 ??? directions "Directions" 
 
     Next is the grave of the Mooney family…
+-->
 
 ## James Thomas Mooney <small>(7‑45‑10)</small> 
 
@@ -88,9 +90,11 @@ Mayne gained his wealth by the reputed murder of a cedar cutter and established 
 
 ![Mayne Monument](../assets/mayne-monument.jpg){ width="40%" }  
 
+<!--
 ??? directions "Directions" 
 
     At the end of the Ave on the left is the grey celtic cross of…
+-->
 
 ## John Ahern <small>(7‑51‑4)</small> 
 
@@ -102,10 +106,11 @@ Ahern was promoted to Senior Sergeant in January 1874 and Sub‑Inspector 2^nd^ 
 
 ![John Ahern's headstone](../assets/john-ahern-headstone.jpg){ width="40%" }  
 
-
+<!--
 ??? directions "Directions" 
 
     Around the corner into O'Doherty Avenue (previously 11^th^ Avenue) we find on the left…
+-->
 
 ## Andrew Purcell <small>(7‑50‑1)</small> 
 
@@ -113,9 +118,11 @@ Ahern was promoted to Senior Sergeant in January 1874 and Sub‑Inspector 2^nd^ 
 
 Born at Drumcliff, Ennis, Co. Clare, Purcell was the son of Thomas Purcell and Mary Flannery. This well‑to‑do grazier arrived in Brisbane 19 June 1853 with wife and 4 children on the John Fielden. He married Bridget Scanlan (1827‑1913) and had 10 children. His son Thomas, a grazier of Rockhampton, was partner in the Rockhampton Newspaper The Daily Record with the Hon. T. J. Ryan in 1912. Purcell, a man of independent means, was buried by Hislops in March 1888 with Fr. Canali officiating.
 
+<!--
 ??? directions "Directions" 
 
     To the right of this monument
+-->
   
 ## Thomas Joseph Byrnes <small>(7‑47‑5)</small>  
 
@@ -130,10 +137,11 @@ He entered politics as an MLC and served as Attorney‑General in 1893 and MLA f
 
 *<small>[Thomas Joseph Byrnes Memorial, Centenary Place, Brisbane, 2020](https://commons.wikimedia.org/wiki/File:Thomas_Joseph_Byrnes_Memorial,_Centenary_Place,_Brisbane,_2020.jpg) — Kgbo, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.</small>*
 
-
+<!--
 ??? directions "Directions" 
 
     Pause here for a moment and look across the road to the right to view…
+-->
 
 ## John Leahy <small>(7A‑4‑3)</small> 
 
@@ -157,9 +165,11 @@ He suffered from ill health and a bout of influenza caught in England in 1919 la
 
 *<small>[Unveiling a statue of Thomas Joseph Ryan at Queen's Park, Brisbane, 1925](https://commons.wikimedia.org/wiki/File:StateLibQld_2_213392_Unveiling_a_statue_of_Thomas_Joseph_Ryan_at_Queen%27s_Park,_Brisbane,_1925.jpg) — Contributor(s): Sydney Mail, Public domain, via Wikimedia Commons</small>*
 
+<!--
 ??? directions "Directions" 
 
     Continuing along the road on the left is a granite memorial topped with a cross…
+-->
 
 ## Randal MacDonnell <small>(7‑20‑10)</small> 
 
@@ -169,9 +179,11 @@ MacDonnell was born in Dublin, son of Thomas MacDonnell, an army officer, and hi
 
 He moved to Queensland in 1860 and was appointed Inspector of National Schools and General Inspector of Primary Schools. He served as Secretary of the Board of Education 1870—1876 and supported the separation of religious and secular education and advocated the Irish System. Randal married Mary Sheehan in 1861 and had four sons and a daughter. He died of consumption in 1877.
 
+<!--
 ??? directions "Directions" 
 
     A little further on is a white monument, overshadowed by a tree on the left, to…
+-->
 
 ## Peter Gaffney <small>(7‑19‑23)</small> 
 
@@ -184,10 +196,11 @@ Born in Co. Cavan, Gaffney was the publican of the Dunmore Arms on the corner of
 
 *<small>[Jaffrey, P. (1886) Dunmore Arms Hotel, George Street (now Treasury Hotel)](https://digitalcollections.qut.edu.au/3850/) — Jaffrey, P. (1886), Public Domain</small>*
 
-
+<!--
 ??? directions "Directions" 
 
     Take a detour off the road behind Gaffney’s grave to the left and go down the hill a third of the way to find the grave with an anchor…
+-->
 
 ## John Burke <small>(7‑19‑1)</small>  
 
@@ -213,17 +226,19 @@ Born in Tyrone, McDermott arrived in Brisbane in 1864 on the *Earl Russell* with
 
 *<small>[Empire Hotel, Fortitude Valley, Brisbane, ca. 1934](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219343710002061) — State Library of Queensland.</small>*
 
+<!--
 ??? directions "Directions" 
 
     Continue along the road to the next grey celtic cross of Ireland
+-->
 
 --8<-- "snippets/kevin-izod-odoherty.md"
 
-
+<!--
 ??? directions "Directions" 
 
     Again detour down this row to the left passing, on the right, Maloney, McKay and Toomey to see on the left past a tree the remains of the grave of…
-
+-->
 
 ## William Augustine O’Carroll <small>(7‑54‑9)</small>  
 
@@ -239,11 +254,13 @@ His funeral cortege consisted of 62 vehicles with over 500 persons attending the
 
 >In Memoriam, from some press comrades who have been permitted to join in this tribute to the memory of the one they loved.
 
+<!--
 ??? directions "Directions" 
 
     Return to the road at O’Doherty’s cross and turn back to the right along the road past the Gaffney and MacDonnell graves watching out on the left‑hand side for a white stone with a dove on top (Joseph Doran). 
 
     Turn left here off the road and go up the hill to the dark grey celtic cross of…
+-->
 
 ## Francis (Frank) McDonnell <small>(7A‑17‑23)</small> 
 
@@ -260,10 +277,11 @@ In 1888 McDonnell organised the Shop Assistants Early Closing Association with h
 
 *<small>[Aerial view of George Street, Brisbane, 1923](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool92468), Victoria Bridge can be seen crossing the Brisbane River on the right, and McDonnell and East Ltd. is prominent towards the bottom right of George Street — State Library of Queensland.</small>*
 
-
+<!--
 ??? directions "Directions" 
 
     Return to the road and a few steps along is the grey celtic cross of…
+-->
 
 ## Michael Joseph Devitt <small>(15‑29‑6)</small>  
 
@@ -291,7 +309,7 @@ John Devitt of Olympic fame and William Devitt who was John Wren’s right hand 
 
 ## Acknowledgements
 
-The first Irish Heritage Trail was held in 1988 during the Bi‑Centennial Celebrations, under the auspices of the [Genealogical Society of Queensland Irish Group](https://www.gsq.org.au/what-gsq-offers/interest-groups/#english) with Chairman and Researcher David Larkin as tour guide. The original tour took in 31 monuments across a number of portions of the cemetery. Some of the more important figures on Mt Blackall are included on other Friends of Toowong Cemetery trails and so the present tour is confined to the Roman Catholic Portions 7, 7a, and 15 with 17 memorials to visit. The trail will take approximately one hour and 30 minutes. The original booklet has been revised and corrected early 2014 by Darcy Maddock.
+These stories were first presented as a Irish Heritage Trail in 1988 during the Bi‑Centennial Celebrations, under the auspices of the [Genealogical Society of Queensland Irish Group](https://www.gsq.org.au/what-gsq-offers/interest-groups/#english) with Chairman and Researcher David Larkin as tour guide. The original tour took in 31 monuments across a number of portions of the cemetery. Some of the more important figures on Mt Blackall are included in other Friends of Toowong Cemetery stories, so these stories are confined to the Roman Catholic Portions 7, 7a, and 15. These stories were revised and corrected early 2014 by Darcy Maddock.
 
 The Friends of Toowong Cemetery Association would like to acknowledge the Queensland Government Community Benefit Fund for the grant to provide signage for this trail.
 

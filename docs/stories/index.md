@@ -64,9 +64,8 @@ Discovery our stories:
 - **[The Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[The Convicts][convicts]** - connections to our convict past
 - **[The Lutheran][lutheran]** 
-
-<!-- **[The Irish][irish-trail]** -->
-<!-- **[The Jewish][jewish-trail]**  -->
+- **[The Irish][irish]** 
+<!-- **[The Jewish][jewish]**  -->
 
 ## Themed walks
 
@@ -130,8 +129,8 @@ Missing Walks
 [toowong-identities-2]: toowong-identities-2.md
 
 [convicts]: convict-connections.md
-[irish-trail]: irish-trail.md
-[jewish-trail]: jewish-trail.md
+[irish]: irish.md
+[jewish]: jewish.md
 [lutheran]: lutheran.md
 [children]: children.md
 [brisbane-open-house]: brisbane-open-house.md

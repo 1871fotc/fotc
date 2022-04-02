@@ -211,7 +211,8 @@ nav:
     - More Toowong Identities: stories/toowong-identities-2.md 
 # Birds of a feather    
     - Children: stories/children.md 
-    - Convicts: stories/convict-connections.md    
+    - Convicts: stories/convict-connections.md   
+    - The Irish: stories/irish.md 
     - The Lutheran: stories/lutheran.md
 # Other walks 
     - Steam: stories/steam.md
@@ -247,8 +248,7 @@ nav:
 #    - The Federation Trail: walks/federation-trail.md
 #    - Walk 1: walks/bcc-walk-1.md
 #    - Walk 2: walks/bcc-walk-2.md
-#    - The Irish: walks/irish-trail.md 
-#    - The Jewish: walks/jewish-trail.md 
+#    - The Jewish: walks/jewish.md 
 #    - Toowong Cemetery Remembrance Walk: walks/rememberance-walk.md     
   - About Us: 
     - About Us: about/index.md
