@@ -3,6 +3,7 @@ title: Friends of Toowong Cemetery
 description: Discover and share the history and stories of Toowong Cemetery
 hide:
   - navigation
+  - toc
 ---
 
 --8<-- "snippets/metadata-home.json"
@@ -11,7 +12,7 @@ hide:
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
 
-![Toowong Cemetery main entrance][image1]{ width="32%" } ![Canon Garland Place][image2]{ width="32%" } ![Headstone Symbolism Display][image3]{ width="32%" }
+![Toowong Cemetery main entrance][image1]{ width="32.67%" } ![Canon Garland Place][image2]{ width="32.67%" } ![Headstone Symbolism Display][image3]{ width="32.66%" }
 
 [image1]: assets/main-entrance.jpg "The main entrance to Toowong Cemetery"
 [image2]: assets/flag-pole.jpg "Canon Garland Place"
@@ -154,18 +155,6 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
 - [Mt Coot-tha Reserve](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-reserve) - drive to picnic areas, bush walks, or mountain bike riding. J. C. Slaughter Falls and Simpson Falls are our favourites
 - [Mt Coot-tha Events](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-precinct-events) - there's always something happening around Mt Coot-tha
 
-<!--
-## Need Coffee?
-
-Here are some of our favourites:
-
-- Botanic Gardens Cafe - 15 minute walk from Canon Garland Place
-- [The Summit Cafe](https://www.summitbrisbane.com.au) - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot-tha Botanic Gardens to the Mt Coot-tha Lookout
-- [Sweetshop Specialty Coffee](https://sweetshopspecialtycoffee.com.au) - 1A Stuartholme Road, Bardon
-- [Bardon Thyme](https://www.facebook.com/bardonthyme) - 5 Morgan Terrace, Bardon
-- [Via Retro](https://viaretrocafe.com.au) - look for the cute retro caravan at J.C. Slaughter Falls on weekends
-- [Corner Store Cafe](http://www.cornerstorecafe.com) - 113 Sylvan Rd, Toowong, adjacent to the Toowong tennis courts
---> 
 
 ![Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ width="70%" }
 
