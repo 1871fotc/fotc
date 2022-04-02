@@ -42,7 +42,7 @@ search:
 
 The [Friends of Toowong Cemetery Story Index](find-a-story.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
-Download the Story Index as a <a href="../assets/data/story-index.csv" download>Comma Separated Value file</a> (.csv) 
+Download the Story Index as a <a href="../../assets/data/story-index.csv" download>Comma Separated Value file</a> (.csv) 
 
 
 !!! warning "Excel does not process dates correctly"
