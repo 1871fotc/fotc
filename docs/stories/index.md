@@ -63,8 +63,9 @@ Discovery our stories:
 
 - **[The Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[The Convicts][convicts]** - connections to our convict past
-- **[The Lutheran][lutheran]** 
 - **[The Irish][irish]** 
+- **[The Lutheran][lutheran]** 
+
 <!-- **[The Jewish][jewish]**  -->
 
 ## Themed walks
