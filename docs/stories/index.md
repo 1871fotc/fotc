@@ -56,15 +56,14 @@ Discovery our stories:
 
 - **[Founding Fathers][founding-fathers]** - members of the first Brisbane General Cemetery Trust
 - **[Notable Women][notable-women]** - Women who shaped Queensland
-
-<!-- **[Toowong Identities][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 -->
-<!-- **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 -->
+- **[Toowong Identities][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
+- **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
 
 ## Birds of a feather 
 
 - **[The Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[The Convicts][convicts]** - connections to our convict past
-- **[The Lutheran][lutheran-trail]** 
+- **[The Lutheran][lutheran]** 
 
 <!-- **[The Irish][irish-trail]** -->
 <!-- **[The Jewish][jewish-trail]**  -->
@@ -133,7 +132,7 @@ Missing Walks
 [convicts]: convict-connections.md
 [irish-trail]: irish-trail.md
 [jewish-trail]: jewish-trail.md
-[lutheran-trail]: lutheran-trail.md
+[lutheran]: lutheran.md
 [children]: children.md
 [brisbane-open-house]: brisbane-open-house.md
 

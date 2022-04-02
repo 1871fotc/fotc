@@ -207,10 +207,12 @@ nav:
 # Local Identities    
     - Founding Fathers: stories/founding-fathers.md     
     - Notable Women: stories/notable-women.md    
+    - Toowong Identities: stories/toowong-identities-1.md 
+    - More Toowong Identities: stories/toowong-identities-2.md 
 # Birds of a feather    
     - Children: stories/children.md 
     - Convicts: stories/convict-connections.md    
-    - The Lutheran: stories/lutheran-trail.md
+    - The Lutheran: stories/lutheran.md
 # Other walks 
     - Steam: stories/steam.md
     - Building Brisbane: stories/brisbane-open-house.md      
@@ -223,7 +225,6 @@ nav:
     - Rich man, Poor man: stories/rich-man-poor-man.md
     - Taken before their time: stories/taken-before-their-time.md  
     - Mothers: stories/mothers.md
-  
 # portion stories
     - Portion 5 - part 1: stories/portion5-part1.md
     - Portion 5 - part 2: stories/portion5-part2.md
@@ -236,13 +237,6 @@ nav:
 #    - Monuments: headstones/monuments.md 
     - Archaeological Digs: headstones/archaeological-digs.md
 #    - Celebrity Headstones: headstones/celebrities.md
-#  - Stories: 
-#    - Story Index: story/index.md
-#    - Colonel Samuel Wensley Blackall: assets/guides/samuel-blackall.pdf
-#    - Extraordinary Stories of Ordinary People: story/extraordinary-stories.md 
-#    - Our Publications: story/publications.md  link to blackall pdf converted to web page
-#    - Toowong History Books: story/toowong-history.md
-#    - Research Resources: story/research.md
   - Research:
     - Research Resources: research/research.md
     - Find a Grave: research/find-a-grave.md  
@@ -253,8 +247,6 @@ nav:
 #    - The Federation Trail: walks/federation-trail.md
 #    - Walk 1: walks/bcc-walk-1.md
 #    - Walk 2: walks/bcc-walk-2.md
-#    - Toowong Identities: walks/toowong-identities-1.md 
-#    - More Toowong Identities: walks/toowong-identities-2.md 
 #    - The Irish: walks/irish-trail.md 
 #    - The Jewish: walks/jewish-trail.md 
 #    - Toowong Cemetery Remembrance Walk: walks/rememberance-walk.md     
