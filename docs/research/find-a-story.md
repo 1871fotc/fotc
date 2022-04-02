@@ -21,7 +21,6 @@ search:
     If you would like your contribute a story, please complete the **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** form.
 
 <!-- 
-
 ??? directions "How to use the Index" 
 
     - Sort the table by clicking a column name.
@@ -31,7 +30,6 @@ search:
     - Location is in the Portion-Section-Grave format.
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
         - Learn more about **[finding graves at Toowong Cemetery](../research/find-a-grave.md)**.
-
 -->
 
 ## Find a story

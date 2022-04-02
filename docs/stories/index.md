@@ -7,13 +7,9 @@ search:
 
 # Stories
 
-The Friends of Toowong Cemetery have researched and published **over 500 stories** about people remembered at Toowong Cemetery. 
+The Friends of Toowong Cemetery have researched and published **over 500 stories** about people remembered at the cemetery. 
 
-Discovery our stories:
-
-- read one of our **themed story collections** below
-- read **[our publications](../about/publications.md)** or take a **[guided tour](../guided-tours.md)** <!--or **[self-guided walk](../walks/)** -->
--  **[find an individual story](../research/find-a-story.md)**
+Read one of our **themed story collections** below, or **[find an individual story](../research/find-a-story.md)**.
 
 ## Politics
 
