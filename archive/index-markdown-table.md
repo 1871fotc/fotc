@@ -28,7 +28,7 @@ search:
     - Dates are formatted as yyyy-mm-dd (year, month, day) to help with sorting. Where a year, month or day is unknown, a placeholder value of "yyyy", "mm", or "dd" is used.
     - Location is in the Portion-Section-Grave format.
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
-        - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
+        - Learn more about **[finding graves at Toowong Cemetery](../cemetery/find-a-grave.md)**.
 
 
 | Given Names          | Last Name                                 | Born       | Died       | Location   |   

@@ -6,9 +6,9 @@ hide:
 
 # Lest We Forget: Naval  
 
-**This walk was created to mark the centenary of the Royal Australian Navy, 1911—2011.**
+**These stories were created to mark the centenary of the Royal Australian Navy, 1911—2011.**
 
-Those represented on this walk are only a small number of the [men and women who gave their lives in service to this country](https://www.cwgc.org/find-records/find-war-dead/search-results/?CemeteryExact=true&Cemetery=BRISBANE%20GENERAL%20(TOOWONG)%20CEMETERY&Size=100&Page=1) who are either buried or memorialised at Toowong Cemetery.
+Those represented here are only a small number of the [men and women who gave their lives in service to this country](https://www.cwgc.org/find-records/find-war-dead/search-results/?CemeteryExact=true&Cemetery=BRISBANE%20GENERAL%20(TOOWONG)%20CEMETERY&Size=100&Page=1) who are either buried or memorialised at Toowong Cemetery.
 
 <!-- imange and caption 
 Royal Australian Navy Official Badge Design of 1949
@@ -80,8 +80,6 @@ Two sailors from the Netherlands Merchant Navy are also buried at Toowong Cemete
 The Lest We Forget Naval Walk was first conducted as part of a Remembrance Day Service on 6 November 2011 at the Toowong Cemetery. 
 
 The service was performed by Celebrant, Judy Magub, and Commander Tony Roper, RANR. 
-
-<!-- Service arranged by Gavin Stoneley, Metropolitan Funerals. -->
 
 <!--
 <div class="noprint" markdown="1">

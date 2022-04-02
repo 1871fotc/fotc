@@ -10,7 +10,7 @@ The Toowong Cemetery is a Brisbane icon and was once the city's main cemetery. T
 
 Toowong Cemetery opened during Queen Victoria's life (1819 - 1901) and you'll see the traditions and symbols from her reign throughout the cemetery.
 
-In [Portion 2](../cemetery/finding-graves.md) of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones from the old [Paddington cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) which closed in 1914.
+In [Portion 2](../research/find-a-grave.md) of the cemetery, at the intersection of Soldiers Parade and Garland Avenue, you'll find a display of symbols on headstones from the old [Paddington cemetery](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) which closed in 1914.
 
 ![Toowong Cemetery headstone symbolism display](../assets/symbolism-display.jpg)
 

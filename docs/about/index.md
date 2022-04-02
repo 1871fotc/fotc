@@ -19,8 +19,8 @@ search:
 
 The Friends of Toowong Cemetery:
 
-- **research the history of Toowong Cemetery**, its [headstones](../headstones/), and the [stories](../story/) of the people remembered here. 
-- **share our discoveries** with the community through our [guided tours](../guided-tours.md), [self‑guided walks](../walks/index.md), [museum](../cemetery/museum.md), [publications](publications.md), and [data](data.md).
+- **research the [history of Toowong Cemetery](../history.md)**, its [headstones](../headstones/symbols.md), and the [stories](../stories/) of the people remembered here. 
+- **share our discoveries** with the community through our [guided tours](../guided-tours.md), published [stories](../stories/), museum, [publications](publications.md), and [data](data.md).
 - **contribute stories** of people remembered at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications, biographical databases, and information signs around the cemetery.
 - **clean and conserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
@@ -36,7 +36,7 @@ The Friends of Toowong Cemetery have:
 - provided **stories for information signs** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby, and added the road names to [Google Maps](https://goo.gl/maps/7VX36iDLFNnShN6D8) to make it easier to for you to find your way around the cemetery.
 - shared the history and stories of Toowong Cemetery through monthly **[guided tours](../guided-tours.md)**.
-- **[published books, a DVD](publications.md)** and **[self‑guided walks](../walks/index.md)** 
+- **[published books, a DVD](publications.md)** and this website.  
 
 
 ![Federation Pavilion](../assets/federation-pavilion.jpg)
@@ -49,9 +49,9 @@ Currently we are:
 
 - planning to erect an **[honour board](https://youtu.be/mVfixEzUpwk)** at the cemetery's main entrance to commemorate people who have served their nation in military uniform and now rest in Toowong Cemetery.
 - **photographing every headstone** in the cemetery.
-- **updating our website** to include maps for our self‑guided walks.
 - **encouraging the community to volunteer** through simple one-off tasks shown on this site like the one below. 
 
+<!--
 !!! question "Volunteer - help us update the cemetery maps"
 
     To update our maps we need:
@@ -59,7 +59,6 @@ Currently we are:
     - access and a licence to the cemetery location data and [grave data](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). 
     - someone skilled in making maps. **Can you help?** 
 
-<!--
 ## What have we got planned? 
 
 With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 5 July 2025** we're planning a very special event. More will be revealed closer to the day.
@@ -70,7 +69,9 @@ With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 
 
 Friends of Toowong Cemetery meet at **[Mt Coot-tha Botanical Gardens Auditorium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha)** on the **[last Wednesday of the month](https://www.timeanddate.com/calendar/custom.html?year=2022&y2=2023&months=24&country=29&typ=3&display=3&cols=0&fdow=7&hol=0&ctf=5&ctc=2&holmark=2&hod=1&hcl=1&cdt=7&cwd=___1___&cwf=______&holm=1&df=1)** (except December and January) from 6pm to 7pm.
 
+<!--
 :fontawesome-regular-calendar-plus: **[Add the 2022 meetings to your Calendar](../assets/calendar/meetings-2022.ics)**
+-->
 
 ![Mt Coot-tha Botanical Gardens Auditorium](../assets/auditorium.jpg)
 
@@ -80,7 +81,6 @@ To join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb
 - $5.50 Students and Pensioners
 
 [Join Friends of Toowong Cemetery](https://forms.gle/iwFKCnpNYRTSeHLb8){ .md-button .md-button--primary }
-
 
 ## Important numbers
 

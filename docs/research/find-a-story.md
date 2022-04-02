@@ -6,9 +6,9 @@ search:
 
 --8<-- "snippets/metadata-story.json"
 
-# Stories
+# Find a Story 
 
-**Read the stories of the people remembered at Toowong Cemetery**. The table below lists over 500 people mentioned in our **[self-guided walks](../walks/index.md)** and provides links to their stories. 
+**Find a story about a person remembered at Toowong Cemetery**. The table below lists over 500 people mentioned in our **[stories](../stories/index.md)**. 
 
 
 ??? question "Volunteer - Contribute missing data"
@@ -30,13 +30,13 @@ search:
     - Dates are formatted as yyyy-mm-dd (year, month, day) to help with sorting. Where a year, month or day is unknown, a placeholder value of "yyyy", "mm", or "dd" is used.
     - Location is in the Portion-Section-Grave format.
         - Where a Grave number is unknown, a placeholder value of "gg" is used. 
-        - Learn more about **[finding graves at Toowong Cemetery](../cemetery/finding-graves.md)**.
+        - Learn more about **[finding graves at Toowong Cemetery](../research/find-a-grave.md)**.
 
 -->
 
 --8<-- "snippets/story-index-table.html"
 
-The [Friends of Toowong Cemetery Story Index](index.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
+The [Friends of Toowong Cemetery Story Index](find-a-story.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
 Download the Story Index as a <a href="../assets/data/story-index.csv" download>Comma Separated Value file</a> (.csv) 
 

@@ -1,38 +1,15 @@
 ---
-title: A wander through Portions 15 and 16 
-description: A historic walk around the Portions 15 and 16 of Toowong Cemetery
+description: Stories from Portions 15 and 16 
 author: Darcy and Lyn Maddock
 date: 5/6/2016
 hide:
   - navigation
 ---
 
-# A wander through Portions 15 and 16  
+# Stories from Portions 15 and 16   
 
-<!--
---8<-- "snippets/originally-a-guided-tour.md"
--->
-
-<!--
-Introduction
-
-???+ directions "Directions" 
-
-    Starting point
-    Walking directions to first headstone... is the grave of...
-    
-    ![](../assets/404.png){ width="15%" }
--->
 
 --8<-- "snippets/alexander-mountford.md"
-
-<!--
-??? directions "Directions" 
-
-    Walking directions to next headstone... is the grave of...
-    
-    ![](../assets/404.png){ width="15%" }
--->
 
 --8<-- "snippets/charles-walter-de-vis.md"
 

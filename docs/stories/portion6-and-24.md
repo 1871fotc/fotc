@@ -1,24 +1,13 @@
 ---
-title: A walk through Portions 6 and 24
-description: A historic walk around Portions 6 and 24 of Toowong Cemetery
+title: Stories from Portions 6 and 24
 author: Lyn Maddock
 date: 6/12/2015
 hide:
   - navigation
 ---
 
-# A walk through Portions 6 and 24  
+# Stories from Portions 6 and 24  
 
-<!--
-Introduction
-
-???+ directions "Directions" 
-
-    Starting point
-    Walking directions to first headstone... is the grave of...
-    
-    ![](../assets/404.png){ width="15%" }
--->
 
 ## Captain George and Jane Simpson <small>(24‑13‑16)</small>
 
@@ -28,13 +17,6 @@ George Simpson was born in the district of Eassie and Nevay in Forfarshire, Scot
 
 *<small>[Reviewing the troops in Brisbane during World War I](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220035150002061) 1914 to 1918. The review of the armed forces probably took place in the Parade ring at the Exhibition Grounds, Brisbane. Dignitaries are stood on the reviewing stand facing the assembled members of the forces. — State Library of Queensland.</small>*
 
-<!--
-??? directions "Directions" 
-
-    Walking directions to next headstone... is the grave of...
-    
-    ![](../assets/404.png){ width="15%" }
--->
 
 ## John Robert and Emma Wilkinson <small>(24‑7‑13/14)</small>
 

@@ -74,7 +74,7 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ### Cemetery Portion and Section Map 
 
-This map will help you to **[find graves](finding-graves.md)**. The map shows the old Road names.
+This map will help you to **[find graves](find-a-grave.md)**. The map shows the old Road names.
 
 [![Toowong Cemetery Map](../assets/toowong-cemetery-map.jpg){ width="98%" }][map]
 

@@ -1,36 +1,18 @@
 ---
-title: A ramble through Portion 5 (part 1)
-description: Part One of a walk around the historic headstones in Portion 5 of Toowong Cemetery
+title: Stories from Portion 5 (part 1)
 author: Lyn Maddock
 date: 4/10/2015
 hide:
   - navigation
 ---
 
-# A ramble through Portion 5 (part 1)  
+# Stories from Portion 5 (part 1)  
 
-<!--
-Introduction
-
-???+ directions "Directions" 
-
-    Starting point
-    Walking directions to first headstone... is the grave of...
-    
-    ![](../assets/404.png){ width="15%" }
--->
 
 ## Jonas and Mary Malouf <small>(5‑26‑2/3)</small>
 
 Jonas Malouf and his wife, Mary (née Hadad) were both born in the town of Zahlah in what is now Lebanon but was still part of Palestine at the time. Jonas was born in December 1849 and Mary in 1869. In 1889, together with their sons and Jonans's two brothers, they fled their native country to escape the political troubles of the time. They came to Queensland where they founded a successful drapery and general store at Ipswich. They later settled at Gatton where they continued to carry on in business. 
  
-<!--
-??? directions "Directions" 
-
-    Walking directions to next headstone... is the grave of...
-    
-    ![](../assets/404.png){ width="15%" }
--->
 
 ## Alfred Wall and Alfred George Curtis Wall <small>(5‑27‑16)</small>
 

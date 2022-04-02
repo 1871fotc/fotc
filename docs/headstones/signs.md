@@ -7,7 +7,7 @@ description: Learn about signs on headstones and their connection to friendly so
 
 #  Headstone Signs
 
-Freed from the restrictions of parish churchyards, municipal cemeteries provided an outlet for expression of individualism which reached its zenith in the mid to late Victorian Era. The headstone reflected the deceased's cultural identity by its inscription, material, shape, [symbol](index.md), or sign. These headstones are a reminder of how varied Brisbane society was from the late 1870s to the outbreak of World War One. Many signs on headstones represent the Friendly Society, Masonic Order or Trade Guild a person was part of. 
+Freed from the restrictions of parish churchyards, municipal cemeteries provided an outlet for expression of individualism which reached its zenith in the mid to late Victorian Era. The headstone reflected the deceased's cultural identity by its inscription, material, shape, [symbol](symbols.md), or sign. These headstones are a reminder of how varied Brisbane society was from the late 1870s to the outbreak of World War One. Many signs on headstones represent the Friendly Society, Masonic Order or Trade Guild a person was part of. 
 
 ## Friendly Societies
 
@@ -102,7 +102,7 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
         - where a Section number is unknown, a placeholder value of "ss" is used
         - where a Grave number is unknown, a placeholder value of "gg" is used. 
         
-    Learn more about [finding graves at Toowong Cemetery](../cemetery/finding-graves.md).
+    Learn more about [finding graves at Toowong Cemetery](../research/find-a-grave.md).
 
 
 | Acronym | Name                                                         | Organisation Type | Location |
@@ -137,11 +137,11 @@ These signs, names or acronyms can be found on headstones in Toowong Cemetery.
 
 !!! question "Volunteer - share a headstone photo"
 
-    Have you found the location of a Friendly Society Sign? [Contact us](../about/index.md#contact-us) with the details. 
+    Have you found the location of a Friendly Society Sign? [Contact us](../contact.md) with the details. 
 
 ![William Wayte Headstone 1-29-8][1-29-8]{ width="32%" }  ![The Eye of Providence 9-16-9][eye-of-providence]{ width="32%" } [![William Thomas Birkbeck 9-16-9][9-16-9]{ width="32%" }](https://trove.nla.gov.au/newspaper/article/186543823) 
 
-Unlike the [Clasped Hands symbol](index.md#clasped-hands) showing a man and women holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two men shaking hands.
+Unlike the [Clasped Hands symbol](symbols.md#clasped-hands) showing a man and women holding hands (based on the cuffs), on some Friendly Society official's headstones you'll find two men shaking hands.
 
  ![Headstone carving with man and women holding hands](../assets/clasped-hands.jpg){ width="48%" }  ![Headstone carving with men shaking hands][20-20-35/36]{ width="48%" }  
 

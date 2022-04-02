@@ -1,6 +1,6 @@
 ---
 title: Legal
-description: Copyright, Licence, Acknowledgements, Consent and Accessibility
+description: Copyright, Acknowledgements, and Accessibility
 ---
 
 # Legal

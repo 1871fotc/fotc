@@ -221,7 +221,7 @@ Human remains can be Skeletons, Partial remains, or Ashes.
 | [`endDate`][endDate] |  |  |
 | [`remainsIn`][remainsIn]   | Remains are in Grave - |  |
 
-[^30]: [marker id](../cemetery/finding-graves.md/#markers), or a unique id. How would we handle Ashes? 
+[^30]: [marker id](../cemetery/find-a-grave.md/#markers), or a unique id. How would we handle Ashes? 
 
 
 ## Monument

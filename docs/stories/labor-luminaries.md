@@ -6,15 +6,17 @@ hide:
  
 # Labor Luminaries  
 
-**A walk recognising people involved in the Labor movement.**
+**Stories recognising people involved in the Labor movement.**
 
+<!--
 ???+ directions "Directions" 
 
-    - Start behind [Canon Garland Place](../cemetery/visit.md#when-you-arrive) in Emma Miller Avenue. 
+    - Start behind Canon Garland Place in Emma Miller Avenue. 
     - Walk North towards William Brown Avenue (previously 14th Avenue).
     - At the end of the second row back from Emma Miller Avenue, you'll find Emma Miller's memorial stone.  
     
      ![Emma Miller's headstone](../assets/emma-miller-headstone.jpg){ width="15%" }
+-->
 
 --8<-- "snippets/emma-miller.md"
 
@@ -24,7 +26,7 @@ hide:
 *<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland. </small>* <br>
 *<small>[Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](https://en.wikipedia.org/wiki/File:Marble_Bust_of_Emma_Miller_held_at_Queensland_Council_of_Unions.jpg) by Alphi123, used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  </small>*
 
-
+<!--
 ??? directions "Directions" 
 
     - :fontawesome-solid-walking:{ .deep-purple } Walk up the steep grass path that leads directly to the Governor Blackall Memorial, the largest monument at the top of the hill
@@ -32,6 +34,7 @@ hide:
     - Walk back down Federation Avenue (previously 15th Avenue), on your immediately on your left about 4 rows after the end of the turning circle, you'll find Thomas Glassey and his wife Margaret. 
 
     ![Thomas Glassey's headstone](../assets/thomas-glassey-headstone.jpg){ width="15%" }
+-->
     
 --8<-- "snippets/thomas-glassey.md"
 
@@ -40,11 +43,13 @@ hide:
 *<small>[Senator Thomas Glassey delivering a speech to the women electors of Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218794910002061) - State Library of Queensland.  </small>* <br> 
 *<small>[Glassey family, ca. 1926](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218562540002061) - State Library of Queensland. </small>*
 
+<!--
 ??? directions "Directions" 
 
     - Continue to walk down 15th Avenue to and stop at 11‑51‑3, on your left, where you'll find the 3 graves close to each other. 
     
       ![William Henry Browne](../assets/william-henry-browne-headstone.jpg){ width="15%" } ![John Gordon Smith](../assets/john-gordon-smith-headstone.jpg){ width="20%" } ![Anderson Dawson](../assets/andersen-dawson-headstone.jpg){ width="20%" } 
+-->
 
 --8<-- "snippets/william-henry-browne.md"
 
@@ -61,12 +66,13 @@ hide:
 *<small>[Honourable Anderson (Andrew) Dawson](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218521750002061) 1899 - State Library of Queensland </small>* <br>
 *<small>[After the swearing in of the Dawson ministry of the Labor Party Brisbane, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool46636) - State Library of Queensland </small>* 
 
+<!--
 ??? directions "Directions" 
 
     - Continue to walk down 15th Avenue. Three rows before the Shelter Shed, on your left, stop at 11‑76‑12/13. 
 
     ![David Bowman](../assets/david-bowman-headstone.jpg){ width="15%" }  
-
+-->
 
 --8<-- "snippets/david-bowman.md"
 
@@ -74,12 +80,14 @@ hide:
 
 *<small>[David Bowman](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218753330002061) - State Library of Queensland </small>* 
 
+<!--
 ??? directions "Directions" 
 
     - Continue past the Shelter Shed, walking North West along Dr. Lillian Cooper Drive (Boundary Road), on your left, stop at the Forgan-Smith grave, 8‑25‑20/21.
     - On the opposite side of the road you'll find the Gillies grave, 18‑106‑20.
     
     ![William Forgan Smith](../assets/william-forgan-smith-headstone.jpg){ width="20%" }  ![William Neal Gillies](../assets/william-gillies.jpg){ width="15%" } 
+-->
 
 --8<-- "snippets/william-forgan-smith.md"
 
@@ -94,6 +102,7 @@ hide:
 
 *<small>[William Gillies, 1920](https://commons.wikimedia.org/wiki/File:William_Gillies_1920.jpg) - Queensland State Archives </small>* 
 
+<!--
 ??? directions "Directions" 
 
     - :fontawesome-solid-walking:{ .deep-purple } Walk down the row, across the gully, and across 8th Avenue to the Shelter Shed.
@@ -101,6 +110,7 @@ hide:
     - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
 
     ![Edward Michael Hanlon](../assets/edward-michael-hanlon-headstone.jpg){ width="15%" }  
+-->
 
 --8<-- "snippets/edward-michael-hanlon.md"
 
@@ -108,11 +118,13 @@ hide:
 
 *<small>[Edward Michael Hanlon, premier of Queensland, addressing the Legislative Assembly on the occasion of the Industrial Law Amendment Bill, 1948](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21217956320002061) - State Library of Queensland </small>* 
 
+<!--
 ??? directions "Directions" 
 
     - Six graves on you'll find the Hoolan family.
 
     ![John ‘Plumper’ Hoolan](../assets/john-hoolan-headstone.jpg){ width="15%" } 
+-->
 
 --8<-- "snippets/john-hoolan.md"
 
@@ -120,13 +132,14 @@ hide:
 
 *<small>[John 'Plumper' Hoolan, ca. 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218562430002061) - State Library of Queensland </small>* 
 
-
+<!--
 ??? directions "Directions" 
 
     - Walk back to the Shelter Shed, turn left into Charles Heaphey Drive (previously 8th Avenue). 
     - Before you get to Elizabeth Dale Walk, on your right, and almost to the end of the row, near the gully, you'll find Albert Whitford.
 
     ![Albert Edward Victor Whitford](../assets/albert-whitford-headstone.jpg){ width="15%" }  
+-->
 
 --8<-- "snippets/albert-edward-victor-whitford.md"
 
@@ -134,9 +147,11 @@ hide:
 
 *<small>[Delegates to the Queensland Police Union third annual conference. Whitford is in the front row, second on the left.](https://en.wikipedia.org/wiki/Albert_Whitford_(politician)#/media/File:Delegates_to_the_Queensland_Police_Union_Third_Annual_Conference.jpg) - Queensland Police Museum. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) </small>* 
 
+<!--
 ??? directions "Directions" 
 
     - Continue along Charles Heaphey Drive and return to your starting point. 
+-->
 
 ## Further Reading 
 

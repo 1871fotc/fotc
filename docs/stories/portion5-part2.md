@@ -1,24 +1,13 @@
 ---
-title: A ramble through Portion 5 (part 2)  
-description: Part Two of a walk around the historic headstones in Portion 5 of Toowong Cemetery
+title: Stories from  Portion 5 (part 2)  
 author: Darcy and Lyn Maddock
 date: 2/4/2017
 hide:
   - navigation
 ---
 
-# A ramble through Portion 5 (part 2)  
+# Stories from Portion 5 (part 2)  
 
-<!--
-Introduction
-
-???+ directions "Directions" 
-
-    Starting point
-    Walking directions to first headstone... is the grave of...
-    
-    ![](../assets/404.png){ width="15%" }
--->
 
 ## Daniel George Bloomfield <small>(5‑101‑11)</small>
 
@@ -28,13 +17,6 @@ Daniel Bloomfield (1858-1915) was, for many years, a well known bandmaster and p
 
 *<small>[D. G. Bloomfield](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218822040002061) — State Library of Queensland.</small>*
 
-<!--
-??? directions "Directions" 
-
-    Walking directions to next headstone... is the grave of...
-    
-    ![](../assets/404.png){ width="15%" }
--->
 
 ## The Hon. Hereward Humfy Henchman <small>(5‑101‑18/19)</small>
 

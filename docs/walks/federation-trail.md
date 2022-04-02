@@ -20,7 +20,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 ???+ directions "Directions" 
 
-    - Start behind [Canon Garland Place](../cemetery/visit.md#when-you-arrive) in Emma Miller Avenue.  
+    - Start behind Canon Garland Place in Emma Miller Avenue.  
     - Enter the portion on the path between the graves of Pethebridge and Thurlow. 
     
     ![Federation Trail start](../assets/federation-trail-start.jpg){ width="15%" } 

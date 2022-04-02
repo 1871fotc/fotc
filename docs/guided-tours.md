@@ -1,53 +1,55 @@
 ---
 description: Volunteers guide you on a different heritage tour each month
 search:
-  boost: 1  
+  boost: 2
 ---
 
-<!-- Hide Navigation sidebar contents on desktop -->
-
-<style>
-@media screen and (min-width: 76.25em) {
-  .md-nav--primary {
-    display: none
-  }
-}
-</style>
-
-
-<!-- Guests will be required to use the **[Check In Qld](https://www.covid19.qld.gov.au/check-in-qld)** App to check in. -->
-
+--8<-- "snippets/hide-nav.html"
 
 # Guided Tours
 
-!!! warning "COVID-19 Restrictions" 
-
-    - Due to COVID-19 our guided tours are **limited to 15 guests** to enable social distancing to be maintained. 
-    - Unfortunately we don't have a booking system, so guests will be invited to join us on a "first come, first served" basis. 
-    - We apologise in advance if you come to the cemetery but are unable to join the tour due to it being over-subscribed. There are many **[self-guided walks](../walks/)** you can do as an alternative.
-
+## Guided Tours
 
 Friends of Toowong Cemetery volunteers guide you on 10 different heritage walks each year. 
 
 ![Pat Hill's headstone][image11]{ width="32%" } ![Harry Potter's headstone][image9]{ width="32%" } ![Cherub headstone][image8]{ width="32%" }
 
-<!--
-Every walk is different and this drives our research and the creation of more **[stories](story/index.md)**.
--->
-
-The **[Toowong Cemetery Museum](cemetery/museum.md)** will be open before and after the walk.
-
-There's **no need to book**, just **meet under the flagpole, in Canon Garland Place at the Toowong Cemetery**. There is plenty of parking available inside the cemetery.
-
 **Guided tours are free** but a small donation is appreciated to help us continue **[our work](about/index.md)**. 
 
-Wear a hat, enclosed shoes, and bring a water bottle.
+There's no need to book, just meet under the flagpole, in Canon Garland Place at the Toowong Cemetery. There is plenty of parking available inside the cemetery. Wear a hat, enclosed shoes, and bring a water bottle.
 
-![Canon Garland Place](assets/flag-pole.jpg){ width="97%" } 
+![Canon Garland Place](assets/flag-pole.jpg){ width="98%" } 
 
 *<small>The Flagpole in Canon Garland Place</small>*
 
 
+## Toowong Cemetery Museum
+
+The Museum is open before and after our guided heritage tours. 
+
+![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" }
+
+*<small>The Toowong Cemetery Museum is the former Sexton's office.</small>*
+
+The Museum has an extensive display of photographs and artefacts.
+
+![Museum photo display 1](assets/museum-photos-1.jpg){ width="48.5%" } ![Museum photo display 2](assets/museum-photos-2.jpg){ width="48.5%" }
+![Museum photo display 2](assets/museum-photos-3.jpg){ width="48.5%" } ![Museum photo display 4](assets/museum-photos-4.jpg){ width="48.5%" } 
+
+
+## Upcoming tours
+
+Tours are on the first Sunday of each month (March to December) from 10:30 to 12:00.
+
+!!! warning "COVID-19 Restrictions" 
+
+    - Due to COVID-19 our guided tours are **limited to 15 guests** to enable social distancing to be maintained. 
+    - Unfortunately we don't have a booking system, so guests will be invited to join us on a "first come, first served" basis. 
+    - We apologise in advance if you come to the cemetery but are unable to join the tour due to it being over-subscribed. 
+    - The Brisbane City Council offers two self-guided walks you can do as an alternative that leave from the Shelter Shed and the start of Federation Drive. 
+
+
+<!--
 ## 6 March 2022
 
 !!! warning "Postponed" 
@@ -58,67 +60,66 @@ Our first heritage walking tour for 2022 is called **Tragically Taken**.
 
 Wandering amongst Toowong Cemetery's graves, you come across gravestones with inscriptions alluding to a sudden and tragic loss of a loved one. This walk looks at the events that inspired some of those inscriptions.
 
-<!--
 The tour is from **10:30 to 12:00 on Sunday 6 March 2022**
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220306.ics)**
--->
 
-## 3 April 2022
+
+### 3 April 2022
 
 Our April heritage walking tour is from **10:30 to 12:00 on Sunday 3 April 2022**. 
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220403.ics)**
 
-## 1 May 2022
+### 1 May 2022
 
 Our May heritage walking tour is from **10:30 to 12:00 on Sunday 1 May 2022**. 
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220501.ics)**
 
-## 5 June 2022
+### 5 June 2022
 
 Our June heritage walking tour is from **10:30 to 12:00 on Sunday 5 June 2022**. 
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220605.ics)**
 
-## 3 July 2022
+
+### 3 July 2022
 
 Our July heritage walking tour is from **10:30 to 12:00 on Sunday 3 July 2022**. 
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220703.ics)**
 
-## 7 August 2022
+### 7 August 2022
 
 Our August heritage walking tour is from **10:30 to 12:00 on Sunday 7 August 2022**. 
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220807.ics)**
 
-## 4 September 2022
+### 4 September 2022
 
 Our September heritage walking tour is from **10:30 to 12:00 on Sunday 4 September 2022**.  
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20220904.ics)**
 
-## 2 October 2022
+### 2 October 2022
 
 Our October heritage walking tour is from **10:30 to 12:00 on Sunday 2 October 2022**. 
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221002.ics)**
 
-## 6 November 2022
+### 6 November 2022
 
 Our November  heritage walking tour is from **10:30 to 12:00 on Sunday 6 November 2022**. 
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221106.ics)**
 
-## 4 December 2022
+### 4 December 2022
 
 Our last heritage walking tour for 2022 is from **10:30 to 12:00 on Sunday 4 December 2022**. 
 
 :fontawesome-regular-calendar-plus: **[Add to Calendar](assets/calendar/fotc-tour-20221204.ics)**
 
-<!--
 
 ## 5 March 2023
 
@@ -145,6 +146,9 @@ Other volunteer groups and commercial operators run tours in the cemetery under 
 
 - **[Toowong Cemetery Ghost Tours](https://ghosttoursaustralia.com.au/brisbane-ghost-tours/toowong-cemetery-original/)** is a commercial tour run in the cemetery at night. 
 -->
+
+
+
 
 [image4]: assets/140-commemoration-sml.png
 [image5]: assets/museum.jpg

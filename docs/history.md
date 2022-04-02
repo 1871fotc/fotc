@@ -3,6 +3,9 @@ title: Toowong Cemetery History
 description: Discover the history of Toowong Cemetery
 ---
 
+--8<-- "snippets/hide-nav.html"
+
+
 # Toowong Cemetery History
 
 ## Traditional Owners
@@ -17,13 +20,13 @@ Prior to 1875, the flat area where the entrance of Toowong Cemetery now stands w
 
 The land for the cemetery was first reserved in 1866. The reserve of 250 acres 1 rood, and an extension of 53 acres were [gazetted][gazette-93], and [Cemetery Trustees appointed][gazette-94] on 7 October 1870.
 
-[gazette-93]: ../assets/documents/Queensland_Gov_Gazette_8_October_1870_v11_93.pdf "Read the Queensland Government Gazetter No. 93"
-[gazette-94]: ../assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the Queensland Government Gazetter No. 94"
+[gazette-93]: assets/documents/Queensland_Gov_Gazette_8_October_1870_v11_93.pdf "Read the Queensland Government Gazetter No. 93"
+[gazette-94]: assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the Queensland Government Gazetter No. 94"
 
 
 **[Colonel Samuel Wensley Blackall][Blackall]**, the second Governor of Queensland, was the first person buried in Toowong Cemetery on 3 January 1871. 
 
-[Blackall]: ../story/samuel-wensley-blackall.md "Read Colonel Samuel Wensley Blackall's story"
+[Blackall]: research/samuel-wensley-blackall.md "Read Colonel Samuel Wensley Blackall's story"
 
 
 ## 1875 Toowong Cemetery opened
@@ -40,14 +43,14 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 </div>
 *<small>[Toowong Cemetery: Resting place of Governor Samuel Blackall (One Minute Archive)](https://www.youtube.com/watch?v=jJ3oK4nwNbA) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives)*</small>
 
-![Toowong Cemetery, Brisbane, ca. 1890](../assets/toowong-cemetery-ca1890.jpg){ width="96%" }  
+![Toowong Cemetery, Brisbane, ca. 1890](assets/toowong-cemetery-ca1890.jpg){ width="96%" }  
 
 *<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
 [![Map and aerial photo of Toowong Cemetery][map-photo]{ width="96%" }][aerial-photo]  
 
-[map-photo]: ../assets/Toowong-cemetery-map-photo.jpg "Click to view full aerial photo"
-[aerial-photo]: ../assets/toowong-cemetery-aerial-photo-1946.jpg
+[map-photo]: assets/Toowong-cemetery-map-photo.jpg "Click to view full aerial photo"
+[aerial-photo]: assets/toowong-cemetery-aerial-photo-1946.jpg
 
 
 
@@ -58,7 +61,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 The oldest surviving tombstone in Queensland is from 15 November 1831. Three children originally [interred on the banks of the Brisbane River](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool119348), were re‑interred at Toowong Cemetery in October 1881. 
 
-![Pioneer Children's Graves on the banks of the Brisbane River ](../assets/children-on-bank.jpg){ width="96%" }  
+![Pioneer Children's Graves on the banks of the Brisbane River ](assets/children-on-bank.jpg){ width="96%" }  
 
 *<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell and Tank Streets. Source unknown.</small>*
 
@@ -74,7 +77,7 @@ It has since been lost to weathering. After the death of their son, the Roberts 
 **Jane Pittard** was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Van Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
 
 These children's tombstones are the oldest surviving tombstones in Queensland.
-![Pioneer Children's Graves at Toowong Cemetery](../assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
+![Pioneer Children's Graves at Toowong Cemetery](assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
 *<small>Pioneer Children's Graves (13-10-4). </small>*
 
 <!--
@@ -103,7 +106,7 @@ Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglecte
 
 [Paddington Cemetery]: https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery "Read more about Paddington Cemetery"
 
-![Paddington Cemetery 1910](../assets/paddington-cemetery-goat-1910.jpg){ width="70%" } 
+![Paddington Cemetery 1910](assets/paddington-cemetery-goat-1910.jpg){ width="70%" } 
 
 *<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) — Queensland State Archives.</small>*
 
@@ -119,7 +122,7 @@ During the redevelopment of Suncorp Stadium in 2001/02 part of the former cemete
 
 --> 
 
-![Paddington Memorial](../assets/paddington-memorial.jpg){ width="70%" } 
+![Paddington Memorial](assets/paddington-memorial.jpg){ width="70%" } 
 
 *<small>Paddington Memorial, Portion 17 Section 1.</small>*
 
@@ -137,11 +140,11 @@ Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary 
 
 (Scroll back to the 1946 aerial photo to see how few allotments were built on 25 years later.)
 
-![Chermside Park advertisement](../assets/chermside-park.jpg){ width="96%" }  
+![Chermside Park advertisement](assets/chermside-park.jpg){ width="96%" }  
 
 *<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now named Couldrey St. </small>*
 
-![Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](../assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" }  
+![Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" }  
 
 *<small>[Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — [State Library of Queensland](https://www.slq.qld.gov.au). </small>*
 
@@ -161,18 +164,18 @@ Under the guidance of Garland the Anzac Day service at Toowong Cemetery grew in 
 
 Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at Portion 1, Section 50A, Grave 9, overlooking "Soldiers' Corner".
 
-![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](../assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
+![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
 
 *<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=) — [State Library of Queensland](https://www.slq.qld.gov.au). <!-- The Union Jack flag was placed on the building to mask the fact that it was the amenities. --> </small>*
 
 <!--
-![Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](../assets/stone-of-remembrance.jpg){ width="96%" }  
+![Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](assets/stone-of-remembrance.jpg){ width="96%" }  
 
 *<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
 -->
 
-![Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](../assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" }  
+![Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" }  
 
 *<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
 
@@ -204,52 +207,63 @@ In 1988 the first season of [Mission Impossible](https://en.wikipedia.org/wiki/M
 
 --8<-- "snippets/mission-impossible.md"
 
+
+## 1991 The Sexton's office restoration 
+
+
+The Museum building, located over the open drain, was formerly the Sexton's office and was built at the turn of the century. It is a single storey, single skin timber framed building with terracotta tile roof. The two room structure is located above the floor of an earlier structure identified as the flower shed which was associated with the cultivation and selling of flowers from Portion 10. The internal partition wall was reconstructed, windows replaced and an adjoining store room was demolished as part of the museum conversion project carried out by the Brisbane City Council Heritage Unit in 1991.[^1] 
+
+[^1]: From [Toowong Cemetery](https://apps.des.qld.gov.au/heritage-register/detail/?id=601773) © The State of Queensland, used under a [CC BY 4.0][cc-by] licence.
+
+![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" }
+
+
 ## 1992 Friends of Toowong Cemetery formed 
 
 Cr. Judy Magub was the first President of the Friends of Toowong Cemetery. Judy was the councillor for the Toowong ward since it was formed in 1994 until she retired in 2007.
 
-Learn more about **[Friends of Toowong Cemetery](../about/index.md)** - what we do, what we've done, and how to join in. 
+Learn more about **[Friends of Toowong Cemetery](about/index.md)** - what we do, what we've done, and how to join in. 
 
 ## 2001 Federation Pavilion
 
 The **[Federation Pavilion][Federation Pavilion]** commemorates the contribution of the delegates who attended the 1891 Federation that are buried at the Toowong Cemetery. It was officially opened on 3 March 2001.
 
-![Federation Pavilion](../assets/federation-pavilion.jpg){ width="96%" }  
+![Federation Pavilion](assets/federation-pavilion.jpg){ width="96%" }  
 
-[Federation Pavilion]: ../about/federation-pavilion.md "Read about Federation Pavilion, created by the Friends of Toowong Cemetery"
+[Federation Pavilion]: about/federation-pavilion.md "Read about Federation Pavilion, created by the Friends of Toowong Cemetery"
 
 ## 2006 Archaeological Digs
 
 In 2006, in conjunction with the University of Queensland Archaeology Department, Friends of Toowong Cemetery started **[searching for demolished headstones][digs]** buried in the cemetery grounds.
 
-[digs]: ../headstones/archaeological-digs.md "Read about our archaeological digs"
+[digs]: headstones/archaeological-digs.md "Read about our archaeological digs"
 
 In 2011, while staff prepared a new grave, the headstone of a John Peel was discovered. Brisbane City Council had no record of John Pell and asked Friends of Toowong Cemetery for help. It was discovered that the headstone was one of 504 missing headstones from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for roadbase. This was not entirely true as many headstones have been found in archaeological digs between 2011-2016. 
 
-![Discovered headstones](../assets/lost-and-found.jpg){ width="96%" }  
+![Discovered headstones](assets/lost-and-found.jpg){ width="96%" }  
 
 ## 2009 Vandalism law changes
 
 In 2009, over 80 gravestones were damaged at Toowong Cemetery. Following a police investigation, four people were charged with wilful damage however at the defendants’ committal hearing in April 2010, the charges were dismissed due to a "loop-hole" in the law. **[Friends of Toowong Cemetery successfully partitioned for changes to be made to the law][Vandalism of Cemeteries]**.
 
-[Vandalism of Cemeteries]: ../assets/documents/2010-vandalism.pdf "Read the Vandalism of Cemeteries: Criminal Code and Other Legislation Amendment Bill 2010 (Qld)"
+[Vandalism of Cemeteries]: assets/documents/2010-vandalism.pdf "Read the Vandalism of Cemeteries: Criminal Code and Other Legislation Amendment Bill 2010 (Qld)"
 
 ## 2011 Governor Blackall's funeral re-enactment
 
 On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment of the funeral][re-enactment]** was performed.
 
-[re-enactment]: ../about/140-commemoration.md "Read about our awarding winning event."
+[re-enactment]: about/140-commemoration.md "Read about our awarding winning event."
 
-![Re-enactment of the funeral of Governor Blackall, 2011](../assets/140-commemoration.png){ width="96%" }  
+![Re-enactment of the funeral of Governor Blackall, 2011](assets/140-commemoration.png){ width="96%" }  
 
 ## Today
 
 Today, the Friends of Toowong Cemetery and the Brisbane City Council work together to maintain and improve Toowong Cemetery. Together we have delivered improvements including:
 
-- The **[Federation Pavilion](../about/federation-pavilion.md)**
-- **[Renaming the Cemetery Roads](../visit/#road-name-changes)** after notable people buried nearby
-- Reusing the old Sexton's office as the **[Toowong Cemetery Museum](museum.md)**
-- The Paddington Memorial, and **[Headstone Symbology](../headstones/index.md)** display
+- The **[Federation Pavilion](about/federation-pavilion.md)**
+- **[Renaming the Cemetery Roads](/#road-name-changes)** after notable people buried nearby
+- Reusing the old Sexton's office as the Toowong Cemetery Museum
+- The Paddington Memorial, and **[Headstone Symbology](headstones/symbols.md)** display
 - The **[Toowong Cemetery Remembrance Walk](https://vimeo.com/540501732)** that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend
 
 **Toowong Cemetery is enjoyed by those who come to remember loved ones, exercise, walk their dog, or discover the history and stories inside.**
@@ -268,7 +282,7 @@ Today, the Friends of Toowong Cemetery and the Brisbane City Council work togeth
 - Watch **[Dying Out](https://youtu.be/r8b_DA_BkNs)** shown in 1986 on the ABC's Weekend Magazine
 - Watch Hilda MacLean, our second President, discuss Toowong Cemetery on **[Between the Lines](https://vimeo.com/7935322)**
 - Watch Darcy Maddock, our current President, **[Talk History](https://www.youtube.com/playlist?list=PLv0V6xrruq2kcliEjK1Kus3O4gFPthNKz)**
-- Read our **[stories of the people remembered at Toowong Cemetery](../story/index.md)**
+- Read our **[stories of the people remembered at Toowong Cemetery](/stories/)**
 
 <!-- Links -->
 

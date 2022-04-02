@@ -6,11 +6,13 @@ hide:
 
 # In their caring hands  
 
-**A heritage trail to commemorate the role of nurses, doctors and health professionals**
+**Commemorating the role of nurses, doctors and other health professionals**
 
-At Toowong Cemetery are many health professionals; nurses, doctors, dispensers and others, some of whom gave their lives in the course of their duties. This walk represents just a small number of those people who spent their working lives caring for others.
+At Toowong Cemetery are many health professionals; nurses, doctors, dispensers and others, some of whom gave their lives in the course of their duties. This is just a small number of those people who spent their working lives caring for others.
 
+<!-- 
 ![In their caring hands self-guided walk map](../assets/in-their-caring-hands-map.png)
+-->
 
 ## Mary Elizabeth Weedon and Annie Griffiths <small>(4‑3‑20)</small>
 
@@ -104,8 +106,6 @@ In the 1930s Gertrude was in charge of the outpatient’s department at the HSC.
 
 *<small>[Nursing staff in the grounds of the Hospital for Sick Children, Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218954550002061) — State Library of Queensland.</small>*
 
-
-
 ## Susannah Josephine McGann <small>(15‑31‑16)</small>
 
 Sister Susannah McGann, daughter of John and Susannah McGann, was a member of the New Zealand Army Nursing Service. She had trained in Maryborough, obtaining both General Nursing and Obstetric Certificates. Susannah was on the staff of the Diamantina Hospital in 1908 and was on the ANTA register in 1923. She died on 10 June 1925 aged 46.
@@ -151,9 +151,11 @@ Nurse Isabella Mason, daughter of Thomas and Elizabeth Mason, died on 17 October
 
 Lilian Ramsay was a staff nurse with the Australian Army Nursing Service having received a Brisbane General Hospital Certificate in 1914. She died on 5 June 1960 aged 69.
 
+<!--
 !!! Warning "Nurses buried in Portion 22" 
 
     Portion 22 is steep in parts. These graves are best approached from Francis Forde Avenue, which runs parallel to Birdwood Terrace. These graves are not included on the walk.    
+-->
 
 ## Mary Hogan <small>(22‑16‑18)</small>
 
@@ -181,9 +183,11 @@ Helena (known as Lena) Luton was with the Australian Army Nursing Service attach
 
 ![Helena Veronica Luton's headstone](../assets/helen-veronica-luton-headstone.jpg){ width="40%" }  
 
+<!--
 !!! Warning "Portion 30" 
 
     This grave is not included on the walk.
+-->    
     
 ## Agnes Helen (Nell) Storie <small>(30‑36‑31)</small>
 
