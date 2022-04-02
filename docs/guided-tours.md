@@ -48,6 +48,9 @@ Tours are on the first Sunday of each month (March to December) from 10:30 to 12
     - We apologise in advance if you come to the cemetery but are unable to join the tour due to it being over-subscribed. 
     - The Brisbane City Council offers two self-guided walks you can do as an alternative that leave from the Shelter Shed and the start of Federation Drive. 
 
+![Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](assets/masks-1919.jpg) 
+
+*<small>[Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218113110002061), — State Library of Queensland</small>*
 
 <!--
 ## 6 March 2022
