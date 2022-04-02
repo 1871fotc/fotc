@@ -4,7 +4,7 @@ search:
   exclude: true
 ---
 
---8<-- "snippets/metadata-story.json"
+--8<-- "snippets/metadata-story-index.json"
 
 # Find a Story 
 
@@ -34,7 +34,11 @@ search:
 
 -->
 
+## Find a story
+
 --8<-- "snippets/story-index-table.html"
+
+## Download the story index
 
 The [Friends of Toowong Cemetery Story Index](find-a-story.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
