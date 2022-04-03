@@ -60,7 +60,6 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- Ancestory.com.au
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Search the Records](https://www.qld.gov.au/recreation/arts/heritage/archives/search-the-records) - The State of Queensland (Queensland State Archives)
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
@@ -72,6 +71,8 @@ Compiled and presented by Lyn Maddock
 - Col Dunn, *The History of Electricity in Queensland*, 1985
 - [Babbidge, Benjamin Harris (1836–1905)](https://adb.anu.edu.au/biography/babbidge-benjamin-harris-42) - Australian Dictionary of Biography
 - [Forgotten weavers' housing of the Spitalfields silk district in London](https://www.family-tree.co.uk/how-to-guides/forgotten-weavers-housing-of-the-spitalfields-silk-district-in-london/)
+- [ancestry.com.au](https://www.ancestry.com.au/)
+
 
 <!--
 <div class="noprint" markdown="1">
