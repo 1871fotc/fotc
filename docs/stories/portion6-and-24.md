@@ -11,7 +11,7 @@ hide:
 
 ## Captain George and Jane Simpson <small>(24‑13‑16)</small>
 
-George Simpson was born in the district of Eassie and Nevay in Forfarshire, Scotland on 15 December 1858 to parents George Simpson and Agnes Young. He came to Queensland as a young man and, on 22 February 1888 he married Jane Brady, daughter of David Brady and Mary Ann McMullen. Jane had arrived here with her family on the *Indus* in 1870 when she was 16. George was appointed to the Queensland Defence Department prior to Federation, served in the Boer War with the Light Horse and commanded the training camp at the Brisbane Exhibition Ground during WW1. George died on 22 January 1938 and Jane on 19 May 1945.
+George Simpson was born in the district of Eassie and Nevay in Forfarshire, Scotland on 15 December 1858 to parents George Simpson and Agnes Young. He came to Queensland as a young man and, on 22 February 1888 he married Jane Brady, daughter of David Brady and Mary Ann McMullen. Jane had arrived here with her family on the *Indus* in 1870 when she was 16. George was appointed to the Queensland Defence Department prior to Federation, served in the Boer War with the Light Horse and commanded the training camp at the Brisbane Exhibition Ground during WWI. George died on 22 January 1938 and Jane on 19 May 1945.
 
 ![Reviewing the troops in Brisbane during World War I](../assets/reviewing-the-troops.jpg){ width="70%" }  
 
