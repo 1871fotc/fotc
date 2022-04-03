@@ -6,34 +6,8 @@ hide:
 
 # Brisbane Mayors  
 
-On this trail you'll visit many of the early Mayors of the Town of Brisbane. The City of Brisbane replaced the Town of Brisbane in 1903, which was then replaced by the new City of Brisbane, established in 1925.
+These stories cover many of the early Mayors of the Town of Brisbane. The City of Brisbane replaced the Town of Brisbane in 1903, which was then replaced by the new City of Brisbane in 1925.
 
-<!--
-On this trail you'll visit many of the early Mayors of the **Town of Brisbane**: 
-
-- **John Petrie**, the first mayor of the Town of Brisbane 1859—1862
-- **George Edmondstone**, the third mayor, 1863
-- **Joshua Jeays**, 1864
-- **Richard Symes Warry**, 1866
-- **John Hardgrave**, 1868—1869
-- **William Pettigrew**, 1870
-- **James Swan**, 1873—1875
-- **John Daniel Heal**, 1879
-- **John Sinclair**, 1880—1881
-- **Richard Southall**, 1888
-- **William McNaughton Galloway**, 1889
-- **Thomas Proe**, 1901
-
-The **City of Brisbane** replaced the Town of Brisbane in 1903. Mayors you'll visit are: 
-
-- **Thomas Proe**, (second term), 1905
-- **Alfred John Raymond**, 1912
-
-The **new City of Brisbane**, established in 1925, replaced the former City of Brisbane. You'll visit the Lord Mayor: 
-
-- **Archibald Watson**, the second Lord Mayor of the City of Brisbane, 1931
-
---> 
 <!--
 ???+ directions "Directions" 
 

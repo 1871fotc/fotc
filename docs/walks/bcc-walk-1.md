@@ -26,7 +26,7 @@ Before starting, you may like to download the [Toowong Cemetery map](../assets/t
 
 ???+ directions "Directions" 
 
-    Begin the heritage trail at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
+    Begin the heritage walk at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
     
     ![Federation Pavilion](../assets/federation-pavilion.jpg){ width="10%" } 
 
@@ -365,7 +365,7 @@ This [state‑heritage‑listed monument](https://apps.des.qld.gov.au/heritage-r
 
 ??? directions "Directions" 
 
-    This completes the tour of the southern corner portion of Toowong Cemetery. If you have enjoyed the trail, be sure to visit again to walk the many other areas of the cemetery. 
+    This completes the tour of the southern corner portion of Toowong Cemetery. If you have enjoyed the walk, be sure to visit again to walk the many other areas of the cemetery. 
 
     If you have parked your vehicle near the Richer Street entrance, follow Walter Hill Drive around the southern border of the cemetery until you return to the Information Pavilion.
 

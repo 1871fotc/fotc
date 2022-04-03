@@ -33,7 +33,7 @@ Before starting, you may like to download the [Toowong Cemetery map](../assets/t
 
 ???+ directions "Directions" 
 
-    Begin the heritage trail at the pavilion and walk up ==Dr Lilian Cooper Drive==. Among the graves – immediately to the left of the road and under the tree foliage – is the grave of Lachlan Chisholm Wilson.
+    Begin the heritage walk at the pavilion and walk up ==Dr Lilian Cooper Drive==. Among the graves – immediately to the left of the road and under the tree foliage – is the grave of Lachlan Chisholm Wilson.
 
 
 ## Lachlan Chisholm Wilson <small>(8‑9‑1/2)</small> 1871‑1947

@@ -311,7 +311,7 @@ John Devitt of Olympic fame and William Devitt who was John Wren’s right hand 
 
 These stories were first presented as a Irish Heritage Trail in 1988 during the Bi‑Centennial Celebrations, under the auspices of the [Genealogical Society of Queensland Irish Group](https://www.gsq.org.au/what-gsq-offers/interest-groups/#english) with Chairman and Researcher David Larkin as tour guide. The original tour took in 31 monuments across a number of portions of the cemetery. Some of the more important figures on Mt Blackall are included in other Friends of Toowong Cemetery stories, so these stories are confined to the Roman Catholic Portions 7, 7a, and 15. These stories were revised and corrected early 2014 by Darcy Maddock.
 
-The Friends of Toowong Cemetery Association would like to acknowledge the Queensland Government Community Benefit Fund for the grant to provide signage for this trail.
+The Friends of Toowong Cemetery Association would like to acknowledge the Queensland Government Community Benefit Fund for the grant to provide signage for this guided tour.
 
 <!--
 <div class="noprint" markdown="1">
