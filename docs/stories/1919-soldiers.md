@@ -33,7 +33,6 @@ hide:
 
 --8<-- "snippets/richard-whitby.md"
 
-
 ## Acknowledgements
 
 Compiled and presented by Darcy Maddock
