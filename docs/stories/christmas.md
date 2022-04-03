@@ -45,7 +45,7 @@ hide:
 
 ## Sources
 
-- [Assisted Immigration](https://www.qld.gov.au/recreation/arts/heritage/archives/collection/immigration) - The State of Queensland (Queensland State Archives)
+- [Assisted Immigration](https://www.qld.gov.au/recreation/arts/heritage/archives/collection/immigration) - The State of Queensland
 - [Australian Dictionary of Biography](https://adb.anu.edu.au) - Australian National University
 - [Grave Location Search](https://graves.brisbane.qld.gov.au) - Brisbane City Council
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
