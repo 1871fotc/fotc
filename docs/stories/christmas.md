@@ -47,10 +47,10 @@ hide:
 
 - [Assisted Immigration](https://www.qld.gov.au/recreation/arts/heritage/archives/collection/immigration) - The State of Queensland (Queensland State Archives)
 - [Australian Dictionary of Biography](https://adb.anu.edu.au)
-- [Brisbane City Council Grave Location Search](https://graves.brisbane.qld.gov.au)
+- [Grave Location Search](https://graves.brisbane.qld.gov.au) - Brisbane City Council
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [One Search](http://onesearch.slq.qld.gov.au/primo-explore/search?vid=SLQ) - State Library of Queensland
-- [Trove](https://trove.nla.gov.au)
+- [Trove](https://trove.nla.gov.au) - National Library of Australia
 
 <!--
 <div class="noprint" markdown="1">

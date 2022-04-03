@@ -76,8 +76,8 @@ Compiled and presented by Lyn and Darcy Maddock
 
 - [Sir Harry Gibbs Legal Heritage Centre](https://legalheritage.sclqld.org.au)
 - [National Archives](https://www.naa.gov.au)
-- BDM Queensland Index Search, The State of Queensland (Department of Justice and Attorney-General), 1995-2013
-- [Trove](https://trove.nla.gov.au)
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
+- [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [Australian Dictionary of Biography](https://adb.anu.edu.au)
 - [The Prosecution Project - Queensland Courts](https://prosecutionproject.griffith.edu.au/other-resources/queensland-courts/)
 

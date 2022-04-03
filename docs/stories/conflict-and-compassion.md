@@ -136,7 +136,7 @@ Compiled and presented by Darcy Maddock
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [National Archives Service Records WW1 and Boer War](https://www.naa.gov.au/explore-collection/defence-and-war-service-records)
 - [Australian War Graves](https://www.dva.gov.au/wargraves)
-- BDM Queensland Index Search - State of Queensland, 2015. Now [Family history research service](https://www.familyhistory.bdm.qld.gov.au)
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 
 <!--
 <div class="noprint" markdown="1">

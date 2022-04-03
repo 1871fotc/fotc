@@ -61,7 +61,7 @@ Compiled and presented by Lyn Maddock
 ## Sources
 
 - Ancestory.com.au
-- BDM Queensland Index Search, The State of Queensland (Department of Justice and Attorney-General), 1995-2013
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Search the Records](https://www.qld.gov.au/recreation/arts/heritage/archives/search-the-records) - The State of Queensland (Queensland State Archives)
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - *A History of Fish Lane, part 3: The Fish Steam Laundry* — State Library of Queensland 

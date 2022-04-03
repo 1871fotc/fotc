@@ -55,8 +55,8 @@ Compiled and presented by Lyn Maddock
 
 ## Sources
 
-- [Family history research service](https://www.familyhistory.bdm.qld.gov.au), The State of Queensland 
-- [Trove](https://trove.nla.gov.au), Digitised Newspapers and More 
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
+- [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [Ancestry](https://www.ancestry.com.au)
 - *Green Mountains* Bernard O'Reilly 
 - [Burgess, Charles Chesworth](https://www.loganvillagemuseum.org.au/anzacs/item/22-burgess), Logan Village Museum

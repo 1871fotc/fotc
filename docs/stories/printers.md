@@ -45,9 +45,9 @@ Compiled and presented by Lyn Maddock
 ## Sources
 
 - Lack, Clem, [A Centuary of Brisbane Journalism](https://espace.library.uq.edu.au), 1951
-- [Trove](https://trove.nla.gov.au), 2013
+- [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [Australian Dictionary of Biography](https://adb.anu.edu.au), 2006-2013
-- [Brisbane City Council Grave Location Search](https://graves.brisbane.qld.gov.au), 2013
+- [Grave Location Search](https://graves.brisbane.qld.gov.au) - Brisbane City Council
 
 <!--
 <div class="noprint" markdown="1">

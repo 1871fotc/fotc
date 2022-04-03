@@ -35,7 +35,7 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 
 ## Other Resources
 
-- [Family history research service](https://www.familyhistory.bdm.qld.gov.au), Queensland births, deaths and marriages
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Family History](https://www.slq.qld.gov.au/research-collections/family-history) resources from the State Library of Queensland 
 - [Online History and Genealogy](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/?rm=ONLINE+RESOURC0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&dt=list#History) resources available at Brisbane City Council Libraries
 - [Brisbane City Archives](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/libraries/facilities-services/brisbane-city-archives)

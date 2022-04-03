@@ -154,7 +154,7 @@ Compiled and presented by
 - Assisted Immigration The State of Queensland - Queensland State Archives 2013 
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
-- [Brisbane City Council Grave Location Search](https://graves.brisbane.qld.gov.au)
+- [Grave Location Search](https://graves.brisbane.qld.gov.au) - Brisbane City Council
 - [One Search](https://www.slq.qld.gov.au/search), The State of Queensland (State Library of Queensland) 2016 
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 

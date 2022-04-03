@@ -36,7 +36,7 @@ hide:
 
 ## Sources
 
-- ‘BDM Queensland Index Search’, The State of Queensland (Department of Justice and Attorney-General), 1995-2013
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - Trove, Digitised Newspapers and more (2016) 
 - ancestry.com.
 - Royal Navy records UK

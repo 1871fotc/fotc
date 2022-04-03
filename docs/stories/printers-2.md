@@ -35,7 +35,7 @@ hide:
 
 ## Sources
 
-- [Family history research service](https://www.familyhistory.bdm.qld.gov.au), The State of Queensland 
+- [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia 
 - [Ancestry](https://www.ancestry.com.au)
 - [Tales from Colonial Queensland](https://talesfromcolonialqueensland.blogspot.com)
