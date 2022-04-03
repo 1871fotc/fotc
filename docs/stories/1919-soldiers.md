@@ -44,7 +44,7 @@ Compiled and presented by Darcy Maddock
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [Explore People](https://vwma.org.au/explore/people) - Virtual War Memorial Australia
-- ancestory.com.au
+- [ancestry.com.au](https://www.ancestry.com.au/)
 
 <!--
 <div class="noprint" markdown="1">
