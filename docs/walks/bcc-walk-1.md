@@ -5,9 +5,11 @@ hide:
   - navigation
 ---
 
-# Toowong Cemetery Tour One 
+# Toowong Cemetery self-guided walk one 
 
 Part of the appeal and character of the old Toowong Cemetery is its hills and valleys, dotted with shady trees. To ensure you enjoy your visit we encourage visitors to wear comfortable shoes, use sun protection, carry water and above all, enjoy this pleasant and informative walk through a chapter of Brisbane’s history.
+
+--8<-- "snippets/conditions-of-entry.md"
 
 ## Welcome to Toowong Cemetery
 
@@ -17,7 +19,7 @@ Land set aside in 1865 as a cemetery reserve was affirmed as Brisbane General Ce
 
 Victorian’s love of ancient symbolism is reflected in the designs of their monuments. Throughout Toowong Cemetery you will notice symbols of hope and immortality, such as ivy; clasped hands suggesting farewell or reunion; and urns and obelisks inspired by a revived interest in Egyptian, Greek and Roman symbolism. Monuments also reflect prevailing architectural styles and building materials. Just as the Victorian attention to detail and ornamentation has given way to function and simplicity in architecture, modern headstones have become more subdued, losing much of the extravagance and elegance of 19th Century monuments.  
 
-More information on the [symbolism used in Victorian era cemeteries](../headstones/) like Toowong Cemetery can be found at the Cemetery Office, at the display at Portion Two
+More information on the [symbolism used in Victorian era cemeteries](../headstones/symbols.md) like Toowong Cemetery can be found at the Cemetery Office and at the display at Portion 2.
 
 Before starting, you may like to download the [Toowong Cemetery map](../assets/toowong_map.jpg). 
 <!-- Seek permission to annotate the map showing the walk -->
@@ -31,9 +33,9 @@ Before starting, you may like to download the [Toowong Cemetery map](../assets/t
 
 <!-- insert photo -->
 
-## Lieutenant-Colonel James Forsyth Thallon <small>(11‑71‑14)</small>
+## Lieutenant-Colonel James Forsyth Thallon <small>(1847‑1911)</small>
 
-Lieutenant-Colonel James Forsyth Thallon was the Queensland Commissioner for Railways from 1902-1911. His obituary in The Daily Telegraph stated he was born in Markinch, Fifeshire in 1847, the son of a Scottish engineer of the old school. At age 15 he entered service in Edinburgh on the Edinburgh, Perth and Dundee Railway as an apprentice. He was eventually promoted to General Traffic Manager for Queensland in 1889 and to Deputy Commissioner of Railways in 1896. On the death of the Commissioner for Railways, Mr Gray in November 1902, Thallon was appointed to the role initially for a term of seven years, and on the expiration of that term, for a further five years. 
+Lieutenant-Colonel James Forsyth Thallon was the Queensland Commissioner for Railways from 1902-1911. [His obituary in The Daily Telegraph](https://trove.nla.gov.au/newspaper/article/175257059/19207453) stated he was born in Markinch, Fifeshire in 1847, the son of a Scottish engineer of the old school. At age 15 he entered service in Edinburgh on the Edinburgh, Perth and Dundee Railway as an apprentice. He was eventually promoted to General Traffic Manager for Queensland in 1889 and to Deputy Commissioner of Railways in 1896. On the death of the Commissioner for Railways, Mr Gray in November 1902, Thallon was appointed to the role initially for a term of seven years, and on the expiration of that term, for a further five years. 
 
 Thallon died at the Mater Hospital in Brisbane on 24 March 1911 from a cerebral haemorrhage after contracting Dengue fever. At the time of his death, Thallon was regarded as the most distinguished Railways Commissioner in Australia, and one of the most loved men in Queensland. More than 10,000 people stood in drenching rain as his funeral procession passed toward his final resting place in Toowong Cemetery. The procession moved from his Clayfield residence, led by four mounted policemen, followed by the Railway Band who were playing the ‘Dead March from Saul’. Family members and dignitaries from all levels of government and representatives of industry followed the carriage bearing the coffin.
 
@@ -43,11 +45,11 @@ Thallon died at the Mater Hospital in Brisbane on 24 March 1911 from a cerebral 
 
     Continue along Federation Avenue to graves of George Phillips and James Cowlishaw on either side of the road.
 
-## George Phillips <small>(1843-1921)</small>
+## George Phillips <small>(1843‑1921)</small>
 
-George Phillips died on 3 June 1921 at the age of 77 after being known as one of the pioneers who opened up North Queensland, the possibilities of the Gulf country, and who laid out the town of Normanton. A surveyor and civil engineer, he also made many valuable contributions to The Daily Telegraph on the physical aspects, climatology, natural and artificial products of the country, and the life and manners of its people. For many years he was a leading member and fellow of the Royal Geographical Society, and contributed several valuable papers. During his funeral service at the City Tabernacle, Reverend Richer, a good friend of George Phillips, spoke of the man and his great service to Queensland. 
+George Phillips died on 3 June 1921 at the age of 77 after being known as one of the pioneers who opened up North Queensland, the possibilities of the Gulf country, and who laid out the town of Normanton. A surveyor and civil engineer, he also made [many valuable contributions to The Daily Telegraph](https://trove.nla.gov.au/search/category/newspapers?keyword=%22G%20Phillips%22&l-state=Queensland&l-title=840&l-decade=191&l-category=Article) on the physical aspects, climatology, natural and artificial products of the country, and the life and manners of its people. For many years he was a leading member and fellow of the Royal Geographical Society, and contributed several valuable papers. During his funeral service at the City Tabernacle, Reverend Richer, a good friend of George Phillips, spoke of the man and his great service to Queensland. 
  
-## James Cowlishaw <small>(1834-1913)</small>
+## James Cowlishaw <small>(1834‑1913)</small>
 
 James Cowlishaw was an architect, newspaper director, trustee and politician. He was born in Sydney in 1834 and came to Brisbane in 1861 to practise as an architect. He designed a few private homes including *Hanworth House* at East Brisbane and *Oakwal* at Windsor, both of which still exist, but he was mostly concerned with commercial buildings and designed some of the finest buildings of the period, including Brisbane Grammar School. He acquired a large interest in the Queensland Trustees Limited, and was a founder of the Brisbane Gas Company in 1864. He was also one of the founding trustees of the Toowong Cemetery.
 
@@ -64,13 +66,13 @@ Cowlishaw’s wife, Charlotte (née Owen) was the second burial in the grave fol
     ![x](../assets/404.png){ width="10%"} ![](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
 
 
-## Sir Charles Lilley <small>(1830-1897)</small>
+## Sir Charles Lilley <small>(1830‑1897)</small>
 
 Born at Newcastle upon Tyne, England in 1830, Charles Lilley arrived in Sydney in 1856 as an assisted immigrant. That year he was articled in Brisbane to Robert Little, the district’s senior solicitor. On completing his articles, he joined the printer William Bellbridge to lease the Moreton Bay Courier and became involved in the separation movement. 
 
 Following separation, Lilley narrowly won the Fortitude Valley seat and continued to represent the electorate until the end of his parliamentary career. In 1865 he became Attorney-General in the Herbert Ministry and in 1868 gained the unusual dual role of Premier and Attorney-General. In 1869, as colonial secretary, he was responsible for establishing free education throughout Queensland, making it the first Australian state to do so. In 1874 he was appointed Judge of the Supreme Court and in June 1879 became Chief Justice. He accepted a knighthood in October 1881. 
 
-## Sir Samuel Walker Griffith <small>(1845-1920)</small>
+## Sir Samuel Walker Griffith <small>(1845‑1920)</small>
 
 This modest grave contradicts the vital contribution this man made to Queensland and Australian politics and law. Griffith’s political career began in 1872 when he won the seat of East Moreton. He served as Attorney-General from 1874-1878 and in May 1879 replaced John Douglas as Liberal Party leader. During this rise to leadership he held three portfolios: Attorney-General, Secretary for Public Instruction (1876-1879) and Secretary for Public Works (1878-1879). Griffith was a ‘founding father’ of Australia’s Constitution and Federation. In 1891 he chiefly drew up a draft constitution. From 1899-1903 he was Lieutenant Governor of Queensland. Griffith died in his New Farm home ‘Merthyr’ and is buried here with his wife and eldest son Llewelyn, an engineer who died aged 29. 
 
@@ -80,7 +82,7 @@ This modest grave contradicts the vital contribution this man made to Queensland
 
     Turning around, see the largest monument in the cemetery belonging to Governor Blackall.
 
-## Governor Blackall <small>(1809-1871)</small>
+## Governor Blackall <small>(1809‑1871)</small>
 
 Samuel Wensley Blackall was the second Governor of Queensland, serving between 1868 and 1871. Born in Dublin, Blackall’s colonial service began in 1851 when he was appointed Lieutenant Governor of Dominica for six years. From 1862-1865 he was Governor of Sierra Leone and in 1865 became Governor-in-Chief of the West African Settlements. During his three years as a Governor of Queensland he became extremely popular, willing to help public causes. While on a picnic in this area, Blackall’s ill health prompted him to choose this hilltop for his grave. In January 1871, Blackall was the first to be buried in Toowong Cemetery and his impressive memorial continues to dominate the hill now named Mount Blackall. 
 
@@ -198,7 +200,7 @@ A volunteer in the third Queensland Mounted Infantry Contingent to the South Afr
 
     Proceed along the path to the Murray‑Prior family vault, turn left at Heussler’s headstone, then immediately right after the Dorsett’s grave, continue back along the row to the pathway and at the end of this row is the tall obelisk of John Turner.
 
-## John Turner <small>(1826-1900)</small>
+## John Turner <small>(1826‑1900)</small>
 
 John Sargent Turner was born in Wangaroa, New Zealand, to Reverend Nathaniel Turner (1793‑1864), a Wesleyan Missionary (whose tomb lies behind this monument), and Anne Turner (née Sargent). In 1852 John Turner migrated to Brisbane and opened the Brisbane branch of the Union Bank. In 1871 he relinquished his management position to join the established firm of George Raff and Company. Turner retired from business when his company dissolved in 1882. He was director of several businesses including Queensland Mercantile, the Australian Mutual Providence Society, the South Australian Mutual Providence Society and the South Australian Land and Mortgage Company. On 18 April 1878 he entered the Legislative Council where he remained until his death. He is regarded as the founder of the Albert Street Uniting Church. 
 
@@ -234,7 +236,7 @@ The Bancroft’s are among Queensland’s most notable medical families. After e
 
     Turn left here and walk the length of the row to the memorial of David Seymour.
 
-## David Seymour <small>(c.1831‑1916)</small> 
+## David Seymour <small>(ca.1831‑1916)</small> 
 
 David Thomson Seymour was born at Ballymore Castle, County Galway, Ireland, and educated at Ennis College. He arrived in Brisbane in 1861 as a Lieutenant in a detachment of the 12th Regiment. For a time, Aide‑de‑Camp to the colony’s Governor, Sir George Bowen, he was appointed Commissioner of Police in 1864, a post he held with distinction for 31 years. Commissioner Seymour was responsible for developing and organising the Queensland Police into an effective crime prevention force. He retired in 1895 and passed away on a trip to England and is buried there. His father‑in‑law, Queensland’s last Sheriff’s headstone recovered in an archaeological dig elsewhere in the cemetery has been repaired and placed on the Seymour family grave. His father‑in‑law still rests under Suncorp Stadium.
 
@@ -303,7 +305,9 @@ Also a stonemason, John Petrie’s best remembered work is the conversion of the
 
 <!-- insert photo -->
 
---8<-- "snippets/walter-hill.md"
+## Ann and Walter Hill 
+
+Ann Hill (1850-1871) was the second person buried in Toowong Cemetery, after Governor Blackall. Walter Hill, her father, was appointed first Superintendent of the Brisbane Botanic Gardens in 1855. As a tribute to Walter Hill, the Walter Hill fountain was erected in the City Botanic Gardens in 1867. This explanatory plaque was unveiled by the Lord Mayor Clem Jones in 1972
 
 ??? directions "Directions" 
 
@@ -355,7 +359,7 @@ Prior to Federation, each of the Australian colonies maintained its own defence 
 
 ## Temple of Peace
 
-This [state‑heritage‑listed monument](https://apps.des.qld.gov.au/heritage-register/detail/?id=600334) was designed and largely constructed by Richard Ramo in memory of his three sons killed in World War I, to his adopted son Fred who died tragically in 1923, and later to the family dog. The dedication of the mausoleum was attended by several thousand people, largely pacifists, socialists and members of the Industrial Workers of the World. The temple bears several leaded marble inscriptions expressing Ramo’s bitter hatred of war and details of the deaths of his sons. One particularly sombre inscription reads: “All my hope lies buried here”. 
+This [state‑heritage‑listed monument](https://apps.des.qld.gov.au/heritage-register/detail/?id=600334) was designed and largely constructed by Richard Ramo in memory of his three sons killed in World War I, to his adopted son Fred who died tragically in 1923, and later to the family dog. The dedication of the mausoleum was attended by several thousand people, largely pacifists, socialists and members of the Industrial Workers of the World. The temple bears several leaded marble inscriptions expressing Ramo’s bitter hatred of war and details of the deaths of his sons. One particularly sombre inscription reads: “*All my hope lies buried here*”. 
 
 <!-- insert photo -->
 
@@ -363,8 +367,8 @@ This [state‑heritage‑listed monument](https://apps.des.qld.gov.au/heritage-r
 
     This completes the tour of the southern corner portion of Toowong Cemetery. If you have enjoyed the trail, be sure to visit again to walk the many other areas of the cemetery. 
 
-    If you have parked your vehicle near the Richer Street entrance, follow ==Walter Hill Drive==d around the southern border of the cemetery until you return to the Information Pavilion.
+    If you have parked your vehicle near the Richer Street entrance, follow Walter Hill Drive around the southern border of the cemetery until you return to the Information Pavilion.
 
 ## Copyright and Attribution 
 
-[Toowong Cemetery self-guided walk one](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under the [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Minor formatting changes, photos and links added. 
+[Toowong Cemetery Self-Guided Walk One](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery#selfguidedwalks) © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under the [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Minor formatting changes, photos, links, and conditions of entry added. 
