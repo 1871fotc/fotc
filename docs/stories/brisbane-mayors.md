@@ -136,10 +136,6 @@ The **new City of Brisbane**, established in 1925, replaced the former City of B
 
 --8<-- "snippets/richard-symes-warry.md"
 
-![Richard Symes Warry](../assets/richard-symes-warry.jpg){ width="40%" } 
-
-*<small>[Richard Symes Warry](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Richard+Warry&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*
-
 <!--
 
 ??? directions "Directions" 
