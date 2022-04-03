@@ -9,6 +9,11 @@ hide:
 
 # The Great Shearers' Strike of 1891
 
+![Contingent of soldiers preparing to ride west during the shearer's strike, 1891](../assets/soldiers-shearers-strike.jpg){ width="70%" }
+
+*<small>[Contingent of soldiers preparing to ride west during the shearer's strike, 1891](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21270205600002061) -  State Library of Queensland</small>*
+
+
 
 --8<-- "snippets/william-hamilton.md"
 
