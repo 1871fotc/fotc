@@ -75,7 +75,7 @@ Compiled and presented by Lyn and Darcy Maddock
 ## Sources
 
 - [Sir Harry Gibbs Legal Heritage Centre](https://legalheritage.sclqld.org.au)
-- [National Archives](https://www.naa.gov.au)
+- [National Archives of Australia](https://www.naa.gov.au) - Commonwealth of Australia
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia
 - [Australian Dictionary of Biography](https://adb.anu.edu.au)
