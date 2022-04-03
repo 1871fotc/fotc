@@ -64,7 +64,8 @@ extra:
 #      link: tel:0439998053
 #      name: Call us on 0439998053
     - icon: fontawesome/solid/envelope
-      link: mailto:inquiries@fotc.org.au
+#      link: mailto:inquiries@fotc.org.au
+      link: mailto:stephen.gates@me.com
       name: Email us
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/1871fotc/
