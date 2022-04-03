@@ -132,11 +132,11 @@ Nurse Ivy Amess received her training at the Bundaberg General Hospital where sh
 
 Dying aged 104 on 14 May 1998, Sister Taylor had seen service at the 5^th^ Australian General Hospital which was a Victoria‑based unit.
 
-## Lillian Violet Cooper and Mary Josephine Bedford <small>(8‑69‑13/14)</small>
+## Lilian Violet Cooper and Mary Josephine Bedford <small>(8‑69‑13/14)</small>
 
-Dr Lillian Cooper was the first woman to practise medicine in Queensland. She studied medicine at the London School of Medicine for Women and obtained an MD from Durham. While studying there, Lillian met and shared lodgings with Mary Bedford who was to become her lifelong companion. 
+Dr Lilian Cooper was the first woman to practise medicine in Queensland. She studied medicine at the London School of Medicine for Women and obtained an MD from Durham. While studying there, Lillian met and shared lodgings with Mary Bedford who was to become her lifelong companion. 
 
-Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in George Street. She was a great advocate of sterilization and the use of protective clothing during surgery. Lillian died on 19 August 1947 aged 86. Mary Bedford died in 1955. Mt Olivet Hospital stands on the site of their Main St home at Kangaroo Point.
+Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in George Street. She was a great advocate of sterilization and the use of protective clothing during surgery. Lilian died on 19 August 1947 aged 86. Mary Bedford died in 1955. Mt Olivet Hospital stands on the site of their Main St home at Kangaroo Point.
 
 
 ## Lillian Leitch <small>(8‑40‑30/31)</small>

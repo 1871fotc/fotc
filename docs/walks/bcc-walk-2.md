@@ -33,7 +33,7 @@ Before starting, you may like to download the [Toowong Cemetery map](../assets/t
 
 ???+ directions "Directions" 
 
-    Begin the heritage trail at the pavilion and walk up ==Dr Lillian Cooper Drive==. Among the graves – immediately to the left of the road and under the tree foliage – is the grave of Lachlan Chisholm Wilson.
+    Begin the heritage trail at the pavilion and walk up ==Dr Lilian Cooper Drive==. Among the graves – immediately to the left of the road and under the tree foliage – is the grave of Lachlan Chisholm Wilson.
 
 
 ## Lachlan Chisholm Wilson <small>(8‑9‑1/2)</small> 1871‑1947
@@ -224,7 +224,7 @@ Anthony Fatseas was born in Smyrna in Turkey in 1909. He finished elementary sch
 
 ??? directions "Directions" 
 
-    From here continue along ==Dr Lillian Cooper Drive== past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
+    From here continue along ==Dr Lilian Cooper Drive== past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
 
 ## Frederic Charles Urquhart <small>(25‑31‑8)</small>1858‑1935
 

@@ -83,7 +83,7 @@ hide:
 <!--
 ??? directions "Directions" 
 
-    - Continue past the Shelter Shed, walking North West along Dr. Lillian Cooper Drive (Boundary Road), on your left, stop at the Forgan-Smith grave, 8‑25‑20/21.
+    - Continue past the Shelter Shed, walking North West along Dr. Lilian Cooper Drive (Boundary Road), on your left, stop at the Forgan-Smith grave, 8‑25‑20/21.
     - On the opposite side of the road you'll find the Gillies grave, 18‑106‑20.
     
     ![William Forgan Smith](../assets/william-forgan-smith-headstone.jpg){ width="20%" }  ![William Neal Gillies](../assets/william-gillies.jpg){ width="15%" } 
@@ -106,7 +106,7 @@ hide:
 ??? directions "Directions" 
 
     - :fontawesome-solid-walking:{ .deep-purple } Walk down the row, across the gully, and across 8th Avenue to the Shelter Shed.
-    - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk down the hill, return to your car and drive down Federation Avenue back to the Shelter Shed, then contine on Dr. Lillian Cooper Drive. Turn right into 9th Avenue, then right into Pat Hill Drive and park near the Shelter Shed. 
+    - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk down the hill, return to your car and drive down Federation Avenue back to the Shelter Shed, then contine on Dr. Lilian Cooper Drive. Turn right into 9th Avenue, then right into Pat Hill Drive and park near the Shelter Shed. 
     - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
 
     ![Edward Michael Hanlon](../assets/edward-michael-hanlon-headstone.jpg){ width="15%" }  

@@ -81,7 +81,7 @@ If you enter the main entrance, you'll find:
 
 If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
-- turn right into Dr. Lillian Cooper Drive (previously Boundary Road) and continue to the Shelter Shed 
+- turn right into Dr. Lilian Cooper Drive (previously Boundary Road) and continue to the Shelter Shed 
 - veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14th Avenue) 
 - at the end, turn right into Emma Miller Avenue (previously 8th Avenue) to arrive behind Canon Garland Place, where you can park on the right side of the road
 
@@ -91,8 +91,8 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 !!! warning "Cemetery Road Warnings" 
 
-    - **Walter Hill Drive is one way** uphill from Emma Miller Avenue to Dr. Lillian Cooper Drive 
-    - **William Brown Avenue is one way** downhill from Dr. Lillian Cooper Drive to Emma Miller Avenue
+    - **Walter Hill Drive is one way** uphill from Emma Miller Avenue to Dr. Lilian Cooper Drive 
+    - **William Brown Avenue is one way** downhill from Dr. Lilian Cooper Drive to Emma Miller Avenue
     - **5^th^ Avenue is very steep** from Steele Rudd Avenue up to Francis Forde Avenue near the corner of Frederick St and Birdwood Tce
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -119,7 +119,7 @@ Some road names have recently been changed to the names of notable people buried
 | New Road Name                              | Old Road Name | Notes                                                                |
 | :----------                                | :--------     | :---------                                                           |
 | **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
-| **[Dr Lillian Cooper][Cooper]** Drive      | Boundary Road | running parallel to Richer Street                                    |
+| **[Dr Lilian Cooper][Cooper]** Drive      | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
 | [Francis Forde][Forde] Avenue          | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street     |
 | **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street <br>furthest from the main entrance |
