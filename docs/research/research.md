@@ -11,21 +11,21 @@ Search **[Trove](https://trove.nla.gov.au)** to read obituaries and other newspa
 
 Each list item will give you a direct link to the newspaper article as well as the grave number.
 
-- [Obituaries A - E](https://trove.nla.gov.au/list?id=4457)
-- [Obituaries F - J](https://trove.nla.gov.au/list?id=4461)
-- [Obituaries K - N](https://trove.nla.gov.au/list?id=4454)
-- [Obituaries O - R](https://trove.nla.gov.au/list?id=4453)
-- [Obituaries S - Z](https://trove.nla.gov.au/list?id=4430)
+- **[Obituaries A - E](https://trove.nla.gov.au/list?id=4457)**
+- **[Obituaries F - J](https://trove.nla.gov.au/list?id=4461)**
+- **[Obituaries K - N](https://trove.nla.gov.au/list?id=4454)**
+- **[Obituaries O - R](https://trove.nla.gov.au/list?id=4453)**
+- **[Obituaries S - Z](https://trove.nla.gov.au/list?id=4430)**
 
 ## Australian Dictionary of Biography
 
 The **[Australian Dictionary of Biography](https://adb.anu.edu.au/)** is Australia's pre-eminent dictionary of national biography. In it you will find concise, informative and fascinating descriptions of the lives of significant and representative persons in Australian history.
 
-[Search for "Toowong Cemetery"](https://adb.anu.edu.au/biographies/search/?scope=all&query=Toowong+Cemetery+&x=55&y=11&rs=) for the biographies of 190 of the most prominent people buried at Toowong Cemetery.
+**[Search for "Toowong Cemetery"](https://adb.anu.edu.au/biographies/search/?scope=all&query=Toowong+Cemetery+&x=55&y=11&rs=)** for the biographies of 190 of the most prominent people buried at Toowong Cemetery.
 
 ## Obituaries Australia
 
-**[Obituaries Australia](https://oa.anu.edu.au)** is a digital repository of obituaries published in newspapers, journals, magazines and bulletins. [View Obituaries of people interred at Toowong Cemetery](https://oa.anu.edu.au/obituaries/search/?scope=all&query=Toowong+Cemetery+&x=85&y=18&rs=)
+**[Obituaries Australia](https://oa.anu.edu.au)** is a digital repository of obituaries published in newspapers, journals, magazines and bulletins. **[View Obituaries of people interred at Toowong Cemetery](https://oa.anu.edu.au/obituaries/search/?scope=all&query=Toowong+Cemetery+&x=85&y=18&rs=)**
 
 ## Toowong Cemetery Monumental Inscriptions
 
