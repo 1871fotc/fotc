@@ -37,7 +37,7 @@ hide:
 
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Trove](https://trove.nla.gov.au) - National Library of Australia 
-- [Ancestry](https://www.ancestry.com.au)
+- [ancestry.com.au](https://www.ancestry.com.au/)
 - [Tales from Colonial Queensland](https://talesfromcolonialqueensland.blogspot.com)
 - [Dowse, Thomas (1809–1885)](https://adb.anu.edu.au/biography/dowse-thomas-3440) - Australian Dictionary of Biography
 - [Thomas Dowse](https://convictrecords.com.au/convicts/dowse/thomas/89523) - Convict Records
