@@ -65,14 +65,16 @@ Where practical, we link to authoritative data sources, rather than duplicate da
 
 ## Data Formats 
 
-Our data is published as:
+Our data is published as Comma Separated Value (.csv) data files. 
 
+<!--
 - Comma Separated Value (.csv) data files 
 - [Tabular Data Packages](https://specs.frictionlessdata.io/tabular-data-package/) following the [Frictionless Data](https://frictionlessdata.io) specification. This is a .zip file that includes: 
 
     - the Comma Separated Value data file 
     - a JSON [Table Schema](https://specs.frictionlessdata.io/table-schema/) file describing the structure of the data 
     - a [Markdown](https://commonmark.org/help/) file describing the provenance of the data
+-->
 
 We plan to experiment publishing our data as [Linked Data](https://en.wikipedia.org/wiki/Linked_data) to enable semantic queries and visualisations. We are considering using the following specifications: 
 
