@@ -31,7 +31,7 @@ Born in Newcastle 1892, enlisted Gin Gin Queensland at 23 year of age. Records s
 
 ## Private James Sanford M.M. <small>(2A‑24‑1/2)</small>
 
-'5753' 9^th^ Battalion 
+Service Number: 5753. 9^th^ Battalion 
 
 James was born on 9 September 1888 nearby at Redhill to James and Emily Ann (née Andrews). He enlisted 10 February 1916 in Cairns and after training, embarked on *HMAT SEANG CHOON (A49)* on 4 May 1916.
 
@@ -41,13 +41,13 @@ James was born on 9 September 1888 nearby at Redhill to James and Emily Ann (né
 
 ## Corporal Henry Townsend Wilkins <small>(2A‑22‑11)</small>
 
-'783' 41^st^ Australian Imperial Force 
+Service Number: 783. 41^st^ Australian Imperial Force 
 
 Henry was born in Brisbane 1895 to Joseph Bakes Wilkins and Eleanor Fowdry Townsend. His father passed away 1907. He enlisted 20 September 1915 and embarked 18 May 1916 and killed in action on 31 July 1917 at 22 years of age. There is no known resting place but he is memorialised here on the family grave and on the Menin Gate, Belgium. One of the 6178 inscribed Australians who served in the Ypres campaign who have no known grave.
 
 ## Private Jack Bannister <small>(2A‑25A‑18/19)</small>
 
-'3782' 49^th^ Battalion
+Service Number: 3782. 49^th^ Battalion
 
 Jack was born in Brisbane in 1895 to Walter William Bannister and Margaret Jane Henson. He married Annie Kelly in 1911 and had two children at the time of enlistment. He enlisted 7 September 1915 and after training embarked 31 January 1916 on *A62 HMAT Wandilla*. 
 
@@ -55,44 +55,44 @@ Jack embarked for Australia per *SS Berrima* on 2 January 1919 and landed in Mel
 
 ## Private Joseph George Barnes <small>(2‑43‑14)</small>
 
-'1104' 9^th^ Battalion 
+Service Number: 1104. 9^th^ Battalion 
 
 Joseph was born in Brisbane to Thomas Barnes and Elizabeth Louisa Blacker in 1887. He enlisted 11 September 1914 at Enoggera and embarked from Melbourne 22 December 1914 per *HMAT Themistocles A32*. He was killed in action 2 May 1915 on the attack on Gaba Tepe and buried at Lone Pine Cemetery.
 
 ## Private Louis Walter Barnes <small>(2‑43‑14)</small>
 
-'1822' 25^th^ Battalion
+Service Number: 1822. 25^th^ Battalion
  
 Louis was a brother of Joseph and enlisted 25 February 1915 and embarked from Sydney on 20 August 1915 on *HMAT Shropshire A9*. He survived Gallipoli and arrived in France 19 March 1916 and was killed in action on 3 August 1916. No record exists of burial.
 
 ## Private John James Bennett <small>(2‑43‑13)</small>
 
-'2327' 49^th^ Battalion 
+Service Number: 2327. 49^th^ Battalion 
 
 John was born in Brisbane to James Bennett and Elizabeth Guilfoyle in 1897. He enlisted 28 May 1915 and embarked 20 August 1915 on *A9 HMAT Shropshire*. He returned to Australia per *Margha* arriving 8 February 1919 and passed away 1967 and was laid to rest by himself.
 
 ## Private Norman Lister Freeman <small>(2‑43‑24/25)</small>
 
-'3051' 55^th^ Australian Imperial Force 
+Service Number: 3051. 55^th^ Australian Imperial Force 
 
 Norman was born in Townsville to Walter Alfred Freeman and Emma Tomkins in 1891. He enlisted on 13 August 1915 at Warwick Farm NSW and embarked on 8 October 1915 on *A69 HMAT Warilda* and taken on strength Tel el Kebir 5 February 1916. Arrived France 29 June 1916, head wound and captured 20 July 1916 and died as POW 24 July 1916 and buried Haubourdin Cemetery. After the war exhumed and laid to rest plot 16 row C grave 8 Cabaret Rouge British Cemetery France.
 
 ## Driver James Archibald Henry Bennett <small>(2‑24‑29/30)</small>
 
-'9' 41^st^ Battalion 
+Service Number: 9. 41^st^ Battalion 
 
 Born in Brisbane to Henry Bennett and Euphemia Archibald 18 October 1892. He enlisted 22 November 1915 in Brisbane and embarked 18 May 1916 from Sydney on *HMAT Demosthenes A64*, arrived England 20 July 1916 and in France 24 November 1916. He died of "Broncho Pneumonia" on 29 November 1918 and laid to rest Abbeville Cemetery.
 
 ## Private Roy Nestor Sinclair Brown <small>(2A‑22‑11)</small>
 
-'4984' 49^th^ Battalion 
+Service Number: 4984. 49^th^ Battalion 
 
 Born to Charles Allen Brown and Louisa Coomber in 1890. One of 12 children. Enlisted 24 November 1915 Embarked 4 May 1916 HMAT Seang Choon A49.
 Badly wounded 11 October 1917 GSW head and died of wounds 21 October 1917 at 27 years of age France. Laid to rest 22 October 1917 British Military Cemetery, Etaples, Nord Pas de Calais, France plot v.483
 
 ## Driver George Lewis Brown <small>(2‑44‑26/27/28)</small>
 
-'27' 1^st^ Light Horse Brigade 
+Service Number: 27. 1^st^ Light Horse Brigade 
 
 Enlisted 20 August 1914 Brisbane Embarked 2417 September 1914 *HMAT Omrah A5*. Returned to Australia on the Kyarra and discharged on medical grounds 4 April 1915 and passed away 5.50AM on 12 July 1920 and laid to rest 13 July 1920 in family grave in Toowong cemetery.
 
@@ -104,19 +104,19 @@ Born 25 October 1880 Mt Perry to Octavious Armstrong and Jessie Augusta Frances.
 
 ## Private Algernon Cedric Francis <small>(2‑37‑31/32)</small>
 
-'4435' 25^th^ Battalion 
+Service Number: 4435. 25^th^ Battalion 
 
 Algernon was born in Cunnamulla to Christopher Francis and Emilie Jane Everett in 1896. He enlisted 30 November 1915 and embarked 31 March 1916 from Sydney on *HMAT Star of Victoria A16*. He arrived in France 27 July 1916 and was killed in action 18 November 1916 aged 20 years and 11 months. He is buried in Warlencourt British Cemetery p3, r F g 6
 
 ## Private William Rich Saile <small>(2A‑22‑11)</small>
 
-'3930' 1^st^ Pioneers 9^th^ Battalion 
+Service Number: 3930. 1^st^ Pioneers 9^th^ Battalion 
 
 Born Annandale NSW to Richard Saile and Annie M 1893. He enlisted Brisbane 16 August 1915 and embarked 30 October 1915 on *HMAT Itonus A50* from Brisbane. Killed in action 25 July 1916 France and laid to rest Villers-Bretonneux
 
 ## Sapper Norman Kinamond Harvey <small>(2‑47‑38)</small>
 
-'4439' 2^nd^ Division Signals Company 
+Service Number: 4439. 2^nd^ Division Signals Company 
 
 Born in Fitzroy to John Henry Harvey and Henrietta Kinamond Fairbairn. Enlisted 23 November 1915. Embarked at Sydney on *HMAT Nestor A71* on 9 April 1916 and coincidentally returned to Australia via the same ship 1 November 1919.
 

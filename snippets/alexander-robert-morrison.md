@@ -1,6 +1,6 @@
 ## Alexander Robert Morrison <small>(10‑76‑16)</small>
 
-Service number: 3680 Australian Imperial Force
+Service number: 3680. Australian Imperial Force
 
 He was born in Aberdeen 9^th^ July 1885 to Alexander Robert Morrison and Margaret Gordon. His service papers show he was a carter and 
 joined up 2 June 1917, intended to be with the 10^th^ reinforcements for the 47th Battalion and the War Office decided the 25^th^ could do with him and finally they gave him to the 9^th^ Battalion. Next of Kin was his wife of 9 years Emily Elizabeth Morrison nee Lake Merivale St. South Brisbane. 
