@@ -42,7 +42,11 @@ On 18 August 1918 during operations on the Somme, Greer’s Platoon commander wa
 
 Gunner Webster has the dubious distinction of being the only fatality of the ‘Battle of Brisbane’ which broke out on the 26 November 1942 with US Military personnel on one side and Australian servicemen and civilians on the other. Tension had been brewing since the large scale arrival of the American troops who where generally better paid and fed than their Australian counterparts. By 8pm over 5000 people were involved in the disturbance. By 10pm, Gunner Webster had died of a gunshot wound, eight others were similarly injured, and several hundred others received minor injuries. Private Norbert Grant was court‑martialled by the US military for firing the fatal shot but was acquitted on the grounds of self defence. Reporting of the event was censored leading the rumours of many dead sweeping the suburbs of Brisbane.
 
-## Able Seaman Archibald Edward Bartsch <small>(10‑44‑20)</small>, Warrant Officer Henry Theeman <small>(10‑41‑21)</small>, Steward Eric Ross Harrison <small>(10‑43‑7)</small>
+## Able Seaman Archibald Edward Bartsch <small>(10‑44‑20)</small>
+
+## Warrant Officer Henry Theeman <small>(10‑41‑21)</small>
+
+## Steward Eric Ross Harrison <small>(10‑43‑7)</small>
 
 On 4 March 1942, the auxiliary minesweeper HMAS Tambar was fired on by the Examination Battery at Fort Cowan Cowan on Moreton Island. The military covered up the incident so as not to affect morale. The Tambar’s crew was dispersed throughout the RAN immediately after the men’s joint funeral two days later. The ship was temporarily paid off and the Captain given another command. The service was conducted by the Rev. H. H. Trigge of the Methodist Church and the Church of England’s Rev. F. R. C. Birch. Cannon and Cripps arranged the funeral.
 
