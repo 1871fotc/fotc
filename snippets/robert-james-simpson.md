@@ -66,6 +66,5 @@ https://trove.nla.gov.au/newspaper/article/79617075?searchTerm=Captain%20Clohert
 
 ### Valentine Cloherty
 
-- https://trove.nla.gov.au/newspaper/article/21293231?searchTerm=Valentine%20Cloherty - Valentine buried at T.C.; Died Thursday Island 3/6/1927
+- https://trove.nla.gov.au/newspaper/article/21293231?searchTerm=Valentine%20Cloherty - Valentine buried at T.C.; Died Thursday Island 3 June 1927
 - https://trove.nla.gov.au/newspaper/article/237935491?searchTerm=Valentine%20Cloherty - Compensation. Cause of death Adopted Daughter
-- 
