@@ -1,6 +1,6 @@
 ---
 title: Rich man, Poor man
-description: A historic walk around Toowong Cemetery
+description:Stories about the rich and the poor in Toowong Cemetery
 author: Lyn Maddock
 date: 2/5/2021
 hide:

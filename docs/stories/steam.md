@@ -1,6 +1,6 @@
 ---
 title: Steam
-description: A historic walk around Toowong Cemetery discovering its connections to steam
+description: Stories about steam and its connections to Toowong Cemetery
 author: Lyn Maddock
 date: 3/10/2021
 hide:

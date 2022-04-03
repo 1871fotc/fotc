@@ -77,7 +77,7 @@ Two sailors from the Netherlands Merchant Navy are also buried at Toowong Cemete
 
 ## Acknowledgements 
 
-The Lest We Forget Naval Walk was first conducted as part of a Remembrance Day Service on 6 November 2011 at the Toowong Cemetery. 
+The Lest We Forget Naval guided tour was first conducted as part of a Remembrance Day Service on 6 November 2011 at the Toowong Cemetery. 
 
 The service was performed by Celebrant, Judy Magub, and Commander Tony Roper, RANR. 
 

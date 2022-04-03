@@ -1,7 +1,7 @@
 
 ## Isaac Walter Jenner <small>(5‑43‑16)</small>
 
-<!-- TODO  Walter Isaac Jenner in Extraordinary Sorties -->
+<!-- TODO  Walter Isaac Jenner in Extraordinary Stories -->
 
 Jenner was born on 18 March 1837 at Brighton, Sussex, son of Thomas Jenner, blacksmith, and his wife Harriet, née Walter. Without known formal education, he worked on oyster boats and signed on for a voyage in Arctic waters. In March 1855 he joined the Royal Navy, serving during the Crimean War in the Black Sea. Discharged in 1865, he learned to paint and worked as a landscape and marine painter in 1873‑79 at Brighton and at Hove in 1880‑83. He exhibited at Brighton and once at the Royal Academy. He decided to migrate and reached Brisbane by R.M.S. Roma on 19 September 1883.
 

@@ -1,6 +1,6 @@
 ---
 title: Notable Women
-description: A historic walk about women who shaped Queensland
+description: Stories about women who shaped Queensland
 hide:
   - navigation
 ---

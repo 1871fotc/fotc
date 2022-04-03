@@ -1,6 +1,6 @@
 ---
 name: Railway People
-description: A heritage walk remembering railway people buried in Toowong Cemetery
+description: Stories remembering railway people buried in Toowong Cemetery
 date: 7 August 2016
 hide:
   - navigation

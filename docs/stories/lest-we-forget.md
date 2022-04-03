@@ -28,7 +28,7 @@ This portion contains numerous Commonwealth War Graves. Flowers were cultivated 
 
 ## Private Hugh Vernon Brookes MM <small>(10‑71‑8)</small>
 
-Private Brookes enlisted in the AIF in September 1915 and was deployed with the 49^th^ Battalion to France via Alexandria. He was awarded the Military Medal on 24 January 1917 for “bravery in the Field”. Shortly afterwards he was docked two day’s pay for being Absent Without Leave. This wasn’t the last time Brookes was AWOL. In June 1918, he was wounded in action and gassed. He was transferred to hospital in England. At Salisbury, in September, he was court martialled for being in possession of a false leave pass and sentenced to two months detention and forfeited 25 days pay. While serving his time, Armistice was declared and Brookes was discharged in Brisbane in April 1919.
+Private Brookes enlisted in the AIF in September 1915 and was deployed with the 49^th^ Battalion to France via Alexandria. He was awarded the Military Medal on 24 January 1917 for “bravery in the Field”. Shortly afterwards he was docked two day’s pay for being Absent Without Leave. This wasn’t the last time Brookes was AWOL. In June 1918, he was wounded in action and gassed. He was transferred to hospital in England. At Salisbury, in September, he was court martialed for being in possession of a false leave pass and sentenced to two months detention and forfeited 25 days pay. While serving his time, Armistice was declared and Brookes was discharged in Brisbane in April 1919.
 
 ## Private Walter Staines MM <small>(10‑62‑18)</small>
 
@@ -57,7 +57,7 @@ There was a mix up in the identification code signal of the ship and the battery
 
 ## Acknowledgements
 
-The Lest We Forget guide walk was first conducted as part of the Remembrance Day Service on the 7 November 2010. 
+The Lest We Forget guided tour was first conducted as part of the Remembrance Day Service on the 7 November 2010. 
 
 The Address was given by Rod Schafferius.
 

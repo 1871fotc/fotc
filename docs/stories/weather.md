@@ -1,7 +1,7 @@
 ---
 date: 6 May 2018
 title: At the mercy of the weather
-description: A walk about people who where impacted by major weather events
+description: Stories about people in Toowong Cemetery that were impacted by the weather
 author: Lyn Maddock
 hide:
   - navigation
