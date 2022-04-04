@@ -19,6 +19,11 @@ Other Queensland issues in the federation debate included Queensland’s use of 
 
 Despite many arguments against federation, the Federal Referendum on the 2^nd^ of September 1899 narrowly voted in favour of Queensland's joining the new nation. Interestingly, the south-east corner of the colony was against Federation.
 
+![Crowds looking at the results board at the Courier Building on Referendum Night, Brisbane, Queensland, 1889](../assets/federation-referendum-results-1889.jpg)
+
+*<small>[Crowds looking at the results board at the Courier Building on Referendum Night, Brisbane, Queensland, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21297968950002061) - State Library of Queensland </small>* 
+
+
 
 ## Before you start the walk
 
@@ -83,6 +88,11 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 ???+ directions "Directions" 
 
     Retrace your steps along Federation Avenue then return down the hill to the starting point.
+
+
+![Federation celebrations in Queen Street, Brisbane, 1901](../assets/federation-celebrations-1901.jpg){ width="70%" }  
+
+*<small>[Federation celebrations in Queen Street, Brisbane, 1901](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218848990002061) - State Library of Queensland </small>*     
 
 ## Further Reading
 
