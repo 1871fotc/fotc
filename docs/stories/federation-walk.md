@@ -4,11 +4,12 @@ search:
 date: 22 August 2000
 hide:
   - navigation
+icon: fontawesome/solid/person-walking
 ---
 
-# The Federation Trail 
+# The Federation Walk 
 
-The Federation Trail was produced by the Friends of Toowong Cemetery as a Centenary of Federation project to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
+The Federation Walk was produced by the Friends of Toowong Cemetery as a Centenary of Federation project to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
 
 The National Australasian Convention was held in Sydney from the 2^nd^ of March to the 9^th^ of April 1891. The convention was attended by seven delegates from each of the six colonies and three delegates from New Zealand. The Queensland delegates were John Donaldson, Sir Samuel Griffith, John Macrossan, Thomas Macdonald- Paterson, Thomas McIlwraith, Arthur Rutledge and Andrew Thynne. Significant outcomes from this convention included agreement of the name Commonwealth of Australia and more importantly, the production of a draft constitution. Sir Samuel Griffith was Chairman of the committee responsible for writing the draft constitution.
 
@@ -18,23 +19,34 @@ Other Queensland issues in the federation debate included Queensland’s use of 
 
 Despite many arguments against federation, the Federal Referendum on the 2^nd^ of September 1899 narrowly voted in favour of Queensland's joining the new nation. Interestingly, the south-east corner of the colony was against Federation.
 
-![Federation Trail map](../assets/federation-trail-map.png){ width="50%" } 
+
+## Before you start the walk
+
+Before you start the work, please read the Brisbane City Council Cemeteries - Conditions of Entry. 
+
+--8<-- "snippets/conditions-of-entry.md"
+
+Please wear comfortable shoes, use sun protection, and carry water.
+
+## The Federation Walk
+
+![Federation Walk map](../assets/federation-walk.png){ width="50%" } 
 
 ???+ directions "Directions" 
 
     - Start behind Canon Garland Place in Emma Miller Avenue.  
     - Enter the portion on the path between the graves of Pethebridge and Thurlow. 
     
-    ![Federation Trail start](../assets/federation-trail-start.jpg){ width="15%" } 
+    ![Federation Walk start](../assets/federation-walk-start.jpg){ width="15%" } 
     
     - Head straight up the hill towards Governor Blackall’s monument.
-    - Rutledge is half way up and just off to the left (Map Number 1.)
+    - Sir Arthur Rutledge's headstone is half way up and just off to the left (Map Number 1.)
     
     ![Sir Arthur Rutledge's headstone](../assets/arthur-rutledge-headstone.jpg){ width="15%" } 
 
 --8<-- "snippets/arthur-rutledge.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Continue up the hill until you reach the Uhl family monument. Turn right and follow the path until you reach a wide path sloping from the top. Turn left and walk directly towards the Blackall Monument. Here you will find the Federation Pavilion (Map Number 2.)
 
@@ -44,7 +56,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 The Commonwealth of Australia was inaugurated under a pavilion erected for the occasion in Sydney’s Centennial Park. [Our pavilion](../about/federation-pavilion.md), designed by Brisbane architect Ian Sinnamon, honours the Queensland delegates to the 1891 National Australasian Convention who are interred nearby. It was funded by the Federation Community Projects Program and construction was arranged by the Brisbane City Council Cemeteries Division.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     The pavilion is adjacent to the grave of Sir Samuel Griffith. (Map Number 3.)
     
@@ -52,23 +64,23 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 --8<-- "snippets/samuel-walker-griffith.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
-    Proceed along Federation Avenue to Map Number 4. The next two graves are on the right.
+    Proceed along Federation Avenue to Map Number 4. John Donaldson's headstone is on the right.
     
     ![John Donaldson's headstone](../assets/john-donaldson-headstone.jpg){ width="15%" } 
 
 --8<-- "snippets/john-donaldson.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
-    Proceed along Federation Avenue to Map Number 5. The next grave is on the right.
+    Proceed along Federation Avenue to Map Number 5. Thomas Macdonald‑Paterson's headstone is on the right.
     
     ![Thomas Macdonald‑Paterson's headstone](../assets/thomas-macdonald‑paterson-headstone.jpg){ width="15%" } 
 
 --8<-- "snippets/thomas-macdonald‑paterson.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Retrace your steps along Federation Avenue then return down the hill to the starting point.
 
@@ -84,9 +96,10 @@ Research: Sally McGrath
 
 Layout and map: Hilda Maclean 
 
-Cover drawing: Jeff Turner
+<!-- Cover drawing: Jeff Turner 
 
 Photographs reproduced with permission of [John Oxley Library](https://www.slq.qld.gov.au/plan-my-visit/spaces-visit/john-oxley-library). 
+--> 
 
 Federation Pavilion funded by Federation Community Projects Program.
 

@@ -11,10 +11,11 @@ The Friends of Toowong Cemetery have researched and published **over 500 stories
 
 Read one of our **themed story collections** below, or **[find an individual story](../research/find-a-story.md)**.
 
+Stories marked with :fontawesome-solid-person-walking: are self-guided walks with maps and directions. 
+
 ## Politics
 
-<!-- TODO **[The Federation Trail][federation-trail]** - commemorating four Queensland delegates to the 1891 National Australasian Convention -->
-
+- **[The Federation Walk][federation-walk]** :fontawesome-solid-person-walking: - commemorating four Queensland delegates to the 1891 National Australasian Convention
 - **[Governors][governors-past]** - visit some of Queensland's earliest Governors
 - **[Brisbane Mayors][brisbane-mayors]** - learn about 14 Brisbane Mayors from 1859 to 1931
 - **[One Adult, One Vote][suffrage]** - Queensland's own suffrage story 
@@ -64,7 +65,7 @@ Read one of our **themed story collections** below, or **[find an individual sto
 
 <!-- **[The Jewish][jewish]**  -->
 
-## Themed walks
+## Other themed stories
 
 - **[Steam](steam.md)** 
 - **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
@@ -95,7 +96,7 @@ Missing Walks
 
 <!-- links to pages or pdfs -->
 
-[federation-trail]: federation-trail.md
+[federation-walk]: federation-walk.md
 [governors-past]: governors-past.md
 [brisbane-mayors]: brisbane-mayors.md
 [labor-luminaries]: labor-luminaries.md

@@ -179,7 +179,8 @@ nav:
   - History: history.md
   - Stories:
     - Stories: stories/index.md
-# Politics    
+# Politics
+    - The Federation Walk: stories/federation-walk.md
     - Governors: stories/governors-past.md 
     - Brisbane Mayors: stories/brisbane-mayors.md
     - One Adult, One Vote: stories/suffrage.md
@@ -209,13 +210,16 @@ nav:
     - Founding Fathers: stories/founding-fathers.md     
     - Notable Women: stories/notable-women.md    
     - Toowong Identities: stories/toowong-identities-1.md 
-    - More Toowong Identities: stories/toowong-identities-2.md 
+    - More Toowong Identities: stories/toowong-identities-2.md
+#    - Walk 1: walks/bcc-walk-1.md
+#    - Walk 2: walks/bcc-walk-2.md
 # Birds of a feather    
     - Children: stories/children.md 
     - Convicts: stories/convict-connections.md   
     - The Irish: stories/irish.md 
     - The Lutheran: stories/lutheran.md
-# Other walks 
+#    - The Jewish: walks/jewish.md 
+# Other stories 
     - Steam: stories/steam.md
     - Building Brisbane: stories/brisbane-open-house.md      
     - Prospectors: stories/prospectors.md    
@@ -243,14 +247,7 @@ nav:
     - Research Resources: research/research.md
     - Find a Grave: research/find-a-grave.md  
     - Find a Story: research/find-a-story.md
-  - Guided Tours: guided-tours.md
-#  - Walks: 
-#    - Walks: walks/index.md
-#    - The Federation Trail: walks/federation-trail.md
-#    - Walk 1: walks/bcc-walk-1.md
-#    - Walk 2: walks/bcc-walk-2.md
-#    - The Jewish: walks/jewish.md 
-#    - Toowong Cemetery Remembrance Walk: walks/rememberance-walk.md     
+  - Guided Tours: guided-tours.md  
   - About Us: 
     - About Us: about/index.md
     - Publications: about/publications.md
