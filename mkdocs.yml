@@ -168,9 +168,8 @@ plugins:
 #  - privacy:
 #      externals: bundle
 # comment out for local builds as cannot resolve missing dependencies
+#
   - social
-#
-#
 #
 
 # Page tree - only 2 levels allowed
@@ -179,6 +178,8 @@ nav:
   - History: history.md
   - Stories:
     - Stories: stories/index.md
+#    - Toowong Cemetery walk 1: stories/toowong-cemetery-walk-1.md
+#    - Toowong Cemetery walk 2: stories/toowong-cemetery-walk-2.md
 # Politics
     - The Federation Walk: stories/federation-walk.md
     - Governors: stories/governors-past.md 
@@ -194,6 +195,7 @@ nav:
     - Scots in the AIF: stories/scots-in-the-aif-ww1.md
     - 1919 Soldiers: stories/1919-soldiers.md
     - Conflict and Compassion: stories/conflict-and-compassion.md
+#    - Toowong Cemetery Remembrance Walk: stories/remembrance-walk.md
 # Professions    
     - Artists: stories/artists.md 
     - Health Professionals: stories/in-their-caring-hands.md
@@ -211,14 +213,12 @@ nav:
     - Notable Women: stories/notable-women.md    
     - Toowong Identities: stories/toowong-identities-1.md 
     - More Toowong Identities: stories/toowong-identities-2.md
-#    - Walk 1: walks/bcc-walk-1.md
-#    - Walk 2: walks/bcc-walk-2.md
 # Birds of a feather    
     - Children: stories/children.md 
     - Convicts: stories/convict-connections.md   
     - The Irish: stories/irish.md 
     - The Lutheran: stories/lutheran.md
-#    - The Jewish: walks/jewish.md 
+#    - The Jewish: stories/jewish.md 
 # Other stories 
     - Steam: stories/steam.md
     - Building Brisbane: stories/brisbane-open-house.md      

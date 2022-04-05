@@ -1,21 +1,26 @@
 ---
+title: Stories
+description: Stories about the people remembered in Toowong Cemetery
 search:
   boost: 2
 ---
 
 --8<-- "snippets/hide-nav.html"
 
-# Stories
+# Toowong Cemetery Stories
 
 The Friends of Toowong Cemetery have researched and published **over 500 stories** about people remembered at the cemetery. 
 
 Read one of our **themed story collections** below, or **[find an individual story](../research/find-a-story.md)**.
 
-Stories marked with :fontawesome-solid-person-walking: are self-guided walks with maps and directions. 
+Stories marked with :fontawesome-solid-person-walking: are **self-guided walks** with maps and directions. 
 
+<!-- - **[Toowong Cemetery self-guided walk 1](toowong-cemetery-walk-1.md)** :fontawesome-solid-person-walking: -->
+<!-- - **[Toowong Cemetery self-guided walk 2](toowong-cemetery-walk-2.md)** :fontawesome-solid-person-walking: -->
+  
 ## Politics
 
-- **[The Federation Walk][federation-walk]** :fontawesome-solid-person-walking: - commemorating four Queensland delegates to the 1891 National Australasian Convention
+- **[The Federation walk][federation-walk]** :fontawesome-solid-person-walking: - commemorating four Queensland delegates to the 1891 National Australasian Convention
 - **[Governors][governors-past]** - visit some of Queensland's earliest Governors
 - **[Brisbane Mayors][brisbane-mayors]** - learn about 14 Brisbane Mayors from 1859 to 1931
 - **[One Adult, One Vote][suffrage]** - Queensland's own suffrage story 
@@ -55,6 +60,7 @@ Stories marked with :fontawesome-solid-person-walking: are self-guided walks wit
 - **[Notable Women][notable-women]** - Women who shaped Queensland
 - **[Toowong Identities][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
 - **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
+
 
 ## Birds of a feather 
 

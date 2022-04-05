@@ -3,14 +3,16 @@ search:
   exclude: true
 hide:
   - navigation
+icon: fontawesome/solid/person-walking
 ---
 
 
-# Toowong Cemetery Tour Two 
-
-## Conditions of entry
+# Toowong Cemetery self-guided walk  Two 
 
 Part of the appeal and character of the old Toowong Cemetery is its hills and valleys, dotted with shady trees. To ensure you enjoy your visit we encourage visitors to wear comfortable shoes, use sun protection, carry water and above all, enjoy this pleasant and informative walk through a chapter of Brisbane’s history.
+
+--8<-- "snippets/conditions-of-entry.md"
+
 
 ## Welcome to Toowong Cemetery
 

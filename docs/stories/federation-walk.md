@@ -25,7 +25,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 ## Before you start the walk
 
-Before you start the work, please read the Brisbane City Council Cemeteries - Conditions of Entry. 
+Before you start the walk, please read the Brisbane City Council Cemeteries - Conditions of Entry. 
 
 --8<-- "snippets/conditions-of-entry.md"
 

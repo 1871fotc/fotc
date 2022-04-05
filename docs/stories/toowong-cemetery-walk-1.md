@@ -3,6 +3,7 @@ search:
   exclude: true
 hide:
   - navigation
+icon: fontawesome/solid/person-walking  
 ---
 
 # Toowong Cemetery self-guided walk one 
@@ -20,6 +21,17 @@ Land set aside in 1865 as a cemetery reserve was affirmed as Brisbane General Ce
 Victorian’s love of ancient symbolism is reflected in the designs of their monuments. Throughout Toowong Cemetery you will notice symbols of hope and immortality, such as ivy; clasped hands suggesting farewell or reunion; and urns and obelisks inspired by a revived interest in Egyptian, Greek and Roman symbolism. Monuments also reflect prevailing architectural styles and building materials. Just as the Victorian attention to detail and ornamentation has given way to function and simplicity in architecture, modern headstones have become more subdued, losing much of the extravagance and elegance of 19th Century monuments.  
 
 More information on the [symbolism used in Victorian era cemeteries](../headstones/symbols.md) like Toowong Cemetery can be found at the Cemetery Office and at the display at Portion 2.
+
+
+## Before you start the walk
+
+Before you start the walk, please read the Brisbane City Council Cemeteries - Conditions of Entry. 
+
+--8<-- "snippets/conditions-of-entry.md"
+
+Please wear comfortable shoes, use sun protection, and carry water.
+
+## Toowong Cemetery self-guided walk one
 
 Before starting, you may like to download the [Toowong Cemetery map](../assets/toowong_map.jpg). 
 <!-- Seek permission to annotate the map showing the walk -->
