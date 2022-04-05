@@ -3,7 +3,6 @@ title: Friends of Toowong Cemetery
 description: Discover and share the history and stories of Toowong Cemetery
 hide:
   - navigation
-  - toc
 ---
 
 --8<-- "snippets/metadata-home.json"
@@ -35,7 +34,7 @@ The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.q
 
 ![Toowong Cemetery Main Entrance][main-entrance]{ width="70%" }
 
-*<small>Toowong Cemetery Main Entrance off Frederick Street</small>*
+*<small>Toowong Cemetery Main Entrance off Frederick Street were designed by the Colonial Architect [F.D.G. Stanley](research/francis-drummond-grenville-stanley/) and were erected in 1873-1874</small>*
 
 ### Driving
 
