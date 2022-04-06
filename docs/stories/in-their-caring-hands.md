@@ -24,51 +24,35 @@ Mary Weedon, who trained at London’s Charing Cross Hospital, was the first hea
 
 --8<-- "snippets/edith-harriett-rennie.md"
 
-## Nina Robertson McDonald <small>(10‑68‑31)</small>
+--8<-- "snippets/nina-robertson-mcdonald.md"
 
-Nina McDonald graduated from the Royal Brisbane Hospital in 1915. She became a Staff Nurse with the Australian Infantry Force. She died on the 11 May 1934, sadly missed by her mother, Catherine McDonald, brother and sister.
+--8<-- "snippets/elsie-muriel-jones.md"
 
-## Elsie Muriel Jones <small>(10‑45‑24)</small>
+--8<-- "snippets/julia-harriett-blaycock.md"
 
-Elsie Jones was known by her maiden name, Sister King, when she nursed for the Australian Infantry Force. She subsequently married and had a son and a daughter. She was [awarded the Order of the British Empire - Member (Civil)](https://www.womenaustralia.info/exhib/honours/1938.html) in 1938. Elsie died on the 17 May 1942 aged 53.
+--8<-- "snippets/alice-maud-mary-le-bas.md"
 
-<!-- http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218814090002061 -->
-
-## Julia Harriett Blaycock <small>(10‑14‑6)</small>
-
-Julia Blaycock, daughter of Richard and Ann Hayward was a member of the ATNA. She died on the 11 September 1916 aged 34.
-
-## Alice Maud Mary Le Bas <small>(1‑39‑14)</small>
-
-Alice Le Bas, daughter of Frederick and Mary Le Bas, was a nurse at the Brisbane Hospital. She died on the 25 September 1886.
-
-## Emily Owen <small>(1‑39‑5)</small>
-
-Emily Owen was an immensely popular and respected nurse at the Brisbane Hospital. She died, unmarried, aged only 23 of typhoid fever contracted doing her duties on 24 May 1885. Her headstone was erected by the nurses and employees of the hospital where she worked, grateful patients and bereaved friends
+--8<-- "snippets/emily-owen.md"
 
 <!-- page -->
 
-## Mary Constance Crosse <small>(1‑39‑15)</small>
+--8<-- "snippets/mary-constance-crosse.md"
 
-Mary Crosse, who graduated in 1888, died aged 28 on 28 October 1890, was also a nurse at the Brisbane Hospital. Fellow nurses and patients erected her headstone. She was the daughter of Thomas and Jane Crosse.
+--8<-- "snippets/james-gray.md"
 
-## James Gray <small>(2‑37‑14)</small>
-
-Patient James Gray of Forest Hill, via Brisbane, died on 22 January 1906 aged 52. His headstone describes his death. His last days were spent in Brisbane Hospital and while there suffering from a painful and incurable disease, he bequeathed to that institution the savings of his lifetime in gratitude for its comforting ministrations.
-
-## Florence Truelove <small>(2‑44‑31)</small>
-
-Little is known of Florence Truelove other than that she had trained as a nurse and died on 12 March 1896. She was the daughter of John and Emma Truelove.
+--8<-- "snippets/florence-truelove.md"
 
 --8<-- "snippets/rose-jane-walker.md"
 
-## Sarah Stevens Lygo <small>(5‑38‑7)</small>
-
-Sarah Lygo was the fifth daughter of Richard and Martha Harriett Lygo of Kent, England. Her nursing qualifications were certified by the ATNA. She died aged 69 on 9 July 1928.
+--8<-- "snippets/sarah-stevens-lygo.md"
 
 --8<-- "snippets/arthur-charles-frederick-halford.md"
 
 --8<-- "snippets/vera-evelyn-james.md"
+
+
+
+
 
 
 ## Mary Jane Brown <small>(5‑63‑24)</small>
