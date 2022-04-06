@@ -47,6 +47,8 @@ Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home
 
 Mary Weedon was the first head nurse of the Brisbane Hospital, holding the position for five years from 1885. She and her friend, Annie Griffiths, shared a house called *Garton* in Terrace Street, Toowong for many years. They were also members of the congregation of St Thomas Anglican Church. They died within eighteen months of each other; Mary in March 1942 and Annie in July 1943.
 
+<!-- also in caring hands story -->
+
 <!--
 ??? directions "Directions" 
 
@@ -91,7 +93,7 @@ The Johnsons lived in a house called *Castle Rawe*, Toowong. Harriet died in 191
 
 ## Walter Horatio Wilson (1‑84‑22) and Walter Frederick Wilson (1‑85‑8)
 
-W. H. Wilson was a member of the Queensland Legislative Council, Minister of Justice, Secretary of Public Instruction, and Postmaster‑General in a varied political career. He was a founding member of the Anglican Church in Toowong in 1866 and found time to be elected to the Toowong Shire Council in 1884. He was also a Companion of the Order of St Michael and St George. He died at his Toowong home, Sherwood Grove, in February 1902, aged 62. 
+W. H. Wilson was a member of the Queensland Legislative Council, Minister of Justice, Secretary of Public Instruction, and Postmaster‑General in a varied political career. He was a founding member of the Anglican Church in Toowong in 1866 and found time to be elected to the Toowong Shire Council in 1884. He was also a Companion of the Order of St Michael and St George. He died at his Toowong home, *Sherwood Grove*, in February 1902, aged 62. 
 
 Walter F. Wilson, Master of Arts, was elected to the Toowong Shire Council in 1886. A member of the Lands Court, Walter F. Wilson died at his home, *[Dovercourt](https://heritage.brisbane.qld.gov.au/heritage-places/1709)*, which still stands, aged 48 in 1911.
 
