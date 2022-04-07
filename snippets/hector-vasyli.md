@@ -4,4 +4,6 @@ On Sunday 9 June 1918 a procession of returned servicemen conveyed by motor vehi
 
 W. J. Jackson, a local produce merchant was the driver of one of the cars. As vehicles ahead of him began to slow down he swerved to avoid a collision. His car went toward the side of the road and struck Hector. The Courier reported that he had *"perfect control of the car"* as he was able to pull it up swiftly after realising what he'd done. Jackson quickly picked up the boy and sped off to St. Helen's hospital. Medical assistance was not immediately obtainable so they left and headed to the Mater Misericordia Public Hospital. It was too late; Hector had succumbed to his injuries (which included a skull fracture, compound fracture to the right arm, and other minor injuries).
 
-The papers were quick to emancipate Jackson stating, *"The tragic occurrence was quite unavoidable and Mr. Jackson did everything to avoid the fatal consequences."*
+The [papers were quick to emancipate Jackson](https://trove.nla.gov.au/newspaper/article/20230566) stating, *"The tragic occurrence was quite unavoidable and Mr. Jackson did everything to avoid the fatal consequences."*
+
+<!-- TODO add https://trove.nla.gov.au/newspaper/article/188933214 -->
