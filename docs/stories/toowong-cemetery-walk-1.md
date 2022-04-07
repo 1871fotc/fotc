@@ -10,15 +10,13 @@ icon: fontawesome/solid/person-walking
 
 Part of the appeal and character of the old Toowong Cemetery is its hills and valleys, dotted with shady trees. To ensure you enjoy your visit we encourage visitors to wear comfortable shoes, use sun protection, carry water and above all, enjoy this pleasant and informative walk through a chapter of Brisbane’s history.
 
---8<-- "snippets/conditions-of-entry.md"
-
 ## Welcome to Toowong Cemetery
 
-Old cemeteries reflect aspects of our social, religious, folk, architectural and literary history not found in such a combination in any other place. Public cemeteries were first established in the 19th Century as churchyard burial grounds became overcrowded.
+Old cemeteries reflect aspects of our social, religious, folk, architectural and literary history not found in such a combination in any other place. Public cemeteries were first established in the 19^th^ Century as churchyard burial grounds became overcrowded.
  
 Land set aside in 1865 as a cemetery reserve was affirmed as Brisbane General Cemetery on 10 October 1870 when the appointed trustees met for the first time after Governor Blackall’s wish to be buried there. Toowong Cemetery’s first burial occurred on 3 January 1871 and until its official opening in July 1875, only six people were buried there. People were reluctant to use the remote cemetery through lack of public transport, meaning they faced an arduous and expensive seven kilometre journey by horse-drawn carriages along dirt roads. Today, the 44 hectare site is the final resting place for more than 119,000 people. Funerals in the Victorian era were a grand public affair, with coffins carried to the cemetery by horse-drawn hearses, followed by large gatherings of family and friends all dressed in sombre black. Finally, the body was laid to rest under the most elaborate headstone the family could afford.
 
-Victorian’s love of ancient symbolism is reflected in the designs of their monuments. Throughout Toowong Cemetery you will notice symbols of hope and immortality, such as ivy; clasped hands suggesting farewell or reunion; and urns and obelisks inspired by a revived interest in Egyptian, Greek and Roman symbolism. Monuments also reflect prevailing architectural styles and building materials. Just as the Victorian attention to detail and ornamentation has given way to function and simplicity in architecture, modern headstones have become more subdued, losing much of the extravagance and elegance of 19th Century monuments.  
+Victorian’s love of ancient symbolism is reflected in the designs of their monuments. Throughout Toowong Cemetery you will notice symbols of hope and immortality, such as ivy; clasped hands suggesting farewell or reunion; and urns and obelisks inspired by a revived interest in Egyptian, Greek and Roman symbolism. Monuments also reflect prevailing architectural styles and building materials. Just as the Victorian attention to detail and ornamentation has given way to function and simplicity in architecture, modern headstones have become more subdued, losing much of the extravagance and elegance of 19^th^ Century monuments.  
 
 More information on the [symbolism used in Victorian era cemeteries](../headstones/symbols.md) like Toowong Cemetery can be found at the Cemetery Office and at the display at Portion 2.
 
@@ -29,8 +27,6 @@ Before you start the walk, please read the Brisbane City Council Cemeteries - Co
 
 --8<-- "snippets/conditions-of-entry.md"
 
-Please wear comfortable shoes, use sun protection, and carry water.
-
 ## Toowong Cemetery self-guided walk one
 
 Before starting, you may like to download the [Toowong Cemetery map](../assets/toowong_map.jpg). 
@@ -40,7 +36,7 @@ Before starting, you may like to download the [Toowong Cemetery map](../assets/t
 
     Begin the heritage walk at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
     
-    ![Federation Pavilion](../assets/federation-pavilion.jpg){ width="10%" } 
+    ![Federation Pavilion](../assets/federation-pavilion.jpg){ width="15%" } 
 
 
 <!-- insert photo -->
@@ -75,7 +71,7 @@ Cowlishaw’s wife, Charlotte (née Owen) was the second burial in the grave fol
 
     Proceed to the end of the avenue and to the left find the Federation Pavilion. In the area to the left of the pavilion are Sir Charles Lilley and Sir Samuel Walker Griffith.
     
-    ![x](../assets/404.png){ width="10%"} ![](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
+    ![x](../assets/404.png){ width="15%"} ![](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
 
 
 ## Sir Charles Lilley <small>(1830‑1897)</small>
@@ -248,9 +244,9 @@ The Bancroft’s are among Queensland’s most notable medical families. After e
 
     Turn left here and walk the length of the row to the memorial of David Seymour.
 
-## David Seymour <small>(ca.1831‑1916)</small> 
+## David Seymour <small>(ca. 1831‑1916)</small> 
 
-David Thomson Seymour was born at Ballymore Castle, County Galway, Ireland, and educated at Ennis College. He arrived in Brisbane in 1861 as a Lieutenant in a detachment of the 12th Regiment. For a time, Aide‑de‑Camp to the colony’s Governor, Sir George Bowen, he was appointed Commissioner of Police in 1864, a post he held with distinction for 31 years. Commissioner Seymour was responsible for developing and organising the Queensland Police into an effective crime prevention force. He retired in 1895 and passed away on a trip to England and is buried there. His father‑in‑law, Queensland’s last Sheriff’s headstone recovered in an archaeological dig elsewhere in the cemetery has been repaired and placed on the Seymour family grave. His father‑in‑law still rests under Suncorp Stadium.
+David Thomson Seymour was born at Ballymore Castle, County Galway, Ireland, and educated at Ennis College. He arrived in Brisbane in 1861 as a Lieutenant in a detachment of the 12^th^ Regiment. For a time, Aide‑de‑Camp to the colony’s Governor, Sir George Bowen, he was appointed Commissioner of Police in 1864, a post he held with distinction for 31 years. Commissioner Seymour was responsible for developing and organising the Queensland Police into an effective crime prevention force. He retired in 1895 and passed away on a trip to England and is buried there. His father‑in‑law, Queensland’s last Sheriff’s headstone recovered in an archaeological dig elsewhere in the cemetery has been repaired and placed on the Seymour family grave. His father‑in‑law still rests under Suncorp Stadium.
 
 <!‑- insert photo -->
 
@@ -292,9 +288,9 @@ This memorial is for two of the 133 passengers who drowned in the Quetta disaste
 
 Esther Roberts, mother of **William Henry Roberts** who is buried here, was the first teacher in the Moreton Bay settlement. Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. After the death of their son, the Roberts family returned to Sydney in 1834.  
 
-**Peter McCauley** was the son of Private Peter McCauley, who was a member of the 17th Leicestershire Regiment. It was the longest serving regiment in Moreton Bay, having arrived around October 1830 and departed in November 1835. Private McCauley is memorialised at Redcliffe. His wife Mary was Matron of the Brisbane Town Female Factory. Young Peter drowned in the Brisbane River in 1832.
+**Peter McCauley** was the son of Private Peter McCauley, who was a member of the 17^th^ Leicestershire Regiment. It was the longest serving regiment in Moreton Bay, having arrived around October 1830 and departed in November 1835. Private McCauley is memorialised at Redcliffe. His wife Mary was Matron of the Brisbane Town Female Factory. Young Peter drowned in the Brisbane River in 1832.
 
-**Jane Pittard** was the infant daughter of John Pittard, the late Colour Sergeant of the 57th Regiment who drowned in Van Diemen’s Land shortly before his daughter’s birth. Jane’s mother remarried and came to Moreton Bay with Colour Sergeant David Collins, also of the 57th Regiment. Jane died in 1833 and her family returned to Sydney the following year.
+**Jane Pittard** was the infant daughter of John Pittard, the late Colour Sergeant of the 57^th^ Regiment who drowned in Van Diemen’s Land shortly before his daughter’s birth. Jane’s mother remarried and came to Moreton Bay with Colour Sergeant David Collins, also of the 57^th^ Regiment. Jane died in 1833 and her family returned to Sydney the following year.
 
 <!-- insert photo -->
 
@@ -351,7 +347,7 @@ Beneath a rough cross directly behind Edward McGregor lies Able Seaman W.J. Harr
 
 ## Caskey Memorial
 
-Unveiled in May 1902, this is the [first known monument to the South African War](https://apps.des.qld.gov.au/heritage-register/detail/?id=600335) to be erected in Queensland. Lieutenant Caskey, of the 5th Queensland Imperial Bushmen was killed in action in September 1901. This obelisk made of white Helidon sandstone and draped by a shroud, features emblems of Caskey’s teaching career and sporting interests. A rare memorial of the Anglo‑Boer conflict, this monument is a significant reminder of the emerging nationalism and contemporary attitudes to war.  
+Unveiled in May 1902, this is the [first known monument to the South African War](https://apps.des.qld.gov.au/heritage-register/detail/?id=600335) to be erected in Queensland. Lieutenant Caskey, of the 5^th^ Queensland Imperial Bushmen was killed in action in September 1901. This obelisk made of white Helidon sandstone and draped by a shroud, features emblems of Caskey’s teaching career and sporting interests. A rare memorial of the Anglo‑Boer conflict, this monument is a significant reminder of the emerging nationalism and contemporary attitudes to war.  
 
 <!-- insert photo -->
 
