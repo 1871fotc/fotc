@@ -22,14 +22,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 *<small>[Crowds looking at the results board at the Courier Building on Referendum Night, Brisbane, Queensland, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21297968950002061) - State Library of Queensland </small>* 
 
 
-
-## Before you start the walk
-
-Before you start the walk, please read the Brisbane City Council Cemeteries - Conditions of Entry. 
-
 --8<-- "snippets/conditions-of-entry.md"
-
-Please wear comfortable shoes, use sun protection, and carry water.
 
 ## The Federation Walk
 
