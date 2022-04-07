@@ -20,11 +20,6 @@ Victorian’s love of ancient symbolism is reflected in the designs of their mon
 
 More information on the [symbolism used in Victorian era cemeteries](../headstones/symbols.md) like Toowong Cemetery can be found at the Cemetery Office and at the display at Portion 2.
 
-
-## Before you start the walk
-
-Before you start the walk, please read the Brisbane City Council Cemeteries - Conditions of Entry. 
-
 --8<-- "snippets/conditions-of-entry.md"
 
 ## Toowong Cemetery self-guided walk one
