@@ -41,20 +41,11 @@ hide:
 
 --8<-- "snippets/james-archibald-henry-bennett.md"
 
-
-
-
 --8<-- "snippets/roy-nestor-sinclair-brown.md"
 
-
-
 --8<-- "snippets/george-lewis-brown.md"
-<!-- TODO not in index -->
 
 --8<-- "snippets/francis-leofric-armstrong.md"
-<!-- TODO not in index -->
-
-
 
 --8<-- "snippets/algernon-cedric-francis.md"
 
