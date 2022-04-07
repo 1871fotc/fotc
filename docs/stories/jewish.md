@@ -5,7 +5,7 @@ hide:
 icon: fontawesome/solid/person-walking
 ---
 
-# The Jewish  
+# The Jewish Walk
 
 ![The Brisbane Synagogue, ca. 1906](../assets/brisbane-synagogue-1906.jpg){ width="70%" }
 
@@ -17,6 +17,9 @@ Jewish deceased are buried with their heads toward the East. This has a religiou
 
 Examples of vandalism will be seen in this cemetery. This is a world‑wide malady and difficult to prevent, as the damage is usually done late at night. <!--It usually occurs during school vacations, indicating that the pupils, with no homework to do, are seeking cheap "thrills". --> On the occasions on which it occurs, the Chevra Kadisha promptly restores the damaged monuments. <!--Some only need to be stood up and secured; others are broken when they fall. If they are thin marble slabs, they break easily and it is better to mount them on a sloping cement plinth so they cannot be toppled again. If the headstone is badly broken, it must be replaced. It is not feasible to insure grave monuments against vandalism. -->
 
+--8<-- "snippets/conditions-of-entry.md"
+
+## The Jewish Walk
 
 ???+ directions "Directions" 
 
@@ -24,10 +27,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
     
     ![Sam Burmister's headstone](../assets/sam-burmister.jpg){ width="20%" }
 
-
-## Sam Burmister <small>(3‑25‑5)</small>
-
-He was a world‑class heavy‑weight wrestler. As a youth he trained to be a singer in a Synagogue in Rumania and had a rich baritone voice. He became a professional wrestler and won the World Jewish Wrestling Championship belt on several occasions.
+--8<-- "snippets/sam-burmister.md"
 
 ??? directions "Directions" 
 
@@ -35,10 +35,8 @@ He was a world‑class heavy‑weight wrestler. As a youth he trained to be a si
     
     ![Morris Moskowitch's headstone](../assets/morris-moskowitch.jpg){ width="20%" }
 
-
-## Morris Moskowitch <!-- MARICE MOSKOWITZ (3‑20‑05)-->
-
-Morris built, renovated or moved many homes in South Brisbane, in the first half of this century. He built a small synagogue as an annex to his home in Greenslopes, where he and a group of friends used to pray.
+--8<-- "snippets/morris-moskowitch.md"
+<!-- TODO not in index -->
 
 ??? directions "Directions" 
 
@@ -56,7 +54,6 @@ This type of massive monument is unusual for its size and is rarely utilised now
     
     ![Wilfred John Friedlander's headstone](../assets/w-j-friedlander.jpg){ width="20%" }
  
-
 ## Wilfred John Friedlander (AIF) <small>(3‑9A‑17)</small>
 
 This is an example of the bronze plaques erected by the War Graves Commission over the graves of ex‑servicemen.
@@ -67,10 +64,7 @@ This is an example of the bronze plaques erected by the War Graves Commission ov
     
     ![Isaac Hillel Hillman's headstone](../assets/isaac-hillel-hillman.jpg){ width="20%" }
 
-
-## Isaac Hillel Hillman <small>(3‑9A‑16)</small>
-
-As a young man he came to Brisbane from his home in Latvia. He worked as a plumber until he could pay for his fiancée to join him. They married here and spent the rest of their lives in Townsville. He was a very pious man and made arrangements for his body to be buried in this Jewish Cemetery. He died aged 96.
+--8<-- "snippets/isaac-hillel-hillman.md"
 
 ??? directions "Directions" 
 
@@ -78,12 +72,7 @@ As a young man he came to Brisbane from his home in Latvia. He worked as a plumb
     
     ![Jonas Myer Myers' headstones](../assets/jonas-myer-myers.jpg){ width="20%" }
 
-
-## Rev. Jonas Myer Myers <small>(3‑4‑17)</small>
- 
-The good man was the Minister of the Brisbane Hebrew Congregation, serving here for 45 years and in Toowoomba and Adelaide for several years. He was, more than anyone else, responsible for the building of the Brisbane Synagogue in Margaret Street. It was started in 1885 and finished in 1886 and remains in full use. The Sepher Torah scroll, at the top of his monument, indicates that he was regarded as a particularly good person. It carries the words,
-
-> In everlasting memory
+--8<-- "snippets/jonas-myer-myers.md"
 
 ??? directions "Directions" 
 
@@ -105,10 +94,7 @@ There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Simi
     
     ![Alan Taylor's headstone](../assets/alan-taylor.jpg){ width="20%" }
 
-
-## Alan Taylor <small>(3‑13‑1A)</small>
-
-He was climbing the face of Mt Tibrogargan with two other University climbers. They were ascending without safety ropes. He fell to his death and the Jewish Community was deeply shocked at the loss of this fine young man.
+--8<-- "snippets/alan-taylor.md"
 
 ??? directions "Directions" 
 
@@ -116,8 +102,7 @@ He was climbing the face of Mt Tibrogargan with two other University climbers. T
     
     ![Trooper Lipstine's headstone](../assets/trooper-lipstine.jpg){ width="20%" }
 
-
-## Trooper Lipstine <small>(3‑13‑9/10)</small>
+## Trooper Isaac Benjamen Lipstine <small>(3‑13‑9/10)</small>
 
 This is a bronze plaque supplied by the War Graves Commission. Others are upright white marble headstones.
 
@@ -127,12 +112,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
     
     ![Phyliss Mary Peixetto's headstone](../assets/phyliss-mary-peixetto.jpg){ width="20%" }
 
-    
-## Phyliss Mary Peixetto <!-- (3‑ss‑gg)-->
-
-(The "x" in Peixetto is pronounced "z".) 
-
-She was a descendant of a man by that name, who led the entire Jewish Community of America. There is a well‑known painting in the Library of the US Congress, showing him with a Jewish delegation which was congratulating George Washington on his victory over the colonial power and assuring him of their loyalty.
+--8<-- "snippets/phyliss-mary-peixetto.md"
 
 ??? directions "Directions" 
 
@@ -140,10 +120,12 @@ She was a descendant of a man by that name, who led the entire Jewish Community 
     
     ![Henry Montague Bloom's headstone](../assets/henry-montague-bloom.jpg){ width="20%" }
 
+--8<-- "snippets/henry-montague-bloom.md"
 
-## Monty Bloom <small>(3‑24‑3)</small>
 
-Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. He was also a skilled entertainer and organised concert parties in both First and Second World Wars to entertain the troops. He was decorated for his good services. He continued entertaining the wounded long after the Second World War.
+
+
+
 
 ??? directions "Directions" 
 
@@ -151,10 +133,7 @@ Henry Montague "Monty" Bloom served in the AIF in World War 1, as an engineer. H
     
     ![Myer Kangan's headstone](../assets/myer-kangan.jpg){ width="20%" }
 
-
-## Myer Kangan AO, MBE <small>(3‑18‑1A)</small>
-
-He was decorated with the Order of Australia and made a member of the Order of the British Empire in recognition of his distinguished services to the Crown and to Industry. His headstone also has the symbol, already referred to, of a Cohen i.e. a descendant of the High Priest of the Temple in Biblical days.
+--8<-- "snippets/myer-kangan.md"
   
 ??? directions "Directions" 
 
@@ -186,10 +165,7 @@ This is a beautiful carved sandstone monument. The symbol of the book would sugg
     
     ![Percy Benjamin's headstone](../assets/percy-benjamin.jpg){ width="20%" }
 
-
-## Percy Benjamin <small>(3‑12‑7/8)</small>
-
-Percy Benjamin was a son of Sir Benjamin Benjamin and Lady Fanny Benjamin. Sir Benjamin owned a Melbourne Savings bank. About the turn of the century there was an unexplained 'rush on the banks', when people drew out their money in a great panic for no reason. Sir Benjamin put all his own funds into his bank in an effort to reassure the people, but it was to no avail. He lost everything and was bankrupted. Percy's monument was provided by his Brisbane employers, S. Hoffnung & Co.
+--8<-- "snippets/percy-benjamin.md"
  
 ??? directions "Directions" 
 
@@ -197,10 +173,7 @@ Percy Benjamin was a son of Sir Benjamin Benjamin and Lady Fanny Benjamin. Sir B
     
     ![Behr Raphael Lewin's headstone](../assets/behr-raphael-lewin.jpg){ width="20%" }
 
-
-## Behr Raphael Lewin <small>(3‑8‑10/11)</small>
-
-About 1875 he carried a "Sepher Torah" (i.e. a Scroll of the Old Testament) on horse‑back up the mountain range ‑ the Toll Bar Road ‑ to Toowoomba in order to install Jewish Religious services there. The Toowoomba Synagogue was actually consecrated some years before the Brisbane Synagogue, though the Brisbane Hebrew Congregation was formed in 1865. Mr Levin was an official of both Congregations.
+--8<-- "snippets/behr-raphael-lewin.md"
 
 ??? directions "Directions" 
 
@@ -274,9 +247,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
     
     ![Errol Solomon Meyers' headstone](../assets/errol-meyers.jpg){ width="20%" }
 
-## Errol Solomon Meyers <small>(3‑22‑22)</small>
-
-Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First World War, being a Regimental Medical Officer. A surgeon, anatomist and teacher; co‑founder of the Medical Faculty of the University of Queensland and was Dean of the faculty 1942‑1954.
+--8<-- "snippets/errol-solomon-meyers.md"
 
 ??? directions "Directions" 
 
@@ -286,10 +257,7 @@ Errol Solomon Meyers was Lieutenant Colonel in the Australian Army in the First 
     
     ![Eric Mark Margulies' headstone](../assets/eric-margulies.jpg){ width="20%" }
 
-
-## Dr Eric Mark Margulies <small>(3‑21‑8)</small>
-
-Eric Mark Margulies was the only doctor in the western Queensland country town of Cunnamulla. A major fire destroyed the hotel and the good doctor distinguished himself in the rescue, as well as in the treatment of the survivors, some of whom were very badly injured. Later he was the Government Medical Officer on the Gold Coast.
+--8<-- "snippets/eric-mark-margulies.md"
 
 ??? directions "Directions" 
 
@@ -320,7 +288,6 @@ He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/
     ![Bezalel Saul Mendelsohn's headstone](../assets/sali-mendelsohn.jpg){ width="20%" }
 
 --8<-- "snippets/bezalel-saul-mendelsohn.md"
-
 
 ??? directions "Directions" 
 
