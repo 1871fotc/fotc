@@ -44,7 +44,7 @@ Honorah, of Morgan Street, Fortitude Valley, died on 13 April 1926.
 
 Born in Niederheimbach, Germany on 23 February 1861, Ottilia Lucia Alexandrina Drenk was a daughter of Mathias Drenk and Maria (née Schrenk). Johann Ufer married Ottilia. The family of seven arrived in Brisbane from London on 21 February 1888 aboard the *Bulimba*.
 
-Four children born in Queensland made a total of nine Ufer children in Queensland - Maria Anne (c.1881-1921), Ottilia Sybilla (ca. 1882-1971), Matthias (Matthew) (ca. 1883-1911), Margaretta (ca. 1886-1889), Bulimba Elizabeth (1887-1889), Andrew Alonis (1890-1915), Charlotte Johanna Louisa (1892-1941), Gustav Andrew (1896-1947) and Henry Jacob (1898-1960). 
+Four children born in Queensland made a total of nine Ufer children in Queensland - Maria Anne (ca. 1881-1921), Ottilia Sybilla (ca. 1882-1971), Matthias (Matthew) (ca. 1883-1911), Margaretta (ca. 1886-1889), Bulimba Elizabeth (1887-1889), Andrew Alonis (1890-1915), Charlotte Johanna Louisa (1892-1941), Gustav Andrew (1896-1947) and Henry Jacob (1898-1960). 
 
 Ottilia, a resident of Ripple Creek, near Ingham, was a farmer. Ottilia died in Brisbane on 13 January 1935 from heart failure.
 
@@ -54,13 +54,11 @@ Mary Catherine Tierney was born in Queensland to Patrick Tierney, railway worker
 
 The family resided at *Green Hill*, Alderley. Mary and Kitty died on 13 March 1918 following a sulky accident on Bowen Bridge Road.
 
-## Sarah Woulfe <small>(7A‑74‑15/16)</small>
+![The Green Hill Estate Alderley, 1914](../assets/green-hill-estate.jpg){ width="40%"}
 
-Sarah Mahoney, born in Ballybunion, Kerry, Ireland, ca. 1863, was a daughter of Michael Mahoney and Mary (née Wallace). Sarah trained as seamstress. Patrick Joseph Woulfe married Sarah on 13 January 1878. The family of four sailed from Glasgow To Brisbane between 27 June and 23 August 1884, aboard the *Mount Lebanon*. 
+*<small>[The Green Hill Estate Alderley / Isles Love & Co., Auctioneers ; Harry Raff, Surveyor.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21124184580002061) Plan of allotments to be sold by public auction, Saturday, 14th March, 1914. Land for sale is subdivisions of portions 445 & 446, Enoggera - State Library of Queensland.</small>*
 
-Six children were born in Queensland. Their five daughters and three sons were Honora (1879-1957), Michael Joseph (1882-1886), Mary Ellen (1885-1975), Patrick (1888-1948), Elizabeth (1890-1968), James (1893-1923), Sarah Teresa (1895-1974) and Mabel Jane Josephine (1898-1949). 
-
-The family lived in Annie Street, Paddington when Patrick Joseph died in 1902. In 1910, Sarah and her son, Patrick, founded Woulfe and Son, tailors. Success by 1919 allowed Sarah to move to 42 Constitution Road, Windsor, which she named *Efluow*. Sarah died suddenly at *Efluow* on Friday 18 December 1931. Woulfe and Son Pty Ltd wound up in 1972.
+--8<-- "snippets/sarah-woulfe.md"
 
 ## Martha Fredericke Stone <small>(18‑104‑22/23/24)</small>
 
@@ -80,7 +78,18 @@ Marie Theresa Haly, known as Minnie, was born at Tamrookum, Queensland, on 13 Se
 
 The couple had four sons and two daughters. The Lightoller's six children were Charles Haly (1880-1881), George Henry Standish (1881-1944), Cyril Haly (1882-1885), William Claude (1884-1948), Minnie Rose (1886-1911) and Lizzie Kate (1887-1949). 
 
-The family resided in Ipswich until Dr Lightoller travelled to Europe from March 1897 until December 1899. On his return the Lightoller family settled into *Palmarosa*, Breakfast Creek. By mid 1899 the Lightollers had moved into *Highlands*, Albion. Minnie died at her residence on 9 August 1924.
+The family resided in Ipswich until Dr Lightoller travelled to Europe from March 1897 until December 1899. On his return the Lightoller family settled into *[Palmarosa](https://apps.des.qld.gov.au/heritage-register/detail/?id=600219)*, Breakfast Creek. By mid 1899 the Lightollers had moved into *Highlands*, Albion. Minnie died at her residence on 9 August 1924.
+
+<!-- TODO seems to conflict with https://apps.des.qld.gov.au/heritage-register/detail/?id=600219 -->
+
+![Palmarosa, 1893](../assets/palmarosa-1893.jpg)
+
+*<small>[Floodwaters in Newstead, 1893](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218173890002061), looking north-east from Jordan Terrace, Bowen Hills. On the hillside beyond, the house 'Palma Rosa' at 9 Queens Road, Hamilton, is visible.  - State Library of Queensland. Cropped. Annotation added.</small>*
+
+![Highlands, a residence in Albion, Brisbane, 1930](../assets/highlands-1930.jpg)
+
+*<small>[Highlands, a residence in Albion, Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool50472)  - State Library of Queensland.</small>*
+
 
 ## Helen Dugald Street <small>(12‑39‑24)</small>
 
@@ -92,13 +101,22 @@ Helen died on 7 October 1907 in South Brisbane.
 
 ## Eliza Finney <small>(13‑81‑6/13)</small>
 
-Eliza Cornwall was born to Thomas Cornwall and Mary (née Thomas) in County Galway, Ireland ca. 1805. Thomas Finney, farmer, married Eliza in Tuam, County Galway in 1823. Eliza's newspaper obituaries stated she was mother to "no fewer than 21 children", while others indicated she was the "mother of 23 children". 
+Eliza Cornwall was born to Thomas Cornwall and Mary (née Thomas) in County Galway, Ireland ca. 1805. Thomas Finney, farmer, married Eliza in Tuam, County Galway in 1823. Eliza's newspaper obituaries stated she was mother to "[no fewer than 21 children](https://trove.nla.gov.au/newspaper/article/176474296)", while others indicated she was the "[mother of 23 children](https://trove.nla.gov.au/newspaper/article/148031679?searchTerm=Eliza%20Finney)". 
 
-Some of the couple's children include. Mary Jane (1823-1841), Rachel (1829-1880), Frances Martha (1930-1882), Lewis William (ca. 1832-1910), Robert Cornwall (1835-?), Thomas (1837-1903), Susan (c. 1840-1923), Elizabeth Emma (1841-1912), Alfred Richard (1844-1901), Mary (ca. 1850-1924), Jane Margaret (ca. 1851-1927) and Helen Henrietta (ca. 1853-1908). 
+Some of the couple's children include. Mary Jane (1823-1841), Rachel (1829-1880), Frances Martha (1930-1882), Lewis William (ca. 1832-1910), Robert Cornwall (1835-?), Thomas (1837-1903), Susan (ca. 1840-1923), Elizabeth Emma (1841-1912), Alfred Richard (1844-1901), Mary (ca. 1850-1924), Jane Margaret (ca. 1851-1927) and Helen Henrietta (ca. 1853-1908). 
 
 Thomas died ca. 1852. Eliza and three daughters sailed to Brisbane aboard the *Royal Dane*, arriving on 16 January 1873. 
 
 Eliza died in the arms of one of her daughter's on the afternoon of Friday 22 July 1898.
+
+<!--
+
+TODO Confirm this is Eliza 
+
+![Mrs T. Finney](../assets/x.jpg)
+
+*<small>[Mrs T. Finney](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218142500002061  - State Library of Queensland.</small>*
+-->
 
 ## Annie Watson Turner <small>(13‑70‑7/8)</small>
 
