@@ -11,22 +11,31 @@ hide:
 
 ## Jonas and Mary Malouf <small>(5‑26‑2/3)</small>
 
-Jonas Malouf and his wife, Mary (née Hadad) were both born in the town of Zahlah in what is now Lebanon but was still part of Palestine at the time. Jonas was born in December 1849 and Mary in 1869. In 1889, together with their sons and Jonans's two brothers, they fled their native country to escape the political troubles of the time. They came to Queensland where they founded a successful drapery and general store at Ipswich. They later settled at Gatton where they continued to carry on in business. 
- 
+Jonas Malouf and his wife, Mary (née Hadad) were both born in the town of Zahlah in what is now Lebanon but was still part of Palestine at the time. Jonas was born in December 1849 and Mary in 1869. In 1889, together with their sons and Jonans's two brothers, they fled their native country to escape the political troubles of the time. They came to Queensland where they [founded a successful drapery and general store at Ipswich](https://trove.nla.gov.au/newspaper/article/188745751). They later settled at Gatton where they continued to carry on in business. 
+
+<!-- 
+https://trove.nla.gov.au/newspaper/article/177221470?searchTerm=Malouf%20Draper
+https://trove.nla.gov.au/newspaper/article/188734720
+Jonas d. 	11-01-1940 https://trove.nla.gov.au/newspaper/article/40873705?searchTerm=Jonas%20Malouf 
+Mary d. ca. 04-01-1930
+-->
 
 ## Alfred Wall and Alfred George Curtis Wall <small>(5‑27‑16)</small>
 
 Alfred Wall was born in England before migrating to Queensland in the ship *Young Australia* in 1866. He spent head several years as head teacher at Bowen State School and in 1899 became head teacher at Milton State School until his retirement in 1917.
 
-His son, Alfred George Curtis Wall served in WWI in the Australian Flying Corps No 2 Squadron where he was designated 1^st^ Air Mechanic.
+His son, [Alfred George Curtis Wall](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_alma21285295720002061) served in WWI in the Australian Flying Corps No 2 Squadron where he was designated 1^st^ Air Mechanic.
 
+![Illuminated address for Mr Alfred Wall](../assets/alfred-wall-illuminated-address.jpg){ width="96%" }
+
+*<small>[Illuminated address for Mr Alfred Wall](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_alma21218453260002061), presented on his retirement from his position as Head Teacher at the Milton State School, Brisbane from 1888 to 1916 - State Library of Queensland. </small>*
 
 --8<-- "snippets/john-theophillus-symons-bird.md"
 
 
 ## Angus McDonald, Robert Alexander McDonald and Stanley Angus McDonald <small>(5‑30‑1/2)</small>
 
-Angus McDonald who was born in Ayr, Scotland, came to Queensland with his parents at the age of 10. He lived in Ipswich and Harrisville before retiring to Brisbane. His son, Robert Alexander McDonald was the chief Clerk of Prisons in the Queensland Prison Department. He disappeared in August 1913 and his body was not found for three months. Another son, Stanley died on *RMS Celtic* in 1918.
+Angus McDonald who was born in Ayr, Scotland, came to Queensland with his parents at the age of 10. He lived in Ipswich and Harrisville before retiring to Brisbane. His son, Robert Alexander McDonald was the chief Clerk of Prisons in the Queensland Prison Department. [He disappeared in August 1913](https://trove.nla.gov.au/newspaper/article/79111444) and his body was not found for three months. Another son, [Stanley died on *RMS Celtic*](https://trove.nla.gov.au/newspaper/article/220493577) in 1918.
 
 
 --8<-- "snippets/john-lamacraft-richards.md"
