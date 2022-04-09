@@ -8,6 +8,6 @@ hide:
 
 # Patrick Mayne
 
-**1825 — 1865**
+**1825 — 17 August 1865**
 
 --8<-- "snippets/patrick-mayne.md"
