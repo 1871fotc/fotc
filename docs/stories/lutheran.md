@@ -30,6 +30,8 @@ Friedericke Wilhelmine Gentner (née Gross) was born 16 July 1864 and died 7 Oct
 
 Many members of the family are buried in the enclosure including son, Thomas Gentner, who was registered at birth as Gottlieb Tom, and his wife Auguste Louise née Kleinschmidt who died on 19 January 1955 aged 82. The family were members at St Andreas for several generations and lived at Harcourt Street, New Farm.
 
+<!-- TODO get grave photo -->
+
 ## Carl Franz Alexander and Caroline Friedericke Alwine Schirmeister <small>(13‑25‑6)</small>
 
 --8<-- "snippets/carl-franz-alexander-and-caroline-friedericke-alwine-schirmeister.md"
