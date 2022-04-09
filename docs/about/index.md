@@ -100,6 +100,12 @@ Our Bank details are:
 
 Please include your Surname as a reference if paying a membership subscription by direct deposit. 
 
-![Queensland National Bank, Brisbane, ca. 1885](../assets/queensland-national-bank-brisbane-1885.jpg){ width="90%" }
+![Queensland National Bank. Sherwood Road, Toowong ca. 1890](../assets/queensland-national-bank-toowong-1890.jpg)
 
+*<small>[Shops along High Street, Toowong, Brisbane, Queensland, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256972890002061) - State Library of Queensland.</small>*
+
+<!--
+![Queensland National Bank, Brisbane, ca. 1885](../assets/queensland-national-bank-brisbane-1885.jpg){ width="45%" }
+ 
 *<small>[Queensland National Bank, Brisbane, ca. 1885](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218524600002061). The Creek Street Presbyterian Church at the rear was demolished shortly after this image was taken - State Library of Queensland.</small>*
+-->
