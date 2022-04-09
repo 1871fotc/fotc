@@ -29,7 +29,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
 --8<-- "snippets/sam-burmister.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Moving along another 14 headstones you will come across the grave of...
     
@@ -38,7 +38,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 --8<-- "snippets/morris-moskowitch.md"
 <!-- TODO not in index -->
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Walking up another 6 headstones and still looking left you will come to the grave of...
 
@@ -48,7 +48,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
 This type of massive monument is unusual for its size and is rarely utilised nowadays.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Another 13 headstones along this same path is the grave of...
     
@@ -58,7 +58,7 @@ This type of massive monument is unusual for its size and is rarely utilised now
 
 This is an example of the bronze plaques erected by the War Graves Commission over the graves of ex‑servicemen.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     The grave next to this one is the grave of…
     
@@ -66,7 +66,7 @@ This is an example of the bronze plaques erected by the War Graves Commission ov
 
 --8<-- "snippets/isaac-hillel-hillman.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Walking to the end of this path walk around to the start of second path. Looking right, go to the seventh headstone, and you will see the large headstone of...
     
@@ -74,7 +74,7 @@ This is an example of the bronze plaques erected by the War Graves Commission ov
 
 --8<-- "snippets/jonas-myer-myers.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Walk two graves along and you have reached the graves of...
     
@@ -88,7 +88,7 @@ Loewe's headstone has a carved pitcher or urn, from which water is being poured.
 
 There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Similarly, there are variants to the name of 'Cohen' and it will be seen that some who are identified as priests (see later notes) have other names such as Kangan, Konn, Kahn etc.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Moving along the same path and another 12 headstones ahead is the grave of...
     
@@ -96,7 +96,7 @@ There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Simi
 
 --8<-- "snippets/alan-taylor.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Proceed along the path for another 11 headstones and you will come to the grave of...
     
@@ -106,7 +106,7 @@ There are many forms of the name 'Levy'. In this case, the name is 'Loewe'. Simi
 
 This is a bronze plaque supplied by the War Graves Commission. Others are upright white marble headstones.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Another 8 headstones along this path is the grave of...
     
@@ -114,7 +114,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
 
 --8<-- "snippets/phyliss-mary-peixetto.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Walking along another 8 headstones we come upon the grave of...
     
@@ -122,12 +122,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
 
 --8<-- "snippets/henry-montague-bloom.md"
 
-
-
-
-
-
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Now walk around to the start of the third path. Looking LEFT the 23^rd^ headstone from the start is that of…
     
@@ -135,7 +130,7 @@ This is a bronze plaque supplied by the War Graves Commission. Others are uprigh
 
 --8<-- "snippets/myer-kangan.md"
   
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Behind Kangan's headstone is that of...
     
@@ -148,7 +143,7 @@ On this headstone can be seen an example of the configuration of the hands of a 
 Note that not all the Cohanim (the plural) are named "Cohen". The Levites (male descendants of the tribe of Levi) who aided the Cohanim in the Temple Service, still, to this day "lave" the hands of the Cohanim with water, before they bless the Congregation during Services. On the monuments of Levites can be seen an urn or pitcher from which water is being poured. Cohanim obey certain restrictions but also have some ritual privileges.
 
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Moving also this path 6 more headstones, we come to the grave of...
     
@@ -159,7 +154,7 @@ Note that not all the Cohanim (the plural) are named "Cohen". The Levites (male 
 
 This is a beautiful carved sandstone monument. The symbol of the book would suggest that the person was well versed in the Hebrew religion. <!-- Today such a monument would cost over $100 000. There are few stonemasons about, who could do the work. -->
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Next to this beautiful monument is the grave of...
     
@@ -167,7 +162,7 @@ This is a beautiful carved sandstone monument. The symbol of the book would sugg
 
 --8<-- "snippets/percy-benjamin.md"
  
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Walk along a couple of more headstones and you will see the striking sculpted red granite monument of **Flegeltaub**. Moving along another 4 headstones and still looking right you will see the headstone of...
     
@@ -175,7 +170,7 @@ This is a beautiful carved sandstone monument. The symbol of the book would sugg
 
 --8<-- "snippets/behr-raphael-lewin.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     A further 3 headstones along, we have the headstone of...
     <!--
@@ -187,7 +182,7 @@ This is a beautiful carved sandstone monument. The symbol of the book would sugg
 
 On this monument is a passage from Proverbs XXXI. It is a fine tribute to a goodly wife.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Several of the next graves on both sides of the path form the centre of the oldest part of this Jewish Cemetery. Most of these monuments were cut in sandstone, quarried near Helidon. Another 3 headstones along is the headstone of...
     
@@ -215,7 +210,7 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
     ![Arthur Hyam's headstone](../assets/arthur-hyam.jpg){ width="20%" }
 -->
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Now go to the end of this 3^rd^ path and round to the start of the 4^th^ path and look to the right and to the 7^th^ grave of...
     
@@ -226,7 +221,7 @@ The headstone and massive monument would weigh over one tonne. If sculpted today
 
 You will see some columns with the top broken off. This is a well‑known symbol over the grave of a person who died at a young age. Later, you will see a monument on which is engraved a palm tree. An arm, wielding an axe has lopped off the tree top. This has the same significance.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     As you walk along this path a few headstones up you will notice some more of the old sandstone monuments. Further along you will come upon the white marble monument of...
     
@@ -241,7 +236,7 @@ Several monuments along you will see one with only one Hebrew word on it, "SHEMO
 
 In compliance with the Commandment "Thou shalt not take the name of the Lord thy God in vain", the Jewish people are careful to avoid disrespect to any prayer book or other object carrying the Holy Name. Therefore, prayer books, etc. which, due to age or accident, are no longer usable are not trashed or burnt, but are placed in small coffins and buried in the consecrated ground of a Jewish Cemetery. Here is the headstone of one such grave bearing the word "SHEMOTH" (name) i.e. "THE HOLY NAME".
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     The third grave after the SHEMOTH grave and in the rear row is that of…
     
@@ -249,7 +244,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
 
 --8<-- "snippets/errol-solomon-meyers.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Now walk round to the start of the fifth path. The first small monument is over another "SHEMOTH" burial. Hundreds of articles (mainly worn out books) are buried in each "SHEMOTH" grave.
 
@@ -259,7 +254,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
 
 --8<-- "snippets/eric-mark-margulies.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Moving along another 10 monuments you will come to the headstones of...
     
@@ -270,7 +265,7 @@ In compliance with the Commandment "Thou shalt not take the name of the Lord thy
 
 These three identical monuments are an example of the work of vandals. It can be seen that they were broken off at the base with blows from behind. By mounting them on a sloping concrete pad, the broken pieces were brought together. Further vandalism is made less likely.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Walking along another 12 monuments is the grave of...
     
@@ -281,7 +276,7 @@ These three identical monuments are an example of the work of vandals. It can be
 
 He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/16/16333/16333.html) representing Queensland in the Sheffield Shield series over many years.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Walk along the path past 6 monuments, and you will be standing at the grave of...
     
@@ -289,7 +284,7 @@ He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/
 
 --8<-- "snippets/bezalel-saul-mendelsohn.md"
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Moving along the path for another 10 monuments, you will come to the grave of...
     
@@ -300,7 +295,7 @@ He was a well‑known [cricketer](https://cricketarchive.com/Queensland/Players/
 
 When a person dies at a relatively young age, it is sometimes symbolised by a "broken column" i.e. the life has been "broken off." On this monument there is a similar symbolism. An arm with an axe in the hand is seen reaching down from the clouds, and it has chopped the trunk of a palm‑tree which is seen falling.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Walking along a couple of graves, we come across some more handsome sandstone monuments bearing the surname of **Phillips**.
 
@@ -331,13 +326,13 @@ Should you have any questions arising from this visit, please jot them on a piec
 
 ## Acknowledgements
 
-Text by: Morris. S. Ochert OAM - Queensland Researcher, Australian Jewish Historical Society
+Text by Morris. S. Ochert OAM - Queensland Researcher, Australian Jewish Historical Society
 
 <!-- 
 Photography by: Joyce Simpson Sexton's Office Toowong Cemetery
 -->
 
-Edited by: Hilda Maclean Friends of Toowong Cemetery
+Edited by Hilda Maclean - Friends of Toowong Cemetery
 
 <!--
 <div class="noprint" markdown="1">
