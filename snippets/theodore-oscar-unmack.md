@@ -5,3 +5,7 @@ German‑born Theodore Unmack (21 November 1835 ‑ 17 September 1919) arrived i
 Theodore’s second wife of 42 years, Kathleen died on 12 August 1937 aged 86 and was cremated in Sydney. She was the mother of six of his children. 
 
 Theodore traded with his partner J. C. Heussler as a wholesale merchant and was the MLA for Toowong from 1888—1893 and Secretary for the Railways. He was a prominent Freemason who was buried with Presbyterian rites.
+
+![Theodore Unmack, 1889](../assets/theodore-unmack.jpg){ width="40%" }
+
+*<small>[Unmack, Theodore, 1889](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218162940002061) - State Library of Queensland. </small>*
