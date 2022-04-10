@@ -59,6 +59,22 @@ He died of tuberculosis at Roma in Queensland on 13 July 1901. £130 was raised 
 
 --8<-- "snippets/edward-vincent-pollock.md"
 
+<!-- TODO
+
+Could add George Heiniger (16-22-17) d. ca. 23-02-1915
+
+https://trove.nla.gov.au/newspaper/article/20020996
+
+Grave of World War I Soldier, Private George Heiniger, at Toowong Cemetery, Brisbane, Queensland, 1915
+
+His comrades funded the erection of a marble headpiece above his grave at the Toowong Cemetery which was engraved with a miniature saddle and crossed rifles. The grave was surrounded by a concrete kerbing. After paying for the tombstone the balance of the money raised was used to purchase two artificial wreaths which were placed on the grave.
+
+Private George Heiniger of the Unallotted Light Horse died on 21 February 1915 at the Enoggera Military Training Camp in Brisbane at the age of 18. The night before his death he complained of a headache and giddiness. The next morning he was very ill and his comrades took him on a stretcher to the field hospital at the camp. Once there he lapsed into unconsciousness and died at 9.15 am that day. A court of enquiry found that he had died of heat stroke, although his comrades stated that he had not been in the sun and had not engaged in violent exercise or work preceding his illness.
+
+http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21268047290002061
+
+-->
+
 ## Acknowledgements
 
 Compiled and presented by Lyn Maddock
