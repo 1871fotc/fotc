@@ -120,6 +120,14 @@ th {
   border: 0;
 }
 
+/* 100% Image Width on Smaller Screens */
+
+@media only screen and (max-width: 76.25em){
+  .full-width {
+    width: 100%;
+  }
+}
+
 /* dont print certain elements */
 @media print {
   .noprint {
