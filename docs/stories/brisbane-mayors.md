@@ -176,7 +176,7 @@ These stories cover many of the early Mayors of the Town of Brisbane. The City o
     - visit William MacNaughton Galloway's grave in Portion 7A. To do this: 
       - Walk along Emma Miller Avenue to Charles Heaphy Drive.
       - Continue down Charles Heaphy Drive to the Shelter Shed.
-      - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
+      - Walk towards O'Doherty Avenue (previously 11^th^ Avenue) and four graves along you'll find Ned Hanlon. 
       - Walk into Portion 7A about 4 sections, and you'll find...
 
     ![William MacNaughton Galloway's headstone](../assets/william-macnaughton-galloway-headstone.jpg){ width="100" }
