@@ -86,7 +86,7 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 ## Maps
 
-### Cemetery Road Map 
+### Toowong Cemetery Road Map 
 
 !!! warning "Cemetery Road Warnings" 
 
@@ -96,13 +96,15 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-### Cemetery Portion and Section Map 
+### Toowong Cemetery Portion and Section Map 
 
 This map will help you to **[find graves](research/find-a-grave.md)**. The map shows the old Road names.
 
 [![Toowong Cemetery Map](assets/toowong-cemetery-map.jpg){ width="70%" }][map]
 
 *<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
+
+<!-- TODO add lightbox -->
 
 <!-- Map links -->
 
@@ -111,20 +113,20 @@ This map will help you to **[find graves](research/find-a-grave.md)**. The map s
 
 <!-- Add a mobility map eg https://www.brisbane.qld.gov.au/sites/default/files/brisbane_botanic_gardens_mobility_map.pdf -->
 
-## Road name changes
+## Toowong Cemetery Road Name Changes
 
-Some road names have recently been changed to the names of notable people buried nearby. Not all maps and signs in the cemetery have been updated to reflect these changes: 
+Some cemetery road names have recently been changed to the names of notable people buried nearby. Not all maps and signs in the cemetery have been updated to reflect these changes: 
 
 | New Road Name                              | Old Road Name | Notes                                                                |
 | :----------                                | :--------     | :---------                                                           |
 | **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
-| **[Dr Lilian Cooper][Cooper]** Drive      | Boundary Road | running parallel to Richer Street                                    |
+| **[Dr Lilian Cooper][Cooper]** Drive       | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
-| [Francis Forde][Forde] Avenue          | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street     |
+| [Francis Forde][Forde] Avenue              | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street |
 | **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street <br>furthest from the main entrance |
 | Soldiers Parade                            | Boundary Road | running parallel to Frederick Street <br>closest to the main entrance    |
-| [Steele Rudd][Rudd] Avenue             | 4^th^ Avenue  |                                                                      |
-| [Walter Ralstone][Ralstone] Avenue     | 7^th^ Avenue  |                                                                      |
+| [Steele Rudd][Rudd] Avenue                 | 4^th^ Avenue  |                                                                      |
+| [Walter Ralstone][Ralstone] Avenue         | 7^th^ Avenue  |                                                                      |
 | **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
 | **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
@@ -134,6 +136,8 @@ Some road names have recently been changed to the names of notable people buried
 | **[William Brown][Brown]** Avenue          | 14^th^ Avenue |                                                                      |
 | Federation Avenue                          | 15^th^ Avenue |                                                                      |
 
+
+<!-- Read about other [roads named after people buried in Toowong Cemetery](stories/roads.md). --> 
 
 !!! question "Volunteer - report a damaged sign"
 
