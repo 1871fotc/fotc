@@ -16,11 +16,11 @@ In [Portion 2](../research/find-a-grave.md) of the cemetery, at the intersection
 
 <!-- link to map --> 
 
-Headstones within the Cemetery come in many shapes <!-- [many shapes](shapes.md) --> and contain [mysterious signs](signs.md). Throughout the first half of the 19th Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
+Headstones within the Cemetery come in many shapes <!-- [many shapes](shapes.md) --> and contain [mysterious signs](signs.md). Throughout the first half of the 19^th^ Century headstones featuring bust of heads and shoulders were very popular. However by the 1880's angels, messengers of God and pillars had become fashionable. Most of these were placed on a three-tiered base, to represent faith, hope and charity. 
 
 ## The Cross
 
-The cross comes in a variety of shapes. The Celtic cross (with its arms enclosed in a circle) was used mostly by those of Irish origin prior to the end of the 19th Century before they became a popular choice (regardless to national heritage). The unadorned cross was known as the Calvary cross, representing Christ's crucification. The Orthodox cross with three bars symbolises the cross Christ was crucified on, with the title board (top bar), the bar on which the Lord's hands were nailed (middle bar) and the footrest (bottom bar).
+The cross comes in a variety of shapes. The Celtic cross (with its arms enclosed in a circle) was used mostly by those of Irish origin prior to the end of the 19^th^ Century before they became a popular choice (regardless to national heritage). The unadorned cross was known as the Calvary cross, representing Christ's crucification. The Orthodox cross with three bars symbolises the cross Christ was crucified on, with the title board (top bar), the bar on which the Lord's hands were nailed (middle bar) and the footrest (bottom bar).
 
 ![Celtic cross](../assets/celtic-cross.jpg){ width="30%" } ![Calvary cross](../assets/cross-with-bird-and-flowers.jpg){ width="30%" } ![Orthodox cross](../assets/orthodox-cross.jpg){ width="30%" }
 

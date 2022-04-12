@@ -32,7 +32,7 @@ The Friends of Toowong Cemetery:
 The Friends of Toowong Cemetery have:
 
 - **established the [Federation Pavilion](federation-pavilion.md)**, which commemorates the contribution of the delegates who attended the 1891 Australian Federation Convention that are buried at the Toowong Cemetery. 
-- **commemorated the [140th Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the National Trust of Queensland for our work.
+- **commemorated the [140^th^ Anniversary of the cemetery](140-commemoration.md)**. We received an Award from the National Trust of Queensland for our work.
 - provided **stories for information signs** at significant grave sites.
 - **renamed cemetery roads** after notable people buried nearby, and added the road names to [Google Maps](https://goo.gl/maps/7VX36iDLFNnShN6D8) to make it easier to for you to find your way around the cemetery.
 - shared the history and stories of Toowong Cemetery through monthly **[guided tours](../guided-tours.md)**.
@@ -61,7 +61,7 @@ Currently we are:
 
 ## What have we got planned? 
 
-With the **150th Anniversary** of the opening of Toowong Cemetery on **Saturday 5 July 2025** we're planning a very special event. More will be revealed closer to the day.
+With the **150^th^ Anniversary** of the opening of Toowong Cemetery on **Saturday 5 July 2025** we're planning a very special event. More will be revealed closer to the day.
 
 -->
 
@@ -87,7 +87,7 @@ To join in, complete the **[Application form](https://forms.gle/iwFKCnpNYRTSeHLb
 The Friends of Toowong Cemetery Association Inc. is a:
 
 - Queensland Incorporated Association: **[IA17170](https://www.qld.gov.au/law/laws-regulated-industries-and-accountability/queensland-laws-and-regulations/check-a-licence-association-charity-or-register/check-a-charity-or-association)** that abides by a set of **[rules](../assets/documents/fotc-rules.pdf)**
-- Registered Australian Business, ABN: **[12868524011](https://abr.business.gov.au/ABN/View?id=12868524011)**  that holds holds public liability insurance with [History Queensland Inc.](https://www.historyqueensland.org.au/insurance/) for $20 million 
+- Registered Australian Business, ABN: **[12868524011](https://abr.business.gov.au/ABN/View?id=12868524011)**  that holds holds public liability insurance with **[History Queensland Inc.](https://www.historyqueensland.org.au/insurance/)** for $20 million 
 - **[Registered Charity](https://www.acnc.gov.au/charity/charities/cbe72786-39af-e811-a963-000d3ad24077/profile)** with the Australian Charities and Not-for-profits Commission (ACNC)
 
 ![ACNC Registered Charity Logo](../assets/ACNC-Registered-Charity-Logo_RGB.png){ width="25%" } 

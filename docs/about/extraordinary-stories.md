@@ -344,7 +344,7 @@ This story was contributed by Ruth Inglis.
 <!-- 1837 - 10 May 1920 -->
 
 Alfred Roberts was born in 1837 in Putney, London,
-England and he arrived in Queensland about 1860. In 1872 he began a horse-drawn omnibus line which operated between Eagle Street in the city and the present site of the Taringa shopping centre. The business was lost when the stables burned down about 1893, and Roberts returned to farming at Moggill. He died on the 10th of May 1920.
+England and he arrived in Queensland about 1860. In 1872 he began a horse-drawn omnibus line which operated between Eagle Street in the city and the present site of the Taringa shopping centre. The business was lost when the stables burned down about 1893, and Roberts returned to farming at Moggill. He died on the 10^th^ of May 1920.
 
 --- 
 
@@ -411,7 +411,7 @@ This story was contributed by Joyce Glassop.
 
 <!-- circa 1913 - 1 July 1936 -->
 
-The Chapman family tragedy unfolded over a number of years. The first death in the family was that of David Chapman, who died on the 20th of October 1923, aged 17. Less than two years later, on the 12th of February 1925, his brother, Percival, died aged 15. Almost a year later, yet another brother, Eric, died on the 11th of January 1926 aged 14. No more children died for ten years, until their sister, Margaret, died on the 1^st^ of July 1936 aged 23.
+The Chapman family tragedy unfolded over a number of years. The first death in the family was that of David Chapman, who died on the 20^th^ of October 1923, aged 17. Less than two years later, on the 12th of February 1925, his brother, Percival, died aged 15. Almost a year later, yet another brother, Eric, died on the 11^th^ of January 1926 aged 14. No more children died for ten years, until their sister, Margaret, died on the 1^st^ of July 1936 aged 23.
 
 What could have caused this tragic string of deaths? According to a family member, they all died of lead poisoning. After the rain, the children would lick the water off the railings because it tasted sweet. In those days, paint containing lead was widely used. The family was oblivious to the danger for years.
 

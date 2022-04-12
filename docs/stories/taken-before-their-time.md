@@ -92,7 +92,7 @@ A Brisbane City Council employee, Ned died instantly in a head on collision betw
 
 ![Light Horse Brigade, Enoggera, Queensland](../assets/light-horse-brigade-5th-australian-army-corps.jpg){ width="70%" }  
 
-*<small>[Light Horse Brigade, Enoggera, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220526510002061), Australian Army Service Corp. (A.A.S.C.), 5th Australian Army Corps — State Library of Queensland.</small>*
+*<small>[Light Horse Brigade, Enoggera, Queensland](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220526510002061), Australian Army Service Corp. (A.A.S.C.), 5^th^ Australian Army Corps — State Library of Queensland.</small>*
 
 ## Norman James Royle <small>(29A‑46‑4)</small>
 

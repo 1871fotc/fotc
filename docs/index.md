@@ -27,7 +27,7 @@ On this site you'll find information about:
 - monthly **[guided heritage tours](guided-tours.md)** <!-- and **[self‑guided walks](walks/)** -->
 - **[Friends of Toowong Cemetery](about/)** - what we do, what we've done, and how to join in 
  
-The cemetery is maintained by the [Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery).
+The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
 
 
 ## Visit Toowong Cemetery
@@ -50,7 +50,7 @@ Parking is available inside the cemetery along the roads. Please park on the lef
 If you're walking, in addition to the entries above, you can enter via:
 
 - the pedestrian ramp from Mt Coot-tha Road, opposite the **[Mt Coot-tha Botanic Gardens](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha)**. Turn right at the top of the ramp and walk downhill to go to Canon Garland Place
-- Frederick Street gate (opposite Sleath Street) that leads onto Steel Rudd Avenue (previously 4th Avenue)
+- Frederick Street gate (opposite Sleath Street) that leads onto Steel Rudd Avenue (previously 4^th^ Avenue)
 - the many informal entries off Birdwood Terrace
 
 ![Toowong Cemetery Pedestrian Entrance](assets/pedestrian-ramp.jpg){ width="70%" }
@@ -81,8 +81,8 @@ If you enter the main entrance, you'll find:
 If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 - turn right into Dr. Lilian Cooper Drive (previously Boundary Road) and continue to the Shelter Shed 
-- veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14th Avenue) 
-- at the end, turn right into Emma Miller Avenue (previously 8th Avenue) to arrive behind Canon Garland Place, where you can park on the right side of the road
+- veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14^th^ Avenue) 
+- at the end, turn right into Emma Miller Avenue (previously 8^th^ Avenue) to arrive behind Canon Garland Place, where you can park on the right side of the road
 
 ## Maps
 
@@ -96,24 +96,8 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3943.6078757500636!2d152.9825477508893!3d-27.474338574253586!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sau!4v1642488281276!5m2!1sen!2sau" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-### Toowong Cemetery Portion and Section Map 
 
-This map will help you to **[find graves](research/find-a-grave.md)**. The map shows the old Road names.
-
-[![Toowong Cemetery Map](assets/toowong-cemetery-map.jpg){ width="70%" }][map]
-
-*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
-
-<!-- TODO add lightbox -->
-
-<!-- Map links -->
-
-[map]: assets/toowong-cemetery-map.jpg "Click to expand the map. Use Back to return to this page"
-[map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
-
-<!-- Add a mobility map eg https://www.brisbane.qld.gov.au/sites/default/files/brisbane_botanic_gardens_mobility_map.pdf -->
-
-## Toowong Cemetery Road Name Changes
+### Road Name Changes
 
 Some cemetery road names have recently been changed to the names of notable people buried nearby. Not all maps and signs in the cemetery have been updated to reflect these changes: 
 
@@ -143,6 +127,22 @@ Some cemetery road names have recently been changed to the names of notable peop
 
     Unfortunately signs are often vandalised in the cemetery. If you find a damaged sign, please take a photo and **[report damaged signs to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)**
 
+### Toowong Cemetery Portion and Section Map 
+
+This map will help you to **[find graves in Toowong Cemetery](research/find-a-grave.md)**. The map shows the old road names.
+
+[![Toowong Cemetery Map](assets/toowong-cemetery-map.jpg){ width="70%" }][map]
+
+*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
+
+<!-- TODO add lightbox -->
+
+<!-- Map links -->
+
+[map]: assets/toowong-cemetery-map.jpg "Click to expand the map. Use Back to return to this page"
+[map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
+
+<!-- Add a mobility map eg https://www.brisbane.qld.gov.au/sites/default/files/brisbane_botanic_gardens_mobility_map.pdf -->
 
 ## Attractions nearby
 

@@ -31,7 +31,7 @@ hide:
 
     - :fontawesome-solid-walking:{ .deep-purple } Walk up the steep grass path that leads directly to the Governor Blackall Memorial, the largest monument at the top of the hill
     - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk, drive or walk up Walter Hill Drive. When you come to the Shelter Shed at the top of the hill, take a sharp right turn into Federation Avenue and park on the edge of the road at the turning circle at the end.
-    - Walk back down Federation Avenue (previously 15th Avenue), on your immediately on your left about 4 rows after the end of the turning circle, you'll find Thomas Glassey and his wife Margaret. 
+    - Walk back down Federation Avenue (previously 15^th^ Avenue), on your immediately on your left about 4 rows after the end of the turning circle, you'll find Thomas Glassey and his wife Margaret. 
 
     ![Thomas Glassey's headstone](../assets/thomas-glassey-headstone.jpg){ width="15%" }
 -->
@@ -105,8 +105,8 @@ hide:
 <!--
 ??? directions "Directions" 
 
-    - :fontawesome-solid-walking:{ .deep-purple } Walk down the row, across the gully, and across 8th Avenue to the Shelter Shed.
-    - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk down the hill, return to your car and drive down Federation Avenue back to the Shelter Shed, then contine on Dr. Lilian Cooper Drive. Turn right into 9th Avenue, then right into Pat Hill Drive and park near the Shelter Shed. 
+    - :fontawesome-solid-walking:{ .deep-purple } Walk down the row, across the gully, and across 8^th^ Avenue to the Shelter Shed.
+    - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk down the hill, return to your car and drive down Federation Avenue back to the Shelter Shed, then contine on Dr. Lilian Cooper Drive. Turn right into 9^th^ Avenue, then right into Pat Hill Drive and park near the Shelter Shed. 
     - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
 
     ![Edward Michael Hanlon](../assets/edward-michael-hanlon-headstone.jpg){ width="15%" }  
@@ -135,7 +135,7 @@ hide:
 <!--
 ??? directions "Directions" 
 
-    - Walk back to the Shelter Shed, turn left into Charles Heaphey Drive (previously 8th Avenue). 
+    - Walk back to the Shelter Shed, turn left into Charles Heaphey Drive (previously 8^th^ Avenue). 
     - Before you get to Elizabeth Dale Walk, on your right, and almost to the end of the row, near the gully, you'll find Albert Whitford.
 
     ![Albert Edward Victor Whitford](../assets/albert-whitford-headstone.jpg){ width="15%" }  

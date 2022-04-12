@@ -8,7 +8,7 @@ hide:
 
 **Suffer the little children, and forbid them not, to come unto me**
 
-Brisbane’s infant mortality rate in the latter half of the 19^th^ century equalled that of the worse slums of the United Kingdom. More children died in spring and summer than winter and these rates did not improve between the mid-1870s and the 1890s^1^. In December 1876, 52 children under the age of eight were buried at Toowong Cemetery. The most common causes of death included childhood diseases, infections, drowning, burns and scalds. The most dramatic improvement did not occur until the fifth decade of the twentieth century and the advent of penicillin.
+Brisbane’s infant mortality rate in the latter half of the 19^th^ century equalled that of the worse slums of the United Kingdom. More children died in spring and summer than winter and these rates did not improve between the mid-1870s and the 1890s.^1^ In December 1876, 52 children under the age of eight were buried at Toowong Cemetery. The most common causes of death included childhood diseases, infections, drowning, burns and scalds. The most dramatic improvement did not occur until the fifth decade of the twentieth century and the advent of penicillin.
 
 ## Horsfall Family <small>(13‑3‑12)</small>
 
@@ -41,8 +41,8 @@ Five children were lost by James Gow and his wife Christina Philp between 1864 a
 - John Philip Gow was born on 1 January 1864 and died on 14 November 1864. 
 - Margaret Kirk died in August 1865 three weeks after her birth. 
 - Mary was born 14 June 1867 and died one week short of her first birthday. 
-- James was born 23 March 1878 and died on the 19th of May the same year. 
-- James John, named for his siblings, was born on 19th March 1880 and died on 5 November 1882.
+- James was born 23 March 1878 and died on 19 May the same year. 
+- James John, named for his siblings, was born on 19 March 1880 and died on 5 November 1882.
 
 > Gone to the better land <br>
 > Asleep on Jesu's breast <br>

@@ -47,7 +47,7 @@ He was elected to the Legislative Assembly as the member for Wide Bay in 1888. F
 
 Inspector John Ahern (1840-1893) came to Queensland from his native Ireland and joined the Police Force in September 1864. Ahern was sent to Springsure in October and promoted to Senior Constable/Acting Sergeant in July 1868. He became Inspector of Slaughterhouses in the Mitchell district in February 1870 and received the substantial reward of £15 in September 1872 for ‘energetic perseverance in suppressing cattle-stealers in the Barcoo and Walgett districts’. 
 
-Ahern was promoted to Senior Sergeant in January 1874 and Sub-Inspector 2nd class in 1877. He served at Blackall in 1880 where he became Sub-Inspector 1^st^ class. By 1890, he had been promoted to Inspector 1^st^ class in charge of all brands throughout the colony. Ahern was generally recognised as one of the most able and experienced officers in the police force in the early 1890s and he was ordered to Clermont to maintain order during the strike. 
+Ahern was promoted to Senior Sergeant in January 1874 and Sub-Inspector 2^nd^ class in 1877. He served at Blackall in 1880 where he became Sub-Inspector 1^st^ class. By 1890, he had been promoted to Inspector 1^st^ class in charge of all brands throughout the colony. Ahern was generally recognised as one of the most able and experienced officers in the police force in the early 1890s and he was ordered to Clermont to maintain order during the strike. 
 
 ![John Ahern](../assets/john-ahern.jpg){ width="40%" }
 

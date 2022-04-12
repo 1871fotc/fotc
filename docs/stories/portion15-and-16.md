@@ -42,7 +42,7 @@ The Toppin siblings, Jack, Leo and Madonna were well known child entertainers du
 
 ## Burton Family <small>(15‑22‑11/12)</small>
 
-The Burton family were hoteliers, operating some of Brisbane's landmark hotels in the 19th and 20th centuries.
+The Burton family were hoteliers, operating some of Brisbane's landmark hotels in the 19^th^ and 20^th^ centuries.
 
 --8<-- "snippets/frederick-augustus-garland.md"
 

@@ -4,6 +4,6 @@ Nurse Ivy Amess received her training at the Bundaberg General Hospital where sh
 
 <!--
 >In loving memory of sister Ethel Ivy Ellen AMESS  <br>
->died 31st Oct 1927 aged 24 years.  <br>
+>died 31^st^ Oct 1927 aged 24 years.  <br>
 >At Rest
 -->

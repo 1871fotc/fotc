@@ -18,7 +18,7 @@ It was James Campbell's proud boast that he had been a subscriber of the Brisban
 
 James married Sarah Ann Lovell on the 17^th^ of April 1866 at Toowoomba. Sarah hailed from Bristol, where she was born in March 1845. She came to Australia with her parents on the *Blenheim* in 1858. The Lovell family first settled in Ipswich then later moved to Toowoomba. Sarah's father, Richard Lovell, was a wheelwright and prominent citizen of Toowoomba. Her mother, Ann, was a member of the Gregory family.
 
-James died on the 13^th^ of September 1925 at his Brisbane home of jaw cancer. Sarah died almost ten years later on the 20th of July 1935 at their Toowoomba home. They are buried together at Toowong Cemetery. 
+James died on the 13^th^ of September 1925 at his Brisbane home of jaw cancer. Sarah died almost ten years later on the 20^th^ of July 1935 at their Toowoomba home. They are buried together at Toowong Cemetery. 
 
 James and Sarah had twelve children, four sons, seven daughters and a baby who died unnamed. At the time of his death in 1925, James had 33 grandchildren and five great-grandchildren.
 

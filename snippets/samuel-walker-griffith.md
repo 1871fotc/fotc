@@ -10,4 +10,4 @@ Griffith was a delegate at the Intercolonial Convention 1883. Subsequently, Grif
 
 In 1893 Griffith left government to become Chief Justice of Queensland and from 1903 to 1919 was the first Chief Justice of the High Court of Australia. During this period he translated Dante’s Divine Comedy from Italian, which was published by Oxford University Press in 1911. 
 
-He died on the 9th of August 1920 at his grand home Merthyr which gave its name to a locality in New Farm. The funeral cortege was described by the Daily Mail as the largest ever seen in Brisbane.
+He died on the 9^th^ of August 1920 at his grand home Merthyr which gave its name to a locality in New Farm. The funeral cortege was described by the Daily Mail as the largest ever seen in Brisbane.

@@ -16,7 +16,7 @@ Susannah brought up her large family with the assistance of her brother and sist
 
 In 1884 Susannah's youngest child, Eric, married sixteen-year-old Elizabeth Penhallurick at her residence at Westwood, via Rockhampton. From about this time, Mrs Agnes Maclean, as she became known, developed a reputation as a midwife, delivering many children in district, including a number of her own grandchildren. In October 1893, Agnes delivered Elizabeth's second son at Westwood. While Eric and Elizabeth had moved north to Bowen by 1895, it seems that Agnes moved south.
 
-Agnes claimed the right to vote in 1905, her 80th year. She was registered on the electoral rolls as living with her youngest daughter, Elvina, and her schoolmaster husband, Charles Marshall, at the Nerang State School.
+Agnes claimed the right to vote in 1905, her 80^th^ year. She was registered on the electoral rolls as living with her youngest daughter, Elvina, and her schoolmaster husband, Charles Marshall, at the Nerang State School.
 
 Agnes died of nephritis at the Nerang Hospital on the 20^th^ of January 1911. She was buried at Toowong Cemetery next to her sister-in-law, Mary Ann Kable.
 
