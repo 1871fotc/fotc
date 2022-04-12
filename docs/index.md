@@ -7,6 +7,9 @@ hide:
 
 --8<-- "snippets/metadata-home.json"
 
+--8<-- "snippets/full-width.html"
+
+
 # Friends of Toowong Cemetery
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
@@ -29,10 +32,9 @@ On this site you'll find information about:
  
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
 
-
 ## Visit Toowong Cemetery
 
-![Toowong Cemetery Main Entrance][main-entrance]{ width="70%" }
+<img class="full-width" src="assets/main-entrance.jpg" alt="Toowong Cemetery Main Entrance" width="70%">
 
 *<small>Toowong Cemetery Main Entrance off Frederick Street were designed by the Colonial Architect [F.D.G. Stanley](research/francis-drummond-grenville-stanley/) and were erected in 1873-1874</small>*
 
@@ -53,7 +55,7 @@ If you're walking, in addition to the entries above, you can enter via:
 - Frederick Street gate (opposite Sleath Street) that leads onto Steel Rudd Avenue (previously 4^th^ Avenue)
 - the many informal entries off Birdwood Terrace
 
-![Toowong Cemetery Pedestrian Entrance](assets/pedestrian-ramp.jpg){ width="70%" }
+<img class="full-width" src="assets/pedestrian-ramp.jpg" alt="Toowong Cemetery Pedestrian Entrance" width="70%">
 
 *<small>Toowong Cemetery Pedestrian Entrance off Mt Coot-tha Road. <b>[Bus stop 17, Mt Coot-tha Rd](https://jp.translink.com.au/plan-your-journey/stops/001403/timetable/)</b> is nearby.</small>*
 
@@ -74,7 +76,7 @@ If you enter the main entrance, you'll find:
 - a **Museum** operated by the Friends of Toowong Cemetery
 - **Toilets** - the only ones available in the cemetery
 
-![Canon Garland Place](assets/flag-pole.jpg){ width="70%" }
+<img class="full-width" src="assets/flag-pole.jpg" alt="Canon Garland Place" width="70%">
 
 *<small>The Stone of Remembrance, Cross of Sacrifice, and Flagpole in Canon Garland Place</small>*
 
@@ -131,7 +133,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 
 This map will help you to **[find graves in Toowong Cemetery](research/find-a-grave.md)**. The map shows the old road names.
 
-[![Toowong Cemetery Map](assets/toowong-cemetery-map.jpg){ width="70%" }][map]
+<img class="full-width" src="assets/toowong-cemetery-map.jpg" alt="Toowong Cemetery Map" width="70%">
 
 *<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
 
@@ -158,8 +160,7 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
 - [Mt Coot-tha Reserve](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-reserve) - drive to picnic areas, bush walks, or mountain bike riding. J. C. Slaughter Falls and Simpson Falls are our favourites
 - [Mt Coot-tha Events](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-precinct-events) - there's always something happening around Mt Coot-tha
 
-
-![Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg){ width="70%" }
+<img class="full-width" src="assets/duke-and-duchess-of-york-mt-coot-tha-adjusted.jpg" alt="Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927" width="70%">
 
 *<small>[Their Royal Highnesses, the Duke and Duchess of York enjoy a morning at Mt. Coot-tha, April 1927](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218197470002061) - State Library of Queensland. The Duke of York was later King George VI, and the Duchess of York was later Queen Elizabeth the Queen Mother</small>*
 
