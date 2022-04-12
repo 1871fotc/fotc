@@ -7,9 +7,6 @@ hide:
 
 --8<-- "snippets/metadata-home.json"
 
---8<-- "snippets/full-width.html"
-
-
 # Friends of Toowong Cemetery
 
 **Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.**
@@ -31,6 +28,7 @@ On this site you'll find information about:
 - **[Friends of Toowong Cemetery](about/)** - what we do, what we've done, and how to join in 
  
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
+
 
 ## Visit Toowong Cemetery
 
