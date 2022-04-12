@@ -107,7 +107,7 @@ hide:
 
     - :fontawesome-solid-walking:{ .deep-purple } Walk down the row, across the gully, and across 8^th^ Avenue to the Shelter Shed.
     - :fontawesome-solid-car:{ .deep-purple } To avoid the steep walk down the hill, return to your car and drive down Federation Avenue back to the Shelter Shed, then contine on Dr. Lilian Cooper Drive. Turn right into 9^th^ Avenue, then right into Pat Hill Drive and park near the Shelter Shed. 
-    - Walk towards O'Doherty Avenue (previously 11th Avenue) and four graves along you'll find Ned Hanlon. 
+    - Walk towards O'Doherty Avenue (previously 11^th^ Avenue) and four graves along you'll find Ned Hanlon. 
 
     ![Edward Michael Hanlon](../assets/edward-michael-hanlon-headstone.jpg){ width="15%" }  
 -->
