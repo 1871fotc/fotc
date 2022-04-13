@@ -39,24 +39,21 @@ ca. 1857 ‑ 1935
 Hanly was a member of the Royal Irish Constabulary for five years before joining the Queensland Police aged 25. After initial service in Brisbane and Ipswich, Hanly spent the rest of his career in northern and western Queensland. In February 1907, Senior Constable Hanly received a 10/6 reward for prompt action at a fire in Charters Towers. He was promoted to Sergeant within the year and superannuated in October 1913. He received Imperial Service Medal from the Lieutenant‑Governor, Sir Arthur Morgan, in December 1914. Hanly died on 6 October 1935 aged 76.
 
 --8<-- "snippets/john-ahern.md"
-^7^
-
-![John Ahern's headstone](../assets/john-ahern-headstone.jpg){ width="32%" }
 
 --8<-- "snippets/william-harold-ryan.md"
 
 --8<-- "snippets/henry-marjoribanks-chester.md"
-^8^
+^7^
 
 --8<-- "snippets/patrick-clancy.md"
 
 --8<-- "snippets/matthew-collopy.md"
-^9^
+^8^
 
 --8<-- "snippets/joseph-kelly.md"
 
 --8<-- "snippets/thomas-slattery.md"
-^10^
+^9^
 
 ## Acknowledgements
 
@@ -76,13 +73,11 @@ Police career information supplied by the [Queensland Police Museum](https://www
 
 6: Brisbane Courier 26 April 1917 p.11
 
-7: Western Champion & General Advertiser (Barcaldine) 19 Sep 1893 p.5 
+7: Brisbane Courier 5 October 1914 p.6
 
-8: Brisbane Courier 5 October 1914 p.6
+8: Morning Bulletin (Rockhampton) 3 Feb 1880 p.2
 
-9: Morning Bulletin (Rockhampton) 3 Feb 1880 p.2
-
-10: Brisbane Courier 6 February 1878 p.2
+9: Brisbane Courier 6 February 1878 p.2
 
 <!--
 <div class="noprint" markdown="1">

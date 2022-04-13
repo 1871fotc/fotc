@@ -109,7 +109,7 @@ Dr Cooper commenced private practise in Brisbane in 1891 at The Mansions, in Geo
 !!! Warning "Portion 30" 
 
     This grave is not included on the walk.
--->    
+-->
 
 --8<-- "snippets/agnes-helen-storie.md"
 

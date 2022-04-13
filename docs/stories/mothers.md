@@ -54,7 +54,7 @@ Mary Catherine Tierney was born in Queensland to Patrick Tierney, railway worker
 
 The family resided at *Green Hill*, Alderley. Mary and Kitty died on 13 March 1918 following a sulky accident on Bowen Bridge Road.
 
-![The Green Hill Estate Alderley, 1914](../assets/green-hill-estate.jpg){ width="40%"}
+![The Green Hill Estate Alderley, 1914](../assets/green-hill-estate.jpg){ width="50%"}
 
 *<small>[The Green Hill Estate Alderley / Isles Love & Co., Auctioneers ; Harry Raff, Surveyor.](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21124184580002061) Plan of allotments to be sold by public auction, Saturday, 14th March, 1914. Land for sale is subdivisions of portions 445 & 446, Enoggera - State Library of Queensland.</small>*
 
@@ -82,22 +82,20 @@ The family resided in Ipswich until Dr Lightoller travelled to Europe from March
 
 <!-- TODO seems to conflict with https://apps.des.qld.gov.au/heritage-register/detail/?id=600219 -->
 
-![Palmarosa, 1893](../assets/palmarosa-1893.jpg)
+![Palmarosa, 1893](../assets/palmarosa-1893.jpg){ width="100%" }
 
 *<small>[Floodwaters in Newstead, 1893](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218173890002061), looking north-east from Jordan Terrace, Bowen Hills. On the hillside beyond, the house 'Palma Rosa' at 9 Queens Road, Hamilton, is visible.  - State Library of Queensland. Cropped. Annotation added.</small>*
 
-![Highlands, a residence in Albion, Brisbane, 1930](../assets/highlands-1930.jpg)
+![Highlands, a residence in Albion, Brisbane, 1930](../assets/highlands-1930.jpg){ width="100%" }
 
-*<small>[Highlands, a residence in Albion, Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool50472)  - State Library of Queensland.</small>*
+*<small>[Highlands, a residence in Albion, Brisbane, 1930](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool50472)  - State Library of Queensland. Cropped.</small>*
 
 
 ## Helen Dugald Street <small>(12‑39‑24)</small>
 
 Helen Dugald Robertson was born in Wisconsin, USA in 1858 to Charles Robertson, a blacksmith and Christina (née Shallcross). William Street, white ant and borer expert, married Helen, a woollen mill clerk, on Thursday 25 August 1881 at the residence of the bride's father, Patch Grove, Grant County, Wisconsin, USA. The couple sailed from Glasgow on 11 October 1881, arriving in Moreton Bay on 28 January 1882 aboard the *Brodick Bay*. 
 
-The Streets had two Queensland-born sons, Charles Abram (1883-1938) and Richard Joseph, known as RJ (1884-1959). 
-
-Helen died on 7 October 1907 in South Brisbane.
+The Streets had two Queensland-born sons, Charles Abram (1883-1938) and Richard Joseph, known as RJ (1884-1959). Helen died on 7 October 1907 in South Brisbane.
 
 ## Eliza Finney <small>(13‑81‑6/13)</small>
 
@@ -105,9 +103,7 @@ Eliza Cornwall was born to Thomas Cornwall and Mary (née Thomas) in County Galw
 
 Some of the couple's children include. Mary Jane (1823-1841), Rachel (1829-1880), Frances Martha (1930-1882), Lewis William (ca. 1832-1910), Robert Cornwall (1835-?), Thomas (1837-1903), Susan (ca. 1840-1923), Elizabeth Emma (1841-1912), Alfred Richard (1844-1901), Mary (ca. 1850-1924), Jane Margaret (ca. 1851-1927) and Helen Henrietta (ca. 1853-1908). 
 
-Thomas died ca. 1852. Eliza and three daughters sailed to Brisbane aboard the *Royal Dane*, arriving on 16 January 1873. 
-
-Eliza died in the arms of one of her daughter's on the afternoon of Friday 22 July 1898.
+Thomas died ca. 1852. Eliza and three daughters sailed to Brisbane aboard the *Royal Dane*, arriving on 16 January 1873. Eliza died in the arms of one of her daughter's on the afternoon of Friday 22 July 1898.
 
 <!--
 

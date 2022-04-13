@@ -26,23 +26,19 @@ Alfred Wall was born in England before migrating to Queensland in the ship *Youn
 
 His son, [Alfred George Curtis Wall](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_alma21285295720002061) served in WWI in the Australian Flying Corps No 2 Squadron where he was designated 1^st^ Air Mechanic.
 
-![Illuminated address for Mr Alfred Wall](../assets/alfred-wall-illuminated-address.jpg){ width="96%" }
+![Illuminated address for Mr Alfred Wall](../assets/alfred-wall-illuminated-address.jpg){ width="100%" }
 
 *<small>[Illuminated address for Mr Alfred Wall](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_alma21218453260002061), presented on his retirement from his position as Head Teacher at the Milton State School, Brisbane from 1888 to 1916 - State Library of Queensland. </small>*
 
 --8<-- "snippets/john-theophillus-symons-bird.md"
 
-
 ## Angus McDonald, Robert Alexander McDonald and Stanley Angus McDonald <small>(5‑30‑1/2)</small>
 
 Angus McDonald who was born in Ayr, Scotland, came to Queensland with his parents at the age of 10. He lived in Ipswich and Harrisville before retiring to Brisbane. His son, Robert Alexander McDonald was the chief Clerk of Prisons in the Queensland Prison Department. [He disappeared in August 1913](https://trove.nla.gov.au/newspaper/article/79111444) and his body was not found for three months. Another son, [Stanley died on *RMS Celtic*](https://trove.nla.gov.au/newspaper/article/220493577) in 1918.
 
-
 --8<-- "snippets/john-lamacraft-richards.md"
 
 --8<-- "snippets/elizabeth-powell.md"
-
-
 
 ## Edmond Filmer Craven and Caroline Craven <small>(5‑32‑7)</small>
 

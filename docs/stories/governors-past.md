@@ -30,11 +30,9 @@ Griffith served as Queensland's chief justice from 13 March 1893 to 6 October 19
 
 On 16 March 1917 Griffith suffered a stroke while on the bench and was temporarily retired. His mortgage forced him, aged 72, to return to work. He eventually retired to Brisbane where he died at Merthyr on 9 August 1920.
 
-
-![Sir Samuel Walker Griffith and family](../assets/samuel-walker-griffith-and-family.jpg){ width="70%" }
+![Sir Samuel Walker Griffith and family](../assets/samuel-walker-griffith-and-family.jpg)
 
 *<small>[Sir Samuel Walker Griffith and family](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218185350002061) - State Library of Queensland </small>*
-
 
 
 ## Hon. Sir Arthur Morgan <small>(12‑15‑12)</small>
@@ -51,10 +49,9 @@ Morgan entered local politics in 1885 when elected to the Warwick Municipal Coun
 In 1907 the Governor Lord Chelmsford reluctantly appointed Morgan lieutenant‑governor, by‑passing Sir Pope Cooper. Morgan deputised in 1907 and 1908 during Chelmsford's absences and, in 1909 and 1914, was Lieutenant‑governor on the retirement of Governors Chelmsford and Sir William MacGregor. He was still President of the Legislative Council when he died on 20 December 1916 after a long illness. He was buried here after a state funeral at St John's Cathedral.
 
 
-![Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](../assets/sir-arthur-and-lady-morgan.jpg){ width="70%" }
+![Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](../assets/sir-arthur-and-lady-morgan.jpg)
 
 *<small>[Sir Arthur and Lady Morgan on board the S.S. Mourilyan, Queensland, 1910](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256749450002061) - State Library of Queensland </small>*
-
 
 --8<-- "snippets/pope-alexander-cooper.md"
 

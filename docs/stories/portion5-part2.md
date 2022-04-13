@@ -51,7 +51,7 @@ John Arthur Macartney (1834-1917) was the eldest son of the Very Rev Hussey Burg
 
 ![Captain Louis Hope's residence, Ormiston House, Cleveland district, ca.1871](../assets/ormiston-house.jpg) 
 
-*<small>[Captain Louis Hope's residence, Ormiston House, Cleveland district, ca.1871](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249909850002061) — State Library of Queensland.</small>*
+*<small>[Captain Louis Hope's residence, Ormiston House, Cleveland district, ca.1871](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249909850002061) — State Library of Queensland. Cropped. </small>*
 
 ## Edward Vincent Pollock <small>(5‑62‑12)</small>
 
@@ -64,7 +64,6 @@ Irish-born Edward Vincent Pollock (1851-1911) was attached to the Admiralty bran
 Englishman Richard William Curtis (1840-1905) is one of six proven veterans of the American Civil War buried in Toowong Cemetery. He joined the Confederate States Navy and is recorded as being Assistant Paymaster on the CSS *Georgia* in 1863 and later Paymaster on CSS *Stonewall*. After the conclusion of the Civil War he came to Brisbane where he worked for the Government and in private enterprise.
 
 ![Richard William Curtis' headstone](../assets/richard-william-curtis-headstone.jpg) 
-
 
 ## Richard Langler Drew <small>(5‑43‑2)</small>
 
