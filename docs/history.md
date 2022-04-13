@@ -140,7 +140,7 @@ Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary 
 
 ![Chermside Park advertisement](assets/chermside-park.jpg){ width="96%" }  
 
-*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. Third Avenue is now named Couldrey St. </small>*
+*<small>[Chermside Park, second section : Auchenflower](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21190073930002061), 1921 — [State Library of Queensland](https://www.slq.qld.gov.au). Note in the Inset how the tram stopped at the Toowong Cemetery gates. [Third Avenue is now named Couldrey St](assets/documents/new-streets-1939.pdf). </small>*
 
 ![Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" }  
 
