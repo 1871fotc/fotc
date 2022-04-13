@@ -17,9 +17,10 @@ Emily Sophia ran boarding houses in her later years. The first was the Strathmor
 
 Emily Sophia died on the 19^th^ of December 1923 at Kent Road, Wooloowin. Henry Tom was admitted to Dunwich Asylum in early November 1925 and died there on the 21^st^ of May 1927, his body being taken by launch to Cleveland. He is buried at Toowong with his brother Frank.
 
-Redael the name of the family home in Kent Road Wooloowin, is 'Leader' (Emily's maiden name) spelt backwards.
+*Redael* the name of the family home in Kent Road Wooloowin, is 'Leader' (Emily's maiden name) spelt backwards.
+ 
 
-![Post Office Hotel Advertisement](../assets/post-office-hotel-advertisement-sml.jpg){ width="90%" }  
+<img class="full-width" src="../../assets/post-office-hotel-advertisement-sml.jpg" alt="Post Office Hotel Advertisement" width="90%">
 
 *<small>[This advertisement appeared in The Queensland Figaro on the 20^th^ of April 1889.](https://trove.nla.gov.au/newspaper/page/8757817#)</small>*
 
