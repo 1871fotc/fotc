@@ -52,7 +52,7 @@ Emma was born in June 1839 in Chesterfield, Derbyshire. Her parents were Daniel 
 
 --8<-- "snippets/arthur-morgan.md"
 
-![Women inside the gate of the city polling station, voting for the first time in a Queensland state election, May 1907](../assets/women-voting-1907.jpg){ width="70%" }  
+![Women inside the gate of the city polling station, voting for the first time in a Queensland state election, May 1907](../assets/women-voting-1907.jpg)
 
 *<small>[Women inside the gate of the city polling station, voting for the first time in a Queensland state election, May 1907](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool72579) — State Library of Queensland.</small>*
 
