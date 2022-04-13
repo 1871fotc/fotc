@@ -43,16 +43,14 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 </div>
 *<small>[Toowong Cemetery: Resting place of Governor Samuel Blackall (One Minute Archive)](https://www.youtube.com/watch?v=jJ3oK4nwNbA) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives)*</small>
 
-![Toowong Cemetery, Brisbane, ca. 1890](assets/toowong-cemetery-ca1890.jpg){ width="96%" }  
+![Toowong Cemetery, Brisbane, ca. 1890](assets/toowong-cemetery-ca1890.jpg){ width="96%" } 
 
-*<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+*<small>[Toowong Cemetery, Brisbane, ca. 1890](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21272130100002061), — State Library of Queensland. Cropped.</small>*
 
 [![Map and aerial photo of Toowong Cemetery][map-photo]{ width="96%" }][aerial-photo]  
 
 [map-photo]: assets/Toowong-cemetery-map-photo.jpg "Click to view full aerial photo"
 [aerial-photo]: assets/toowong-cemetery-aerial-photo-1946.jpg
-
-
 
 *<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
 *<small>Series 46 Film BCC2 Frame 34691, 31 May 1946 — Brisbane City Council, via [QImagery](https://qimagery.information.qld.gov.au). Frederick St is the straight road on the right, running top to bottom.</small>*
@@ -146,7 +144,7 @@ Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary 
 
 ![Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](assets/tram-passing-the-toowong-cemetery-1921.jpg){ width="96%" }  
 
-*<small>[Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — [State Library of Queensland](https://www.slq.qld.gov.au). </small>*
+*<small>[Tram passing the Toowong Cemetery with Mt Coot-tha in the distance, Queensland, 1921](http://onesearch.slq.qld.gov.au/permalink/f/fhnkog/slq_digitool542430) — State Library of Queensland. Cropped. </small>*
 
 ## 1924 Remembering the Anzacs
 
@@ -166,18 +164,18 @@ Garland, aged 75, died at Red Hill on 11 October 1939. His grave is located at P
 
 ![Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](assets/unveiling-cross-of-sacrifice.jpg){ width="96%" }  
 
-*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=) — [State Library of Queensland](https://www.slq.qld.gov.au). <!-- The Union Jack flag was placed on the building to mask the fact that it was the amenities. --> </small>*
+*<small>[Official unveiling of the Cross of Sacrifice on Anzac Day at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE1400763&change_lng=) — State Library of Queensland. <!-- The Union Jack flag was placed on the building to mask the fact that it was the amenities. --> </small>*
 
 <!--
 ![Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](assets/stone-of-remembrance.jpg){ width="96%" }  
 
-*<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+*<small>[Cross of Sacrifice and Stone of Remembrance memorials at Toowong Cemetery, Brisbane, 1924](https://digital.slq.qld.gov.au/delivery/DeliveryManagerServlet?change_lng=en&dps_pid=IE1400772) — State Library of Queensland.</small>*
 
 -->
 
 ![Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](assets/stone-of-remembrance-with-children-1924.jpg){ width="96%" }  
 
-*<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — [State Library of Queensland](https://www.slq.qld.gov.au).</small>*
+*<small>[Small children looking at wreaths laid at the memorial on Anzac Day, Toowong Cemetery, Brisbane, 1924](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21271931300002061) — State Library of Queensland. Cropped.</small>*
 
 ## 1962 Trams Terminated
 
@@ -244,7 +242,7 @@ In 1913 the headstones had been stored in good order behind Christ Church in Pad
 
 ![Paddington Cemetery ca. 1900's](assets/paddington-cemetery-ca-1900.jpg){ width="96%" } 
 
-*<small>[Paddington Cemetery ca. 1900's](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/22186/1) — Brisbane City Council</small>*
+*<small>[Paddington Cemetery ca. 1900's](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/22186/1) — Brisbane City Council. Cropped.</small>*
 
 ![Discovered headstones](assets/lost-and-found.jpg){ width="96%" } 
 
