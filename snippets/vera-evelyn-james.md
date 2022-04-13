@@ -4,4 +4,4 @@ As Sister Pfingst, Vera James was a trained nurse and ward sister at the Brisban
 
 ![Australian Trained Nurses Association (ATNA) Women's Rest Home, Brisbane](../assets/anta-womens-rest-home.jpg){ width="70%" }  
 
-*<small>[Australian Trained Nurses Association (ATNA) Women's Rest Home, Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218456390002061) — State Library of Queensland.</small>*
+*<small>[Australian Trained Nurses Association (ATNA) Women's Rest Home, Brisbane](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218456390002061) — State Library of Queensland. Cropped, Rotated.</small>*

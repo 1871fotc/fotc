@@ -71,7 +71,9 @@ His comrades funded the erection of a marble headpiece above his grave at the To
 
 Private George Heiniger of the Unallotted Light Horse died on 21 February 1915 at the Enoggera Military Training Camp in Brisbane at the age of 18. The night before his death he complained of a headache and giddiness. The next morning he was very ill and his comrades took him on a stretcher to the field hospital at the camp. Once there he lapsed into unconsciousness and died at 9.15 am that day. A court of enquiry found that he had died of heat stroke, although his comrades stated that he had not been in the sun and had not engaged in violent exercise or work preceding his illness.
 
-http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21268047290002061
+http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21268047290002061 - grave photo 1915
+
+
 
 -->
 
