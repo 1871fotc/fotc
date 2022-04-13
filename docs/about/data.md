@@ -147,3 +147,7 @@ We encourage you to reuse our data but please follow the terms of the licence an
 <!-- 
 We may encourage reuse of our data by participating in hack-a-thons (such as [GovHack](https://govhack.org)), and experiments with other organisations. 
 -->
+
+![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902.jpg)
+
+*<small>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland.</small>*

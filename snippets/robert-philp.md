@@ -7,6 +7,7 @@ Philp entered politics on 5 January 1876 by winning the seat of Musgrave, but tr
 Sir Robert died after an operation on 17 June 1922 in Holyrood Private Hospital, Brisbane, and was buried in Toowong Cemetery two days later. 
 
 
-![Sir Robert Philp](../assets/sir-robert-philp.jpg){ width="40%" }  
+![Sir Robert Philp](../assets/sir-robert-philp.jpg){ width="44.85%" }  ![Mary had a little lamb, cartoon in the Worker, 1900 ](../assets/mary-had-a-little-lamb.jpg){ width="40%" }  
 
-*<small>[Sir Robert Philp](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool194435), 1901 — State Library of Queensland.</small>*
+*<small>[Sir Robert Philp](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool194435), 1901 — State Library of Queensland.</small>* <br>
+*<small>[Mary had a little lamb](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool191215), from the Worker, 11 August 1900 — State Library of Queensland.</small>* 
