@@ -37,6 +37,7 @@ These stories were conceived as part of commemorative activities. It features on
 
 Born in 1884, Victor was a Justice of the Peace and a Mason. He died at his home, *Craig‑Royston*, Toowong on 21 July 1951. His wife, Jean, was also a JP and a prominent citizen, honoured as a Member of the British Empire. Jean died in June 1976, aged 89.
 
+
 <!--
 ??? directions "Directions" 
 
