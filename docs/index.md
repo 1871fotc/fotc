@@ -131,7 +131,8 @@ Some cemetery road names have recently been changed to the names of notable peop
 
 This map will help you to **[find graves in Toowong Cemetery](research/find-a-grave.md)**. The map shows the old road names.
 
-<img class="full-width" src="assets/toowong-cemetery-map.jpg" alt="Toowong Cemetery Map" width="70%">
+<a href="assets/toowong-cemetery-map.jpg" title="Click to expand. Back to return to this page">
+<img class="full-width" src="assets/toowong-cemetery-map.jpg" alt="Toowong Cemetery Map" width="70%"></a>
 
 *<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
 
@@ -139,7 +140,6 @@ This map will help you to **[find graves in Toowong Cemetery](research/find-a-gr
 
 <!-- Map links -->
 
-[map]: assets/toowong-cemetery-map.jpg "Click to expand the map. Use Back to return to this page"
 [map-cc-by]: https://creativecommons.org/licenses/by/4.0/  "Creative Commons Attribution 4.0 Licence"
 
 <!-- Add a mobility map eg https://www.brisbane.qld.gov.au/sites/default/files/brisbane_botanic_gardens_mobility_map.pdf -->
