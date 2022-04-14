@@ -238,7 +238,7 @@ In 2006, in conjunction with the University of Queensland Archaeology Department
 
 In 2011, while staff prepared a new grave, the headstone of a John Peel was discovered. Brisbane City Council had no record of John Pell and asked Friends of Toowong Cemetery for help. It was discovered that the headstone was one of 504 missing headstones from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). 
 
-In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for roadbase. This was not entirely true as many headstones have been found in archaeological digs between 2011-2016. 
+In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for road-base. This was not entirely true as many headstones have been found in archaeological digs between 2011-2016. 
 
 ![Paddington Cemetery ca. 1900's](assets/paddington-cemetery-ca-1900.jpg){ width="96%" } 
 
