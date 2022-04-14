@@ -6,8 +6,7 @@ hide:
   - navigation
 ---
 
-# Stories from Portions 15 and 16   
-
+# Stories from Portions 15 and 16
 
 --8<-- "snippets/alexander-mountford.md"
 
