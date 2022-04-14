@@ -10,7 +10,6 @@ search:
 
 **Find a story about a person remembered at Toowong Cemetery**. The table below lists over 500 people mentioned in our **[stories](../stories/index.md)**. 
 
-
 ??? question "Volunteer - Contribute missing data"
 
     Do you know about any of the missing data in the Story Index? Did you spot an error? 
