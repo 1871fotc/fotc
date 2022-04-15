@@ -51,13 +51,14 @@ Currently we are:
 - **photographing every headstone** in the cemetery.
 - **encouraging the community to volunteer** through simple one-off tasks shown on this site. <!-- like the one below. -->
 
-
+<!--
 !!! question "Volunteer - help us update the cemetery maps"
 
     To update our maps we need:
     
     - access and a licence to the cemetery location data and [grave data](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search). 
     - someone skilled in making maps. **Can you help?** 
+-->
 
 ## What have we got planned? 
 
