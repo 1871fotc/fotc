@@ -205,9 +205,7 @@ In 1988 the first season of [Mission Impossible](https://en.wikipedia.org/wiki/M
 
 --8<-- "snippets/mission-impossible.md"
 
-
 ## 1991 The Sexton's office restoration 
-
 
 The Museum building, located over the open drain, was formerly the Sexton's office and was built at the turn of the century. It is a single storey, single skin timber framed building with terracotta tile roof. The two room structure is located above the floor of an earlier structure identified as the flower shed which was associated with the cultivation and selling of flowers from Portion 10. The internal partition wall was reconstructed, windows replaced and an adjoining store room was demolished as part of the museum conversion project carried out by the Brisbane City Council Heritage Unit in 1991.[^1] 
 
@@ -246,7 +244,7 @@ In 1913 the headstones had been stored in good order behind Christ Church in Pad
 
 ![Discovered headstones](assets/lost-and-found.jpg){ width="96%" } 
 
-*<small>Toowong Cemetery Archaeological Dig Findings</small>*
+*<small>Toowong Cemetery Archaeological dig finds</small>*
 
 ## 2009 Vandalism law changes
 
