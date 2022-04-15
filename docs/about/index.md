@@ -20,7 +20,7 @@ search:
 The Friends of Toowong Cemetery:
 
 - **research the [history of Toowong Cemetery](../history.md)**, its [headstones](../headstones/symbols.md), and the [stories](../stories/) of the people remembered here. 
-- **share our discoveries** with the community through our [guided tours](../guided-tours.md), published [stories](../stories/), museum, [publications](publications.md), and [data](data.md).
+- **share our discoveries** with the community through our [guided tours](../guided-tours.md), published [stories](../stories/), museum, [publications](publications.md), and [data](../research/data.md).
 - **contribute stories** of people remembered at the Toowong and [Paddington cemeteries](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery) to other publications, biographical databases, and information signs around the cemetery.
 - **clean and conserve headstones**.
 - **search for buried headstones** in [archaeological digs](../headstones/archaeological-digs.md) in the cemetery grounds. 
@@ -49,7 +49,7 @@ Currently we are:
 
 - planning to erect an **[honour board](https://youtu.be/mVfixEzUpwk)** at the cemetery's main entrance to commemorate people who have served their nation in military uniform and now rest in Toowong Cemetery.
 - **photographing every headstone** in the cemetery.
-- **encouraging the community to volunteer** through simple one-off tasks shown on this site. <!-- like the one below. 
+- **encouraging the community to volunteer** through simple one-off tasks shown on this site. <!-- like the one below. -->
 
 
 !!! question "Volunteer - help us update the cemetery maps"

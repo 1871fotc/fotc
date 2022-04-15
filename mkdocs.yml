@@ -237,16 +237,24 @@ nav:
     - Portion 6 and 24: stories/portion6-and-24.md
     - Portion 15 and 16: stories/portion15-and-16.md
   - Headstones: 
+#    - Headstones: headstones/index.md  
     - Symbols: headstones/symbols.md
     - Signs: headstones/signs.md 
 #    - Shapes: headstones/shapes.md  
 #    - Monuments: headstones/monuments.md 
     - Archaeological Digs: headstones/archaeological-digs.md
+    - Lost Paddington Cemetery Headstones: headstones/lost-paddington-headstones.md
+#    - Found Paddington Cemetery Headstones: headstones/found-paddington-headstones.md
+#    - Lost Toowong Cemetery Headstones: headstones/lost-toowong-headstones.md
+#    - Found Toowong Cemetery Headstones: headstones/found-toowong-headstones.md   
+#    - At Risk Headstones: headstones/at-risk-headstones.md   
 #    - Celebrity Headstones: headstones/celebrities.md
   - Research:
     - Research Resources: research/research.md
     - Find a Grave: research/find-a-grave.md  
     - Find a Story: research/find-a-story.md
+#    - Paddington Cemetery: research/paddington-cemetery.md
+    - Data: research/data.md
   - Guided Tours: guided-tours.md  
   - About Us: 
     - About Us: about/index.md
@@ -254,6 +262,5 @@ nav:
     - Extraordinary Stories: about/extraordinary-stories.md
     - 140th Anniversary Commemoration: about/140-commemoration.md
     - Federation Pavilion: about/federation-pavilion.md
-    - Data: about/data.md
     - Legal: about/legal.md
   - Contact Us: contact.md
