@@ -1,0 +1,845 @@
+<!-- script src='tablesort.number.js'></script -->
+
+<!--
+
+<script src="../../javascripts/tablefilter.js"></script>
+
+<div class="search-container">
+  <span class="table-filter-input">
+    <input type="text" id="myInput" name="myInput" placeholder="Search for a name" autofocus>
+  </span> 
+  <div class="search-button-container">
+    <span class="table-filter-reset-button">
+      <input type="image" id="resetButton" src="../../assets/clear.svg" alt="Reset" onclick="clearInput()">
+    </span>
+    <span class="table-filter-search-button">
+      <input type="image" id="searchButton" src="../../assets/search.svg" alt="Submit" onmousedown="setSearchButton()" onclick="searchIndex()">
+    </span>
+  </div>  
+</div>
+-->
+
+<!-- must use a html table to enable filter and default sort order - http://tristen.ca/tablesort/demo/ -->
+
+<table>
+  <thead>
+    <tr>
+      <th data-sort-method='number'>Memorial</th>
+      <th>Given Names</th>
+      <th>Last Name</th>
+      <th>Honorific Prefix</th>
+      <th>Note</th>
+      <th>Section</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1</td>
+        <td>John</td>
+        <td>Aitchison</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>John</td>
+        <td>Allen</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>2</td>
+        <td>John</td>
+        <td>Allen</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>W. J.</td>
+        <td>Allen</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>3</td>
+        <td>J.</td>
+        <td>Allen</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>John</td>
+        <td>Amy</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Wm. Grovenor</td>
+        <td>Armstrong</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>John</td>
+        <td>Ashworth</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>J. F.</td>
+        <td>Atkinson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Percy</td>
+        <td>Backhouse</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>C. J.</td>
+        <td>Baker</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Wm.</td>
+        <td>Baker</td>
+        <td>Rev.</td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>James</td>
+        <td>Balfour</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>C. A.</td>
+        <td>Barham</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>C. H.</td>
+        <td>Barlee</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>A. W.</td>
+        <td>Barlee</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>E. H.</td>
+        <td>Barlee</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>E. L.</td>
+        <td>Barlee</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Hy. Robt.</td>
+        <td>Barlthrop</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Wille J.</td>
+        <td>Barnes</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>J. W.</td>
+        <td>Barnett</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>John E.</td>
+        <td>Barney</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>S. M.</td>
+        <td>Barrington</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>F. A.</td>
+        <td>Barrington</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>M. E.</td>
+        <td>Barron</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>P. P.</td>
+        <td>Baskerville</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>Eliz.</td>
+        <td>Bateman</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>F. G.</td>
+        <td>Bennett</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>A. W.</td>
+        <td>Bennett</td>
+        <td></td>
+        <td>and infant</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>Arthur S.</td>
+        <td>Bernays</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>Wm.</td>
+        <td>Betz</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>B. E. </td>
+        <td>P.</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>E. J.</td>
+        <td>Black</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>Thos.</td>
+        <td>Black</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>C. J.</td>
+        <td>Blakeney</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>G. D.</td>
+        <td>Blanche</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>Wm. B.</td>
+        <td>Blunt</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>T. H.</td>
+        <td>Bothamley</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>Richard</td>
+        <td>Bower</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>Eliz.</td>
+        <td>Bowers</td>
+        <td></td>
+        <td>same as W. J. and R. H. Sparkes. 226</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>J.</td>
+        <td>Brackenridge</td>
+        <td>Rev.</td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>Amos</td>
+        <td>Braysher</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>J. W.</td>
+        <td>Brown</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>Wm. A.</td>
+        <td>Brown</td>
+        <td></td>
+        <td>same as T. Seymour, 217. <i>'William Anthony' on the discovered headstone.</i> </td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>Paul L.</td>
+        <td>Burke</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>Eliza</td>
+        <td>Burley</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>James</td>
+        <td>Burley</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>Ernest A.</td>
+        <td>Cairncross</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>James F.</td>
+        <td>Calcott</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>41</td>
+        <td>Peter</td>
+        <td>Callon</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>42</td>
+        <td>James C.</td>
+        <td>Campbell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>42</td>
+        <td>J. C.</td>
+        <td>Campbell</td>
+        <td></td>
+        <td>same as C. Obsbourn, 182</td>
+        <td>Episcopalian</td>
+    </tr> 
+    <tr>
+        <td>42</td>
+        <td>J.</td>
+        <td>Robinson</td>
+        <td></td>
+        <td>same as ???</td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>42</td>
+        <td>D. C.</td>
+        <td>Campbell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>43</td>
+        <td>Agnes</td>
+        <td>Carby</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>F. M.</td>
+        <td>Carby</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>      
+    <tr>
+        <td>44</td>
+        <td>M. A.</td>
+        <td>Carter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>45</td>
+        <td>J. W.</td>
+        <td>Cayzer</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>46</td>
+        <td>John G.</td>
+        <td>Chapman</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>47</td>
+        <td>A. L.</td>
+        <td>Clarke</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>48</td>
+        <td>R.</td>
+        <td>Clarke</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>     
+    <tr>
+        <td>49</td>
+        <td>C. R.</td>
+        <td>Clay</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>David</td>
+        <td>Clifford</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr> 
+    <tr>
+        <td>51</td>
+        <td>S. J.</td>
+        <td>Cockerill</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>S. J.</td>
+        <td>Cockerill</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>51</td>
+        <td>E. R.</td>
+        <td>Cockerill</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>51</td>
+        <td>C. C.</td>
+        <td>Cockerill</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>52</td>
+        <td>Agatha K.</td>
+        <td>Cockle</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>53</td>
+        <td>H. S. G.</td>
+        <td>Colfoys</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>54</td>
+        <td>Alfred</td>
+        <td>Compigne</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>55</td>
+        <td>Jessie</td>
+        <td>Compigne</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>56</td>
+        <td>M.</td>
+        <td>Connan</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>56</td>
+        <td>C. L.</td>
+        <td>Connan</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>57</td>
+        <td>M. A. E.</td>
+        <td>Cooper</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>58</td>
+        <td>J. B.</td>
+        <td>Copeland</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>59</td>
+        <td>Samual</td>
+        <td>Copperwaite</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>60</td>
+        <td>H. A.</td>
+        <td>Court</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>60</td>
+        <td>E. M.</td>
+        <td>Court</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>61</td>
+        <td>A.D.</td>
+        <td>Cox</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>61</td>
+        <td>E. M.</td>
+        <td>Cox</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>62</td>
+        <td>Wm.</td>
+        <td>Crack</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>63</td>
+        <td>F. C.</td>
+        <td>Cracknell</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>64</td>
+        <td>Ernest Elphinstone</td>
+        <td>Dalrymple</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>65</td>
+        <td>J.</td>
+        <td>Daly</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>65</td>
+        <td>E.</td>
+        <td>Daly</td>
+        <td></td>
+        <td>same as E. Newton, 173.</td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>66</td>
+        <td>Wm.</td>
+        <td>Davey</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>67</td>
+        <td></td>
+        <td>Davidson</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>68</td>
+        <td>J. W.</td>
+        <td>Deedes</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>69</td>
+        <td>Frank</td>
+        <td>Deighton</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>70</td>
+        <td>Chas.</td>
+        <td>Denyer</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>71</td>
+        <td>Ann</td>
+        <td>De Villers</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>72</td>
+        <td>T. S.</td>
+        <td>Dexter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>72</td>
+        <td>S. C.</td>
+        <td>Dexter</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>73</td>
+        <td>V. H. A.</td>
+        <td>Dickins</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>74</td>
+        <td></td>
+        <td>Dora</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>  
+    <tr>
+        <td>75</td>
+        <td>M. J.</td>
+        <td>Dowall</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>    
+    <tr>
+        <td>97</td>
+        <td>Wm. H.</td>
+        <td>Geary</td>
+        <td>Capt.</td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>97</td>
+        <td>Susan</td>
+        <td>Geary</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>107</td>
+        <td>E.</td>
+        <td>Hartnoll</td>
+        <td></td>
+        <td><i>'Eliza' on the discovered headstone</i></td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>111</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>Headstone (no name)</td>
+        <td>Episcopalian</td>
+    </tr>
+    <tr>
+        <td>194</td>
+        <td>John</td>
+        <td>Peel</td>
+        <td></td>
+        <td></td>
+        <td>Episcopalian</td>
+    </tr>
+  <tbody>
+</table>
