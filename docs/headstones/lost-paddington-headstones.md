@@ -1,6 +1,8 @@
 ---
 title: Lost Paddington Cemetery Headstones 
 description: Headstones from Paddington Cemetery that were lost in the 1930's and rediscovered in the next century
+hide:
+  - toc
 ---
 
 # Lost Paddington Cemetery Headstones 
@@ -9,7 +11,7 @@ By 1914, headstones from the closed Paddington Cemetery that hadn't been relocat
 
 In the 1930's these headstones disappeared. Some of the headstones have been found buried in Toowong Cemetery.
 
-![Memorials standing in the reserved area in Paddington](../assets/paddington-cemetery-ca-1900.jpg) 
+![Memorials standing in the reserved area in Paddington](../assets/paddington-cemetery-ca-1900.jpg){ width="70%"} 
 
 *<small>[Paddington Cemetery ca. 1900's](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/22186/1) — Brisbane City Council. Cropped. This photo is captioned 'Memorials standing in the reserved area' in Volume 2 of the 1914 Parliamentary papers.</small>*
 
@@ -18,6 +20,11 @@ In the 1930's these headstones disappeared. Some of the headstones have been fou
 The table below lists Paddington Cemetery headstones that were placed in the reserved area.
 
 !!! warning "Work in progress"
+
+    There are 505 entries in the original list. It is not clear which names relate to a memorial.
+    
+    - an entry has been made for each person listed against a memorial
+    - 'same as' entires may refer to the same monument but have listed separately as the person's name begins with a different letter
 
 --8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
 
