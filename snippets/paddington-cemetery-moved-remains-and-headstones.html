@@ -1,0 +1,167 @@
+<!--
+
+<script src="../../javascripts/tablefilter.js"></script>
+
+<div class="search-container">
+  <span class="table-filter-input">
+    <input type="text" id="myInput" name="myInput" placeholder="Search for a name" autofocus>
+  </span> 
+  <div class="search-button-container">
+    <span class="table-filter-reset-button">
+      <input type="image" id="resetButton" src="../../assets/clear.svg" alt="Reset" onclick="clearInput()">
+    </span>
+    <span class="table-filter-search-button">
+      <input type="image" id="searchButton" src="../../assets/search.svg" alt="Submit" onmousedown="setSearchButton()" onclick="searchIndex()">
+    </span>
+  </div>  
+</div>
+-->
+
+<!-- must use a html table to enable filter and default sort order - http://tristen.ca/tablesort/demo/ -->
+
+<table>
+  <thead>
+    <tr>
+        <th>Person</th>
+        <th>Given Names</th>
+        <th>Last Name</th>
+        <th>Remains moved from</th>
+        <th>Remains moved to</th>
+        <th>Memorial</th>
+        <th>Memorial moved from</th>
+        <th>Memorial moved to</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>1</td>
+        <td>Paul</td>
+        <td>Barton</td>
+        <td>Episcopalian</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Fdk. James</td>
+        <td>Barton</td>
+        <td>Episcopalian</td>
+        <td>1-38-3</td>
+        <td>1</td>
+        <td>Episcopalian</td>
+        <td>1-38-3</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Elizabeth Ella</td>
+        <td>Barton</td>
+        <td>Episcopalian</td>
+        <td>1-38-3</td>
+        <td>2</td>
+        <td>Episcopalian</td>
+        <td>1-38-3</td>
+    </tr>
+    <tr>
+        <td>4</td>      
+        <td>Albert</td>
+        <td>Barton</td>
+        <td>Episcopalian</td>
+        <td>1-38-3</td>
+        <td>3</td>
+        <td>Episcopalian</td>
+        <td>1-38-3</td>
+    </tr>
+    <tr>
+        <td>5</td>      
+        <td>Stuart Leslie</td>
+        <td>Board</td>
+        <td></td>
+        <td></td>
+        <td>4</td>
+        <td>Episcopalian</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>6</td>      
+        <td>Ellen Victoria</td>
+        <td>Board</td>
+        <td></td>
+        <td></td>
+        <td>4</td>
+        <td>Episcopalian</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>7</td>      
+        <td>Ann Ellen</td>
+        <td>Boyce</td>
+        <td></td>
+        <td></td>
+        <td>5</td>
+        <td>Episcopalian</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>8</td>      
+        <td>Susan</td>
+        <td>Boyce</td>
+        <td></td>
+        <td></td>
+        <td>6</td>
+        <td>Episcopalian</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>9</td>      
+        <td>Lionel Halford</td>
+        <td>Burne</td>
+        <td>Episcopalian</td>
+        <td>6-3-10</td>
+        <td>7</td>
+        <td>Episcopalian</td>
+        <td>6-3-10</td>
+    </tr>
+    <tr>
+        <td>10</td>      
+        <td>Bernhart J. F.</td>
+        <td>Buising</td>
+        <td>Episcopalian</td>
+        <td>1-43-8/9</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11</td>      
+        <td>Richard James</td>
+        <td>Coley</td>
+        <td>Episcopalian</td>
+        <td>10-19-2</td>
+        <td>8</td>
+        <td>Episcopalian</td>
+        <td>10-19-2</td>
+    </tr>
+    <tr>
+        <td>12</td>  
+        <td>Lucy</td>
+        <td>Coley</td>
+        <td>Episcopalian</td>
+        <td>10-19-2</td>
+        <td>8</td>
+        <td>Episcopalian</td>
+        <td>10-19-2</td>
+    </tr>
+    <tr>
+        <td>13</td>  
+        <td>Clara</td>
+        <td>Coley</td>
+        <td>Episcopalian</td>
+        <td>10-19-2</td>
+        <td>8</td>
+        <td>Episcopalian</td>
+        <td>10-19-2</td>
+    </tr>
+  <tbody>
+</table>
