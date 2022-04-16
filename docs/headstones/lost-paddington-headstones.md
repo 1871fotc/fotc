@@ -3,6 +3,8 @@ title: Lost Paddington Cemetery Headstones
 description: Headstones from Paddington Cemetery that were lost in the 1930's and rediscovered in the next century
 hide:
   - toc
+search:
+  exclude: true  
 ---
 
 # Lost Paddington Cemetery Headstones 
@@ -21,9 +23,15 @@ The table below lists Paddington Cemetery headstones that were placed in the res
 
 ??? warning "Work in progress"
 
-    - There are 505 entries in the original list. 
-    - an entry has been made for each person listed against a memorial
-    - 'same as' entries in the source are shown under a different memorial identifier. These may refer to the same monument but were listed separately to create a alphabetic index by surname. This may mean that there were less than 505 memorials lost.
+    - There are 505 entries in the original list. Appendix 1 states: 
+        - 278 Episcopalian (Anglican)
+        - 78 Roman Catholic
+        - 80 Presbyterian
+        - 43 Congregational and Wesleyan-Methodist
+        - 26 Baptist
+        - 0 Jewish
+    - an entry has been made for each person listed against a memorial so details about a person can be annotated when discovered
+    - 'same as' entries in the source are shown under a different memorial identifier. These may refer to the same memorial but were listed separately to create a alphabetic index by surname. This may mean that there were less than 505 memorials lost.
     - There are ?? 'same as' entries
     - Memorial numbers have been prefixed to make them unique:
         - Roman Catholic prefixed with '3'
@@ -54,7 +62,8 @@ Abbreviations used in the list of memorials above, are shown in the table below.
 | Rev.         | Reverend    |
 | Rich.        | Richard     |
 | Robt.        | Robert      |
-| Thos.        | Theophillus |
+| Thos.        | Theophillus | 
+| Theop.       | Theophillus | 
 | Wm.          | William     |
 
 It is not known if these abbreviations were used on the headstones. Monument 107 recorded as 'E. Hartnoll' has the inscription 'Eliza' on the  headstone.
