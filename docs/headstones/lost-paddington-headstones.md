@@ -19,12 +19,12 @@ In the 1930's these headstones disappeared. Some of the headstones have been fou
 
 The table below lists Paddington Cemetery headstones that were placed in the reserved area.
 
-!!! warning "Work in progress"
+??? warning "Work in progress"
 
-    There are 505 entries in the original list. It is not clear which names relate to a memorial.
-    
+    - There are 505 entries in the original list. 
     - an entry has been made for each person listed against a memorial
-    - 'same as' entires may refer to the same monument but have listed separately as the person's name begins with a different letter
+    - 'same as' entries in the source are shown under a different memorial identifier. These may refer to the same monument but were listed separately to create a alphabetic index by surname. This may mean that there were less than 505 memorials lost.
+    - There are ?? 'same as' entries
 
 --8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
 
@@ -41,6 +41,7 @@ Abbreviations used in the list of memorials above, are shown in the table below.
 | Fredk.       | Frederick   |
 | Geo.         | George      |
 | Hy.          | Henry       |
+| Margt.       | Margaret    |
 | Rev.         | Reverend    |
 | Rich.        | Richard     |
 | Robt.        | Robert      |
