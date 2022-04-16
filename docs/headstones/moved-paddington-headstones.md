@@ -1,6 +1,8 @@
 ---
 title: Moved Paddington Cemetery Headstones 
 description: Headstones moved from Paddington Cemetery to Toowong Cemetery when the cemetery was closed 
+search:
+  exclude: true
 hide:
   - toc
 ---
