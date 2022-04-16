@@ -37,6 +37,7 @@ Abbreviations used in the list of memorials above, are shown in the table below.
 | Alf.         | Alfred      |
 | Capt.        | Captain     |
 | Chas.        | Charles     |
+| Ed.          | Edward      |
 | Eliz.        | Elizabeth   |
 | Fredk.       | Frederick   |
 | Geo.         | George      |
