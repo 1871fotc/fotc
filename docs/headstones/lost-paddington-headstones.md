@@ -62,7 +62,7 @@ Abbreviations used in the list of memorials above, are shown in the table below.
 | Rev.         | Reverend    |
 | Rich.        | Richard     |
 | Robt.        | Robert      |
-| Thos.        | Theophillus | 
+| Thos.        | Thomas      | 
 | Theop.       | Theophillus | 
 | Wm.          | William     |
 
