@@ -25,10 +25,17 @@ The table below lists Paddington Cemetery headstones that were placed in the res
     - an entry has been made for each person listed against a memorial
     - 'same as' entries in the source are shown under a different memorial identifier. These may refer to the same monument but were listed separately to create a alphabetic index by surname. This may mean that there were less than 505 memorials lost.
     - There are ?? 'same as' entries
+    - Memorial numbers have been prefixed to make them unique:
+        - Roman Catholic prefixed with '3'
+        - Presbyterian prefixed with '4'
+        - Wesleyan-Methodist and Congregational prefixed with '5'
+        - Baptist prefixed with '6'
 
 --8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
 
 *<small>Source: [List of memorials now standing in reserved area at Paddington](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_List_of_memorials_now_standing_on_the_reserved_area_at_Paddington.pdf) Appendix No.7 in Volume 2 of the 1914 Parliamentary papers.</small>*
+
+## Abbreviations
 
 Abbreviations used in the list of memorials above, are shown in the table below. 
 
@@ -42,6 +49,7 @@ Abbreviations used in the list of memorials above, are shown in the table below.
 | Fredk.       | Frederick   |
 | Geo.         | George      |
 | Hy.          | Henry       |
+| Jos.         | Joseph      |
 | Margt.       | Margaret    |
 | Rev.         | Reverend    |
 | Rich.        | Richard     |
