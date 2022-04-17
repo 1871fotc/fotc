@@ -13,7 +13,7 @@ By 1914, headstones from the closed Paddington Cemetery that hadn't been relocat
 
 In the 1930's these headstones disappeared. Some of the headstones have been found buried in Toowong Cemetery.
 
-![Memorials standing in the reserved area in Paddington](../assets/paddington-cemetery-ca-1900.jpg){ width="70%"} 
+![Memorials standing in the reserved area in Paddington](../assets/paddington-cemetery-ca-1900-16x9.jpg)
 
 *<small>[Paddington Cemetery ca. 1900's](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/22186/1) — Brisbane City Council. Cropped. This photo is captioned 'Memorials standing in the reserved area' in Volume 2 of the 1914 Parliamentary papers.</small>*
 
@@ -39,6 +39,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
         - Presbyterian prefixed with '4'
         - Wesleyan-Methodist and Congregational prefixed with '5'
         - Baptist prefixed with '6'
+    - If a link is shown on an entry, the headstone has been found at Toowong Cemetery. The link goes to a page describing the headstone.    
 
 --8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
 
@@ -58,6 +59,7 @@ Abbreviations used in the list of memorials above, are shown in the table below.
 | Fredk.       | Frederick   |
 | Geo.         | George      |
 | Hy.          | Henry       |
+| Jcs. perhaps Jos.? |        | 
 | Jos.         | Joseph      |
 | Margt.       | Margaret    |
 | Rev.         | Reverend    |
