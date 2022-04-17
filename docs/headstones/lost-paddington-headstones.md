@@ -24,17 +24,17 @@ The table below lists Paddington Cemetery headstones that were placed in the res
 
 ??? warning "Work in progress"
 
-    - 505 memorials were placed in the reserved area. Appendix 1 in Volume 2 of the 1914 Parliamentary papers, states: 
+    - 505 headstones were placed in the reserved area. Appendix 1 in Volume 2 of the 1914 Parliamentary papers, states: 
         - 278 Episcopalian (Anglican)
         - 78 Roman Catholic
         - 80 Presbyterian
         - 43 Congregational and Wesleyan-Methodist
         - 26 Baptist
         - 0 Jewish
-    - an entry has been made for each person listed against a memorial so details about each person can be annotated separately
-    - 'same as' entries in the source are shown under a different memorial identifier. These may refer to the same memorial but were listed separately to create an alphabetic index by surname.
-    - There are ==??== 'same as' entries
-    - Memorial numbers have been prefixed to make them unique:
+    - an entry has been made for each person listed against a headstones so details about each person can be annotated separately.
+    - 'same as' entries in the source are shown under a different headstones identifier. These may refer to the same headstones but were listed separately to create an alphabetic index by surname.
+    - There are 13 'same as' entries, meaning that there may only be 492 headstones.
+    - Headstone numbers have been prefixed to make them unique:
         - Roman Catholic prefixed with '3'
         - Presbyterian prefixed with '4'
         - Wesleyan-Methodist and Congregational prefixed with '5'
