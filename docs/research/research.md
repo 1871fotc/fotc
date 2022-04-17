@@ -4,6 +4,7 @@ Free tools to help you research family or local history:
 
 - **[Find a grave](find-a-grave.md)** in Toowong Cemetery
 - **[Find a story](find-a-story.md)** in the index of the 500+ stories we've written
+- **[Discover Lost Paddington Cemetery headstones](../headstones/lost-paddington-headstones.md)**
 
 ## Trove
 
