@@ -33,7 +33,9 @@ The table below lists Paddington Cemetery headstones that were placed in the res
         - 0 Jewish
     - an entry has been made for each person listed against a headstones so details about each person can be annotated separately.
     - 'same as' entries in the source are shown under a different headstones identifier. These may refer to the same headstones but were listed separately to create an alphabetic index by surname.
-    - There are 13 'same as' entries, meaning that there may only be 492 headstones.
+    - There are 13 'same as' entries. This could mean, either
+        - there may only be 492 headstones
+        - there are 505 headstone and 'same as' means the headstones were on the same grave
     - Headstone numbers have been prefixed to make them unique:
         - Roman Catholic prefixed with '3'
         - Presbyterian prefixed with '4'
@@ -43,7 +45,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
 
 --8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
 
-*<small>Source: [List of memorials now standing in reserved area at Paddington](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_List_of_memorials_now_standing_on_the_reserved_area_at_Paddington.pdf) Appendix No.7 in Volume 2 of the 1914 Parliamentary papers.</small>*
+*<small>Source: [Paddington Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24749/0). Appendix No.7 in Volume 2 of the 1914 Parliamentary papers - Brisbane City Council Archives</small>*
 
 ## Abbreviations
 
