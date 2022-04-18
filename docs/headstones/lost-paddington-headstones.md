@@ -45,7 +45,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
 
 --8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
 
-*<small>Source: [Paddington Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24749/0). Appendix No.7 in Volume 2 of the 1914 Parliamentary papers - Brisbane City Council Archives</small>*
+*<small>Source: [Paddington Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24749/0). Appendix No.7 in Volume 2 of the 1914 Parliamentary papers - Brisbane City Council Archives. Edits shown in *italics*</small>*
 
 ## Abbreviations
 
