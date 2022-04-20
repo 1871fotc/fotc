@@ -41,6 +41,7 @@ Recommended for teachers of school groups visiting the cemetery. Available at [B
 -->
 
 <!--
+
 ## Toowong History Group Publications
 
 
@@ -82,7 +83,7 @@ Their work has resulted in set of three books full of local history.
 15. Community groups, *Leigh Chamberlain* 
 16. The built environment 2003, *Jim Maccormick*
 
-[Buy Toowong: A Community’s History for $20](https://forms.gle/FXyHz2DMw4QfVN7A7){ .md-button .md-button--primary }
+[Buy Toowong: A Community’s History for $25](https://forms.gle/FXyHz2DMw4QfVN7A7){ .md-button .md-button--primary }
 
 
 
@@ -101,13 +102,13 @@ Part 2. Heritage Houses
 
 
 
-[Buy Toowong: Tales of Toowong and early Brisbane for $20](https://forms.gle/FXyHz2DMw4QfVN7A7){ .md-button .md-button--primary }
+[Buy Toowong: Tales of Toowong and early Brisbane for $25](https://forms.gle/FXyHz2DMw4QfVN7A7){ .md-button .md-button--primary }
 
 ### Toowong: 1863 – 2011
 
 Insert overview and table of contents here. 
 
-[Buy Toowong: 1863 – 2011 for $20](https://forms.gle/FXyHz2DMw4QfVN7A7){ .md-button .md-button--primary }
+[Buy Toowong: 1863 – 2011 for $25](https://forms.gle/FXyHz2DMw4QfVN7A7){ .md-button .md-button--primary }
 
 ### Toowong History Book Collection
 
@@ -115,6 +116,6 @@ Insert overview and table of contents here.
 2. Toowong: Tales of Toowong and early Brisbane
 3. Toowong: 1863 – 2011 
 
-[Buy all 3 books for $50](https://forms.gle/FXyHz2DMw4QfVN7A7){ .md-button .md-button--primary }
+[Buy all 3 books for $60](https://forms.gle/FXyHz2DMw4QfVN7A7){ .md-button .md-button--primary }
 
 -->
