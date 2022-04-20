@@ -24,7 +24,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
 
 ??? warning "Work in progress"
 
-    - 505 headstones were placed in the reserved area. Appendix 1 in Volume 2 of the 1914 Parliamentary papers, states: 
+    - Appendix 1 in Volume 2 of the 1914 Parliamentary papers, states 505 headstones were placed in the reserved area:
         - 278 Episcopalian (Anglican)
         - 78 Roman Catholic
         - 80 Presbyterian
@@ -32,7 +32,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
         - 26 Baptist
         - 0 Jewish
     - an entry has been made for each person listed against a headstones so details about each person can be annotated separately.
-    - 'same as' entries in the source are shown under a different headstones identifier. These may refer to the same headstones but were listed separately to create an alphabetic index by surname.
+    - 'same as' entries in the source are shown under a different headstones identifier. These may refer to the same headstone but were listed separately to create an alphabetic index by surname.
     - There are 13 'same as' entries. This could mean, either
         - there may only be 492 headstones
         - there are 505 headstone and 'same as' means the headstones were on the same grave
@@ -77,10 +77,9 @@ It is not known if these abbreviations were used on the headstones. Monument 107
 
 *<small>Eliza Hartnoll's headstone discovered in a Toowong Cemetery Archaeological Dig.</small>*
 
-<!--
+
 ## Download the data
 
 The [Paddington Cemetery Reserved Area Headstones](lost-paddington-headstones.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
-Download the Paddington Cemetery Reserved Area Headstones as a <a href="../../assets/data/lost-paddington-headstones.csv" download>Comma Separated Value file</a> (.csv) 
--->
+Download the Paddington Cemetery Reserved Area Headstones as a <a href="../../assets/data/lost-paddington-cemetery-headstones.csv" download>Comma Separated Value file</a> (.csv) 

@@ -75,6 +75,7 @@ It has since been lost to weathering. After the death of their son, the Roberts 
 **Jane Pittard** was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Van Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
 
 These children's tombstones are the oldest surviving tombstones in Queensland.
+
 ![Pioneer Children's Graves at Toowong Cemetery](assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
 *<small>Pioneer Children's Graves (13-10-4). </small>*
 
@@ -100,7 +101,13 @@ The Postmaster in 1844 was George M. Slade.
 
 ## 1911 Paddington Cemetery Act
 
-Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglected North Brisbane Burial Grounds (also known as [Paddington Cemetery][Paddington Cemetery]) into a park and sports field. 
+The North Brisbane Burial Grounds (also known as [Paddington Cemetery][Paddington Cemetery]) were opened in 1844 and closed in 1875. By 1907 there were calls to turn the neglected into a park and sports field.
+
+
+In 1911 the Queensland Government passed the *[Paddington Cemetery Act][Paddington Cemetery Act]* allowing them to move the bodies to another location.
+
+[Paddington Cemetery Act]: http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/ "Read the 1911 Paddington Cemetery Act"
+
 
 [Paddington Cemetery]: https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery "Read more about Paddington Cemetery"
 
@@ -108,21 +115,10 @@ Opened in 1844 and closed in 1875, by 1907 there were calls to turn the neglecte
 
 *<small>[Paddington Cemetery 1910](https://www.flickr.com/photos/queenslandstatearchives/30299711162/in/photolist-2joySJt-NatWv9-KCpMLU) — Queensland State Archives.</small>*
 
-In 1911 the Queensland Government passed the *[Paddington Cemetery Act][Paddington Cemetery Act]* allowing them to move the bodies to another location.
-
-[Paddington Cemetery Act]: http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/ "Read the 1911 Paddington Cemetery Act"
-
-<!--
-
-There were approximately 4,600 grave in the Paddington Cemetery. Five Hundred memorials and headstones were moved to a small reserve at Christ Church, Milton, and 186 bodies relocated at the request of the families. The parkland was established and named Lang Park after John Dunmore Lang. 
-
-During the redevelopment of Suncorp Stadium in 2001/02 part of the former cemetery was excavated by archaeologists from the University of Queensland and they excavated 394 graves. All remains were taken to Toowong Cemetery and interred in two vaults under a specially commissioned monument in July 2003 (located at Portion 17 Section 1).
-
---> 
 
 ![Paddington Memorial](assets/paddington-memorial.jpg){ width="70%" } 
 
-*<small>Paddington Memorial, Portion 17 Section 1.</small>*
+*<small>Paddington Memorial, Portion 17 Section 1, on the corner of Emma Miller and William Brown Avenues.</small>*
 
 The Paddington Memorial commemorates people originally buried in the North Brisbane Burial Grounds, now interred at Toowong Cemetery. The Paddington Memorial plaque reads:
 
@@ -131,6 +127,7 @@ The Paddington Memorial commemorates people originally buried in the North Brisb
 <br>
 
 >***Lang Park evolved into an iconic inner-city sports ground, with a major redevelopment of the stadium from 2001 to 2003. This resulted in the necessary excavation of sections of the former burial grounds that would be disturbed by construction. A methodical archaeological investigation was undertaken, and the fragmentary remains of 394 unidentified individuals were exhumed from the Episopalian (Anglican), Roman Catholic, and Presbyterian cemeteries. The remains were interred in this memorial in July 2003.***
+
 
 ## 1921 New Neighbours
 

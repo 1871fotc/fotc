@@ -22,7 +22,7 @@ The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. Th
 On this site you'll find information about:
 
 - the cemetery's **[history](history.md)** and **[stories](stories/)** of people remembered here
-- **[headstone symbols](headstones/symbols.md)**, **[signs](headstones/signs.md)** and **[archaeological digs](headstones/archaeological-digs.md)**
+- **[headstones](headstones/)** including **[headstone symbols](headstones/symbols.md)**, **[signs](headstones/signs.md)** and **[archaeological digs](headstones/archaeological-digs.md)**
 - **[research resources](research/index.md)** including **[how to find graves](research/find-a-grave.md)**, and an **[index of people in our stories](research/find-a-story.md)** 
 - monthly **[guided heritage tours](guided-tours.md)** <!-- and **[self‑guided walks](walks/)** -->
 - **[Friends of Toowong Cemetery](about/)** - what we do, what we've done, and how to join in 
@@ -70,8 +70,8 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 If you enter the main entrance, you'll find: 
 
 - **Canon Garland Place** named after **[Canon David John Garland][Garland]**. The Flagpole here is the departure point for our **[guided heritage tours](guided-tours.md)** 
-- the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**. Staff can answer your enquiries and help to locate graves and memorial sites
-- a **Museum** operated by the Friends of Toowong Cemetery
+- a **Museum** operated by the Friends of Toowong Cemetery, and opened before and after our guided heritage tours
+- the **[Office](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**, where staff can answer your enquiries and help locate graves and memorial sites
 - **Toilets** - the only ones available in the cemetery
 
 <img class="full-width" src="assets/flag-pole.jpg" alt="Canon Garland Place" width="70%">
