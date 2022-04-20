@@ -15,7 +15,7 @@ search:
     Do you know about any of the missing data in the Story Index? Did you spot an error? 
     Tell us the details by using the **☹︎** sad face button at the bottom of the page, or email us. 
 
-    If you'd like to search for missing data, check out these **[Research Resources](research.md)**.
+    If you'd like to search for missing data, check out these **[Research Resources](index.md)**.
     
     If you would like your contribute a story, please complete the **[Contribute a Story](https://forms.gle/U94dcEj6RihM9BPq9)** form.
 

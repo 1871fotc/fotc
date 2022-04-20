@@ -3,8 +3,9 @@
 Free tools to help you research family or local history:
 
 - **[Find a grave](find-a-grave.md)** in Toowong Cemetery
-- **[Find a story](find-a-story.md)** in the index of the 500+ stories we've written
-- **[Discover Lost Paddington Cemetery headstones](../headstones/lost-paddington-headstones.md)**
+- **[Find an individual story](find-a-story.md)** in the index of the 500+ stories we've written
+- **[Discover lost Paddington Cemetery headstones](../headstones/lost-paddington-headstones.md)**, some which have been uncovered at Toowong Cemetery
+- **[Discover headstones moved from Paddington Cemetery](../headstones/moved-paddington-headstones.md)**, some which can still be seen at Toowong Cemetery
 
 ## Trove
 
@@ -36,6 +37,7 @@ In 1988, as a Bicentennial project, the [Queensland Family History Society](http
 
 ## Other Resources
 
+- [Grave location search and family history](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/grave-location-search) - Brisbane City Council
 - [Family History Research](https://www.familyhistory.bdm.qld.gov.au) - The State of Queensland
 - [Family History](https://www.slq.qld.gov.au/research-collections/family-history) resources from the State Library of Queensland 
 - [Online History and Genealogy](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/?rm=ONLINE+RESOURC0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&dt=list#History) resources available at Brisbane City Council Libraries

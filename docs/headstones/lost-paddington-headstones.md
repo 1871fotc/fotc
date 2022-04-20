@@ -18,7 +18,7 @@ In the 1930's these headstones disappeared. Some of the headstones have been fou
 *<small>[Paddington Cemetery ca. 1900's](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/22186/1) — Brisbane City Council. Cropped. This photo is captioned 'Memorials standing in the reserved area' in Volume 2 of the 1914 Parliamentary papers.</small>*
 
 
-## Paddington Cemetery Reserved Area Headstones
+## Paddington Cemetery Headstones moved to the Reserved Area 
 
 The table below lists Paddington Cemetery headstones that were placed in the reserved area.
 
