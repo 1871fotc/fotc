@@ -237,7 +237,7 @@ nav:
     - Portion 6 and 24: stories/portion6-and-24.md
     - Portion 15 and 16: stories/portion15-and-16.md
   - Headstones: 
-    - Headstones: headstones/index.md  
+#    - Headstones: headstones/index.md  
     - Symbols: headstones/symbols.md
     - Signs: headstones/signs.md 
 #    - Shapes: headstones/shapes.md  
