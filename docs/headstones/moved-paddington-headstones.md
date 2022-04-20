@@ -32,11 +32,11 @@ By 1907 there were calls to turn the neglected burial grounds into a park and sp
 
 ## Paddington Cemetery Remains and Headstones moved to Toowong Cemetery
 
-The table below lists the 139 human remains and 105 memorials were moved from Paddington Cemetery to Toowong Cemetery.
+The table below lists the 139 human remains and 105 headstones were moved from Paddington Cemetery to Toowong Cemetery.
 
 ??? warning "Work in progress"
 
-    - People and Memorials have been given a unique identifier.
+    - People and Headstones have been given a unique identifier.
     - Toowong Cemetery locations are sourced from Brisbane City Council's [Cemeteries Search](https://graves.brisbane.qld.gov.au).
     - Extra name information from the Cemeteries Search is shown in *italics*.
     - 'n/a' means no entry was found in the Cemeteries Search 
@@ -46,7 +46,6 @@ The table below lists the 139 human remains and 105 memorials were moved from Pa
 *<small>Sources: [List of remains and memorials removed to the Brisbane General [Cemetery (Toowong)](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_List_of_memorials_now_standing_on_the_reserved_area_at_Paddington.pdf) Appendix No.4 in Volume 2 of the 1914 Parliamentary papers. [Cemeteries Search](https://graves.brisbane.qld.gov.au) </small>*
 
 Abbreviations used in the list above, are shown in the table below. It is not known if these abbreviations were used on the headstones. 
-
 
 | Abbreviation | Name or Honorific Prefix |
 | -----------  | ----------- |
