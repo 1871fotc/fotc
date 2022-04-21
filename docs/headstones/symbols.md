@@ -136,7 +136,7 @@ The National Trust of Australia (New South Wales) [Guidelines for Cemetery Conse
 
 ### Copyright
 
-*Toowong Cemetery Symbolism*, © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes applied. The *Other Symbols*, *Lost and Found*, and *Further Reading* sections, photos and links have been added.
+*Toowong Cemetery Symbolism*, © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under [CC BY 4.0][cc-by]. Minor formatting changes applied. The *Lost and Found* section, photos and links have been added.
 
 <!-- Links -->
 
