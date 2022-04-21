@@ -57,12 +57,13 @@ Abbreviations used in the list above, are shown in the table below. It is not kn
 | Fredk.       | Frederick   |
 | Geo.         | George      |
 | Hy.          | Henry       |
+| Patk.        | Patrick     |
 | Rev.         | Reverend    |
 | Rich.        | Richard     |
 | Robt.        | Robert      |
+| Tim.         | Timothy     |
 | Thos.        | Thomas      |
 | Wm.          | William     |
-
 
 <!--
 ## Download the data
@@ -71,6 +72,8 @@ The [Paddington Cemetery Remains and Headstones moved to Toowong Cemetery](moved
 
 Download the Paddington Cemetery Reserved Area Headstones as a <a href="../../assets/data/lost-paddington-headstones.csv" download>Comma Separated Value file</a> (.csv) 
 -->
+
+## Paddington Memorial 
 
 ![Paddington Memorial](../assets/paddington-memorial.jpg){ width="40%" } 
 
