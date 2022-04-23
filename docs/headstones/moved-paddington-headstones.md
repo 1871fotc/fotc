@@ -1,8 +1,6 @@
 ---
 title: Moved Paddington Cemetery Headstones 
 description: Headstones moved from Paddington Cemetery to Toowong Cemetery when the cemetery was closed 
-search:
-  exclude: true
 hide:
   - toc
 ---
@@ -18,7 +16,7 @@ By 1907 there were calls to turn the neglected burial grounds into a park and sp
 [Paddington Cemetery Act]: http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/ "Read the 1911 Paddington Cemetery Act"
 
 
-![View of the Brisbane suburb of Milton, ca. 1870](../assets/milton-cemetery-1870.jpg)
+![View of the Brisbane suburb of Milton, ca. 1870](../assets/milton-cemetery-1870.jpg){ width="100%"}
 
 *<small>[View of the Brisbane suburb of Milton, ca. 1870](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21219311070002061) Photograph taken in the vicinity of Caxton Street, Petrie Terrace, looking due west across the intersection of Judge and Hale Streets and across the Milton Cemetery. The mortuary chapel visible in the centre of the photograph was converted to a church in 1873, and was demolished when Christ Church (Milton) was constructed in 1874-76 — State Library of Queensland. Cropped.</small>*
 
@@ -32,14 +30,16 @@ By 1907 there were calls to turn the neglected burial grounds into a park and sp
 
 ## Paddington Cemetery Remains and Headstones moved to Toowong Cemetery
 
-The table below lists the 139 human remains and 105 headstones were moved from Paddington Cemetery to Toowong Cemetery.
+The table below lists the 139 human remains and 106[^1] headstones were moved from Paddington Cemetery to Toowong Cemetery.
+
+[^1]: Although Appendix 3 in Volume 2 of the 1914 Parliamentary papers states 105 headstones were moved, Wm. Stokes' headstone wasn't counted as it was 'Removed at the applicants expense'.
 
 ??? warning "Work in progress"
 
     - People and Headstones have been given a unique identifier.
     - Toowong Cemetery locations are sourced from Brisbane City Council's [Cemeteries Search](https://graves.brisbane.qld.gov.au).
     - Extra name information from the Cemeteries Search is shown in *italics*.
-    - 'n/a' means no entry was found in the Cemeteries Search 
+    - 'n/a' means no entry was found in the Cemeteries Search or it is not possible determine a correct entry from those available
 
 --8<-- "snippets/paddington-cemetery-moved-remains-and-headstones.html"
 
