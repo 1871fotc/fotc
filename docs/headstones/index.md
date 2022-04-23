@@ -5,9 +5,13 @@ description: Lost and found headstones, their symbology and secret signs
 
 # Headstones
 
-In cemeteries, people are often commemorated with a headstone or a plaque on a [columbarium](https://en.wikipedia.org/wiki/Columbarium). Headstones can reflect a person's beliefs or values, their cultural identity, and their relationships to other people, organisations, or events.
+In cemeteries, people are often commemorated with a headstone or a plaque on a columbarium. Headstones can reflect a person's beliefs or values, their cultural identity, and their relationships to other people, organisations, or events.
 
-<!- TODO add headstone and columbarium images -->
+![Headstone with a propeller decoration](../assets/propeller-headstone.jpg){ width="23%" } ![Toowong Cemetery Columbarium](../assets/columbarium.jpg){ width="72.5%" }
+
+*<small>Headstone with a propeller decoration indicating a person's professional identity. <br>
+A plaque on a columbarium in Toowong Cemetery.</small>*
+
 
 ## Toowong Cemetery Headstones 
 
