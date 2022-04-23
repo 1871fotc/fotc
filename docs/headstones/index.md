@@ -14,7 +14,7 @@ In cemeteries, people are often commemorated with a headstone or a plaque on a [
 Toowong Cemetery contains:
 
 - Queensland's oldest surviving headstones from the 1830's
-- headstones moved from Paddington Cemetery (1844 - 1875) to Toowong Cemetery in the 1910's
+- headstones moved from Paddington Cemetery (1844 - 1875) in the 1910's
 - headstones of people buried at Toowong Cemetery since 1871 
 
 <!-- Show below memorable memorials not in BCC self-guided walks (photos of ralston, mayne, oldest ) -->
@@ -28,7 +28,7 @@ Toowong Cemetery contains:
 
 Headstones can contain many hidden messages. 
 
-- Learn about the meaning of **[headstone symbols](symbols.md)**. Visit the Toowong Cemetery Symbolism display in Portion 2 at Toowong Cemetery
+- Learn about the meaning of **[headstone symbols](symbols.md)**. Visit the Toowong Cemetery Symbolism display in Portion 2
 - Discover **[headstone signs](signs.md)** showing a relationship to a friendly society, secretive order or trade guild.
 
 ![Headstone Symbolism Display](../assets/symbolism-display.jpg){ width="100%" }
@@ -40,7 +40,7 @@ Friends of Toowong Cemetery and the [University of Queensland Archaeology Depart
 
 Headstones uncovered in the **[archaeological digs](archaeological-digs.md)** are believed to come from two sources: 
 
-- **[Headstones lost from Paddington Cemetery](moved-paddington-headstones.md)** in the 1930's 
+- **[Headstones lost from Paddington Cemetery](lost-paddington-headstones.md)** in the 1930's 
 - Toowong Cemetery headstones destroyed and buried in the 1970's as part of the Brisbane City Council's 'Beautification Scheme'
 
 ![Toowong Cemetery Archaeological Dig, 2013](../assets/images/digs/2013/fotc-2013-dig-5.jpg){ width="100%" }
