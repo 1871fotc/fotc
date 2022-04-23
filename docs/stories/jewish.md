@@ -82,7 +82,7 @@ This is an example of the bronze plaques erected by the War Graves Commission ov
 
 ## Lawrence, Lawrence and Loewe <!-- (3‑ss‑gg)-->
 
-These are the three monuments which were transferred here from Lang Park. They are in sandstone, which is not used much nowadays for monuments.
+These are the three monuments which were [transferred here from Lang Park](../headstones/moved-paddington-headstones.md). They are in sandstone, which is not used much nowadays for monuments.
 
 Loewe's headstone has a carved pitcher or urn, from which water is being poured. Persons who are descended from the Biblical clan of Levi are called 'Levites' and they had certain duties in the ancient temple in Jerusalem. One was the 'laving' (i.e. washing) of the hands of the 'Cohen' i.e. Priest, before the service, hence the above mentioned pitcher.
 
