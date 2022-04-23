@@ -12,4 +12,4 @@ hide:
 
 ### Further Reading 
 
-- [Search the Collections](http://www.artmuseum.uq.edu.au/collection/imu.php?request=display&port=45123&id=d26e&flag=ecatalogue&offset=3763&count=default&view=details&display=). Vincent Sheldon's works at the UQ Art Collection Online
+- [Search the Collections](http://www.artmuseum.uq.edu.au/collection/search.php?request=search). Vincent Sheldon's works at the UQ Art Collection Online
