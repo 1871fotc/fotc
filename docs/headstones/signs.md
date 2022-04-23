@@ -188,7 +188,7 @@ You can find signs of Friendly Societies in the local area such as:
 
 [AHCG]: https://trove.nla.gov.au/newspaper/article/261238209?searchTerm=Australasian%20Holy%20Catholic%20Guild "AHCG on Trove"
 [ANA]: https://www.nma.gov.au/defining-moments/resources/australian-natives-association
-[IOGT]: https://movendi.ngo/about-movendi/the-movendi-way/who-we-are/the-history/
+[IOGT]: https://movendi.ngo/who-we-are/the-movendi-way/who-we-are/the-history/
 [IOOR]: https://www.australianrechabites.org.au/states/qld-rechabites/
 [LOI]: https://www.facebook.com/pages/category/Religious-Organization/Loyal-Orange-Institution-of-Queensland-895315537148498/ "Loyal Orange Institute Queensland on Facebook"
 [MUIOOF]: https://www.facebook.com/groups/535759726633938/?ref=share
