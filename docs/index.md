@@ -151,7 +151,7 @@ This map will help you to **[find graves in Toowong Cemetery](research/find-a-gr
 Combine your visit to Toowong Cemetery with a visit to other nearby attractions: 
 
 - [Mt Coot-tha Botanic Gardens](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha) is a 15 minute walk from the cemetery. Our favourite [attractions](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha/attractions) include:
-    - [National Australia Remembers Freedom Wall](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/brisbane-botanic-gardens-mt-coot-tha/attractions/national-freedom-wall)
+    - [National Australia Remembers Freedom Wall](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha/attractions/national-freedom-wall)
     - [Japanese Garden](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/botanic-gardens-in-brisbane/brisbane-botanic-gardens-mt-coot-tha/attractions/japanese-garden)
     - [Sir Thomas Brisbane Planetarium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/sir-thomas-brisbane-planetarium) 
     - [Australian Plant Communities](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/brisbane-botanic-gardens-mt-coot-tha/attractions/australian-plant-communities)
