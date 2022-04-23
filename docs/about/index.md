@@ -49,7 +49,7 @@ Currently we are:
 
 - planning to erect an **[honour board](https://youtu.be/mVfixEzUpwk)** at the cemetery's main entrance to commemorate people who have served their nation in military uniform and now rest in Toowong Cemetery.
 - **photographing every headstone** in the cemetery.
-- **encouraging the community to volunteer** through simple one-off tasks shown on this site. <!-- like the one below. -->
+- **encouraging the community to volunteer** :fontawesome-solid-hand-holding-heart: through simple one-off tasks shown on this site.  <!-- like the one below. -->
 
 <!--
 !!! question "Volunteer - help us update the cemetery maps"
@@ -60,6 +60,7 @@ Currently we are:
     - someone skilled in making maps. **Can you help?** 
 -->
 
+<!-- 
 ## What have we got planned? 
 
 With the **150^th^ Anniversary** of the opening of Toowong Cemetery on **Saturday 5 July 2025** we're planning a very special event. More will be revealed closer to the day.
