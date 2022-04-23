@@ -33,10 +33,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
         - 0 Jewish
     - There are 504 unique entries in the table below.    
     - an entry has been made for each person listed against a headstone so details about each person can be annotated separately.
-    - 'same as' entries in the source are shown under a different headstones identifier. These may refer to the same headstone but were listed separately to create an alphabetic index by surname.
-    - There are 13 'same as' entries. This could mean, either
-        - there may only be 492 headstones
-        - there are 505 headstone and 'same as' means the headstones were on the same grave
+    - There are 13 'same as' entries. 'same as' entries in the source are shown under a different headstones identifier. These may refer to the same headstone but were listed separately to create an alphabetic index by surname.
     - Headstone numbers have been prefixed to make them unique:
         - Roman Catholic prefixed with '3'
         - Presbyterian prefixed with '4'
