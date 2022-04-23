@@ -65,13 +65,17 @@ Abbreviations used in the list above, are shown in the table below. It is not kn
 | Thos.        | Thomas      |
 | Wm.          | William     |
 
-<!--
+
 ## Download the data
 
-The [Paddington Cemetery Remains and Headstones moved to Toowong Cemetery](moved-paddington-headstones.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
+The [Moved Paddington Cemetery Headstones](moved-paddington-headstones.md) by [Friends of Toowong Cemetery Association Inc.](../index.md), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You must provide attribution if you reuse this work.
 
-Download the Paddington Cemetery Reserved Area Headstones as a <a href="../../assets/data/lost-paddington-headstones.csv" download>Comma Separated Value file</a> (.csv) 
--->
+Download the Moved Paddington Cemetery Headstones as a <a href="../../assets/data/moved-paddington-cemetery-headstones.csv" download>Comma Separated Value file</a> (.csv) 
+
+!!! warning "Excel interprets some grave locations as dates"
+
+    If you open the .csv file using Microsoft Excel, be aware that it tries to be helpful and infer data formats. It doesn't do this well and can change grave locations into a date format. We suggest you consider using another tool.
+
 
 ## Paddington Memorial 
 
