@@ -43,7 +43,7 @@ If you're driving to the cemetery, it has two entrances:
 - The main entrance (above), at **[Frederick Street, Toowong](https://www.google.com/maps/place/Toowong+Cemetery/@-27.4772749,152.9818283,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150c2f0f2e23f:0xf02a35bd720a310!8m2!3d-27.4772714!4d152.9839608)**,  can only be entered via a slip road beside the Toowong roundabout, approaching from the west
 - The back entrance, **[opposite 26 Richer Street, Toowong](https://www.google.com/maps/place/25+Richer+St,+Toowong+QLD+4066/@-27.4737507,152.9767263,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150dd31b12cc5:0xc3a1deb2fe09484!8m2!3d-27.4737555!4d152.978915)** is much easier to access
 
-Parking is available inside the cemetery along the roads. Please park on the left side of two‑way roads where possible.
+Parking is available inside the cemetery.
 
 ### Walking
 
@@ -63,7 +63,7 @@ If you're using public transport to get here, use the **[TransLink Journey Plann
 
 - cross Milton Road at its intersection with Morley Street
 - cross the Western Freeway using the **[Canon Garland Overpass](https://garlandmemorial.com/2019/10/09/canon-garland-overpass/)**, a bike and walking bridge accessed from Anzac Park
-- choose a bus that avoids the need to cross (e.g. Routes **[471](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/)**, **[598](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/598)**, **[599](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/599)**)
+- choose a bus that avoids the need to cross major roads (e.g. Routes **[471](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/)**, **[598](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/598)**, **[599](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/599)**)
 
 ## When you arrive
 
@@ -106,11 +106,11 @@ Some cemetery road names have recently been changed to the names of notable peop
 | **[Walter Hill][Walter Hill]** Drive       | Boundary Road | running parallel to Mt Coot-tha Road                                 |
 | **[Dr Lilian Cooper][Cooper]** Drive       | Boundary Road | running parallel to Richer Street                                    |
 | Pride of Erin Drive                        | Boundary Road | running parallel to Birdwood Terrace                                 |
-| [Francis Forde][Forde] Avenue              | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street |
+| **[Francis Forde][Forde]** Avenue              | Boundary Road | running parallel to Birdwood Terrace <br>closest to Frederick Street |
 | **[Peter Jackson][Jackson]** Parade        | Boundary Road | running parallel to Frederick Street <br>furthest from the main entrance |
 | Soldiers Parade                            | Boundary Road | running parallel to Frederick Street <br>closest to the main entrance    |
-| [Steele Rudd][Rudd] Avenue                 | 4^th^ Avenue  |                                                                      |
-| [Walter Ralstone][Ralstone] Avenue         | 7^th^ Avenue  |                                                                      |
+| **[Steele Rudd][Rudd]** Avenue                 | 4^th^ Avenue  |                                                                      |
+| **[Walter Ralstone][Ralstone]** Avenue         | 7^th^ Avenue  |                                                                      |
 | **[Emma Miller][Miller]** Avenue           | 8^th^ Avenue  | behind Canon Garland Place                                           |
 | **[Charles Heaphy][Heaphy]** Drive         | 8^th^ Avenue  | from the Shelter Shed to Emma Miller Avenue                          |
 | **[Pat Hill][Pat Hill]** Drive             | 8^th^ Avenue  | from the Richer Street end to the Shelter Shed                       |
@@ -134,7 +134,9 @@ This map will help you to **[find graves in Toowong Cemetery](research/find-a-gr
 <a href="assets/toowong-cemetery-map.jpg" title="Click to expand. Back to return to this page">
 <img class="full-width" src="assets/toowong-cemetery-map.jpg" alt="Toowong Cemetery Map" width="70%"></a>
 
-*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. </small>*
+*<small>[Toowong Cemetery](https://graves.brisbane.qld.gov.au) © Brisbane City Council 2016, used under [CC BY 4.0][map-cc-by] - Highlights added. </small>* 
+
+<!-- <br> :fontawesome-solid-magnifying-glass-plus: Click to expand. :fontawesome-solid-angle-left:Back to return to this page. -->
 
 <!-- TODO add lightbox -->
 
