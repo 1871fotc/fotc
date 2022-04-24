@@ -11,6 +11,6 @@ hide:
 
 --8<-- "snippets/florence-griffiths-buchanan.md"
 
-## Sources 
+### Sources 
 
 2: Saunders, K. *[Buchanan, Florence Griffiths (1861 - 1913)](https://adb.anu.edu.au/biography/buchanan-florence-griffiths-5412)*, Australian Dictionary of Biography, Volume 7, Melbourne University Press, 1979, p. 471.

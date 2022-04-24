@@ -8,8 +8,6 @@ hide:
 
 # Ellen Forde
 
-
 **ca. 1863  — 9 March 1923**
-
 
 --8<-- "snippets/john-and-ellen-forde.md"

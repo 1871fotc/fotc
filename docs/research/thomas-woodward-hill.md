@@ -29,6 +29,6 @@ Aged 86 years  <br>
 
 Information provided by Jenny Davidson, Thomas Woodward Hill's wife's great-great-granddaughter.
 
-### Further Reading 
+### Learn more 
 
 - [Extra, Extra Read All About It](../assets/documents/extra-extra-read-all-about-it-thomas-woodward-hill.pdf) - Jenny Davidson

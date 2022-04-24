@@ -12,6 +12,6 @@ hide:
 
 --8<-- "snippets/jessie-philp-2.md"
 
-## Source
+### Sources
 
 4: Kindly provided by descendants.

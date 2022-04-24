@@ -12,8 +12,7 @@ hide:
 
 ## Sergeant Arthur Neden  <small>(28‑39‑9A)</small>
 
-Sergeant First Class Arthur Neden collapsed and died from a heart attack whilst escorting a man he had just arrested to the lock-up at Redbank.
-Sergeant Neden was buried at Toowong Cemetery with Police Honours.
+Sergeant First Class Arthur Neden collapsed and died from a heart attack whilst escorting a man he had just arrested to the lock-up at Redbank. Sergeant Neden was buried at Toowong Cemetery with Police Honours.
  
 ### Acknowledgement
 

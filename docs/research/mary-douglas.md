@@ -11,6 +11,6 @@ hide:
 
 --8<-- "snippets/mary-douglas.md"
 
-## Source 
+### Sources 
 
 1: Savage, A. *Mary Douglas: Founder and Administrator of the Diamantina Orphan School, Brisbane between 1865 and 1876*, Unpublished Essay. 

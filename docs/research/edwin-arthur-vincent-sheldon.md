@@ -10,6 +10,6 @@ hide:
 
 --8<-- "snippets/edwin-arthur-vincent-sheldon.md"
 
-### Further Reading 
+### Learn more
 
 - [Search the Collections](http://www.artmuseum.uq.edu.au/collection/search.php?request=search). Vincent Sheldon's works at the UQ Art Collection Online
