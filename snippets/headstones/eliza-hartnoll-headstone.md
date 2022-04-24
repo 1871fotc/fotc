@@ -2,7 +2,7 @@
 
 <!-- TODO need to set up locations so works when included in headstone page and individual story page -->
 
-[![Eliza Hartnoll headstone](../../assets/eliza-hartnoll-headstone-2.jpg){ width="20%" }](../../assets/eliza-hartnoll-headstone-2.jpg)
+[![Eliza Hartnoll headstone](../assets/eliza-hartnoll-headstone-2.jpg){ width="20%" }](../assets/eliza-hartnoll-headstone-2.jpg)
 
 *<small>Eliza Hartnoll's headstone discovered in a Toowong Cemetery Archaeological Dig.</small>*
 
