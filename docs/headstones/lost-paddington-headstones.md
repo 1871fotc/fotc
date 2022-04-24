@@ -3,8 +3,6 @@ title: Lost Paddington Cemetery Headstones
 description: Headstones from Paddington Cemetery that were lost in the 1930's and rediscovered in the next century
 hide:
   - toc
-search:
-  exclude: true  
 ---
 
 # Lost Paddington Cemetery Headstones 
