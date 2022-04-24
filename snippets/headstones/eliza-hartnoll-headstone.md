@@ -1,6 +1,6 @@
 ### Headstone  
 
-[![Eliza Hartnoll headstone](../assets/eliza-hartnoll-headstone-2.jpg){ width="20%" }](../assets/eliza-hartnoll-headstone-2.jpg)
+[![Eliza Hartnoll headstone](../assets/eliza-hartnoll-headstone-2.jpg){ width="30%" }](../assets/eliza-hartnoll-headstone-2.jpg)
 
 *<small>Eliza Hartnoll's headstone discovered in a Toowong Cemetery Archaeological Dig.</small>*
 

@@ -6,7 +6,6 @@ hide:
 
 # Frederic Charles Urquhart
 
-
 **27 October 1858 — 2 December 1935**
 
 ## Police Commissioner Frederic Charles Urquhart  <small>(25‑31‑8)</small>
@@ -23,12 +22,27 @@ Apart from being the Commissioner of the Queensland Police, Urquhart was an acco
 
 Urquhart retired from the Police Force in 1921 and was appointed as an Administrator of Northern Territory by the Commonwealth Government and he held this position until 1925.  He eventually settled in Clayfield, Brisbane and he died on 2^nd^ December, 1935 at St. Helen’s Private Hospital, aged 77 and is buried at the Toowong Cemetery.
 
+### Headstone
+
+[![Frederic Charles Urquhart headstone](../assets/frederic-charles-urquhart-headstone.jpg){ width="30%" }](../assets/frederic-charles-urquhart-headstone.jpg)
+
+
 ### Inscription
 
->To the memory of Annetta the beloved wife of Frederic Charles URQUHART.  <br>
->Sometime administrator of the Northern Territory of Australia who passed to her rest 28^th^ Feb 1932 in her 67^th^ year.  <br>
->“For so he giveth his beloved sleep."   <br>
->And of her husband Frederic Charles URQUHART died 3^rd^ Dec 1935 in his 78^th^ year.
+>To  <br>
+>the memory of  <br>
+>Annetta  <br>
+>the beloved wife of  <br>
+>Frederic Charles Urquhart  <br>
+>Sometime Administrator of the  <br>
+>Northern Territory of Australia  <br>
+>Who passed to her rest 28^th^ Feb 1932  <br>
+>In her 67^th^ year.  <br>
+>“For so he giveth his beloved sleep"   <br>
+>and of her husband  <br>
+>Frederic Charles Urquhart  <br>
+>Died 3^rd^ Dec. 1935. <br>
+>In his 78^th^ year. <br>
  
 ### Acknowledgement
 
