@@ -12,7 +12,7 @@ description: Download data about Toowong Cemetery, its graves, headstones, and t
 Friends of Toowong Cemetery create or capture data, including: 
 
 - **Stories** (an **[index](../research/find-a-story.md)**, individual stories and related events)
-- **Headstones** (images, inscriptions, status, location)
+- **Headstones** (images, inscriptions, movements, and location)
 <!-- **Walks** (a route from grave to grave, linked to people, headstones, and stories) -->
 
 The **[data is available on GitHub](https://github.com/1871fotc/fotc/tree/main/docs/assets/data)** :fontawesome-brands-github: and via links on this site.
