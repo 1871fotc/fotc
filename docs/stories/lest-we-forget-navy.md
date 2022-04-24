@@ -16,7 +16,7 @@ Royal Australian Navy Official Badge Design of 1949
 
 ## Able Seaman W. J. Harrhy, RN <small>(4‑16‑4)</small>
 
-Welshman, William John Harrhy, a sailor on *HMS Dauntless*, in Brisbane for a Goodwill Visit, was drowned in the Brisbane River in the early hours of Good Friday, 1924. Members of the ship’s crew were in Brisbane to participate in the unveiling of the War Memorial at Toowong Cemetery on ANZAC Day 1924. His body was found the following Monday downstream. It is believed that he tripped over an obstacle on the ship’s deck in the early hours of the morning. 
+Welshman, William John Harrhy, a sailor on *HMS Dauntless*, in Brisbane for a Goodwill Visit, was drowned in the Brisbane River in the early hours of Good Friday, 1924. Members of the ship’s crew were in Brisbane to participate in the unveiling of the War Memorial at Toowong Cemetery on Anzac Day 1924. His body was found the following Monday downstream. It is believed that he tripped over an obstacle on the ship’s deck in the early hours of the morning. 
 
 Harrhy, aged 36, had been in the navy for over fifteen years and had a splendid war records. The funeral left the ship for the cemetery and many wreaths were laid including one shaped like an anchor and another, a model of the ship. The officers and crew arranged a dance in aid of Harrhy’s family aboard the *Dauntless*.
 

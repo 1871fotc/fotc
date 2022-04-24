@@ -2,13 +2,12 @@
 hide:
   - toc
   - navigation
-description: The Architect of ANZAC Day  
+description: The Architect of Anzac Day  
 ---
 
 # David John Garland 
 
 **4 October 1864 — 11 October 1939**
-
 
 --8<-- "snippets/david-john-garland.md"
 
