@@ -29,7 +29,6 @@ On this site you'll find information about:
  
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
 
-
 ## Visit Toowong Cemetery
 
 <img class="full-width" src="assets/main-entrance.jpg" alt="Toowong Cemetery Main Entrance" width="70%">
