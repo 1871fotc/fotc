@@ -119,8 +119,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 | **[William Brown][Brown]** Avenue          | 14^th^ Avenue |                                                                      |
 | Federation Avenue                          | 15^th^ Avenue |                                                                      |
 
-
-<!-- Read about other [roads named after people buried in Toowong Cemetery](stories/roads.md). --> 
+<!-- Read about [local streets named after people buried in Toowong Cemetery](stories/toowong-street-name-origins.md). --> 
 
 !!! question "Volunteer - report a damaged sign"
 
