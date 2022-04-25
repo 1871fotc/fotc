@@ -27,6 +27,8 @@ More information on the [symbolism used in Victorian era cemeteries](../headston
 Before starting, you may like to download the [Toowong Cemetery map](../assets/toowong_map.jpg). 
 <!-- Seek permission to annotate the map showing the walk -->
 
+<!-- TODO copy / recreate the self-guided map sign -->
+
 ???+ directions "Directions" 
 
     Begin the heritage walk at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
@@ -67,7 +69,6 @@ Cowlishaw’s wife, Charlotte (née Owen) was the second burial in the grave fol
     Proceed to the end of the avenue and to the left find the Federation Pavilion. In the area to the left of the pavilion are Sir Charles Lilley and Sir Samuel Walker Griffith.
     
     ![x](../assets/404.png){ width="15%"} ![](../assets/samuel-walker-griffith-headstone-1.jpg){ width="15%" } 
-
 
 ## Sir Charles Lilley <small>(1830‑1897)</small>
 
