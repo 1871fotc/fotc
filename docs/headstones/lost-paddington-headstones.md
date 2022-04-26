@@ -66,7 +66,7 @@ Abbreviations used in the list of memorials above, are shown in the table below.
 | Theop.       | Theophillus | 
 | Wm.          | William     |
 
-It is not known if these abbreviations were used on the headstones. Monument 107 recorded as 'E. Hartnoll' has the inscription 'Eliza' on the  headstone.
+It is not known if these abbreviations were used on the headstones. Headstone 107 recorded as 'E. Hartnoll' has the inscription 'Eliza' on the headstone.
 
 ![Eliza Hartnoll headstone](../assets/eliza-hartnoll-headstone.jpg){ width="100%" }
 
