@@ -49,22 +49,17 @@ Abbreviations used in the list above, are shown in the table below. It is not kn
 
 | Abbreviation | Name or Honorific Prefix |
 | -----------  | ----------- |
-| Ale.         | Alexander   |
-| Alf.         | Alfred      |
-| Capt.        | Captain     |
+| Alex.        | Alexander   |
 | Chas.        | Charles     |
 | Eliz.        | Elizabeth   |
-| Fredk.       | Frederick   |
+| Fdk.         | Frederick   |
 | Geo.         | George      |
 | Hy.          | Henry       |
 | Patk.        | Patrick     |
-| Rev.         | Reverend    |
-| Rich.        | Richard     |
 | Robt.        | Robert      |
 | Tim.         | Timothy     |
 | Thos.        | Thomas      |
 | Wm.          | William     |
-
 
 ## Download the data
 
