@@ -44,7 +44,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
 
 ## Abbreviations
 
-Abbreviations used in the list of memorials above, are shown in the table below. 
+Abbreviations used in the source document have expanded using the following mappings: 
 
 | Abbreviation | Name or Honorific Prefix |
 | -----------  | ----------- |
@@ -53,10 +53,10 @@ Abbreviations used in the list of memorials above, are shown in the table below.
 | Chas.        | Charles     |
 | Ed.          | Edward      |
 | Eliz.        | Elizabeth   |
+| Fdk.         | Frederick   |
 | Fredk.       | Frederick   |
 | Geo.         | George      |
 | Hy.          | Henry       |
-| Jcs. perhaps Jos.? |        | 
 | Jos.         | Joseph      |
 | Margt.       | Margaret    |
 | Rev.         | Reverend    |
@@ -66,7 +66,7 @@ Abbreviations used in the list of memorials above, are shown in the table below.
 | Theop.       | Theophillus | 
 | Wm.          | William     |
 
-It is not known if these abbreviations were used on the headstones. Headstone 107 recorded as 'E. Hartnoll' has the inscription 'Eliza' on the headstone.
+Where additional information has been discovered, it has been added to the table. For example, Headstone 107 recorded 'E. Hartnoll' has the inscription 'Eliza' on the headstone.
 
 ![Eliza Hartnoll headstone](../assets/eliza-hartnoll-headstone.jpg){ width="100%" }
 
