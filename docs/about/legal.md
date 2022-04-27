@@ -26,6 +26,8 @@ If you reuse this work, the preferred attribution is to follow the [Creative Com
 
 >"Page title *(link to page)*" by Friends of Toowong Cemetery Association Inc. *(link to https://www.fotc.org.au)* is licensed under CC BY 4.0 *(link to https://creativecommons.org/licenses/by/4.0/)*
 
+We ask that you respect the moral right of the original contributor to be acknowledged as the author and retain any Acknowledgements on the work you reuse.
+
 For example, the preferred attribution for the Toowong Cemetery History page, when reused on the internet is:
 
 >"[Toowong Cemetery History][history]" by [Friends of Toowong Cemetery Association Inc.][site] is licensed under [CC BY 4.0][CC-BY]
@@ -57,6 +59,8 @@ Contributions must be made under an open licence, preferably the [Creative Commo
 - you are given attribution for your work 
 
 You may waive your right to be attributed, if you would prefer your name not to be published. 
+
+Members of Friends of Toowong Cemetery Association Inc. can simplify the assignment of copyright and open licensing of their ongoing contributions by signing the **[Copyright Assignment form](fotc-copyright-assignment-form.pdf)** and sending the original to Friends of Toowong Cemetery Association Inc.
 
 ## Contributors
 
