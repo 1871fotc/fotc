@@ -4,7 +4,7 @@ To mark the anniversary of Toowong Cemetery's first year of operation, there was
 
 Watch the **[Governor's funeral re-enacted in Brisbane](https://youtu.be/8sdVuMGc_1s)** on ABC News (Australia) 
 
-![Re-enactment of the burial of Governor Blackall](../assets/140-commemoration.png)
+![Re-enactment of the burial of Governor Blackall](../assets/140-commemoration.png){ width="70%" }
 
 Read about the:
 
@@ -14,6 +14,9 @@ Read about the:
 A book, **[Colonel Samuel Wensley Blackall : 1809-1871](../assets/guides/samuel-blackall.pdf)** was published to celebrate the 140^th^ anniversary of the first year of operation of the Brisbane General Cemetery, now known as the Toowong Cemetery, and the internment of the first person buried there, Governor Samuel Wensley Blackall.
 
 The Friends of Toowong Cemetery received a Silver Award in the 2012 [National Trust of Queensland Heritage Awards for Volunteer Projects](https://www.nationaltrustqld.org.au/what-we-do/heritage-awards) for the 140^th^ Anniversary Commemoration of the cemetery.
+
+![140th Anniversary Commemoration DVD](../assets/140-commemoration-dvd.jpg){ width="70%" }
+
 
 The event was filmed and a DVD has been produced featuring footage of the re-enactment and segments outlining the history of the cemetery and stories of some people buried there. The DVD is available for purchase for $25 (including GST and postage within Australia).
 
