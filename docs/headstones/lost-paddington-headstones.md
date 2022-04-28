@@ -44,7 +44,7 @@ The table below lists Paddington Cemetery headstones that were placed in the res
 
 ## Abbreviations
 
-Abbreviations used in the source document have expanded using the following mappings: 
+Abbreviations used in the source document have been expanded using the following mappings: 
 
 | Abbreviation | Name or Honorific Prefix |
 | -----------  | ----------- |
