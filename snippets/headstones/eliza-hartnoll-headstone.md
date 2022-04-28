@@ -21,3 +21,7 @@
 >Gone to her little pal... *(palace?)*<br>
 >Even so them also which sleep <br>
 >in Jesus will God bring with him <br>
+
+The last sentence in the inscription may be from the King James Bible, Thessalonians 4:14: 
+
+>For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
