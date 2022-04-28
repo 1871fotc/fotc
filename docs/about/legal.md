@@ -48,9 +48,9 @@ An example attribution for work derived from the Toowong Cemetery History page i
 
 To contribute content, you can:
 
-- [Share content via email][email]
-- [Share content in a GitHub issue][new-issue] (login required)
-- [Discuss or share your contribution in the GitHub discussion forum][forum] (login required)
+- **[Share content via email][email]**
+- **[Share content in a GitHub issue][new-issue]** (login required)
+- **[Discuss or share your contribution in the GitHub discussion forum][forum]** (login required)
 
 Contributions must be made under an open licence, preferably the [Creative Commons Attribution 4.0 licence][CC-BY] so you:
 
@@ -60,7 +60,7 @@ Contributions must be made under an open licence, preferably the [Creative Commo
 
 You may waive your right to be attributed, if you would prefer your name not to be published. 
 
-Members of Friends of Toowong Cemetery Association Inc. can simplify the assignment of copyright and open licensing of their ongoing contributions by signing the **[Copyright Assignment form](fotc-copyright-assignment-form.pdf)** and sending the original to Friends of Toowong Cemetery Association Inc.
+Members of Friends of Toowong Cemetery Association Inc. can simplify the assignment of copyright and open licensing of their ongoing contributions by signing the **[Copyright Assignment form](../assets/fotc-copyright-assignment-form.pdf)** and sending the original to Friends of Toowong Cemetery Association Inc.
 
 ## Contributors
 
