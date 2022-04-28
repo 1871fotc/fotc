@@ -5,19 +5,19 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 2,W. J.,Allen,,,Episcopalian
 3,J.,Allen,,,Episcopalian
 4,John,Amy,,,Episcopalian
-5,Wm. Grovenor,Armstrong,,,Episcopalian
+5,William Grovenor,Armstrong,,,Episcopalian
 6,John,Ashworth,,,Episcopalian
 7,J. F.,Atkinson,,,Episcopalian
 8,Percy,Backhouse,,,Episcopalian
 9,C. J.,Baker,,,Episcopalian
-10,Wm.,Baker,Rev.,,Episcopalian
+10,William,Baker,Reverend,,Episcopalian
 11,James,Balfour,,,Episcopalian
 12,C. A.,Barham,,,Episcopalian
 13,C. H.,Barlee,,,Episcopalian
 13,A. W.,Barlee,,,Episcopalian
 13,E. H.,Barlee,,,Episcopalian
 13,E. L.,Barlee,,,Episcopalian
-14,Hy. Robt.,Barlthrop,,,Episcopalian
+14,Henry Robert,Barlthrop,,,Episcopalian
 15,Wille J.,Barnes,,,Episcopalian
 16,J. W.,Barnett,,,Episcopalian
 17,John E.,Barney,,,Episcopalian
@@ -25,24 +25,24 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 18,F. A.,Barrington,,,Episcopalian
 19,M. E.,Barron,,,Episcopalian
 20,P. P.,Baskerville,,,Episcopalian
-21,Eliz.,Bateman,,,Episcopalian
+21,Elizabeth,Bateman,,,Episcopalian
 22,F. G.,Bennett,,,Episcopalian
 22,A. W.,Bennett,,and infant,Episcopalian
 23,Arthur S.,Bernays,,,Episcopalian
-24,Wm.,Betz,,,Episcopalian
+24,William,Betz,,,Episcopalian
 25,B. E.,P.,,,Episcopalian
 26,E. J.,Black,,,Episcopalian
-26,Thos.,Black,,,Episcopalian
+26,Thomas,Black,,,Episcopalian
 27,C. J.,Blakeney,,,Episcopalian
 28,G. D.,Blanche,,,Episcopalian
-29,Wm. B.,Blunt,,,Episcopalian
+29,William B.,Blunt,,,Episcopalian
 30,T. H.,Bothamley,,,Episcopalian
 31,Richard,Bower,,,Episcopalian
-32,Eliz.,Bowers,,same as W. J. and R. H. Sparkes: 226,Episcopalian
-33,J.,Brackenridge,Rev.,,Episcopalian
+32,Elizabeth,Bowers,,same as W. J. and R. H. Sparkes: 226,Episcopalian
+33,J.,Brackenridge,Reverend,,Episcopalian
 34,Amos,Braysher,,,Episcopalian
 35,J. W.,Brown,,,Episcopalian
-36,Wm. A.,Brown,,same as T. Seymour: 217. 'William Anthony' on the headstone.,Episcopalian
+36,William A.,Brown,,same as T. Seymour: 217. 'William Anthony' on the headstone.,Episcopalian
 37,Paul L.,Burke,,,Episcopalian
 38,Eliza,Burley,,,Episcopalian
 38,James,Burley,,,Episcopalian
@@ -77,18 +77,18 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 59,Samual,Copperwaite,,,Episcopalian
 60,H. A.,Court,,,Episcopalian
 60,E. M.,Court,,,Episcopalian
-61,A.D.,Cox,,,Episcopalian
+61,A. D.,Cox,,,Episcopalian
 61,E. M.,Cox,,,Episcopalian
-62,Wm.,Crack,,,Episcopalian
+62,William,Crack,,,Episcopalian
 63,F. C.,Cracknell,,,Episcopalian
 64,Ernest Elphinstone,Dalrymple,,,Episcopalian
 65,J.,Daly,,,Episcopalian
 65,E.,Daly,,same as E. Newton: 173.,Episcopalian
-66,Wm.,Davey,,,Episcopalian
+66,William,Davey,,,Episcopalian
 67,,Davidson,,,Episcopalian
 68,J. W.,Deedes,,,Episcopalian
 69,Frank,Deighton,,,Episcopalian
-70,Chas.,Denyer,,,Episcopalian
+70,Charles,Denyer,,,Episcopalian
 71,Ann,De Villers,,,Episcopalian
 72,T. S.,Dexter,,,Episcopalian
 72,S. C.,Dexter,,,Episcopalian
@@ -104,10 +104,10 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 81,Kate,Duesbury,,,Episcopalian
 82,,Edwards,,child of J. C. Edwards,Episcopalian
 83,H. A.,Eliotte,,,Episcopalian
-84,H. E.,Ellice,Capt.,,Episcopalian
+84,H. E.,Ellice,Captain,,Episcopalian
 85,H. T.,Evans,,,Episcopalian
 86,M. L.,Fairlie,,,Episcopalian
-87,Rich. Chas.,Faunce,,,Episcopalian
+87,Richard Charles,Faunce,,,Episcopalian
 88,I. T. D.,Ferguson,,,Episcopalian
 89,J. J.,Fitzgerald,,,Episcopalian
 90,C. J. M. J.,Foot,,,Episcopalian
@@ -120,23 +120,23 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 94,F. M.,Garby,,,Episcopalian
 95,H. M.,Garner,,,Episcopalian
 96,G. C.,N.,,,Episcopalian
-97,Wm. H.,Geary,Capt.,,Episcopalian
+97,William H.,Geary,Captain,,Episcopalian
 97,Susan,Geary,,,Episcopalian
 98,Joshua,Gillson,,,Episcopalian
 99,F.,Greenslade,,,Episcopalian
 100,Charlotte,Greenwood,,,Episcopalian
-101,Thos.,Grenier,,,Episcopalian
+101,Thomas,Grenier,,,Episcopalian
 102,Edward,Hacking,,,Episcopalian
-103,Geo.,Hall,,,Episcopalian
+103,George,Hall,,,Episcopalian
 104,M. A.,Hamilton,,,Episcopalian
 105,K. M.,Harris,,,Episcopalian
 105,S. E.,Harris,,,Episcopalian
 106,G. L.,Hart,,,Episcopalian
 107,E.,Hartnoll,,'Eliza' on the headstone,Episcopalian
-108,Thos. Wm.,Hatton,,,Episcopalian
+108,Thomas William,Hatton,,,Episcopalian
 109,H.,Haydon,,,Episcopalian
 109,A. S.,Haydon,,,Episcopalian
-110,Thos.,Haynes,,,Episcopalian
+110,Thomas,Haynes,,,Episcopalian
 111,,,,Headstone (no name),Episcopalian
 112,John,Heap,,,Episcopalian
 113,Abigeil,Helmore,,,Episcopalian
@@ -148,20 +148,20 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 117,M. B. L.,Hitchers,,,Episcopalian
 118,S.,Hodge,,,Episcopalian
 118,A.,Hodge,,,Episcopalian
-119,Wm.,Holbrook,,,Episcopalian
-120,Thos.,Hole,,,Episcopalian
+119,William,Holbrook,,,Episcopalian
+120,Thomas,Hole,,,Episcopalian
 121,T. A.,Hooper,,,Episcopalian
 122,C. A.,Hopkins,,,Episcopalian
 123,R. B.,Horrocks,,,Episcopalian
 123,A. L.,Horrocks,,,Episcopalian
 123,G. G. M.,Horrocks,,,Episcopalian
 124,Charlotte,Howell,,,Episcopalian
-125,Eliz.,Huggins,,,Episcopalian
-126,Wm. Hy.,Hunt,,,Episcopalian
+125,Elizabeth,Huggins,,,Episcopalian
+126,William Henry,Hunt,,,Episcopalian
 127,J. E.,Hunter,,,Episcopalian
 127,J. A.,Hunter,,,Episcopalian
 127,A. M.,Hunter,,,Episcopalian
-128,Geo.,Hutchinson,,,Episcopalian
+128,George,Hutchinson,,,Episcopalian
 129,F. N.,Isaac,,,Episcopalian
 130,John Lister,Isaac,,,Episcopalian
 131,Mary,Jewell,,,Episcopalian
@@ -170,7 +170,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 134,Robert,Jones,,,Episcopalian
 135,,Kelly,,obliterated,Episcopalian
 136,A.,Kent,,,Episcopalian
-137,Wm.,Key,,,Episcopalian
+137,William,Key,,,Episcopalian
 138,E. C.,Kilgour,,,Episcopalian
 139,Julius,Kopp,,,Episcopalian
 140,E. C.,Lamb,,,Episcopalian
@@ -179,33 +179,33 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 142,R. C. J.,Lansdown,,,Episcopalian
 142,M. L.,Lansdown,,,Episcopalian
 143,C. W.,Lavender,,,Episcopalian
-144,Wm.,Lewis,,,Episcopalian
+144,William,Lewis,,,Episcopalian
 145,E.,Lewthwaite,,,Episcopalian
 146,J. M.,Lewthwaite,,,Episcopalian
 147,Medora A.,Little,,,Episcopalian
 148,E. M.,Lockyer,,,Episcopalian
 149,Long Sing Gong,,,,Episcopalian
 150,C. E. I.,Longheath,,,Episcopalian
-151,Wm. J.,Louden,,,Episcopalian
+151,William J.,Louden,,,Episcopalian
 152,R. F.,Lovett,,,Episcopalian
 153,Julius,Lynde,,,Episcopalian
 154,John,Mace,,,Episcopalian
 155,A.,Marshall,,,Episcopalian
 156,E.,Mallicot,,,Episcopalian
-157,Wm.,Marchant,,,Episcopalian
+157,William,Marchant,,,Episcopalian
 158,B. M.,Mather,,,Episcopalian
 158,M.,Mather,,,Episcopalian
-159,Geo. W.,Mating,,,Episcopalian
+159,George W.,Mating,,,Episcopalian
 160,J.,Matthews,,,Episcopalian
 161,C.,McKand,,,Episcopalian
 162,C.,McLaren,,,Episcopalian
 163,Selina,McLeod,,,Episcopalian
 164,A. G.,Milne,,,Episcopalian
 165,Mary,Miller,,,Episcopalian
-166,Thos. P.,Mitchinson,,,Episcopalian
+166,Thomas P.,Mitchinson,,,Episcopalian
 167,T. H.,Morgan,,,Episcopalian
 168,H. G.,Morris,,,Episcopalian
-169,Wm.,Morriss,,,Episcopalian
+169,William,Morriss,,,Episcopalian
 170,R. S.,Morse,,,Episcopalian
 171,Michael J.,Murphy,,,Episcopalian
 172,Unity E. E.,Naylor,,,Episcopalian
@@ -214,15 +214,15 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 174,H. H.,Nicol,,,Episcopalian
 175,Emily,Nind,,,Episcopalian
 176,Emily,Nott,,,Episcopalian
-177,Thos.,Nott,,,Episcopalian
+177,Thomas,Nott,,,Episcopalian
 178,E. H.,Nutall,,,Episcopalian
 179,R.,Oliver,,,Episcopalian
 180,J. M.,Ommannery,,,Episcopalian
-181,Margt.,Orr,,,Episcopalian
+181,Margaret,Orr,,,Episcopalian
 181,Mary,Orr,,,Episcopalian
 182,A. W.,Osbourne,,,Episcopalian
-182,Chas.,Osbourn,,same as D. C. Campbell: 42.,Episcopalian
-183,Wm.,Page,,,Episcopalian
+182,Charles,Osbourn,,same as D. C. Campbell: 42.,Episcopalian
+183,William,Page,,,Episcopalian
 184,P.,Paish,,,Episcopalian
 185,John,Parker,,,Episcopalian
 186,G. A.,Parlett,,,Episcopalian
@@ -236,7 +236,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 192,M. A.,Pears,,,Episcopalian
 192,E. E.,Pears,,,Episcopalian
 192,A. E.,Pears,,,Episcopalian
-193,Hy.,Pearce,,,Episcopalian
+193,Henry,Pearce,,,Episcopalian
 194,John,Peel,,,Episcopalian
 195,M. L.,Perry,,,Episcopalian
 196,Daniel,Peterson,,,Episcopalian
@@ -253,8 +253,8 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 204,John,Radley,,same as Sarah Williams: 268,Episcopalian
 205,S.,Ralls,,,Episcopalian
 205,G.,Ralls,,,Episcopalian
-206,Geo.,Rawlings,,,Episcopalian
-207,Hy. Chas.,Rawnsley,,,Episcopalian
+206,George,Rawlings,,,Episcopalian
+207,Henry Charles,Rawnsley,,,Episcopalian
 208,E. J.,Ritchie,,,Episcopalian
 208,T.,Ritchie,,,Episcopalian
 209,H. E.,Roberts,,,Episcopalian
@@ -263,7 +263,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 210,Agusta,Robinson,,,Episcopalian
 210,Jeremiah,Robinson,,,Episcopalian
 210,J.,Robinson,,same as C. Osbourn: 42,Episcopalian
-211,Wm. F.,Robinson,,,Episcopalian
+211,William F.,Robinson,,,Episcopalian
 212,H.,Rosetta,,,Episcopalian
 212,C. G.,Rosetta,,,Episcopalian
 213,Frederich,Rowe,,,Episcopalian
@@ -272,10 +272,10 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 216,A. W.,Scarr,,,Episcopalian
 216,L. H.,Scarr,,,Episcopalian
 217,John,Sewell,,,Episcopalian
-217,Thos.,Seymour,,same as W. A. Brown: 36,Episcopalian
+217,Thomas,Seymour,,same as W. A. Brown: 36,Episcopalian
 218,F. R. C.,Sharpe,,,Episcopalian
 219,E. K.,Shaw,,,Episcopalian
-220,John Ed.,Shaw,,,Episcopalian
+220,John Edward,Shaw,,,Episcopalian
 221,J.,Shepherd,,,Episcopalian
 222,M.A,Sheppherd,,,Episcopalian
 222,A. H. C.,Sheppherd,,,Episcopalian
@@ -285,8 +285,8 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 225,Ann,Smith,,,Episcopalian
 226,W. B.,Smith,,,Episcopalian
 226,M. A.,Smith,,,Episcopalian
-226,W. J.,Sparkes,,same as Eliz. Bowers: 32,Episcopalian
-226,Rose Hannan,Sparkes,,same as Eliz. Bowers: 32,Episcopalian
+226,W. J.,Sparkes,,same as Elizabeth Bowers: 32,Episcopalian
+226,Rose Hannan,Sparkes,,same as Elizabeth Bowers: 32,Episcopalian
 227,John,Stevens,,,Episcopalian
 228,S. A.,Storch,,,Episcopalian
 229,James Barrow,Storey,,,Episcopalian
@@ -299,13 +299,13 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 234,T. B.,Temple,,,Episcopalian
 234,C. B.,Temple,,,Episcopalian
 234,J.,Temple,,same as A. H. Garbutt: 93,Episcopalian
-235,H. J.,Thomas,Capt.,,Episcopalian
+235,H. J.,Thomas,Captain,,Episcopalian
 236,John,Thomas,,,Episcopalian
 237,E. R.,Thomas,,,Episcopalian
 238,J. H.,Thompson,,,Episcopalian
 238,E. M.,Thompson,,,Episcopalian
 238,J. E.,Thompson,,,Episcopalian
-239,Geo.,Thompson,,,Episcopalian
+239,George,Thompson,,,Episcopalian
 240,Joseph,Thompson,,,Episcopalian
 241,F. E.,Thurman,,,Episcopalian
 242,J. H.,Timpson,,,Episcopalian
@@ -313,7 +313,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 244,L.,Tully,,,Episcopalian
 244,L. B.,Tully,,,Episcopalian
 245,John B.,Turner,,,Episcopalian
-246,Jos. B.,Twopenny,,,Episcopalian
+246,Joseph B.,Twopenny,,,Episcopalian
 247,Edmund B.,Uhr,,,Episcopalian
 248,H. B.,Unwin,,,Episcopalian
 249,C. S. C.,Vallack,,,Episcopalian
@@ -324,7 +324,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 252,H. J.,Walsh,,,Episcopalian
 253,Annie,Ward,,,Episcopalian
 254,C. F.,Warren,,,Episcopalian
-255,Hy.,Watson,,,Episcopalian
+255,Henry,Watson,,,Episcopalian
 255,T. W.,Watson,,,Episcopalian
 255,G. A.,Watson,,,Episcopalian
 256,R. H.,Watson,,,Episcopalian
@@ -335,7 +335,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 259,J. W.,Webster,,,Episcopalian
 259,J. A.,Webster,,,Episcopalian
 260,Daniel,Weinholt,,,Episcopalian
-261,Hy.,Wells,,,Episcopalian
+261,Henry,Wells,,,Episcopalian
 262,I. F. A.,Wettenhall,,,Episcopalian
 262,A. R>,Wettenhall,,,Episcopalian
 262,S. H.,Wettenhall,,,Episcopalian
@@ -343,13 +343,13 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 264,Alice Catherine,Wilkes,,,Episcopalian
 265,John,Williams,,,Episcopalian
 266,David,Williams,,,Episcopalian
-266,Wm.,Williams,,,Episcopalian
+266,William,Williams,,,Episcopalian
 267,E. V.,Williams,,,Episcopalian
-268,Hy.,Williams,,,Episcopalian
+268,Henry,Williams,,,Episcopalian
 268,Sarah,Williams,,same as J. Radley: 204,Episcopalian
 269,John James,Wilson,,,Episcopalian
 270,John,Wilson,,,Episcopalian
-271,Robt. Geo.,Wonderley,,,Episcopalian
+271,Robert George,Wonderley,,,Episcopalian
 272,N.,Woodgate,,,Episcopalian
 273,John,Woodward,,,Episcopalian
 274,M. A.,Wool,,,Episcopalian
@@ -365,26 +365,26 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 305,John,Brown,,,Roman Catholic
 306,Margaret,Brown,,,Roman Catholic
 307,John,Burke,,,Roman Catholic
-308,James Hy.,Burke,,,Roman Catholic
+308,James Henry,Burke,,,Roman Catholic
 308,W. J.,Burke,,,Roman Catholic
 309,Michael,Burney,,,Roman Catholic
-310,Thos.,Clune,,,Roman Catholic
+310,Thomas,Clune,,,Roman Catholic
 311,Sybella,Clune,,,Roman Catholic
 312,Martin,Collins,,,Roman Catholic
 313,Hannah,Conroy,,,Roman Catholic
-314,Wm.,Costelloe,,,Roman Catholic
-315,Eliz. M.,Coyne,,,Roman Catholic
-316,Thos.,Dalton,,,Roman Catholic
-316,Thos.,Dalton,,,Roman Catholic
+314,William,Costelloe,,,Roman Catholic
+315,Elizabeth M.,Coyne,,,Roman Catholic
+316,Thomas,Dalton,,,Roman Catholic
+316,Thomas,Dalton,,,Roman Catholic
 317,M. A.,Darragh,,,Roman Catholic
 317,John,Darragh,,,Roman Catholic
-318,Jos.,Darragh,,,Roman Catholic
+318,Joseph,Darragh,,,Roman Catholic
 318,Ann,Darragh,,,Roman Catholic
 319,Ann,Denyer,,,Roman Catholic
 320,Hugh,Donnelly,,,Roman Catholic
 321,P. J.,Donovan,,,Roman Catholic
-322,Wm.,Donohue,,,Roman Catholic
-323,Robt.,Eaton,,,Roman Catholic
+322,William,Donohue,,,Roman Catholic
+323,Robert,Eaton,,,Roman Catholic
 323,Mary Ann,Eaton,,,Roman Catholic
 324,John,Ede,,,Roman Catholic
 325,Martin,Fenney,,,Roman Catholic
@@ -406,7 +406,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 337,Sarah,Jones,,,Roman Catholic
 338,Margaret,Kennedy,,,Roman Catholic
 339,Walsh,Kinsela,,,Roman Catholic
-339,Thos.,Kinsela,,,Roman Catholic
+339,Thomas,Kinsela,,,Roman Catholic
 339,Jane,Kinsela,,,Roman Catholic
 340,F. W.,Klewitz,,,Roman Catholic
 341,Daniel Michael,Leen,,,Roman Catholic
@@ -426,13 +426,13 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 352,John,McCabe,,,Roman Catholic
 353,Margaret,McKee,,,Roman Catholic
 354,Janet,Murphy,,,Roman Catholic
-355,Thos.,O'Brien,,,Roman Catholic
+355,Thomas,O'Brien,,,Roman Catholic
 356,Fanny,O'Brien,,,Roman Catholic
-356,Timothy Fredk.,O'Brien,,,Roman Catholic
+356,Timothy Frederick,O'Brien,,,Roman Catholic
 357,Eva N.,O'Doherty,,,Roman Catholic
 358,Mary B.,O'Moore,,,Roman Catholic
 359,Frank,Pfeiffer,,,Roman Catholic
-360,Eliz.,Quinn,,,Roman Catholic
+360,Elizabeth,Quinn,,,Roman Catholic
 361,F. M.,Raban,,,Roman Catholic
 362,,Raleigh,,,Roman Catholic
 363,John,Reilly,,,Roman Catholic
@@ -444,7 +444,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 369,Ellen,Sheehan,,,Roman Catholic
 369,Jane,Sheehan,,,Roman Catholic
 369,Jane Ann,Sheehan,,,Roman Catholic
-369,Wm.,Sheehan,,,Roman Catholic
+369,William,Sheehan,,,Roman Catholic
 370,Ellen,Slevin,,,Roman Catholic
 371,Patrick,Slevin,,,Roman Catholic
 371,Patrick,Sloane,,,Roman Catholic
@@ -452,14 +452,14 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 373,James,Smith,,,Roman Catholic
 373,Ann,Smith,,,Roman Catholic
 374,D.,Stewart,,,Roman Catholic
-375,Thos.,Stewart,,,Roman Catholic
+375,Thomas,Stewart,,,Roman Catholic
 376,E. W. J.,Taylor,,,Roman Catholic
 377,Catherine,Tracey,,,Roman Catholic
 377,Daniel,Tracey,,,Roman Catholic
 377,Catherine,Tracey,,,Roman Catholic
 377,Ann,Tracey,,,Roman Catholic
 378,Christopher,Weir,,,Roman Catholic
-401,Wm.,Anderson,,,Presbyterian
+401,William,Anderson,,,Presbyterian
 402,J. C.,Binney,,,Presbyterian
 403,Ralph,Black,,,Presbyterian
 404,Ann,Boyd,,,Presbyterian
@@ -472,11 +472,11 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 411,M. A.,Buxton,,,Presbyterian
 411,A. M.,Buxton,,,Presbyterian
 411,M.,Buxton,,,Presbyterian
-412,Wm.,Campbell,,,Presbyterian
+412,William,Campbell,,,Presbyterian
 413,P. A.,Campbell,,almost illegible,Presbyterian
 414,Jane,Campbell,,,Presbyterian
 415,M. F.,Campbell,,same as J. Lamont: 38,Presbyterian
-416,Geo.,Christie,,,Presbyterian
+416,George,Christie,,,Presbyterian
 416,S. C.,Christie,,,Presbyterian
 416,R.,Christie,,,Presbyterian
 417,James Home,Connor,,,Presbyterian
@@ -484,14 +484,14 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 419,C. S.,Craies,,,Presbyterian
 419,F. E. A.,Craies,,,Presbyterian
 420,J. D.,Davies,,,Presbyterian
-421,Wm.,Dawson,,,Presbyterian
+421,William,Dawson,,,Presbyterian
 422,Catherine,Don,,,Presbyterian
 423,Hannah,Drake,,,Presbyterian
-423,Wm. B.,Drake,,,Presbyterian
+423,William B.,Drake,,,Presbyterian
 424,James,Fenwick,,,Presbyterian
 425,Kate,Finney,,,Presbyterian
 426,C. I.,Fraser,,,Presbyterian
-427,Wm.,Gowans,,,Presbyterian
+427,William,Gowans,,,Presbyterian
 428,Jessie B. K.,Guthrie,,,Presbyterian
 428,M. I.,Guthrie,,,Presbyterian
 428,F. D.,Guthrie,,,Presbyterian
@@ -501,7 +501,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 431,A. S.,Henry,,,Presbyterian
 432,Alice,Hervey,,,Presbyterian
 433,E.,Hill,,,Presbyterian
-434,Chas.,Hirche,,,Presbyterian
+434,Charles,Hirche,,,Presbyterian
 434,A. W.,Hirche,,,Presbyterian
 435,John,Howie,,,Presbyterian
 436,C. T.,Hutchinson,,,Presbyterian
@@ -512,7 +512,7 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 438,A. W.,Laing,,,Presbyterian
 438,E.,Laing,,,Presbyterian
 438,Jessie,Lamont,,same as M. F. Chapman: 15,Presbyterian
-440,Wm.,Livingstone,,,Presbyterian
+440,William,Livingstone,,,Presbyterian
 441,James,Low,,,Presbyterian
 441,Isabella,Low,,,Presbyterian
 441,John,Low,,,Presbyterian
@@ -521,27 +521,27 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 441,Annie,Low,,,Presbyterian
 442,J. C.,Mackellar,,,Presbyterian
 443,H. P.,Macknight,,,Presbyterian
-444,Robt.,Manley,,,Presbyterian
+444,Robert,Manley,,,Presbyterian
 445,Angus,Matheson,,,Presbyterian
 446,J. F.,Mercer,,,Presbyterian
-447,Alex.,Mowat,,,Presbyterian
+447,Alexander,Mowat,,,Presbyterian
 448,J.,Muir,,and infant,Presbyterian
 449,Simon,Munro,,,Presbyterian
-450,Geo. Young,Munro,,,Presbyterian
+450,George Young,Munro,,,Presbyterian
 451,John,Murray,,,Presbyterian
-451,Wm.,Murray,,,Presbyterian
+451,William,Murray,,,Presbyterian
 452,J.,McIntyre,,,Presbyterian
 453,Archibald,McMillian,,,Presbyterian
 454,John,McIntosh,,,Presbyterian
 455,Ann,McIvor,,"same as D. B., J., and M. Sang: 55",Presbyterian
 456,L. W.,McLean,,,Presbyterian
 457,Mary,McQuaker,,,Presbyterian
-458,Geo.,Noble,,,Presbyterian
-459,Wm.,Phillips,,,Presbyterian
+458,George,Noble,,,Presbyterian
+459,William,Phillips,,,Presbyterian
 460,J. S.,Porter,,,Presbyterian
 461,James,Powers,,,Presbyterian
 462,A.,Purdie,,,Presbyterian
-463,Chas. Rowatt,Raeside,,,Presbyterian
+463,Charles Rowatt,Raeside,,,Presbyterian
 464,Ramlah,,,,Presbyterian
 465,Ann,Rankin,,,Presbyterian
 466,Jane,Rankin,,,Presbyterian
@@ -549,10 +549,10 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 467,D. B.,Sang,,same as A. McIver: 55,Presbyterian
 467,J.,Sang,,same as A. McIver: 55,Presbyterian
 467,M.,Sang,,same as A. McIver: 55,Presbyterian
-468,Alex.,Scott,,,Presbyterian
+468,Alexander,Scott,,,Presbyterian
 469,Elizabeth,Scott,,,Presbyterian
 470,Mary,Scott,,,Presbyterian
-470,Wm.,Scott,,,Presbyterian
+470,William,Scott,,,Presbyterian
 471,A. P. E.,Sinclair,,,Presbyterian
 472,John,Souter,,,Presbyterian
 473,Margaret,Stewart,,,Presbyterian
@@ -572,31 +572,31 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 505,James John,Cairns,,,Wesleyan-Methodist / Congregational
 506,James,Champion,,,Wesleyan-Methodist / Congregational
 507,Salina,Chapman,,,Wesleyan-Methodist / Congregational
-507,Thos. W.,Chapman,,,Wesleyan-Methodist / Congregational
+507,Thomas W.,Chapman,,,Wesleyan-Methodist / Congregational
 508,Arthur John,Denny,,,Wesleyan-Methodist / Congregational
 508,Algernon,Denny,,,Wesleyan-Methodist / Congregational
 509,John,Derbyshire,,,Wesleyan-Methodist / Congregational
 510,Robert Doulas,Finlay,,,Wesleyan-Methodist / Congregational
 510,Frederick,Finlay,,,Wesleyan-Methodist / Congregational
-511,Wm. Alf.,Finney,,,Wesleyan-Methodist / Congregational
+511,William Alfred,Finney,,,Wesleyan-Methodist / Congregational
 512,Jane,Franklin,,,Wesleyan-Methodist / Congregational
 513,F. W.,Gender,,,Wesleyan-Methodist / Congregational
 514,Florence Gertrude,Harley,,,Wesleyan-Methodist / Congregational
 515,Henry,Hawkins,,,Wesleyan-Methodist / Congregational
 515,Emma,Hawkins,,,Wesleyan-Methodist / Congregational
-516,Geo.,Heal,,,Wesleyan-Methodist / Congregational
+516,George,Heal,,,Wesleyan-Methodist / Congregational
 516,M. A.,Heal,,,Wesleyan-Methodist / Congregational
-516,Geo.,Heal,,,Wesleyan-Methodist / Congregational
+516,George,Heal,,,Wesleyan-Methodist / Congregational
 517,S. S.,Kingston,,,Wesleyan-Methodist / Congregational
 518,Kasper,Kasper,,,Wesleyan-Methodist / Congregational
 519,M. A.,Markwell,,,Wesleyan-Methodist / Congregational
-520,Thos.,Markwell,,same as Pyne: 527,Wesleyan-Methodist / Congregational
+520,Thomas,Markwell,,same as Pyne: 527,Wesleyan-Methodist / Congregational
 521,H. J. I.,Markwell,,,Wesleyan-Methodist / Congregational
-522,Alex.,Malcolm,,,Wesleyan-Methodist / Congregational
-523,Theop. J.,Millard,,,Wesleyan-Methodist / Congregational
-524,Wm.,Miskin,,,Wesleyan-Methodist / Congregational
+522,Alexander,Malcolm,,,Wesleyan-Methodist / Congregational
+523,Theophillus J.,Millard,,,Wesleyan-Methodist / Congregational
+524,William,Miskin,,,Wesleyan-Methodist / Congregational
 525,Sarah,Perry,,,Wesleyan-Methodist / Congregational
-526,Thos. Alf.,Pethebridge,,,Wesleyan-Methodist / Congregational
+526,Thomas Alfred,Pethebridge,,,Wesleyan-Methodist / Congregational
 526,W. G. W.,Pethebridge,,,Wesleyan-Methodist / Congregational
 527,Annie Thompson,Pugh,,,Wesleyan-Methodist / Congregational
 527,Albert C.,Pyne,,same as T. Markwell: 520,Wesleyan-Methodist / Congregational
@@ -608,29 +608,29 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 529,L. F.,Raymond,,,Wesleyan-Methodist / Congregational
 530,Caroline,Rhodes,,,Wesleyan-Methodist / Congregational
 530,Margaret,Rhodes,,,Wesleyan-Methodist / Congregational
-531,Wm.,Rose,,,Wesleyan-Methodist / Congregational
+531,William,Rose,,,Wesleyan-Methodist / Congregational
 532,Fanny,Sexton,,,Wesleyan-Methodist / Congregational
-533,Rich. B.,Silcock,,,Wesleyan-Methodist / Congregational
+533,Richard B.,Silcock,,,Wesleyan-Methodist / Congregational
 534,James,Stevens,,,Wesleyan-Methodist / Congregational
-535,Geo. G.,Stokes,,,Wesleyan-Methodist / Congregational
+535,George G.,Stokes,,,Wesleyan-Methodist / Congregational
 536,Eleanor H.,Thomas,,,Wesleyan-Methodist / Congregational
-537,Robt. J.,Thompson,,,Wesleyan-Methodist / Congregational
+537,Robert J.,Thompson,,,Wesleyan-Methodist / Congregational
 538,James,Wakefield,,,Wesleyan-Methodist / Congregational
 538,Hannah,Wakefield,,,Wesleyan-Methodist / Congregational
 538,Ephraim,Wakefield,,,Wesleyan-Methodist / Congregational
 539,John B.,Waldron,,,Wesleyan-Methodist / Congregational
 540,Ann,Wallace,,,Wesleyan-Methodist / Congregational
-541,Wm. H. F.,Welsh,,,Wesleyan-Methodist / Congregational
+541,William H. F.,Welsh,,,Wesleyan-Methodist / Congregational
 541,Walter S.,Welsh,,,Wesleyan-Methodist / Congregational
 542,Amy Josephine,White,,,Wesleyan-Methodist / Congregational
 542,W. T. L.,White,,,Wesleyan-Methodist / Congregational
 543,Ellen Marie,Wilson,,,Wesleyan-Methodist / Congregational
 601,E. B.,Aitkins,,,Baptist
-602,Ben Wm.,Baker,,same as A. Helfrich: 612,Baptist
+602,Ben William,Baker,,same as A. Helfrich: 612,Baptist
 603,John,Bale,,,Baptist
 604,James,Birt,,same as E. Slater: 620,Baptist
 605,Agnes,Brown,,,Baptist
-606,Wm.,Bryant,,,Baptist
+606,William,Bryant,,,Baptist
 607,Jane,Bulgin,,,Baptist
 608,J.,Chappell,,,Baptist
 609,M. H.,Clissold,,,Baptist
@@ -645,8 +645,8 @@ Headstone,Given Names,Last Name,Honorific Prefix,Note,Denomination
 616,M. E.,Lloyd,,,Baptist
 617,Jane,Orr,,,Baptist
 617,M. L.,Orr,,,Baptist
-618,Chas.,Roberts,,,Baptist
-619,Alex.,Ross,,,Baptist
+618,Charles,Roberts,,,Baptist
+619,Alexander,Ross,,,Baptist
 620,Catherine,Sherry,,,Baptist
 620,Emma,Slater,,same as J. Birt: 604,Baptist
 621,R.,Taylor,,,Baptist
