@@ -20,7 +20,7 @@ A plaque on a columbarium in Toowong Cemetery.</small>*
 Toowong Cemetery contains:
 
 - Queensland's oldest surviving headstones from the 1830's
-- headstones moved from Paddington Cemetery (1844 - 1875) in the 1910's
+- [headstones moved from Paddington Cemetery](moved-paddington-headstones.md) (1844 - 1875) in the 1910's
 - headstones of people buried at Toowong Cemetery since 1871 
 
 <!-- Show below memorable memorials not in BCC self-guided walks (photos of ralston, mayne, oldest ) -->
