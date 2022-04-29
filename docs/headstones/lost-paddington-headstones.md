@@ -19,8 +19,9 @@ In the 1930's these headstones disappeared. Some of the headstones have been fou
 
 The table below lists Paddington Cemetery headstones that were placed in the reserved area.
 
-??? warning "Work in progress"
+??? directions "About the data"
 
+    - Source: [Paddington Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24749/0). Appendix No.7 in Volume 2 of the 1914 Parliamentary papers - Brisbane City Council Archives. Edits shown in *italics*
     - Appendix 1 in Volume 2 of the 1914 Parliamentary papers, states 505 headstones were placed in the reserved area:
         - 278 Episcopalian (Anglican)
         - 78 Roman Catholic
@@ -39,8 +40,6 @@ The table below lists Paddington Cemetery headstones that were placed in the res
     - If a link is shown on an entry, the headstone has been found at Toowong Cemetery. The link goes to a page describing the headstone.    
 
 --8<-- "snippets/paddington-cemetery-reserved-area-memorials.html"
-
-*<small>Source: [Paddington Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/search/asset/24749/0). Appendix No.7 in Volume 2 of the 1914 Parliamentary papers - Brisbane City Council Archives. Edits shown in *italics*</small>*
 
 ## Abbreviations
 
