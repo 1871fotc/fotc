@@ -34,16 +34,17 @@ The table below lists the 139 human remains and 106[^1] headstones were moved fr
 
 [^1]: Appendix 3 in Volume 2 of the 1914 Parliamentary papers states 105 headstones were moved, Wm. Stokes' headstone wasn't counted as it was 'Removed at the applicants expense'.
 
-??? warning "Work in progress"
+??? directions "About the data"
 
+    - Sources: 
+        - [List of remains and memorials removed to the Brisbane General Cemetery (Toowong)](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_List_of_memorials_now_standing_on_the_reserved_area_at_Paddington.pdf), Appendix No.4 in Volume 2 of the 1914 Parliamentary papers. 
+        - Toowong Cemetery locations are sourced from Brisbane City Council's [Cemeteries Search](https://graves.brisbane.qld.gov.au).
     - People and Headstones have been given a unique identifier.
-    - Toowong Cemetery locations are sourced from Brisbane City Council's [Cemeteries Search](https://graves.brisbane.qld.gov.au).
     - Extra name information from the Cemeteries Search is shown in *italics*.
     - 'n/a' means no entry was found in the Cemeteries Search or it is not possible determine a correct entry from those available
 
 --8<-- "snippets/paddington-cemetery-moved-remains-and-headstones.html"
 
-*<small>Sources: [List of remains and memorials removed to the Brisbane General Cemetery (Toowong)](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_List_of_memorials_now_standing_on_the_reserved_area_at_Paddington.pdf), Appendix No.4 in Volume 2 of the 1914 Parliamentary papers. [Cemeteries Search](https://graves.brisbane.qld.gov.au) </small>*
 
 Abbreviations used in the source document have been expanded using the following mappings: 
 
@@ -69,7 +70,7 @@ Download the Moved Paddington Cemetery Headstones as a <a href="../../assets/dat
 
 !!! warning "Excel interprets some grave locations as dates"
 
-    If you open the .csv file using Microsoft Excel, be aware that it tries to be helpful and infer data formats. It doesn't do this well and can change grave locations into a date format. We suggest you consider using another tool.
+    If you open the .csv file using Microsoft Excel, be aware that it changes some grave locations into dates. [This behaviour cannot be prevented](https://support.microsoft.com/en-us/office/stop-automatically-changing-numbers-to-dates-452bd2db-cc96-47d1-81e4-72cec11c4ed8?ns=excel&version=90&ui=en-us&rs=en-us&ad=us). We suggest you consider using another tool.
 
 
 ## Paddington Memorial 
