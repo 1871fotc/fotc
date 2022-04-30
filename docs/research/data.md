@@ -9,20 +9,19 @@ description: Download data about Toowong Cemetery, its graves, headstones, and t
 
 ## Our Data 
 
-Friends of Toowong Cemetery create or capture data, including: 
+Friends of Toowong Cemetery have published data, including: 
 
-- **Stories** (an **[index](../research/find-a-story.md)**, individual stories and related events)
-- **Headstones** (images, inscriptions, movements, and location)
+- an **[index to individual stories ](../research/find-a-story.md)** we've written
+- a list of **[headstones moved from Paddington Cemetery](../headstones/moved-paddington-headstones.md)** to Toowong Cemetery in the 1910's
+- a list of **[headstones lost from Paddington Cemetery](../headstones/lost-paddington-headstones.md)** in the 1930's, some which have been rediscovered in Toowong Cemetery 
+
+<!-- **Headstones** (images, inscriptions, movements, and location) -->
 <!-- **Walks** (a route from grave to grave, linked to people, headstones, and stories) -->
+<!-- Location of information signs -->
+<!-- List of restored headstones  -->
+
 
 The **[data is available on GitHub](https://github.com/1871fotc/fotc/tree/main/docs/assets/data)** :fontawesome-brands-github: and via links on this site.
-
-<!--
-Currently we have published the **[Story Index](../research/find-a-story.md)**.
-- [Story Index](../story/index.md)
-- [Toowong Cemetery Road Name](../cemetery/visit.md#road-name-changes)
--->
-
 
 ## Other Data
 
@@ -41,7 +40,7 @@ Where practical, we link to authoritative data sources, rather than duplicate da
     - Cemetery Building outlines - Amenities, Workshop, Office, Museum and Shelter Sheds 
     - [Waterways](https://www.spatial-data.brisbane.qld.gov.au/datasets/e0839d26d85a429c8f64669ba69cfae7_0/explore?location=-27.475527%2C152.983328%2C17.22) - Langsville Creek and [Flood risk](https://www.data.brisbane.qld.gov.au/data/dataset/flood_awareness_overland_flow) are available as open open data
     - Governor Blackall and the Soldiers Memorial monument outlines
-    - [Contour lines](https://www.data.brisbane.qld.gov.au/data/dataset/contours-2002) - are available as open data. These will help create a mobility map
+    - [Contour lines](https://www.data.brisbane.qld.gov.au/data/dataset/contours-2002) - are available as open data. <!-- These will help create a mobility map -->
 
 <!--
 - Bridges, Culverts and open Drains (polygon)
