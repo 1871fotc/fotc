@@ -83,6 +83,15 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 - veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14^th^ Avenue) 
 - at the end, turn right into Emma Miller Avenue (previously 8^th^ Avenue) to arrive behind Canon Garland Place, where you can park on the right side of the road
 
+## Things to do at Toowong Cemetery
+
+At Toowong Cemetery you can:
+
+- take a **[self-guided walk](stories/)** and explore the stories of people who shaped Queensland's history
+- discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display in Portion 2
+- search for secret **[headstone signs](headstones/signs.md)** and report your discoveries for inclusion on this site
+- join us on one of our regular **[guided heritage tours](guided-tours.md)** 
+
 ## Maps
 
 ### Toowong Cemetery Road Map 
@@ -127,7 +136,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 
 ### Toowong Cemetery Portion and Section Map 
 
-This map will help you to **[find graves in Toowong Cemetery](research/find-a-grave.md)**. The map shows the old road names.
+This map will help you to **[find a grave in Toowong Cemetery](research/find-a-grave.md)**. The map shows the old road names.
 
 <a href="assets/toowong-cemetery-map.jpg" title="Click to expand. Back to return to this page">
 <img class="full-width" src="assets/toowong-cemetery-map.jpg" alt="Toowong Cemetery Map" width="70%"></a>
