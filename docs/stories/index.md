@@ -17,6 +17,10 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 
 <!-- **[Toowong Cemetery self-guided walk 1](toowong-cemetery-walk-1.md)** :fontawesome-solid-person-walking: -->
 <!-- - **[Toowong Cemetery self-guided walk 2](toowong-cemetery-walk-2.md)** :fontawesome-solid-person-walking: -->
+
+![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg)
+
+*<small>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</small>*
   
 ## Politics
 
