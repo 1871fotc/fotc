@@ -55,49 +55,13 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 *<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
 *<small>Series 46 Film BCC2 Frame 34691, 31 May 1946 — Brisbane City Council, via [QImagery](https://qimagery.information.qld.gov.au). Frederick St is the straight road on the right, running top to bottom.</small>*
 
-## 1881 Queensland's oldest surviving tombstones
+## 1881 Queensland's oldest surviving headstones
 
-The oldest surviving tombstone in Queensland is from 15 November 1831. Three children originally [interred on the banks of the Brisbane River](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool119348), were re‑interred at Toowong Cemetery in October 1881. 
-
-![Pioneer Children's Graves on the banks of the Brisbane River ](assets/children-on-bank.jpg){ width="96%" }  
-
-*<small>Pioneer Children's Graves (Riverbank). Approximately at the location on the Riverbank in-between Herschell and Tank Streets. Source unknown.</small>*
-
-Esther Roberts, mother of **William Henry Roberts**, was the first teacher of girls in the Moreton Bay settlement. His father, Charles Roberts was transferred to Dunwich to take charge of the government store in August 1828. William was born on 15 September 1828 and died of illness on 15 November 1831. The tomb lid originally had a bible verse inscribed on it based on Matthew 19:14:
-
->***Suffer the little children, and forbid them not, to come unto me: for of such belongeth the Kingdom of God.***
-
-It has since been lost to weathering. After the death of their son, the Roberts family returned to Sydney in 1834.
-
-
-**Peter McCauley** was born in Sydney on 17 April 1826, the son of Private Peter McCauley, a member of the 17^th^ Regiment. His monther, Mary, was appointed as matron of the Brisbane Town Female Factory in June 1831. On 5 January 1832, young Peter wandered away from his brothers on an outing and drowned in the Brisbane River near the present Botanical Gardens. The  family returned to Sydney in 1832.
-
-**Jane Pittard** was the infant daughter of John Pittard, late Color Sergeant of the 57^th^ Regiment. He had drowned in Van Diemen's Land on 23 July 1831, shortly before his daughter's birth. Jane's mother, Margaret, remarried and came to Moreton Bay with Color Sergeant David Collins in August 1832. On 23 January 1833, Jane died and her family returned to Sydney the following year.
-
-These children's tombstones are the oldest surviving tombstones in Queensland.
+**[The oldest surviving headstone in Queensland](headstones/queenslands-oldest-headstones.md)** is from 15 November 1831. Three children originally interred on the banks of the Brisbane River, were re‑interred at Toowong Cemetery in October 1881. 
 
 ![Pioneer Children's Graves at Toowong Cemetery](assets/pioneer-childrens-graves-13-10-4.jpg){ width="96%" }  
+
 *<small>Pioneer Children's Graves (13-10-4). </small>*
-
-<!--
-Brisbane, 1844 (after a drawing by Carl Friedrich Gerler)
-
-https://www.flickr.com/photos/queenslandstatearchives/42971363315/in/album-72157710041752261/
-
-View the original record at the Queensland State Archives:
-Series ID 189
- 
-Map of Brisbane drawn by C. F. Gerler (this version has been updated with the location of modern day Brisbane streets). This basic map has a numbered list of forty-eight locations in the bottom right corner. The list corresponds to places and residences on the map. The locations are represented by hand drawings of houses and other buildings with the numbers next to them. Trees, roads, and rivers are have also been included as a decorative flourish.
- 
-Map legend :
-1. Andrew Petrie, 2, Handel, cattle drover, 3. Savory (the only baker), 4. Bensteads, sawyers, 5. T. Richardtson (the only general store), 6. Convict Barracks, 7. W. Kent (druggist shop), 8. Fitzpatrick (the first Chief Constable), 9. The Lock-up, 10. The Constable's place (only two in all), 11. Slade's Post Office (old), 12. Slade's Pineapple Garden, 13. Church of England, 14. The Hospital, 15. Mort, milkman.
- 
-16. Wright's Hotel, 17. General Cemetery, 18. Tread and Windmill, 19. Edmonston.s Paddock, 20. Old R. Jones, 21. Dr. Simpson (the first Commissioner), 22. Old Major Prior, 23. The Gaol, 24. Skyring's Beehives (soft goods shop), 25. Hayes, milkman, 26. Brothers Fraser (first houses), 27. Catholic Church, 28. McLean's Blacksmith's Shop, 29. Edmonston's butcher, 30. Bow's Hotel.
- 
-31. Taylor Shappart, 32. Montifeur (a financier), 33. W. Pickering, 34. Sergeant Jones, 35. Soldiers' Barracks, 36. Officer de Winton, 37. Commission Stores, 38. Queen's Wharf, 39. Captain Wickham's office, 40. Commissioner T. Kent, 41. Commissioner's Garden, 42. Captain Coley, 43. Government Gardens, 44. Father Hanley (the only priest), 45. Saw Pits, 46. Queen Street, 47. The Boat House and Boatman's House, 48. The First Tombstone (two graves). (Description supplied with photograph.)
- 
-The Postmaster in 1844 was George M. Slade.
--->
 
 ## 1911 Paddington Cemetery Act
 

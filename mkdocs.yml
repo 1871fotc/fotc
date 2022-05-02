@@ -149,6 +149,7 @@ markdown_extensions:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tablesort.js
+#  - javascripts/imagezoom.js
   
 # Plugins
 plugins:
@@ -213,6 +214,7 @@ nav:
     - Notable Women: stories/notable-women.md    
     - Toowong Identities: stories/toowong-identities-1.md 
     - More Toowong Identities: stories/toowong-identities-2.md
+#    - Toowong Street Name Origins: toowong-street-name-orgins.md
 # Birds of a feather    
     - Children: stories/children.md 
     - Convicts: stories/convict-connections.md   
@@ -242,6 +244,7 @@ nav:
     - Headstone Signs: headstones/signs.md 
 #    - Shapes: headstones/shapes.md  
 #    - Monuments: headstones/monuments.md  (use a different name Memorable Memorials?)
+    - Queensland's Oldest Headstones: headstones/queenslands-oldest-headstones.md
     - Archaeological Digs: headstones/archaeological-digs.md
     - Moved Paddington Cemetery Headstones: headstones/moved-paddington-headstones.md
     - Lost Paddington Cemetery Headstones: headstones/lost-paddington-headstones.md
