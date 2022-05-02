@@ -68,7 +68,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 The North Brisbane Burial Grounds (also known as [Paddington Cemetery][Paddington Cemetery]) were opened in 1844 and closed in 1875. By 1907 there were calls to turn the neglected into a park and sports field.
 
 
-In 1911 the Queensland Government passed the *[Paddington Cemetery Act][Paddington Cemetery Act]* allowing them to move the bodies to another location.
+In 1911 the Queensland Government passed the *[Paddington Cemetery Act][Paddington Cemetery Act]* allowing them to move the bodies to another location. Some **[Paddington Cemetery remains and headstones were moved to Toowong Cemetery](headstones/moved-paddington-headstones.md)**
 
 [Paddington Cemetery Act]: http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/ "Read the 1911 Paddington Cemetery Act"
 
@@ -174,6 +174,8 @@ The Museum building, located over the open drain, was formerly the Sexton's offi
 
 ![Toowong Cemetery Museum](assets/museum.jpg){ width="98%" }
 
+You can visit the Museum as part of the Friends of Toowong Cemetery **[Guided Tours](guided-tours.md)**
+
 
 ## 1992 Friends of Toowong Cemetery formed 
 
@@ -187,6 +189,8 @@ The **[Federation Pavilion][Federation Pavilion]** commemorates the contribution
 
 ![Federation Pavilion](assets/federation-pavilion.jpg){ width="96%" }  
 
+Take the **[Federation self-guided walk](stories/federation-walk.md)** to visit the Federation Pavilion and learn how four Queenslanders shaped Australia's Constitution.
+
 [Federation Pavilion]: about/federation-pavilion.md "Read about Federation Pavilion, created by the Friends of Toowong Cemetery"
 
 ## 2006 Archaeological Digs
@@ -197,7 +201,7 @@ In 2006, in conjunction with the University of Queensland Archaeology Department
 
 In 2011, while staff prepared a new grave, the headstone of a John Peel was discovered. Brisbane City Council had no record of John Peel and asked Friends of Toowong Cemetery for help. It was discovered that the headstone was one of **[505 missing headstones](headstones/lost-paddington-headstones.md)** from the North Brisbane Burial Grounds (also known as the Paddington Cemetery). 
 
-In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for road-base. This was not entirely true as many headstones have been found in archaeological digs between 2011-2019. <!-- TODO update in May -->
+In 1913 the headstones had been stored in good order behind Christ Church in Paddington. In 1930 they suddenly disappeared. The Authorities claimed it was rubble, unreadable and used for road-base. This was not entirely true as many headstones have been found our archaeological digs since 2011.
 
 ![Paddington Cemetery ca. 1900's](assets/paddington-cemetery-ca-1900.jpg){ width="96%" } 
 
@@ -226,10 +230,13 @@ On 24 July 2011, 140 years after Governor Blackall was buried, a **[re-enactment
 Today, the Friends of Toowong Cemetery and the Brisbane City Council work together to maintain and improve Toowong Cemetery. Together we have delivered improvements including:
 
 - The **[Federation Pavilion](about/federation-pavilion.md)**
-- **[Renaming the Cemetery Roads](/#road-name-changes)** after notable people buried nearby
-- Reusing the old Sexton's office as the Toowong Cemetery Museum
-- The Paddington Memorial, and **[Headstone Symbology](headstones/symbols.md)** display
+- **[Renaming the Cemetery Roads](/#maps)** after notable people buried nearby
+- Reusing the old Sexton's office as the **[Toowong Cemetery Museum](guided-tours.md)**
+- The Paddington Memorial and **[Headstone Symbology](headstones/symbols.md)** display
+
+<!--
 - The **[Toowong Cemetery Remembrance Walk](https://vimeo.com/540501732)** that allows you to explore the lives of Queensland's volunteer troops and learn about the Anzac Legend
+-->
 
 **Toowong Cemetery is enjoyed by those who come to remember loved ones, exercise, walk their dog, or discover the history and stories inside.**
 
@@ -240,14 +247,14 @@ Today, the Friends of Toowong Cemetery and the Brisbane City Council work togeth
 - **[Historic photos](http://onesearch.slq.qld.gov.au/primo-explore/search?query=any,contains,Toowong%20cemetery&tab=dt&search_scope=DT&vid=SLQ&mfacet=tlevel,include,online_resources,1)** from the State Library of Queensland.
 -->
 
+- **[Stories of the people remembered at Toowong Cemetery](stories/index.md)**
+- **[Research Resources](research/index.md)** to discover new stories
 - **[Toowong Cemetery heritage listing](https://apps.des.qld.gov.au/heritage-register/results/?q=Toowong+Cemetery)** in the Queensland Heritage Register.
 - **[Toowong Cemetery citation](https://www.ww2places.qld.gov.au/place?id=2064)** on Queensland WWII Historic Places website.
-- **[Books about Toowong Cemetery](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/eLibCat/search/results?qu=Toowong+Cemetery&qf=-ITYPE%09Item+Type%091%3AARCHIVES%09City+Archives+Collection&ac=ITYPE%09Item+Type%091%3ALOC-ST-REF%09Local+Studies+Reference+%7C%7C+1%3AREFERENCE%09Reference+Collection+%7C%7C+1%3ALOCSTUDIES%09Local+Studies+%7C%7C+1%3AARCHIVES%09City+Archives+Collection+%7C%7C+1%3ANONFICTION%09Non-Fiction&ac=ITYPE%09Item+Type%091%3ALOC-ST-REF%09Local+Studies+Reference+%7C%7C+1%3AREFERENCE%09Reference+Collection+%7C%7C+1%3ALOCSTUDIES%09Local+Studies+%7C%7C+1%3AARCHIVES%09City+Archives+Collection+%7C%7C+1%3ANONFICTION%09Non-Fiction)** in Brisbane City Council Libraries
 - **[Graveyard Games – Lang Park Cemetery](https://blogs.archives.qld.gov.au/2021/11/24/graveyard-games-lang-park-cemetery/)** by the Queensland State Archives
 - Watch **[Dying Out](https://youtu.be/r8b_DA_BkNs)** shown in 1986 on the ABC's Weekend Magazine
 - Watch Hilda MacLean, our second President, discuss Toowong Cemetery on **[Between the Lines](https://vimeo.com/7935322)**
 - Watch Darcy Maddock, our current President, **[Talk History](https://www.youtube.com/playlist?list=PLv0V6xrruq2kcliEjK1Kus3O4gFPthNKz)**
-- Read our **[stories of the people remembered at Toowong Cemetery](/stories/)**
 
 <!-- Links -->
 
