@@ -11,7 +11,6 @@ description: Mother of the Australian Labor Party
 
 --8<-- "snippets/emma-miller.md"
 
-
 ![Portrait of Mrs. Emma Miller](../assets/emma-miller.jpg){ width="28.85%" }  ![Marble Bust of Emma Miller held at Queensland Council of Unions by sculptor James Laurence Watts](../assets/emma-miller-marble-bust.jpg){ width="25.75%" }
 
 *<small>[Portrait of Mrs. Emma Miller](http://onesearch.slq.qld.gov.au/permalink/f/1c7c5vg/slq_alma21220238260002061) - State Library of Queensland. </small>* <br>
@@ -25,4 +24,6 @@ description: Mother of the Australian Labor Party
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/clY9640s02Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*<small>[Black Friday: When Brisbane Police Beat and Suppressed Demonstrators](https://youtu.be/clY9640s02Y) - Queensland State Archives<small>*
+*<small>[Black Friday: When Brisbane Police Beat and Suppressed Demonstrators](https://youtu.be/clY9640s02Y) - Queensland State Archives</small>*
+
+--8<-- "snippets/headstones/emma-miller-headstone.md"
