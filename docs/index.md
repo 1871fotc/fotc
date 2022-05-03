@@ -5,41 +5,7 @@ hide:
   - navigation
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "url": "https://1871fotc.github.io/fotc/",
-  "sameAs": ["https://www.facebook.com/1871fotc/", "https://github.com/1871fotc"],
-  "logo": "https://1871fotc.github.io/fotc/assets/fotc.png",
-  "image": [
-    "https://1871fotc.github.io/fotc/assets/logo/fotc-1x1.png",
-    "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-4x3.png",
-    "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-16x9.png"
-   ],
-  "name": "Friends of Toowong Cemetery Association Inc.",
-  "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
-  "slogan": "Discover and share the history and stories of Toowong Cemetery",
-  "email": "mailto:inquiries@fotc.org.au",
-  "telephone": "0439998053",
-  "address": {
-    "@type": "PostalAddress",
-    "addressCountry": "Australia",
-    "addressLocality": "Toowong",
-    "addressRegion": "Queensland",
-    "postalCode": "4066",
-    "name": "Friends of Toowong Cemetery Association Inc.",
-    "postOfficeBoxNumber": "808"
-   }
-}
-</script>
-
-<!--
 --8<-- "snippets/metadata-home.json"
--->
-
-
-
 
 # Friends of Toowong Cemetery
 
