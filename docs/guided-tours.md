@@ -46,7 +46,8 @@ Tours are on the first Sunday of each month (March to December) from 10:30 to 12
     - Due to COVID-19 our guided tours are **limited to 15 guests** to enable social distancing to be maintained. 
     - Unfortunately we don't have a booking system, so guests will be invited to join us on a "first come, first served" basis. 
     - We apologise in advance if you come to the cemetery but are unable to join the tour due to it being over-subscribed. 
-    - The Brisbane City Council offers two self-guided walks you can do as an alternative that leave from the Shelter Shed and the start of Federation Drive. 
+    - There are **[self-guided walks](stories/index.md)** you can take as an alternative.
+    - The Brisbane City Council also offer two self-guided walks that leave from the Shelter Shed and the start of Federation Drive. 
 
 ![Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](assets/masks-1919.jpg) 
 
