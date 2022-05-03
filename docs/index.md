@@ -29,6 +29,18 @@ On this site you'll find information about:
  
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
 
+## Things to do at Toowong Cemetery
+
+![Headstone Symbolism Display][image3]{ width="70%" }
+
+At Toowong Cemetery you can:
+
+- take a **[self-guided walk](stories/)** and explore the stories of people who shaped Queensland's history
+- discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display in Portion 2
+- search for secret **[headstone signs](headstones/signs.md)** and report your discoveries for inclusion on this site
+- join us on one of our regular **[guided heritage tours](guided-tours.md)** 
+
+
 ## Visit Toowong Cemetery
 
 <img class="full-width" src="assets/main-entrance.jpg" alt="Toowong Cemetery Main Entrance" width="70%">
@@ -82,15 +94,6 @@ If you enter via the Richer Street back gate, to get to Canon Garland Place:
 - turn right into Dr. Lilian Cooper Drive (previously Boundary Road) and continue to the Shelter Shed 
 - veer left at the Shelter Shed down the one‑way William Brown Avenue (previously 14^th^ Avenue) 
 - at the end, turn right into Emma Miller Avenue (previously 8^th^ Avenue) to arrive behind Canon Garland Place, where you can park on the right side of the road
-
-## Things to do at Toowong Cemetery
-
-At Toowong Cemetery you can:
-
-- take a **[self-guided walk](stories/)** and explore the stories of people who shaped Queensland's history
-- discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display in Portion 2
-- search for secret **[headstone signs](headstones/signs.md)** and report your discoveries for inclusion on this site
-- join us on one of our regular **[guided heritage tours](guided-tours.md)** 
 
 ## Maps
 
