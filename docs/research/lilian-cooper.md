@@ -6,7 +6,7 @@ hide:
   - navigation
 ---
 
-# Dr Lilian Voilet Cooper
+# Lilian Voilet Cooper
 
 **11 August 1861 — 18 August 1947**
 
