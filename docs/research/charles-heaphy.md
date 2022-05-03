@@ -4,8 +4,8 @@ hide:
   - navigation
 ---
 
-# Major Charles Heaphy, VC 
+# Charles Heaphy
 
-**ca1822 — 3 August 1881**
+**ca. 1822 — 3 August 1881**
 
 --8<-- "snippets/charles-heaphy.md"
