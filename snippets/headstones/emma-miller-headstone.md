@@ -4,7 +4,6 @@
 
 *<small>Emma Miller's headstone</small>*
 
-
 ### Inscription
 
 >Emma Miller Memorial <br>
