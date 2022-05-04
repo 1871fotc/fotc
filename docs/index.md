@@ -17,14 +17,14 @@ hide:
 [image2]: assets/flag-pole.jpg "Canon Garland Place"
 [image3]: assets/symbolism-display.jpg "Headstone Symbolism Display"
 
-The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The first burial was of **[Governor Samuel Blackall](research/samuel-wensley-blackall.md)** on 3 January 1871. Read his, and hundreds of other stories, about people who shaped Brisbane, Queensland, and Australia's history.
+The heritage‑listed Toowong Cemetery is the largest cemetery in Queensland. The first burial was of **[Governor Samuel Blackall](research/samuel-wensley-blackall.md)** on 3 January 1871. Read his and hundreds of other stories about the people who shaped Brisbane, Queensland, and Australia's history.
 
 On this site you'll find information about:
 
-- the cemetery's **[history](history.md)** and **[stories](stories/)** of people remembered here
+- the cemetery's **[history](history.md)** and the **[stories](stories/)** of people remembered here
 - **[headstones](headstones/)** including **[headstone symbols](headstones/symbols.md)**, **[signs](headstones/signs.md)** and **[archaeological digs](headstones/archaeological-digs.md)**
 - **[research resources](research/index.md)** including **[how to find graves](research/find-a-grave.md)**, and an **[index of people in our stories](research/find-a-story.md)** 
-- monthly **[guided heritage tours](guided-tours.md)** <!-- and **[self‑guided walks](walks/)** -->
+- our regular **[guided heritage tours](guided-tours.md)** and **[self‑guided walks](stories/)** 
 - **[Friends of Toowong Cemetery](about/)** - what we do, what we've done, and how to join in 
  
 The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery)**.
@@ -35,9 +35,9 @@ The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane
 
 At Toowong Cemetery you can:
 
-- take a **[self-guided walk](stories/)** and explore the stories of people who shaped Queensland's history
-- discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display in Portion 2
-- search for secret **[headstone signs](headstones/signs.md)** and report your discoveries for inclusion on this site
+- take a **[self-guided walk](stories/)** and explore the stories of people who shaped our local history
+- discover the meaning of **[headstone symbols](headstones/symbols.md)** at the Symbolism display
+- search for secret **[headstone signs](headstones/signs.md)** and share your discoveries 
 - join us on one of our regular **[guided heritage tours](guided-tours.md)** 
 
 
