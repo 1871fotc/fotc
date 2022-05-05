@@ -22,6 +22,11 @@ Apart from being the Commissioner of the Queensland Police, Urquhart was an acco
 
 Urquhart retired from the Police Force in 1921 and was appointed as an Administrator of Northern Territory by the Commonwealth Government and he held this position until 1925.  He eventually settled in Clayfield, Brisbane and he died on 2^nd^ December, 1935 at St. Helen’s Private Hospital, aged 77 and is buried at the Toowong Cemetery.
 
+![Inspector 2/c Geraghty, Queensland Police Force Commissioner Cahill, and Chief Inspector Urquhart, ca. 1905](../assets/frederic-charles-urquhart.jpg){ width="40%" }
+
+*<small>[Queensland Police Force Commissioner and two officers, c 1905](https://flic.kr/p/XKdjuz), Inspector 2/c Geraghty, Commissioner Cahill and Chief Inspector Urquhart at the Depot Ceremonial Arch; original photo believed to be taken ca. 1905 — Queensland State Archives*</small>
+
+
 ### Headstone
 
 [![Frederic Charles Urquhart headstone](../assets/frederic-charles-urquhart-headstone.jpg){ width="30%" }](../assets/frederic-charles-urquhart-headstone.jpg)
