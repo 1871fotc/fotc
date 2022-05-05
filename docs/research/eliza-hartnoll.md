@@ -15,7 +15,7 @@ hide:
 --8<-- "snippets/eliza-hartnoll.md"
 --> 
 
---8<-- "snippets/headstones/eliza-hartnoll-headstone.md"
+--8<-- "snippets/headstones/eliza-hartnoll.md"
 
 ### Learn more 
 
