@@ -10,4 +10,4 @@ hide:
 
 --8<-- "snippets/richard-belford.md"
 
---8<-- "snippets/headstones/richard-belford-headstone.md"
+--8<-- "snippets/headstones/richard-belford.md"
