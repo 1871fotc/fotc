@@ -21,6 +21,11 @@ Service details include:
 - Discharged: 1 July 1940
 - Cause of discharge: Ceasing to fulfil Army physical requirements due to what he went through at Dunkirk probably related to the injury to his head.
 
+![William Walter Brown](../assets/william-walter-brown-2.jpg){ width="28%" }  ![William Walter Brown](../assets/william-walter-brown-1.jpg){ width="28.65%" }  
+
+<!-- needs attribution -->
+
+
 According to his widow, he had a wonderful life in the army. Bill was in the Army Military Brass band, very musical, and played the Clarinet. 
 
 Bill spoke a bit about the good times in Kowloon. In those days the army band played and were the entertainers at the races, etc. Consequently, for bandsmen, social life in the army left nothing to be desired. He was in the hockey team in India and had a great life in both India and Spain. Bill was a keen sportsman.

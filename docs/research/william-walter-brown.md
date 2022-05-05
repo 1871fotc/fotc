@@ -10,6 +10,4 @@ hide:
 
 --8<-- "snippets/william-walter-brown.md"
 
-![William Walter Brown](../assets/william-walter-brown-2.jpg){ width="28%" }  ![William Walter Brown](../assets/william-walter-brown-1.jpg){ width="28.65%" }  
-
-<!-- needs attribution -->
+--8<-- "snippets/headstones/william-walter-brown.md"
