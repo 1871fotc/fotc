@@ -10,4 +10,4 @@ hide:
 
 --8<-- "snippets/joshua-jeays.md"
 
---8<-- "snippets/headstones/joshua-jeays-headstone.md"
+--8<-- "snippets/headstones/joshua-jeays.md"
