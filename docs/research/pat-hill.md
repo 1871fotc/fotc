@@ -10,9 +10,11 @@ hide:
 
 --8<-- "snippets/pat-hill.md"
 
-![Pat Hill's headstone](../assets/pat-hill-headstone.jpg){ width="53%" } ![Brisbane Stadium, home of boxing in Brisbane, ca. 1925](../assets/brisbane-stadium.jpg){ width="38.6%" }  
+![Brisbane Stadium, home of boxing in Brisbane, ca. 1925](../assets/brisbane-stadium.jpg){ width="70%" }
 
-*<small>[Brisbane Stadium, home of boxing in Brisbane, ca. 1925](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256132430002061). Brisbane Stadium, situated on the corner of Albert and Elizabeth Streets, Brisbane - State Library of Queensland </small>* 
+*<small>[Brisbane Stadium, home of boxing in Brisbane, ca. 1925](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21256132430002061). Brisbane Stadium, situated on the corner of Albert and Elizabeth Streets, Brisbane - State Library of Queensland. Cropped. </small>* 
+
+--8<-- "snippets/headstones/pat-hill.md"
 
 ### Learn more 
 
