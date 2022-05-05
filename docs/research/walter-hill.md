@@ -14,7 +14,6 @@ hide:
 
 <small>Unknown author - State Library of Queensland and John Oxley Library, [Public Domain](https://commons.wikimedia.org/w/index.php?curid=22616572)</small>
 
-![Ann Hill's headstone](../assets/ann-hill-headstone.jpg){ width="32%" }
 
 ![Lord Mayor Clem Jones Unveiling the Walter Hill Plaque](../assets/walter-hill-plaque.jpg){ width="32%" }  
 
@@ -27,3 +26,5 @@ The plaque reads:
 >Australia is indebted to him for introducing the Jacaranda and Poinciana. He was also responsible for the distribution of the Mango, Pawpaw, Sugar Cane, Ginger and Arrowrott, as well as other plants of economic importance. 
 >
 >To commemorate one who made a significant contribution to early Queensland Development this plaque was presented by The Queensland Council of Garden Clubs.
+
+--8<-- "snippets/headstones/walter-hill.md"
