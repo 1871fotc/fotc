@@ -24,3 +24,7 @@ https://www.familyhistory.bdm.qld.gov.au/details/d853a55fa3992ef6483f1a99dd5511c
 
 Could not find headstone
 -->
+
+### Copyright
+
+This story is from *Toowong Cemetery*, by Hilda Maclean and Prue Firth, in *[Toowong: A community's history](http://www.toowong.org.au/books_for_sale.htm)* by [West Toowong Community Association Inc.](http://www.toowong.org.au). Used with permission. Links added.

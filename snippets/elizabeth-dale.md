@@ -10,6 +10,4 @@ The inquest noted that Elizabeth was in delicate health, short-sighted and prone
 [^1]: Department of Justice, *Inquest into the death of Elizabeth Dale 56/05*
 
 
-### Copyright
-
-This story is from *Toowong Cemetery*, by Hilda Maclean and Prue Firth, in *[Toowong: A community's history](http://www.toowong.org.au/books_for_sale.htm)* by [West Toowong Community Association Inc.](http://www.toowong.org.au). Used with permission. Links added.
+<!-- if included add copyright -->
