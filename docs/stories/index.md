@@ -18,15 +18,15 @@ There are **over 40 themed story collections** below, or discover more in **[our
 
 *<small>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</small>*
 
-<!--
+
 ## Self-guided walks 
 
 Stories marked with :fontawesome-solid-person-walking: are **self-guided walks** with maps and directions. 
 
+<!--
 - **[Mount Blackall walk](toowong-cemetery-walk-1.md)** :fontawesome-solid-person-walking: - discover some of the highlights on Mount Blackall
 - **[Lilian Cooper walk](toowong-cemetery-walk-2.md)** :fontawesome-solid-person-walking: - uncover history along Lilian Cooper Drive
-
---> 
+-->
 
 ## Politics
 
