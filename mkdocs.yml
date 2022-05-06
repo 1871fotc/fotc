@@ -179,8 +179,8 @@ nav:
   - Cemetery History: history.md
   - Stories:
     - Stories: stories/index.md
-#    - Toowong Cemetery Walk 1: stories/toowong-cemetery-walk-1.md
-#    - Toowong Cemetery Walk 2: stories/toowong-cemetery-walk-2.md
+#    - Mount Blackall Walk: stories/toowong-cemetery-walk-1.md
+#    - Lilian Cooper Walk: stories/toowong-cemetery-walk-2.md
 # Politics
     - The Federation Walk: stories/federation-walk.md
     - Governors: stories/governors-past.md 
@@ -188,15 +188,12 @@ nav:
     - One Adult, One Vote: stories/suffrage.md
     - Labor Luminaries: stories/labor-luminaries.md
     - The Great Shearers' Strike of 1891: stories/shearers-strike.md
-# Military
-    - Colonial Conflicts: stories/colonial-conflicts.md         
-    - Lest We Forget: stories/lest-we-forget.md
-    - Lest We Forget - Naval: stories/lest-we-forget-navy.md 
-    - Men of the Royal Navy: stories/men-of-the-royal-navy.md
-    - Scots in the AIF: stories/scots-in-the-aif-ww1.md
-    - 1919 Soldiers: stories/1919-soldiers.md
-    - Conflict and Compassion: stories/conflict-and-compassion.md
-#    - Toowong Cemetery Remembrance Walk: stories/remembrance-walk.md
+# Local Identities    
+    - Founding Fathers: stories/founding-fathers.md     
+    - Notable Women: stories/notable-women.md    
+    - Toowong Identities: stories/toowong-identities-1.md 
+    - More Toowong Identities: stories/toowong-identities-2.md
+#    - Toowong Street Name Origins: toowong-street-name-orgins.md    
 # Professions    
     - Artists: stories/artists.md 
     - Health Professionals: stories/in-their-caring-hands.md
@@ -209,12 +206,15 @@ nav:
     - Sporting Personalities: stories/sporting-personalities.md
     - Railway People: stories/railway.md
     - Undertakers: stories/undertakers.md
-# Local Identities    
-    - Founding Fathers: stories/founding-fathers.md     
-    - Notable Women: stories/notable-women.md    
-    - Toowong Identities: stories/toowong-identities-1.md 
-    - More Toowong Identities: stories/toowong-identities-2.md
-#    - Toowong Street Name Origins: toowong-street-name-orgins.md
+# Military
+    - Colonial Conflicts: stories/colonial-conflicts.md         
+    - Lest We Forget: stories/lest-we-forget.md
+    - Lest We Forget - Naval: stories/lest-we-forget-navy.md 
+    - Men of the Royal Navy: stories/men-of-the-royal-navy.md
+    - Scots in the AIF: stories/scots-in-the-aif-ww1.md
+    - 1919 Soldiers: stories/1919-soldiers.md
+    - Conflict and Compassion: stories/conflict-and-compassion.md
+#    - Toowong Cemetery Remembrance Walk: stories/remembrance-walk.md    
 # Birds of a feather    
     - Children: stories/children.md 
     - Convicts: stories/convict-connections.md   

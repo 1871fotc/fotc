@@ -7,21 +7,27 @@ search:
 
 --8<-- "snippets/hide-nav.html"
 
+
 # Toowong Cemetery Stories
 
-The Friends of Toowong Cemetery have researched and published **over 500 stories** about people remembered at the cemetery. 
+The Friends of Toowong Cemetery have researched and published **[over 500 stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
-There are **over 40 themed story collections** to read below, or **[find an individual story](../research/find-a-story.md)**. You may be also interested in our **[publications](../about/publications.md)**.
-
-Stories marked with :fontawesome-solid-person-walking: are **self-guided walks** with maps and directions. 
-
-<!-- **[Toowong Cemetery self-guided walk 1](toowong-cemetery-walk-1.md)** :fontawesome-solid-person-walking: -->
-<!-- - **[Toowong Cemetery self-guided walk 2](toowong-cemetery-walk-2.md)** :fontawesome-solid-person-walking: -->
+There are **over 40 themed story collections** below, or discover more in **[our publications](../about/publications.md)**.
 
 ![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg)
 
 *<small>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</small>*
-  
+
+<!--
+## Self-guided walks 
+
+Stories marked with :fontawesome-solid-person-walking: are **self-guided walks** with maps and directions. 
+
+- **[Mount Blackall walk](toowong-cemetery-walk-1.md)** :fontawesome-solid-person-walking: - discover some of the highlights on Mount Blackall
+- **[Lilian Cooper walk](toowong-cemetery-walk-2.md)** :fontawesome-solid-person-walking: - uncover history along Lilian Cooper Drive
+
+--> 
+
 ## Politics
 
 - **[The Federation walk][federation-walk]** :fontawesome-solid-person-walking: - commemorating four Queensland delegates to the 1891 National Australasian Convention
@@ -31,18 +37,12 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
 - **[The Great Shearers' Strike of 1891](shearers-strike.md)**
 
+## Local Identities
 
-## Military 
-
-- **[Colonial Conflicts][colonial-conflicts]**
-- **[Lest We Forget][lest-we-forget]** - remembering the men and women who gave their lives in service to their country
-- **[Lest We Forget: Naval][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
-- **[Men of the Royal Navy][rn]** 
-- **[Scots in the Australian Imperial Force in World War One][scots-ww1]** 
-- **[1919 Soldiers][1919-soldiers]**  
-- **[Conflict and Compassion](conflict-and-compassion.md)** 
-
-<!-- - **[Toowong Cemetery Remembrance Walk][remembrance-walk]** - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
+- **[Founding Fathers][founding-fathers]** - members of the first Brisbane General Cemetery Trust
+- **[Notable Women][notable-women]** - Women who shaped Queensland
+- **[Toowong Identities][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
+- **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
 
 ## Professions
 
@@ -58,21 +58,24 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Railway People][railway]** - A Journey from Sevastopol to Brunswick Street
 - **[Undertakers][undertakers]**
 
-## Local Identities
+## Military 
 
-- **[Founding Fathers][founding-fathers]** - members of the first Brisbane General Cemetery Trust
-- **[Notable Women][notable-women]** - Women who shaped Queensland
-- **[Toowong Identities][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
-- **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
+- **[Colonial Conflicts][colonial-conflicts]**
+- **[Lest We Forget][lest-we-forget]** - remembering the men and women who gave their lives in service to their country
+- **[Lest We Forget: Naval][lest-we-forget-navy]** - commemorating the centenary of the Royal Australian Navy, 1911—2011
+- **[Men of the Royal Navy][rn]** 
+- **[Scots in the Australian Imperial Force in World War One][scots-ww1]** 
+- **[1919 Soldiers][1919-soldiers]**  
+- **[Conflict and Compassion](conflict-and-compassion.md)** 
 
-
+<!-- - **[Toowong Cemetery Remembrance Walk][remembrance-walk]** - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
 ## Birds of a feather 
 
 - **[The Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[The Convicts][convicts]** - connections to our convict past
 - **[The Irish][irish]** 
 - **[The Lutheran][lutheran]** 
-- **[The Jewish][jewish]** :fontawesome-solid-person-walking:
+- **[The Jewish walk][jewish]** :fontawesome-solid-person-walking: - A self-guided walk around Portion 3
 
 ## Other themed stories
 
