@@ -3,11 +3,6 @@ document.addEventListener("keydown", function(event) {
   if (event.key === 'Enter') {
 // change icon and colour to show search is processing // 
       document.getElementById("searchButton").style.backgroundColor = "#df41fb"; 
-/*    document.getElementById("searchButton").style.background = "#df41fb url('../assets/hourglass.svg') no-repeat center";
-      document.getElementById("searchButton").style.padding = "10px 10px 10px 10px"; 
-      document.getElementById("searchButton").style.backgroundRepeat = "no-repeat";
-      document.getElementById("searchButton").style.backgroundSize = "24px 24px"; 
-      document.getElementById("searchButton").style.backgroundImage = "url('../assets/hourglass.svg')"; */
   };
 }),  
 
