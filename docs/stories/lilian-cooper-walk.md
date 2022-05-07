@@ -6,7 +6,7 @@ hide:
 icon: fontawesome/solid/person-walking
 ---
 
-# Lilian Cooper Walk
+# Lilian Cooper walk
 
 ==Some introduction...==
 
@@ -34,7 +34,7 @@ Before starting, you may like to download the [Toowong Cemetery map](../assets/t
 
 1871‑1947
 
-Lachlan Chisholm Wilson was born on 11 July 1871 at Logan River, Queensland. With the exception of Victoria Cross recipient, Charles Heaphy (1820‑1881, buried at Portion 1‑5‑34) he is the most decorated soldier in Toowong Cemetery.  
+[Lachlan Chisholm Wilson](https://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131) was born on 11 July 1871 at Logan River, Queensland. With the exception of Victoria Cross recipient, Charles Heaphy (1820‑1881, buried at Portion 1‑5‑34) he is the most decorated soldier in Toowong Cemetery.  
 
 Educated at Brisbane Grammar School, Wilson began and ended his life as a lawyer, first admitted to the Queensland Bar in 1895. First practicing in Townsville, he later returned to Brisbane where he entered into a partnership with E. K. Tully to form one of Queensland's leading law firms. He later extended his business interests, becoming a director of the Australian Mutual Provident Society. During this time, he was also able to foster one of his personal interests, the welfare of ex‑servicemen and women, and cofounded Legacy. 
 
@@ -44,7 +44,6 @@ Wilson continued his military service through Jordan and Egypt and notably manag
 
 Wilson died at his New Farm home on 7 April 1947, survived by his wife, son and daughter.
 
-A. J. Hill, '[Wilson, Lachlan Chisholm (1871‑1947)](https://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131, published first in hardcopy 1990
 
 ??? directions "Directions" 
 
@@ -79,7 +78,7 @@ James McWhirter Junior died in Sydney in September ==1919== of pneumonia. Such w
 
     Immediately to the other side of the road is the monument of Charles Foggitt.
 
-## Charles Foggitt 
+## Charles Foggitt <small>(8‑15‑13/14)</small> 
 
 1864‑1926
 
@@ -87,13 +86,13 @@ Charles Emanuel Foggitt, born in Yorkshire in 1864, was a director of the firm F
 
 Foggitt possessed exceptional business intelligence. In 1904 Foggitt left J. C. Hutton Propriety Limited and founded Foggitt, Jones and Company Limited with Thomas Llewellyn Jones in 1905, producing ham, bacon and smallgoods. They took over the Hutton’s factory in Oxley, which was in financial distress, and within five years the company was generating an annual turnover of £1,000,000. The company gradually expanded into other states and their storage shed at 1 Boundary Street, South Brisbane, built circa 1917 in response to this growth, is now a local heritage place. Foggitt Jones Limited continued to grow throughout the early 20^th^ Century and provisioned supplies to Australian troops during WWII.  
 
-Foggitt lived with his family at Tarrangower, Chatsworth Road, Greenslopes. He died on 13 July 1926 after a short illness and was survived by his wife Sarah, three sons and a daughter. 
+Foggitt lived with his family at *Tarrangower*, Chatsworth Road, Greenslopes. He died on 13 July 1926 after a short illness and was survived by his wife Sarah, three sons and a daughter. 
 
 ??? directions "Directions" 
 
     Almost immediately in line with this grave, but three rows further along, is the grave of George Harrap.
 
-## George Harrap 
+## George Harrap <small>(8‑19‑8A)</small> 
 
 1943‑1934   
 
@@ -111,7 +110,7 @@ Harrap died in January 1934 at the age of 91 at his daughter’s residence in As
 
 1868‑1928
 
-William Neil Gillies spent his early years with his parents, sugar farming in New South Wales. After marrying his wife Margaret and the birth of their two children in the early 1900s, he moved to Queensland where he farmed sugar, timber and dairy. 
+[William Neil Gillies](https://adb.anu.edu.au/biography/gillies-william-neil-6388/text10917) spent his early years with his parents, sugar farming in New South Wales. After marrying his wife Margaret and the birth of their two children in the early 1900s, he moved to Queensland where he farmed sugar, timber and dairy. 
 
 Later however, he began his move into political life as a member of the Labor party. Initially, as a member of the Tintenbar Shire Council, he was unsuccessful in vying for the state and federal seats of Richmond. Somewhat controversially however, he later won the new Queensland Legislative Assembly seat of Eacham created in 1912, after having been charged with falsely stating his period of residence on an electoral claim.  
 
@@ -121,7 +120,6 @@ Upon his resignation, Gillies accepted a position in the Industrial Court which 
 
 For those travelling between Cairns and Atherton, you may find yourself travelling the Gillies Highway, named after William Gillies, noted for its 263 corners and 800 metre elevation. 
 
-D. J. Murphy, '[Gillies, William Neil (1868‑1928)](https://adb.anu.edu.au/biography/gillies-william-neil-6388/text10917)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/gillies-william-neil-6388/text10917, published first in hardcopy 1983
 
 ??? directions "Directions" 
 
@@ -132,13 +130,12 @@ D. J. Murphy, '[Gillies, William Neil (1868‑1928)](https://adb.anu.edu.au/biog
 
 1887‑1953
 
-William Forgan Smith was born on 15 February 1887 and came from humble beginnings as the child of Mary Forgan and George Smith, the head gardener of a Scottish family at Airlie Castle Estate. He was a painting and decorating apprentice in Glasgow and helped paint the interior of the Municipal Chambers, where later he was granted the Freedom of the City.
+[William Forgan Smith](https://adb.anu.edu.au/biography/smith-william-forgan-bill-8489/text14933) was born on 15 February 1887 and came from humble beginnings as the child of Mary Forgan and George Smith, the head gardener of a Scottish family at Airlie Castle Estate. He was a painting and decorating apprentice in Glasgow and helped paint the interior of the Municipal Chambers, where later he was granted the Freedom of the City.
 
 In 1911, William moved to Mackay in Queensland under medical advice that a warmer climate would assist his chronic bronchial condition and where he met his wife Euphemia (Effie) Margaret Wilson. From this time, between 1913‑1942, until his resignation, he led a great career in Australian public life breaking all state parliamentary records at the time. He held office for a longer period than any other Labor Premier in Australia and was the only Queensland political leader to win the people's confidence at four successive elections, leading the Queensland Labor Party for 13 years. His record term at the head of the Queensland Government was one day short of 10 years and three months, from 17 June 1932 to 16 September 1942.  
 
 After his time as Premier he took over the chairmanship of the Central Sugar Cane Prices Board, and later also chairmanship of the Sugar Board. Despite strained relations with the University of Queensland over funding and development, he was also granted an honorary Doctorate of Laws in 1935 and later appointed Chancellor in 1944, a position he retained until his death in 1953. The main arts building at the St Lucia campus is named in his honour. 
- 
-B. J. Costar, '[Smith, William Forgan (Bill) (1887‑1953)](https://adb.anu.edu.au/biography/smith-william-forgan-bill-8489/text14933)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/smith-william-forgan-bill-8489/text14933, published first in hardcopy 1988
+
 
 ??? directions "Directions" 
 
@@ -149,13 +146,12 @@ B. J. Costar, '[Smith, William Forgan (Bill) (1887‑1953)](https://adb.anu.edu.
 
 1893‑1970
 
-Sir Manuel Richard Hornibrook is perhaps best known in Brisbane for his association with bridge building. His first bridge of note was constructed for the Department of Main Roads across the Burrum River in 1925. This is recorded as the earliest, publicly‑funded, reinforced‑concrete bridge in Queensland. In an effort to create employment and provide support for families during the depression, the Hornibrook Highway was constructed during the 1930s and included what was [Australia's longest bridge](https://youtu.be/qqA41Fvj55k) at the time of its construction. The Hornibrook Group built more than 100 bridges, some of the better‑known including the William Jolly, Story and New Victoria bridges in Brisbane, the Northbridge and Iron Cove Bridge in Sydney, and the Kings Avenue and Commonwealth Avenue bridges in Canberra.  
+[Sir Manuel Richard Hornibrook](https://adb.anu.edu.au/biography/hornibrook-sir-manuel-richard-10547/text18729) is perhaps best known in Brisbane for his association with bridge building. His first bridge of note was constructed for the Department of Main Roads across the Burrum River in 1925. This is recorded as the earliest, publicly‑funded, reinforced‑concrete bridge in Queensland. In an effort to create employment and provide support for families during the depression, the Hornibrook Highway was constructed during the 1930s and included what was [Australia's longest bridge](https://youtu.be/qqA41Fvj55k) at the time of its construction. The Hornibrook Group built more than 100 bridges, some of the better‑known including the William Jolly, Story and New Victoria bridges in Brisbane, the Northbridge and Iron Cove Bridge in Sydney, and the Kings Avenue and Commonwealth Avenue bridges in Canberra.  
 
 Along with bridges, Manuel Hornibrook and his brothers, constructed drainage and sewerage works around Brisbane, Longreach, Roma and other towns in western Queensland. In fact, over a period of 40 years their companies built wool stores, wheat silos, wharves, sugar‑sheds, tank farms, water mains, factories and electricity power‑stations. Of course another highlight was the successful completion in the 1960s of the superstructure of the Sydney Opera House, including the sail‑like roof.
 
 Personally, Manuel Hornibrook was known for his spirit, courage and determination and his genuine interest and concern for people, as evidenced by his work during the Great Depression. He was also president of the Hamilton Bowls club, a Rotarian and worked tirelessly for International House, at the University of Queensland. Married with three children, Hornibrook died on 30 May 1970 at the Holy Spirit Private Hospital, Wickham Terrace, Brisbane and was cremated.  
 
-Raymond L. Whitmore, '[Hornibrook, Sir Manuel Richard (1893‑1970)](https://adb.anu.edu.au/biography/hornibrook-sir-manuel-richard-10547/text18729)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/hornibrook-sir-manuel-richard-10547/text18729, published first in hardcopy 1996.
 
 ??? directions "Directions" 
 
@@ -179,11 +175,9 @@ Leitner remained with Castlemaine as their Head Brewer throughout the 1920s cont
 
 1859‑1930
 
-Born in Northern Ireland in 1859, William Black reportedly arrived in Australia as a refugee as a result of potato famine. Moving to Brisbane, he made his living delivering coal to houses by handcart and later, horse and cart. Black continued to expand his work until he owned a fleet of six launches and 20 lighter, delivering coal using the Brisbane and Bremer River systems. During this time and as a result of his success, he also purchased 700 acres of coal deposits at Bundamba in Ipswich, where he established the Blackheath Colliery, complete with electric haulage and advanced machinery where he broke all state records in the cutting and haulage of coal. Other collieries soon followed at Walloon and another in the centre of Ipswich. 
+Born in Northern Ireland in 1859, [William Robert Black](https://adb.anu.edu.au/biography/black-william-robert-5254/text8853) reportedly arrived in Australia as a refugee as a result of potato famine. Moving to Brisbane, he made his living delivering coal to houses by handcart and later, horse and cart. Black continued to expand his work until he owned a fleet of six launches and 20 lighter, delivering coal using the Brisbane and Bremer River systems. During this time and as a result of his success, he also purchased 700 acres of coal deposits at Bundamba in Ipswich, where he established the Blackheath Colliery, complete with electric haulage and advanced machinery where he broke all state records in the cutting and haulage of coal. Other collieries soon followed at Walloon and another in the centre of Ipswich. 
 
 After his retirement 1920, Black sought to share his wealth, contributing through a number of philanthropic ventures including the establishment of Fairholme College in Toowoomba, Scots College in Warwick, Brisbane Boys’ College Council, Somerville House Council, and founding Emmanuel College at the University of Queensland, St Lucia. As a particularly religious man, he saw his contribution to these religious schools as ensuring the link between religion and education. This continued until his death in 1930 when his estate was left in trust for the Presbyterian Church in Queensland. William Black never married.  
-
-Margery Brier‑Mills, '[Black, William Robert (1859‑1930)](https://adb.anu.edu.au/biography/black-william-robert-5254/text8853)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/black-william-robert-5254/text8853, published first in hardcopy 1979
 
 ??? directions "Directions" 
 
@@ -199,7 +193,7 @@ One of them was Ataman (General) Vladimar Tolstoff, Commander of the 4th Ural Co
 
 As a result of the work of immigrants like those led by General Tolstoff, it is believed more than 10,000 people of Russian descent are currently living in Queensland making valuable contributions to the state. This is further evidenced around Toowong Cemetery where you can see many graves painted with Russian blue containing Cossacks from the Revolution.
 
-Kravchenko, M., 2010. ‘History of the Russian Community in Queensland and in Brisbane, http://www.qrcc.com.au/history-of-the-russian-community-e *(broken link)*
+Kravchenko, M., 2010. ‘History of the Russian Community in Queensland and in Brisbane
 
 ??? directions "Directions" 
 
@@ -210,7 +204,7 @@ Kravchenko, M., 2010. ‘History of the Russian Community in Queensland and in B
 
 1889‑1957
 
-Christy Kosmas Freeleagus was born Christos Frilingos on the island of Kythira, Greece. Inspired by stories of sailors, he moved with his older brother Peter to Sydney in 1901 before moving on to Brisbane where they established a small restaurant. Soon after they opened the Paris Café in Queen Street and the Astoria Café in Edward Street. Christy’s remaining eight brothers arrived over the next decade and in 1911 the family established Fresh Food and Ice Company Limited. Until his death, Freeleagus remained Managing Director of what became one of the state's biggest wholesale and retail food chains, providing the first employment over the years for hundreds of Greek migrants.
+[Christy Kosmas Freeleagus](https://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747) was born Christos Frilingos on the island of Kythira, Greece. Inspired by stories of sailors, he moved with his older brother Peter to Sydney in 1901 before moving on to Brisbane where they established a small restaurant. Soon after they opened the Paris Café in Queen Street and the Astoria Café in Edward Street. Christy’s remaining eight brothers arrived over the next decade and in 1911 the family established Fresh Food and Ice Company Limited. Until his death, Freeleagus remained Managing Director of what became one of the state's biggest wholesale and retail food chains, providing the first employment over the years for hundreds of Greek migrants.
 
 Freeleagus was passionate about his homeland and worked continuously to make his Greek heritage better known and respected among Australians. As a result, Freeleagus was appointed Greek Consul‑General, the first of that rank any country had appointed. 
 
@@ -220,7 +214,6 @@ Members of the Greek community continued to arrive in Queensland and with suppor
 
 When Freeleagus died of a heart attack on 16 May 1957, he had successfully founded the first Greek Association and his prominence in the religious and political life of the Greek community was evident through his community’s large attendance at his funeral.
 
-Alex Freeleagus, '[Freeleagus, Christy Kosmas (1889‑1957)](https://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747, published first in hardcopy 1981
 
 ??? directions "Directions" 
 
@@ -250,13 +243,12 @@ Anthony Fatseas was born in Smyrna in Turkey in 1909. He finished elementary sch
 
 1858‑1935
 
-Frederic Charles Urquhart was reputedly an accomplished horseman who, after moving from England, joined the Queensland Native Mounted Police Force on 27 April 1882 as a cadet and installed as sub‑inspector in charge of the Gulf, Cape York and Torres Strait districts. He later transferred in 1889 to the general police. During his service he was known for his involvement in the search for survivors from the ill‑fated Quetta in Torres Strait in 1890 and the bush verse he wrote, which included Camp Canzonettes (1891) and Blood Stains (1919).
+[Frederic Charles Urquhart](https://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637) was reputedly an accomplished horseman who, after moving from England, joined the Queensland Native Mounted Police Force on 27 April 1882 as a cadet and installed as sub‑inspector in charge of the Gulf, Cape York and Torres Strait districts. He later transferred in 1889 to the general police. During his service he was known for his involvement in the search for survivors from the ill‑fated Quetta in Torres Strait in 1890 and the bush verse he wrote, which included Camp Canzonettes (1891) and Blood Stains (1919).
 
 Transferred to Brisbane in 1896, Urquhart was promoted to Inspector, Second Class, and in 1898 took charge of the Criminal Investigation Branch. Unfortunately, during this service Urquhart became known not for his work but for his 'impulsive and exacting temperament' and his 'vindictive and tyrannical nature', which was highlighted during a Royal Commission into policing in 1889. Despite such criticism Urquhart remained supported by the current Police Commissioner and other political friends, to be appointed Chief Inspector on 1 July 1905.  During this period of his service he rose to prominence in the police action during the 1912 general strike and despite some objections, was appointed Queensland's fourth Commissioner of Police on 1 January 1917, a position he held until 16 January 1921.  
 
 After this time, Urquhart moved and was appointed administrator of the Northern Territory and sent to Darwin to manage the North Australian Industrial Union. Upon his retirement in 1926, Urquhart settled at Clayfield, Brisbane with his family, passing away at St Helen's Private Hospital on 2 December 1935.
 
-W. Ross Johnston, '[Urquhart, Frederic Charles (1858–1935)](https://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637)', Australian Dictionary of Biography, National Centre of Biography, Australian National University, https://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637, published first in hardcopy 1990
 
 ??? directions "Directions" 
 
@@ -268,9 +260,9 @@ W. Ross Johnston, '[Urquhart, Frederic Charles (1858–1935)](https://adb.anu.ed
 
 ??? directions "Directions" 
 
-    From here, retrace your steps and return to the pavilion, or walk straight down the hill along ==Pat Hill Drive==, through the centre of the cemetery, joining ==Charles Heaphy Drive== and down to the main office and ==Canon Garland Place==, including the small cemetery museum.
+    From here, retrace your steps and return to the Federation Pavilion.
 
 
 ## Copyright and Attribution 
 
-[Toowong Cemetery Tour Two](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under the [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/). Minor formatting changes, photos and links added. 
+The walk is based on [Toowong Cemetery Tour Two](https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery) © [Brisbane City Council](https://www.brisbane.qld.gov.au) 2016, used under the [Creative Commons Attribution 4.0 Licence](https://creativecommons.org/licenses/by/4.0/).  
