@@ -5,7 +5,7 @@ hide:
 icon: fontawesome/solid/person-walking
 ---
 
-# The Federation Walk 
+# The Federation walk 
 
 The Federation Walk was produced by the Friends of Toowong Cemetery as a Centenary of Federation project to commemorate the role of the four Queensland delegates to the National Australasian Convention of 1891 who are interred at Toowong Cemetery.
 
@@ -26,7 +26,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 ## Map
 
-![Federation Walk map](../assets/federation-walk.png){ width="50%" } 
+![The Federation walk map](../assets/federation-walk.png){ width="50%" } 
 
 ???+ directions "Directions" 
 
