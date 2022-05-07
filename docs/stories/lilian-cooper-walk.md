@@ -8,8 +8,7 @@ icon: fontawesome/solid/person-walking
 
 # Lilian Cooper walk
 
-==Some introduction...==
-
+This gently sloping walk shares some of the history and stories to be found along Dr. Lilian Cooper Drive.
 
 --8<-- "snippets/conditions-of-entry.md"
 
@@ -71,7 +70,7 @@ Through his contact with relatives of the famed Doctor Livingstone, George Hende
 
 ## James McWhirter Junior <small>(18‑98‑3/7)</small> 
 
-1878‑==1925==
+1878‑1919
 
 James McWhirter Junior, the only son of James and Agnes McWhirter (née Cameron), played a significant part in developing the centre of Fortitude Valley, working with his father to build a premier shopping precinct, which is now a [Queensland heritage‑listed place](https://apps.des.qld.gov.au/heritage-register/detail/?id=600214).  
 
@@ -81,7 +80,7 @@ Encouraged by the new styles of shopping in London, the McWhirters commissioned 
 
 McWhirters was also one of the first department stores fitted with sprinkler systems for fire prevention and three electric elevators for the convenience of customers. The pneumatic cash tube system was also the largest in the state. The grand new store housed more than 50 departments, including manchester, fabric, haberdashery, jewellery, travel goods, and of course millinery and women's clothing as well as furniture, carpets, kitchenware and toys. For the convenience of customers, a tea room also overlooked the Brisbane River and suburbs. 
 
-James McWhirter Junior died in Sydney in September ==1919== of pneumonia. Such was McWhirter’s popularity and standing in Brisbane’s social elite that his funeral was held in Brisbane on 19 September 1919 at the Ann Street Presbyterian Church, with many would‑be attendees unable to be admitted into the church due to lack of space. He was survived by his father, James McWhirter Senior, his widow and children.
+James McWhirter Junior died in Sydney in September 1919 of pneumonia. Such was McWhirter’s popularity and standing in Brisbane’s social elite that his funeral was held in Brisbane on 19 September 1919 at the Ann Street Presbyterian Church, with many would‑be attendees unable to be admitted into the church due to lack of space. He was survived by his father, James McWhirter Senior, his widow and children.
 
 ![McWhirter's department store in Fortitude Valley, 1913](../assets/mcwhirters-department-store-1913.jpg){ width="90%" }
 
@@ -108,7 +107,7 @@ Foggitt lived with his family at *Tarrangower*, Chatsworth Road, Greenslopes. He
 
 ## George Harrap <small>(8‑19‑8A)</small> 
 
-1943‑1934   
+1843‑1934   
 
 George Harrap was born in Yorkshire, England in 1843 and trained as a teacher at the famous St Mark’s College, Chelsea, London. He taught in England from 1857‑1872, when he immigrated to Queensland under an engagement with the Queensland Education Department. He was appointed head teacher at the Bulimba State School for a year before being transferred first to North Ipswich and then Woolloongabba in 1884. He was appointed Inspector of Schools in January 1887 and served in this capacity throughout most of Queensland. He retired in 1914, and was recognised as pioneering education in Queensland’s far north.  
 
@@ -225,17 +224,19 @@ After his retirement 1920, Black sought to share his wealth, contributing throug
 
     Enter the Orthodox section of the cemetery, signified by the many Orthodox crosses. Almost at the end of this section, turn left down the row and walk down the hill under the trees to find the white headstone of Ataman Tolstoff.
 
-## Ataman Tolstoff <small>(8‑64‑8)</small> 
+## Ataman Vladimir Tolstoff <small>(8‑64‑8)</small> 
 
 1882‑1956
  
 Members of the Russian community had often looked to Australia as a place of safety during times of economic and political revolution. The revolution in 1917, however brought cause for concern when it was thought more radical refugees were arriving. This caused the Australian Government to declare an embargo on Russian emigrants from 1917‑1922. When this embargo was lifted in 1922 it gave rise to one of the largest influxes of Russians into Queensland, their population increasing to approximately 3000 by the late 1930s.
 
-One of them was Ataman (General) Vladimar Tolstoff, Commander of the 4^th^ Ural Cossacks during the revolution. After suffering numerous defeats at the hand of the Bolshevik forces, General Tolstoff lead what remained of his regiment and their families out of Russia and south to Persia by camel and horseback through Kazakhstan and Turkmenia, eventually fleeing across the border into China. Pooling their money, the General arranged for the purchase of a block of farmland in Thornlands, just outside Brisbane and in November 1923 he brought 57 Ural Cossacks, together with other men, women and children with him to Brisbane. The Russian community settled across Queensland during this time working on cotton and dairy farms and even the mines in Mount Isa. Some of the descendants of the group led by General Tolstoff still remain farming vegetables, strawberries and flowers in Ormiston and Cleveland today.   
+One of them was Ataman (General) Vladimir Tolstoff, Commander of the 4^th^ Ural Cossacks during the revolution. After suffering numerous defeats at the hand of the Bolshevik forces, General Tolstoff lead what remained of his regiment and their families out of Russia and south to Persia by camel and horseback through Kazakhstan and Turkmenia, eventually fleeing across the border into China. Pooling their money, the General arranged for the purchase of a block of farmland in Thornlands, just outside Brisbane and in November 1923 he brought 57 Ural Cossacks, together with other men, women and children with him to Brisbane. The Russian community settled across Queensland during this time working on cotton and dairy farms and even the mines in Mount Isa. Some of the descendants of the group led by General Tolstoff still remain farming vegetables, strawberries and flowers in Ormiston and Cleveland today.   
 
 As a result of the work of immigrants like those led by General Tolstoff, it is believed more than 10,000 people of Russian descent are currently living in Queensland making valuable contributions to the state. This is further evidenced around Toowong Cemetery where you can see many graves painted with Russian blue containing Cossacks from the Revolution.
 
+<!--
 Kravchenko, M., 2010. ‘History of the Russian Community in Queensland and in Brisbane
+--> 
 
 ???+ directions "Directions" 
 
@@ -289,7 +290,7 @@ Anthony Fatseas was born in Smyrna in Turkey in 1909. He finished elementary sch
 
 ???+ directions "Directions" 
 
-    From here continue along ==Dr Lilian Cooper Drive== past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
+    From here continue along Dr Lilian Cooper Drive past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
 
 ## Frederic Charles Urquhart <small>(25‑31‑8)</small>
 
@@ -317,7 +318,7 @@ After this time, Urquhart moved and was appointed administrator of the Northern 
 
 ???+ directions "Directions" 
 
-    From here, retrace your steps and return to the Federation Pavilion.
+    :fontawesome-solid-person-walking-arrow-loop-left:{ .deep-purple } retrace your steps and return to the Federation Pavilion.
 
 
 ## Copyright and Attribution 
