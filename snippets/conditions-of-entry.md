@@ -2,7 +2,7 @@
 
 Before you start the walk, wear comfortable shoes, use sun protection, carry water, and read the Brisbane City Council Cemeteries - Conditions of Entry.
 
-???+ warning "Brisbane City Council Cemeteries - Conditions of Entry" 
+??? warning "Conditions of Entry" 
 
     Brisbane City Council seeks your assistance to maintain a safe and peaceful environment for all visitors to enjoy visiting our City Cemeteries.
     
