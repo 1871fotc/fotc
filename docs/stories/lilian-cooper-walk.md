@@ -16,18 +16,16 @@ icon: fontawesome/solid/person-walking
 
 ## Map
 
-==Map==
+![Lilian Cooper walk map](../assets/lilian-cooper-walk.jpg)
 
-Before starting, you may like to download the [Toowong Cemetery map](../assets/toowong_map.jpg). 
-<!-- Seek permission to annotate the map showing the walk -->
+<!-- insert photo of Shelter Shed -->
 
-<!-- insert photo -->
-
-## The Federation Pavilion
 
 ???+ directions "Directions" 
 
-    Begin the heritage walk at the pavilion and walk up ==Dr Lilian Cooper Drive==. Among the graves – immediately to the left of the road and under the tree foliage – is the grave of Lachlan Chisholm Wilson.
+    - :fontawesome-solid-car:{ .deep-purple } If driving, park your car at the end of Federation Avenue. 
+    - :fontawesome-solid-person-walking:{ .deep-purple } Begin the walk at Shelter Shed at the start of Federation Avenue. 
+    - Opposite the Shelter Shed is the grave of Lachlan Chisholm Wilson.
 
 
 ## Lachlan Chisholm Wilson <small>(8‑9‑1/2)</small> 
@@ -44,19 +42,30 @@ Wilson continued his military service through Jordan and Egypt and notably manag
 
 Wilson died at his New Farm home on 7 April 1947, survived by his wife, son and daughter.
 
+![Brigadier-General Lachlan Chisholm Wilson presenting a field gun at Brisbane Grammar School Queensland 1921](../assets/lachlan-chisholm-wilson.jpg){ width="90%" }
 
-??? directions "Directions" 
+*<small>[Brigadier-General Lachlan Chisholm Wilson presenting a field gun at Brisbane Grammar School Queensland 1921](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21257852870002061) - State Library of Queensland. Cropped.</small>*
 
-    Return to the road, moving along two rows, and close to the edge of the road is the grave of George Henderson.
+???+ directions "Directions" 
+
+    - Return to the road and move along two rows.
+    - Close to the edge of the road is the grave of George Henderson.
 
 
 ## George Henderson <small>(8‑13‑26)</small> 
 
 1859‑1936
 
-Through his contact with relatives of famed Doctor Livingstone, George Henderson developed an interest in Africa. After meeting with the Rebel Chief Cetewayo Zulu, he managed to influence railway construction there. Returning to the United Kingdom, then moving to Queensland, Henderson became heavily involved in Brisbane’s development. Initially he worked to develop and construct storm water drainage in South Brisbane and Kangaroo Point, was responsible for ploughing and paving with wooden blocks both George and Queen streets, and contributed to the construction of railway lines between Cleveland, Charleville, Cloncurry, Chillagoe, parts of the north coastline and Eagle Farm Meatworks.
+Through his contact with relatives of the famed Doctor Livingstone, George Henderson developed an interest in Africa. After meeting with the Rebel Chief Cetewayo Zulu, he managed to influence railway construction there. Returning to the United Kingdom, then moving to Queensland, Henderson became heavily involved in Brisbane’s development. Initially he worked to develop and construct storm water drainage in South Brisbane and Kangaroo Point, was responsible for ploughing and paving with wooden blocks both George and Queen streets, and contributed to the construction of railway lines between Cleveland, Charleville, Cloncurry, Chillagoe, parts of the north coastline, and Eagle Farm Meatworks.
 
-??? directions "Directions" 
+<!--
+![Eagle Farm Meatworks](../assets/queensland-meatworks-1900.jpg)
+
+*<small>[Queensland Meat Export and Agency Company at Eagle Farm, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220166330002061) - State Library of Queensland. </small>*
+
+--> 
+
+???+ directions "Directions" 
 
     Moving further along the road and off to the right is the black granite monument of the McWhirter family.
 
@@ -74,7 +83,12 @@ McWhirters was also one of the first department stores fitted with sprinkler sys
 
 James McWhirter Junior died in Sydney in September ==1919== of pneumonia. Such was McWhirter’s popularity and standing in Brisbane’s social elite that his funeral was held in Brisbane on 19 September 1919 at the Ann Street Presbyterian Church, with many would‑be attendees unable to be admitted into the church due to lack of space. He was survived by his father, James McWhirter Senior, his widow and children.
 
-??? directions "Directions" 
+![McWhirter's department store in Fortitude Valley, 1913](../assets/mcwhirters-department-store-1913.jpg){ width="90%" }
+
+*<small>[McWhirter's department store in Fortitude Valley, 1913](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298085210002061) - State Library of Queensland. </small>*
+
+
+???+ directions "Directions" 
 
     Immediately to the other side of the road is the monument of Charles Foggitt.
 
@@ -88,7 +102,7 @@ Foggitt possessed exceptional business intelligence. In 1904 Foggitt left J. C. 
 
 Foggitt lived with his family at *Tarrangower*, Chatsworth Road, Greenslopes. He died on 13 July 1926 after a short illness and was survived by his wife Sarah, three sons and a daughter. 
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Almost immediately in line with this grave, but three rows further along, is the grave of George Harrap.
 
@@ -98,11 +112,11 @@ Foggitt lived with his family at *Tarrangower*, Chatsworth Road, Greenslopes. He
 
 George Harrap was born in Yorkshire, England in 1843 and trained as a teacher at the famous St Mark’s College, Chelsea, London. He taught in England from 1857‑1872, when he immigrated to Queensland under an engagement with the Queensland Education Department. He was appointed head teacher at the Bulimba State School for a year before being transferred first to North Ipswich and then Woolloongabba in 1884. He was appointed Inspector of Schools in January 1887 and served in this capacity throughout most of Queensland. He retired in 1914, and was recognised as pioneering education in Queensland’s far north.  
 
-Harrap married Elizabeth Brown in Lincolnshire, England in 1867 and had seven children. His son George was born on board the ship Royal Dane enroute to Australia.
+Harrap married Elizabeth Brown in Lincolnshire, England in 1867 and had seven children. His son George was born on board the ship *Royal Dane* enroute to Australia.
 
 Harrap died in January 1934 at the age of 91 at his daughter’s residence in Ascog Terrace, Toowong. He was well known for his love of sports and was described in his obituary as a “man of striking physique” who “retained his physique and stamina until a few months before his death”.
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Moving back across the road and approximately four graves in, is the headstone of William Neil Gillies.
 
@@ -121,7 +135,7 @@ Upon his resignation, Gillies accepted a position in the Industrial Court which 
 For those travelling between Cairns and Atherton, you may find yourself travelling the Gillies Highway, named after William Gillies, noted for its 263 corners and 800 metre elevation. 
 
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Heading back to the road and moving further along approximately four rows, turn left down the path to see the white and blue painted monuments of William Forgan Smith.
 
@@ -136,8 +150,13 @@ In 1911, William moved to Mackay in Queensland under medical advice that a warme
 
 After his time as Premier he took over the chairmanship of the Central Sugar Cane Prices Board, and later also chairmanship of the Sugar Board. Despite strained relations with the University of Queensland over funding and development, he was also granted an honorary Doctorate of Laws in 1935 and later appointed Chancellor in 1944, a position he retained until his death in 1953. The main arts building at the St Lucia campus is named in his honour. 
 
+![Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](../assets/forgan-smith-building.jpg){ width="59%" }  ![William Forgan Smith](../assets/william-forgan-smith.jpg){ width="30.2%" }
 
-??? directions "Directions" 
+*<small>[Construction of the Forgan Smith Building, University of Queensland , St Lucia, Brisbane, Queensland, 1940](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218117600002061) - State Library of Queensland </small>* <br>
+*<small>[William Forgan Smith](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218884950002061) ca. 1935 - State Library of Queensland </small>*
+
+
+???+ directions "Directions" 
 
     Returning to the road, move immediately across to the right and locate the row beginning with the grave of Economidis. Moving along this row see an older grave commemorating Sir Manuel Hornibrook and his son. Look carefully, from the side this monument reads MACDIARMID.
 
@@ -152,8 +171,19 @@ Along with bridges, Manuel Hornibrook and his brothers, constructed drainage and
 
 Personally, Manuel Hornibrook was known for his spirit, courage and determination and his genuine interest and concern for people, as evidenced by his work during the Great Depression. He was also president of the Hamilton Bowls club, a Rotarian and worked tirelessly for International House, at the University of Queensland. Married with three children, Hornibrook died on 30 May 1970 at the Holy Spirit Private Hospital, Wickham Terrace, Brisbane and was cremated.  
 
+<div class="video-wrapper">
 
-??? directions "Directions" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sa20j2Tx6VQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+<!-- 
+https://www.slq.qld.gov.au/blog/sir-manuel-hornibrook-father-australian-building-industry
+https://vimeo.com/176117452
+
+-->
+
+???+ directions "Directions" 
 
     Returning to the road and moving ahead approximately 20 meters, immediately to the left of the road are the graves of Alois Wilhelm Leitner and Robert William Black.
 
@@ -169,7 +199,14 @@ At the same time, XXXX introduced "Mr Fourex". The symbol, still recognised toda
 
 Leitner remained with Castlemaine as their Head Brewer throughout the 1920s continuing to improve all aspects of production. Despite his sudden death in 1931, his creation still remains one of the best known brands in Queensland. Leitner was survived by his wife Alma, their three daughters and a son.  
 
+![Fourex beer advertisement by Castlemaine Perkins Ltd., 1920](../assets/mr-fourex-1920.jpg){ width="18.35%" } ![Staff and vehicles of Castlemaine Perkins Limited outside the brewery in Milton Road, Brisbane, ca. 1929](../assets/castlemaine-perkins-brewery-1929.jpg){ width="77%" } 
+
+*<small>[Fourex beer advertisement by Castlemaine Perkins Ltd., 1920](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218510830002061) - State Library of Queensland. </small>* <br>
+*<small>[Staff and vehicles of Castlemaine Perkins Limited outside the brewery in Milton Road, Brisbane, ca. 1929](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338890002061) - State Library of Queensland. </small>*
+
+<!--
 ‘[Ashgrove Time Capsule](https://www.househistories.org/ashgrove-time-capsule)’, House and Suburban Histories from South East Queensland
+-->
 
 ## William Robert Black <small>(8‑43‑33/34)</small> 
 
@@ -179,7 +216,12 @@ Born in Northern Ireland in 1859, [William Robert Black](https://adb.anu.edu.au/
 
 After his retirement 1920, Black sought to share his wealth, contributing through a number of philanthropic ventures including the establishment of Fairholme College in Toowoomba, Scots College in Warwick, Brisbane Boys’ College Council, Somerville House Council, and founding Emmanuel College at the University of Queensland, St Lucia. As a particularly religious man, he saw his contribution to these religious schools as ensuring the link between religion and education. This continued until his death in 1930 when his estate was left in trust for the Presbyterian Church in Queensland. William Black never married.  
 
-??? directions "Directions" 
+![William Robert Black, ca. 1898](../assets/william-robert-black-1898.jpg){ width="35.2%" } ![William Robert Black, ca. 1931](../assets/william-robert-black-1931.jpg){ width="55%" } 
+
+*<small>[William Robert Black, ca. 1898](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218186840002061) - State Library of Queensland. </small>* <br>
+*<small>[William Robert Black](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool195043), ca. 1931 - State Library of Queensland. </small>*
+
+???+ directions "Directions" 
 
     Enter the Orthodox section of the cemetery, signified by the many Orthodox crosses. Almost at the end of this section, turn left down the row and walk down the hill under the trees to find the white headstone of Ataman Tolstoff.
 
@@ -189,13 +231,13 @@ After his retirement 1920, Black sought to share his wealth, contributing throug
  
 Members of the Russian community had often looked to Australia as a place of safety during times of economic and political revolution. The revolution in 1917, however brought cause for concern when it was thought more radical refugees were arriving. This caused the Australian Government to declare an embargo on Russian emigrants from 1917‑1922. When this embargo was lifted in 1922 it gave rise to one of the largest influxes of Russians into Queensland, their population increasing to approximately 3000 by the late 1930s.
 
-One of them was Ataman (General) Vladimar Tolstoff, Commander of the 4th Ural Cossacks during the revolution. After suffering numerous defeats at the hand of the Bolshevik forces, General Tolstoff lead what remained of his regiment and their families out of Russia and south to Persia by camel and horseback through Kazakhstan and Turkmenia, eventually fleeing across the border into China. Pooling their money, the General arranged for the purchase of a block of farmland in Thornlands, just outside Brisbane and in November 1923 he brought 57 Ural Cossacks, together with other men, women and children with him to Brisbane. The Russian community settled across Queensland during this time working on cotton and dairy farms and even the mines in Mount Isa. Some of the descendants of the group led by General Tolstoff still remain farming vegetables, strawberries and flowers in Ormiston and Cleveland today.   
+One of them was Ataman (General) Vladimar Tolstoff, Commander of the 4^th^ Ural Cossacks during the revolution. After suffering numerous defeats at the hand of the Bolshevik forces, General Tolstoff lead what remained of his regiment and their families out of Russia and south to Persia by camel and horseback through Kazakhstan and Turkmenia, eventually fleeing across the border into China. Pooling their money, the General arranged for the purchase of a block of farmland in Thornlands, just outside Brisbane and in November 1923 he brought 57 Ural Cossacks, together with other men, women and children with him to Brisbane. The Russian community settled across Queensland during this time working on cotton and dairy farms and even the mines in Mount Isa. Some of the descendants of the group led by General Tolstoff still remain farming vegetables, strawberries and flowers in Ormiston and Cleveland today.   
 
 As a result of the work of immigrants like those led by General Tolstoff, it is believed more than 10,000 people of Russian descent are currently living in Queensland making valuable contributions to the state. This is further evidenced around Toowong Cemetery where you can see many graves painted with Russian blue containing Cossacks from the Revolution.
 
 Kravchenko, M., 2010. ‘History of the Russian Community in Queensland and in Brisbane
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     Coming back to the road and across to the opposite side, at the edge of the road is white walled monument of Christy Freeleagus.
 
@@ -215,15 +257,25 @@ Members of the Greek community continued to arrive in Queensland and with suppor
 When Freeleagus died of a heart attack on 16 May 1957, he had successfully founded the first Greek Association and his prominence in the religious and political life of the Greek community was evident through his community’s large attendance at his funeral.
 
 
-??? directions "Directions" 
+![Christy Freeleagus, wearing the Greek army uniform, ca. 1922](../assets/christy-freeleagus-1922.jpg){ width="30%" } 
+
+*<small>[Christy Freeleagus, wearing the Greek army uniform, ca. 1922](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220374280002061) - State Library of Queensland. </small>* 
+
+
+???+ directions "Directions" 
 
     Immediately back across the road stands a monument consisting of a large cross draped in a number of strands of beads. These are regularly placed there by those who come to remember Dr Lilian Cooper.
     
-    ![image of headstone](../assets/lilian-cooper.jpg){ width="30%" }
+    ![image of headstone](../assets/lilian-cooper.jpg){ width="15%" } 
 
 --8<-- "snippets/lilian-cooper.md"
 
-??? directions "Directions" 
+![Doctor Lilian Violet Cooper](../assets/lilian-voilet-cooper.jpg){ width="31%" }  ![Dr Lilian Voilet Cooper and Miss Josephine Bedford in a horsedrawn buggy](../assets/lilian-cooper-and-josephine-bedford.jpg){ width="60.15%" } 
+
+*<small>[Doctor Lilian Violet Cooper](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218595360002061) - State Library of Queensland. </small>* <br>
+*<small>[Two friends seated in a horsedrawn buggy, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1oppkg1/slq_alma21272255460002061). Miss Josephine Bedford (left) and Dr. Lilian Cooper - State Library of Queensland </small>* 
+
+???+ directions "Directions" 
 
     Continuing further along the road, almost to the Richer Street entrance, immediately off the right is the white vaulted monument of Anthony Fatseas.
 
@@ -235,7 +287,7 @@ The grave of husband and wife, Anthony and Catherine Fatseas is highlighted duri
 
 Anthony Fatseas was born in Smyrna in Turkey in 1909. He finished elementary school in Turkey and moved to Athens, Greece with his parents and studied at the French School there. He completed his compulsory military service translating French and became an accountant, later moving to Egypt.  He arrived in Australia in 1947 and worked for a year on the editorial staff of an ethnic newspaper and then worked in cafes and as a clerk. Finally, he became a partner in a delicatessen business. 
 
-??? directions "Directions" 
+???+ directions "Directions" 
 
     From here continue along ==Dr Lilian Cooper Drive== past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
 
@@ -249,16 +301,21 @@ Transferred to Brisbane in 1896, Urquhart was promoted to Inspector, Second Clas
 
 After this time, Urquhart moved and was appointed administrator of the Northern Territory and sent to Darwin to manage the North Australian Industrial Union. Upon his retirement in 1926, Urquhart settled at Clayfield, Brisbane with his family, passing away at St Helen's Private Hospital on 2 December 1935.
 
+![Inspector 2/c Geraghty, Queensland Police Force Commissioner Cahill, and Chief Inspector Urquhart, ca. 1905](../assets/frederic-charles-urquhart.jpg){ width="45%" }
 
-??? directions "Directions" 
+*<small>[Queensland Police Force Commissioner and two officers, c 1905](https://flic.kr/p/XKdjuz), Inspector 2/c Geraghty, Commissioner Cahill and Chief Inspector Urquhart at the Depot Ceremonial Arch; original photo believed to be taken ca. 1905 — Queensland State Archives*</small>
+
+
+???+ directions "Directions" 
 
     Coming back to the road and heading all the way to the top of the hill, on the very corner of the intersection with Pat Hill Drive is the grave displaying a boxing ring, the grave of Patrick Francis Hill.
-    
-    ![image of headstone](../assets/pat-hill-headstone.jpg)
+
 
 --8<-- "snippets/pat-hill.md"
 
-??? directions "Directions" 
+![image of headstone](../assets/pat-hill-headstone.jpg){ width="90%" }
+
+???+ directions "Directions" 
 
     From here, retrace your steps and return to the Federation Pavilion.
 
