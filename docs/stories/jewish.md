@@ -5,7 +5,7 @@ hide:
 icon: fontawesome/solid/person-walking
 ---
 
-# The Jewish Walk
+# The Jewish walk
 
 ![The Brisbane Synagogue, ca. 1906](../assets/brisbane-synagogue-1906.jpg)
 
@@ -19,7 +19,7 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
 --8<-- "snippets/conditions-of-entry.md"
 
-## The Jewish Walk
+## The Jewish walk
 
 <!-- Map -->
 
