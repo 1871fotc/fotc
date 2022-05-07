@@ -177,10 +177,10 @@ plugins:
 nav:
   - Home: index.md
   - Cemetery History: history.md
-  - Stories:
-    - Stories: stories/index.md
-#    - Mount Blackall Walk: stories/toowong-cemetery-walk-1.md
-#    - Lilian Cooper Walk: stories/toowong-cemetery-walk-2.md
+  - Stories and Walks:
+    - Stories and Walks: stories/index.md
+#    - Mount Blackall Walk: stories/mount-blackall-walk.md
+#    - Lilian Cooper Walk: stories/lilian-cooper-walk.md
 # Politics
     - The Federation Walk: stories/federation-walk.md
     - Governors: stories/governors-past.md 
