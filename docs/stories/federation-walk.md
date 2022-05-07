@@ -24,7 +24,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 --8<-- "snippets/conditions-of-entry.md"
 
-## The Federation Walk
+## Map
 
 ![Federation Walk map](../assets/federation-walk.png){ width="50%" } 
 
