@@ -31,12 +31,12 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 ???+ directions "Directions" 
 
     - Start behind Canon Garland Place in Emma Miller Avenue.  
-    - Enter the portion on the path between the graves of Pethebridge and Thurlow. 
+    - Enter Portion 13 on the grass path to the summit between the graves of Pethebridge and Thurlow. 
     
     ![Federation Walk start](../assets/federation-walk-start.jpg){ width="15%" } 
     
     - Head straight up the hill towards Governor Blackall’s monument.
-    - Sir Arthur Rutledge's headstone is half way up and just off to the left (Map Number 1.)
+    - Sir Arthur Rutledge's headstone is half way up and just off to the left.
     
     ![Sir Arthur Rutledge's headstone](../assets/arthur-rutledge-headstone.jpg){ width="15%" } 
 
@@ -44,7 +44,7 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 ???+ directions "Directions" 
 
-    Continue up the hill until you reach the Uhl family monument. Turn right and follow the path until you reach a wide path sloping from the top. Turn left and walk directly towards the Blackall Monument. Here you will find the Federation Pavilion (Map Number 2.)
+    Continue up the hill until you reach the Uhl family monument. Turn right and follow the path until you reach a wide path sloping from the top. Turn left and walk directly towards the Blackall Monument. Here you will find the Federation Pavilion.
 
 ## The Federation Pavilion
 
@@ -54,7 +54,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 ???+ directions "Directions" 
 
-    The pavilion is adjacent to the grave of Sir Samuel Griffith. (Map Number 3.)
+    The pavilion is adjacent to the grave of Sir Samuel Griffith. 
     
     ![Sir Samuel Walker Griffith's headstone](../assets/samuel-walker-griffith-headstone-1.jpg){ width="30%" } 
 
@@ -62,7 +62,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 ???+ directions "Directions" 
 
-    Proceed along Federation Avenue to Map Number 4. John Donaldson's headstone is on the right.
+    Walk along Federation Avenue to John Donaldson's headstone on the right.
     
     ![John Donaldson's headstone](../assets/john-donaldson-headstone.jpg){ width="15%" } 
 
@@ -70,7 +70,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 ???+ directions "Directions" 
 
-    Proceed along Federation Avenue to Map Number 5. Thomas Macdonald‑Paterson's headstone is on the right.
+    Continue along Federation Avenue to Thomas Macdonald‑Paterson's headstone on the right.
     
     ![Thomas Macdonald‑Paterson's headstone](../assets/thomas-macdonald‑paterson-headstone.jpg){ width="15%" } 
 
