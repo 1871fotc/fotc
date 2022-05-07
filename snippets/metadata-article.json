@@ -1,0 +1,26 @@
+// see https://schema.org/Article and https://developers.google.com/search/docs/advanced/structured-data/article#non-amp // 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "How to Tie a Reef Knot",
+  "headline": "My Headline",
+  "dateModified": "2022-01-01",
+  "datePublished": "2022-01-01",
+  "author": [{
+      "@type": "Person",
+      "name": "Stephen Gates",
+      "url": "https://twitter.com/SGatesHQ"
+    },{
+      "@type": "Organisation",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://1871fotc.github.io/fotc/"
+  }],
+  "image": [
+      "https://example.com/photos/1x1/photo.jpg",
+      "https://example.com/photos/4x3/photo.jpg",
+      "https://example.com/photos/16x9/photo.jpg"
+  ]
+}
+</script>
