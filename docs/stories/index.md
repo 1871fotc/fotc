@@ -28,7 +28,7 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Mount Blackall walk](mount-blackall-walk.md)** :fontawesome-solid-person-walking: - discover some of the highlights on Mount Blackall
 - **[Lilian Cooper walk](lilian-cooper-walk.md)** :fontawesome-solid-person-walking: - uncover history along Lilian Cooper Drive
 
--->
+ -->
 
 ## Politics
 
