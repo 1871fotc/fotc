@@ -1,6 +1,6 @@
 ---
-title: Stories
-description: Stories about the people remembered in Toowong Cemetery
+title: Stories and Walks
+description: Stories and walks to discover the people remembered in Toowong Cemetery
 search:
   boost: 2
 ---
@@ -8,7 +8,7 @@ search:
 --8<-- "snippets/hide-nav.html"
 
 
-# Toowong Cemetery Stories
+# Toowong Cemetery Stories and Walks
 
 The Friends of Toowong Cemetery have researched and published **[over 500 stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
@@ -23,9 +23,11 @@ There are **over 40 themed story collections** below, or discover more in **[our
 
 Stories marked with :fontawesome-solid-person-walking: are **self-guided walks** with maps and directions. 
 
-<!--
-- **[Mount Blackall walk](toowong-cemetery-walk-1.md)** :fontawesome-solid-person-walking: - discover some of the highlights on Mount Blackall
-- **[Lilian Cooper walk](toowong-cemetery-walk-2.md)** :fontawesome-solid-person-walking: - uncover history along Lilian Cooper Drive
+<!-- 
+
+- **[Mount Blackall walk](mount-blackall-walk.md)** :fontawesome-solid-person-walking: - discover some of the highlights on Mount Blackall
+- **[Lilian Cooper walk](lilian-cooper-walk.md)** :fontawesome-solid-person-walking: - uncover history along Lilian Cooper Drive
+
 -->
 
 ## Politics
@@ -46,7 +48,7 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 
 ## Professions
 
-- **[Artists][artists]**
+- **[Artists][artists]** - discover famous local artists
 - **[Health Professionals][nurses]** - commemorating Nurses, Doctors and other health professionals 
 - **[Judiciary][judiciary]** - Early Judiciary buried in Toowong Cemetery 
 - **[Mariners][mariners]** - Anchors Aweigh!
