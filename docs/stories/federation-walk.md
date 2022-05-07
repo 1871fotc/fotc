@@ -30,7 +30,8 @@ Despite many arguments against federation, the Federal Referendum on the 2^nd^ o
 
 ???+ directions "Directions" 
 
-    - Start behind Canon Garland Place in Emma Miller Avenue.  
+    - :fontawesome-solid-car:{ .deep-purple } If driving, park your car in Emma Miller Avenue.
+    - :fontawesome-solid-person-walking:{ .deep-purple } Begin the walk behind Canon Garland Place in Emma Miller Avenue.  
     - Enter Portion 13 on the grass path to the summit between the graves of Pethebridge and Thurlow. 
     
     ![Federation Walk start](../assets/federation-walk-start.jpg){ width="15%" } 
@@ -78,7 +79,7 @@ The Commonwealth of Australia was inaugurated under a pavilion erected for the o
 
 ???+ directions "Directions" 
 
-    Retrace your steps along Federation Avenue then return down the hill to the starting point.
+    :fontawesome-solid-person-walking-arrow-loop-left:{ .deep-purple } Retrace your steps along Federation Avenue then return down the hill to the starting point.
 
 
 ![Federation celebrations in Queen Street, Brisbane, 1901](../assets/federation-celebrations-1901.jpg){ width="70%" }  
