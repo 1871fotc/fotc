@@ -6,24 +6,10 @@ hide:
 icon: fontawesome/solid/person-walking  
 ---
 
-# Mount Blackall Walk 
+# Mount Blackall walk 
 
 ==Some introduction...==
 
-<!--
-Part of the appeal and character of the old Toowong Cemetery is its hills and valleys, dotted with shady trees. To ensure you enjoy your visit we encourage visitors to wear comfortable shoes, use sun protection, carry water and above all, enjoy this pleasant and informative walk through a chapter of Brisbane’s history.
-
-
-## Welcome to Toowong Cemetery
-
-Old cemeteries reflect aspects of our social, religious, folk, architectural and literary history not found in such a combination in any other place. Public cemeteries were first established in the 19^th^ Century as churchyard burial grounds became overcrowded.
- 
-Land set aside in 1865 as a cemetery reserve was affirmed as Brisbane General Cemetery on 10 October 1870 when the appointed trustees met for the first time after Governor Blackall’s wish to be buried there. Toowong Cemetery’s first burial occurred on 3 January 1871 and until its official opening in July 1875, only six people were buried there. People were reluctant to use the remote cemetery through lack of public transport, meaning they faced an arduous and expensive seven kilometre journey by horse‑drawn carriages along dirt roads. Today, the 44 hectare site is the final resting place for more than 119,000 people. Funerals in the Victorian era were a grand public affair, with coffins carried to the cemetery by horse‑drawn hearses, followed by large gatherings of family and friends all dressed in sombre black. Finally, the body was laid to rest under the most elaborate headstone the family could afford.
-
-Victorian’s love of ancient symbolism is reflected in the designs of their monuments. Throughout Toowong Cemetery you will notice symbols of hope and immortality, such as ivy; clasped hands suggesting farewell or reunion; and urns and obelisks inspired by a revived interest in Egyptian, Greek and Roman symbolism. Monuments also reflect prevailing architectural styles and building materials. Just as the Victorian attention to detail and ornamentation has given way to function and simplicity in architecture, modern headstones have become more subdued, losing much of the extravagance and elegance of 19^th^ Century monuments.  
-
-More information on the [symbolism used in Victorian era cemeteries](../headstones/symbols.md) like Toowong Cemetery can be found at the Cemetery Office and at the display at Portion 2.
--->
 
 --8<-- "snippets/conditions-of-entry.md"
 
@@ -32,11 +18,6 @@ More information on the [symbolism used in Victorian era cemeteries](../headston
 ==Map==
 
 ## The Federation Pavilion
-
-<!--
-Before starting, you may like to download the [Toowong Cemetery map](../assets/toowong_map.jpg). 
-
--->
 
 ???+ directions "Directions" 
 
@@ -416,11 +397,6 @@ This [state‑heritage‑listed monument](https://apps.des.qld.gov.au/heritage-r
 
 <!-- insert photo -->
 
-???+ directions "Directions" 
-
-    This completes the tour of the southern corner portion of Toowong Cemetery. If you have enjoyed the walk, be sure to visit again to walk the many other areas of the cemetery. 
-
-    If you have parked your vehicle near the Richer Street entrance, follow Walter Hill Drive around the southern border of the cemetery until you return to the Information Pavilion.
 
 ## Copyright and Attribution 
 
