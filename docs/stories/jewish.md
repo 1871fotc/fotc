@@ -21,6 +21,8 @@ Examples of vandalism will be seen in this cemetery. This is a world‑wide mala
 
 ## The Jewish Walk
 
+<!-- Map -->
+
 ???+ directions "Directions" 
 
     Starting in Portion 3 from the Peter Jackson Parade end and closest to Frederick street, walk down the first row, looking left. About the 16^th^ headstone from the start is the grave of...
