@@ -8,14 +8,13 @@ icon: fontawesome/solid/person-walking
 
 # Mount Blackall walk 
 
-==Some introduction...==
-
+A walk along Federation Avenue and then down the slopes of Mount Blackall before exploring significant monuments in and around Canon Garland Place.
 
 --8<-- "snippets/conditions-of-entry.md"
 
 ## Map 
 
-==Map==
+![Mount Blackall walk map](../assets/mount-blackall-walk.jpg)
 
 ## The Federation Pavilion
 
@@ -23,10 +22,8 @@ icon: fontawesome/solid/person-walking
 
     Begin the heritage walk at the Federation Pavilion and head south-east along Federation Avenue to the impressive fenced monument of Lieutenant-Colonel James Forsyth Thallon.
     
-    ![Federation Pavilion](../assets/federation-pavilion.jpg){ width="15%" } 
 
-
-<!-- insert photo -->
+![Federation Pavilion](../assets/federation-pavilion.jpg){ width="96%" } 
 
 ## Lieutenant-Colonel James Forsyth Thallon <small>(11‑71‑14)</small>
 
@@ -36,7 +33,11 @@ Lieutenant-Colonel James Forsyth Thallon was the Queensland Commissioner for Rai
 
 Thallon died at the Mater Hospital in Brisbane on 24 March 1911 from a cerebral haemorrhage after contracting Dengue fever. At the time of his death, Thallon was regarded as the most distinguished Railways Commissioner in Australia, and one of the most loved men in Queensland. More than 10,000 people stood in drenching rain as his funeral procession passed toward his final resting place in Toowong Cemetery. The procession moved from his Clayfield residence, led by four mounted policemen, followed by the Railway Band who were playing the ‘Dead March from Saul’. Family members and dignitaries from all levels of government and representatives of industry followed the carriage bearing the coffin.
 
-<!-- insert photo -->
+![James F, Thallon](../assets/james-forsyth-thallon.jpg){ width="42%" }  ![State funeral for James Forsyth Thallon, Queensland Commissioner for Railways, Brisbane, Queensland, 27 March 1911](../assets/james-forsyth-thallon-funeral.jpg){ width="54.5%" }   
+
+*<small>[James F, Thallon](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220418430002061), Queensland Railways Commissioner, at the interstate railway commissioners and general managers' conference Melbourne in May 1909 - State Library of Queensland </small>* <br>
+*<small>[State funeral for James Forsyth Thallon, Queensland Commissioner for Railways, Brisbane, Queensland, 27 March 1911](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218753520002061), 1915 - State Library of Queensland </small>* 
+
 
 ???+ directions "Directions" 
 
@@ -47,6 +48,12 @@ Thallon died at the Mater Hospital in Brisbane on 24 March 1911 from a cerebral 
 1843‑1921
 
 George Phillips died on 3 June 1921 at the age of 77 after being known as one of the pioneers who opened up North Queensland, the possibilities of the Gulf country, and who laid out the town of Normanton. A surveyor and civil engineer, he also made [many valuable contributions to The Daily Telegraph](https://trove.nla.gov.au/search/category/newspapers?keyword=%22G%20Phillips%22&l-state=Queensland&l-title=840&l-decade=191&l-category=Article) on the physical aspects, climatology, natural and artificial products of the country, and the life and manners of its people. For many years he was a leading member and fellow of the Royal Geographical Society, and contributed several valuable papers. During his funeral service at the City Tabernacle, Reverend Richer, a good friend of George Phillips, spoke of the man and his great service to Queensland. 
+
+![George Phillips, 1907](../assets/george-phillips.jpg){ width="30%" }  
+
+*<small>[George Phillips, Sandgate, 1907](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218158200002061) - State Library of Queensland </small>* 
+
+
  
 ## James Cowlishaw <small>(11‑41‑7A)</small>
 
@@ -58,7 +65,13 @@ Cowlishaw was Chairman of Directors of *The Daily Telegraph* for many years. Lat
 
 Cowlishaw’s wife, Charlotte (née Owen) was the second burial in the grave following her death in 1914.
 
-<!-- insert photo -->
+
+![Brisbane Grammar School, ca. 1881](../assets/brisbane-grammar-school-1881.jpg){ width="96%" }  
+
+*<small>[Brisbane Grammar School, ca. 1881](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool194651) - State Library of Queensland. Cropped. </small>* 
+
+
+
 
 ???+ directions "Directions" 
 
@@ -396,7 +409,6 @@ Prior to Federation, each of the Australian colonies maintained its own defence 
 This [state‑heritage‑listed monument](https://apps.des.qld.gov.au/heritage-register/detail/?id=600334) was designed and largely constructed by Richard Ramo in memory of his three sons killed in World War I, to his adopted son Fred who died tragically in 1923, and later to the family dog. The dedication of the mausoleum was attended by several thousand people, largely pacifists, socialists and members of the Industrial Workers of the World. The temple bears several leaded marble inscriptions expressing Ramo’s bitter hatred of war and details of the deaths of his sons. One particularly sombre inscription reads: “*All my hope lies buried here*”. 
 
 <!-- insert photo -->
-
 
 ## Copyright and Attribution 
 
