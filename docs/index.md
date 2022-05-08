@@ -31,7 +31,8 @@ The cemetery is maintained by the **[Brisbane City Council](https://www.brisbane
 
 ## Things to do at Toowong Cemetery
 
-![Headstone Symbolism Display][image3]{ width="70%" }
+<img class="full-width" src="assets/symbolism-display.jpg" alt="Toowong Cemetery Headstone Symbolism Display" width="70%">
+
 
 At Toowong Cemetery you can:
 
