@@ -118,6 +118,8 @@ Harrap died in January 1934 at the age of 91 at his daughter’s residence in As
 ???+ directions "Directions" 
 
     Moving back across the road and approximately four graves in, is the headstone of William Neil Gillies.
+    
+    ![William Neal Gillies](../assets/william-gillies.jpg){ width="15%" } 
 
 ## William Neil Gillies <small>(18‑106‑20)</small> 
 
@@ -133,10 +135,15 @@ Upon his resignation, Gillies accepted a position in the Industrial Court which 
 
 For those travelling between Cairns and Atherton, you may find yourself travelling the Gillies Highway, named after William Gillies, noted for its 263 corners and 800 metre elevation. 
 
+![William Gillies 1920](../assets/william-neal-gillies.jpg){ width="30%" }  
+
+*<small>[William Gillies, 1920](https://commons.wikimedia.org/wiki/File:William_Gillies_1920.jpg) - Queensland State Archives </small>*
 
 ???+ directions "Directions" 
 
     Heading back to the road and moving further along approximately four rows, turn left down the path to see the white and blue painted monuments of William Forgan Smith.
+    
+    ![William Forgan Smith](../assets/william-forgan-smith-headstone.jpg){ width="20%" }  
 
 
 ## William Forgan Smith <small>8‑25‑20/21</small> 
@@ -291,6 +298,8 @@ Anthony Fatseas was born in Smyrna in Turkey in 1909. He finished elementary sch
 ???+ directions "Directions" 
 
     From here continue along Dr Lilian Cooper Drive past the Richer Street entrance to where the trees are standing along the right side of the road. At the third tree locate the grave of Kramer.  Heading along this row and slightly down the hill, three graves in, to the left is the grave of Frederic Charles Urqhart.
+    
+    ![Frederic Charles Urquhart headstone](../assets/frederic-charles-urquhart-headstone.jpg){ width="15%" }
 
 ## Frederic Charles Urquhart <small>(25‑31‑8)</small>
 
