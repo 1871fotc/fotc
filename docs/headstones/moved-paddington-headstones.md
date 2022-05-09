@@ -5,6 +5,8 @@ hide:
   - toc
 ---
 
+--8<-- "snippets/sem/headstones/moved-paddington-headstones.json"
+
 # Moved Paddington Cemetery Headstones
 
 The North Brisbane Burial Grounds were also known as 'Paddington Cemetery' or 'Milton Cemetery'. The burial grounds opened in 1844 and closed in 1875. 
