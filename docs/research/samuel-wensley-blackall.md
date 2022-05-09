@@ -15,6 +15,7 @@ hide:
   "name": "Samuel Wensley Blackall",
   "headline": "Samuel Wensley Blackall - second Governor of Queenland and first person buried in Toowong Cemetery Cemetery",
   "description": "Samuel Wensley Blackall was the second Governor of Queenland and first person buried in Toowong Cemetery Cemetery",
+  "mainEntityOfPage": "https://1871fotc.github.io/fotc/research/samuel-wensley-blackall/",
   "keywords": ["Samuel Wensley Blackall", "Samuel Blackall", "Toowong Cemetery First Burial"],
   "dateModified": "2022-05-09",
   "datePublished": "2022-05-09",
