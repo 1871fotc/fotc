@@ -1,0 +1,86 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+      "@type": "Organization",
+      "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "url": "https://1871fotc.github.io/fotc/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/fotc/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/fotc/",
+      "publisher": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
+      }
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://1871fotc.github.io/fotc/research/samuel-wensley-blackall/",
+      "url": "https://1871fotc.github.io/fotc/research/samuel-wensley-blackall/",
+      "name": "Samuel Wensley Blackall",
+      "isPartOf": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/website/1"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://1871fotc.github.io/fotc/#/schema/person/samuel-wensley-blackall",
+      "givenName": "Samuel",
+      "additionalName": "Wensley",
+      "familyName": "Blackall",
+      "name": "Samuel Wensley Blackall",
+      "sameAs": [
+          "https://en.wikipedia.org/wiki/Samuel_Blackall",
+          "https://adb.anu.edu.au/biography/blackall-samuel-wensley-3004"
+      ],
+      "birthDate": "1809-05-01",
+      "birthPlace": {
+        "@type":"Place",
+          "address": {
+            "@type":"PostalAddress",
+            "addressLocality": "Dublin",
+            "addressRegion": "Dublin",
+            "addressCountry": "Ireland"
+          }
+      },
+      "deathDate": "1871-01-02",
+      "deathPlace": {
+        "@type": "Place",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "Queensland",
+            "addressCountry": "Australia"
+        }
+      }  
+    },
+    {
+      "@type": "Article",
+      "@id": "https://1871fotc.github.io/fotc/#/article/samuel-wensley-blackall/",
+      "name": "Samuel Wensley Blackall",
+      "headline": "Samuel Wensley Blackall - second Governor of Queenland and first person buried in Toowong Cemetery Cemetery",
+      "description": "Samuel Wensley Blackall was the second Governor of Queenland and first person buried in Toowong Cemetery Cemetery",
+      "mainEntityOfPage": "https://1871fotc.github.io/fotc/research/samuel-wensley-blackall/",
+      "keywords": ["Samuel Wensley Blackall", "Samuel Blackall", "Toowong Cemetery First Burial"],
+      "dateModified": "2022-05-09",
+      "datePublished": "2022-05-09",
+      "author": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
+        },  
+      "publisher": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
+        },
+      "isPartOf": {
+           "@id": "https://1871fotc.github.io/fotc/research/samuel-wensley-blackall/"
+        },  
+      "image": ["https://https://1871fotc.github.io/fotc/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/fotc/assets/images/social/research/samuel-wensley-blackall.png"],
+      "about": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/person/samuel-wensley-blackall"
+        }  
+    }
+  ]
+}
+</script>
