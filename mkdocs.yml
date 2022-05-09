@@ -54,6 +54,7 @@ theme:
     - search.highlight
     - search.suggest
     - content.code.annotate
+    - content.tooltips
     - toc.follow
 
 # Customization
