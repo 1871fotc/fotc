@@ -80,7 +80,7 @@ In 1911 the Queensland Government passed the *[Paddington Cemetery Act][Paddingt
 [Paddington Cemetery Act]: http://classic.austlii.edu.au/au/legis/qld/hist_act/pcao19112gvn9298/ "Read the 1911 Paddington Cemetery Act"
 
 
-[Paddington Cemetery]: https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery "Read more about Paddington Cemetery"
+[Paddington Cemetery]: https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/historic-cemeteries/paddington-cemetery 
 
 ![Paddington Cemetery 1910](assets/paddington-cemetery-goat-1910.jpg){ width="70%" } 
 
@@ -102,7 +102,7 @@ The Paddington Memorial commemorates people originally buried in the North Brisb
 
 ## 1921 New Neighbours
 
-Allotments on Heussler Terrace (renamed Birdwood Terrace) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*" was a selling point. The Toowong Tram stopped near the main cemetery gates.
+Allotments on [Heussler Terrace][Heussler Terrace] (renamed Birdwood Terrace) on the North boundary of the cemetery were sold by auction in 1921. "*Convenient to the Toowong Tram Line*" was a selling point. The Toowong Tram stopped near the main cemetery gates.
 
 (Scroll back to the 1946 aerial photo to see how few allotments were built on 25 years later.)
 
@@ -265,4 +265,4 @@ Today, the Friends of Toowong Cemetery and the Brisbane City Council work togeth
 
 *[Birdwood Terrace]: Field Marshal William Riddell Birdwood commanded the Australian Corps for much of the First World War. 
 
-*[Heussler Terrace]: Johann (John) Christian Heussler (1820–1907) was a Member of Queensland's Upper House (1866-1907)
+[Heussler Terrace]: research/johann-christian-heussler.md "Read the story of Johann (John) Christian Heussler (1820–1907)"
