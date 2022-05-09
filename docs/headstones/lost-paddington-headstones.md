@@ -5,6 +5,8 @@ hide:
   - toc
 ---
 
+--8<-- "snippets/sem/research/lost-paddington-headstones.json"
+
 # Lost Paddington Cemetery Headstones 
 
 By 1914, headstones from the closed Paddington Cemetery that hadn't been relocated to other cemeteries were placed in a reserved area beside [Christ Church Milton](https://apps.des.qld.gov.au/heritage-register/detail/?id=600252). 
