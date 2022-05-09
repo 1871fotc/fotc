@@ -5,7 +5,7 @@ hide:
   - navigation
 ---
 
---8<-- "snippets/metadata-home.json"
+--8<-- "snippets/sem/home.json"
 
 # Friends of Toowong Cemetery
 

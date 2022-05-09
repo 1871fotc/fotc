@@ -1,0 +1,66 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+    "@type": "Organization",
+    "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://1871fotc.github.io/fotc/",
+    "sameAs": ["https://www.facebook.com/1871fotc/", "https://github.com/1871fotc", "https://abr.business.gov.au/ABN/View?id=12868524011", "https://www.acnc.gov.au/charity/charities/cbe72786-39af-e811-a963-000d3ad24077/profile"
+    ],
+    "logo": "https://1871fotc.github.io/fotc/assets/fotc.png",
+    "image": [
+      "https://1871fotc.github.io/fotc/assets/logo/fotc-1x1.png",
+      "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-4x3.png",
+      "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-16x9.png"
+    ],
+    "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
+    "slogan": "Discover and share the history and stories of Toowong Cemetery",
+    "email": "mailto:inquiries@fotc.org.au",
+    "telephone": "0439998053",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "Australia",
+      "addressLocality": "Toowong",
+      "addressRegion": "Queensland",
+      "postalCode": "4066",
+      "name": "Friends of Toowong Cemetery Association Inc.",
+      "postOfficeBoxNumber": "808"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/fotc/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/fotc/",
+      "about": {
+        "@type": "Place",
+        "name": "Toowong Cemetery",
+        "sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"   
+      },
+      "keywords": ["Toowong Cemetery History", "Toowong Cemetery Walks", "Toowong Cemetery Stories", "Toowong Cemetery Headstones", "Toowong Cemetery Tours", "Friends of Toowong Cemetery"],
+      "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
+      "temporalCoverage": "1831/..",
+      "inLanguage": "en",
+      "publisher": {"@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"}
+    },  
+    {
+      "@type": "WebPage",
+      "@id": "https://1871fotc.github.io/fotc/",
+      "url": "https://1871fotc.github.io/fotc/",
+      "inLanguage": "en",
+      "name": "Friends of Toowong Cemetery",
+      "isPartOf": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/website/1"
+      },
+      "about": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
+      },
+      "dateModified": "2022-05-09",
+      "datePublished": "2022-05-09",
+      "description": "Discover and share the history and stories of Toowong Cemetery"
+    }
+  ]
+}
+</script>

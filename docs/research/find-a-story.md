@@ -4,7 +4,7 @@ search:
   exclude: true
 ---
 
---8<-- "snippets/metadata-story-index.json"
+--8<-- "snippets/sem/research/find-a-story.json"
 
 # Find a Story 
 
