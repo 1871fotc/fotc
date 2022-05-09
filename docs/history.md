@@ -14,7 +14,7 @@ description: Discover the history of Toowong Cemetery
 
 Prior to 1875, the flat area where the entrance of Toowong Cemetery now stands was an [Aboriginal Corroboree Ground][Corroboree]. "Toowong" is a corruption of "[Tu-wong][tu-wong]", purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
 
-[Corroboree]: https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/ "From 'Aboriginal Campsites of Greater Brisbane' by Ray Kerkhove, 2015"
+[Corroboree]: https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/ 
 
 [tu-wong]: http://www.toowong.org.au/books_for_sale.htm "From 'Aboriginal people of Toowong' by Arthur Beau Palmer, in 'Toowong: A community's history' by West Toowong Community Association Inc."
 
@@ -33,7 +33,7 @@ The land for the cemetery was first reserved in 1866. The reserve of 250 acres 1
 
 **[Colonel Samuel Wensley Blackall][Blackall]**, the second Governor of Queensland, was the first person buried in Toowong Cemetery on 3 January 1871. 
 
-[Blackall]: research/samuel-wensley-blackall.md "Read Colonel Samuel Wensley Blackall's story"
+[Blackall]: research/samuel-wensley-blackall.md 
 
 
 ## 1875 Toowong Cemetery opened
@@ -56,7 +56,7 @@ The Toowong Cemetery, previously known as the Brisbane General Cemetery, is the 
 
 [![Map and aerial photo of Toowong Cemetery][map-photo]{ width="96%" }][aerial-photo]  
 
-[map-photo]: assets/Toowong-cemetery-map-photo.jpg "Click to view full aerial photo"
+[map-photo]: assets/Toowong-cemetery-map-photo.jpg "Click to view the full aerial photo"
 [aerial-photo]: assets/toowong-cemetery-aerial-photo-1946.jpg
 
 *<small>[Brisbane General Cemetery (Toowong) - General Plan, 8 July 1909](https://www.archivessearch.qld.gov.au/items/ITM1624111) — [Queensland State Archives](https://www.qld.gov.au/recreation/arts/heritage/archives).</small>* <br>
