@@ -5,15 +5,9 @@ search:
   boost: 2  
 ---
 
-<!-- Hide Navigation sidebar contents on desktop -->
+--8<-- "snippets/sem/contact.json"
 
-<style>
-@media screen and (min-width: 76.25em) {
-  .md-nav--primary {
-    display: none
-  }
-}
-</style>
+--8<-- "snippets/hide-nav.html"
 
 
 # Contact Us 

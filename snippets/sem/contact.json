@@ -18,20 +18,20 @@
         }
     },
     {
-      "@type": "AboutPage",
-      "@id": "https://1871fotc.github.io/fotc/about/",
-      "url": "https://1871fotc.github.io/fotc/about/",
+      "@type": "ContactPage",
+      "@id": "https://1871fotc.github.io/fotc/contact/",
+      "url": "https://1871fotc.github.io/fotc/contact/",
       "inLanguage": "en",
-      "name": "About Friends of Toowong Cemetery",
+      "name": "Contact Friends of Toowong Cemetery",
       "isPartOf": {
           "@id": "https://1871fotc.github.io/fotc/#/schema/website/1"
-        },
+      },
       "about": {
           "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
-        },
+      },
       "dateModified": "2022-05-09",
       "datePublished": "2022-05-09",
-      "description": "Learn what Friends of Toowong Cemetery do, what we've done, what we're working on, and how you can join in",
+      "description": "Contact Friends of Toowong Cemetery",
       "author": {"@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"}
     }
   ]

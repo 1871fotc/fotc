@@ -59,6 +59,7 @@
       },
       "dateModified": "2022-05-09",
       "datePublished": "2022-05-09",
+      "author": {"@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"},
       "description": "Discover and share the history and stories of Toowong Cemetery"
     }
   ]
