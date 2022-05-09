@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
---8<-- "snippets/sem/research/lost-paddington-headstones.json"
+--8<-- "snippets/sem/headstones/lost-paddington-headstones.json"
 
 # Lost Paddington Cemetery Headstones 
 
