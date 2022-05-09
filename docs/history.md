@@ -2,6 +2,7 @@
 title: Toowong Cemetery History
 description: Discover the history of Toowong Cemetery
 ---
+--8<-- "snippets/sem/history.json"
 
 --8<-- "snippets/hide-nav.html"
 
