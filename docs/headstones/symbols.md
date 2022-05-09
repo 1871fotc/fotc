@@ -86,8 +86,8 @@ Urns are a Greek symbol of mourning and represent the process of death, where th
 
 Animals symbolise the character of the deceased. Lambs were often used as a symbol of innocence and found on the graves of children, while lions were used as a symbol of courage. Visit the grave of heavyweight boxing champion Peter Jackson (5-28-1) which is adorned with a lion.
 
-![Lion](../assets/lion.jpg){ width="70%" }
-<!-- add caption and grave id -->
+<img class="full-width" src="../../assets/lion.jpg" alt="Lion" width="70%">
+
 
 ## IHS Emblem
 
