@@ -37,8 +37,8 @@
       "about": {
         "@type": "Place",
         "name": "Toowong Cemetery",
-        "sameAs": "https://en.wikipedia.org/wiki/Toowong_Cemetery"   
-      },
+        "sameAs": ["https://en.wikipedia.org/wiki/Toowong_Cemetery", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"]
+        },
       "keywords": ["Toowong Cemetery History", "Toowong Cemetery Walks", "Toowong Cemetery Stories", "Toowong Cemetery Headstones", "Toowong Cemetery Tours", "Friends of Toowong Cemetery"],
       "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
       "temporalCoverage": "1831/..",
