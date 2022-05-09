@@ -6,13 +6,7 @@
   "description":"People mentioned in Friends of Toowong Cemetery stories",
   "url":"https://1871fotc.github.io/fotc/research/find-a-story/", 
   "alternateName": "Toowong Cemetery Story Index",
-  "keywords":[
-     "Cemetery",
-     "Grave",
-     "Person",
-     "Story",
-     "Biography"
-  ],
+  "keywords": "Toowong Cemetery Stories",
   "license" : "https://creativecommons.org/licenses/by/4.0/",
   "isAccessibleForFree" : true,
   "creator":{
