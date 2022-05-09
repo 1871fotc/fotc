@@ -1,10 +1,12 @@
 ---
 title: About Us
-description: What we do, what we've done, and what we're working on, and how you can join in 
+description: What we do, what we've done, what we're working on, and how you can join in 
 
 search:
   boost: 2  
 ---
+
+--8<-- "snippets/sem/about.json"
 
 # About Us 
 
