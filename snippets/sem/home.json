@@ -42,7 +42,7 @@
       "keywords": ["Toowong Cemetery History", "Toowong Cemetery Walks", "Toowong Cemetery Stories", "Toowong Cemetery Headstones", "Toowong Cemetery Tours", "Friends of Toowong Cemetery"],
       "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
       "temporalCoverage": "1831/..",
-      "inLanguage": "en",
+      "inLanguage": "en-GB",
       "publisher": {"@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"}
     },  
     {
