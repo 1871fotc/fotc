@@ -1,0 +1,39 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph":[
+    {
+    "@type": "Organization",
+    "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1",
+    "name": "Friends of Toowong Cemetery Association Inc.",
+    "url": "https://1871fotc.github.io/fotc/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://1871fotc.github.io/fotc/#/schema/website/1",
+      "name": "Friends of Toowong Cemetery",
+      "url": "https://1871fotc.github.io/fotc/",
+      "publisher": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
+        }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://1871fotc.github.io/fotc/stories/",
+      "url": "https://1871fotc.github.io/fotc/stories/",
+      "inLanguage": "en-GB",
+      "name": "Toowong Cemetery Stories and Walks",
+      "isPartOf": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/website/1"
+        },
+      "about": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
+        },
+      "dateModified": "2022-05-14",
+      "datePublished": "2022-05-14",
+      "description": "Stories and walks to discover the people remembered in Toowong Cemetery",
+      "author": {"@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"}
+    }
+  ]
+}
+</script>
