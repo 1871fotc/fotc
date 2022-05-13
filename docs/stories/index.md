@@ -5,7 +5,10 @@ search:
   boost: 2
 ---
 
+--8<-- "snippets/sem/stories/index.json"
+
 --8<-- "snippets/hide-nav.html"
+
 
 
 # Toowong Cemetery Stories and Walks
