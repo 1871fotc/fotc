@@ -33,7 +33,7 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 
  -->
 
-## Politics
+## Political stories
 
 - **[The Federation walk][federation-walk]** :fontawesome-solid-person-walking: - commemorating four Queensland delegates to the 1891 National Australasian Convention
 - **[Governors][governors-past]** - visit some of Queensland's earliest Governors
@@ -42,14 +42,16 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
 - **[The Great Shearers' Strike of 1891](shearers-strike.md)**
 
-## Local Identities
+## Local stories
 
 - **[Founding Fathers][founding-fathers]** - members of the first Brisbane General Cemetery Trust
 - **[Notable Women][notable-women]** - Women who shaped Queensland
 - **[Toowong Identities][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
-- **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
+- **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
+- **[The Convicts][convicts]** - connections to our convict past
+ 
 
-## Professions
+## Stories by Profession
 
 - **[Artists][artists]** - discover famous local artists
 - **[Health Professionals][nurses]** - commemorating Nurses, Doctors and other health professionals 
@@ -59,11 +61,12 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Police][thin-blue-line]** - remembering Queensland Colonial Police
 - **[Print Media Identities of Early Brisbane][printers]** 
 - **[More Print Media Identities of Early Brisbane][printers2]** 
+- **[Propectors](prospectors.md)** 
 - **[Sporting Personalities][sporting-personalities]** 
 - **[Railway People][railway]** - A Journey from Sevastopol to Brunswick Street
 - **[Undertakers][undertakers]**
 
-## Military 
+## Military stories
 
 - **[Colonial Conflicts][colonial-conflicts]**
 - **[Lest We Forget][lest-we-forget]** - remembering the men and women who gave their lives in service to their country
@@ -74,28 +77,26 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Conflict and Compassion](conflict-and-compassion.md)** 
 
 <!-- - **[Toowong Cemetery Remembrance Walk][remembrance-walk]** - explore the lives of Queensland's volunteer troops and take a moment to reflect on the service and sacrifice for which the Anzac Legend is known. -->
-## Birds of a feather 
+## Community stories 
 
-- **[The Children][children]** - Suffer the little children, and forbid them not, to come unto me
-- **[The Convicts][convicts]** - connections to our convict past
 - **[The Irish][irish]** 
 - **[The Lutheran][lutheran]** 
 - **[The Jewish walk][jewish]** :fontawesome-solid-person-walking: - A self-guided walk around Portion 3
 
 ## Other themed stories
 
-- **[Steam](steam.md)** 
+- **[Steam](steam.md)** - stories about our steam-driven past
 - **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
-- **[Propectors](prospectors.md)** 
 - **[Erected by Friends and Family](erected-by-friends.md)** 
 - **[Christmas](christmas.md)** 
 - **[At the mercy of the weather](weather.md)** 
 - **[20/20 Vision](2020-vision.md)**  
 - **[Rich man, Poor man](rich-man-poor-man.md)** 
 - **[Taken before their time](taken-before-their-time.md)** 
+- **[Children][children]** - Suffer the little children, and forbid them not, to come unto me
 - **[Mothers](mothers.md)** 
 
-## Portion stories 
+## Stories by Portion  
 
 - **[Portion 5 - part 1](portion5-part1.md)** 
 - **[Portion 5 - part 2](portion5-part2.md)** 
