@@ -52,7 +52,7 @@
       "@type": "Place",
       "@id": "https://1871fotc.github.io/fotc/#/schema/place/1",
       "name": "Toowong Cemetery",
-      "sameAs": ["https://www.wikidata.org/wiki/Q7824339", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"]
+      "sameAs": ["https://www.wikidata.org/wiki/Q7824339", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery", "https://en.wikipedia.org/wiki/Toowong_Cemetery"]
     },
     {
       "@type": "WebSite",
