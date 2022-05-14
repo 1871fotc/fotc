@@ -6,6 +6,8 @@ hide:
 
 # Taken before their time
 
+**Stories about people remembered in Toowong Cemetery that were taken before their time**.
+
 
 <!--
 ???+ directions "Directions" 

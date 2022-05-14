@@ -8,13 +8,14 @@ hide:
 
 # Toowong Identities
 
-<!--
-**A Heritage Walk to commemorate the centenary of the Proclamation of the Town of Toowong in 1903.**
--->
+**Stories to commemorate the centenary of the proclamation of the Town of Toowong in 1903**.
 
-On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the population numbered about 4700. The town grew rapidly, reaching 10,000 residents by 1922. Three years later the Toowong Town Council was absorbed into the Brisbane City Council.^1^ In August 2003, community celebrations were held to mark the centenary. 
+On 19 August 1903, the Shire of Toowong was proclaimed a town. At the time, the population numbered about 4700. The town grew rapidly, reaching 10,000 residents by 1922. Three years later the Toowong Town Council was absorbed into the Brisbane City Council.^1^ 
+
+<!-- In August 2003, community celebrations were held to mark the centenary. 
 
 These stories were conceived as part of commemorative activities. It features only a small number of those former Toowong residents and associates who contributed in some way to Toowong’s social history. 
+-->
 
 <!--
 [![Map](../assets/toowong-identities-1-map.png){ width="40%" }](../assets/toowong-identities-1-map-sml.jpg)

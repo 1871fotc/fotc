@@ -71,13 +71,3 @@ Compiled and presented by Lyn Maddock
 - [Sir Charles Lilley QC](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/clilley) - Supreme Court Library Queensland
 
 <!-- https://hecate.communications-arts.uq.edu.au/files/4639/Centenary%20of%20Women%27s%20Suffrage%20in%20Queensland.pdf -->
-
-<!--
-<div class="noprint" markdown="1">
-
-## Brochure
-
-**[Download this walk](../assets/guides/sufferage.pdf)** - designed to be printed and folded in half to make an A5 brochure.
-
-</div>
--->

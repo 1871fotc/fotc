@@ -13,9 +13,9 @@ search:
 
 # Toowong Cemetery Stories and Walks
 
-The Friends of Toowong Cemetery have researched and published **[over 500 stories](../research/find-a-story.md)** about people remembered at the cemetery. 
+The Friends of Toowong Cemetery have published **[over 500 individual stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
-There are **over 40 themed story collections** below, or discover more in **[our publications](../about/publications.md)**.
+Individual stories have been grouped into **over 40 themed story collections** below.
 
 ![State Library of Queensland's reading room, Brisbane, 1902](../assets/slq-reading-room-1902-16x9.jpg)
 
