@@ -9,6 +9,8 @@ hide:
 
 # The Great Shearers' Strike of 1891
 
+**The Great Shearers' Strike occurred in central Queensland where shearers fought against wealthy squatters for better working conditions.**
+
 ![Contingent of soldiers preparing to ride west during the shearer's strike, 1891](../assets/soldiers-shearers-strike.jpg)
 
 *<small>[Contingent of soldiers preparing to ride west during the shearer's strike, 1891](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21270205600002061) -  State Library of Queensland. Cropped.</small>*
@@ -75,6 +77,10 @@ Emma Miller (1839-1917) was known as a pioneer of the trade union movement and t
 - [The Honourable George Harding](https://www.sclqld.org.au/judicial-papers/judicial-profiles/profiles/grharding) - Supreme Court Library Queensland
 - [Harding, George Rogers (1838–1895)](https://adb.anu.edu.au/biography/harding-george-rogers-3712) - Australian Dictionary of Biography
 - www.naa.gov.au/collection/explore/federation/constitution-website/stories/call-to-action/pods/sir-samuel-griffith-1891/index.html *(broken link)*
+
+## Learn more 
+
+- [Shearers’ Strike 1891](https://www.slq.qld.gov.au/blog/shearers-strike-1891) - State Library of Queensland
 
 
 <!--
