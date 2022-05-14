@@ -21,7 +21,7 @@
       "@type": "ContactPage",
       "@id": "https://1871fotc.github.io/fotc/contact/",
       "url": "https://1871fotc.github.io/fotc/contact/",
-      "inLanguage": "en-GB",
+      "inLanguage": "en",
       "name": "Contact Friends of Toowong Cemetery",
       "isPartOf": {
           "@id": "https://1871fotc.github.io/fotc/#/schema/website/1"

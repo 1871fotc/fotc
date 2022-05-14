@@ -30,20 +30,26 @@
       }
     },
     {
+      "@type": "Place",
+      "@id": "https://1871fotc.github.io/fotc/#/schema/place/1",
+      "name": "Toowong Cemetery",
+      "sameAs": ["https://en.wikipedia.org/wiki/Toowong_Cemetery", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"]
+    },
+    {
       "@type": "WebSite",
       "@id": "https://1871fotc.github.io/fotc/#/schema/website/1",
       "name": "Friends of Toowong Cemetery",
       "url": "https://1871fotc.github.io/fotc/",
       "about": {
-        "@type": "Place",
-        "name": "Toowong Cemetery",
-        "sameAs": ["https://en.wikipedia.org/wiki/Toowong_Cemetery", "https://www.brisbane.qld.gov.au/community-and-safety/community-support/cemeteries/toowong-cemetery"]
+          "@id": "https://1871fotc.github.io/fotc/#/schema/place/1"
         },
       "keywords": ["Toowong Cemetery History", "Toowong Cemetery Walks", "Toowong Cemetery Stories", "Toowong Cemetery Headstones", "Toowong Cemetery Tours", "Friends of Toowong Cemetery"],
       "description": "Friends of Toowong Cemetery is a volunteer group that discover and share the history and stories of Toowong Cemetery.",
       "temporalCoverage": "1831/..",
-      "inLanguage": "en-GB",
-      "publisher": {"@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"}
+      "inLanguage": "en",
+      "publisher": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
+        }
     },  
     {
       "@type": "WebPage",
@@ -55,11 +61,13 @@
           "@id": "https://1871fotc.github.io/fotc/#/schema/website/1"
       },
       "about": {
-          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
-      },
+          "@id": "https://1871fotc.github.io/fotc/#/schema/place/1"
+        },
       "dateModified": "2022-05-09",
       "datePublished": "2022-05-09",
-      "author": {"@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"},
+      "author": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
+        },
       "description": "Discover and share the history and stories of Toowong Cemetery"
     }
   ]
