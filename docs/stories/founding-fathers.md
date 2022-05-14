@@ -20,9 +20,18 @@ John Petrie was born on 15 January 1822 at Edinburgh, eldest son of Andrew Petri
 
 On 5 September 1850 Petrie married Jane Keith, daughter of Daniel McNaught of Dunbarton, Scotland. The family grew to five sons and five daughters. John Petrie was public‑spirited and held many important offices. He topped the poll in Brisbane's first municipal election in 1859 and was mayor three times by 1862 and served as an alderman until 1867. He was also an active member of the first Masonic lodge in Queensland. A staunch Presbyterian, he was an elder and worked on building St Paul's Church. John Petrie died on 8 December 1892.
 
+![Signed photograph of John Petrie](../assets/john-petrie-signed.jpg){ width="40%" }  
+
+*<small>[Signed photograph of John Petrie](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220089340002061) — State Library of Queensland.</small>* 
+
 ## George Edmondstone <small>(13‑20‑5)</small>
 
 George Edmondstone was born in Edinburgh, Scotland, on 4 May 1809 son of William Edmondstone and Alexandrina Farquhar. In 1832, he arrived in New South Wales and had businesses in Sydney and Maitland. On 10 July 1837 in Sydney he married Alexis Watson Tilleray. In 1840 he purchased Normanby Plains Station in Queensland. He sold this in 1842 and was one of the early free settlers in Brisbane, working as a butcher. He was an alderman in Brisbane 1859-66 and the mayor 1863-64. In the Queensland Legislative Assembly he represented East Moreton in 1860-67, Brisbane in 1869-73 and Wickham in 1873-77. He retired from business because of a heart complaint and died at his home in Breakfast Creek on 23 February 1883.
+
+![Monument erected to the memory of George Edmondstone](../assets/george-edmondstone-monument.jpg){ width="65%" }  ![Alderman George Edmonstone](../assets/george-edmondstone.jpg){ width="29.425%" } 
+
+*<small>[Monument erected to the memory of George Edmondstone](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218962980002061). Died 23 February 1883. His widow Mrs Alexa Edmondstone, who died in Brisbane in 1887, is also buried there. — State Library of Queensland.</small>*  <br>
+*<small>[Alderman George Edmonstone](https://library-brisbane.ent.sirsidynix.net.au/client/en_AU/BrisbaneImages/search/results?qu=Alderman+George+Edmonstone&rm=BRISBANEIMAGES0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue&te=ASSET&lm=ALL_ASSETS) — Brisbane City Council.</small>*
 
 
 ## John Melville <small>(9‑10‑14)</small>
@@ -41,20 +50,18 @@ Griffith was born in Merthyr Tydfil, Wales and migrated to Australia as a child.
 
 In 1893 Griffith left government to become Chief Justice of Queensland and from 1903 to 1919 was the first Chief Justice of the High Court of Australia. During this period he translated Dante’s Divine Comedy from Italian, which was published by Oxford University Press in 1911. He died on 9 August 1920 at his grand home Merthyr which gave its name to a locality in New Farm. The funeral cortege was described by the Daily Mail as the largest ever seen in Brisbane.
 
+![Sir Samuel Walker Griffith in 1912-1913](../assets/samuel-walker-griffith-1913.jpg){ width="40%" }  
+
+*<small>[Sir Samuel Walker Griffith in 1912-1913](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218748680002061) — State Library of Queensland.</small>* 
+
 ## John Hardgrave <small>(14‑22‑2/3)</small>
 
 John Hardgrave, a local politician and lord mayor of Brisbane, was born in Wicklow, Ireland, in 1826. He arrived in Sydney in 1843 and moved to Brisbane in 1848. In 1860 he purchased 6 acres (2.4 hectares) of land in the Brisbane suburb of West End. Hardgrave Road in West End is named after him. He was in the boot trade to 1862 and was involved in local government from 1867 to 1890. He was mayor of Brisbane in 1868 and 1870, first chairman of the Woolloongabba Divisional Board, alderman for South Brisbane from 1888 to 1890, and chairman of the Waterworks Board from 1893. He died in Brisbane on 8 November 1906 and was interred in the family grave.
 
+![John Hardgrave, early resident and mayor of Brisbane, 1868-1869](../assets/john-hardgrave.jpg){ width="40%" }  
+
+*<small>[John Hardgrave, early resident and mayor of Brisbane, 1868-1869](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool111232) — State Library of Queensland.</small>*
 
 --8<-- "snippets/william-pettigrew.md"
 
 --8<-- "snippets/nathaniel-lade.md"
-
-<!--
-<div class="noprint" markdown="1">
-## Brochure
-
-**[Download this walk](../assets/guides/founding-fathers.pdf)** - designed to be printed and folded in half to make an A5 brochure.
-
-</div>
--->
