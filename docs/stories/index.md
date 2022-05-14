@@ -36,8 +36,8 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 ## Political stories
 
 - **[The Federation walk][federation-walk]** :fontawesome-solid-person-walking: - commemorating four Queensland delegates to the 1891 National Australasian Convention
-- **[Governors][governors-past]** - visit some of Queensland's earliest Governors
-- **[Brisbane Mayors][brisbane-mayors]** - learn about 14 Brisbane Mayors from 1859 to 1931
+- **[Governors][governors-past]** - some of Queensland's earliest Governors (1868 to 1919) are buried in Toowong Cemetery
+- **[Brisbane Mayors][brisbane-mayors]** - 14 Brisbane Mayors (1859 to 1931) are buried in Toowong Cemetery
 - **[One Adult, One Vote][suffrage]** - Queensland's own suffrage story 
 - **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
 - **[The Great Shearers' Strike of 1891](shearers-strike.md)**
