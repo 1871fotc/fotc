@@ -51,7 +51,7 @@ Tours are on the first Sunday of each month (March to December) from 10:30 to 12
 
 ![Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](assets/masks-1919.jpg) 
 
-*<small>[Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218113110002061), — State Library of Queensland</small>*
+*<small>[Women wearing surgical masks during the influenza epidemic, Brisbane, 1919](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218113110002061), — State Library of Queensland. Cropped.</small>*
 
 <!--
 ## 6 March 2022
