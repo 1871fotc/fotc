@@ -1,12 +1,13 @@
 ---
 date: 17 September 2010
+description: Stories about past Queensland Governors, Lieutenant-Governors, and Administrators
 hide:
   - navigation
 ---
 
 --8<-- "snippets/sem/stories/governors.json"
 
-# Governors  
+# Queensland Governors  
 
 **Past Governors, Lieutenant-Governors, and Administrators of Queensland**
 
