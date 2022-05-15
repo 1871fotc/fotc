@@ -26,24 +26,8 @@ This gently sloping walk shares some of the history and stories to be found alon
     - :fontawesome-solid-person-walking:{ .deep-purple } Begin the walk at Shelter Shed at the start of Federation Avenue. 
     - Opposite the Shelter Shed is the grave of Lachlan Chisholm Wilson.
 
+--8<-- "snippets/lachlan-chisholm-wilson.md"
 
-## Lachlan Chisholm Wilson <small>(8‑9‑1/2)</small> 
-
-1871‑1947
-
-[Lachlan Chisholm Wilson](https://adb.anu.edu.au/biography/wilson-lachlan-chisholm-9142/text16131) was born on 11 July 1871 at Logan River, Queensland. With the exception of Victoria Cross recipient, Charles Heaphy (1820‑1881, buried at Portion 1‑5‑34) he is the most decorated soldier in Toowong Cemetery.  
-
-Educated at Brisbane Grammar School, Wilson began and ended his life as a lawyer, first admitted to the Queensland Bar in 1895. First practicing in Townsville, he later returned to Brisbane where he entered into a partnership with E. K. Tully to form one of Queensland's leading law firms. He later extended his business interests, becoming a director of the Australian Mutual Provident Society. During this time, he was also able to foster one of his personal interests, the welfare of ex‑servicemen and women, and cofounded Legacy. 
-
-Aside from his work as a lawyer, Wilson also served his country, joining the Australian Imperial Force as a Major on 30 September 1914 and landing at Gallipoli in May. As the new commander, he mounted a successful raid against Bird Trenches near Gaba Tepe and seized positions now known as Wilson's Lookout. Taking part in almost all the major engagements between the Battle of Romani (3‑5 August 1916) and the capture of Damascus (October 1918), Wilson was also instrumental in introducing the Queensland spear‑point pump to obtain water in the desert. This portable device could raise water quickly and when combined with canvas troughs, simplified the watering of the horses.
-
-Wilson continued his military service through Jordan and Egypt and notably managed a rebellion which broke out against the British. For his management of this conflict, Wilson was awarded the Distinguished Service Order and the French Croix de Guerre. After a brief period on the unattached list, Australian Military Forces, Wilson became aide‑de‑camp to the Governor‑General in 1923‑1927 and commander of a number of other infantry and cavalry brigades.
-
-Wilson died at his New Farm home on 7 April 1947, survived by his wife, son and daughter.
-
-![Brigadier-General Lachlan Chisholm Wilson presenting a field gun at Brisbane Grammar School Queensland 1921](../assets/lachlan-chisholm-wilson.jpg){ width="90%" }
-
-*<small>[Brigadier-General Lachlan Chisholm Wilson presenting a field gun at Brisbane Grammar School Queensland 1921](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21257852870002061) - State Library of Queensland. Cropped.</small>*
 
 ???+ directions "Directions" 
 
@@ -51,69 +35,31 @@ Wilson died at his New Farm home on 7 April 1947, survived by his wife, son and 
     - Close to the edge of the road is the grave of George Henderson.
 
 
-## George Henderson <small>(8‑13‑26)</small> 
+--8<-- "snippets/george-henderson.md"
 
-1859‑1936
-
-Through his contact with relatives of the famed Doctor Livingstone, George Henderson developed an interest in Africa. After meeting with the Rebel Chief Cetewayo Zulu, he managed to influence railway construction there. Returning to the United Kingdom, then moving to Queensland, Henderson became heavily involved in Brisbane’s development. Initially he worked to develop and construct storm water drainage in South Brisbane and Kangaroo Point, was responsible for ploughing and paving with wooden blocks both George and Queen streets, and contributed to the construction of railway lines between Cleveland, Charleville, Cloncurry, Chillagoe, parts of the north coastline, and Eagle Farm Meatworks.
-
-<!--
-![Eagle Farm Meatworks](../assets/queensland-meatworks-1900.jpg)
-
-*<small>[Queensland Meat Export and Agency Company at Eagle Farm, Brisbane, ca. 1900](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220166330002061) - State Library of Queensland. </small>*
-
---> 
 
 ???+ directions "Directions" 
 
     Moving further along the road and off to the right is the black granite monument of the McWhirter family.
 
-## James McWhirter Junior <small>(18‑98‑3/7)</small> 
 
-1878‑1919
-
-James McWhirter Junior, the only son of James and Agnes McWhirter (née Cameron), played a significant part in developing the centre of Fortitude Valley, working with his father to build a premier shopping precinct, which is now a [Queensland heritage‑listed place](https://apps.des.qld.gov.au/heritage-register/detail/?id=600214).  
-
-James McWhirter Junior was born in 1878 in Scotland. His father and mother immigrated to Australia that same year. He married Adelaide Mary Reid in January 1906, but she died tragically nine months later, giving birth to their son Duncan. He remarried in 1910 to Mary Millicent Atkins and had several children with her. 
-
-Encouraged by the new styles of shopping in London, the McWhirters commissioned Brisbane architects Atkinson and McLay to design a substantial, five‑storey building. When completed in 1912 it became an immediate Fortitude Valley landmark, seen for miles around, and dominating the Valley corner.  No expense had been spared and on its opening in October 1912, delivered the most modern and progressive of department stores. On the ground level, extensive street frontages displayed the latest in island windows and the five street entrances displayed mosaic tiling and lead lights in the main foyer. The interior was well‑ventilated and well‑lit and completed with fittings of silky oak display tables which allowed customers to browse and inspect goods without being dependent on sales assistants.
-
-McWhirters was also one of the first department stores fitted with sprinkler systems for fire prevention and three electric elevators for the convenience of customers. The pneumatic cash tube system was also the largest in the state. The grand new store housed more than 50 departments, including manchester, fabric, haberdashery, jewellery, travel goods, and of course millinery and women's clothing as well as furniture, carpets, kitchenware and toys. For the convenience of customers, a tea room also overlooked the Brisbane River and suburbs. 
-
-James McWhirter Junior died in Sydney in September 1919 of pneumonia. Such was McWhirter’s popularity and standing in Brisbane’s social elite that his funeral was held in Brisbane on 19 September 1919 at the Ann Street Presbyterian Church, with many would‑be attendees unable to be admitted into the church due to lack of space. He was survived by his father, James McWhirter Senior, his widow and children.
-
-![McWhirter's department store in Fortitude Valley, 1913](../assets/mcwhirters-department-store-1913.jpg){ width="90%" }
-
-*<small>[McWhirter's department store in Fortitude Valley, 1913](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298085210002061) - State Library of Queensland. </small>*
+--8<-- "snippets/james-mcwhirter.md"
 
 
 ???+ directions "Directions" 
 
     Immediately to the other side of the road is the monument of Charles Foggitt.
 
-## Charles Foggitt <small>(8‑15‑13/14)</small> 
+--8<-- "snippets/charles-foggitt.md"
 
-1864‑1926
-
-Charles Emanuel Foggitt, born in Yorkshire in 1864, was a director of the firm Foggitt Jones and Company Limited (Foggitt Jones Limited from 1921). Foggitt immigrated to Australia in 1886 at the age of 22, establishing himself in Brisbane. He married Sarah Ann Malins in 1889, and for many years was associated with food manufacturing firm, J. C. Hutton Propriety Limited, based in Zillmere and Oxley. 
-
-Foggitt possessed exceptional business intelligence. In 1904 Foggitt left J. C. Hutton Propriety Limited and founded Foggitt, Jones and Company Limited with Thomas Llewellyn Jones in 1905, producing ham, bacon and smallgoods. They took over the Hutton’s factory in Oxley, which was in financial distress, and within five years the company was generating an annual turnover of £1,000,000. The company gradually expanded into other states and their storage shed at 1 Boundary Street, South Brisbane, built circa 1917 in response to this growth, is now a local heritage place. Foggitt Jones Limited continued to grow throughout the early 20^th^ Century and provisioned supplies to Australian troops during WWII.  
-
-Foggitt lived with his family at *Tarrangower*, Chatsworth Road, Greenslopes. He died on 13 July 1926 after a short illness and was survived by his wife Sarah, three sons and a daughter. 
 
 ???+ directions "Directions" 
 
     Almost immediately in line with this grave, but three rows further along, is the grave of George Harrap.
 
-## George Harrap <small>(8‑19‑8A)</small> 
 
-1843‑1934   
+--8<-- "snippets/george-harrap.md"
 
-George Harrap was born in Yorkshire, England in 1843 and trained as a teacher at the famous St Mark’s College, Chelsea, London. He taught in England from 1857‑1872, when he immigrated to Queensland under an engagement with the Queensland Education Department. He was appointed head teacher at the Bulimba State School for a year before being transferred first to North Ipswich and then Woolloongabba in 1884. He was appointed Inspector of Schools in January 1887 and served in this capacity throughout most of Queensland. He retired in 1914, and was recognised as pioneering education in Queensland’s far north.  
-
-Harrap married Elizabeth Brown in Lincolnshire, England in 1867 and had seven children. His son George was born on board the ship *Royal Dane* enroute to Australia.
-
-Harrap died in January 1934 at the age of 91 at his daughter’s residence in Ascog Terrace, Toowong. He was well known for his love of sports and was described in his obituary as a “man of striking physique” who “retained his physique and stamina until a few months before his death”.
 
 ???+ directions "Directions" 
 
@@ -193,81 +139,26 @@ https://vimeo.com/176117452
 
     Returning to the road and moving ahead approximately 20 meters, immediately to the left of the road are the graves of Alois Wilhelm Leitner and Robert William Black.
 
-## Alois Wilhelm Leitner <small>(8‑40‑16A)</small> 
 
-1878‑1931
+--8<-- "snippets/alois-wilhelm-leitner.md"
 
-Alois Wilhelm "Bill" Leitner was born in 1878 in the town of Lichtenstadt in Bohemia, now known as part of the Czech Republic. Leitner attained the degree of Master Brewer in 1902, emigrated to Australia and spent the next 18 years working in breweries across Victoria, New South Wales and South Australia. 
+--8<-- "snippets/william-robert-black.md"
 
-In 1910, the Castlemaine XXXX Brewery famously set out to develop a beer they believed would be better suited to the Queensland climate than those currently being sold which were modelled on the Victorian styles of the late 1880s. The XXXX Sparkling Ale, while receiving an enthusiastic reception by the Queensland public, was plagued with production problems. And so it was that Leitner was recruited to Castlemaine XXXX in 1920. Almost immediately he introduced new strains of yeast from Europe, ultimately resulting in the final release of XXXX Bitter Ale in 1924 to great acclaim and which remains today.
-
-At the same time, XXXX introduced "Mr Fourex". The symbol, still recognised today, was that of a sharply dressed, yellow boater hat‑wearing gentleman.
-
-Leitner remained with Castlemaine as their Head Brewer throughout the 1920s continuing to improve all aspects of production. Despite his sudden death in 1931, his creation still remains one of the best known brands in Queensland. Leitner was survived by his wife Alma, their three daughters and a son.  
-
-![Fourex beer advertisement by Castlemaine Perkins Ltd., 1920](../assets/mr-fourex-1920.jpg){ width="18.35%" } ![Staff and vehicles of Castlemaine Perkins Limited outside the brewery in Milton Road, Brisbane, ca. 1929](../assets/castlemaine-perkins-brewery-1929.jpg){ width="77%" } 
-
-*<small>[Fourex beer advertisement by Castlemaine Perkins Ltd., 1920](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218510830002061) - State Library of Queensland. </small>* <br>
-*<small>[Staff and vehicles of Castlemaine Perkins Limited outside the brewery in Milton Road, Brisbane, ca. 1929](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218338890002061) - State Library of Queensland. </small>*
-
-<!--
-‘[Ashgrove Time Capsule](https://www.househistories.org/ashgrove-time-capsule)’, House and Suburban Histories from South East Queensland
--->
-
-## William Robert Black <small>(8‑43‑33/34)</small> 
-
-1859‑1930
-
-Born in Northern Ireland in 1859, [William Robert Black](https://adb.anu.edu.au/biography/black-william-robert-5254/text8853) reportedly arrived in Australia as a refugee as a result of potato famine. Moving to Brisbane, he made his living delivering coal to houses by handcart and later, horse and cart. Black continued to expand his work until he owned a fleet of six launches and 20 lighter, delivering coal using the Brisbane and Bremer River systems. During this time and as a result of his success, he also purchased 700 acres of coal deposits at Bundamba in Ipswich, where he established the Blackheath Colliery, complete with electric haulage and advanced machinery where he broke all state records in the cutting and haulage of coal. Other collieries soon followed at Walloon and another in the centre of Ipswich. 
-
-After his retirement 1920, Black sought to share his wealth, contributing through a number of philanthropic ventures including the establishment of Fairholme College in Toowoomba, Scots College in Warwick, Brisbane Boys’ College Council, Somerville House Council, and founding Emmanuel College at the University of Queensland, St Lucia. As a particularly religious man, he saw his contribution to these religious schools as ensuring the link between religion and education. This continued until his death in 1930 when his estate was left in trust for the Presbyterian Church in Queensland. William Black never married.  
-
-![William Robert Black, ca. 1898](../assets/william-robert-black-1898.jpg){ width="35.2%" } ![William Robert Black, ca. 1931](../assets/william-robert-black-1931.jpg){ width="55%" } 
-
-*<small>[William Robert Black, ca. 1898](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218186840002061) - State Library of Queensland. </small>* <br>
-*<small>[William Robert Black](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_digitool195043), ca. 1931 - State Library of Queensland. </small>*
 
 ???+ directions "Directions" 
 
     Enter the Orthodox section of the cemetery, signified by the many Orthodox crosses. Almost at the end of this section, turn left down the row and walk down the hill under the trees to find the white headstone of Ataman Tolstoff.
 
-## Ataman Vladimir Tolstoff <small>(8‑64‑8)</small> 
 
-1882‑1956
- 
-Members of the Russian community had often looked to Australia as a place of safety during times of economic and political revolution. The revolution in 1917, however brought cause for concern when it was thought more radical refugees were arriving. This caused the Australian Government to declare an embargo on Russian emigrants from 1917‑1922. When this embargo was lifted in 1922 it gave rise to one of the largest influxes of Russians into Queensland, their population increasing to approximately 3000 by the late 1930s.
+--8<-- "snippets/vladimir-tolstoff.md"
 
-One of them was Ataman (General) Vladimir Tolstoff, Commander of the 4^th^ Ural Cossacks during the revolution. After suffering numerous defeats at the hand of the Bolshevik forces, General Tolstoff lead what remained of his regiment and their families out of Russia and south to Persia by camel and horseback through Kazakhstan and Turkmenia, eventually fleeing across the border into China. Pooling their money, the General arranged for the purchase of a block of farmland in Thornlands, just outside Brisbane and in November 1923 he brought 57 Ural Cossacks, together with other men, women and children with him to Brisbane. The Russian community settled across Queensland during this time working on cotton and dairy farms and even the mines in Mount Isa. Some of the descendants of the group led by General Tolstoff still remain farming vegetables, strawberries and flowers in Ormiston and Cleveland today.   
-
-As a result of the work of immigrants like those led by General Tolstoff, it is believed more than 10,000 people of Russian descent are currently living in Queensland making valuable contributions to the state. This is further evidenced around Toowong Cemetery where you can see many graves painted with Russian blue containing Cossacks from the Revolution.
-
-<!--
-Kravchenko, M., 2010. ‘History of the Russian Community in Queensland and in Brisbane
---> 
 
 ???+ directions "Directions" 
 
     Coming back to the road and across to the opposite side, at the edge of the road is white walled monument of Christy Freeleagus.
 
 
-## Christy Freeleagus <small>(18‑187‑21)</small> 
-
-1889‑1957
-
-[Christy Kosmas Freeleagus](https://adb.anu.edu.au/biography/freeleagus-christy-kosmas-6243/text10747) was born Christos Frilingos on the island of Kythira, Greece. Inspired by stories of sailors, he moved with his older brother Peter to Sydney in 1901 before moving on to Brisbane where they established a small restaurant. Soon after they opened the Paris Café in Queen Street and the Astoria Café in Edward Street. Christy’s remaining eight brothers arrived over the next decade and in 1911 the family established Fresh Food and Ice Company Limited. Until his death, Freeleagus remained Managing Director of what became one of the state's biggest wholesale and retail food chains, providing the first employment over the years for hundreds of Greek migrants.
-
-Freeleagus was passionate about his homeland and worked continuously to make his Greek heritage better known and respected among Australians. As a result, Freeleagus was appointed Greek Consul‑General, the first of that rank any country had appointed. 
-
-Despite his involvement in the Greek Military and service during the Greek‑Turkish War, Freeleagus continued to urge migration to Australia, and on 22 May 1922 delivered a lecture on Australia to the Athens Literary Society, a copy of which is held in the National Library of Greece. In Australia however, his patriotism for his country never ceased and after the Italian attack on Greece during World War II, he led a number of funding appeals, leading to the highly successful Greek Day on 19 November 1941. For this work he was awarded the Silver Cross of George I. He later received the Gold Cross in 1951. Freeleagus continued this type of fundraising for his community at home in Greece throughout his life and an appeal for victims of the 1953 earthquake in western Greece raised the largest amount of money ever sent from Australia for its time.
-
-Members of the Greek community continued to arrive in Queensland and with support and encouragement from Freeleagus began moving outside Brisbane. As a result, strong Greek communities were formed in Biloela and Home Hill during the 1920s and 1930s. A high‑ranking freemason, Freeleagus helped found the Royal Automobile Club of Queensland and became a leader of the Chamber of Commerce. 
-
-When Freeleagus died of a heart attack on 16 May 1957, he had successfully founded the first Greek Association and his prominence in the religious and political life of the Greek community was evident through his community’s large attendance at his funeral.
-
-
-![Christy Freeleagus, wearing the Greek army uniform, ca. 1922](../assets/christy-freeleagus-1922.jpg){ width="30%" } 
-
-*<small>[Christy Freeleagus, wearing the Greek army uniform, ca. 1922](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21220374280002061) - State Library of Queensland. </small>* 
+--8<-- "snippets/christy-freeleagus.md"
 
 
 ???+ directions "Directions" 
@@ -287,13 +178,9 @@ When Freeleagus died of a heart attack on 16 May 1957, he had successfully found
 
     Continuing further along the road, almost to the Richer Street entrance, immediately off the right is the white vaulted monument of Anthony Fatseas.
 
-## Anthony Fatseas <small>(18‑191‑13E)</small> 
 
-1909‑1961
+--8<-- "snippets/anthony-fatseas.md"
 
-The grave of husband and wife, Anthony and Catherine Fatseas is highlighted during this walk for his burial in what looks like a small Greek Mausoleum, the same shape and colour of the chapels found in the Greek Islands. While it looks like a mausoleum, those buried here are underground rather than within the mausoleum walls.  
-
-Anthony Fatseas was born in Smyrna in Turkey in 1909. He finished elementary school in Turkey and moved to Athens, Greece with his parents and studied at the French School there. He completed his compulsory military service translating French and became an accountant, later moving to Egypt.  He arrived in Australia in 1947 and worked for a year on the editorial staff of an ethnic newspaper and then worked in cafes and as a clerk. Finally, he became a partner in a delicatessen business. 
 
 ???+ directions "Directions" 
 
@@ -303,7 +190,7 @@ Anthony Fatseas was born in Smyrna in Turkey in 1909. He finished elementary sch
 
 ## Frederic Charles Urquhart <small>(25‑31‑8)</small>
 
-1858‑1935
+<!-- 1858‑1935  -->
 
 [Frederic Charles Urquhart](https://adb.anu.edu.au/biography/urquhart-frederic-charles-8901/text15637) was reputedly an accomplished horseman who, after moving from England, joined the Queensland Native Mounted Police Force on 27 April 1882 as a cadet and installed as sub‑inspector in charge of the Gulf, Cape York and Torres Strait districts. He later transferred in 1889 to the general police. During his service he was known for his involvement in the search for survivors from the ill‑fated Quetta in Torres Strait in 1890 and the bush verse he wrote, which included Camp Canzonettes (1891) and Blood Stains (1919).
 
