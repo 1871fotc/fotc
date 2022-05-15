@@ -3,6 +3,8 @@ title: Find a Grave at Toowong Cemetery
 description: How to find graves in Toowong Cemetery
 ---
 
+--8<-- "snippets/sem/research/find-a-grave.json"
+
 # Find a Grave at Toowong Cemetery
 
 ## Portions, Sections and Graves
