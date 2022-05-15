@@ -63,7 +63,8 @@
           "isAccessibleForFree": true,
           "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 06:00-18:00",
           "tourBookingPage": "https://1871fotc.github.io/fotc/guided-tours/"
-        }
+        },
+      "image": ["https://https://1871fotc.github.io/fotc/assets/logo/fotc-1x1.png", "https://1871fotc.github.io/fotc/assets/logo/fotc-banner-4x3.png", "https://1871fotc.github.io/fotc/assets/images/social/history.png"]
     }
   ]
 }
