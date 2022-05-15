@@ -1,6 +1,6 @@
 ---
 title: Stories and Walks
-description: Stories and walks to discover the people remembered in Toowong Cemetery
+description: Walks and stories to discover the people remembered in Toowong Cemetery
 search:
   boost: 2
 ---
@@ -9,9 +9,7 @@ search:
 
 --8<-- "snippets/hide-nav.html"
 
-
-
-# Toowong Cemetery Stories and Walks
+# Toowong Cemetery Stories and Walks 
 
 The Friends of Toowong Cemetery have published **[over 500 individual stories](../research/find-a-story.md)** about people remembered at the cemetery. 
 
@@ -36,7 +34,7 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 ## Political stories
 
 - **[The Federation walk][federation-walk]** :fontawesome-solid-person-walking: - commemorating four Queensland delegates to the 1891 National Australasian Convention
-- **[Governors][governors-past]** - some of Queensland's earliest Governors (1868 to 1919) are buried in Toowong Cemetery
+- **[Governors][governors-past]** - stories about some of Queensland's earliest Governors (1868 to 1919) 
 - **[Brisbane Mayors][brisbane-mayors]** - 14 Brisbane Mayors (1859 to 1931) are buried in Toowong Cemetery
 - **[One Adult, One Vote][suffrage]** - Queensland's own suffrage story 
 - **[Labor Luminaries][labor-luminaries]** - recognising people involved in the Labor movement 
@@ -48,7 +46,6 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 - **[Notable Women][notable-women]** - Women who shaped Queensland
 - **[Toowong Identities][toowong-identities-1]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903 
 - **[More Toowong Identities][toowong-identities-2]** - commemorating the Centenary of the Proclamation of the Town of Toowong in 1903
-- **[The Convicts][convicts]** - connections to our convict past
  
 
 ## Stories by Profession
@@ -87,6 +84,7 @@ Stories marked with :fontawesome-solid-person-walking: are **self-guided walks**
 
 - **[Steam](steam.md)** - stories about our steam-driven past
 - **[Building Brisbane][brisbane-open-house]** - recalling the builders of early Brisbane
+- **[Convicts][convicts]** - connections to our convict past
 - **[Erected by Friends and Family](erected-by-friends.md)** 
 - **[Christmas](christmas.md)** 
 - **[At the mercy of the weather](weather.md)** 
