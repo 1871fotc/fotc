@@ -6,6 +6,9 @@ hide:
   - navigation
 ---
 
+--8<-- "snippets/sem/research/lilian-cooper.json"
+
+
 # Lilian Violet Cooper
 
 **11 August 1861 — 18 August 1947**
