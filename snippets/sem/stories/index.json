@@ -38,7 +38,9 @@
       "about": {
           "@id": "https://1871fotc.github.io/fotc/#/schema/place/1"
         },
-      "author": {"@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"}
+      "author": {
+          "@id": "https://1871fotc.github.io/fotc/#/schema/organization/1"
+        }
     }
   ]
 }
