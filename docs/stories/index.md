@@ -19,7 +19,6 @@ Individual stories have been grouped into **over 40 themed story collections** b
 
 *<small>[State Library of Queensland's reading room, Brisbane, 1902](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21298102690002061) - State Library of Queensland. Cropped.</small>*
 
-
 ## Self-guided walks 
 
 Stories marked with :fontawesome-solid-person-walking: are **self-guided walks** with maps and directions. 
