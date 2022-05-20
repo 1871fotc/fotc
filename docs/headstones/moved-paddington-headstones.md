@@ -30,7 +30,7 @@ By 1907 there were calls to turn the neglected burial grounds into a park and sp
 
 *<small>[Paddington Cemeteries Plans](https://www.brisbane.qld.gov.au/sites/default/files/Cemeteries_Visiting_our_Cemeteries_Plans_showing_the_old_Paddington_Cemeteries_and_the_present_reserves.pdf) from Appendix 8 in Volume 2 of the 1914 Parliamentary papers.</small>*
 
-## Paddington Cemetery Remains and Headstones moved to Toowong Cemetery
+## Paddington Cemetery Remains and Headstones moved to Toowong Cemetery { data-search-exclude }
 
 The table below lists the 139 human remains and 106[^1] headstones were moved from Paddington Cemetery to Toowong Cemetery.
 

@@ -1,7 +1,5 @@
 ---
 description: A list of people mentioned in our self-guided walks and links to their stories 
-search:
-  exclude: true
 ---
 
 --8<-- "snippets/sem/research/find-a-story.json"
@@ -31,7 +29,7 @@ search:
         - Learn more about **[finding graves at Toowong Cemetery](../research/find-a-grave.md)**.
 -->
 
-## Find a story
+## Find a story { data-search-exclude }
 
 --8<-- "snippets/story-index-table.html"
 
