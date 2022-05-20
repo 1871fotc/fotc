@@ -1,6 +1,8 @@
 ---
 title: Find a Grave at Toowong Cemetery
 description: How to find graves in Toowong Cemetery
+search:
+  - boost: 2
 ---
 
 --8<-- "snippets/sem/research/find-a-grave.json"
@@ -21,7 +23,7 @@ See if you can locate Peter Jackson's grave using the Portion and Section number
 <!-- Map links -->
 [map]: ../assets/toowong-cemetery-map-alt.jpg "Click the map to expand. Use Back to return to this page."
 
-There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Each Section can contain up to 40 graves and the graves are often in two rows within the section. 
+There are 34 Portions in the cemetery, numbered 1 to 30 and also 2A, 7A, 15A, 29A. Each Section can contain up to 80 graves and the graves are usually in two rows within the section. 
 
 Portion numbers are shown on signs throughout the cemetery.
 
