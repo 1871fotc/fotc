@@ -5,3 +5,4 @@ Disallow: /source-images/*
 Disallow: /snippets/*
 Disallow: /assets/calendar/*
 Disallow: /overrides/*
+Disallow: /portion-book/*
