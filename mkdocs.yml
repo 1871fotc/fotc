@@ -50,7 +50,7 @@ theme:
     - navigation.tracking
     - navigation.top
     - navigation.tabs
-#    - navigation.tabs.sticky
+    - navigation.tabs.sticky
     - navigation.indexes
     - search.highlight
     - search.suggest
