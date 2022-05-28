@@ -10,10 +10,7 @@ hide:
 
 --8<-- "snippets/daniel-george-bloomfield.md"
 
-
-## The Hon. Hereward Humfy Henchman <small>(5‑101‑18/19)</small>
-
-The Hon. H.H. Henchman (1874-1939), barrister and Judge, was the third son of William Henchman, a foundry proprietor and his wife Jane Mcllwraith (née Wallace). He arrived in Rockhampton with his family as a young child in 1878. He was the first judge of the Queensland Supreme Court to hold a university degree in law.
+--8<-- "snippets/hereward-humfy-henchman.md"
 
 ## The Harding Family <small>(5‑101‑30)</small>
 
@@ -45,7 +42,6 @@ John Henry Flower (1852- 1918) was a senior partner in the long established law 
 Irish-born Edward Vincent Pollock (1851-1911) was attached to the Admiralty branch of the British Civil Service. Later he and his wife Elizabeth migrated to Queensland arriving in Mackay in 1884. In 1889 he became Staff Paymaster-in-Charge and Secretary to Senior Naval Officer, Queensland Naval Defence Force and Fleet Paymaster and Secretary to the Naval Commandant of the Commonwealth Naval Force on 2 February 1904.
 
 ![Edward Vincent Pollock's headstone](../assets/anchor.jpg) 
-
 
 --8<-- "snippets/richard-william-curtis.md"
 
