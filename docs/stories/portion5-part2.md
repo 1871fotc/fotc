@@ -8,14 +8,7 @@ hide:
 
 # Stories from Portion 5 (part 2)  
 
-
-## Daniel George Bloomfield <small>(5‑101‑11)</small>
-
-Daniel Bloomfield (1858-1915) was, for many years, a well known bandmaster and popular cornet soloist in Brisbane. His in career in music began at the age of ten as a drummer in the Royal Marines in England. He settled in Brisbane in 1883 and soon became deeply involved in the local music scene as a performer and conducting various local bands, including the Naval Brigade Band, for many years. 
-
-![Daniel George Bloomfield](../assets/david-bloomfield.jpg){ width="40%" }  
-
-*<small>[D. G. Bloomfield](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21218822040002061) — State Library of Queensland.</small>*
+--8<-- "snippets/daniel-george-bloomfield.md"
 
 
 ## The Hon. Hereward Humfy Henchman <small>(5‑101‑18/19)</small>
@@ -45,13 +38,7 @@ Brisbane-born [Adolph Feez](https://adb.anu.edu.au/biography/feez-adolph-frederi
 
 John Henry Flower (1852- 1918) was a senior partner in the long established law firm of Flower & Hart. He was born in Port Fairy, Victoria but educated in England where he studied law. In 1886 he married Dora Kirk in Victoria. Their hilltop home at Windsor is now [heritage-listed](https://apps.des.qld.gov.au/heritage-register/detail/?id=600351).
 
-## John Arthur Macartney <small>(5‑62‑16)</small>
-
-John Arthur Macartney (1834-1917) was the eldest son of the Very Rev Hussey Burgh Macartney, the First Dean of Melbourne and his wife Jane (née Hardman). He studied law but resigned after 18 months to take up his first station property in Victoria. Over time he owned 25 stations and other properties in Qld and NT. He died at his home, [Ormiston House](https://ormistonhouse.org.au/the-house/) near Cleveland.
-
-![Captain Louis Hope's residence, Ormiston House, Cleveland district, ca.1871](../assets/ormiston-house.jpg) 
-
-*<small>[Captain Louis Hope's residence, Ormiston House, Cleveland district, ca.1871](http://onesearch.slq.qld.gov.au/permalink/f/1upgmng/slq_alma21249909850002061) — State Library of Queensland. Cropped. </small>*
+--8<-- "snippets/john-arthur-macartney.md"
 
 ## Edward Vincent Pollock <small>(5‑62‑12)</small>
 
@@ -66,9 +53,7 @@ Irish-born Edward Vincent Pollock (1851-1911) was attached to the Admiralty bran
 
 [Richard Langler Drew](https://adb.anu.edu.au/biography/drew-richard-langler-13302) (1823-1869) served with the Royal Navy before migrating from England to Victoria with his wife [Ann](https://adb.anu.edu.au/biography/drew-ann-anne-12893) c 1858. In 1861 they [moved to Brisbane](https://trove.nla.gov.au/newspaper/article/50044315) where he was appointed shipping master and secretary to the Marine Board. He donated land in Curlew Street Toowong overlooking the Burns Road cutting, for the first Church of St Thomas the Apostle, and was one of its original trustees.
 
-## William Atwell <small>(5‑38‑17)</small>
-
-[William Atwell](https://trove.nla.gov.au/newspaper/article/175911907) (1843-1913) began work as an excavator in railway construction in England and came to Queensland to work for the contractor constructing the railway line over the Main Range to Toowoomba. He joined the Queensland Railways Department in 1867 and eventually rose to the position of Chief Inspector of Railways.
+--8<-- "snippets/william-atwell.md"
 
 ## Acknowledgements
 
