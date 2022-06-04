@@ -136,7 +136,7 @@ Some cemetery road names have recently been changed to the names of notable peop
 
 !!! question "Volunteer - report a damaged sign"
 
-    Unfortunately signs are often vandalised in the cemetery. If you find a damaged sign, please take a photo and **[report damaged signs to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)**
+    Unfortunately signs are often vandalised in the cemetery. If you find a damaged sign, please take a photo and **[report damaged signs to the Brisbane City Council](https://ofpm.brisbane.qld.gov.au/site/wss/form/report-it-traffic-signs)**
 
 ### Toowong Cemetery Portion and Section Map 
 
