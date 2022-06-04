@@ -33,7 +33,7 @@ Portion numbers are shown on signs throughout the cemetery.
 
 !!! question "Volunteer - report a damaged sign"
 
-    Unfortunately Portion signs are often vandalised in the cemetery. **[Report damaged signs to the Brisbane City Council](https://forms.brisbane.qld.gov.au/report-it-missing-damaged-or-faded-traffic-signs)** by sharing a photo of the damage.
+    Unfortunately Portion signs are often vandalised in the cemetery. **[Report damaged signs to the Brisbane City Council](https://ofpm.brisbane.qld.gov.au/site/wss/form/report-it-traffic-signs)** by sharing a photo of the damage.
 
 ## Search for a grave
 
