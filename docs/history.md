@@ -12,11 +12,11 @@ description: Discover the history of Toowong Cemetery
 
 ## Traditional Owners
 
-Prior to 1875, the flat area where the entrance of Toowong Cemetery now stands was an [Aboriginal Corroboree Ground][Corroboree]. "Toowong" is a corruption of "[Tu-wong][tu-wong]", purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3)). 
+Prior to 1875, the flat area where the entrance of Toowong Cemetery now stands was an [Aboriginal Corroboree Ground][Corroboree]. "Toowong" is a corruption of "[Tu-wong][tu-wong]", purportedly the aboriginal name for the river bend near the Indooroopilly Bridge, named for a local bird (probably the [Koel](https://ebird.org/species/asikoe3 "See the Pacific Koel entry on eBird")). 
 
 [Corroboree]: https://mappingbrisbanehistory.com.au/history-location/toowong-cemetery-aboriginal-corroboree-ground-232/ 
 
-[tu-wong]: http://www.toowong.org.au/books_for_sale.htm "From 'Aboriginal people of Toowong' by Arthur Beau Palmer, in 'Toowong: A community's history' by West Toowong Community Association Inc."
+[tu-wong]: http://www.toowong.org.au/books_for_sale.htm "From 'Aboriginal people of Toowong' by Arthur Beau Palmer, <br>in 'Toowong: A community's history' by West Toowong Community Association Inc."
 
 ## 1866 Toowong Cemetery land reserved
 
@@ -25,9 +25,9 @@ The land for the cemetery was first reserved in 1866. The reserve of 250 acres 1
 [gazette-93]: assets/documents/Queensland_Gov_Gazette_8_October_1870_v11_93.pdf "Read the Queensland Government Gazetter No. 93"
 [gazette-94]: assets/documents/Queensland_Gov_Gazette_10_October_1870_v11_94.pdf "Read the Queensland Government Gazetter No. 94"
 
-[![Map showing Toowong Cemetery Reservation, ca. 1861](assets/toowong-cemetery-reservation-map-1861-alt.webp)](assets/toowong-cemetery-reservation-map-1861-alt.webp)
+[![Map showing Toowong Cemetery Reservation, ca. 1861](assets/toowong-cemetery-reservation-map-1861-alt.webp)](assets/toowong-cemetery-reservation-map-1861-alt.webp "click to expand")
 
-*<small>[City of Brisbane, County of Stanley, showing Toowong Cemetery Reservation; being sheet 1b of a 20 chain grid series. 20 chains to the inch. Survey Office, Brisbane.](https://www.archivessearch.qld.gov.au/items/ITM634480), ca. 1861 — Queensland State Archives. Cropped, Annotation added.*</small>
+*<small>[City of Brisbane, County of Stanley, showing Toowong Cemetery Reservation; being sheet 1b of a 20 chain grid series. 20 chains to the inch. Survey Office, Brisbane.](https://www.archivessearch.qld.gov.au/items/ITM634480), ca. 1861 — Queensland State Archives. Cropped.*</small>
 
 ## 1871 Governor Blackall buried
 

@@ -74,7 +74,7 @@ If you're walking, in addition to the entries above, you can enter via:
 If you're using public transport to get here, use the **[TransLink Journey Planner](https://jp.translink.com.au/plan-your-journey/journey-planner)** to plan your trip. Be aware some results tell you to walk across the road at the Toowong roundabout - this is not safe and you may need to walk a long way to find a safe place to cross Milton Road or the Western Freeway. Options are: 
 
 - cross Milton Road at its intersection with Morley Street
-- cross the Western Freeway using the **[Canon Garland Overpass](https://garlandmemorial.com/2019/10/09/canon-garland-overpass/)**, a bike and walking bridge accessed from Anzac Park
+- cross the Western Freeway using the **[Canon Garland Overpass](https://garlandmemorial.com/2022/06/03/canon-garland-overpass/)**, a bike and walking bridge accessed from Anzac Park
 - choose a bus that avoids the need to cross major roads (e.g. Routes **[471](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/)**, **[598](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/598)**, **[599](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/599)**)
 
 ## When you arrive
@@ -167,7 +167,7 @@ Combine your visit to Toowong Cemetery with a visit to other nearby attractions:
     - [Sir Thomas Brisbane Planetarium](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/sir-thomas-brisbane-planetarium) 
     - [Australian Plant Communities](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/brisbane-botanic-gardens-mt-coot-tha/attractions/australian-plant-communities)
 - [Mt Coot-tha Lookout](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-attractions/mt-coot-tha-lookout) - catch the [471 bus](https://jp.translink.com.au/plan-your-journey/timetables/bus/t/471/outbound/) from the Mt Coot-tha Botanic Gardens
-- [Anzac Park](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/parks-by-suburb/toowong-parks) a long walk via the Mt Coot-tha Botanic Gardens, then across [Canon Garland Overpass](https://garlandmemorial.com/2019/10/09/canon-garland-overpass/) into Anzac Park
+- [Anzac Park](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/parks/parks-by-suburb/toowong-parks) a long walk via the Mt Coot-tha Botanic Gardens, then across [Canon Garland Overpass](https://garlandmemorial.com/2022/06/03/canon-garland-overpass/) into Anzac Park
 - [Mt Coot-tha Reserve](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-reserve) - drive to picnic areas, bush walks, or mountain bike riding. J. C. Slaughter Falls and Simpson Falls are our favourites
 - [Mt Coot-tha Events](https://www.brisbane.qld.gov.au/things-to-see-and-do/council-venues-and-precincts/mt-coot-tha-precinct/mt-coot-tha-precinct-events) - there's always something happening around Mt Coot-tha
 

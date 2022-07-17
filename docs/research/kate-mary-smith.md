@@ -15,4 +15,4 @@ hide:
 
 ### Learn more 
 
-- [Tinker Tailor Soldier… Funeral Director?](https://kmsmith.com.au/tinker-tailor-soldier-funeral-director/) - K.M. Smith
+- [Tinker Tailor Soldier… Funeral Director?](https://kmsmith.com.au/our-services/our-family-history/tinker-tailor-soldier-funeral-director/) - K.M. Smith
